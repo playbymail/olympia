@@ -13,7 +13,7 @@ endif ()
 
 # Engine-specific flags for legacy K&R C code
 set(G1_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch -Wno-int-conversion -Wno-deprecated-non-prototype)
-set(G2_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch)
+set(G2_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch -Wno-int-conversion -Wno-deprecated-non-prototype)
 set(G3_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch)
 
 # ------------------------------------------------------------------------------
@@ -36,6 +36,26 @@ add_executable(shuffle-g1
 )
 target_include_directories(shuffle-g1 PRIVATE g1/mapgen/)
 target_compile_options(shuffle-g1 PRIVATE ${G1_C_FLAGS})
+
+# ------------------------------------------------------------------------------
+# G1 oly (main game engine)
+# ------------------------------------------------------------------------------
+add_executable(oly-g1
+        g1/src/add.c g1/src/adv.c g1/src/alchem.c g1/src/art.c g1/src/basic.c
+        g1/src/beast.c g1/src/build.c g1/src/buy.c g1/src/check.c g1/src/c1.c
+        g1/src/c2.c g1/src/cloud.c g1/src/code.c g1/src/combat.c g1/src/day.c
+        g1/src/dir.c g1/src/display.c g1/src/eat.c g1/src/faery.c g1/src/garr.c
+        g1/src/gate.c g1/src/glob.c g1/src/gm.c g1/src/hades.c g1/src/immed.c
+        g1/src/input.c g1/src/io.c g1/src/loc.c g1/src/lore.c g1/src/main.c
+        g1/src/make.c g1/src/move.c g1/src/necro.c g1/src/npc.c g1/src/order.c
+        g1/src/perm.c g1/src/produce.c g1/src/quest.c g1/src/relig.c
+        g1/src/report.c g1/src/savage.c g1/src/scry.c g1/src/seed.c
+        g1/src/sout.c g1/src/stack.c g1/src/stealth.c g1/src/storm.c
+        g1/src/summary.c g1/src/swear.c g1/src/u.c g1/src/use.c g1/src/z.c
+)
+target_include_directories(oly-g1 PRIVATE g1/src/)
+target_compile_options(oly-g1 PRIVATE ${G1_C_FLAGS})
+target_compile_definitions(oly-g1 PRIVATE NEW_TRADE)
 
 # ------------------------------------------------------------------------------
 # G1 cmd utilities
@@ -127,6 +147,27 @@ target_include_directories(j-g2 PRIVATE g2/mapgen/)
 target_compile_options(j-g2 PRIVATE ${G2_C_FLAGS})
 
 # ------------------------------------------------------------------------------
+# G2 oly (main game engine)
+# ------------------------------------------------------------------------------
+add_executable(oly-g2
+        g2/src/add.c g2/src/adv.c g2/src/alchem.c g2/src/art.c g2/src/basic.c
+        g2/src/beast.c g2/src/build.c g2/src/buy.c g2/src/check.c g2/src/c1.c
+        g2/src/c2.c g2/src/cloud.c g2/src/code.c g2/src/combat.c g2/src/day.c
+        g2/src/dir.c g2/src/display.c g2/src/eat.c g2/src/faery.c g2/src/garr.c
+        g2/src/gate.c g2/src/glob.c g2/src/gm.c g2/src/hades.c g2/src/immed.c
+        g2/src/input.c g2/src/io.c g2/src/loc.c g2/src/lore.c g2/src/main.c
+        g2/src/make.c g2/src/move.c g2/src/necro.c g2/src/npc.c g2/src/order.c
+        g2/src/perm.c g2/src/produce.c g2/src/quest.c g2/src/relig.c
+        g2/src/report.c g2/src/rnd.c g2/src/savage.c g2/src/scry.c g2/src/seed.c
+        g2/src/sout.c g2/src/stack.c g2/src/stealth.c g2/src/storm.c
+        g2/src/summary.c g2/src/swear.c g2/src/tunnel.c g2/src/u.c g2/src/use.c
+        g2/src/z.c
+)
+target_include_directories(oly-g2 PRIVATE g2/src/)
+target_compile_options(oly-g2 PRIVATE ${G2_C_FLAGS})
+target_compile_definitions(oly-g2 PRIVATE NEW_TRADE)
+
+# ------------------------------------------------------------------------------
 # G2 cmd utilities
 # ------------------------------------------------------------------------------
 add_executable(acct-g2 g2/cmd/acct.c)
@@ -201,22 +242,3 @@ add_executable(island-g3
 target_include_directories(island-g3 PRIVATE g3/mapgen/)
 target_compile_options(island-g3 PRIVATE ${G3_C_FLAGS})
 
-# ------------------------------------------------------------------------------
-# G1 oly (main game engine)
-# ------------------------------------------------------------------------------
-add_executable(oly-g1
-        g1/src/add.c g1/src/adv.c g1/src/alchem.c g1/src/art.c g1/src/basic.c
-        g1/src/beast.c g1/src/build.c g1/src/buy.c g1/src/check.c g1/src/c1.c
-        g1/src/c2.c g1/src/cloud.c g1/src/code.c g1/src/combat.c g1/src/day.c
-        g1/src/dir.c g1/src/display.c g1/src/eat.c g1/src/faery.c g1/src/garr.c
-        g1/src/gate.c g1/src/glob.c g1/src/gm.c g1/src/hades.c g1/src/immed.c
-        g1/src/input.c g1/src/io.c g1/src/loc.c g1/src/lore.c g1/src/main.c
-        g1/src/make.c g1/src/move.c g1/src/necro.c g1/src/npc.c g1/src/order.c
-        g1/src/perm.c g1/src/produce.c g1/src/quest.c g1/src/relig.c
-        g1/src/report.c g1/src/savage.c g1/src/scry.c g1/src/seed.c
-        g1/src/sout.c g1/src/stack.c g1/src/stealth.c g1/src/storm.c
-        g1/src/summary.c g1/src/swear.c g1/src/u.c g1/src/use.c g1/src/z.c
-)
-target_include_directories(oly-g1 PRIVATE g1/src/)
-target_compile_options(oly-g1 PRIVATE ${G1_C_FLAGS})
-target_compile_definitions(oly-g1 PRIVATE NEW_TRADE)

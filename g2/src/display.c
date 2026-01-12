@@ -265,7 +265,7 @@ liner_desc_ship(int n)
 		strcat(buf, ", with ram");
 
 	if (fee = board_fee(n))
-		strcat(buf, ", %s per 100 wt. to board", gold_s(fee));
+		strcat(buf, sout(", %s per 100 wt. to board", gold_s(fee)));
 
 	return sout("%s", buf);
 }
