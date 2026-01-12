@@ -252,3 +252,46 @@ add_executable(island-g3
 target_include_directories(island-g3 PRIVATE g3/mapgen/)
 target_compile_options(island-g3 PRIVATE ${G3_C_FLAGS})
 
+add_executable(count-g3 g3/mapgen/count.c)
+target_compile_options(count-g3 PRIVATE ${G3_C_FLAGS})
+
+add_executable(j-g3
+        g3/mapgen/j.c
+        g3/mapgen/rnd.c
+        g3/mapgen/z.c g3/mapgen/z.h
+)
+target_include_directories(j-g3 PRIVATE g3/mapgen/)
+target_compile_options(j-g3 PRIVATE ${G3_C_FLAGS})
+
+add_executable(pick-g3
+        g3/mapgen/pick.c
+        g3/mapgen/rnd.c
+        g3/mapgen/z.c g3/mapgen/z.h
+)
+target_include_directories(pick-g3 PRIVATE g3/mapgen/)
+target_compile_options(pick-g3 PRIVATE ${G3_C_FLAGS})
+
+add_executable(shuffle-g3
+        g3/mapgen/shuffle.c
+        g3/mapgen/rnd.c
+        g3/mapgen/z.c g3/mapgen/z.h
+)
+target_include_directories(shuffle-g3 PRIVATE g3/mapgen/)
+target_compile_options(shuffle-g3 PRIVATE ${G3_C_FLAGS})
+
+# WARNING: old-g3 does not compile - missing symbols (ascii_map, init_random)
+# This appears to be a G1 file that was not updated for G2/G3.
+#add_executable(old-g3
+#        g3/mapgen/old.c
+#        g3/mapgen/rnd.c
+#        g3/mapgen/z.c g3/mapgen/z.h
+#)
+#target_include_directories(old-g3 PRIVATE g3/mapgen/)
+#target_compile_options(old-g3 PRIVATE ${G3_C_FLAGS})
+
+# ------------------------------------------------------------------------------
+# G3 g2rep utilities
+# ------------------------------------------------------------------------------
+add_executable(g2rep-g3 g3/g2rep/rep.c)
+target_compile_options(g2rep-g3 PRIVATE ${G3_C_FLAGS})
+
