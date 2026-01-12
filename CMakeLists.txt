@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.2)
+cmake_minimum_required(VERSION 4.1)
 project(olympia C)
 
 set(CMAKE_C_STANDARD 90)
@@ -117,6 +117,55 @@ add_executable(pick-g2
 )
 target_include_directories(pick-g2 PRIVATE g2/mapgen/)
 target_compile_options(pick-g2 PRIVATE ${G2_C_FLAGS})
+
+# ------------------------------------------------------------------------------
+# G2 cmd utilities
+# ------------------------------------------------------------------------------
+add_executable(acct-g2 g2/cmd/acct.c)
+target_compile_options(acct-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(conv-g2 g2/cmd/conv.c)
+target_compile_options(conv-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(gen_acct_alloc-g2 g2/cmd/gen_acct_alloc.c)
+target_compile_options(gen_acct_alloc-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(healtsim-g2 g2/cmd/healtsim.c)
+target_compile_options(healtsim-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(mailsplit-g2
+        g2/cmd/mailsplit.c
+        g2/cmd/z.c g2/cmd/z.h
+)
+target_include_directories(mailsplit-g2 PRIVATE g2/cmd/)
+target_compile_options(mailsplit-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(newacct-g2 g2/cmd/newacct.c)
+target_compile_options(newacct-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(old_rep-g2 g2/cmd/old_rep.c)
+target_compile_options(old_rep-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(percent-g2 g2/cmd/percent.c)
+target_compile_options(percent-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(rep-g2 g2/cmd/rep.c)
+target_compile_options(rep-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(sim-g2 g2/cmd/sim.c)
+target_compile_options(sim-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(sim2-g2 g2/cmd/sim2.c)
+target_compile_options(sim2-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(tagacct-g2 g2/cmd/tagacct.c)
+target_compile_options(tagacct-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(u-g2 g2/cmd/u.c)
+target_compile_options(u-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(v-g2 g2/cmd/v.c)
+target_compile_options(v-g2 PRIVATE ${G2_C_FLAGS})
 
 # ------------------------------------------------------------------------------
 # G3 mapgen
