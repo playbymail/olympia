@@ -2814,7 +2814,7 @@ deduct_dead(struct fight **l_a, struct fight **l_b, int inherit)
 		    l_a[i]->nprot < 1)
 		{
 			if (l_a[i]->new_health || l_a[i]->num)
-				log(LOG_CODE, "%s lost all men, zeroed out",
+				log_output(LOG_CODE, "%s lost all men, zeroed out",
 						box_name(l_a[i]->unit));
 
 			l_a[i]->new_health = 0;
@@ -3507,7 +3507,7 @@ best_here_pos(struct fight **l, int where)
 	}
 
 	if (best == 99999)
-		log(LOG_CODE, "best_here_pos: best == 99999, day=%d, l[0]=%s",
+		log_output(LOG_CODE, "best_here_pos: best == 99999, day=%d, l[0]=%s",
 				sysclock.day, box_code_less(lead_char(l)));
 
 	return best;
@@ -3532,7 +3532,7 @@ combat_stop_movement(int who, struct fight **l)
 		wout(VECT, "Loss in battle cancels movement.");
 		restore_output_vector(tmp);
 
-		log(LOG_CODE,
+		log_output(LOG_CODE,
 			"battle interrupts sailing, who=%d, where=%d",
 			ship, subloc(who));
 		return;
@@ -3549,7 +3549,7 @@ combat_stop_movement(int who, struct fight **l)
 			restore_output_vector(tmp);
 
 #if 0
-			log(LOG_CODE,
+			log_output(LOG_CODE,
 				"battle interrupts movement, who=%d, where=%d",
 				l[i]->unit, subloc(l[i]->unit));
 #endif
@@ -3617,7 +3617,7 @@ reconcile(int winner, struct fight **l_a, struct fight **l_b)
 		demote_units(winner, l_b);
 
 		if (combat_sea)
-		    log(LOG_CODE, "sea combat unchecked NOTYET case, who=%s",
+		    log_output(LOG_CODE, "sea combat unchecked NOTYET case, who=%s",
 						box_name(winner));
 
 /*

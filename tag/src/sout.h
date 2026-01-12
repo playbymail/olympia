@@ -42,6 +42,9 @@
 extern void initialize_buffer();
 extern char *comma_append(char *s, char *t);
 extern char *sout();
+extern int out();
+extern int wout();
+extern int log_output();
 
 extern ilist out_vector;
 

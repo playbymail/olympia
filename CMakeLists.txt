@@ -318,3 +318,28 @@ target_include_directories(olympia-g3 PRIVATE g3/olympia/)
 target_compile_options(olympia-g3 PRIVATE ${G3_C_FLAGS})
 target_compile_definitions(olympia-g3 PRIVATE NEW_TRADE)
 
+# ------------------------------------------------------------------------------
+# TAG oly (Olympia: The Age of Gods - main game engine)
+# ------------------------------------------------------------------------------
+set(TAG_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch -Wno-int-conversion -Wno-deprecated-non-prototype)
+
+add_executable(olympia-tag
+        tag/src/add.c tag/src/adv.c tag/src/alchem.c tag/src/art.c tag/src/artifacts.c
+        tag/src/basic.c tag/src/beast.c tag/src/build.c tag/src/buy.c tag/src/c1.c
+        tag/src/c2.c tag/src/check.c tag/src/cloud.c tag/src/code.c tag/src/combat.c
+        tag/src/day.c tag/src/dir.c tag/src/display.c tag/src/eat.c tag/src/effect.c
+        tag/src/faery.c tag/src/garr.c tag/src/gate.c tag/src/glob.c tag/src/gm.c
+        tag/src/hades.c tag/src/hero.c tag/src/immed.c tag/src/input.c tag/src/io.c
+        tag/src/kill.c tag/src/loc.c tag/src/lore.c tag/src/main.c tag/src/make.c
+        tag/src/map.c tag/src/mining.c tag/src/move.c tag/src/necro.c tag/src/npc.c
+        tag/src/order.c tag/src/perm.c tag/src/produce.c tag/src/quest.c tag/src/ranger.c
+        tag/src/relig.c tag/src/report.c tag/src/savage.c tag/src/scry.c tag/src/seed.c
+        tag/src/shipcraft.c tag/src/sout.c tag/src/stack.c tag/src/stealth.c tag/src/storm.c
+        tag/src/summary.c tag/src/swear.c tag/src/times.c tag/src/trading.c tag/src/u.c
+        tag/src/use.c tag/src/win.c tag/src/z.c
+)
+target_include_directories(olympia-tag PRIVATE tag/src/)
+target_compile_options(olympia-tag PRIVATE ${TAG_C_FLAGS})
+target_compile_definitions(olympia-tag PRIVATE NEW_TRADE)
+target_link_libraries(olympia-tag PRIVATE m)
+

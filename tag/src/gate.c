@@ -1,8 +1,8 @@
 
-#include	<math.h>
 #include	<stdio.h>
 #include	"z.h"
 #include	"oly.h"
+#include	<math.h>
 
 
 

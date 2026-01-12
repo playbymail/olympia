@@ -1,10 +1,10 @@
 
 #include	<stdio.h>
+#include	<string.h>
 #include	<sys/types.h>
 #include	<dirent.h>
 #include	"z.h"
 #include	"oly.h"
-#include 	"string.h"
 
 #define		MAX_ERR		50
 

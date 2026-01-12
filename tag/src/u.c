@@ -1876,10 +1876,10 @@ find_nearest_land(int where)
       }
 
     if (try_two == 99)
-      log(LOG_CODE, "find_nearest_land: Plan B");
+      log_output(LOG_CODE, "find_nearest_land: Plan B");
   }
 
-  log(LOG_CODE, "find_nearest_land: Plan C");
+  log_output(LOG_CODE, "find_nearest_land: Plan C");
 
   {
     ilist l = NULL;
