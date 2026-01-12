@@ -27,6 +27,16 @@ target_include_directories(mapgen-g1 PRIVATE g1/mapgen/)
 target_compile_options(mapgen-g1 PRIVATE ${G1_C_FLAGS})
 target_compile_definitions(mapgen-g1 PRIVATE NEW_TRADE)
 
+add_executable(shuffle-g1
+        g1/mapgen/shuffle.c
+        g1/mapgen/z.c g1/mapgen/z.h
+)
+target_include_directories(shuffle-g1 PRIVATE g1/mapgen/)
+target_compile_options(shuffle-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(count-g1 g1/mapgen/count.c)
+target_compile_options(count-g1 PRIVATE ${G1_C_FLAGS})
+
 # ------------------------------------------------------------------------------
 # G2 mapgen
 # ------------------------------------------------------------------------------
