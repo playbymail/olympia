@@ -14,7 +14,7 @@ endif ()
 # Engine-specific flags for legacy K&R C code
 set(G1_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch -Wno-int-conversion -Wno-deprecated-non-prototype)
 set(G2_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch -Wno-int-conversion -Wno-deprecated-non-prototype)
-set(G3_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch)
+set(G3_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatch -Wno-incompatible-function-pointer-types -Wno-int-conversion)
 
 # ------------------------------------------------------------------------------
 # G1 mapgen
@@ -294,4 +294,27 @@ target_compile_options(shuffle-g3 PRIVATE ${G3_C_FLAGS})
 # ------------------------------------------------------------------------------
 add_executable(g2rep-g3 g3/g2rep/rep.c)
 target_compile_options(g2rep-g3 PRIVATE ${G3_C_FLAGS})
+
+# ------------------------------------------------------------------------------
+# G3 olympia (main game engine)
+# ------------------------------------------------------------------------------
+add_executable(olympia-g3
+        g3/olympia/add.c g3/olympia/adv.c g3/olympia/alchem.c g3/olympia/art.c
+        g3/olympia/basic.c g3/olympia/beast.c g3/olympia/build.c g3/olympia/buy.c
+        g3/olympia/c1.c g3/olympia/c2.c g3/olympia/check.c g3/olympia/cloud.c
+        g3/olympia/code.c g3/olympia/combat.c g3/olympia/day.c g3/olympia/dir.c
+        g3/olympia/display.c g3/olympia/eat.c g3/olympia/faery.c g3/olympia/garr.c
+        g3/olympia/gate.c g3/olympia/glob.c g3/olympia/gm.c g3/olympia/hades.c
+        g3/olympia/immed.c g3/olympia/input.c g3/olympia/io.c g3/olympia/loc.c
+        g3/olympia/lore.c g3/olympia/main.c g3/olympia/make.c g3/olympia/move.c
+        g3/olympia/necro.c g3/olympia/npc.c g3/olympia/order.c g3/olympia/perm.c
+        g3/olympia/produce.c g3/olympia/pw.c g3/olympia/quest.c g3/olympia/relig.c
+        g3/olympia/report.c g3/olympia/rnd.c g3/olympia/savage.c g3/olympia/scry.c
+        g3/olympia/seed.c g3/olympia/sout.c g3/olympia/stack.c g3/olympia/stealth.c
+        g3/olympia/storm.c g3/olympia/summary.c g3/olympia/swear.c g3/olympia/tunnel.c
+        g3/olympia/u.c g3/olympia/use.c g3/olympia/z.c
+)
+target_include_directories(olympia-g3 PRIVATE g3/olympia/)
+target_compile_options(olympia-g3 PRIVATE ${G3_C_FLAGS})
+target_compile_definitions(olympia-g3 PRIVATE NEW_TRADE)
 

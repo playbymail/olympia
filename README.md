@@ -30,3 +30,10 @@ Links to the original files are provided below:
 | G2      | https://www.pbm.com/oly/olympia.tgz     |
 | G3      | https://github.com/olympiag3/olympiag3  |
 | TAG     | https://www.pbm.com/oly/olympia-tag.tgz |
+
+## Contributors
+
+- **Rich Skrenta** - Original Olympia game design and implementation
+- **Scott Turner** - Olympia: The Age of Gods variant
+- **Michael D Henderson** - CMake build system, modernization
+- **Amp** (https://ampcode.com) - AI pair programmer, CMake build integration

@@ -71,11 +71,34 @@ After a successful build, the executables are in the `build/` directory:
 ls build/
 ```
 
-You should see:
-- `mapgen-g1` - Map generator for Olympia G1
-- `mapgen-g2` - Map generator for Olympia G2
-- `mapgen-g3` - Map generator for Olympia G3
-- `island-g3` - Island generator for G3
+You should see executables for each engine variant:
+
+**G1 (Olympia G1 - Original):**
+- `oly-g1` - Main game engine
+- `mapgen-g1`, `count-g1`, `shuffle-g1` - Map utilities
+- `acct-g1`, `mailsplit-g1`, `sim-g1`, etc. - Admin utilities
+
+**G2 (Olympia G2 - Enhanced):**
+- `oly-g2` - Main game engine
+- `mapgen-g2`, `count-g2`, `shuffle-g2`, `pick-g2`, `j-g2` - Map utilities
+- `acct-g2`, `mailsplit-g2`, `sim-g2`, `rep-g2`, etc. - Admin utilities
+
+**G3 (Olympia G3):**
+- `olympia-g3` - Main game engine
+- `mapgen-g3`, `count-g3`, `shuffle-g3`, `pick-g3`, `j-g3`, `island-g3` - Map utilities
+- `g2rep-g3` - Report utility
+
+## Build Status
+
+The CMake build compiles all classic command-line utilities from G1, G2, and G3. However:
+
+- **Compilation verified, runtime not guaranteed.** These builds compile successfully but have not been tested for correct runtime behavior. The original engines expected specific directory structures, data files, and environment configurations that may not be documented.
+
+- **Legacy code warnings.** The codebase uses K&R C conventions and relies on compiler flags to suppress errors that would otherwise fail on modern compilers (implicit function declarations, int-to-pointer conversions, etc.).
+
+- **No test suite.** There are no automated tests. If you make changes, manual testing against known-good game data is recommended.
+
+- **TAG variant not yet included.** The `tag/` directory (Olympia: The Age of Gods) is not yet integrated into the CMake build
 
 ## Common Problems and Solutions
 
