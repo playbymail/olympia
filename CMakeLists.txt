@@ -146,6 +146,16 @@ add_executable(j-g2
 target_include_directories(j-g2 PRIVATE g2/mapgen/)
 target_compile_options(j-g2 PRIVATE ${G2_C_FLAGS})
 
+# WARNING: mapgen-old-g2 does not compile - missing symbols (ascii_map, init_random)
+# This appears to be a G1 file that was not updated for G2.
+#add_executable(mapgen-old-g2
+#        g2/mapgen/old.c
+#        g2/mapgen/rnd.c
+#        g2/mapgen/z.c g2/mapgen/z.h
+#)
+#target_include_directories(mapgen-old-g2 PRIVATE g2/mapgen/)
+#target_compile_options(mapgen-old-g2 PRIVATE ${G2_C_FLAGS})
+
 # ------------------------------------------------------------------------------
 # G2 oly (main game engine)
 # ------------------------------------------------------------------------------
