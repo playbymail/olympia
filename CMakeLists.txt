@@ -75,6 +75,19 @@ add_executable(v-g1 g1/cmd/v.c)
 target_compile_options(v-g1 PRIVATE ${G1_C_FLAGS})
 
 # ------------------------------------------------------------------------------
+# G1 doc utilities
+# ------------------------------------------------------------------------------
+add_executable(toc-g1 g1/doc/toc.c)
+target_compile_options(toc-g1 PRIVATE ${G1_C_FLAGS})
+
+# ------------------------------------------------------------------------------
+# G1 test utilities
+# ------------------------------------------------------------------------------
+add_executable(test-prng-g1 g1/src/z.c)
+target_compile_options(test-prng-g1 PRIVATE ${G1_C_FLAGS})
+target_compile_definitions(test-prng-g1 PRIVATE DRIVER)
+
+# ------------------------------------------------------------------------------
 # G2 mapgen
 # ------------------------------------------------------------------------------
 add_executable(mapgen-g2
