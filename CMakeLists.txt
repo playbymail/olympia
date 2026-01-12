@@ -38,6 +38,43 @@ add_executable(count-g1 g1/mapgen/count.c)
 target_compile_options(count-g1 PRIVATE ${G1_C_FLAGS})
 
 # ------------------------------------------------------------------------------
+# G1 cmd utilities
+# ------------------------------------------------------------------------------
+add_executable(acct-g1 g1/cmd/acct.c)
+target_compile_options(acct-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(conv-g1 g1/cmd/conv.c)
+target_compile_options(conv-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(gen_acct_alloc-g1 g1/cmd/gen_acct_alloc.c)
+target_compile_options(gen_acct_alloc-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(healtsim-g1 g1/cmd/healtsim.c)
+target_compile_options(healtsim-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(mailsplit-g1
+        g1/cmd/mailsplit.c
+        g1/cmd/z.c g1/cmd/z.h
+)
+target_include_directories(mailsplit-g1 PRIVATE g1/cmd/)
+target_compile_options(mailsplit-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(percent-g1 g1/cmd/percent.c)
+target_compile_options(percent-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(sim-g1 g1/cmd/sim.c)
+target_compile_options(sim-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(sim2-g1 g1/cmd/sim2.c)
+target_compile_options(sim2-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(u-g1 g1/cmd/u.c)
+target_compile_options(u-g1 PRIVATE ${G1_C_FLAGS})
+
+add_executable(v-g1 g1/cmd/v.c)
+target_compile_options(v-g1 PRIVATE ${G1_C_FLAGS})
+
+# ------------------------------------------------------------------------------
 # G2 mapgen
 # ------------------------------------------------------------------------------
 add_executable(mapgen-g2
