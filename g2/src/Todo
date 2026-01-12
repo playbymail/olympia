@@ -1,0 +1,1430 @@
+"build monument"
+
+remove doc forget order
+
+Delete item_orb from source and db; orbs are unique
+
+Include hades combat monster table in list of monsters table.
+
+Make somewhere where it is always raining, foggy, etc.
+
+	Isle of Fog
+	Rainlands
+	Coldwind mountains
+
+Weather magic:
+	Notify other weather mages in region when a storm is
+		created
+	Make noticing storms implicit
+
+Safe havens count as 2 civ instead of 1.  keep this?  change it to what?
+should starter cities have a higher civ contribution?
+
+
+
+Required for startup:
+---------------------
+
+1.	New entity coding system
+
+2.	Characters belonging to new players should be invisible for
+	the first five turns, unless they perform a prominent action.
+
+	"A new faction cannot be seen by other players for 5 turns unless it
+	 interacts with another unit.  Upon interaction, the unit initiating
+	 the interaction becomes visible to other units in the area.  At the
+	 end of 5 turns, all units in the new faction become visible.
+	 Interaction includes combat, trading, or any other action that
+	 involves another unit."
+
+3.	Character vaporize on player quit
+
+4.	Create a new ascii map and update the map generator
+	a.  subloc seeding moves into the engine
+	b.  cluster like kinds of locations together for naming purposes
+
+5.	How to choose the starting city?  An entry on the startup form?
+	Just one starting city?
+
+6.	Distribution of initial skills
+	(all starter cities should be port cities)
+
+	120    Shipcraft		any port city
+	121    Combat			any city
+	122    Stealth			common city
+	123    Beastmastery		rare city
+	124    Persuasion		rare city
+	125    Construction		common city
+	126    Alchemy			rare city
+	128    Forestry			city in forest region
+	129    Mining			city in mountain
+	150    Religion			temple
+	160    Magic			starter city
+	161    Weather magic		Cloudlands
+	162    Scrying			rare city (Faery?)
+	163    Gatecraft		rare city
+	164    Artifact construction	auraculum
+	165    Necromancy		rare city (Hades?) (City of the Dead)
+
+
+	Notes:  Scrying would then become the "elven magic".  Perhaps
+		move banish undead there.
+
+		Would have to make City of the Dead as the center loc
+		in Hades.  Perhaps get rid of the hidden links.  Don't
+		let Hades monsters go in there.
+
+7.  Fix tradegoods again
+	at least one rare produce, consume for each region
+	bigger qty's of tradegoods, especially high weight ones
+	add leather to sell list (buy list?) in a few plains cities
+
+8.  Fix artifact construction
+
+
+Would be nice to have:
+----------------------
+
+1a.	Add some research skills to each category
+1b.	Research outside of a tower
+
+	120    Shipcraft		port city or ship
+	121    Combat			tower or castle
+	122    Stealth			city
+	123    Beastmastery		wilderness province
+	124    Persuasion		city
+	125    Construction		city
+	126    Alchemy			tower
+	128    Forestry			forest
+	129    Mining			mine
+	150    Religion			temple
+	160    Magic			tower
+	161    Weather magic		tower
+	162    Scrying			tower
+	163    Gatecraft		tower
+	164    Artifact construction	tower
+	165    Necromancy		tower
+
+
+2.	CACHE command
+
+3.	Catch flying horses in the cloudlands
+
+4.	Implement advanced sorcery
+
+5a.	Lore delivery for locations
+
+5b.	Uldim Pass / Summerbridge
+
+	Uldim Pass receives heavy snows in winter, closing
+	it to travel.  During the winter months there is
+	no passable route between Antresk and Mt. Uldim.
+	During the spring season of Snowmelt Uldim Pass
+	again becomes open for passage.
+
+	Snows begin falling on Uldim Pass during the month
+	of Waning days.  Travelers caught in Uldim Pass when
+	it closes will be trapped there until spring.
+
+
+	The lands of Summerbridge receive heavy seasonal rains
+	beginning in the fall, making them unpassable.  From
+	fall through spring the lands of Aethelarn and Caburh
+	in the south are cut off from East and West Urvil in
+	the north.  Only when the heat of summer comes do the
+	swamps dry enough to permit passage.
+
+	Travelers caught in Summerbridge when the rains begin
+	in the first month of fall will find themselves trapped
+	in the swamps until the following summer.
+
+
+10.	Epic fantasy plot
+
+10a.	Lore skill
+	Researching lore yields a lore sheet describing a legend
+	Don't get a legend if it's already happened
+	Others are classified to the age which they might happen
+
+10b.	Legend/plot system
+
+	0.	Other legends
+
+
+	1.	Age One -- The Emperor is Crowned
+
+	1a.	A king must build a citadel in Areth Pirn
+	1b.	The new emperor gets Crown, Sceptre and Chalic
+	1c.	Emperor cannot be defeated in battle while he holds his
+		three relics.
+	1d.	Also gets some imperial troops
+
+
+	2.	Age Two -- Rise of the Dark Overlord
+
+	2a.	Must journey to Hades, defeat spirit of the ancient
+		wizard Fel-methizar to obtain the Book of Secrets.
+		Only a necromancer can defeat him.  Must solve riddles.
+	2b.	Book of Secrets has a spell which creates the evil
+	        artifact "The Chain".  Requires 10 mithril.  Must be
+		forged in the circle of stones on Mt. Olympus.
+	2c.	Chain can defeat the emperor
+	2d.	Chain grants control of legion of orc and undead units.
+
+
+	3.	Age Three -- Fall of the Emperor
+	?.	King of Hades guards the Sceptre of the Dead in Hades
+
+
+Auto-attack ships: seize_slot or not?
+
+
+Remove ability to name regions from rules
+
+Make artifact for getting into hades; add lore for it
+
+Collapse HOSTILE NEUTRAL DEFEND DEFAULT into DECLARE
+
+(9.  better attitude system?
+
+	declare who {hostile unfriendly defend admit stack give} )
+
+Oly times gets birds eye view of Imperial city, and some turn report stuff
+
+Put wandering monsters into their own faction
+
+How to not get angry peasants from the other side?  Maybe one shouldn't
+pick up the men as booty?
+
+Curse noncreator loyalty is commented out
+
+New skills to add:
+
+	Make leather			[beastmastery, crafts, leatherworking]
+	Steal gold from character	[stealth]
+	Steal item from character	[stealth]
+	Assasinate character		[stealth]  city only?
+	Kidnap character		[stealth]
+	Rescue prisoner			[stealth]
+	Follow character		[stealth]
+	GUARD-type command?  WATCH?
+
+	Street performing		[???]
+
+Storms should damage Ships
+
+1.  make bogs in plains; same stuff as swamps
+
+1.  random lucky bonuses
+
+	While studying X, %s came across ...
+	While researching X, %s came across ...
+		found a rare book about ZZ
+		discovered <new unrelated skill>
+		accidentally made <rare artifact>
+	find raft with some sailors on it
+
+1.  Ability to hide a structure or sublocation so only an explore could find it.
+
+1.  Need more (non-essential) things to spend money on
+
+	expensive spell ingredients at market
+	band of mercenaries
+	    HIRE <unit> <gold>
+		highest bidder at end of turn gets the unit to stack with it
+	    mercenaries deduct gold until UNSTACKED or unit can't pay anymore
+	    dissolve/disband on unstack?
+	    perhaps mercanaries don't appear in garrisoned/castle/civ cities
+
+	    Mercenary band [523], with 12 soldiers, 3 elite guard, for hire
+	    Mercenary [523], soldiers, number: 12, for hire
+
+	    unit goes indep -> 50% chance men split and become mercenary unit
+
+	mercenaries pillage 1 and wander when not employed
+
+	ruler of the mercenaries artifact (!!?)
+	mercenary player
+
+	how do they come into existence?
+	men who desert join local mercenary band
+
+	merc program:
+		in a city?
+			if (50%)
+				do nothing
+			else
+				move out
+				pillage
+				50% enter city again
+		city here?
+			yes, 50% enter, 50% wander
+			no, wander
+
+	replenish merc's when not hired (in cities?)
+	create up to n merc's at start of turn
+
+	if men desert and unhired_mercenary_here then add men to merc unit
+
+
+1.  Wandering monsters should attack garrisons
+
+1.  auto routine for NPC type things:  heavy_drop()
+	make sure unit doesn't carry around a lot of crap
+
+1.  Show the top rated characters somehow  Hall of Lords
+
+1.  Faery hills and graveyards require separate view so that you
+    can see the multiple exits.
+
+1.  Require artifact to enter hades
+
+1.  bring back advanced sorcery
+
+1.  Split construction into stone building, wood building
+
+	Stone building
+	Wood building
+	Improve castle walls
+	Add crenellations to castle
+	Dig moat for castle
+	Add drawbridge to castle
+	Add wooden gate to castle
+	Add iron gate to castle
+	Add iron porticullis to castle
+	Build inner stone keep for castle
+
+2.  Advanced castle design
+
+	improve walls
+	dig moat
+	add crenellations
+	add drawbridge
+	add iron porticulus
+	add iron gate
+	build inner stone keep
+
+	missile: crenelations, walls
+	other:   moat drawbridge portcullis gate walls
+
+	Castle Blood [xd87], defense 32: walls 4, moat, crenellations,
+	drawbridge, stone keep, iron portcullis, iron gate
+
+1.  mining idea
+	Expand mine -- creates underground sublocs
+	tunnel <dir> command?
+
+1.  destroy_auraculum assert's false
+    curse noncreator loyalty doesn't work either
+
+2.  Remove experience stuff from spell writing!
+
+3.  Stealth is weak.  Implement monty's skill.
+
+4.  Artifact construction is weak
+
+6.  There is no way to get some of the required items
+
+7.  better entity allocator, coding scheme; current one is too slow,
+    too few entities
+
+8.  make the Staff of Hades artifact, required to enter
+
+10.  Remove expierence?  Or fix it.
+	abil scry detection practice then has no purpose!
+
+Nearest grave computation is wrong (hal@ll.mit.edu)
+
+My only grumble is that I was enjoying mapping out the gate system.
+Sonce my gate explorer got slaughtered by wilderness baddies, I've explored
+little. What's the best way to explore gates? Anyone got any suggestions
+on how many guards are needed for safety, and whether a noble with
+gatecraft (only) could shift their weight through a gate?
+
+I'd still like an 'evasion' subskill of stealth I could teach my explorers.
+
+
+
+Must create more of this kind of feeling:
+
+  "--gate crystal-- Just found a gate crystal!!! Now that is a really nice
+   idea, having a very small chance of finding very rare items when mining.
+   Kind of makes up for all that poisonous gas and cave ins my miners have
+   endured. Are the hooks for this gate crystal in place yet? I haven't seen
+   anything about it in any of the skill sheets. If there is any docs on what
+   a gate crystal is meant to do, I'd love to see them, but it would be even
+   better if there was some way to find rumors in Olympia through explore or
+   some such. Then there would be a few nobles who had heard of gate crystals,
+   there would be others who knew what they did, and still others who had them
+   and had to figure out how to use them. The beginning of a quest system.
+   Actually, maybe my artifact noble will be helpful. Anyway this is a very
+   nice touch."
+
+Ideas:
+     o	Quest system:  approach players every 8-16 turns, deliver them
+	into a unique chained quest.  One of these quests active per player
+	at a time.
+
+	Perhaps give a unique map to a character.  USEing map in target
+	province generates the subloc.
+
+	Old man gives rare artifact.  Must be used to defeat beast...
+
+     o	Rescue char from monster who then vanishes case:
+
+		before vanishing, char gives over another (chained)
+		mystery (artifact, whatever)
+
+
+Make a 'city' keyword like 'garrison'
+Perhaps do this with all subkinds?
+
+	city tower garrison etc.
+
+add default attitudes
+
+
+next:  modify quest to maintain levels
+
+	in seed_subloc_with_monster
+	decide what level the monster is to be
+	if > 1 then
+		look for a free artifact of level l-1
+		to require
+
+figure out how to work in the rituals
+need tech: how to combine items in a ritual
+implement ritual code
+
+perhaps make a new player for the subloc monsters
+indep_player is getting pretty big
+perhaps consider a no-report flag for the subloc player
+
+have the initial monster seeder do this
+
+tailor monsters more to their sublocs
+use savages, others too
+
+
+modify locate to use scry_show_where
+get rid of artifact construction
+
+
+
+add subloc monster/quest seeder
+
+implement garrison command
+
+subloc/monster seeder:
+	create 0-2 sublocs in each province
+	seed with a monster
+
+monster seed:
+	choose one of the appropriate beasts
+	choice:
+		0.  no treasure
+		1.  some gold
+		2.  indep prisoner swear-on-release
+		3.  artifact
+
+artifact create:
+	1.  some kind of bonus
+	2.  require artifact to defeat some monster
+	3.  pair or tri artifact in ritual
+
+
+monster_seed(level):
+	choose appropriate level monster
+
+	then:
+		0. no treasure
+		1. some gold
+		2. a quantity of a rare tradegood
+		3. indep prisoner swear-on-release
+		4. artifact
+			a.  member of a ritual group
+			b.  required to defeat a monster
+
+	and:
+		0. nothing
+		1. choose level-1 artifact necessary to defeat
+
+
+artifact benefit:
+	1.  bonus to attack/defense/missile/aura
+	2.  no-sick
+	3.  undead wipe out
+	4.  elfstone
+
+artifact purpose
+	1.  required to defeat monster
+	2.  member of ritual group
+
+
+attack/defense/missile/aura/no-sick boost for items
+(monster, item) pair such that monster can only be defeated with item
+special prisoner flag:  prisoner swears to noble on release
+
+	seed_artifact(art, level)
+
+	select ready sublocs
+	seed hardcoded artifacts
+
+	while sublocs remain
+		choose a level
+		art = make_artifact(level);
+		seed_artifact(art, level);
+
+
+
+seed every loc with some production sublocs
+review list of goodies; make sure they can all be found somewhere
+
+Put all non-research skills into rules
+
+Locate artifact:	(char too?)
+	region only if you're not in the region
+	province if you're not in the province
+	who
+Check that reveal vision works the same
+
+
+add enough lumber to build a galley to the claim list?
+
+COLLECT until have a certain number
+
+replace cookie system with list of summoned units
+
+arrival/departure message: show departure when the unit really moves...
+
+Have riding horses be sold in some cities
+
+Knights and elite guards used to have the "animal" flag set, so their
+horses would get bogged down in the swamps.  However, this caused them
+to show up as being usable by beastmasters in battle.
+
+
+Claim stone on a ship could sink it
+
+Kidnap, rescue prisoner, steal item, steal gold
+
+Combat should yield extra loot
+	swords and warhorses from dead knights
+	pikes from pikemen
+	residual gold from unspent maintenance
+
+Rethink the whole load_q/run_q business.  It seems horribly complex.
+
+[look in ../design/Idea]
+
+Implement random monster attacks in wilderness
+Give some treasures to Faery hunt, ghost things
+
+1.  Write elven magic category lore sheet
+2.  Write some elven magic spells
+
+6.  No building in Faery or Hades
+7.  Faery Hunt warning bug
+
+
+add eat check routine for each command to check sanity of arguments
+	johns flag check
+
+Documentation:  group commands into admin, other
+
+
+Turn off stupid tag shit
+Must give appropriate codes to new entities; they can't be referenced
+Delete XXX code in faery init
+1.  Need names changed this turn section
+2.  Document TAG
+3.  Document entity tags, naming system in general
+
+
+
+heuristic for newly formed nobles, savages, etc.
+fold into set_name?
+
+tag command
+auto heuristic tagging on set_name?  Would interfere with TAG
+How can TAG be used to set another unit's tag...?
+NAME
+SET n NAME ...
+SET n TAG ...
+
+remove redundant prov_dest from entity_misc, seed.c
+move banner into entity_misc
+
+stealth:  steal gold from character
+
+Extend hidden mechanism for location:
+	hidden -1: 	anyone can find
+	hidden -2:	no-one can find -- only one who has already found it
+	hidden n:	only n can find
+	Must have check to clean up lost n case:
+		no longer T_char, change to -1
+
+Make explore_event code
+
+	generate monster
+	attacks player
+	2 possible outcomes:
+		1.  player wounded, some men lost, ejected from subloc
+		2.  player wins, beast killed
+	if victorious, a reward:
+		some gold
+		rescued new units joins player's faction & stacks (only once)
+		given an artifact
+		artifact may be hook to another adventure:
+			a map
+			father of beast is now mad (?)
+			rescued unit makes request (?)
+
+QUEST command
+
+HUNT command
+	hunt [beast]
+		search subloc for them
+		attack
+		fail, eject from subloc
+		win, make beasts items
+
+Religion
+	Pray to god?
+	Consecrate temple (to god)
+	Wrath of the gods (Summon wrath)
+	May not know combat (?)
+
+Beastmastery
+	capture beasts in battle, or explore turns them up?
+
+Stealth
+	Steal gold from character
+		magic purse -- made with alchemy -- cries out when theived
+	Doc that all stealth skills are done alone
+
+
+Artifacts:
+	map -- shows how to get into a certain place in a province
+	book -- learn rare skill
+	100% use rings: horse catching, fishing
+	banish undead artifact -- a golden glow suffuses the province
+	Scepter of the Dead
+		Gives graveyard views, survey of graveyards
+
+			use <item> <loc>		??
+			gives report of that grave.
+		or
+			use <item> <loc>
+			causes undead nasties to rise there, if cookie
+
+Scrolls suck
+	Religion -- make Holy runes [] only able to write it
+	Separate cateogry for each magical skill
+	Alchem writes all others
+	remove one-shot use -- only one-shot learn
+
+
+What's this magic_known thing?  Either get rid of it,
+	or have forget decrement aura,
+	or use it in summary.c
+
+Close trade items may be too profitable.
+	there should be at least a few provinces distance between them
+
+make a subkind chain
+or perhaps convert threads to be ilists instead
+	faster?
+	loop_city, loop_province, etc.
+
+civ/wild plan
+
+
+Build road
+	requires workers only
+	50% chance of decay each turn -- 6-12%
+	admit
+	fee, willpay
+
+Give first skill learned by a noble in zero time,
+	or give first n skills learned by a faction in zero time
+
+2.  What to do about swear/form FT's.
+	leadership
+	optional flag
+	default visible?
+
+5.  Explore enhancements
+	generate npc's
+	generate treasure
+		rare artifact
+		book teaching skill
+		gold
+		character who joins faction
+
+Issues:
+	explore generates npc's in some places
+		find rare artifact
+		artifact to banish all undead in a province
+	refund NP's when a character dies
+	perhaps swear downgrades from oath to contract
+	allow swear?
+	loy_check in unit_deserts is now unused
+	stealth
+	weather effects on ships
+		boost sail time
+		storm at sea
+	fold savage summoning into common cookie code
+
+Generalize game parameter to oly engine
+	for email return addresses
+	perhaps put it in the system file
+
+Do all subloc seeding in engine
+	at least one graveyard each region
+		nearest graveyard field
+	new city seeding
+
+	nearest everything field?  Can los or otherwise compute distance (?)
+
+1.  Beast breeding
+	combat attack vs. beasts should snag the beasts into the inventory
+	or should that be a separate skill?
+
+	what about Form beasts into unit?
+
+Combat
+	Capture wild beasts in battle
+
+Beastmastery
+	Use animals in combat
+
+	(don't include animal fighters unless true)
+	set animal flag for all animals, (including winged horses?)
+
+HUNT command?  Or Capture wild beasts in battle?
+
+animals should have a chance of dying in batttle, even if they
+aren't in the combat.  perhaps make an array of them and kill off 10%.
+
+	for (i = 0; i < n; i++)
+		if (rnd(1,10) == 1)
+			kill(l[i]):
+
+Hunt for NOTYET's
+
+virtual artifacts -- when one found, make rest disappear
+
+city seeder sucks; there are large regions with no cities
+
+	instead, choose number of cities to be distributed in each region
+	then randomly place them.
+
+...will be used for city/market planning
+
+
+Allow magician to train
+
+	apprentice --- journeyman --- battle mage
+
+
+1.  Go through skill list identifying empty categories.
+2.  Accumulate list of skills we want to implement soon.
+
+5% chance of getting a Savage King, not just a savage
+	stacked with other savages
+	more men than usual
+Don't let savage king unstack his mates
+
+If savage arrives and fort is unoccupied, just take it
+	(init_savage_attacks)
+
+get "wait time n" right in pending commands list.
+Why not just use a wait > 0 delay?  Oh, the or clause junk.  Special case?
+
+don't gen any savages if # of savage nobles > 250
+don't call init attack phase if # > 100
+
+
+3.  RECLAIM command.  Simply consumes indep's.
+	must effectively do a kill_char
+	but no loyalty hit
+	kill_char must reclaim np's
+	need an np_worth function
+
+    Returns 1 NP / NP's to faction of others.
+
+must limit savage units more harshly -- but how?
+	n:1 with summoner?
+
+scale tax income to repair level of castle
+
+Limit summons to once per month per location.
+
+add capability of npc's to sail ships to npc_move()
+	selkie's delight example
+
+
+aren't enough poppy fields -- how are poppies made, anyway...
+
+Check noble attack/defense assignment in combat for npc's
+	savage, undead - same as normal noble
+	peasant - weak
+
+QUEST command
+	So-and-so of such-and-such place requests that you visit.
+	When they get there, give them special ability to see home.
+	Send on a quest.
+
+	You consult with the seer foo, who says:
+
+	A vision comes to you in the night, of:
+
+	o  Go to a far away place (specific).  Retrieve a special object.
+
+	o  So-and-so has been given the quest of finding the %s.
+	   Find it first.
+
+	o  The terrible lion/wolf/whatever has been plaguing the town
+	   of foo.  You must kill it. [only give to heroic combat people
+	   or beastmasters].
+
+Magical assistants
+	training
+	battle priests
+	req for any spells?
+
+Doc naval combat
+
+Don't allow undead form if nobles present in graveyard
+Write Undead Kingdom document sheet
+All Undead nobles should have some token possession that others may
+	get if the Undead are killed.
+
+Sea kings:
+	Inhabit port cities in forest provinces
+	Each Sea King noble has 30 sea kings accompanying
+	Sea Kings can makeloc a special kind of ship
+
+
+Combat summary:
+---------------
+
+	%s attacked by %s in %s.  We won!
+
+		booty taken:
+			...
+		prisoners taken:
+			..
+
+	%s attacked by %s in %s.  We lost!
+
+		%s taken prisoner.
+
+	%s attacked %s in %s.
+
+
+Magical scrying spells should always alert the victim of the fact
+that they're being scried.  Additional detection spells can tell
+them who is doing it.
+
+	Scry location [9141]
+	Detect location scry [9171]
+	Reveal abilities of another mage [9123]
+	Shroud abilities from scry [9169]
+	Detect ability scry [9170]	(remove the NP?)
+	Locate character [9167]
+
+	non-magician:	"The hairs on your neck prickle."
+			"You get a strange sensation, as if someone were 
+			looking at you.  When you turn around, however, no
+			one is there"
+
+	magician:	"%s has been cast on you."
+
+	detect ability:	"%s cast %s on you."
+
+
+Spell idea:
+
+	Observe Gatecraft casts
+		Will show spells cast by magicians who use gatecraft
+		magic in the same location, including jumps from other
+		locations.
+
+
+Allow attacks, interaction with visible subloc owners
+
+Undead kingdom:
+	check 'u' for undead
+	doc undead form
+	npc take_prisoners, take_unit_items
+	pillage
+	undead ship
+
+fold fuzzy find into lookup?
+
+get rid of skill exp, except for a few things like archery, swordplay
+	that can use a PRACTICE command
+	flip sense of "not rated"
+
+Make npc factions
+	sea kings
+		points for sinking ships
+	savages
+		points for wrecking things
+		points for bringing treasure to ...
+	orcs
+		points for killing people
+		no items for booty
+	realm of the undead
+
+	npc factions don't grow through NP's -- grow through (points)?
+	minimum number of units
+
+	kind of faction field
+	system - invisible, gm controlled -- indep, skill list, echo, gm player
+	regular
+	npc -- no np's
+		disallow quit, although divorce player from faction
+
+start players with up to five characters
+
+yew grove every other mountain or forest
+
+1.  REPAIR / FORTIFY
+	Document new fort defense, damage approach
+	combat: effective defense is reduced by damage
+	fortify: costs defense*100 gold per level, level worker-days
+	repair: costs: one worker-day per point (?)
+		five gold per point
+		or less for a ship?
+	make some complete tables
+
+2.  Combat skills:
+	Deal critical blow
+
+	Wire Swordplay, Archery into combat model
+	Lore sheet for Swordplay, Archery
+
+mapgen: make more gates, there's not enough
+	put some around starting cities (!)
+	should probably be bidir, or go out and back to another
+	starting city
+
+mapgen: smaller map
+	clump like terrain types into land regions
+	give each a name
+
+get rid of experience rating on skills
+
+Combat:
+	b.  Galley rams for sea combat (implement as item in galley?)
+	c.  Longer rounds to make fuzzier ties?
+
+	d.  The side with the best tactician gets a free round of attacks
+	    at the start of battle.
+
+	    If both sides have no unit skilled in Tactics, or if the
+	    tacticians are equally matched, then neither side will gain
+	    a free round of attacks.
+
+	    The best tactician for each side will be chosen, regardless of
+	    where in the stack he may be.
+
+	e.  When battling on the ocean, siege engines are not used.
+
+	    Knights and elite guard receive a -25 penalty to both their
+	    attack and defense ratings.
+
+	    If the galley is fitted with a ram, it will behave like a
+	    battering ram on land.
+
+
+"No researchable skills exist in this category"
+
+starting cities must all teach the same skills!
+
+figure out some way to *not* have to write the faction file over
+or at least make it work more safely?
+
+make a position report generator
+
+make sanity check routine for commands, to check arguments
+
+castle doubles number of recruitable men in province?
+
+3.  Document where skills are taught
+
+2.  Add ram to galley
+
+battle magic spells
+
+5.  Redo mining.  Add mining of jewels
+
+6.  More tradegoods.
+	mount: chalk or lime
+	forest with groves: walnuts
+
+7.  Requirements for magical spells
+
+8.  Declare/permit/whatever
+
+11.  Only add spell req items for non-transient spells
+
+12.  Rules: add a description for each skill category, as for magic
+
+14.  Remove skill seeding from mapgen
+
+Safe haven or city guard?
+
+Switch order of arguments
+	qty item who
+	morrow "to" idea:
+		give qty item TO who
+		buy qty item FOR cost
+
+Spotting
+
+Clean up player factions with zero units in control
+	auto drop
+	must generate report, warning for auto-drop
+	don't change to T_deleted, change to T_inactive
+	have an inactive_cleanup
+
+Mercenary units
+	MERCENARY <gold> (return -1 days, STOP'able, or unstack)
+	WORK <gold> [who]
+	HIRE <unit>
+	will auto-stack with hiring unit
+	and remain there until unstacked
+	as long as paid each month (maint costs)
+
+Perhaps assist for work tasks?
+	WORK <gold> -- jobs but no attacks?
+
+Make a dragon
+	subkind == sub_dragon
+	needs a fly command
+	kill yields dragon teeth
+	incinerate body of dead npc's
+	each turn, if lair unoccupied and no dragon to match, put
+	an egg there
+	dragons have a home lair
+	dragon demands a sacrifice
+	dragon chases egg stealers
+
+	combat defaults for npc's
+
+	stick treasures to be found in lairs
+		add monsters to lairs, caves, bogs
+		lair = dragon lair
+		put an egg in every lair
+
+What about when a player loses all of its units?
+	death
+	swore the PC away
+
+async give / trade
+permit system
+
+buy/sell:
+	1.  trade skill?
+		gain advantage when selling
+		gain advantage when buying
+		observe market activity
+		list character's buy and sell orders
+		work through middleman on next trade
+
+	2.  Cloaking 1 and 2
+	3.  Tradegoods: ice
+
+safe havens
+	mapgen:  + for normal city, * for safe haven
+	no peasant recruiting either?
+
+Documentation:
+
+	a.  Document what happens to stackmates when movement occurs
+		put to sleep for duration of move
+		commands resume when reach destination
+		commands such as region resource commands or target
+			commands may fail
+
+Scrying
+	a?  Make scry location
+		require n aura for n hops
+		be based from farcast location
+		-- but it already has a use for extra aura
+	b.  Write find loc of artifact, based on who_has
+		requires hops aura
+
+Mapgen
+	a.  Remove skill assignment from cities?
+	b.  More cities / less cities / + cities?
+	c.  Tundra terrain?
+
+Structure damage
+	allow noble to be hurt in cave-in
+
+Misc
+	b.  Make region resource commands fail across movement
+	d.  Fix work dimish -- uses both uniq and diminish now + document
+		work + peasants generates money? (rwallace)
+	f.  Experience speed bonus for build, produce
+
+Unknown
+	c.  No stealing in an inn, safe haven
+	i.  increase study times
+
+Defensive counterbalance:
+	1.	Religion: priests risk 50% death if they ATTACK
+		Anyone attacking a priest risks 33% death (20%)
+	2. 	Battle magic
+	3.	Safe haven cities
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+non-combat melees (stealth, etc.)
+
+
+artifacts:
+	Forge teleport inhibitor (made with a gate crystal)
+	??? (remove undead from province)
+
+Choose required items
+
+Implement stealth prepare-for-raid				x
+Implement stealth char_risk_damage function
+Implement remaining stealth skills
+
+
+Ship capacities
+	don't allow travel if overloaded
+	allow travel to 2x, but have ships > 1x sink in storms
+	expand ship capacity subskill (rewrite it; research)
+
+
+Micromodel list:
+----------------
+
+gm smite command:  smite <who> <level>
+	earth opens up and swallows you
+	lightning bolt
+	giant bird plucks eyes out
+
+0.  Chance that spy attempt fails
+	guard command?
+
+2.  activity_msg	in transit / headed for ...
+	don't show unit in listing if headed toward a hidden loc
+
+0.  Grant slight speed increase to some skills based on experience
+	build, produce
+
+collect stats on # of commands run, fail
+	both cmds and skills
+
+cloudy brain causes research chances to be halved?
+
+charge structure fee on a daily basis?
+have a separate field for skill cost to learn?
+
+routines can return value instead of just TRUE.  Make a mechanism
+to catch this value.
+
+foo=....
+new=....
+give $new ...
+
+make WORK use slaves, peasants to generate money;
+maintenance costs for knights, soldiers, etc.
+
+siege engines: require man, horse?
+
+check: check that structure has a content, else remove it
+
+How does loc_owner relate to order of command execution and resource limits?
+	is the castle descended into first?
+
+make study of magic halve fight values for a noble?
+
+add ice, ice castles
+	ice melts log2(n) each week, month?  Or just one-three cubes.
+	ice castle can't be built outside of cold region
+	cold region row < n
+	ice used for something in the south
+	can't learn ice castle building through research unless in the
+	cold region
+	no starter cities in cold region
+
+dragon eggs
+	place egg in any empty <lair>
+		if total dragon+egg count < lair count
+
+	explore has 100% chance of finding unique item in a small place
+	eggs hatch in 1-2 game years
+	if egg possessed by character when it hatches,
+		50% - dragon swears to player
+		50% - dragon attacks player
+
+later
+-----
+
+Don't forget to eventually detab the lore sheets
+Spell check them too
+
+> Something you might want to put on the blue-sky list, is razing of cities.  A
+> good, if permanent way or removing a resource from an enemy.
+
+Yeah, SACK a city.  Neat.  It would have to be hard to do, and take a
+while (like all month).  Maybe I'll add it, though, it sounds fun and
+easy to code.  :-)
+
+
+
+One noble can hold any number of prisoners currently, without any
+support from other men-as-inventory or nobles.
+
+This does seem unrealistic.  Maybe there should be a chance of the
+prisoner(s) killing the noble and escaping.
+>         A suggestion on trades would be to space out production through
+> the entire month instead of having the city demand showing up on day 1.
+
+make pillage/tax work more like other region resources [jokhc]
+
+beastmaster skill:  tame savages?
+   stack with you for a while
+
+
+Weather/wind with respect to ships:
+
+   Galleys perform equally well regardless of wind conditions.  Roundships may
+   be becalmed and unable to travel.  In the presence of favorable wind they
+   will travel across ocean routes in half the rated time.
+
+email command is slow -- doesn't work on players list, box numbers
+until the next turn.
+
+Char 1 NP for all skill categories, 2 NP for some
+	force specialization
+
+
+The Great Renumbering:
+
+One:	i999	items
+	c9999	chars
+	l9999	locs
+
+	i9cx	6760 items (or * 3)
+	s9cx	6760 skills
+	c9cx	6760 chars
+
+two:
+	9xx	6760 * 3 chars
+	x9x
+	xx9
+
+innn	-> items, 10,000-10,999
+
+provinces could be < 6760
+
+	l9xx
+
+-= OR =-
+
+go to a short code system
+
+gold [gold]	peasants [peas]
+
+
+so-and-so died.  The body {went to %s, in province ...}
+			{ was eaten by fish ...}
+			{ was eaten by animals }
+%d np's relcaimed
+
+
+Split weaponsmithing into subskills, one for each thing
+	increment experience based on %age chance to create one in a day
+
+have npc hunter daemon to have a particular npc pursue a character
+
+aliagn ley lines
+tap ley aura
+evaporates at end-of-turn
+
+> add a recruiting charge
+> (equal to the maintenance cost of peasants) and to add a
+> training charge(equal to the new maint. cost - old maint. cost).
+
+lore_redirect field for objects
+	lore for crystal orb, elfstone
+	npc tokens
+
+	move_item check?
+
+require potions as components to other spells
+	slavery - summon demon
+
+
+> 3. What about a skill like "bind spirit" that would extend the time before
+> a dead noble is irretrieveably gone?
+From gl8f@fermi.clas.virginia.edu Sat Apr 16 03:07:07 1994
+Received: by candid.shadow.com; (ishmail 0.7) Sat, 16 Apr 94 03:07:07 EDT
+Received: from uu6.psi.com by uu5.psi.com (5.65b/4.0.071791-PSI/PSINet) via SMTP;
+        id AA03605 for skrenta; Sat, 16 Apr 94 01:52:51 -0400
+Received: from uvaarpa.Virginia.EDU by uu6.psi.com (5.65b/4.0.071791-PSI/PSINet) via SMTP;
+        id AA19509 for skrenta@shadow.com; Thu, 14 Apr 94 18:32:21 -0400
+Received: from fermi.clas.virginia.edu by uvaarpa.virginia.edu id aa13325;
+          14 Apr 94 18:29 EDT
+Received: by fermi.clas.Virginia.EDU (5.67a8/1.34)
+	id AA43657; Thu, 14 Apr 1994 18:29:34 -0400
+Date: Thu, 14 Apr 1994 18:29:34 -0400
+From: Greg Lindahl <gl8f@fermi.clas.virginia.edu>
+Message-Id: <199404142229.AA43657@fermi.clas.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: Rich Skrenta <skrenta@shadow.com>
+Subject: Re: Olympia status report
+Status: RO
+
+By the way, Marquis is the more normal form of spelling Marquess.
+The British corrupt many french words, and marquess is the
+literal spelling for the corrupted pronunciation, but most
+enlightened folks can pronounce Marquis correctly, especially us
+Americans who love the frogs, except when NATO is involved.
+
+> Maybe the Crown should reward
+> me for doing "barbarianish" things.  If I raze a castle, I get the power
+> to call up a barbarian horde or something.  
+
+That's a good idea.  Each crown has a rating saying how many units it
+controls.  Perhaps this rating could rise or fall based on the barbarian's
+performance.  Hmmm.
+From allan@gfx.engga.uwo.ca Tue Apr 19 07:06:37 1994
+Received: by candid.shadow.com; (ishmail 0.7) Tue, 19 Apr 94 07:06:37 EDT
+Received: from server.gfx.engga.uwo.ca by uu5.psi.com (5.65b/4.0.071791-PSI/PSINet) via SMTP;
+        id AA15249 for olympia; Tue, 19 Apr 94 03:14:14 -0400
+Message-Id: <9404190714.AA07802@gfx.engga.uwo.ca>
+Date: Tue, 19 Apr 94 03:14:15 -0400
+From: Allan Flanagan <allan@gfx.engga.uwo.ca>
+To: olympia@shadow.com
+Subject: Bug report...
+Status: RO
+
+
+It seems you have set auto attack to be transparent for ships.  1 problem,
+my ship sat in the same province all turn auto attacking an empty ship.  I
+spent the entire month doing this.   Perhaps a failed attack should
+take 0 days ALWAYS.  Perhaps I should have sunk the empty ship to put
+it out of its misery?  Have ram will travel...
+
+Allan
+
+> P.S.: I thought of a new sorcery spell driving to school today: Create Book
+> (cost: 10 aura, 10 blank scrolls, 30 days) Makes a book containing a skill
+> category known by the sorcerer.  Whatcha think?
+
+I like it.
+
+-- 
+Rich Skrenta <skrenta@pbm.com>
+
+> Heh, that wasn't at all what I was thinking of...  Can I make a scroll
+> that teaches Necromancy [165] using the Runes of Evil [9154] spell?
+> I was assuming that I couldn't.  Anyhow, if you made a sorcery spell
+> that made a book with the skill category *plus* all researched spells/
+> skills in that category that'd be really useful too.  Maybe *too* useful!
+
+Yah.  But it's nothing you can't do now, just more awkwardly.
+Requiring the big up-front investment in scrolls and such to make
+the know-it-all book doesn't seem too bad, although I might have to
+increase the aura necessary.
+
+Super-valuable artifacts aren't a problem, even player created ones,
+as long as they're very hard to make, and they attract nasties who
+want to steal it from you.
+
+-- 
+Rich Skrenta <skrenta@pbm.com>
+
+From walt@solgrp.chi.il.us  Thu Jun 23 13:43:06 1994
+Received: from kitten.mcs.com (Kitten-chibb.Mcs.Net [199.3.35.120]) by blekko.pbm.com with SMTP
+	id NAA26695 for <skrenta@pbm.com>; Thu, 23 Jun 1994 13:43:04 -0400
+Received: by kitten.mcs.com (/\==/\ Smail3.1.28.1 #28.7)
+	id <m0qGt3k-000r5MC@kitten.mcs.com>; Thu, 23 Jun 94 12:59 CDT
+Received: by mercury.mcs.com (/\==/\ Smail3.1.28.1 #28.3)
+	id <m0qGt3d-000BcoC@mercury.mcs.com>; Thu, 23 Jun 94 12:59 CDT
+Message-Id: <m0qGt3d-000BcoC@mercury.mcs.com>
+X-Sender: walt@popmail.mcs.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Thu, 23 Jun 1994 12:58:44 -0600
+To: Rich Skrenta <skrenta@pbm.com>
+From: walt@solgrp.chi.il.us (Walt Pesch)
+Subject: Re: Rules addenda and start-up info
+Status: RO
+
+>There's not a lot of science, no.  If you have some ideas along these
+>lines, feel free to propose them.  I am always open to new skill
+>categories.
+
+Hmm...  If I was going to mix technology in with magic, I would do so in a
+19th Centry style, or better yet, more fantastical, as in Jules Verne. 
+(OK, maybe i would put a hidden ciy somewhere with a crashed space probe
+with a functioning AI ;-)
+
+What I would think of adding to the game would be a new building type of
+University.  And you could have Depts. of 
+
+  - Biology/Druidicism, could be a whole complement to the Magic system
+  - Engineering (IMHO- the construction skill is sort of unfounded, you
+just don't learn engineering principles in seven days).  In game terms,
+would effect percetages:  how long to build, chance to a mine collapsing,
+etc.  Special skill of tunnelling to collapse castle walls.
+  - Minerology - increase yields of mining.  Advanced skill of smelting if
+you want to introduce more advanced metals which leads to better weapons.
+  - Literature - steering public opinion???  (If you ever played Midgard,
+there was the idea that you carried a "reputation" with you, good, bad, or
+unknown)  It could also affect recruiting.
+  - Commerce - percentage affecting your buy/sell price and quantity.
+
+Hmm...  where I seem to be leading is a way to get a skill that alters the
+percentages of "yield" of other skills by having an educations.
+
+Whatcha think?
+
+
+
+   Walt Pesch
+   walt@solgrp.chi.il.us
+
+
+From Russell.Wallace@cs.tcd.ie  Thu Jul 28 11:54:04 1994
+Received: from ashe.cs.tcd.ie (ashe.cs.tcd.ie [134.226.32.17]) by blekko.pbm.com with SMTP
+	id LAA10818 for <skrenta@pbm.com>; Thu, 28 Jul 1994 11:53:52 -0400
+Message-Id: <199407281553.LAA10818@blekko.pbm.com>
+Received: from cs.tcd.ie by ashe.cs.tcd.ie id <02635-0@ashe.cs.tcd.ie>;
+          Thu, 28 Jul 1994 17:19:11 +0000
+To: skrenta@pbm.com
+Subject: Rules question
+Date: Thu, 28 Jul 1994 17:19:11 +0000
+From: Russell Wallace <Russell.Wallace@cs.tcd.ie>
+Sender: Russell.Wallace@cs.tcd.ie
+Status: RO
+
+I need clarification on the issue of in what situations COLLECT commands
+can be issued from within sublocations.  The rules state that peasants
+can't be recruited from anywhere except within a city; I presume
+fish can be collected from within the sublocation of a ship; other than
+that it doesn't say.  In particular, can I QUARRY from within
+a castle-in-progress?
+
+(You might also want to put more details on this into the rulebook for
+the benefit of other players.)
+
+Thanks,
+
+- Russell
+

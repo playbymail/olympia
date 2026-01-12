@@ -1,0 +1,225 @@
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+92453:seek
+5124:give 2879 55
+5124:get 2879 55 2
+5124:breed 55 55
+5124:give 2879 55
+5124:get 2879 55 2
+5124:breed 55 55
+5124:give 2879 55
+5124:get 2879 55 2
+5124:breed 55 55
+5124:give 2879 55
+5124:get 2879 55 2
+5124:breed 55 55
+5124:give 2879 55
+5124:get 2879 55 2
+5124:breed 55 55
+5124:give 2879 55
+4240:give 2879 55
+4240:get 2879 55 2
+4240:breed 55 55
+4240:give 2879 55
+4240:get 2879 55 2
+4240:breed 55 55
+4240:give 2879 55
+4240:get 2879 55 2
+4240:breed 55 55
+4240:give 2879 55
+4240:get 2879 55 2
+4240:breed 55 55
+4240:give 2879 55
+4240:get 2879 55 2
+4240:breed 55 55
+4240:give 2879 55
+4240:get 2879 55 2
+4240:breed 55 55
+4240:give 2879 55
+4240:get 2879 55 2
+4240:breed 55 55
+5055:give 2879 55
+5055:get 2879 55 2
+5055:breed 55 55
+5055:give 2879 55
+5055:get 2879 55 2
+5055:breed 55 55
+5055:give 2879 55
+5055:get 2879 55 2
+5055:breed 55 55
+5055:give 2879 55
+5055:get 2879 55 2
+5055:breed 55 55
+5055:give 2879 55
+5055:get 2879 55 2
+5055:breed 55 55
+5055:give 2879 55
+5055:get 2879 55 2
+5055:breed 55 55
+78150:give 2879 55
+78150:get 2879 55 2
+78150:breed 55 55
+78150:give 2879 55
+78150:get 2879 55 2
+78150:breed 55 55
+78150:give 2879 55
+78150:get 2879 55 2
+78150:breed 55 55
+78150:give 2879 55
+78150:get 2879 55 2
+78150:breed 55 55
+78150:give 2879 55
+78150:get 2879 55 2
+78150:breed 55 55
+78150:give 2879 55
+78150:get 2879 55 2
+78150:breed 55 55
+4333:give 2879 55
+4333:get 2879 55 2
+4333:breed 55 55
+4333:give 2879 55
+4333:get 2879 55 2
+4333:breed 55 55
+4333:give 2879 55
+4333:get 2879 55 2
+4333:breed 55 55
+4333:give 2879 55
+4333:get 2879 55 2
+4333:breed 55 55
+4333:give 2879 55
+4333:get 2879 55 2
+4333:breed 55 55
+4333:give 2879 55
+4333:get 2879 55 2
+4333:breed 55 55
+2141:yew
+2141:make 72
+2141:use 615
+2141:use 615
+2141:use 615
+2141:use 615
+2141:use 615
+2141:use 615
+2141:use 615
+77933:stop
+77933:fly e
+77933:fly e
+77933:fly s
+77933:fly s
+77933:fly s
+77933:fly s
+77933:fly s
+77933:fly s
+77933:fly s
+77933:fly s
+77933:fly s
+77933:seek
+77933:move s
+149903:stop
+149903:move e
+149903:move s
+149903:move s
+149903:move s
+149903:move s
+149903:move s
+149903:move s
+149903:move s
+149903:move s
+149903:seek
+149903:move s
+2343:fly n
+2343:fly n
+2343:fly w
+2343:fly n
+2343:fly w
+2343:fly n
+2343:fly w
+2343:fly w
+2343:fly n
+2343:fly w
+2343:fly w
+5515:stop
+5515:attack 108186
+5515:attack 108186
+5515:attack 108186
+5515:attack 108186
+5515:execute
+5515:make 74
+5515:train 20
+5515:train 12
+5515:make 74
+5515:train 20
+5515:train 12
+5515:recruit
+2879:study 825
+2879:study 825
+2879:breed 54 54
+2879:breed 54 54
+2879:breed 54 54
+2879:study 825
+2879:study 829
+2879:breed 54 54
+2879:breed 54 54
+2879:study 829
+2879:study 829
+2879:breed 54 54
+2879:breed 54 54
+54339:accept ak8 0 
+54339:accept bs3 0 
+54339:accept ek2 0 
+54339:accept he4 0 
+54339:accept jx8 0 
+54339:accept kf2 0 
+54339:accept lp3 0 
+54339:accept mh8 0 
+54339:accept mq5 0 
+54339:accept ms1 0 
+54339:accept ns8 0 
+54339:accept qr9 0 
+54339:accept rk7 0 
+54339:accept tt7 0 
+54339:accept vk5 0 
+54339:accept wk7 0 
+54339:accept wt4 0 
+54339:accept yv5 0 
+54339:accept yz2 0 
+54339:accept zh8 0 
+3630:stop
+3630:move 130020
+3630:use 721
+3630:move out
+3630:move out
+3630:give garrison 11
+3630:move w
+3630:give garrison 79
+3630:move w
+3630:get garrison 11
+3630:move 94051
+3630:use 721
+3630:move out
+3630:give garrison 11
+3630:make 74
+8292:move out
+8292:move out
+8292:move n
+8292:give garriosn 76
+8292:move c201
+8292:sail n
+8292:sail n
+8292:sail w
+8292:sail w
+8292:sail n
+8292:sail n
+8292:sail n
+8292:sail n
+8292:sail s91
+8292:move s91

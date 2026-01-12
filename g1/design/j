@@ -1,0 +1,163 @@
+
+
+What I like:
+	Limiting training of certain men to certain kinds of buildings
+	Scaling revenue of a building by its damage percentage
+	Higher level structures getting province reports from lower level
+		structures.
+	Hierarchy of power, pledging.
+
+What I don't like:
+	The manor->castle rules are confusing.  An awful many manors are
+	needed for castles, and many precious nobles need to be dedicated
+	to the manors.
+
+	The way buildings instantly destruct when support is removed.
+
+	I'm not sure the active market idea could be made to work.
+	It seems too easy to abuse.
+
+
+
+From: William Bruvold <wbruvold@weber.ucsd.edu>
+Subject: Castles, Politics, and Game Design.
+To: design@rt.com
+Date: Thu, 18 Nov 93 12:18:43 PST
+
+Objectives:
+	To build a political system into Olymipia that will add
+	both depth to the gaming environment and add a dimnesion
+	
+	To insure some game balance so that non-military/political
+	types and newbie are not at a horrible disadvantage to
+	empire builders
+	
+	To force player interaction - both cooperative AND
+	conflictual as political units are built and expanded.
+
+Idea:
+
+Have a heirarchy of three kinds of "fortifications" that pertain to
+political organization: manor houses, Castles, and Keeps.
+
+Require each sucessive kind of fortification to be dependent upon
+construction of a number of prior units _which are pledged_ to the
+would be king. 
+
+MANOR HOUSES
+ 
+
+	Each manor house would generate 150gp each month in farming
+income (perhaps adjusted to weather effects to account for Olympian
+winters).  Thus a province could support a max of 3 manor houses for
+an income of 450gp.  
+	
+	Each Manor House would require 50 stones and 50 wood to be
+constructed and each would have to be "maintained" by a noble who
+stayed in the house for the entire turn with 20 peasants.  This
+noble would issue some command, call it "Farm" for lack of a better
+word that would take 30 days.
+
+	Manor houses could support 30 soldiers and have a defense
+comparable to towers.
+
+CASTLES
+
+Castles would require 10 manor houses to be located in the "center
+square" and the four adjacent provinces with no more than 3 and no
+less than 1 MH in each of the five provinces.  All Manor houses must
+be occupied and "farmed" by nobles from either the owner of the
+castle's faction or from nobles of a faction "pledged" to the owner.
+Failure to maintain the minimum ten Manor House support would result
+in the castle falling into disrepair.  1 turn in disrepair results
+in a 50% decrease in revenue.  2 turns no revenue. 3 turns the
+castle collapses
+
+	Each Castle would collect all "excess" revenue in the 5
+province region plus a bonus of 200p each turn.  Thus a "barony"
+with 10 MH and a castle woudl result in a revnue of 950 for the
+castle owner (150x5 + 200gp).  
+	In addition, for each city in the area that has an "active
+market" (see below) the castle would collect an extra 150 in custom
+duties.
+
+	Castles would require 500 stones and 300 wood to construct
+
+	Only within castle walls could knights and elite archers be
+trained.
+
+KEEPS.
+	Keeps would need 4 castles to be pledged in loyalty to them,
+with each castle constrained by the above rules pertaining to
+Manorhouses in respect to disrepair.  Thus the first turn 1 castle
+was not pledged the Keep's revenue would be halved, the second cut
+by 100% and the third the Keep would be destroyed.
+
+	The revnue of keeps is 1200, representing 300 per castle
+
+	Keeps require 1000stone and 600 wood to construct.
+
+	Only within keeps can elite guards be trained.
+
+	Rulers of Keeps are provided "reports" on all provinces
+	controlled by castles pledged to them. (similar to a scyre location
+	spell).
+
+
+CITIES
+	An addition to current rules is to distinguish between
+active and inactive markets.  A market is considered active if
+within the last two turns a sale has been made _OTHER_ than in
+baskets, pots, or fish.  For castles this results in a 100gp bonus
+
+
+
+SOME COMMENTS/OBSERVATIONS
+
+I think that this system would achieve the goals that are stated
+above.  Among the things that would be accomplished is that it woudl
+be difficult for one player to build such an empire (though not
+impossible) by requiring that lords of Manor houses must be
+"farming" their lands.  At a minimum it woud require 10 nobles and
+thus should encourage players to divide up the division of labor.
+
+By linking castles and keeps to the training of the best troops, you
+provide incentives for players to join together to creat these units
+
+By building in the rules of disrepair, you require players to keep
+an active defense against losing manor houses to raids and also
+encourage bargaining between the lord of the castle/keep and the
+manor house owners for continued support/loyalty.
+
+By distinguishing between inactive and active markets you encourage
+castle owners to promote trade/commerce and "protect" those factions
+that are interested for Roleplaying reasons in being merchants.  By
+restricting activity to "trade" items or sales between players in
+uncommon commodities you encourage some trade (note that something
+would have to be built into the code so the bug of trading the same
+good over and over between two nobles was not exploited.)
+
+Some obvious holes that need to be filled in:
+
+	Keep revnue should be more variable (like the castle is
+which must make trade off between extra manor houses (which increase
+security cushion) and extra revenue.  Not sure how to do this so
+suggestions needed.
+
+	Need to figure out a way so the other two obvious "peacible"
+faction types - the magic specialist and the explorer - also have
+goods that the would be hegemon need.  Any suggestions here would be
+realy great (perhaps an active tower i.e. a tower with a mage doing
+research could be substituted for a number of manor houses).
+
+As I haven't had lunch I will end it here but I think this is a
+decent idea that a) remains simple and b) satisfies certain
+objectives stated at the start
+
+
+W. Erik Bruvold
+
+	
+
+	
+

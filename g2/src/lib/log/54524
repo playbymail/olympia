@@ -1,0 +1,270 @@
+19285:0::0:0:Garrison~[3933], garrison, with ten~peasants, one~worker guards Forest~[fq85].
+69718:0::0:1:> fly w
+69718:0::0:1:Flying to Forest~[fq84] will take four days.
+19285:0::0:1:Qwoline~[n718], with one~winged horse, went west.
+69718:0::0:4:Arrival at Forest~[fq84].
+19284:0::0:4:Qwoline~[n718], with one~winged horse, arrived from the east.
+69718:0::0:5:> seek
+69718:0::0:12:> study 614
+69718:0::0:12:Paid 100~gold to begin study.
+69718:0::0:12:Study Defense for seven days.
+69718:0::0:19:> seek
+19284:0::0:21:It has begun to rain.
+69718:0::0:26:> study 614
+69718:0::0:26:Study Defense for seven days.
+19285:0::0:26:It has begun to rain.
+19284:0::0::
+19284:0::0::Province controlled by Wolvesbane Castle~[7498], castle, in Forest~[fp85]
+19284:0::0::Ruled by Arkon~[9944], count
+19284:0::0::
+19284:0::0::Routes leaving Forest: 
+19284:0::3::North, to Plain~[fp84], 7~days
+19284:0::3::East, to Forest~[fq85], 8~days
+19284:0::3::South, to Forest~[fr84], 8~days
+19284:0::3::West, to Plain~[fq83], 7~days
+19284:0::0::
+19284:0::0::It is raining.
+19284:0::0::
+19284:0::0::Seen here:
+19284:0::0/3::   Garrison~[6917], garrison, on guard, with ten~peasants
+19284:0::0/3:: * Qwoline~[n718], with one~winged horse
+19285:0::0::
+19285:0::0::Province controlled by Wolvesbane Castle~[7498], castle, in Forest~[fp85]
+19285:0::0::Ruled by Arkon~[9944], count
+19285:0::0::
+19285:0::0::Routes leaving Forest: 
+19285:0::3::North, to Forest~[fp85], 8~days
+19285:0::3::East, plain, to Plateau of Gorgoroth~[fq86], 7~days
+19285:0::3::South, to Desert~[fr85], 8~days
+19285:0::3::West, to Forest~[fq84], 8~days
+19285:0::0::
+19285:0::0::Inner locations:
+19285:0::3::Grave Mounds~[v421], graveyard, 1 day
+19285:0::3::Yew grove~[f970], yew grove, 1 day
+19285:0::0::
+19285:0::0::It is raining.
+19285:0::0::
+19285:0::0::Seen here:
+19285:0::0/3::   Garrison~[3933], garrison, on guard, with ten~peasants, one~worker
+5:0::0::
+5:0::0::begin rk4 "delicious"  # Torch Sellers Guild
+5:0::0::
+5:0::0::unit rk4  # Torch Sellers Guild
+5:0::0::
+5:0::0::unit n718  # Qwoline in Forest~[fq84]
+5:0::3::# > study 614 (executing for two more days)
+5:0::3::seek
+5:0::3::seek
+5:0::0::
+5:0::0::unit a476  # Jackson
+5:0::3::die
+5:0::3::neutral rk4
+5:0::3::move w s n
+5:0::3::move w s n
+5:0::0::
+5:0::0::unit k472  # Absoeld
+5:0::3::die
+5:0::3::neutral rk4
+5:0::3::move w s n
+5:0::3::move w s n
+5:0::0::
+5:0::0::unit 93570  # Traveler
+5:0::3::die
+5:0::3::move w s n
+5:0::0::
+5:0::0::end
+54524:0::0::
+54524:0::0::Admit permissions:
+54524:0::0::
+54524:0::3::admit 1223  all
+54524:0::3::admit 2295  gh2  jy6  ps2  qx2  ua7  ze2
+54524:0::3::admit 8713  jy6
+54524:0::3::admit d030  ps2
+54524:0::3::admit m848 2592
+54524:0::3::admit n718  ps2
+54524:0::3::admit s050  all
+54524:0::3::admit 93448 q426
+54524:0::3::admit 114222 q426
+54524:0::0::
+54524:0::0::Declared attitudes:
+54524:0::3::defend   gh2  jy6  ps2  qx2  ua7
+54524:0::0::
+54524:0::0::Unclaimed items:
+54524:0::0::
+54524:0::0::      qty  name                              weight
+54524:0::0::      ---  ----                              ------
+54524:0::0::    1,097  gold~[1]                               0  
+54524:0::0::       90  stone~[78]                         9,000  
+59476:0::3::Jackson~[a476] is being held prisoner.
+59476:0::3::
+67472:0::3::Absoeld~[k472] is being held prisoner.
+67472:0::3::
+69718:0::3::
+69718:0::3/16::Location:       Forest~[fq84], in Camaris
+69718:0::3::Loyalty:        Oath-1
+69718:0::3::Health:         100%
+69718:0::3::Combat:         attack 80, defense 80, missile 110
+69718:0::3::                behind 9  (stay behind in combat)
+69718:0::3::Break point:    0% (fight to the death)
+69718:0::3::
+69718:0::3::Skills known:
+69718:0::6::Shipcraft~[600]
+69718:0::12::Sailing~[601], grand master
+69718:0::12::Shipbuilding~[602], apprentice
+69718:0::12::Fishing~[603], apprentice
+69718:0::6::Combat~[610]
+69718:0::12::Survive fatal wound~[611]
+69718:0::12::Fight to the death~[612]
+69718:0::12::Construct catapult~[613], apprentice
+69718:0::12::Archery~[615], adept
+69718:0::12::Weaponsmithing~[617], apprentice
+69718:0::6::Stealth~[630]
+69718:0::12::Torture prisoner~[637], apprentice
+69718:0::6::Beastmastery~[650]
+69718:0::6::Forestry~[700]
+69718:0::12::Harvest lumber~[702], journeyman
+69718:0::12::Harvest yew~[703], apprentice
+69718:0::6::Trade~[730]
+69718:0::12::Find market for tradegood~[733], apprentice
+69718:0::3::
+69718:0::3::Partially known skills:
+69718:0::6/6::Defense~[614], 12/14
+69718:0::6/6::Breed beasts~[654], 14/28
+69718:0::3::
+69718:0::3::Inventory:
+69718:0::3::{<b>}      qty  name                              weight{</b>}
+69718:0::3::      ---  ----                              ------
+69718:0::3::       36  gold~[1]                               0  
+69718:0::3::        1  winged horse~[54]                  1,000  fly 150
+69718:0::3::                                             ======
+69718:0::3::                                              1,000
+69718:0::3::
+69718:0::3/11::Capacity:  0/250 land (0%), 100/150 ride (66%), 100/150 fly (66%)
+69718:0::3::
+69718:0::3::Pending trades:
+69718:0::3::
+69718:0::6::trade    price    qty   item
+69718:0::6::-----    -----    ---   ----
+69718:0::6:: sell        7    851   clay pot~[95]
+69718:0::6:: sell        2    771   fish~[87]
+69718:0::3::
+93570:0::3::Traveler~[93570] is being held prisoner.
+93570:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Torch Sellers Guild~[rk4].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/rk4/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [rk4]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         4  93rd   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                              36  109th  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   18/74  95th   
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         676/31,919  49th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  26     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 267.
+0:0::0::
+0:0::0::The next five nobles formed will be:  121452 92052 92915 89136 85206
+0:0::0::
+0:0::0::60 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::n718   fq84   o1    100  9      36                            Qwoline
+0:0::0::a476    ??    o1    100  0                              ??    Jackson
+0:0::0::k472    ??    f60   100  0                              ??    Absoeld
+0:0::0::93570   ??    f46   100  5                              ??    Traveler
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                                36                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Camaris
+0:0::0::  Forest~[fq84]                    Qwoline~[n718]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  n718       1,100        250   0%         50  66%         50  66%
+0:0::0::  a476         100        100   0%                                
+0:0::0::  k472         100        100   0%                                
+0:0::0:: 93570         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Torch Sellers Guild~[rk4]"><font size=+1><b>Torch Sellers Guild~[rk4]</b></font>
+1:2::0::<hr>
+1:1::0::Torch Sellers Guild~[rk4]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54524
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Qwoline~[n718]"><font size=+1><b>Qwoline~[n718]</b></font>
+1:2::0::<hr>
+1:1::0::Qwoline~[n718]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 69718
+1:0::0::
+1:2::0::
+1:2::0::<name="Jackson~[a476]"><font size=+1><b>Jackson~[a476]</b></font>
+1:2::0::<hr>
+1:1::0::Jackson~[a476]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 59476
+1:0::0::
+1:2::0::
+1:2::0::<name="Absoeld~[k472]"><font size=+1><b>Absoeld~[k472]</b></font>
+1:2::0::<hr>
+1:1::0::Absoeld~[k472]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 67472
+1:0::0::
+1:2::0::
+1:2::0::<name="Traveler~[93570]"><font size=+1><b>Traveler~[93570]</b></font>
+1:2::0::<hr>
+1:1::0::Traveler~[93570]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 93570
+1:2::0::
+1:2::0::<name="Forest~[fq84]"><font size=+1><b>Forest~[fq84]</b>, forest, in Camaris, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[fq84], forest, in Camaris, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 19284
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[fq85]"><font size=+1><b>Forest~[fq85]</b>, forest, in Camaris, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[fq85], forest, in Camaris, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 19285
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

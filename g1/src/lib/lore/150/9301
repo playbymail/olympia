@@ -1,0 +1,9 @@
+#Skill:  Receive vision [9301]
+#
+Usage:  USE @@@@ <target>
+Time:   ten days
+
+Receive a vision of a character, place or unique item.  A
+character may only see a vision for a particular target once.
+
+Each attempt to receive a vision has a 50% chance of success.

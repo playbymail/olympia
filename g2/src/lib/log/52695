@@ -1,0 +1,139 @@
+15074:0::0:0:Garrison~[5163], garrison, with 20~soldiers guards Australia~[cn74].
+15074:0::0:26:It has begun to rain.
+15074:0::0::
+15074:0::0::Province controlled by First Castle~[2468], castle, in Musketeer Lands~[bz72]
+15074:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+15074:0::0::
+15074:0::0::Routes leaving Australia: 
+15074:0::3::North, desert, to Australia~[cm74], 8~days
+15074:0::3::East, swamp, to Australia~[cn75], impassable
+15074:0::6::A magical barrier prevents entry.
+15074:0::3::South, to Forest~[cp74], 8~days
+15074:0::3::West, plain, to Australia~[cn73], 7~days
+15074:0::0::
+15074:0::0::Inner locations:
+15074:0::3::Yew grove~[c981], yew grove, 1 day
+15074:0::0::
+15074:0::0::It is raining.
+15074:0::0::
+15074:0::0::Seen here:
+15074:0::0/3::   Garrison~[5163], garrison, on guard, with 20~soldiers
+15074:0::0/3:: * Ruth Nichter~[2876]
+5:0::0::
+5:0::0::begin kj5  # Followers of Zexuis
+5:0::0::
+5:0::0::unit kj5  # Followers of Zexuis
+5:0::0::
+5:0::0::unit 2876  # Ruth Nichter in Australia~[cn74]
+5:0::0::
+5:0::0::end
+52695:0::0::
+52695:0::0::Unclaimed items:
+52695:0::0::
+52695:0::0::      qty  name                              weight
+52695:0::0::      ---  ----                              ------
+52695:0::0::    4,775  gold~[1]                               0  
+52695:0::0::      100  stone~[78]                        10,000  
+2876:0::3::
+2876:0::3/16::Location:       Australia~[cn74], in Provinia
+2876:0::3::Loyalty:        Oath-1
+2876:0::3::Health:         100%
+2876:0::3::Combat:         attack 80, defense 80, missile 0
+2876:0::3::                behind 0  (front line in combat)
+2876:0::3::Break point:    50%
+2876:0::3::
+2876:0::3::Skills known:
+2876:0::6::Construction~[680]
+2876:0::12::Construct siege tower~[681], apprentice
+2876:0::12::Stone quarrying~[682], apprentice
+2876:0::3::
+2876:0::3::Ruth Nichter~[2876] has no possessions.
+2876:0::3::
+2876:0::3/11::Capacity:  0/100 land (0%)
+2876:0::3::
+2876:0::3::Pending trades:
+2876:0::3::
+2876:0::6::trade    price    qty   item
+2876:0::6::-----    -----    ---   ----
+2876:0::6:: sell        3     10   clay pot~[95]
+2876:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Followers of Zexuis~[kj5].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/kj5/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [kj5]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         1  121st  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    3/74  119th  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         114/31,919  103rd  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  40     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 263.
+0:0::0::
+0:0::0::The next five nobles formed will be:  2520 7627 3109 3354 d737
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::2876   cn74   o1    100  0                                    Ruth Nichter
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Australia~[cn74]                 Ruth Nichter~[2876]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  2876         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Followers of Zexuis~[kj5]"><font size=+1><b>Followers of Zexuis~[kj5]</b></font>
+1:2::0::<hr>
+1:1::0::Followers of Zexuis~[kj5]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 52695
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Ruth Nichter~[2876]"><font size=+1><b>Ruth Nichter~[2876]</b></font>
+1:2::0::<hr>
+1:1::0::Ruth Nichter~[2876]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2876
+1:2::0::
+1:2::0::<name="Australia~[cn74]"><font size=+1><b>Australia~[cn74]</b>, mountain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Australia~[cn74], mountain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15074
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

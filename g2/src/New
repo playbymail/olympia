@@ -1,0 +1,78 @@
+> > 6.  New terrain based defense skills:
+> 
+> The overall idea is OK, I'm not so sure about the maximum added
+> defense being 100. At the least you should not let people use XXXX 4
+> times a month for the entire game, as that goes against the limits
+> you've placed on STUDY, etc. Perhaps a limit of 35 would be
+> appropriate, that's as good as a minimum castle.
+> 
+> > Beastmastery
+> 
+> I would urge another adjustment of breeding rates: make it inversely
+> proportional to the combat power of the beast. Even with the 1 worker
+> requirement, breeding dragons at the curent rate is too good. Even
+> getting only one dragon per month per breeder is also too good.
+> 
+> Dragons should weigh more. Other beasts too.
+> 
+> > 2.  The number of provinces which much be owned to achieve titles is:
+> 
+> You might give "king" for having more than 1/2 of a region
+> garrisoned. There can only be one...
+> 
+> > Movement penalty
+> 
+> New one. I like it. I think that formula is OK, but definately ask
+> desJ.
+> 
+> > 13. BUILD uses the "unformed" list, so one can predict structure ID's.
+> >     May specify as a fourth argument to BUILD, as in G1 with FORM.
+> 
+
+> While being able to build a
+> tower to avoid attack is not a great game mechanic, most players are
+> not smart enough to issue 100,000 orders. You might want to add
+> "castle" "tower" "inn" as an alias to the first such structure in a
+> province. Then the rules weirdness is someone who builds 2 towers and
+> hides in the second.
+> 
+> ======================================================================
+> 
+> I think G2 will fail to be "open ended" if you don't stop noble point
+> transfers.  One easy to do that would be to charge players NPs for any
+> NPs they acquire through terrorize/persuade/potion etc. Any faction
+> with a negative NP balance will sort-of lose their new "free" NPs and
+> if they have bodies decay, those NPs won't be available to form new
+> characters.
+> 
+> Example: I have 1 NP, and I eat BtA's brain, which gives me skills
+> worth 6 NP's. My NP balance is now -5 NPs. I can't form a new
+> character until I raise my NP balance to be positive, via waiting or
+> having bodies decay.
+> 
+> I suppose you should also have decaying bodies yield up all of their
+> NPs instead of just 1. I think this is a good way of keeping defeated
+> players in the game, actually. Having an experienced character lose
+> his study time is a huge penalty for losing a noble...
+> 
+> ======================================================================
+> 
+
+
+> 4) Aura blasted characters should not die until the end of the
+> month. Remember that I was complaining that it was too complex to
+> write movement orders which took care of your stack leader being aura
+> blasted? I'm not sure if this rule is necessary but it would make the
+> game better. Of course the same would have to apply to lightning bolts
+> and other magical ways of killing nobles. The "fog of death" against
+> armies will never get used when you could kill the stack leader
+> instead...
+
+
+
+> 10) I'm not so sure about Trances. A mage without auraculum takes
+> forever to recharge. That's a bit too slow, and trances (28 days) are
+> a bit fast. You can do this by tweaking the numbers in Meditation and
+> Trances.
+
+

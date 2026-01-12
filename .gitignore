@@ -1,0 +1,11 @@
+*~
+*.exe
+*.gz
+*.swp
+*.tar
+*.tgz
+.DS_Store
+.archives/
+.code/
+.idea/
+.vscode/

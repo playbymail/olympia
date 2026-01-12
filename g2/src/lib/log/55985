@@ -1,0 +1,74 @@
+5:0::0::
+5:0::0::begin xa5 "liquidearth"  # Liquid Fire
+5:0::0::
+5:0::0::unit xa5  # Liquid Fire
+5:0::0::
+5:0::0::end
+55985:0::0::
+55985:0::0::Admit permissions:
+55985:0::0::
+55985:0::3::admit 6980  en6
+55985:0::3::admit 7986  en6
+55985:0::3::admit d403  en6
+55985:0::0::
+55985:0::0::Unclaimed items:
+55985:0::0::
+55985:0::0::      qty  name                              weight
+55985:0::0::      ---  ----                              ------
+55985:0::0::    1,750  gold~[1]                               0  
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Liquid Fire~[xa5].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/xa5/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [xa5]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         0  148th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    0/74  123rd  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         441/31,919  73rd   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  22     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 263.
+0:0::0::
+0:0::0::The next five nobles formed will be:  125156 122239 98199 111118 131228
+0:0::0::
+0:0::0::15 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Liquid Fire~[xa5]"><font size=+1><b>Liquid Fire~[xa5]</b></font>
+1:2::0::<hr>
+1:1::0::Liquid Fire~[xa5]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55985
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,170 @@
+
+
+	     val  peasants  soldiers  swordsmen  knights  elite
+	     ---+----------------------------------------------
+peasant	      1	|    1         -          -        -        -
+soldier	      5	|    3         1          -        -        -
+swordsman    15	|    9         2          1        -        -
+knight	     45	|   26         6          2        1        -
+elite guard  90	|   60        13          4        2        1
+
+
+	     val npeasants  nsoldiers  nswordsmen  nknights  nelite
+	     ---+--------------------------------------------------
+peasant	      1	|    1         -           -         -          -
+soldier	      5	|    3         1           -         -          -
+swordsman    28	|   20         3           1         -          -
+knight       71	|   51        11           2         1          -
+elite guard 180	|  107        23           4         2          1
+
+
+
+		 fight	accur	m-arm
+		+-------------+------
+peasant		|  1      -   |	  0
+soldier		|  5      -   |	 10%
+swordsman	| 15      -   |	 25%
+knight		| 45      -   |	 50%
+elite guard	| 90      -   |	 75%
+crossbowman	|  1     25%  |   0
+archer		|  5     50%  |  10%
+elite archer	|  5     80%  |  20%
+
+
+Fight:	if (rnd(1, a_blade + b_blade) <= a_blade)
+		b dies;
+
+Missile:  if (rnd(1, 100) <= accur && rnd(1,100) >= m-arm)
+		target dies;
+
+
+Chance that unit is taken prisoner:
+
+	1:1	0%
+	2:1	50%
+	3:1	100%		(50 * n) / d - 50
+
+	1.5:1	0%
+	3.0:1	50%
+	4.5:1	100%		(100 * n) / (3 * d) - 50
+
+	2:1	0%
+	3:1	50%
+	4:1	100%		(50 * n) / d - 100
+
+	1:1	0%
+	2:1	25%
+	3:1	50%
+	4:1	75%
+	5:1	100%		(25 * n) / d - 25
+
+
+Putting it all together:
+
+	1.  Suppose we run combat until one side has >= 50% losses.
+	    We declare that side the loser and give the winner
+	    a "free shot".
+
+
+	2.  Count units as ordinary fighters, except:
+		each hit does rnd(10,20) health loss
+			(count towards losses for 50% somehow?)
+
+		nobles have (80,0,80)
+			Archery (n, 50+lev*10, n)
+			Swordplay (n+(lev+1)*10, ...)
+			Critical hit (instant death, chance ...)
+
+		if unit leader killed?
+			men break and run
+			men move to another unit
+			men remain fighting where they are until the end
+
+	3.  Attacks against monsters
+		no-prisoners a must for some
+
+
+		Dragon [px78], (150, 0, 85)
+
+
+
+	- crossbowman
+peasant - soldier	- swordsman	- knight	- elite guard
+			- archer
+
+
+
+
+Recall that men-as-inventory have no possessions or skills, but come in
+various flavors:
+
+	slave  peasant  soldier  knight  archer  crossbowman  swordsman
+
+The knight is assumed to have a sword and be on a horse.  The archer
+has a bow.  The slave has nothing, maybe a pitchfork or a stick.
+
+Each are rated on three factors:
+
+	fight -		Melee, hand-to-hand, swordplay ability.
+			Also the ability to defend against a close attack
+
+	missile -	How often an archer hits his target.
+
+	armor -		How often armor deflects a missile attack.
+
+For a fight-fight encounter, the chance is proportional to the compared
+fight ratings:
+
+	a(fight=60) vs b(fight=30)	a has a 2/3 chance of killing b
+	a(fight=60) vs b(fight=60)	a has a 1/2 chance of killing b
+
+For a missile attack, first we see how many arrows are launched, then
+how many hit.  A hit kills the target.
+
+Assuming these three factors are a reasonable set to base combat on,
+we must choose the vectors for the different kinds of men.
+
+		  (blade, missile, armor)
+		+------------------------
+	slave	|    1      0        0
+	peasant	|    1      0        0
+	soldier	|    4      0       30%
+	knight	|    7      0       60%
+	archer	|    1    50%       0
+
+I figure a combat would go something like:
+
+	Some initial bonus, perhaps one of:
+
+		The better lead side gets a free missile attack
+		The better lead side can go first
+
+	Then the rounds:
+
+		Each side fires their missiles
+		blade engagement
+
+
+ram - gate, walls
+catapult - roof & crenelations, walls
+siege tower - walls, crenelations
+
+
+---------------------
+
+strategy front
+strategy behind
+strategy flank
+strategy reserve
+
+
+%s tries to flank %s, but fails.
+%s flanks %s.  %s is attacking the rear units of %s!
+
+%s holds back.
+
+%s enters the fight.
+
+n slaves have escaped!
+%s has escaped		(5-10% each combat).
+

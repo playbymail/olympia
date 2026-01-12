@@ -1,0 +1,33 @@
+* Make the map & loc, etc. files
+
+	- For 2 nation game:
+	   - 40x40 (roughly), run with mapgen -c 2
+	   - Use "*" to indicate where cities are
+	   - run mapgen until balanced cities on Mandor/Imperia
+	   - Turn off gates except continental tour
+	   - Rename cities & continents appropriately.  Check city terrain.
+	   - Eliminate Pen island from gate tour
+
+* Copy the files from New into the Lib directory for the new game
+
+* Create the log, spool, save, orders, and fact directories.
+
+* Fill in the proper game # in the host lines in system, game_num,
+  xsize, ysize
+
+* Fill in the capitals in the nation file.
+
+* Balance the skills in the starting cities.  Pen get 1000 1100 1600,
+  others get 1100 (e.g., "te 1100"  under SL)
+	
+* Then seed with oly -i -S.  In immediate mode, give the "seed"
+  command.  Check after to make sure that the number
+  of towers in the major cities is reasonable.  Quit immediate mode
+  with ^D, not "quit" or "exit".
+
+* Make sure that clouldand cities don't show up in "near cities" (nc)
+  in loc file.
+
+* Create the orders@tag5.pbm.com mailing address.
+
+* Create HTML directories in Web structure.

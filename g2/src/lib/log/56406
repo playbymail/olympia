@@ -1,0 +1,1224 @@
+12845:0::0:0:Garrison~[s912], garrison, with ten~soldiers guards Forest~[bk45].
+10759:0::0:0:Garrison~[v386], garrison, with ten~peasants, ten~swordsmen guards Mountain~[aj59].
+12172:0::0:0:Garrison~[105498], garrison, with one~soldier, nine~peasants guards Forest~[bb72].
+56406:0::0:0:> accept 0 0
+131313:0::0:1:> use 751 7478
+63668:0::0:1:Arrival at Plain~[bm45].
+63668:0::0:2:> fly s
+63668:0::0:2:Flying to Ocean~[bn45] will take two days.
+63668:0::0:3:Arrival at Ocean~[bn45].
+63668:0::0:4:> fly s
+63668:0::0:4:Flying to Ocean~[bp45] will take three days.
+6242:0::0:4:Arrival at Plain~[bc72].
+12272:0::0:4:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, arrived from the north.
+6242:0::0:5:> fly s
+6242:0::0:5:One noble, 30 men: travel will take an extra 3 days.
+6242:0::0:5:Flying to Swamp~[bd72] will take seven days.
+12272:0::0:5:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, went south.
+63668:0::0:6:Arrival at Ocean~[bp45].
+9918:0::0:6:Exploration of [zk82] uncovers no new features.
+9918:0::0:7:> move n
+9918:0::0:7:Travel to Hades~[sj43] will take four days.
+63668:0::0:7:> fly s
+63668:0::0:7:Flying to Ocean~[bq45] will take three days.
+63668:0::0:9:Arrival at Ocean~[bq45].
+131313:0::0:9:Major Sinnlos~[131313] receives a vision of Rickets~[7478]:
+131313:0::0:9:
+131313:0::0/16:9:Location:       Icy Black Holy Land~[cc24], in Provinia
+131313:0::0:9:Loyalty:        Unsworn-0
+131313:0::0:9:Health:         100%
+131313:0::0:9:Combat:         attack 83, defense 80, missile 114
+131313:0::0:9:                behind 0  (front line in combat)
+131313:0::0:9:Break point:    0% (fight to the death)
+131313:0::0:9:use  641 0      (not concealing self)
+131313:0::0:9:
+131313:0::0:9:Skills known:
+131313:0::3:9:Combat~[610]
+131313:0::9:9:Survive fatal wound~[611]
+131313:0::9:9:Fight to the death~[612]
+131313:0::9:9:Construct catapult~[613], apprentice
+131313:0::9:9:Defense~[614], apprentice
+131313:0::9:9:Archery~[615], journeyman
+131313:0::9:9:Swordplay~[616], adept
+131313:0::9:9:Weaponsmithing~[617], adept
+131313:0::3:9:Stealth~[630]
+131313:0::9:9:Petty thievery~[631], apprentice
+131313:0::9:9:Determine inventory of character~[632], apprentice
+131313:0::9:9:Determine skills of character~[633], apprentice
+131313:0::9:9:Determine character's lord~[634], apprentice
+131313:0::9:9:Conceal self~[641], apprentice
+131313:0::3:9:Construction~[680]
+131313:0::9:9:Stone quarrying~[682], apprentice
+131313:0::3:9:Mining~[720]
+131313:0::3:9:Trade~[730]
+131313:0::9:9:Conceal identity of trader~[731], apprentice
+131313:0::9:9:Find tradegood for sale~[732], apprentice
+131313:0::9:9:Find market for tradegood~[733], apprentice
+131313:0::0:9:
+131313:0::0:9:Partially known skills:
+131313:0::3/6:9:Mine iron~[721], 7/14
+131313:0::0:9:
+131313:0::0:9:Rickets~[7478] has no possessions.
+131313:0::0:9:
+131313:0::0/11:9:Capacity:  0/100 land (0%)
+131313:0::0:9:
+131313:0::0:9:Pending trades:
+131313:0::0:9:
+131313:0::3:9:trade    price    qty   item
+131313:0::3:9:-----    -----    ---   ----
+131313:0::3:9: sell        7    183   clay pot~[95]
+131313:0::0:9:
+131313:0::0:10:> execute
+131313:0::0:10:No prisoners to execute.
+131313:0::0:10:> move out
+131313:0::0:10:Travel to Mountain~[aj59] will take one day.
+59168:0::0:10:Major Sinnlos~[131313], priest, with 12~winged horses, exited Graveyard~[a168].
+63668:0::0:10:> fly s
+63668:0::0:10:Flying to Plain~[br45] will take two days.
+9918:0::0:10:Arrival at Hades~[sj43].
+131313:0::0:10:Arrival at Mountain~[aj59].
+10759:0::0:10:Major Sinnlos~[131313], priest, with 12~winged horses, arrived from Graveyard~[a168].
+56406:0::0:10:Captain Gral~[8116] has passed on.  Gained 3 NPs.
+9918:0::0:11:> move n
+9918:0::0:11:Travel to Hades~[wj44] will take four days.
+131313:0::0:11:> use 753
+63668:0::0:11:Arrival at Plain~[br45].
+6242:0::0:11:Arrival at Swamp~[bd72].
+12372:0::0:11:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, arrived from the north.
+6242:0::0:12:> fly s
+6242:0::0:12:One noble, 30 men: travel will take an extra 3 days.
+6242:0::0:12:Flying to Plain~[bf72] will take six days.
+12372:0::0:12:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, went south.
+63668:0::0:12:> fly s
+63668:0::0:12:Flying to Black Forest~[bs45] will take four days.
+131313:0::0:13:The next religious act will surely succeed.
+131313:0::0:14:> use 751 5681
+9918:0::0:14:Arrival at Hades~[wj44].
+9918:0::0:15:> move k083
+9918:0::0:15:Travel to Graveyard~[k083] will take one day.
+9918:0::0:15:Arrival at Graveyard~[k083].
+63668:0::0:15:Arrival at Black Forest~[bs45].
+9918:0::0:16:> move bp20
+9918:0::0:16:Travel to Plain~[bp20] will take one day.
+63668:0::0:16:> fly s
+63668:0::0:16:Flying to Plain~[bt45] will take three days.
+9918:0::0:16:Arrival at Plain~[bp20].
+9918:0::0:17:> fly bp19
+9918:0::0:17:Flying to Forest~[bp19] will take four days.
+6242:0::0:17:Arrival at Plain~[bf72].
+12472:0::0:17:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, arrived from the north.
+6242:0::0:18:> fly s
+6242:0::0:18:One noble, 30 men: travel will take an extra 3 days.
+6242:0::0:18:Flying to Plain~[bg72] will take six days.
+12472:0::0:18:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, went south.
+63668:0::0:18:Arrival at Plain~[bt45].
+63668:0::0:19:> fly w
+63668:0::0:19:Flying to Plain~[bt44] will take three days.
+9918:0::0:20:Arrival at Forest~[bp19].
+10759:0::0:20:Eirinn Banba~[6200], priest, with three~winged horses, 60~pikemen, arrived from the north.
+9918:0::0:21:> fly bp18
+9918:0::0:21:Flying to STC border~[bp18] will take four days.
+10759:0::0:21:Eirinn Banba~[6200], priest, with three~winged horses, ten~peasants, ten~swordsmen, went south.
+63668:0::0:21:Arrival at Plain~[bt44].
+12172:0::0:21:It has begun to rain.
+13120:0::0:21:It has begun to rain.
+63668:0::0:22:> fly w
+63668:0::0:22:Flying to Plain~[bt43] will take three days.
+131313:0::0:22:Major Sinnlos~[131313] receives a vision of Robert E. Lee~[5681]:
+131313:0::0:22:
+131313:0::0/16:22:Location:       Black Forest~[cf25], in Provinia
+131313:0::0:22:Loyalty:        Oath-1
+131313:0::0:22:Health:         100%
+131313:0::0:22:Combat:         attack 146, defense 175, missile 98
+131313:0::0:22:                behind 0  (front line in combat)
+131313:0::0:22:Break point:    50%
+131313:0::0:22:Banner:         of the Confederation
+131313:0::0:22:
+131313:0::0:22:Skills known:
+131313:0::3:22:Combat~[610]
+131313:0::9:22:Fight to the death~[612]
+131313:0::9:22:Defense~[614], master
+131313:0::9:22:Archery~[615], adept
+131313:0::9:22:Swordplay~[616], master
+131313:0::9:22:Weaponsmithing~[617], journeyman
+131313:0::3:22:Stealth~[630]
+131313:0::9:22:Petty thievery~[631], apprentice
+131313:0::9:22:Determine character's lord~[634], apprentice
+131313:0::9:22:Conceal faction~[635], apprentice
+131313:0::3:22:Trade~[730]
+131313:0::9:22:Find tradegood for sale~[732], journeyman
+131313:0::9:22:Find market for tradegood~[733], apprentice
+131313:0::0:22:
+131313:0::0:22:Partially known skills:
+131313:0::3/6:22:Survive fatal wound~[611], 14/28
+131313:0::0:22:
+131313:0::0:22:Robert E. Lee~[5681] has no possessions.
+131313:0::0:22:
+131313:0::0/11:22:Capacity:  0/100 land (0%)
+131313:0::0:22:
+131313:0::0:22:Pending trades:
+131313:0::0:22:
+131313:0::3:22:trade    price    qty   item
+131313:0::3:22:-----    -----    ---   ----
+131313:0::3:22:  buy       14     10   soap~[j606]
+131313:0::3:22: sell       88     13   cinnabar~[f230]
+131313:0::3:22:  buy       20     25   cinnabar~[f230]
+131313:0::0:22:
+131313:0::0:23:> use 753
+6242:0::0:23:Arrival at Plain~[bg72].
+12572:0::0:23:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, arrived from the north.
+6242:0::0:24:> fly s
+6242:0::0:24:One noble, 30 men: travel will take an extra 3 days.
+6242:0::0:24:Flying to Mountain~[bh72] will take seven days.
+12572:0::0:24:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, went south.
+9918:0::0:24:Arrival at STC border~[bp18].
+63668:0::0:24:Arrival at Plain~[bt43].
+9918:0::0:25:> fly p90
+9918:0::0:25:Flying to Aurion~[p90] will take one day.
+63668:0::0:25:> fly w
+63668:0::0:25:Flying to Plain~[bt42] will take three days.
+9918:0::0:25:Arrival at Aurion~[p90].
+131313:0::0:25:The next religious act will surely succeed.
+9918:0::0:26:> form 109199 "Aurion peasant"
+131313:0::0:26:> use 751 142019
+13543:0::0:26:It has begun to rain.
+12572:0::0:26:It has begun to rain.
+13118:0::0:26:It has begun to rain.
+12472:0::0:26:It has begun to rain.
+63668:0::0:27:Arrival at Plain~[bt42].
+63668:0::0:28:> fly w
+63668:0::0:28:Flying to Syr-Antin Plain~[bt41] will take three days.
+6242:0::0:30:Arrival at Mountain~[bh72].
+12672:0::0:30:Commander Drak Frish~[6242], with one~winged horse, 30~harpies, arrived from the north.
+63668:0::0:30:Arrival at Syr-Antin Plain~[bt41].
+13544:0::0:30:It has stopped raining.
+13119:0::0:30:It has stopped raining.
+13245:0::0:30:It has stopped raining.
+12945:0::0:30:It has stopped raining.
+12272:0::0:30:It has stopped raining.
+13145:0::0:30:It has stopped raining.
+10759:0::0::
+10759:0::0::Province controlled by Home~[p009], castle, in Mountain~[ah59]
+10759:0::0::Ruled by [8116], duke
+10759:0::0::
+10759:0::0::Routes leaving Mountain: 
+10759:0::3::North, to Mountain~[ah59], 10~days
+10759:0::3::East, to Swamp~[aj60], 14~days
+10759:0::3::South, to Forest~[ak59], 8~days
+10759:0::3::West, to Plain~[aj58], 7~days
+10759:0::0::
+10759:0::0::Inner locations:
+10759:0::3::Graveyard~[a168], graveyard, 1 day
+10759:0::0::
+10759:0::0::It is raining.
+10759:0::0::
+10759:0::0::Seen here:
+10759:0::0/3::   Garrison~[v386], garrison, on guard, with 60~pikemen
+10759:0::0/3:: * Major Sinnlos~[131313], priest, with 12~winged horses
+12172:0::0::
+12172:0::0::Province controlled by Eldead Castle~[9708], castle, in Mountain~[bf91]
+12172:0::0::Ruled by Claud Badly~[4029], king
+12172:0::0::
+12172:0::0::Routes leaving Forest: 
+12172:0::3::North, to Plain~[ba72], 7~days
+12172:0::3::East, to Forest~[bb73], 8~days
+12172:0::3::South, to Plain~[bc72], 7~days
+12172:0::3::West, to Plain~[bb71], 7~days
+12172:0::0::
+12172:0::0::It is raining.
+12172:0::0::
+12172:0::0::Seen here:
+12172:0::0/3::   Garrison~[105498], garrison, on guard, with one~soldier, nine~peasants
+12272:0::0::
+12272:0::0::Province controlled by Eldead Castle~[9708], castle, in Mountain~[bf91]
+12272:0::0::Ruled by Claud Badly~[4029], king
+12272:0::0::
+12272:0::0::Routes leaving Plain: 
+12272:0::3::North, to Forest~[bb72], 8~days
+12272:0::3::East, to Mountain~[bc73], 10~days
+12272:0::3::South, to Swamp~[bd72], 14~days
+12272:0::3::West, to Forest~[bc71], 8~days
+12272:0::0::
+12272:0::0::Inner locations:
+12272:0::3::Rocky hill~[v081], rocky hill, 1 day
+12272:0::3::Grassy field~[h805], pasture, 1 day
+12272:0::0::
+12272:0::0::Seen here:
+12272:0::0/3::   Garrison~[k052], garrison, on guard, with ten~soldiers
+12372:0::0::
+12372:0::0::Province controlled by Eldead Castle~[9708], castle, in Mountain~[bf91]
+12372:0::0::Ruled by Claud Badly~[4029], king
+12372:0::0::
+12372:0::0::Routes leaving Swamp: 
+12372:0::3::North, to Plain~[bc72], 7~days
+12372:0::3::East, to Desert~[bd73], 8~days
+12372:0::3::South, to Plain~[bf72], 7~days
+12372:0::3::West, to Forest~[bd71], 8~days
+12372:0::0::
+12372:0::0::Inner locations:
+12372:0::3::Bog~[s665], bog, 1 day
+12372:0::3::Lair~[z179], lair, 1 day
+12372:0::0::
+12372:0::0::It is raining.
+12372:0::0::
+12372:0::0::Seen here:
+12372:0::0/3::   Garrison~[5149], garrison, on guard, with one~soldier, nine~peasants
+12472:0::0::
+12472:0::0::Province controlled by Eldead Castle~[9708], castle, in Mountain~[bf91]
+12472:0::0::Ruled by Claud Badly~[4029], king
+12472:0::0::
+12472:0::0::Routes leaving Plain: 
+12472:0::3::North, to Swamp~[bd72], 14~days
+12472:0::3::East, to Desert~[bf73], 8~days
+12472:0::3::South, to Plain~[bg72], 7~days
+12472:0::3::West, to Plain~[bf71], 7~days
+12472:0::0::
+12472:0::0::It is raining.
+12472:0::0::
+12472:0::0::Seen here:
+12472:0::0/3::   Garrison~[r432], garrison, on guard, with ten~peasants
+12572:0::0::
+12572:0::0::Province controlled by Eldead Castle~[9708], castle, in Mountain~[bf91]
+12572:0::0::Ruled by Claud Badly~[4029], king
+12572:0::0::
+12572:0::0::Routes leaving Plain: 
+12572:0::3::North, to Plain~[bf72], 7~days
+12572:0::3::East, to Plain~[bg73], 7~days
+12572:0::3::South, to Mountain~[bh72], 10~days
+12572:0::3::West, to Forest~[bg71], 8~days
+12572:0::0::
+12572:0::0::Inner locations:
+12572:0::3::Sacred grove~[z048], sacred grove, 1 day
+12572:0::0::
+12572:0::0::It is raining.
+12572:0::0::
+12572:0::0::Seen here:
+12572:0::0/3::   Garrison~[6213], garrison, on guard, with ten~peasants
+12672:0::0::
+12672:0::0::Province controlled by Our Castle~[2321], castle, in Mountain~[bm92]
+12672:0::0::Ruled by Claud Badly~[4029], king
+12672:0::0::
+12672:0::0::Routes leaving Mountain: 
+12672:0::3::North, to Plain~[bg72], 7~days
+12672:0::3::East, to Plain~[bh73], 7~days
+12672:0::3::South, to Plain~[bj72], 7~days
+12672:0::3::West, to Mountain~[bh71], 10~days
+12672:0::0::
+12672:0::0::It is raining.
+12672:0::0::
+12672:0::0::Seen here:
+12672:0::0/3::   Garrison~[80437], garrison, on guard, with ten~soldiers
+12672:0::0/3:: * Commander Drak Frish~[6242], with one~winged horse, 30~harpies
+12845:0::0::
+12845:0::0::Province controlled by StoneHammer Keep~[8865], castle, in Mountain~[bh49]
+12845:0::0::Ruled by Claud Badly~[4029], king
+12845:0::0::
+12845:0::0::Routes leaving Forest: 
+12845:0::3::North, to Swamp~[bj45], 14~days
+12845:0::3::East, to Mountain~[bk46], 10~days
+12845:0::3::South, to Plain~[bm45], 7~days
+12845:0::3::West, to Desert~[bk44], 8~days
+12845:0::0::
+12845:0::0::Inner locations:
+12845:0::3::Old battlefield~[c487], battlefield, 1 day
+12845:0::0::
+12845:0::0::It is raining.
+12845:0::0::
+12845:0::0::Seen here:
+12845:0::0/3::   Garrison~[s912], garrison, on guard, with ten~soldiers
+12945:0::0::
+12945:0::0::Province controlled by StoneHammer Keep~[8865], castle, in Mountain~[bh49]
+12945:0::0::Ruled by Claud Badly~[4029], king
+12945:0::0::
+12945:0::0::Routes leaving Plain: 
+12945:0::3::North, to Forest~[bk45], 8~days
+12945:0::3::East, to Plain~[bm46], 7~days
+12945:0::3::South, to Ocean~[bn45], Great Sea, 2~days
+12945:0::3::West, to Plain~[bm44], 7~days
+12945:0::0::
+12945:0::0::Seen here:
+12945:0::0/3::   Garrison~[c437], garrison, on guard, with ten~peasants
+13045:0::0::
+13045:0::0::Routes leaving Ocean: 
+13045:0::3::North, to Plain~[bm45], Krussos, 2~days
+13045:0::3::East, to Ocean~[bn46], 3~days
+13045:0::3::South, to Ocean~[bp45], 3~days
+13045:0::3::West, to Ocean~[bn44], 3~days
+13045:0::0::
+13045:0::0::It is raining.
+13118:0::0::
+13118:0::0::Province controlled by Fjellslott~[3799], castle, in Mountain~[bp13]
+13118:0::0::Ruled by Oledema Firstborn~[5170], duke
+13118:0::0::
+13118:0::0::Routes leaving STC border: 
+13118:0::3::North, mountain, to Confederation Territory~[bn18], 10~days
+13118:0::3::East, to Forest~[bp19], 8~days
+13118:0::3::South, to Plain~[bq18], 7~days
+13118:0::3::West, to Mountain~[bp17], 10~days
+13118:0::0::
+13118:0::0::Inner locations:
+13118:0::3::Aurion~[p90], city, 1 day
+13118:0::3::Cursed Pits~[p247], pits, 1 day
+13118:0::0::
+13118:0::0::It is raining.
+13118:0::0::
+13118:0::0::Seen here:
+13118:0::0/3::   Garrison~[k047], garrison, on guard, with ten~soldiers
+13119:0::0::
+13119:0::0::Province controlled by Asgard~[5665], castle, in Forest~[bt17]
+13119:0::0::Ruled by Jon The Restless~[v296], duke
+13119:0::0::
+13119:0::0::Routes leaving Forest: 
+13119:0::3::North, mountain, to Confederation Territory~[bn19], 10~days
+13119:0::3::East, to Plain~[bp20], 7~days
+13119:0::3::South, to Forest~[bq19], 8~days
+13119:0::3::West, swamp, to STC border~[bp18], 14~days
+13119:0::0::
+13119:0::0::Seen here:
+13119:0::0/3::   Garrison~[d962], garrison, on guard, with ten~soldiers
+13120:0::0::
+13120:0::0::Province controlled by Asgard~[5665], castle, in Forest~[bt17]
+13120:0::0::Ruled by Jon The Restless~[v296], duke
+13120:0::0::
+13120:0::0::Routes leaving Plain: 
+13120:0::3::North, to Plain~[bn20], 7~days
+13120:0::3::East, to Plain~[bp21], 7~days
+13120:0::3::South, to Forest~[bq20], 8~days
+13120:0::3::West, to Forest~[bp19], 8~days
+13120:0::0::
+13120:0::0::Inner locations:
+13120:0::3::Graveyard~[k083], graveyard, 1 day
+13120:0::3::Pasture~[m110], pasture, 1 day
+13120:0::0::
+13120:0::0::It is raining.
+13120:0::0::
+13120:0::0::Seen here:
+13120:0::0/3::   Garrison~[s281], garrison, on guard, with ten~peasants, 13~undead, 16~ghost warriors
+13145:0::0::
+13145:0::0::Routes leaving Ocean: 
+13145:0::3::North, to Ocean~[bn45], 3~days
+13145:0::3::East, to Ocean~[bp46], 3~days
+13145:0::3::South, to Ocean~[bq45], 3~days
+13145:0::3::West, to Ocean~[bp44], 3~days
+13145:0::0::
+13145:0::0::Inner locations:
+13145:0::3::Island~[j481], island, 1 day
+13245:0::0::
+13245:0::0::Routes leaving Ocean: 
+13245:0::3::North, to Ocean~[bp45], 3~days
+13245:0::3::East, to Ocean~[bq46], 3~days
+13245:0::3::South, to Plain~[br45], Provinia, 2~days
+13245:0::3::West, to Ocean~[bq44], 3~days
+13345:0::0::
+13345:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13345:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13345:0::0::
+13345:0::0::Routes leaving Plain: 
+13345:0::3::North, to Ocean~[bq45], Great Sea, 2~days
+13345:0::3::East, forest, to Black Forest~[br46], 8~days
+13345:0::3::South, forest, to Black Forest~[bs45], 8~days
+13345:0::3::West, mountain, to Mount Guardian~[br44], 10~days
+13345:0::0::
+13345:0::0::Inner locations:
+13345:0::3::Barrow Hills~[d112], graveyard, 1 day
+13345:0::3::Poppy field~[t502], poppy field, 1 day
+13345:0::3::Hammer Hill~[s272], rocky hill, 1 day
+13345:0::6::The First Column~[5749], temple, defense~10
+13345:0::0::
+13345:0::0::It is raining.
+13345:0::0::
+13345:0::0::Seen here:
+13345:0::0/3::   Garrison~[8727], garrison, on guard, with ten~soldiers, 22~pikemen
+13345:0::0/3::   Savage~[136515], savages, number:~23
+13345:0::0/3::   Savage~[84927], savages, number:~19
+13445:0::0::
+13445:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13445:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13445:0::0::
+13445:0::0::Routes leaving Black Forest: 
+13445:0::3::North, to Plain~[br45], 7~days
+13445:0::3::East, forest, to Black Forest~[bs46], 8~days
+13445:0::3::South, to Plain~[bt45], 7~days
+13445:0::3::West, to Plain~[bs44], 7~days
+13445:0::0::
+13445:0::0::It is raining.
+13445:0::0::
+13445:0::0::Seen here:
+13445:0::0/3::   Garrison~[8430], garrison, on guard, with ten~soldiers, ten~workers
+13445:0::0/3::   Iuri Dolgorukii~[f330], with five~oxen
+13541:0::0::
+13541:0::0::Province controlled by Castle Trinity~[134602], castle, in Syr-Antin Desert~[bv39]
+13541:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13541:0::0::
+13541:0::0::Routes leaving Syr-Antin Plain: 
+13541:0::3::North, forest, to Syr-Antin Forest~[bs41], 8~days
+13541:0::3::East, to Plain~[bt42], 7~days
+13541:0::3::South, forest, to Syr-Antin Forest~[bv41], 8~days
+13541:0::3::West, swamp, to Syr-Antin Swamp~[bt40], 14~days
+13541:0::0::
+13541:0::0::Inner locations:
+13541:0::3::Rocky hill~[d173], rocky hill, 1 day
+13541:0::0::
+13541:0::0::It is raining.
+13541:0::0::
+13541:0::0::Seen here:
+13541:0::0/3::   Garrison~[140566], garrison, on guard, with ten~soldiers
+13542:0::0::
+13542:0::0::Province controlled by Castle Trinity~[134602], castle, in Syr-Antin Desert~[bv39]
+13542:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13542:0::0::
+13542:0::0::Routes leaving Plain: 
+13542:0::3::North, to Plain~[bs42], 7~days
+13542:0::3::East, to Plain~[bt43], 7~days
+13542:0::3::South, forest, to Syr-Antin Forest~[bv42], 8~days
+13542:0::3::West, plain, to Syr-Antin Plain~[bt41], 7~days
+13542:0::0::
+13542:0::0::Inner locations:
+13542:0::3::Sacred grove~[j348], sacred grove, 1 day
+13542:0::0::
+13542:0::0::It is raining.
+13542:0::0::
+13542:0::0::Seen here:
+13542:0::0/3::   Garrison~[143048], garrison, on guard, with ten~soldiers
+13543:0::0::
+13543:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13543:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13543:0::0::
+13543:0::0::Routes leaving Plain: 
+13543:0::3::North, to Mountain~[bs43], 10~days
+13543:0::3::East, to Plain~[bt44], 7~days
+13543:0::3::South, mountain, to Mount Pixie~[bv43], 10~days
+13543:0::3::West, to Plain~[bt42], 7~days
+13543:0::0::
+13543:0::0::Inner locations:
+13543:0::3::Sacred grove~[z823], sacred grove, 1 day
+13543:0::0::
+13543:0::0::It is raining.
+13543:0::0::
+13543:0::0::Seen here:
+13543:0::0/3::   Garrison~[4332], garrison, on guard, with ten~soldiers
+13544:0::0::
+13544:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13544:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13544:0::0::
+13544:0::0::Routes leaving Plain: 
+13544:0::3::North, to Plain~[bs44], 7~days
+13544:0::3::East, to Plain~[bt45], 7~days
+13544:0::3::South, mountain, to Mount Spirit~[bv44], 10~days
+13544:0::3::West, to Plain~[bt43], 7~days
+13544:0::0::
+13544:0::0::Inner locations:
+13544:0::3::Pasture~[f140], pasture, 1 day
+13544:0::3::Poppy field~[g504], poppy field, 1 day
+13544:0::0::
+13544:0::0::Seen here:
+13544:0::0/3::   Garrison~[4526], garrison, on guard, with ten~soldiers
+13545:0::0::
+13545:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13545:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13545:0::0::
+13545:0::0::Routes leaving Plain: 
+13545:0::3::North, forest, to Black Forest~[bs45], 8~days
+13545:0::3::East, forest, to Black Forest~[bt46], 8~days
+13545:0::3::South, to Desert~[bv45], 8~days
+13545:0::3::West, to Plain~[bt44], 7~days
+13545:0::0::
+13545:0::0::Inner locations:
+13545:0::3::Sacred grove~[f360], sacred grove, 1 day
+13545:0::0::
+13545:0::0::It is raining.
+13545:0::0::
+13545:0::0::Seen here:
+13545:0::0/3::   Garrison~[100444], garrison, on guard, with ten~soldiers
+38743:0::0::
+38743:0::0::Routes leaving Hades: 
+38743:0::3::North, underground, to Hades~[wj44], hidden, 7~days
+38743:0::3::South, underground, to Hades~[zk82], hidden, 7~days
+44744:0::0::
+44744:0::0::Routes leaving Hades: 
+44744:0::3::South, underground, to Hades~[sj43], hidden, 7~days
+44744:0::0::
+44744:0::0::Inner locations:
+44744:0::3::Graveyard~[k083], graveyard, 1 day
+48882:0::0::
+48882:0::0::Routes leaving Hades: 
+48882:0::3::North, underground, to Hades~[sj43], hidden, 7~days
+48882:0::3::South, underground, to Hades~[nj60], hidden, 7~days
+57950:0::0::
+57950:0::0::Routes leaving Aurion: 
+57950:0::3::Out, swamp, to STC border~[bp18], 1~day
+57950:0::0::
+57950:0::0::Cities rumored to be nearby:
+57950:0::3::Runested~[d07], in Confederation Territory~[bj14]
+57950:0::3::Sommerstjerne~[h29], in Swamp~[bk17]
+57950:0::3::Trondheim~[t09], in Forest~[bt17]
+57950:0::0::
+57950:0::0::Skills taught here:
+57950:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Magic~[800], Scrying~[840]
+57950:0::0::
+57950:0::0::Market report:
+57950:0::3::
+57950:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57950:0::3::-----    ---   -----    ---     -----   ----                     
+57950:0::3::  buy    p90      81     45        50   ale~[d786]               
+57950:0::3::  buy    p90       4     15         1   woven baskets~[94]       
+57950:0::3:: sell    p90      99     30       100   obsidian~[b771]          
+57950:0::3:: sell    p90      10     39       100   salt~[p590]              
+57950:0::0::
+57950:0::0::It is raining.
+57950:0::0::
+57950:0::0::Seen here:
+57950:0::0/3::   Garrison~[3979], garrison, on guard, with 98~pikemen
+59168:0::0::
+59168:0::0::Routes leaving Graveyard: 
+59168:0::3::Out, to Mountain~[aj59], 1~day
+59168:0::3::Underground, to Hades~[nv00], Hades, hidden, 1~day
+59168:0::6/1::"Notice to mortals, from the Gatekeeper Spirit of Hades: 100 gold/head is removed from any stack taking this road."
+59168:0::0::
+59168:0::0::It is raining.
+67083:0::0::
+67083:0::0::Routes leaving Graveyard: 
+67083:0::3::Out, to Plain~[bp20], 1~day
+67083:0::3::Underground, to Hades~[wj44], Hades, hidden, 1~day
+67083:0::6/1::"Notice to mortals, from the Gatekeeper Spirit of Hades: 100 gold/head is removed from any stack taking this road."
+67083:0::0::
+67083:0::0::It is raining.
+5:0::0::
+5:0::0::begin yq6 "tintin@0330"  # Shattered Black Rose
+5:0::0::
+5:0::0::unit yq6  # Shattered Black Rose
+5:0::0::
+5:0::0::unit f668  # Lord Melchet in Syr-Antin Plain~[bt41]
+5:0::3::fly w
+5:0::3::fly w
+5:0::0::
+5:0::0::unit 131313  # Major Sinnlos in Mountain~[aj59]
+5:0::3::# > use 751 142019 (executing for four more days)
+5:0::3::use 753
+5:0::3::use 751
+5:0::3::explore
+5:0::3::explore
+5:0::0::
+5:0::0::unit 6242  # Commander Drak Frish in Mountain~[bh72]
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::0::
+5:0::0::unit 9918  # General Khazaral in Aurion~[p90]
+5:0::3::# > form 109199 "Aurion peasant" (executing for two more days)
+5:0::3::fly out
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly k038
+5:0::3::move wj44
+5:0::3::move s
+5:0::3::move s
+5:0::3::explore
+5:0::3::explore
+5:0::3::explore
+5:0::3::explore
+5:0::3::move b797
+5:0::3::move cg34
+5:0::3::fly cg33
+5:0::3::fly cg32
+5:0::3::fly cg31
+5:0::3::fly j37
+5:0::3::form 109199 "Ali Myopec"
+5:0::3::form 81894 "Turban Boochar"
+5:0::3::form 108511 "Mustapha Shiek"
+5:0::3::explore
+5:0::3::move b797
+5:0::3::move cg34
+5:0::3::fly cg33
+5:0::3::fly cg32
+5:0::3::fly cg31
+5:0::3::fly j37
+5:0::3::form 109199 "Ali Myopec"
+5:0::3::form 81894 "Turban Boochar"
+5:0::3::form 108511 "Mustapha Shiek"
+5:0::3::explore
+5:0::3::move b797
+5:0::3::move cg34
+5:0::3::fly cg33
+5:0::3::fly cg32
+5:0::3::fly cg31
+5:0::3::fly j37
+5:0::3::form 109199 "Ali Myopec"
+5:0::3::form 81894 "Turban Boochar"
+5:0::3::form 108511 "Mustapha Shiek"
+5:0::3::explore
+5:0::3::move b797
+5:0::3::move cg34
+5:0::3::fly cg33
+5:0::3::fly cg32
+5:0::3::fly cg31
+5:0::3::fly j37
+5:0::3::form 109199 "Ali Myopec"
+5:0::3::form 81894 "Turban Boochar"
+5:0::3::form 108511 "Mustapha Shiek"
+5:0::3::explore
+5:0::0::
+5:0::0::#
+5:0::0::# Orders for units you do not control as of now
+5:0::0::#
+5:0::0::unit 81894
+5:0::3::unstack
+5:0::3::claim 1 300
+5:0::3::study 610 1
+5:0::3::study 630 1
+5:0::3::study 670 1
+5:0::3::study 630
+5:0::3::study 630
+5:0::3::explore
+5:0::3::explore
+5:0::3::seek
+5:0::0::
+5:0::0::unit 108511
+5:0::3::unstack
+5:0::3::claim 1 300
+5:0::3::study 610 1
+5:0::3::study 630 1
+5:0::3::study 670 1
+5:0::3::study 630
+5:0::3::study 630
+5:0::3::explore
+5:0::3::explore
+5:0::3::seek
+5:0::0::
+5:0::0::unit 109199
+5:0::3::unstack
+5:0::3::claim 1 300
+5:0::3::study 610 1
+5:0::3::study 630 1
+5:0::3::study 670 1
+5:0::3::study 630
+5:0::3::study 630
+5:0::3::explore
+5:0::3::explore
+5:0::3::seek
+5:0::0::
+5:0::0::end
+56406:0::0::
+56406:0::0::Admit permissions:
+56406:0::0::
+56406:0::3::admit 3575  xu3
+56406:0::3::admit 5277  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  vg6  wc9
+56406:0::3::            xp6  xu3  yq6  ze2  vz3  rk4
+56406:0::3::admit 6242  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  vg6  wc9
+56406:0::3::            xp6  xu3  yq6  ze2  vz3  rk4
+56406:0::3::admit 9918  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  vg6  wc9
+56406:0::3::            xp6  xu3  yq6  ze2  vz3  rk4
+56406:0::3::admit  yq6  em7  xu3  ak6  wz6  en6  zz4
+56406:0::3::admit a168  ak6  nf6  xu3  wc9
+56406:0::3::admit f978  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  vg6  wc9
+56406:0::3::            xp6  xu3  yq6  ze2  vz3  rk4
+56406:0::3::admit 82880  ak6  em7  xu3 84697 3304 80343 84953
+56406:0::3::admit 133092  ak6  cy5  em7  en6  fa5  fv6  hh6  nf6  xu3  yq6  zz4
+56406:0::3::            wc9
+56406:0::0::
+56406:0::0::Unclaimed items:
+56406:0::0::
+56406:0::0::      qty  name                              weight
+56406:0::0::      ---  ----                              ------
+56406:0::0::    1,249  gold~[1]                               0  
+6242:0::3::
+6242:0::3/16::Location:       Mountain~[bh72], in Krussos
+6242:0::3::Loyalty:        Oath-1
+6242:0::3::Health:         100%
+6242:0::3::Combat:         attack 80, defense 80, missile 0
+6242:0::3::                behind 0  (front line in combat)
+6242:0::3::Break point:    0% (fight to the death)
+6242:0::3::Receive Vision: 7 protection
+6242:0::3::
+6242:0::3::Skills known:
+6242:0::6::Shipcraft~[600]
+6242:0::12::Sailing~[601], journeyman
+6242:0::12::Shipbuilding~[602], apprentice
+6242:0::6::Combat~[610]
+6242:0::12::Survive fatal wound~[611]
+6242:0::12::Fight to the death~[612]
+6242:0::6::Beastmastery~[650]
+6242:0::12::Use beasts in battle~[653]
+6242:0::12::Breed beasts~[654], grand master
+6242:0::12::Catch wild horses~[655], grand master
+6242:0::12::Train wild horse to riding horse~[656], adept
+6242:0::12::Train wild horse to warmount~[657], journeyman
+6242:0::6::Trade~[730]
+6242:0::12::Find tradegood for sale~[732], apprentice
+6242:0::12::Find market for tradegood~[733], apprentice
+6242:0::3::
+6242:0::3::Inventory:
+6242:0::3::{<b>}      qty  name                              weight{</b>}
+6242:0::3::      ---  ----                              ------
+6242:0::3::      523  gold~[1]                               0  
+6242:0::3::        1  winged horse~[54]                  1,000  fly 150
+6242:0::3::       30  harpies~[285]                     15,000   (80,120,0)
+6242:0::3::                                             ======
+6242:0::3::                                             16,000
+6242:0::3::
+6242:0::3/11::Capacity:  0/250 land (0%), 100/150 ride (66%), 100/150 fly (66%)
+6242:0::3::
+9918:0::3::
+9918:0::3/16::Location:       Aurion~[p90], in province STC border~[bp18], in Tollus
+9918:0::3::Loyalty:        Oath-2
+9918:0::3::Health:         100%
+9918:0::3::Combat:         attack 80, defense 88, missile 50
+9918:0::3::                behind 0  (front line in combat)
+9918:0::3::Break point:    0% (fight to the death)
+9918:0::3::use  641 1      (concealing self)
+9918:0::3::
+9918:0::3::Current aura:   10
+9918:0::3::Maximum aura:   32
+9918:0::3::
+9918:0::3::Skills known:
+9918:0::6::Combat~[610]
+9918:0::12::Fight to the death~[612]
+9918:0::12::Construct catapult~[613], apprentice
+9918:0::12::Defense~[614], apprentice
+9918:0::12::Archery~[615], apprentice
+9918:0::6::Stealth~[630]
+9918:0::12::Conceal faction~[635], apprentice
+9918:0::12::Conceal self~[641], journeyman
+9918:0::6::Magic~[800]
+9918:0::12::Meditate~[801], apprentice
+9918:0::12::Perform common tasks for gold~[802], master
+9918:0::12::Appear common~[803], journeyman
+9918:0::12::View current aura level of others~[804], apprentice
+9918:0::12::Reveal abilities of another mage~[805], apprentice
+9918:0::12::Tap health for aura~[806], journeyman
+9918:0::12::Heal~[807], apprentice
+9918:0::12::Modern magic script~[808], apprentice
+9918:0::6::Gatecraft~[860]
+9918:0::12::Teleport~[861], apprentice
+9918:0::12::Detect gates~[862], journeyman
+9918:0::12::Jump through gate~[863], apprentice
+9918:0::12::Seal gate~[864], apprentice
+9918:0::12::Unseal gate with key~[865], apprentice
+9918:0::12::Notify if gate unsealed~[866], apprentice
+9918:0::12::Forcefully unseal gate~[867], apprentice
+9918:0::12::Reveal gate key~[868], apprentice
+9918:0::12::Notify of gate jumps~[869], apprentice
+9918:0::12::Language of the Ancients~[871], apprentice
+9918:0::12::Reverse jump through gate~[872], apprentice
+9918:0::6::Necromancy~[900]
+9918:0::12::Transcend death~[901], apprentice
+9918:0::12::Runes of Evil~[902], apprentice
+9918:0::12::Summon ghost warriors~[903], apprentice
+9918:0::12::Raise undead~[904], apprentice
+9918:0::12::Summon demon lord~[905], apprentice
+9918:0::12::Renew demon bond~[906], apprentice
+9918:0::12::Banish demon lord~[907], apprentice
+9918:0::12::Eating of the dead~[908], apprentice
+9918:0::12::Aura blast~[909], apprentice
+9918:0::12::Absorb aura blast~[911], apprentice
+9918:0::3::
+9918:0::3::Inventory:
+9918:0::3::{<b>}      qty  name                              weight{</b>}
+9918:0::3::      ---  ----                              ------
+9918:0::3::      739  gold~[1]                               0  
+9918:0::3::        3  riding horses~[52]                 3,000  ride 450
+9918:0::3::       38  winged horses~[54]                38,000  fly 5,700
+9918:0::3::        1  elfstone~[69]                          1  
+9918:0::3::        2  blank scrolls~[84]                     4  
+9918:0::3::                                             ======
+9918:0::3::                                             41,005
+9918:0::3::
+9918:0::3/11::Capacity:  5/6,250 land (0%), 105/6,150 ride (1%), 3,105/5,700 fly (54%)
+9918:0::3::
+63668:0::3::
+63668:0::3/16::Location:       Syr-Antin Plain~[bt41], in Provinia
+63668:0::3::Loyalty:        Fear-25
+63668:0::3::Health:         100%
+63668:0::3::Combat:         attack 80, defense 30, missile 0
+63668:0::3::                behind 0  (front line in combat)
+63668:0::3::Break point:    0% (fight to the death)
+63668:0::3::use  641 1      (concealing self)
+63668:0::3::Receive Vision: 1 protection
+63668:0::3/16::Pledged to:     Apocalypse~[8611]
+63668:0::3::
+63668:0::3::Current aura:   3
+63668:0::3::Maximum aura:   3
+63668:0::3::
+63668:0::3::Skills known:
+63668:0::6::Combat~[610]
+63668:0::12::Survive fatal wound~[611]
+63668:0::12::Fight to the death~[612]
+63668:0::6::Stealth~[630]
+63668:0::12::Conceal faction~[635], apprentice
+63668:0::12::Conceal self~[641], apprentice
+63668:0::6::Persuasion~[670]
+63668:0::12::Persuade oathbound noble~[672], apprentice
+63668:0::6::Forestry~[700]
+63668:0::12::Construct battering ram~[701], apprentice
+63668:0::12::Harvest lumber~[702], apprentice
+63668:0::12::Harvest yew~[703], apprentice
+63668:0::12::Collect rare foliage~[704], apprentice
+63668:0::6::Trade~[730]
+63668:0::12::Conceal identity of trader~[731], apprentice
+63668:0::12::Find tradegood for sale~[732], journeyman
+63668:0::12::Find market for tradegood~[733], journeyman
+63668:0::6::Necromancy~[900]
+63668:0::12::Aura blast~[909], apprentice
+63668:0::12::Absorb aura blast~[911], apprentice
+63668:0::3::
+63668:0::3::Partially known skills:
+63668:0::6/6::Raise undead~[904], 0/21
+63668:0::6/6::Summon demon lord~[905], 0/21
+63668:0::6/6::Renew demon bond~[906], 0/21
+63668:0::6/6::Banish demon lord~[907], 0/21
+63668:0::6/6::Eating of the dead~[908], 0/28
+63668:0::3::
+63668:0::3::Inventory:
+63668:0::3::{<b>}      qty  name                              weight{</b>}
+63668:0::3::      ---  ----                              ------
+63668:0::3::    9,875  gold~[1]                               0  
+63668:0::3::        4  winged horses~[54]                 4,000  fly 600
+63668:0::3::                                             ======
+63668:0::3::                                              4,000
+63668:0::3::
+63668:0::3/11::Capacity:  0/700 land (0%), 100/600 ride (16%), 100/600 fly (16%)
+63668:0::3::
+63668:0::3::Pending trades:
+63668:0::3::
+63668:0::6::trade    price    qty   item
+63668:0::6::-----    -----    ---   ----
+63668:0::6:: sell       87    958   linen~[m208]
+63668:0::3::
+131313:0::3::
+131313:0::3/16::Location:       Mountain~[aj59], in Atala
+131313:0::3::Loyalty:        Fear-101
+131313:0::3::Health:         100%
+131313:0::3::Combat:         attack 80, defense 80, missile 0
+131313:0::3::                behind 0  (front line in combat)
+131313:0::3::Break point:    0% (fight to the death)
+131313:0::3::Receive Vision: 27 protection
+131313:0::3::
+131313:0::3::Skills known:
+131313:0::6::Combat~[610]
+131313:0::12::Fight to the death~[612]
+131313:0::6::Stealth~[630]
+131313:0::6::Religion~[750]
+131313:0::12::Receive vision~[751], master
+131313:0::12::Resurrect dead noble~[752], apprentice
+131313:0::12::Preparatory ritual~[753], master
+131313:0::12::Lay to rest~[754], journeyman
+131313:0::12::Remove blessing from soldiers~[755], apprentice
+131313:0::12::Immunity from Vision~[756], master
+131313:0::3::
+131313:0::3::Inventory:
+131313:0::3::{<b>}      qty  name                              weight{</b>}
+131313:0::3::      ---  ----                              ------
+131313:0::3::   15,906  gold~[1]                               0  
+131313:0::3::       12  winged horses~[54]                12,000  fly 1,800
+131313:0::3::        1  longbow~[72]                           3  
+131313:0::3::                                             ======
+131313:0::3::                                             12,003
+131313:0::3::
+131313:0::3/11::Capacity:  3/1,900 land (0%), 103/1,800 ride (5%), 103/1,800 fly (5%)
+131313:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Shattered Black Rose~[yq6].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/yq6/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [yq6]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         4  93rd   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                          27,043  50th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   36/74  70th   
+0:0::3/41::Spells known:                   32/79  69th   
+0:0::3/41::Provinces visited:         678/31,919  48th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  23     (3 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 263.
+0:0::0::
+0:0::0::The next five nobles formed will be:  81894 108511 109199 120503 142692
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::f668   bt41   f25   100  0  3 9875                            Lord Melchet
+0:0::0::131313 aj59   f101  100  0     15k                            Major Sinnlos
+0:0::0::6242   bh72   o1    100  0     523                            Commander Drak
+0:0::0::9918   p90    o2    100  0 10  739                            General
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               27k                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Syr-Antin Plain~[bt41]           Lord Melchet~[f668]
+0:0::0::Atala
+0:0::0::  Mountain~[aj59]                  Major Sinnlos~[131313]
+0:0::0::Krussos
+0:0::0::  Mountain~[bh72]                  Commander Drak Frish~[6242]
+0:0::0::Tollus
+0:0::0::  STC border~[bp18]
+0:0::0::    Aurion~[p90]                   General Khazaral~[9918]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  f668       4,100        700   0%        500  16%        500  16%
+0:0::0::131313      12,103      1,897   0%      1,697   5%      1,697   5%
+0:0::0::  6242      16,100        250   0%         50  66%         50  66%
+0:0::0::  9918      41,105      6,245   0%      6,045   1%      2,595  54%
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Shattered Black Rose~[yq6]"><font size=+1><b>Shattered Black Rose~[yq6]</b></font>
+1:2::0::<hr>
+1:1::0::Shattered Black Rose~[yq6]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 56406
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Melchet~[f668]"><font size=+1><b>Lord Melchet~[f668]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Melchet~[f668]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 63668
+1:0::0::
+1:2::0::
+1:2::0::<name="Major Sinnlos~[131313]"><font size=+1><b>Major Sinnlos~[131313]</b></font>
+1:2::0::<hr>
+1:1::0::Major Sinnlos~[131313]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 131313
+1:0::0::
+1:2::0::
+1:2::0::<name="Commander Drak Frish~[6242]"><font size=+1><b>Commander Drak Frish~[6242]</b></font>
+1:2::0::<hr>
+1:1::0::Commander Drak Frish~[6242]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6242
+1:0::0::
+1:2::0::
+1:2::0::<name="General Khazaral~[9918]"><font size=+1><b>General Khazaral~[9918]</b></font>
+1:2::0::<hr>
+1:1::0::General Khazaral~[9918]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9918
+1:2::0::
+1:2::0::<name="Ocean~[bn45]"><font size=+1><b>Ocean~[bn45]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bn45], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13045
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bp45]"><font size=+1><b>Ocean~[bp45]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bp45], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13145
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bq45]"><font size=+1><b>Ocean~[bq45]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bq45], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13245
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[br45]"><font size=+1><b>Plain~[br45]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[br45], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13345
+1:0::0::
+1:2::0::
+1:2::0::<name="Black Forest~[bs45]"><font size=+1><b>Black Forest~[bs45]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Black Forest~[bs45], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13445
+1:0::0::
+1:2::0::
+1:2::0::<name="Syr-Antin Plain~[bt41]"><font size=+1><b>Syr-Antin Plain~[bt41]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Syr-Antin Plain~[bt41], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13541
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bt42]"><font size=+1><b>Plain~[bt42]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bt42], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13542
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bt43]"><font size=+1><b>Plain~[bt43]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bt43], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13543
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bt44]"><font size=+1><b>Plain~[bt44]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bt44], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13544
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bt45]"><font size=+1><b>Plain~[bt45]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bt45], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13545
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[aj59]"><font size=+1><b>Mountain~[aj59]</b>, mountain, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Mountain~[aj59], mountain, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10759
+1:0::0::
+1:2::0::
+1:2::0::<name="Graveyard~[a168]"><font size=+1><b>Graveyard~[a168]</b>, graveyard, in province Mountain~[aj59]</font>
+1:2::0::<hr>
+1:1::0::Graveyard~[a168], graveyard, in province Mountain~[aj59]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 59168
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[bb72]"><font size=+1><b>Forest~[bb72]</b>, forest, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[bb72], forest, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12172
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bc72]"><font size=+1><b>Plain~[bc72]</b>, plain, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bc72], plain, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12272
+1:0::0::
+1:2::0::
+1:2::0::<name="Swamp~[bd72]"><font size=+1><b>Swamp~[bd72]</b>, swamp, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Swamp~[bd72], swamp, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12372
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bf72]"><font size=+1><b>Plain~[bf72]</b>, plain, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bf72], plain, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12472
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bg72]"><font size=+1><b>Plain~[bg72]</b>, plain, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bg72], plain, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12572
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[bh72]"><font size=+1><b>Mountain~[bh72]</b>, mountain, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[bh72], mountain, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12672
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[bk45]"><font size=+1><b>Forest~[bk45]</b>, forest, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[bk45], forest, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12845
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bm45]"><font size=+1><b>Plain~[bm45]</b>, plain, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bm45], plain, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12945
+1:0::0::
+1:2::0::
+1:2::0::<name="STC border~[bp18]"><font size=+1><b>STC border~[bp18]</b>, swamp, in Tollus, civ-1</font>
+1:2::0::<hr>
+1:1::0::STC border~[bp18], swamp, in Tollus, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13118
+1:0::0::
+1:2::0::
+1:2::0::<name="Aurion~[p90]"><font size=+1><b>Aurion~[p90]</b>, city, in province STC border~[bp18]</font>
+1:2::0::<hr>
+1:1::0::Aurion~[p90], city, in province STC border~[bp18]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57950
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[bp19]"><font size=+1><b>Forest~[bp19]</b>, forest, in Tollus, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[bp19], forest, in Tollus, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13119
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bp20]"><font size=+1><b>Plain~[bp20]</b>, plain, in Tollus, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bp20], plain, in Tollus, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13120
+1:0::0::
+1:2::0::
+1:2::0::<name="Graveyard~[k083]"><font size=+1><b>Graveyard~[k083]</b>, graveyard, in province Plain~[bp20]</font>
+1:2::0::<hr>
+1:1::0::Graveyard~[k083], graveyard, in province Plain~[bp20]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 67083
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[wj44]"><font size=+1><b>Hades~[wj44]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[wj44], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44744
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[sj43]"><font size=+1><b>Hades~[sj43]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[sj43], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38743
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[zk82]"><font size=+1><b>Hades~[zk82]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[zk82], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 48882
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

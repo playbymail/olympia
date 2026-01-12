@@ -1,0 +1,1423 @@
+57646:0::0:0:Garrison~[6201], garrison, with 132~pikemen guards Carim~[k86].
+14349:0::0:0:Garrison~[b202], garrison, with ten~soldiers guards Forest of Dawn~[cd49].
+15143:0::0:0:Garrison~[j543], garrison, with ten~peasants guards Stallion Glen~[cp43].
+50797:0::0:0:> accept 0 0
+119118:0::0:1:> default z205
+119118:0::0:1:> give 142019 282 0
+119118:0::0:1:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:1:Received three~giant lizards~[282] from Klaus Meine~[119118].
+141835:0::0:1:> give 142019 282 0
+141835:0::0:1:Gave two~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:1:Received two~giant lizards~[282] from Rudolf Schenker~[141835].
+139967:0::0:1:> get 119118 1 100
+139967:0::0:1:Took 100~gold from Klaus Meine~[119118].
+119118:0::0:1:Zepplin~[139967] took 100~gold~[1] from us.
+119118:0::0:1:> get 142019 282 2
+119118:0::0:1:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:1:Klaus Meine~[119118] took two~giant lizards~[282] from us.
+141835:0::0:1:> get 142019 282 2
+141835:0::0:1:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:1:Rudolf Schenker~[141835] took two~giant lizards~[282] from us.
+111211:0::0:1:> give 142019 282 0
+111211:0::0:1:Gave one~giant lizard to Alexander the Scorpion~[142019].
+142019:0::0:1:Received one~giant lizard~[282] from Joan Jett~[111211].
+111211:0::0:1:> get 142019 282 2
+111211:0::0:1:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:1:Joan Jett~[111211] took two~giant lizards~[282] from us.
+57646:0::0:1:Mesmerus the Scribe~[r209], with one~riding horse, eight~giant lizards, exited Flaming Phoenix Inn~[110722].
+57646:0::0:1:Kalamar the Wanderer~[s376], priest, exited Shrine of Fharlanghn~[99904].
+57646:0::0:1:Carim~[k86] bought one~woven basket~[94] from Kalamar the Wanderer~[s376] for 3~gold.
+57646:0::0:1:Mesmerus the Scribe~[r209], with one~riding horse, eight~giant lizards, entered Castle Dawn~[k006].
+57646:0::0:1:Mesmerus the Scribe~[r209], with one~riding horse, five~giant lizards, exited Castle Dawn~[k006].
+138332:0::0:1:> use 732
+119118:0::0:1:> breed 282 282
+119118:0::0:1:Breed attempt will take 6 days.
+141835:0::0:1:> breed 282 282
+141835:0::0:1:Breed attempt will take 6 days.
+139967:0::0:1:> study 654
+139967:0::0:1:Paid 100~gold to begin study.
+139967:0::0:1:Study Breed beasts for seven days.
+141206:0::0:1:> study 652
+141206:0::0:1:Study Capture beasts in battle for seven days.
+111211:0::0:1:> breed 282 282
+111211:0::0:1:Breed attempt will take 6 days.
+104439:0::0:1:Produced one~giant lizard~[282].
+104439:0::0:2:> give 142019 282 0
+104439:0::0:2:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:2:Received three~giant lizards~[282] from Sammy Hagar~[104439].
+104439:0::0:2:> get 142019 282 2
+104439:0::0:2:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:2:Sammy Hagar~[104439] took two~giant lizards~[282] from us.
+104439:0::0:2:> breed 282 282
+104439:0::0:2:Breed attempt will take 6 days.
+57646:0::0:3:Torgo the Dreadnought~[a328], with six~workers, two~riding horses, exited Flaming Phoenix Inn~[110722].
+57646:0::0:3:Torgo the Dreadnought~[a328], with six~workers, two~riding horses, exited Carim~[k86].
+14349:0::0:3:Torgo the Dreadnought~[a328], with six~workers, two~riding horses, arrived from Carim~[k86].
+79452:0::0:3:Produced one~winged horse~[54].
+14349:0::0:4:Torgo the Dreadnought~[a328], with two~riding horses, went north.
+79452:0::0:4:> study 611
+79452:0::0:4:Study Survive fatal wound for seven days.
+14349:0::0:4:It has begun to rain.
+142019:0::0:5:Produced one~giant lizard~[282].
+115442:0::0:5:Produced one~giant lizard~[282].
+97482:0::0:5:Produced one~giant lizard~[282].
+80886:0::0:5:Produced one~giant lizard~[282].
+94731:0::0:5:Produced one~giant lizard~[282].
+115442:0::0:6:> give 142019 282 0
+115442:0::0:6:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:6:Received three~giant lizards~[282] from Lady Ice~[115442].
+97482:0::0:6:> give 142019 282 0
+97482:0::0:6:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:6:Received three~giant lizards~[282] from Francis Bucholz~[97482].
+94731:0::0:6:> give 142019 282 0
+94731:0::0:6:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:6:Received three~giant lizards~[282] from Ted Nugent~[94731].
+57646:0::0:6:Carim~[k86] bought 28~ivory~[131664] for 5,348~gold.
+115442:0::0:6:> get 142019 282 2
+115442:0::0:6:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:6:Lady Ice~[115442] took two~giant lizards~[282] from us.
+97482:0::0:6:> get 142019 282 2
+97482:0::0:6:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:6:Francis Bucholz~[97482] took two~giant lizards~[282] from us.
+94731:0::0:6:> get 142019 282 2
+94731:0::0:6:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:6:Ted Nugent~[94731] took two~giant lizards~[282] from us.
+142019:0::0:6:> move w
+142019:0::0:6:12 nobles, 139 men: travel will take an extra day.
+142019:0::0:6:Travel to Plain~[cp42] will take five days.
+119118:0::0:6:Travel to Plain~[cp42] will take five days.
+141835:0::0:6:Travel to Plain~[cp42] will take five days.
+139967:0::0:6:Travel to Plain~[cp42] will take five days.
+141206:0::0:6:Travel to Plain~[cp42] will take five days.
+79452:0::0:6:Travel to Plain~[cp42] will take five days.
+104439:0::0:6:Travel to Plain~[cp42] will take five days.
+115442:0::0:6:Travel to Plain~[cp42] will take five days.
+97482:0::0:6:Travel to Plain~[cp42] will take five days.
+80886:0::0:6:Travel to Plain~[cp42] will take five days.
+94731:0::0:6:Travel to Plain~[cp42] will take five days.
+111211:0::0:6:Travel to Plain~[cp42] will take five days.
+15143:0::0:6:Alexander the Scorpion~[142019], with 32~wild horses, four~winged horses, three~oxen, 118~giant lizards, went west, accompanied~by:
+15143:0::3/3:6:Klaus Meine~[119118], with two~giant lizards
+15143:0::3/3:6:Rudolf Schenker~[141835], with two~giant lizards
+15143:0::3/3:6:Zepplin~[139967], with two~winged horses
+15143:0::3/3:6:Ozzy Ozbourne~[141206], with 37~winged horses
+15143:0::3/3:6:Kid Rock~[79452], with five~winged horses
+15143:0::3/3:6:Sammy Hagar~[104439], with two~giant lizards
+15143:0::3/3:6:Lady Ice~[115442], with two~giant lizards
+15143:0::3/3:6:Francis Bucholz~[97482], with two~giant lizards
+15143:0::3/3:6:Ace Freely~[80886], with three~giant lizards, four~harpies
+15143:0::3/3:6:Ted Nugent~[94731], with three~winged horses, two~giant lizards
+15143:0::3/3:6:Joan Jett~[111211], with two~winged horses, two~giant lizards
+57646:0::0:8:Mesmerus the Scribe~[r209], with one~riding horse, five~giant lizards, entered Flaming Phoenix Inn~[110722].
+142019:0::0:10:Arrival at Plain~[cp42].
+119118:0::0:10:Arrival at Plain~[cp42].
+141835:0::0:10:Arrival at Plain~[cp42].
+139967:0::0:10:Arrival at Plain~[cp42].
+141206:0::0:10:Arrival at Plain~[cp42].
+79452:0::0:10:Arrival at Plain~[cp42].
+104439:0::0:10:Arrival at Plain~[cp42].
+115442:0::0:10:Arrival at Plain~[cp42].
+97482:0::0:10:Arrival at Plain~[cp42].
+80886:0::0:10:Arrival at Plain~[cp42].
+94731:0::0:10:Arrival at Plain~[cp42].
+111211:0::0:10:Arrival at Plain~[cp42].
+15142:0::0:10:Alexander the Scorpion~[142019], with 32~wild horses, four~winged horses, three~oxen, 118~giant lizards, arrived from the east, accompanied~by:
+15142:0::3/3:10:Klaus Meine~[119118], with two~giant lizards
+15142:0::3/3:10:Rudolf Schenker~[141835], with two~giant lizards
+15142:0::3/3:10:Zepplin~[139967], with two~winged horses
+15142:0::3/3:10:Ozzy Ozbourne~[141206], with 37~winged horses
+15142:0::3/3:10:Kid Rock~[79452], with five~winged horses
+15142:0::3/3:10:Sammy Hagar~[104439], with two~giant lizards
+15142:0::3/3:10:Lady Ice~[115442], with two~giant lizards
+15142:0::3/3:10:Francis Bucholz~[97482], with two~giant lizards
+15142:0::3/3:10:Ace Freely~[80886], with three~giant lizards, four~harpies
+15142:0::3/3:10:Ted Nugent~[94731], with three~winged horses, two~giant lizards
+15142:0::3/3:10:Joan Jett~[111211], with two~winged horses, two~giant lizards
+119118:0::0:10:One~giant lizard~[282] was killed in the breeding attempt.
+119118:0::0:10:No offspring was produced.
+141835:0::0:10:Produced one~giant lizard~[282].
+111211:0::0:10:Produced one~giant lizard~[282].
+119118:0::0:11:> give 142019 282 0
+119118:0::0:11:Gave one~giant lizard to Alexander the Scorpion~[142019].
+142019:0::0:11:Received one~giant lizard~[282] from Klaus Meine~[119118].
+141835:0::0:11:> give 142019 282 0
+141835:0::0:11:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:11:Received three~giant lizards~[282] from Rudolf Schenker~[141835].
+111211:0::0:11:> give 142019 282 0
+111211:0::0:11:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:11:Received three~giant lizards~[282] from Joan Jett~[111211].
+119118:0::0:11:> get 142019 282 2
+119118:0::0:11:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:11:Klaus Meine~[119118] took two~giant lizards~[282] from us.
+141835:0::0:11:> get 142019 282 2
+141835:0::0:11:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:11:Rudolf Schenker~[141835] took two~giant lizards~[282] from us.
+111211:0::0:11:> get 142019 282 2
+111211:0::0:11:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:11:Joan Jett~[111211] took two~giant lizards~[282] from us.
+142019:0::0:11:> move w
+142019:0::0:11:12 nobles, 140 men: travel will take an extra day.
+142019:0::0:11:Travel to Forest~[cp41] will take five days.
+119118:0::0:11:Travel to Forest~[cp41] will take five days.
+141835:0::0:11:Travel to Forest~[cp41] will take five days.
+139967:0::0:11:Travel to Forest~[cp41] will take five days.
+141206:0::0:11:Travel to Forest~[cp41] will take five days.
+79452:0::0:11:Travel to Forest~[cp41] will take five days.
+104439:0::0:11:Travel to Forest~[cp41] will take five days.
+115442:0::0:11:Travel to Forest~[cp41] will take five days.
+97482:0::0:11:Travel to Forest~[cp41] will take five days.
+80886:0::0:11:Travel to Forest~[cp41] will take five days.
+94731:0::0:11:Travel to Forest~[cp41] will take five days.
+111211:0::0:11:Travel to Forest~[cp41] will take five days.
+15142:0::0:11:Alexander the Scorpion~[142019], with 32~wild horses, four~winged horses, three~oxen, 119~giant lizards, went west, accompanied~by:
+15142:0::3/3:11:Klaus Meine~[119118], with two~giant lizards
+15142:0::3/3:11:Rudolf Schenker~[141835], with two~giant lizards
+15142:0::3/3:11:Zepplin~[139967], with two~winged horses
+15142:0::3/3:11:Ozzy Ozbourne~[141206], with 37~winged horses
+15142:0::3/3:11:Kid Rock~[79452], with five~winged horses
+15142:0::3/3:11:Sammy Hagar~[104439], with two~giant lizards
+15142:0::3/3:11:Lady Ice~[115442], with two~giant lizards
+15142:0::3/3:11:Francis Bucholz~[97482], with two~giant lizards
+15142:0::3/3:11:Ace Freely~[80886], with three~giant lizards, four~harpies
+15142:0::3/3:11:Ted Nugent~[94731], with three~winged horses, two~giant lizards
+15142:0::3/3:11:Joan Jett~[111211], with two~winged horses, two~giant lizards
+142019:0::0:15:Arrival at Forest~[cp41].
+119118:0::0:15:Arrival at Forest~[cp41].
+141835:0::0:15:Arrival at Forest~[cp41].
+139967:0::0:15:Arrival at Forest~[cp41].
+141206:0::0:15:Arrival at Forest~[cp41].
+79452:0::0:15:Arrival at Forest~[cp41].
+104439:0::0:15:Arrival at Forest~[cp41].
+115442:0::0:15:Arrival at Forest~[cp41].
+97482:0::0:15:Arrival at Forest~[cp41].
+80886:0::0:15:Arrival at Forest~[cp41].
+94731:0::0:15:Arrival at Forest~[cp41].
+111211:0::0:15:Arrival at Forest~[cp41].
+15141:0::0:15:Alexander the Scorpion~[142019], with 32~wild horses, four~winged horses, three~oxen, 119~giant lizards, arrived from the east, accompanied~by:
+15141:0::3/3:15:Klaus Meine~[119118], with two~giant lizards
+15141:0::3/3:15:Rudolf Schenker~[141835], with two~giant lizards
+15141:0::3/3:15:Zepplin~[139967], with two~winged horses
+15141:0::3/3:15:Ozzy Ozbourne~[141206], with 37~winged horses
+15141:0::3/3:15:Kid Rock~[79452], with five~winged horses
+15141:0::3/3:15:Sammy Hagar~[104439], with two~giant lizards
+15141:0::3/3:15:Lady Ice~[115442], with two~giant lizards
+15141:0::3/3:15:Francis Bucholz~[97482], with two~giant lizards
+15141:0::3/3:15:Ace Freely~[80886], with three~giant lizards, four~harpies
+15141:0::3/3:15:Ted Nugent~[94731], with three~winged horses, two~giant lizards
+15141:0::3/3:15:Joan Jett~[111211], with two~winged horses, two~giant lizards
+141206:0::0:15:Learned Capture beasts in battle~[652].
+104439:0::0:15:One~giant lizard~[282] was killed in the breeding attempt.
+104439:0::0:15:Produced one~giant lizard~[282].
+104439:0::0:16:> give 142019 282 0
+104439:0::0:16:Gave two~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:16:Received two~giant lizards~[282] from Sammy Hagar~[104439].
+104439:0::0:16:> get 142019 282 2
+104439:0::0:16:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:16:Sammy Hagar~[104439] took two~giant lizards~[282] from us.
+142019:0::0:16:> breed 282 282
+142019:0::0:16:Breed attempt will take 6 days.
+119118:0::0:16:> breed 282 282
+119118:0::0:16:Breed attempt will take 6 days.
+141835:0::0:16:> breed 282 282
+141835:0::0:16:Breed attempt will take 6 days.
+139967:0::0:16:> study 654
+139967:0::0:16:Study Breed beasts for seven days.
+141206:0::0:16:> breed 54 54
+141206:0::0:16:Breed attempt will take 6 days.
+104439:0::0:16:> breed 282 282
+104439:0::0:16:Breed attempt will take 6 days.
+115442:0::0:16:> breed 282 282
+115442:0::0:16:Breed attempt will take 6 days.
+97482:0::0:16:> breed 282 282
+97482:0::0:16:Breed attempt will take 6 days.
+80886:0::0:16:> breed 285 285
+80886:0::0:16:Breed attempt will take 13 days.
+94731:0::0:16:> breed 282 282
+94731:0::0:16:Breed attempt will take 6 days.
+111211:0::0:16:> breed 282 282
+111211:0::0:16:Breed attempt will take 6 days.
+79452:0::0:19:> study 611
+79452:0::0:19:Study Survive fatal wound for seven days.
+142019:0::0:21:Produced one~giant lizard~[282].
+138332:0::0:21:At most two tradegoods may be offered for sale in each city.
+119118:0::0:21:Produced one~giant lizard~[282].
+141835:0::0:21:One~giant lizard~[282] was killed in the breeding attempt.
+141835:0::0:21:Produced one~giant lizard~[282].
+141206:0::0:21:Produced one~winged horse~[54].
+104439:0::0:21:Produced one~giant lizard~[282].
+115442:0::0:21:Produced one~giant lizard~[282].
+97482:0::0:21:Produced one~giant lizard~[282].
+94731:0::0:21:Produced one~giant lizard~[282].
+111211:0::0:21:Produced one~giant lizard~[282].
+119118:0::0:22:> give 142019 282 0
+119118:0::0:22:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:22:Received three~giant lizards~[282] from Klaus Meine~[119118].
+141835:0::0:22:> give 142019 282 0
+141835:0::0:22:Gave two~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:22:Received two~giant lizards~[282] from Rudolf Schenker~[141835].
+104439:0::0:22:> give 142019 282 0
+104439:0::0:22:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:22:Received three~giant lizards~[282] from Sammy Hagar~[104439].
+115442:0::0:22:> give 142019 282 0
+115442:0::0:22:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:22:Received three~giant lizards~[282] from Lady Ice~[115442].
+97482:0::0:22:> give 142019 282 0
+97482:0::0:22:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:22:Received three~giant lizards~[282] from Francis Bucholz~[97482].
+94731:0::0:22:> give 142019 282 0
+94731:0::0:22:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:22:Received three~giant lizards~[282] from Ted Nugent~[94731].
+111211:0::0:22:> give 142019 282 0
+111211:0::0:22:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:22:Received three~giant lizards~[282] from Joan Jett~[111211].
+119118:0::0:22:> get 142019 282 2
+119118:0::0:22:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:22:Klaus Meine~[119118] took two~giant lizards~[282] from us.
+141835:0::0:22:> get 142019 282 2
+141835:0::0:22:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:22:Rudolf Schenker~[141835] took two~giant lizards~[282] from us.
+104439:0::0:22:> get 142019 282 2
+104439:0::0:22:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:22:Sammy Hagar~[104439] took two~giant lizards~[282] from us.
+115442:0::0:22:> get 142019 282 2
+115442:0::0:22:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:22:Lady Ice~[115442] took two~giant lizards~[282] from us.
+97482:0::0:22:> get 142019 282 2
+97482:0::0:22:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:22:Francis Bucholz~[97482] took two~giant lizards~[282] from us.
+94731:0::0:22:> get 142019 282 2
+94731:0::0:22:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:22:Ted Nugent~[94731] took two~giant lizards~[282] from us.
+111211:0::0:22:> get 142019 282 2
+111211:0::0:22:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:22:Joan Jett~[111211] took two~giant lizards~[282] from us.
+142019:0::0:22:> breed 282 282
+142019:0::0:22:Breed attempt will take 6 days.
+138332:0::0:22:> use 732
+119118:0::0:22:> breed 282 282
+119118:0::0:22:Breed attempt will take 6 days.
+141835:0::0:22:> breed 282 282
+141835:0::0:22:Breed attempt will take 6 days.
+141206:0::0:22:> breed 54 54
+141206:0::0:22:Breed attempt will take 6 days.
+104439:0::0:22:> breed 282 282
+104439:0::0:22:Breed attempt will take 6 days.
+115442:0::0:22:> breed 282 282
+115442:0::0:22:Breed attempt will take 6 days.
+97482:0::0:22:> breed 282 282
+97482:0::0:22:Breed attempt will take 6 days.
+94731:0::0:22:> breed 282 282
+94731:0::0:22:Breed attempt will take 6 days.
+111211:0::0:22:> breed 282 282
+111211:0::0:22:Breed attempt will take 6 days.
+139967:0::0:23:> explore
+14349:0::0:23:Torgo the Dreadnought~[a328], with two~riding horses, arrived from the north.
+79452:0::0:25:Learned Survive fatal wound~[611].
+79452:0::0:26:> give 141206 54 0 3
+79452:0::0:26:Gave two~winged horses to Ozzy Ozbourne~[141206].
+141206:0::0:26:Received two~winged horses~[54] from Kid Rock~[79452].
+79452:0::0:26:> get 142019 282 2
+79452:0::0:26:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:26:Kid Rock~[79452] took two~giant lizards~[282] from us.
+79452:0::0:26:> breed 282 282
+79452:0::0:26:Breed attempt will take 7 days.
+15142:0::0:26:It has begun to rain.
+142019:0::0:27:Produced one~giant lizard~[282].
+119118:0::0:27:One~giant lizard~[282] was killed in the breeding attempt.
+119118:0::0:27:Produced one~giant lizard~[282].
+141835:0::0:27:Produced one~giant lizard~[282].
+141206:0::0:27:Produced one~winged horse~[54].
+104439:0::0:27:Produced one~giant lizard~[282].
+115442:0::0:27:Produced one~giant lizard~[282].
+97482:0::0:27:Produced one~giant lizard~[282].
+94731:0::0:27:Produced one~giant lizard~[282].
+111211:0::0:27:Produced one~giant lizard~[282].
+119118:0::0:28:> give 142019 282 0
+119118:0::0:28:Gave two~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:28:Received two~giant lizards~[282] from Klaus Meine~[119118].
+141835:0::0:28:> give 142019 282 0
+141835:0::0:28:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:28:Received three~giant lizards~[282] from Rudolf Schenker~[141835].
+104439:0::0:28:> give 142019 282 0
+104439:0::0:28:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:28:Received three~giant lizards~[282] from Sammy Hagar~[104439].
+115442:0::0:28:> give 142019 282 0
+115442:0::0:28:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:28:Received three~giant lizards~[282] from Lady Ice~[115442].
+97482:0::0:28:> give 142019 282 0
+97482:0::0:28:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:28:Received three~giant lizards~[282] from Francis Bucholz~[97482].
+94731:0::0:28:> give 142019 282 0
+94731:0::0:28:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:28:Received three~giant lizards~[282] from Ted Nugent~[94731].
+111211:0::0:28:> give 142019 282 0
+111211:0::0:28:Gave three~giant lizards to Alexander the Scorpion~[142019].
+142019:0::0:28:Received three~giant lizards~[282] from Joan Jett~[111211].
+119118:0::0:28:> get 142019 282 2
+119118:0::0:28:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:28:Klaus Meine~[119118] took two~giant lizards~[282] from us.
+141835:0::0:28:> get 142019 282 2
+141835:0::0:28:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:28:Rudolf Schenker~[141835] took two~giant lizards~[282] from us.
+104439:0::0:28:> get 142019 282 2
+104439:0::0:28:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:28:Sammy Hagar~[104439] took two~giant lizards~[282] from us.
+115442:0::0:28:> get 142019 282 2
+115442:0::0:28:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:28:Lady Ice~[115442] took two~giant lizards~[282] from us.
+97482:0::0:28:> get 142019 282 2
+97482:0::0:28:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:28:Francis Bucholz~[97482] took two~giant lizards~[282] from us.
+94731:0::0:28:> get 142019 282 2
+94731:0::0:28:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:28:Ted Nugent~[94731] took two~giant lizards~[282] from us.
+111211:0::0:28:> get 142019 282 2
+111211:0::0:28:Took two~giant lizards from Alexander the Scorpion~[142019].
+142019:0::0:28:Joan Jett~[111211] took two~giant lizards~[282] from us.
+142019:0::0:28:> breed 282 282
+142019:0::0:28:Breed attempt will take 6 days.
+119118:0::0:28:> breed 282 282
+119118:0::0:28:Breed attempt will take 6 days.
+141835:0::0:28:> breed 282 282
+141835:0::0:28:Breed attempt will take 6 days.
+141206:0::0:28:> breed 54 54
+141206:0::0:28:Breed attempt will take 6 days.
+104439:0::0:28:> breed 282 282
+104439:0::0:28:Breed attempt will take 6 days.
+115442:0::0:28:> breed 282 282
+115442:0::0:28:Breed attempt will take 6 days.
+97482:0::0:28:> breed 282 282
+97482:0::0:28:Breed attempt will take 6 days.
+94731:0::0:28:> breed 282 282
+94731:0::0:28:Breed attempt will take 6 days.
+111211:0::0:28:> breed 282 282
+111211:0::0:28:Breed attempt will take 6 days.
+80886:0::0:28:Produced one~harpie~[285].
+80886:0::0:29:> breed 285 285
+80886:0::0:29:Breed attempt will take 13 days.
+57646:0::0:29:Kalamar the Wanderer~[s376] earned 290~gold working at common magic.
+139967:0::0:29:Exploration of [cp41] uncovers no new features.
+57646:0::0:30:Kalamar the Wanderer~[s376], priest, entered Castle Dawn~[k006].
+57646:0::0:30:Kalamar the Wanderer~[s376], priest, exited Castle Dawn~[k006].
+57646:0::0:30:Kalamar the Wanderer~[s376], priest, entered Shrine of Fharlanghn~[99904].
+139967:0::0:30:> explore
+141206:0::0:30:dead body~[95818] decomposed.
+15143:0::0:30:It has stopped raining.
+14349:0::0::
+14349:0::0::Province controlled by Castle Dawn~[k006], castle, in Forest of Dawn~[cd49]
+14349:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+14349:0::0::
+14349:0::0::Routes leaving Forest of Dawn: 
+14349:0::3::North, forest, to Grey Woods~[cc49], 8~days
+14349:0::3::East, plain, to Grey Plains~[cd50], 7~days
+14349:0::3::South, forest, to Forest of Dawn~[cf49], 8~days
+14349:0::3::West, plain, to Grey Plains~[cd48], 7~days
+14349:0::0::
+14349:0::0::Inner locations:
+14349:0::3::Carim~[k86], city, 1 day
+14349:0::0::
+14349:0::0::It is raining.
+14349:0::0::
+14349:0::0::Seen here:
+14349:0::0/3::   Garrison~[b202], garrison, on guard, with ten~soldiers, six~workers
+15141:0::0::
+15141:0::0::Province controlled by South Fort~[t114], castle, in Dragons Peak~[ck41]
+15141:0::0::Ruled by General Attitude~[9943], duke
+15141:0::0::
+15141:0::0::Routes leaving Forest: 
+15141:0::3::North, to Forest~[cn41], 8~days
+15141:0::3::East, to Plain~[cp42], 7~days
+15141:0::3::South, forest, to Greyfell Lords Border~[cq41], 8~days
+15141:0::3::West, to Plain~[cp40], 7~days
+15141:0::0::
+15141:0::0::It is raining.
+15141:0::0::
+15141:0::0::Seen here:
+15141:0::0/3::   Garrison~[c785], garrison, on guard, with ten~soldiers, 25~giant lizards
+15141:0::0/3:: * Alexander the Scorpion~[142019], "{<i>}Greyfell Legend{</i>}", with 32~wild horses, four~winged horses, three~oxen, 131~giant lizards, accompanied~by:
+15141:0::0/6:: *    Klaus Meine~[119118], "{<i>}Greyfell Legend{</i>}", with two~giant lizards
+15141:0::0/6:: *    Rudolf Schenker~[141835], "{<i>}Greyfell Legend{</i>}", with two~giant lizards
+15141:0::0/6:: *    Zepplin~[139967], with two~winged horses
+15141:0::0/6:: *    Ozzy Ozbourne~[141206], "{<i>}Greyfell Legend{</i>}", with 41~winged horses
+15141:0::0/6:: *    Kid Rock~[79452], with three~winged horses, two~giant lizards
+15141:0::0/6:: *    Sammy Hagar~[104439], "{<i>}The Red Rocker{</i>}", with two~giant lizards
+15141:0::0/6:: *    Lady Ice~[115442], "{<i>}Greyfell Legend{</i>}", with two~giant lizards
+15141:0::0/6:: *    Francis Bucholz~[97482], "{<i>}Greyfell Legend{</i>}", with two~giant lizards
+15141:0::0/6:: *    Ace Freely~[80886], "{<i>}Greyfell Legend{</i>}", with three~giant lizards, five~harpies
+15141:0::0/6:: *    Ted Nugent~[94731], with three~winged horses, two~giant lizards
+15141:0::0/6:: *    Joan Jett~[111211], with two~winged horses, two~giant lizards
+15142:0::0::
+15142:0::0::Province controlled by South Fort~[t114], castle, in Dragons Peak~[ck41]
+15142:0::0::Ruled by General Attitude~[9943], duke
+15142:0::0::
+15142:0::0::Routes leaving Plain: 
+15142:0::3::North, mountain, to Dragontale Ridge~[cn42], 10~days
+15142:0::3::East, forest, to Stallion Glen~[cp43], 8~days
+15142:0::3::South, forest, to Greyfell Lords Border~[cq42], 8~days
+15142:0::3::West, to Forest~[cp41], 8~days
+15142:0::0::
+15142:0::0::Inner locations:
+15142:0::3::Sacred grove~[x141], sacred grove, 1 day
+15142:0::0::
+15142:0::0::It is raining.
+15142:0::0::
+15142:0::0::Seen here:
+15142:0::0/3::   Garrison~[2891], garrison, on guard, with ten~peasants, 25~giant lizards
+15142:0::0/3::   Ulruth~[j328], wielding Sword of Life~[116033], "{<i>}Greyfell Lord{</i>}", with two~winged horses
+15143:0::0::
+15143:0::0::Province controlled by South Fort~[t114], castle, in Dragons Peak~[ck41]
+15143:0::0::Ruled by General Attitude~[9943], duke
+15143:0::0::
+15143:0::0::Routes leaving Stallion Glen: 
+15143:0::3::North, plain, to TIB Border~[cn43], 7~days
+15143:0::3::East, plain, to Ganja Plains~[cp44], 7~days
+15143:0::3::South, forest, to Greyfell Lords Border~[cq43], 8~days
+15143:0::3::West, to Plain~[cp42], 7~days
+15143:0::0::
+15143:0::0::Seen here:
+15143:0::0/3::   Garrison~[j543], garrison, on guard, with ten~peasants
+57646:0::0::
+57646:0::0::Routes leaving Carim: 
+57646:0::3::Out, forest, to Forest of Dawn~[cd49], 1~day
+57646:0::0::
+57646:0::0::Cities rumored to be nearby:
+57646:0::3::Domin~[g06], in Dominian Woods~[cd53]
+57646:0::3::Aethelarn~[j17], in Mt. Aethelios~[cf52]
+57646:0::3::Golden City~[t63], in Forest~[cm47], safe haven
+57646:0::3::South Fort~[z98], in Swamp~[ch48]
+57646:0::0::
+57646:0::0::Skills taught here:
+57646:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Forestry~[700], Magic~[800], Necromancy~[900]
+57646:0::0::
+57646:0::0::Market report:
+57646:0::3::
+57646:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57646:0::3::-----    ---   -----    ---     -----   ----                     
+57646:0::3::  buy 117927      12     26       100   salt~[146913]            
+57646:0::3::  buy    k86     106      1        65   plum wine~[a836]         
+57646:0::3::  buy    k86       4     15         1   woven baskets~[94]       
+57646:0::3::  buy    k86     191     28       100   ivory~[131664]           
+57646:0::3:: sell    k86      12     33        16   pepper~[z347]            
+57646:0::3:: sell    k86      11     25        30   wood~[77]                
+57646:0::3:: sell    k86      30     48        50   ale~[w758]               
+57646:0::3:: sell    k86      27     36        43   tea~[n506]               
+57646:0::3:: sell    k86      50     49        72   chocolate~[127507]       
+57646:0::3:: sell    k86      11     28       100   cassava~[90949]          
+57646:0::0::
+57646:0::0::Inner locations:
+57646:0::3::Minas Itharil~[1399], tower, defense~40, "Open days 1-7", owner:
+57646:0::0/6::      Adam the Crystalblue Mage~[q440], duke, 3rd black circle, "{<i>}one of the enlightened{</i>}", with two~winged horses
+57646:0::3::Flaming Phoenix Inn~[110722], inn, defense~10, "Open days 1-22", owner:
+57646:0::0/6::      Mesmerus the Scribe~[r209], "{<i>}one of the enlightened{</i>}", with one~riding horse, eight~giant lizards
+57646:0::3::Castle Dawn~[k006], castle, defense~80, level~6, owner:
+57646:0::0/6::      Ballard the Hunter~[t135], earl, "{<i>}one of the enlightened{</i>}", with 143~peasants, 11~elite guard, 18~pikemen, 274~ghost warriors, 15~swordsmen, 11~elite archers, 331~wild horses, two~riding horses, 152~catapults, two~oxen, 27~centaurs, 398~giant lizards, accompanied~by:
+57646:0::0/9::         Theorn Bloodaxe~[h990], "{<i>}one of the enlightened{</i>}", with three~workers, two~riding horses, three~winged horses, three~centaurs, one~cyclops
+57646:0::3::Shrine of Fharlanghn~[99904], temple, defense~10, "Open days 1-15", owner:
+57646:0::0/6::      Kalamar the Wanderer~[s376], priest, "{<i>}one of the enlightened{</i>}"
+57646:0::0::
+57646:0::0::It is raining.
+57646:0::0::
+57646:0::0::Seen here:
+57646:0::0/3::   Garrison~[6201], garrison, on guard, with 132~pikemen
+57646:0::0/3:: * Alice Cooper~[138332], "{<i>}Greyfell Legend{</i>}", with 20~winged horses
+5:0::0::
+5:0::0::begin db7 "Connaught"  # The Rockers
+5:0::0::
+5:0::0::unit db7  # The Rockers
+5:0::0::
+5:0::0::unit 138332  # Alice Cooper in Carim~[k86]
+5:0::3::# > use 732 (executing for 12 more days)
+5:0::3::study 614
+5:0::3::study 614
+5:0::0::
+5:0::0::unit 142019  # Alexander the Scorpion in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for three more days)
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 119118  # Klaus Meine in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for three more days)
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::0::
+5:0::0::unit 141835  # Rudolf Schenker in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for three more days)
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::0::
+5:0::0::unit 139967  # Zepplin in Forest~[cp41]
+5:0::3::# > explore (executing for six more days)
+5:0::3::explore
+5:0::3::explore
+5:0::0::
+5:0::0::unit 141206  # Ozzy Ozbourne in Forest~[cp41]
+5:0::3::# > breed 54 54 (executing for three more days)
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit 79452  # Kid Rock in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for two more days)
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::0::
+5:0::0::unit 104439  # Sammy Hagar in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for three more days)
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::0::
+5:0::0::unit 115442  # Lady Ice in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for three more days)
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::0::
+5:0::0::unit 97482  # Francis Bucholz in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for three more days)
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::0::
+5:0::0::unit 80886  # Ace Freely in Forest~[cp41]
+5:0::3::# > breed 285 285 (executing for 11 more days)
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::0::
+5:0::0::unit 94731  # Ted Nugent in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for three more days)
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::0::
+5:0::0::unit 111211  # Joan Jett in Forest~[cp41]
+5:0::3::# > breed 282 282 (executing for three more days)
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::3::get 142019 282 2
+5:0::3::breed 282 282
+5:0::3::give 142019 282 0
+5:0::0::
+5:0::0::end
+50797:0::0::
+50797:0::0::Admit permissions:
+50797:0::0::
+50797:0::3::admit k160  bh3  ta8  tr5  yg9  ny7  ym3  vy5  xy3  hd3  nn3
+50797:0::3::admit x922  bh3
+50797:0::3::admit 141206 138608
+50797:0::0::
+50797:0::0::Unclaimed items:
+50797:0::0::
+50797:0::0::      qty  name                              weight
+50797:0::0::      ---  ----                              ------
+50797:0::0::      475  gold~[1]                               0  
+50797:0::0::       20  wood~[77]                            600  
+79452:0::3::
+79452:0::3/16::Location:       Forest~[cp41], in Provinia
+79452:0::3::Loyalty:        Fear-95
+79452:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+79452:0::3::Health:         100%
+79452:0::3::Combat:         attack 80, defense 80, missile 0
+79452:0::3::                behind 0  (front line in combat)
+79452:0::3::Break point:    50%
+79452:0::3::
+79452:0::3::Skills known:
+79452:0::6::Combat~[610]
+79452:0::12::Survive fatal wound~[611]
+79452:0::6::Beastmastery~[650]
+79452:0::12::Breed beasts~[654], apprentice
+79452:0::3::
+79452:0::3::Inventory:
+79452:0::3::{<b>}      qty  name                              weight{</b>}
+79452:0::3::      ---  ----                              ------
+79452:0::3::        3  winged horses~[54]                 3,000  fly 450
+79452:0::3::        2  giant lizards~[282]                2,000   (45,45,0)
+79452:0::3::                                             ======
+79452:0::3::                                              5,000
+79452:0::3::
+79452:0::3/11::Capacity:  0/550 land (0%), 100/450 ride (22%), 2,100/450 fly (466%)
+79452:0::3::
+80886:0::3::
+80886:0::3/16::Location:       Forest~[cp41], in Provinia
+80886:0::3::Loyalty:        Fear-81
+80886:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+80886:0::3::Health:         100%
+80886:0::3::Combat:         attack 80, defense 80, missile 0
+80886:0::3::                behind 0  (front line in combat)
+80886:0::3::Break point:    50%
+80886:0::3::Banner:         Greyfell Legend
+80886:0::3::
+80886:0::3::Skills known:
+80886:0::6::Combat~[610]
+80886:0::12::Survive fatal wound~[611]
+80886:0::6::Beastmastery~[650]
+80886:0::12::Breed beasts~[654], adept
+80886:0::3::
+80886:0::3::Inventory:
+80886:0::3::{<b>}      qty  name                              weight{</b>}
+80886:0::3::      ---  ----                              ------
+80886:0::3::       92  gold~[1]                               0  
+80886:0::3::        3  giant lizards~[282]                3,000   (45,45,0)
+80886:0::3::        5  harpies~[285]                      2,500   (80,120,0)
+80886:0::3::                                             ======
+80886:0::3::                                              5,500
+80886:0::3::
+80886:0::3/11::Capacity:  0/100 land (0%)
+80886:0::3::
+94731:0::3::
+94731:0::3/16::Location:       Forest~[cp41], in Provinia
+94731:0::3::Loyalty:        Fear-93
+94731:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+94731:0::3::Health:         100%
+94731:0::3::Combat:         attack 80, defense 80, missile 0
+94731:0::3::                behind 0  (front line in combat)
+94731:0::3::Break point:    50%
+94731:0::3::
+94731:0::3::Skills known:
+94731:0::6::Combat~[610]
+94731:0::6::Beastmastery~[650]
+94731:0::12::Breed beasts~[654], journeyman
+94731:0::3::
+94731:0::3::Partially known skills:
+94731:0::6/6::Survive fatal wound~[611], 21/28
+94731:0::3::
+94731:0::3::Inventory:
+94731:0::3::{<b>}      qty  name                              weight{</b>}
+94731:0::3::      ---  ----                              ------
+94731:0::3::        3  winged horses~[54]                 3,000  fly 450
+94731:0::3::        2  giant lizards~[282]                2,000   (45,45,0)
+94731:0::3::                                             ======
+94731:0::3::                                              5,000
+94731:0::3::
+94731:0::3/11::Capacity:  0/550 land (0%), 100/450 ride (22%), 2,100/450 fly (466%)
+94731:0::3::
+97482:0::3::
+97482:0::3/16::Location:       Forest~[cp41], in Provinia
+97482:0::3::Loyalty:        Fear-75
+97482:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+97482:0::3::Health:         100%
+97482:0::3::Combat:         attack 80, defense 80, missile 0
+97482:0::3::                behind 0  (front line in combat)
+97482:0::3::Break point:    50%
+97482:0::3::Banner:         Greyfell Legend
+97482:0::3::
+97482:0::3::Skills known:
+97482:0::6::Combat~[610]
+97482:0::12::Survive fatal wound~[611]
+97482:0::6::Beastmastery~[650]
+97482:0::12::Breed beasts~[654], journeyman
+97482:0::3::
+97482:0::3::Inventory:
+97482:0::3::{<b>}      qty  name                              weight{</b>}
+97482:0::3::      ---  ----                              ------
+97482:0::3::      594  gold~[1]                               0  
+97482:0::3::        2  giant lizards~[282]                2,000   (45,45,0)
+97482:0::3::                                             ======
+97482:0::3::                                              2,000
+97482:0::3::
+97482:0::3/11::Capacity:  0/100 land (0%)
+97482:0::3::
+104439:0::3::
+104439:0::3/16::Location:       Forest~[cp41], in Provinia
+104439:0::3::Loyalty:        Fear-78
+104439:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+104439:0::3::Health:         100%
+104439:0::3::Combat:         attack 80, defense 80, missile 0
+104439:0::3::                behind 0  (front line in combat)
+104439:0::3::Break point:    50%
+104439:0::3::Banner:         The Red Rocker
+104439:0::3::
+104439:0::3::Skills known:
+104439:0::6::Combat~[610]
+104439:0::12::Survive fatal wound~[611]
+104439:0::6::Stealth~[630]
+104439:0::6::Beastmastery~[650]
+104439:0::12::Breed beasts~[654], adept
+104439:0::3::
+104439:0::3::Partially known skills:
+104439:0::6/6::Trade~[730], 7/21
+104439:0::3::
+104439:0::3::Inventory:
+104439:0::3::{<b>}      qty  name                              weight{</b>}
+104439:0::3::      ---  ----                              ------
+104439:0::3::       59  gold~[1]                               0  
+104439:0::3::        2  giant lizards~[282]                2,000   (45,45,0)
+104439:0::3::                                             ======
+104439:0::3::                                              2,000
+104439:0::3::
+104439:0::3/11::Capacity:  0/100 land (0%)
+104439:0::3::
+111211:0::3::
+111211:0::3/16::Location:       Forest~[cp41], in Provinia
+111211:0::3::Loyalty:        Fear-93
+111211:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+111211:0::3::Health:         100%
+111211:0::3::Combat:         attack 80, defense 80, missile 0
+111211:0::3::                behind 0  (front line in combat)
+111211:0::3::Break point:    50%
+111211:0::3::
+111211:0::3::Skills known:
+111211:0::6::Combat~[610]
+111211:0::6::Beastmastery~[650]
+111211:0::12::Breed beasts~[654], journeyman
+111211:0::3::
+111211:0::3::Inventory:
+111211:0::3::{<b>}      qty  name                              weight{</b>}
+111211:0::3::      ---  ----                              ------
+111211:0::3::      100  gold~[1]                               0  
+111211:0::3::        2  winged horses~[54]                 2,000  fly 300
+111211:0::3::        2  giant lizards~[282]                2,000   (45,45,0)
+111211:0::3::                                             ======
+111211:0::3::                                              4,000
+111211:0::3::
+111211:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%), 2,100/300 fly (700%)
+111211:0::3::
+115442:0::3::
+115442:0::3/16::Location:       Forest~[cp41], in Provinia
+115442:0::3::Loyalty:        Fear-82
+115442:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+115442:0::3::Health:         100%
+115442:0::3::Combat:         attack 80, defense 80, missile 0
+115442:0::3::                behind 0  (front line in combat)
+115442:0::3::Break point:    50%
+115442:0::3::Banner:         Greyfell Legend
+115442:0::3::
+115442:0::3::Skills known:
+115442:0::6::Combat~[610]
+115442:0::12::Survive fatal wound~[611]
+115442:0::12::Defense~[614], apprentice
+115442:0::6::Beastmastery~[650]
+115442:0::12::Breed beasts~[654], journeyman
+115442:0::3::
+115442:0::3::Inventory:
+115442:0::3::{<b>}      qty  name                              weight{</b>}
+115442:0::3::      ---  ----                              ------
+115442:0::3::        2  giant lizards~[282]                2,000   (45,45,0)
+115442:0::3::                                             ======
+115442:0::3::                                              2,000
+115442:0::3::
+115442:0::3/11::Capacity:  0/100 land (0%)
+115442:0::3::
+119118:0::3::
+119118:0::3/16::Location:       Forest~[cp41], in Provinia
+119118:0::3::Loyalty:        Fear-73
+119118:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+119118:0::3::Health:         100%
+119118:0::3::Combat:         attack 80, defense 96, missile 0
+119118:0::3::                behind 0  (front line in combat)
+119118:0::3::Break point:    50%
+119118:0::3::Banner:         Greyfell Legend
+119118:0::3::
+119118:0::3::Skills known:
+119118:0::6::Combat~[610]
+119118:0::12::Survive fatal wound~[611]
+119118:0::12::Defense~[614], apprentice
+119118:0::12::Swordplay~[616], apprentice
+119118:0::6::Beastmastery~[650]
+119118:0::12::Breed beasts~[654], adept
+119118:0::3::
+119118:0::3::Inventory:
+119118:0::3::{<b>}      qty  name                              weight{</b>}
+119118:0::3::      ---  ----                              ------
+119118:0::3::      464  gold~[1]                               0  
+119118:0::3::        2  giant lizards~[282]                2,000   (45,45,0)
+119118:0::3::                                             ======
+119118:0::3::                                              2,000
+119118:0::3::
+119118:0::3/11::Capacity:  0/100 land (0%)
+119118:0::3::
+138332:0::3::
+138332:0::3/16::Location:       Carim~[k86], in province Forest of Dawn~[cd49], in Provinia
+138332:0::3::Loyalty:        Fear-84
+138332:0::3::Health:         100%
+138332:0::3::Combat:         attack 80, defense 80, missile 0
+138332:0::3::                behind 0  (front line in combat)
+138332:0::3::Break point:    50%
+138332:0::3::Banner:         Greyfell Legend
+138332:0::3::
+138332:0::3::Current aura:   5
+138332:0::3::Maximum aura:   5
+138332:0::3::
+138332:0::3::Skills known:
+138332:0::6::Combat~[610]
+138332:0::12::Survive fatal wound~[611]
+138332:0::6::Construction~[680]
+138332:0::6::Alchemy~[690]
+138332:0::6::Trade~[730]
+138332:0::12::Conceal identity of trader~[731], apprentice
+138332:0::12::Find tradegood for sale~[732], apprentice
+138332:0::12::Find market for tradegood~[733], apprentice
+138332:0::6::Magic~[800]
+138332:0::12::Meditate~[801], apprentice
+138332:0::12::Perform common tasks for gold~[802], apprentice
+138332:0::12::Appear common~[803], apprentice
+138332:0::12::View current aura level of others~[804], apprentice
+138332:0::3::
+138332:0::3::Inventory:
+138332:0::3::{<b>}      qty  name                              weight{</b>}
+138332:0::3::      ---  ----                              ------
+138332:0::3::    2,013  gold~[1]                               0  
+138332:0::3::       20  winged horses~[54]                20,000  fly 3,000
+138332:0::3::                                             ======
+138332:0::3::                                             20,000
+138332:0::3::
+138332:0::3/11::Capacity:  0/3,100 land (0%), 100/3,000 ride (3%), 100/3,000 fly (3%)
+138332:0::3::
+139967:0::3::
+139967:0::3/16::Location:       Forest~[cp41], in Provinia
+139967:0::3::Loyalty:        Fear-94
+139967:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+139967:0::3::Health:         100%
+139967:0::3::Combat:         attack 80, defense 80, missile 0
+139967:0::3::                behind 0  (front line in combat)
+139967:0::3::Break point:    50%
+139967:0::3::
+139967:0::3::Skills known:
+139967:0::6::Combat~[610]
+139967:0::12::Survive fatal wound~[611]
+139967:0::6::Stealth~[630]
+139967:0::6::Beastmastery~[650]
+139967:0::3::
+139967:0::3::Partially known skills:
+139967:0::6/6::Breed beasts~[654], 14/28
+139967:0::3::
+139967:0::3::Inventory:
+139967:0::3::{<b>}      qty  name                              weight{</b>}
+139967:0::3::      ---  ----                              ------
+139967:0::3::        2  winged horses~[54]                 2,000  fly 300
+139967:0::3::                                             ======
+139967:0::3::                                              2,000
+139967:0::3::
+139967:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%), 100/300 fly (33%)
+139967:0::3::
+141206:0::3::
+141206:0::3/16::Location:       Forest~[cp41], in Provinia
+141206:0::3::Loyalty:        Oath-1
+141206:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+141206:0::3::Health:         100%
+141206:0::3::Combat:         attack 80, defense 80, missile 0
+141206:0::3::                behind 0  (front line in combat)
+141206:0::3::Break point:    50%
+141206:0::3::Banner:         Greyfell Legend
+141206:0::3::
+141206:0::3::Skills known:
+141206:0::6::Combat~[610]
+141206:0::12::Survive fatal wound~[611]
+141206:0::6::Stealth~[630]
+141206:0::6::Beastmastery~[650]
+141206:0::12::Capture beasts in battle~[652]
+141206:0::12::Use beasts in battle~[653]
+141206:0::12::Breed beasts~[654], master
+141206:0::6::Mining~[720]
+141206:0::12::Mine iron~[721], apprentice
+141206:0::12::Mine gold~[722], adept
+141206:0::12::Mine mithril~[723], journeyman
+141206:0::3::
+141206:0::3::Partially known skills:
+141206:0::6/6::Bird spy~[651], 5/21
+141206:0::3::
+141206:0::3::Inventory:
+141206:0::3::{<b>}      qty  name                              weight{</b>}
+141206:0::3::      ---  ----                              ------
+141206:0::3::       28  gold~[1]                               0  
+141206:0::3::       41  winged horses~[54]                41,000  fly 6,150
+141206:0::3::                                             ======
+141206:0::3::                                             41,000
+141206:0::3::
+141206:0::3/11::Capacity:  0/6,250 land (0%), 100/6,150 ride (1%), 100/6,150 fly (1%)
+141206:0::3::
+141835:0::3::
+141835:0::3/16::Location:       Forest~[cp41], in Provinia
+141835:0::3::Loyalty:        Fear-74
+141835:0::3/16::Stacked under:  Alexander the Scorpion~[142019]
+141835:0::3::Health:         100%
+141835:0::3::Combat:         attack 80, defense 80, missile 0
+141835:0::3::                behind 0  (front line in combat)
+141835:0::3::Break point:    50%
+141835:0::3::Banner:         Greyfell Legend
+141835:0::3::
+141835:0::3::Skills known:
+141835:0::6::Combat~[610]
+141835:0::12::Survive fatal wound~[611]
+141835:0::6::Beastmastery~[650]
+141835:0::12::Breed beasts~[654], adept
+141835:0::3::
+141835:0::3::Partially known skills:
+141835:0::6/6::Defense~[614], 7/14
+141835:0::6/6::Use beasts in battle~[653], 7/28
+141835:0::3::
+141835:0::3::Inventory:
+141835:0::3::{<b>}      qty  name                              weight{</b>}
+141835:0::3::      ---  ----                              ------
+141835:0::3::       77  gold~[1]                               0  
+141835:0::3::        2  giant lizards~[282]                2,000   (45,45,0)
+141835:0::3::                                             ======
+141835:0::3::                                              2,000
+141835:0::3::
+141835:0::3/11::Capacity:  0/100 land (0%)
+141835:0::3::
+142019:0::3::
+142019:0::3/16::Location:       Forest~[cp41], in Provinia
+142019:0::3::Loyalty:        Oath-1
+142019:0::3::Stacked over:   Klaus Meine~[119118]
+142019:0::3::                Rudolf Schenker~[141835]
+142019:0::3::                Zepplin~[139967]
+142019:0::3::                Ozzy Ozbourne~[141206]
+142019:0::3::                Kid Rock~[79452]
+142019:0::3::                Sammy Hagar~[104439]
+142019:0::3::                Lady Ice~[115442]
+142019:0::3::                Francis Bucholz~[97482]
+142019:0::3::                Ace Freely~[80886]
+142019:0::3::                Ted Nugent~[94731]
+142019:0::3::                Joan Jett~[111211]
+142019:0::3::Health:         100%
+142019:0::3::Combat:         attack 80, defense 80, missile 0
+142019:0::3::                behind 0  (front line in combat)
+142019:0::3::Break point:    50%
+142019:0::3::Banner:         Greyfell Legend
+142019:0::3::
+142019:0::3::Skills known:
+142019:0::6::Combat~[610]
+142019:0::12::Survive fatal wound~[611]
+142019:0::6::Stealth~[630]
+142019:0::6::Beastmastery~[650]
+142019:0::12::Use beasts in battle~[653]
+142019:0::12::Breed beasts~[654], journeyman
+142019:0::3::
+142019:0::3::Partially known skills:
+142019:0::6/6::Fight to the death~[612], 7/28
+142019:0::6/6::Bird spy~[651], 7/21
+142019:0::6/6::Capture beasts in battle~[652], 7/28
+142019:0::3::
+142019:0::3::Inventory:
+142019:0::3::{<b>}      qty  name                              weight{</b>}
+142019:0::3::      ---  ----                              ------
+142019:0::3::       68  gold~[1]                               0  
+142019:0::3::       32  wild horses~[51]                  32,000  
+142019:0::3::        4  winged horses~[54]                 4,000  fly 600
+142019:0::3::        3  oxen~[76]                          6,000  cap 4,500
+142019:0::3::       62  wood~[77]                          1,860  
+142019:0::3::      131  giant lizards~[282]              131,000   (45,45,0)
+142019:0::3::                                             ======
+142019:0::3::                                            174,860
+142019:0::3::
+142019:0::3/11::Capacity:  1,860/5,200 land (35%), 1,960/600 ride (326%), 170,960/600 fly (28493%)
+142019:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Rockers~[db7].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/db7/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [db7]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        13  45th   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           3,495  88th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   19/74  91st   
+0:0::3/41::Spells known:                    5/79  90th   
+0:0::3/41::Provinces visited:         215/31,919  93rd   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  0     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  107034 129313 145581 124623 126105
+0:0::0::
+0:0::0::6 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::138332 k86    f84   100  0  5 2013                            Alice Cooper
+0:0::0::142019 cp41   o1    100  0      68                            Alexander
+0:0::0::119118 cp41   f73   100  0     464                     142019 Klaus Meine
+0:0::0::141835 cp41   f74   100  0      77                     142019 Rudolf Schenker
+0:0::0::139967 cp41   f94   100  0                             142019 Zepplin
+0:0::0::141206 cp41   o1    100  0      28                     142019 Ozzy Ozbourne
+0:0::0::79452  cp41   f95   100  0                             142019 Kid Rock
+0:0::0::104439 cp41   f78   100  0      59                     142019 Sammy Hagar
+0:0::0::115442 cp41   f82   100  0                             142019 Lady Ice
+0:0::0::97482  cp41   f75   100  0     594                     142019 Francis Bucholz
+0:0::0::80886  cp41   f81   100  0      92                     142019 Ace Freely
+0:0::0::94731  cp41   f93   100  0                             142019 Ted Nugent
+0:0::0::111211 cp41   f93   100  0     100                     142019 Joan Jett
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              3495                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest of Dawn~[cd49]
+0:0::0::    Carim~[k86]                    Alice Cooper~[138332]
+0:0::0::  Forest~[cp41]                    Alexander the Scorpion~[142019]
+0:0::0::                                     Klaus Meine~[119118]
+0:0::0::                                     Rudolf Schenker~[141835]
+0:0::0::                                     Zepplin~[139967]
+0:0::0::                                     Ozzy Ozbourne~[141206]
+0:0::0::                                     Kid Rock~[79452]
+0:0::0::                                     Sammy Hagar~[104439]
+0:0::0::                                     Lady Ice~[115442]
+0:0::0::                                     Francis Bucholz~[97482]
+0:0::0::                                     Ace Freely~[80886]
+0:0::0::                                     Ted Nugent~[94731]
+0:0::0::                                     Joan Jett~[111211]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::138332      20,100      3,100   0%      2,900   3%      2,900   3%
+0:0::0::142019     248,560     12,090  13%      5,190  37%  (182,810)  -- 
+0:0::0::119118       2,100        100   0%                                
+0:0::0::141835       2,100        100   0%                                
+0:0::0::139967       2,100        400   0%        200  33%        200  33%
+0:0::0::141206      41,100      6,250   0%      6,050   1%      6,050   1%
+0:0::0:: 79452       5,100        550   0%        350  22%    (1,650) 466%
+0:0::0::104439       2,100        100   0%                                
+0:0::0::115442       2,100        100   0%                                
+0:0::0:: 97482       2,100        100   0%                                
+0:0::0:: 80886       5,600        100   0%                                
+0:0::0:: 94731       5,100        550   0%        350  22%    (1,650) 466%
+0:0::0::111211       4,100        400   0%        200  33%    (1,800) 700%
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Rockers~[db7]"><font size=+1><b>The Rockers~[db7]</b></font>
+1:2::0::<hr>
+1:1::0::The Rockers~[db7]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50797
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Alice Cooper~[138332]"><font size=+1><b>Alice Cooper~[138332]</b></font>
+1:2::0::<hr>
+1:1::0::Alice Cooper~[138332]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 138332
+1:0::0::
+1:2::0::
+1:2::0::<name="Alexander the Scorpion~[142019]"><font size=+1><b>Alexander the Scorpion~[142019]</b></font>
+1:2::0::<hr>
+1:1::0::Alexander the Scorpion~[142019]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 142019
+1:0::0::
+1:2::0::
+1:2::0::<name="Klaus Meine~[119118]"><font size=+1><b>Klaus Meine~[119118]</b></font>
+1:2::0::<hr>
+1:1::0::Klaus Meine~[119118]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 119118
+1:0::0::
+1:2::0::
+1:2::0::<name="Rudolf Schenker~[141835]"><font size=+1><b>Rudolf Schenker~[141835]</b></font>
+1:2::0::<hr>
+1:1::0::Rudolf Schenker~[141835]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 141835
+1:0::0::
+1:2::0::
+1:2::0::<name="Zepplin~[139967]"><font size=+1><b>Zepplin~[139967]</b></font>
+1:2::0::<hr>
+1:1::0::Zepplin~[139967]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 139967
+1:0::0::
+1:2::0::
+1:2::0::<name="Ozzy Ozbourne~[141206]"><font size=+1><b>Ozzy Ozbourne~[141206]</b></font>
+1:2::0::<hr>
+1:1::0::Ozzy Ozbourne~[141206]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 141206
+1:0::0::
+1:2::0::
+1:2::0::<name="Kid Rock~[79452]"><font size=+1><b>Kid Rock~[79452]</b></font>
+1:2::0::<hr>
+1:1::0::Kid Rock~[79452]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 79452
+1:0::0::
+1:2::0::
+1:2::0::<name="Sammy Hagar~[104439]"><font size=+1><b>Sammy Hagar~[104439]</b></font>
+1:2::0::<hr>
+1:1::0::Sammy Hagar~[104439]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 104439
+1:0::0::
+1:2::0::
+1:2::0::<name="Lady Ice~[115442]"><font size=+1><b>Lady Ice~[115442]</b></font>
+1:2::0::<hr>
+1:1::0::Lady Ice~[115442]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 115442
+1:0::0::
+1:2::0::
+1:2::0::<name="Francis Bucholz~[97482]"><font size=+1><b>Francis Bucholz~[97482]</b></font>
+1:2::0::<hr>
+1:1::0::Francis Bucholz~[97482]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 97482
+1:0::0::
+1:2::0::
+1:2::0::<name="Ace Freely~[80886]"><font size=+1><b>Ace Freely~[80886]</b></font>
+1:2::0::<hr>
+1:1::0::Ace Freely~[80886]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 80886
+1:0::0::
+1:2::0::
+1:2::0::<name="Ted Nugent~[94731]"><font size=+1><b>Ted Nugent~[94731]</b></font>
+1:2::0::<hr>
+1:1::0::Ted Nugent~[94731]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 94731
+1:0::0::
+1:2::0::
+1:2::0::<name="Joan Jett~[111211]"><font size=+1><b>Joan Jett~[111211]</b></font>
+1:2::0::<hr>
+1:1::0::Joan Jett~[111211]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 111211
+1:2::0::
+1:2::0::<name="Forest of Dawn~[cd49]"><font size=+1><b>Forest of Dawn~[cd49]</b>, forest, in Provinia, civ-7</font>
+1:2::0::<hr>
+1:1::0::Forest of Dawn~[cd49], forest, in Provinia, civ-7
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14349
+1:0::0::
+1:2::0::
+1:2::0::<name="Carim~[k86]"><font size=+1><b>Carim~[k86]</b>, city, in province Forest of Dawn~[cd49]</font>
+1:2::0::<hr>
+1:1::0::Carim~[k86], city, in province Forest of Dawn~[cd49]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57646
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cp41]"><font size=+1><b>Forest~[cp41]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[cp41], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15141
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[cp42]"><font size=+1><b>Plain~[cp42]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[cp42], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15142
+1:0::0::
+1:2::0::
+1:2::0::<name="Stallion Glen~[cp43]"><font size=+1><b>Stallion Glen~[cp43]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Stallion Glen~[cp43], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15143
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

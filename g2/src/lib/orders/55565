@@ -1,0 +1,108 @@
+68651:breed 55 55
+68651:breed 55 55
+68651:breed 55 55
+68651:breed 55 55
+68651:breed 55 55
+68651:breed 55 55
+68651:breed 55 55
+95520:use 615
+95520:study 611
+95520:study 611
+95520:seek
+95520:use 615
+95520:seek
+95520:use 615
+3550:use 813
+3550:use 813
+3550:make 18
+3550:use 813
+3550:use 813
+90720:stop
+90720:fly s
+90720:fly s
+90720:fly s
+90720:fly s
+90720:fly s
+90720:fly s
+90720:fly s
+90720:fly s
+90720:explore
+90720:fly s
+90720:explore
+90720:explore
+90720:explore
+93660:stop
+93660:make 75 10
+93660:train 12 10
+93660:train 16
+93660:make 75 10
+93660:train 12 10
+93660:train 16
+93660:make 75 10
+93660:train 12 10
+93660:train 16
+93660:make 75 15
+93660:train 16
+93660:make 75 15
+93660:train 16
+7761:make 18 24
+7761:give 3550 18
+7761:use 813
+7761:make 18 24
+7761:give 3550 18
+7761:use 813
+2385:use 868 b672
+2385:use 868 v440
+2385:use 868 dr88
+2385:move out
+2385:use 813
+2385:use 813
+55565:accept ak8 0 
+55565:accept bs3 0 
+55565:accept ek2 0 
+55565:accept he4 0 
+55565:accept jx8 0 
+55565:accept kf2 0 
+55565:accept lp3 0 
+55565:accept mh8 0 
+55565:accept mq5 0 
+55565:accept ms1 0 
+55565:accept ns8 0 
+55565:accept qr9 0 
+55565:accept rk7 0 
+55565:accept tt7 0 
+55565:accept vk5 0 
+55565:accept wk7 0 
+55565:accept wt4 0 
+55565:accept yv5 0 
+55565:accept yz2 0 
+55565:accept zh8 0 
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+5965:sail n
+4401:sell h917 999 93
+4401:move out
+4401:move out
+4401:move s
+4401:wait unit 4141
+4401:give 4141 80424
+4401:give 4141 96470
+70780:make 75 20
+70780:train 16

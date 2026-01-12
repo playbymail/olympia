@@ -1,0 +1,1279 @@
+15928:0::0:0:Garrison~[f298], garrison, with 40~crossbowmen guards Forest~[cz28].
+50229:0::0:0:> accept 0 0
+2118:0::0:1:> move h434
+2118:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+135481:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+102240:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+146625:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+114167:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+90916:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+126268:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+149340:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+2364:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+147856:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+94859:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+112671:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+99042:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+89970:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+9866:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+5890:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+139933:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+118925:0::0:1:New noble~[2118] unstacks from Skeleton~[99167].
+2118:0::0:1:Travel to Barrows~[h434] will take one day.
+135481:0::0:1:Travel to Barrows~[h434] will take one day.
+102240:0::0:1:Travel to Barrows~[h434] will take one day.
+146625:0::0:1:Travel to Barrows~[h434] will take one day.
+114167:0::0:1:Travel to Barrows~[h434] will take one day.
+90916:0::0:1:Travel to Barrows~[h434] will take one day.
+126268:0::0:1:Travel to Barrows~[h434] will take one day.
+149340:0::0:1:Travel to Barrows~[h434] will take one day.
+2364:0::0:1:Travel to Barrows~[h434] will take one day.
+147856:0::0:1:Travel to Barrows~[h434] will take one day.
+94859:0::0:1:Travel to Barrows~[h434] will take one day.
+112671:0::0:1:Travel to Barrows~[h434] will take one day.
+99042:0::0:1:Travel to Barrows~[h434] will take one day.
+89970:0::0:1:Travel to Barrows~[h434] will take one day.
+9866:0::0:1:Travel to Barrows~[h434] will take one day.
+5890:0::0:1:Travel to Barrows~[h434] will take one day.
+139933:0::0:1:Travel to Barrows~[h434] will take one day.
+118925:0::0:1:Travel to Barrows~[h434] will take one day.
+38048:0::0:1:New noble~[2118] left for Barrows~[h434], accompanied~by:
+38048:0::3/3:1:New noble~[135481]
+38048:0::3/3:1:New noble~[102240]
+38048:0::3/3:1:New noble~[146625]
+38048:0::3/3:1:New noble~[114167]
+38048:0::3/3:1:New noble~[90916]
+38048:0::3/3:1:New noble~[126268]
+38048:0::3/3:1:New noble~[149340]
+38048:0::3/3:1:New noble~[2364]
+38048:0::3/3:1:New noble~[147856]
+38048:0::3/3:1:New noble~[94859]
+38048:0::3/3:1:New noble~[112671]
+38048:0::3/3:1:New noble~[99042]
+38048:0::3/3:1:New noble~[89970]
+38048:0::3/3:1:New noble~[9866]
+38048:0::3/3:1:New noble~[5890]
+38048:0::3/3:1:New noble~[139933]
+38048:0::3/3:1:New noble~[118925]
+6599:0::0:1:> study 884
+6599:0::0:1:Study Cloak creator of artifact for seven days.
+2118:0::0:1:Arrival at Barrows~[h434].
+135481:0::0:1:Arrival at Barrows~[h434].
+102240:0::0:1:Arrival at Barrows~[h434].
+146625:0::0:1:Arrival at Barrows~[h434].
+114167:0::0:1:Arrival at Barrows~[h434].
+90916:0::0:1:Arrival at Barrows~[h434].
+126268:0::0:1:Arrival at Barrows~[h434].
+149340:0::0:1:Arrival at Barrows~[h434].
+2364:0::0:1:Arrival at Barrows~[h434].
+147856:0::0:1:Arrival at Barrows~[h434].
+94859:0::0:1:Arrival at Barrows~[h434].
+112671:0::0:1:Arrival at Barrows~[h434].
+99042:0::0:1:Arrival at Barrows~[h434].
+89970:0::0:1:Arrival at Barrows~[h434].
+9866:0::0:1:Arrival at Barrows~[h434].
+5890:0::0:1:Arrival at Barrows~[h434].
+139933:0::0:1:Arrival at Barrows~[h434].
+118925:0::0:1:Arrival at Barrows~[h434].
+65434:0::0:1:New noble~[2118] arrived, accompanied~by:
+65434:0::3/3:1:New noble~[135481]
+65434:0::3/3:1:New noble~[102240]
+65434:0::3/3:1:New noble~[146625]
+65434:0::3/3:1:New noble~[114167]
+65434:0::3/3:1:New noble~[90916]
+65434:0::3/3:1:New noble~[126268]
+65434:0::3/3:1:New noble~[149340]
+65434:0::3/3:1:New noble~[2364]
+65434:0::3/3:1:New noble~[147856]
+65434:0::3/3:1:New noble~[94859]
+65434:0::3/3:1:New noble~[112671]
+65434:0::3/3:1:New noble~[99042]
+65434:0::3/3:1:New noble~[89970]
+65434:0::3/3:1:New noble~[9866]
+65434:0::3/3:1:New noble~[5890]
+65434:0::3/3:1:New noble~[139933]
+65434:0::3/3:1:New noble~[118925]
+2118:0::0:2:> move cx28
+2118:0::0:2:Travel to Plain~[cx28] will take one day.
+135481:0::0:2:Travel to Plain~[cx28] will take one day.
+102240:0::0:2:Travel to Plain~[cx28] will take one day.
+146625:0::0:2:Travel to Plain~[cx28] will take one day.
+114167:0::0:2:Travel to Plain~[cx28] will take one day.
+90916:0::0:2:Travel to Plain~[cx28] will take one day.
+126268:0::0:2:Travel to Plain~[cx28] will take one day.
+149340:0::0:2:Travel to Plain~[cx28] will take one day.
+2364:0::0:2:Travel to Plain~[cx28] will take one day.
+147856:0::0:2:Travel to Plain~[cx28] will take one day.
+94859:0::0:2:Travel to Plain~[cx28] will take one day.
+112671:0::0:2:Travel to Plain~[cx28] will take one day.
+99042:0::0:2:Travel to Plain~[cx28] will take one day.
+89970:0::0:2:Travel to Plain~[cx28] will take one day.
+9866:0::0:2:Travel to Plain~[cx28] will take one day.
+5890:0::0:2:Travel to Plain~[cx28] will take one day.
+139933:0::0:2:Travel to Plain~[cx28] will take one day.
+118925:0::0:2:Travel to Plain~[cx28] will take one day.
+65434:0::0:2:New noble~[2118] exited Barrows~[h434], accompanied~by:
+65434:0::3/3:2:New noble~[135481]
+65434:0::3/3:2:New noble~[102240]
+65434:0::3/3:2:New noble~[146625]
+65434:0::3/3:2:New noble~[114167]
+65434:0::3/3:2:New noble~[90916]
+65434:0::3/3:2:New noble~[126268]
+65434:0::3/3:2:New noble~[149340]
+65434:0::3/3:2:New noble~[2364]
+65434:0::3/3:2:New noble~[147856]
+65434:0::3/3:2:New noble~[94859]
+65434:0::3/3:2:New noble~[112671]
+65434:0::3/3:2:New noble~[99042]
+65434:0::3/3:2:New noble~[89970]
+65434:0::3/3:2:New noble~[9866]
+65434:0::3/3:2:New noble~[5890]
+65434:0::3/3:2:New noble~[139933]
+65434:0::3/3:2:New noble~[118925]
+15828:0::0:2:Undead~[97181], undead, wielding Spear of Evinob~[k091], with 68~peasants, 512~soldiers, 90~archers, 15~knights, 34~elite guard, 671~pikemen, 128~swordsmen, 29~crossbowmen, 63~elite archers, six~riding horses, 26~winged horses, 15~nazgul, 25~catapults, 98~oxen, 254~centaurs, 1,962~giant lizards, one~orc, one~wolf, one~cyclops, two~giants, entered Barrows~[h434], accompanied~by:
+15828:0::3/3:2:Samuel~[t610], wearing enchanted helm~[h149], with 12~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[129139], with two~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[120532], with three~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[94648], with three~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[140431], with three~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:Ekechi~[92963], with three~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[145685], with 22~soldiers, one~pikeman, three~winged horses
+2118:0::0:2:Arrival at Plain~[cx28].
+135481:0::0:2:Arrival at Plain~[cx28].
+102240:0::0:2:Arrival at Plain~[cx28].
+146625:0::0:2:Arrival at Plain~[cx28].
+114167:0::0:2:Arrival at Plain~[cx28].
+90916:0::0:2:Arrival at Plain~[cx28].
+126268:0::0:2:Arrival at Plain~[cx28].
+149340:0::0:2:Arrival at Plain~[cx28].
+2364:0::0:2:Arrival at Plain~[cx28].
+147856:0::0:2:Arrival at Plain~[cx28].
+94859:0::0:2:Arrival at Plain~[cx28].
+112671:0::0:2:Arrival at Plain~[cx28].
+99042:0::0:2:Arrival at Plain~[cx28].
+89970:0::0:2:Arrival at Plain~[cx28].
+9866:0::0:2:Arrival at Plain~[cx28].
+5890:0::0:2:Arrival at Plain~[cx28].
+139933:0::0:2:Arrival at Plain~[cx28].
+118925:0::0:2:Arrival at Plain~[cx28].
+15828:0::0:2:New noble~[2118] arrived from Barrows~[h434], accompanied~by:
+15828:0::3/3:2:New noble~[135481]
+15828:0::3/3:2:New noble~[102240]
+15828:0::3/3:2:New noble~[146625]
+15828:0::3/3:2:New noble~[114167]
+15828:0::3/3:2:New noble~[90916]
+15828:0::3/3:2:New noble~[126268]
+15828:0::3/3:2:New noble~[149340]
+15828:0::3/3:2:New noble~[2364]
+15828:0::3/3:2:New noble~[147856]
+15828:0::3/3:2:New noble~[94859]
+15828:0::3/3:2:New noble~[112671]
+15828:0::3/3:2:New noble~[99042]
+15828:0::3/3:2:New noble~[89970]
+15828:0::3/3:2:New noble~[9866]
+15828:0::3/3:2:New noble~[5890]
+15828:0::3/3:2:New noble~[139933]
+15828:0::3/3:2:New noble~[118925]
+2118:0::0:3:> move out
+2118:0::0:3:No visible out route from Plain~[cx28].
+2118:0::0:3:> move out
+2118:0::0:3:No visible out route from Plain~[cx28].
+2118:0::0:3:> move cz28
+2118:0::0:3:Travel to Forest~[cz28] will take eight days.
+135481:0::0:3:Travel to Forest~[cz28] will take eight days.
+102240:0::0:3:Travel to Forest~[cz28] will take eight days.
+146625:0::0:3:Travel to Forest~[cz28] will take eight days.
+114167:0::0:3:Travel to Forest~[cz28] will take eight days.
+90916:0::0:3:Travel to Forest~[cz28] will take eight days.
+126268:0::0:3:Travel to Forest~[cz28] will take eight days.
+149340:0::0:3:Travel to Forest~[cz28] will take eight days.
+2364:0::0:3:Travel to Forest~[cz28] will take eight days.
+147856:0::0:3:Travel to Forest~[cz28] will take eight days.
+94859:0::0:3:Travel to Forest~[cz28] will take eight days.
+112671:0::0:3:Travel to Forest~[cz28] will take eight days.
+99042:0::0:3:Travel to Forest~[cz28] will take eight days.
+89970:0::0:3:Travel to Forest~[cz28] will take eight days.
+9866:0::0:3:Travel to Forest~[cz28] will take eight days.
+5890:0::0:3:Travel to Forest~[cz28] will take eight days.
+139933:0::0:3:Travel to Forest~[cz28] will take eight days.
+118925:0::0:3:Travel to Forest~[cz28] will take eight days.
+15828:0::0:3:New noble~[2118] went south, accompanied~by:
+15828:0::3/3:3:New noble~[135481]
+15828:0::3/3:3:New noble~[102240]
+15828:0::3/3:3:New noble~[146625]
+15828:0::3/3:3:New noble~[114167]
+15828:0::3/3:3:New noble~[90916]
+15828:0::3/3:3:New noble~[126268]
+15828:0::3/3:3:New noble~[149340]
+15828:0::3/3:3:New noble~[2364]
+15828:0::3/3:3:New noble~[147856]
+15828:0::3/3:3:New noble~[94859]
+15828:0::3/3:3:New noble~[112671]
+15828:0::3/3:3:New noble~[99042]
+15828:0::3/3:3:New noble~[89970]
+15828:0::3/3:3:New noble~[9866]
+15828:0::3/3:3:New noble~[5890]
+15828:0::3/3:3:New noble~[139933]
+15828:0::3/3:3:New noble~[118925]
+38048:0::0:4:Savage~[88263], savage, with two~winged horses, arrived.
+65434:0::0:4:Undead~[97181], undead, wielding Spear of Evinob~[k091], with 68~peasants, 512~soldiers, 90~archers, 15~knights, 34~elite guard, 671~pikemen, 128~swordsmen, 29~crossbowmen, 63~elite archers, six~riding horses, 26~winged horses, 15~nazgul, 25~catapults, 98~oxen, 254~centaurs, 1,962~giant lizards, one~orc, one~wolf, one~cyclops, two~giants, arrived from Plain~[cx28], accompanied~by:
+65434:0::3/3:4:Samuel~[t610], wearing enchanted helm~[h149], with 12~winged horses, 22~soldiers, one~pikeman
+65434:0::3/3:4:New noble~[129139], with two~winged horses, 22~soldiers, one~pikeman
+65434:0::3/3:4:New noble~[120532], with three~winged horses, 22~soldiers, one~pikeman
+65434:0::3/3:4:New noble~[94648], with three~winged horses, 22~soldiers, one~pikeman
+65434:0::3/3:4:New noble~[140431], with three~winged horses, 22~soldiers, one~pikeman
+65434:0::3/3:4:Ekechi~[92963], with three~winged horses, 22~soldiers, one~pikeman
+65434:0::3/3:4:New noble~[145685], with 22~soldiers, one~pikeman, three~winged horses
+15828:0::0:4:New noble~[109532], with four~winged horses, arrived from the south.
+15928:0::0:4:It has begun to rain.
+15828:0::0:5:New noble~[109532], with four~winged horses, entered Barrows~[h434].
+65434:0::0:5:New noble~[109532], with four~winged horses, arrived from Plain~[cx28].
+38048:0::0:6:New noble~[109532], with four~winged horses, arrived from Barrows~[h434].
+38048:0::0:7:Undead~[97181], undead, wielding Spear of Evinob~[k091], with 68~peasants, 512~soldiers, 90~archers, 15~knights, 34~elite guard, 671~pikemen, 128~swordsmen, 29~crossbowmen, 63~elite archers, six~riding horses, 26~winged horses, 15~nazgul, 25~catapults, 98~oxen, 254~centaurs, 1,962~giant lizards, one~orc, one~wolf, one~cyclops, two~giants, arrived from Barrows~[h434], accompanied~by:
+38048:0::3/3:7:Samuel~[t610], wearing enchanted helm~[h149], with 12~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[129139], with two~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[120532], with three~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[94648], with three~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[140431], with three~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:Ekechi~[92963], with three~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[145685], with 21~soldiers, two~pikemen, three~winged horses
+6599:0::0:8:> study 884
+6599:0::0:8:Study Cloak creator of artifact for seven days.
+38048:0::0:9:Undead~[79289], undead, with 477~peasants, 167~soldiers, two~riding horses, arrived.
+2118:0::0:10:Arrival at Forest~[cz28].
+135481:0::0:10:Arrival at Forest~[cz28].
+102240:0::0:10:Arrival at Forest~[cz28].
+146625:0::0:10:Arrival at Forest~[cz28].
+114167:0::0:10:Arrival at Forest~[cz28].
+90916:0::0:10:Arrival at Forest~[cz28].
+126268:0::0:10:Arrival at Forest~[cz28].
+149340:0::0:10:Arrival at Forest~[cz28].
+2364:0::0:10:Arrival at Forest~[cz28].
+147856:0::0:10:Arrival at Forest~[cz28].
+94859:0::0:10:Arrival at Forest~[cz28].
+112671:0::0:10:Arrival at Forest~[cz28].
+99042:0::0:10:Arrival at Forest~[cz28].
+89970:0::0:10:Arrival at Forest~[cz28].
+9866:0::0:10:Arrival at Forest~[cz28].
+5890:0::0:10:Arrival at Forest~[cz28].
+139933:0::0:10:Arrival at Forest~[cz28].
+118925:0::0:10:Arrival at Forest~[cz28].
+2118:0::0:10:The province is blanketed in fog.
+135481:0::0:10:The province is blanketed in fog.
+102240:0::0:10:The province is blanketed in fog.
+146625:0::0:10:The province is blanketed in fog.
+114167:0::0:10:The province is blanketed in fog.
+90916:0::0:10:The province is blanketed in fog.
+126268:0::0:10:The province is blanketed in fog.
+149340:0::0:10:The province is blanketed in fog.
+2364:0::0:10:The province is blanketed in fog.
+147856:0::0:10:The province is blanketed in fog.
+94859:0::0:10:The province is blanketed in fog.
+112671:0::0:10:The province is blanketed in fog.
+99042:0::0:10:The province is blanketed in fog.
+89970:0::0:10:The province is blanketed in fog.
+9866:0::0:10:The province is blanketed in fog.
+5890:0::0:10:The province is blanketed in fog.
+139933:0::0:10:The province is blanketed in fog.
+118925:0::0:10:The province is blanketed in fog.
+6599:0::0:14:Another auraculum has come into existence.
+15828:0::0:21:It has begun to rain.
+14302:0::0::
+14302:0::0::Routes leaving Ocean: 
+14302:0::3::North, forest, to Mutsu~[cc02], Cragstan, 2~days
+14302:0::3::East, plain, to Buzen~[cd03], Cragstan, 2~days
+14302:0::3::South, to Ocean~[cf02], 3~days
+14302:0::3::West, to Ocean~[cd01], 3~days
+14302:0::0::
+14302:0::0::It is raining.
+15828:0::0::
+15828:0::0::Province controlled by Abyss of Aras Nehem~[5253], castle, in Mountain~[ct14]
+15828:0::0::Ruled by Ysrthgrathe~[9509], duke
+15828:0::0::
+15828:0::0::Routes leaving Plain: 
+15828:0::3::North, to Forest~[cw28], 8~days
+15828:0::3::East, to Plain~[cx29], 7~days
+15828:0::3::South, to Forest~[cz28], 8~days
+15828:0::3::West, to Plain~[cx27], 7~days
+15828:0::0::
+15828:0::0::Inner locations:
+15828:0::3::Barrows~[h434], graveyard, 1 day
+15828:0::3::Pasture~[v924], pasture, 1 day
+15828:0::0::
+15828:0::0::It is raining.
+15828:0::0::
+15828:0::0::Seen here:
+15828:0::0/3::   Garrison~[v987], garrison, on guard, with ten~peasants
+15828:0::0/3::   Skeleton~[147058], skeleton, with four~winged horses
+15828:0::0/3::   Skeleton~[103900], skeleton, with one~riding horse, five~winged horses
+15828:0::0/3::   Savage~[105398], savage, with three~riding horses, six~winged horses
+15828:0::0/3::   Savage~[93937], savage, with 24~riding horses
+15828:0::0/3::   Orc~[136890], orc, with one~riding horse
+15928:0::0::
+15928:0::0::Province controlled by Silver Mountain Citadel~[8056], castle, in Silver Mountain~[cz27]
+15928:0::0::Ruled by Gopher~[2300], duke
+15928:0::0::
+15928:0::0::Routes leaving Forest: 
+15928:0::3::North, to Plain~[cx28], 7~days
+15928:0::3::East, to Plain~[cz29], 7~days
+15928:0::3::South, to Mountain~[da28], 10~days
+15928:0::3::West, mountain, to Silver Mountain~[cz27], 10~days
+15928:0::0::
+15928:0::0::It is raining.
+15928:0::0::The province is blanketed in fog.
+15928:0::3::Fog~[92961], storm, owner~7284, strength~43
+15928:0::3::Rain~[98102], storm, strength~2
+15928:0::0::
+15928:0::0::No one can be seen through the fog.
+38048:0::0::
+38048:0::0::Routes leaving Hades: 
+38048:0::3::East, underground, to Hades~[pc89], hidden, 7~days
+38048:0::0::
+38048:0::0::Inner locations:
+38048:0::3::Barrows~[h434], graveyard, 1 day
+38048:0::0::
+38048:0::0::Seen here:
+38048:0::0/3::   Skeleton~[99167], skeleton, wielding magic dagger~[122608], wearing Armor of Cyllenedos~[91406], with 1,954~pikemen, 248~swordsmen, 96~elite archers, 58~winged horses, 13~oxen, 341~centaurs, 4,374~giant lizards, four~orcs, two~wolves, two~cyclops, 63~peasants, 90~archers, 15~knights, 34~elite guard, 29~crossbowmen, 15~nazgul, 25~catapults, two~giants, 142~soldiers, accompanied~by:
+38048:0::0/6::      New noble~[8259], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[124616], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[126846], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[102453], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[130482], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[6679], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[80581], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[102158], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[133664], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[85639], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[142656], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[100912], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[105397], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[103783], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[91617], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[3764], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[97334], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[118569], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[118511], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[118594], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[117496], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[8803], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[137416], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[137028], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[132783], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[101093], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[90474], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[79153], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[s569], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[h126], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[g499], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[113826], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[106638], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      Alfie Newcombe~[r090], with four~winged horses, 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[2278]
+38048:0::0/6::      New noble~[138287]
+38048:0::0/6::      New noble~[6532]
+38048:0::0/6::      New noble~[91599]
+38048:0::0/6::      New noble~[126290]
+38048:0::0/6::      New noble~[a684]
+38048:0::0/6::      New noble~[j548]
+38048:0::0/6::      New noble~[142187]
+38048:0::0/6::      New noble~[b590]
+38048:0::0/6::      New noble~[149190]
+38048:0::0/6::      New noble~[118896]
+38048:0::0/6::      New noble~[83981]
+38048:0::0/6::      New noble~[118696]
+38048:0::0/6::      Rolth~[5637], with three~soldiers, nine~pikemen, two~winged horses
+38048:0::0/3::   New noble~[109532], with four~winged horses, nine~ghost warriors
+38048:0::0/3::   Savage~[88263], savage, with two~winged horses
+38048:0::0/3::   Undead~[97181], undead, wielding Spear of Evinob~[k091], with six~riding horses, 24~winged horses, 98~oxen, accompanied~by:
+38048:0::0/6::      Samuel~[t610], wearing enchanted helm~[h149], with 12~winged horses
+38048:0::0/6::      New noble~[129139], with two~winged horses
+38048:0::0/6::      New noble~[120532], with three~winged horses
+38048:0::0/6::      New noble~[94648], with three~winged horses
+38048:0::0/6::      New noble~[140431], with three~winged horses
+38048:0::0/6::      Ekechi~[92963], with three~winged horses
+38048:0::0/6::      New noble~[145685], with three~winged horses
+38048:0::0/3::   Undead~[79289], undead, with two~riding horses
+65434:0::0::
+65434:0::0::Routes leaving Barrows: 
+65434:0::3::Out, to Plain~[cx28], 1~day
+65434:0::3::Underground, to Hades~[sa48], Hades, hidden, 1~day
+65434:0::6/1::"Notice to mortals, from the Gatekeeper Spirit of Hades: 100 gold/head is removed from any stack taking this road."
+65434:0::0::
+65434:0::0::It is raining.
+5:0::0::
+5:0::0::begin aw9 "heyHeyhoHo"  # Gar
+5:0::0::
+5:0::0::unit aw9  # Gar
+5:0::0::
+5:0::0::unit 6599  # Folderol in Forest~[cz28]
+5:0::0::
+5:0::0::unit 2118  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 135481  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 102240  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 146625  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 114167  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 90916  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 126268  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 149340  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 2364  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 147856  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 94859  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 112671  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 99042  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 89970  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 9866  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 5890  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 139933  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 118925  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::end
+50229:0::0::
+50229:0::0::Declared attitudes:
+50229:0::3::neutral  aw9
+50229:0::0::
+50229:0::0::Unclaimed items:
+50229:0::0::
+50229:0::0::      qty  name                              weight
+50229:0::0::      ---  ----                              ------
+50229:0::0::      375  gold~[1]                               0  
+50229:0::0::       50  wood~[77]                          1,500  
+50229:0::0::      100  stone~[78]                        10,000  
+2118:0::3::
+2118:0::3/16::Location:       Forest~[cz28], in Provinia
+2118:0::3::Loyalty:        Oath-1
+2118:0::3::Stacked over:   New noble~[135481]
+2118:0::3::                New noble~[102240]
+2118:0::3::                New noble~[146625]
+2118:0::3::                New noble~[114167]
+2118:0::3::                New noble~[90916]
+2118:0::3::                New noble~[126268]
+2118:0::3::                New noble~[149340]
+2118:0::3::                New noble~[2364]
+2118:0::3::                New noble~[147856]
+2118:0::3::                New noble~[94859]
+2118:0::3::                New noble~[112671]
+2118:0::3::                New noble~[99042]
+2118:0::3::                New noble~[89970]
+2118:0::3::                New noble~[9866]
+2118:0::3::                New noble~[5890]
+2118:0::3::                New noble~[139933]
+2118:0::3::                New noble~[118925]
+2118:0::3::Health:         100%
+2118:0::3::Combat:         attack 80, defense 80, missile 0
+2118:0::3::                behind 0  (front line in combat)
+2118:0::3::Break point:    0% (fight to the death)
+2118:0::3::
+2118:0::3::Skills known:
+2118:0::6::Combat~[610]
+2118:0::12::Survive fatal wound~[611]
+2118:0::12::Fight to the death~[612]
+2118:0::6::Beastmastery~[650]
+2118:0::12::Use beasts in battle~[653]
+2118:0::12::Breed beasts~[654], master
+2118:0::3::
+2118:0::3::Inventory:
+2118:0::3::{<b>}      qty  name                              weight{</b>}
+2118:0::3::      ---  ----                              ------
+2118:0::3::      700  gold~[1]                               0  
+2118:0::3::                                             ======
+2118:0::3::                                                  0
+2118:0::3::
+2118:0::3/11::Capacity:  0/100 land (0%)
+2118:0::3::
+2364:0::3::
+2364:0::3/16::Location:       Forest~[cz28], in Provinia
+2364:0::3::Loyalty:        Fear-82
+2364:0::3/16::Stacked under:  New noble~[2118]
+2364:0::3::Health:         100%
+2364:0::3::Combat:         attack 80, defense 80, missile 0
+2364:0::3::                behind 3  (stay behind in combat)
+2364:0::3::Break point:    50%
+2364:0::3::
+2364:0::3::Skills known:
+2364:0::6::Combat~[610]
+2364:0::6::Beastmastery~[650]
+2364:0::12::Breed beasts~[654], master
+2364:0::3::
+2364:0::3::New noble~[2364] has no possessions.
+2364:0::3::
+2364:0::3/11::Capacity:  0/100 land (0%)
+2364:0::3::
+5890:0::3::
+5890:0::3/16::Location:       Forest~[cz28], in Provinia
+5890:0::3::Loyalty:        Fear-82
+5890:0::3/16::Stacked under:  New noble~[2118]
+5890:0::3::Health:         100%
+5890:0::3::Combat:         attack 80, defense 80, missile 0
+5890:0::3::                behind 3  (stay behind in combat)
+5890:0::3::Break point:    50%
+5890:0::3::
+5890:0::3::Skills known:
+5890:0::6::Combat~[610]
+5890:0::12::Survive fatal wound~[611]
+5890:0::6::Beastmastery~[650]
+5890:0::12::Breed beasts~[654], master
+5890:0::3::
+5890:0::3::New noble~[5890] has no possessions.
+5890:0::3::
+5890:0::3/11::Capacity:  0/100 land (0%)
+5890:0::3::
+6599:0::3::
+6599:0::3/16::Location:       Forest~[cz28], in Provinia
+6599:0::3::Loyalty:        Fear-988
+6599:0::3::Health:         100%
+6599:0::3::Combat:         attack 80, defense 80, missile 50
+6599:0::3::                behind 0  (front line in combat)
+6599:0::3::Break point:    0% (fight to the death)
+6599:0::3::use  641 1      (concealing self)
+6599:0::3::Receive Vision: 13 protection
+6599:0::3::
+6599:0::3::Current aura:   46
+6599:0::3::Maximum aura:   54 (0+54)
+6599:0::3::
+6599:0::3::Skills known:
+6599:0::6::Combat~[610]
+6599:0::12::Survive fatal wound~[611]
+6599:0::12::Fight to the death~[612]
+6599:0::12::Construct catapult~[613], apprentice
+6599:0::12::Archery~[615], apprentice
+6599:0::12::Swordplay~[616], apprentice
+6599:0::12::Weaponsmithing~[617], apprentice
+6599:0::6::Stealth~[630]
+6599:0::12::Determine inventory of character~[632], apprentice
+6599:0::12::Determine skills of character~[633], apprentice
+6599:0::12::Determine character's lord~[634], apprentice
+6599:0::12::Conceal faction~[635], apprentice
+6599:0::12::Conceal self~[641], apprentice
+6599:0::6::Persuasion~[670]
+6599:0::12::Bribe noble~[671], apprentice
+6599:0::12::Persuade oathbound noble~[672], apprentice
+6599:0::6::Construction~[680]
+6599:0::12::Stone quarrying~[682], journeyman
+6599:0::6::Forestry~[700]
+6599:0::12::Harvest lumber~[702], apprentice
+6599:0::6::Mining~[720]
+6599:0::12::Mine iron~[721], journeyman
+6599:0::12::Mine gold~[722], apprentice
+6599:0::6::Weather magic~[820]
+6599:0::12::Fierce wind~[821], apprentice
+6599:0::12::Bind storm to ship~[822], apprentice
+6599:0::12::Scribe weather symbols~[823], apprentice
+6599:0::12::Summon rain~[824], apprentice
+6599:0::12::Summon wind~[825], apprentice
+6599:0::12::Summon fog~[826], apprentice
+6599:0::12::Direct storm~[827], adept
+6599:0::12::Dissipate storm~[828], apprentice
+6599:0::12::Renew storm strength~[829], journeyman
+6599:0::12::Lightning bolt~[831], apprentice
+6599:0::12::Seize control of storm~[832], apprentice
+6599:0::12::Fog of death~[833], apprentice
+6599:0::6::Artifact construction~[880]
+6599:0::6::Advanced sorcery~[920]
+6599:0::12::Trance~[921], apprentice
+6599:0::12::Teleport items~[922], apprentice
+6599:0::3::
+6599:0::3::Partially known skills:
+6599:0::6/6::Forge auraculum~[881], 7/14
+6599:0::6/6::Reveal creator of artifact~[882], 7/14
+6599:0::6/6::Cloak creator of artifact~[884], 15/28
+6599:0::6/6::Cloak region of artifact creation~[885], 1/14
+6599:0::6/6::Curse noncreator loyalty~[886], 1/14
+6599:0::6/6::Forge magical weapon~[887], 1/21
+6599:0::6/6::Forge magical armor~[888], 1/21
+6599:0::6/6::Forge magical bow~[889], 1/21
+6599:0::6/6::Arcane symbols~[892], 1/21
+6599:0::6/6::Destroy artifact~[893], 1/21
+6599:0::6/6::Forge palantir~[894], 1/21
+6599:0::3::
+6599:0::3::Inventory:
+6599:0::3::{<b>}      qty  name                              weight{</b>}
+6599:0::3::      ---  ----                              ------
+6599:0::3::      200  gold~[1]                               0  
+6599:0::3::       23  winged horses~[54]                23,000  fly 3,450
+6599:0::3::        1  elfstone~[69]                          1  
+6599:0::3::        1  Scroll~[f207]                          1  
+6599:0::3::        1  Scroll~[g115]                          1  
+6599:0::3::        1  849 Scroll~[g775]                      1  
+6599:0::3::        1  Scroll~[j003]                          1  
+6599:0::3::        1  Scroll~[j772]                          1  
+6599:0::3::        1  852 Scroll~[k060]                      1  
+6599:0::3::        1  Scroll 811~[m029]                      1  
+6599:0::3::        1  Scroll~[n054]                          1  
+6599:0::3::        1  851 Scroll~[n628]                      1  
+6599:0::3::        1  Scroll~[r281]                          1  
+6599:0::3::        1  Scroll~[r769]                          1  
+6599:0::3::        1  825 Scroll~[r976]                      1  
+6599:0::3::        1  Scroll~[t789]                          1  
+6599:0::3::        1  Scroll~[t824]                          1  
+6599:0::3::        1  Scroll~[v349]                          1  
+6599:0::3::        1  Scroll~[x519]                          1  
+6599:0::3::        1  Scroll~[82701]                         1  
+6599:0::3::        1  860 Scroll~[85925]                     1  
+6599:0::3::        1  Scroll~[94871]                         1  
+6599:0::3::        1  753 Scroll~[106289]                    1  
+6599:0::3::        1  Scroll~[111860]                        1  
+6599:0::3::        1  814 Scroll~[116108]                    1  
+6599:0::3::        1  Scroll~[122275]                        1  
+6599:0::3::        1  battered wooden staff~[133719]         3  
+6599:0::3::        1  Scroll~[148233]                        1  
+6599:0::3::                                             ======
+6599:0::3::                                             23,028
+6599:0::3::
+6599:0::3/11::Capacity:  28/3,550 land (0%), 128/3,450 ride (3%), 128/3,450 fly (3%)
+6599:0::3::
+6599:0::3::Scroll~[f207] permits study of the following skills:
+6599:0::6/3::Arcane symbols~[892] (requires Artifact construction)
+6599:0::3::
+6599:0::3::Scroll~[g115] permits study of the following skills:
+6599:0::6/3::??? (requires Scrying)
+6599:0::3::
+6599:0::3::849 Scroll~[g775] permits study of the following skills:
+6599:0::6/3::??? (requires Scrying)
+6599:0::3::
+6599:0::3::Scroll~[j003] permits study of the following skills:
+6599:0::6/3::??? (requires Scrying)
+6599:0::3::
+6599:0::3::Scroll~[j772] permits study of the following skills:
+6599:0::6/3::Forge magical armor~[888] (requires Artifact construction)
+6599:0::3::
+6599:0::3::852 Scroll~[k060] permits study of the following skills:
+6599:0::6/3::??? (requires Scrying)
+6599:0::3::
+6599:0::3::Scroll 811~[m029] permits study of the following skills:
+6599:0::6/3::??? (requires Magic)
+6599:0::3::
+6599:0::3::Scroll~[n054] permits study of the following skills:
+6599:0::6/3::Curse noncreator loyalty~[886] (requires Artifact construction)
+6599:0::3::
+6599:0::3::851 Scroll~[n628] permits study of the following skills:
+6599:0::6/3::??? (requires Scrying)
+6599:0::3::
+6599:0::3::Scroll~[r281] permits study of the following skills:
+6599:0::6/3::Conceal self~[641] (requires Stealth)
+6599:0::3::
+6599:0::3::Scroll~[r769] permits study of the following skills:
+6599:0::6/3::??? (requires Scrying)
+6599:0::3::
+6599:0::3::825 Scroll~[r976] permits study of the following skills:
+6599:0::6/3::Summon wind~[825] (requires Weather magic)
+6599:0::3::
+6599:0::3::Scroll~[t789] permits study of the following skills:
+6599:0::6/3::Cloak region of artifact creation~[885] (requires Artifact construction)
+6599:0::3::
+6599:0::3::Scroll~[t824] permits study of the following skills:
+6599:0::6/3::Alchemy~[690]
+6599:0::3::
+6599:0::3::Scroll~[v349] permits study of the following skills:
+6599:0::6/3::Forge magical bow~[889] (requires Artifact construction)
+6599:0::3::
+6599:0::3::Scroll~[x519] permits study of the following skills:
+6599:0::6/3::Artifact construction~[880]
+6599:0::3::
+6599:0::3::Scroll~[82701] permits study of the following skills:
+6599:0::6/3::Conceal self~[641] (requires Stealth)
+6599:0::3::
+6599:0::3::860 Scroll~[85925] permits study of the following skills:
+6599:0::6/3::Gatecraft~[860]
+6599:0::3::
+6599:0::3::Scroll~[94871] permits study of the following skills:
+6599:0::6/3::Forge palantir~[894] (requires Artifact construction)
+6599:0::3::
+6599:0::3::753 Scroll~[106289] permits study of the following skills:
+6599:0::6/3::??? (requires Religion)
+6599:0::3::
+6599:0::3::Scroll~[111860] permits study of the following skills:
+6599:0::6/3::Cloak creator of artifact~[884] (requires Artifact construction)
+6599:0::3::
+6599:0::3::814 Scroll~[116108] permits study of the following skills:
+6599:0::6/3::??? (requires Magic)
+6599:0::3::
+6599:0::3::Scroll~[122275] permits study of the following skills:
+6599:0::6/3::Forge magical weapon~[887] (requires Artifact construction)
+6599:0::3::
+6599:0::3::Scroll~[148233] permits study of the following skills:
+6599:0::6/3::Destroy artifact~[893] (requires Artifact construction)
+6599:0::3::
+9866:0::3::
+9866:0::3/16::Location:       Forest~[cz28], in Provinia
+9866:0::3::Loyalty:        Fear-82
+9866:0::3/16::Stacked under:  New noble~[2118]
+9866:0::3::Health:         100%
+9866:0::3::Combat:         attack 80, defense 80, missile 0
+9866:0::3::                behind 3  (stay behind in combat)
+9866:0::3::Break point:    50%
+9866:0::3::
+9866:0::3::Skills known:
+9866:0::6::Combat~[610]
+9866:0::12::Survive fatal wound~[611]
+9866:0::6::Beastmastery~[650]
+9866:0::12::Breed beasts~[654], master
+9866:0::3::
+9866:0::3::New noble~[9866] has no possessions.
+9866:0::3::
+9866:0::3/11::Capacity:  0/100 land (0%)
+9866:0::3::
+89970:0::3::
+89970:0::3/16::Location:       Forest~[cz28], in Provinia
+89970:0::3::Loyalty:        Fear-83
+89970:0::3/16::Stacked under:  New noble~[2118]
+89970:0::3::Health:         100%
+89970:0::3::Combat:         attack 80, defense 80, missile 0
+89970:0::3::                behind 3  (stay behind in combat)
+89970:0::3::Break point:    50%
+89970:0::3::
+89970:0::3::Skills known:
+89970:0::6::Combat~[610]
+89970:0::6::Beastmastery~[650]
+89970:0::12::Breed beasts~[654], master
+89970:0::3::
+89970:0::3::New noble~[89970] has no possessions.
+89970:0::3::
+89970:0::3/11::Capacity:  0/100 land (0%)
+89970:0::3::
+90916:0::3::
+90916:0::3/16::Location:       Forest~[cz28], in Provinia
+90916:0::3::Loyalty:        Fear-82
+90916:0::3/16::Stacked under:  New noble~[2118]
+90916:0::3::Health:         100%
+90916:0::3::Combat:         attack 80, defense 80, missile 0
+90916:0::3::                behind 3  (stay behind in combat)
+90916:0::3::Break point:    50%
+90916:0::3::
+90916:0::3::Skills known:
+90916:0::6::Combat~[610]
+90916:0::6::Beastmastery~[650]
+90916:0::12::Breed beasts~[654], master
+90916:0::3::
+90916:0::3::New noble~[90916] has no possessions.
+90916:0::3::
+90916:0::3/11::Capacity:  0/100 land (0%)
+90916:0::3::
+94859:0::3::
+94859:0::3/16::Location:       Forest~[cz28], in Provinia
+94859:0::3::Loyalty:        Fear-83
+94859:0::3/16::Stacked under:  New noble~[2118]
+94859:0::3::Health:         100%
+94859:0::3::Combat:         attack 80, defense 80, missile 0
+94859:0::3::                behind 3  (stay behind in combat)
+94859:0::3::Break point:    50%
+94859:0::3::
+94859:0::3::Skills known:
+94859:0::6::Combat~[610]
+94859:0::6::Beastmastery~[650]
+94859:0::12::Breed beasts~[654], adept
+94859:0::3::
+94859:0::3::New noble~[94859] has no possessions.
+94859:0::3::
+94859:0::3/11::Capacity:  0/100 land (0%)
+94859:0::3::
+99042:0::3::
+99042:0::3/16::Location:       Forest~[cz28], in Provinia
+99042:0::3::Loyalty:        Fear-83
+99042:0::3/16::Stacked under:  New noble~[2118]
+99042:0::3::Health:         100%
+99042:0::3::Combat:         attack 80, defense 80, missile 0
+99042:0::3::                behind 3  (stay behind in combat)
+99042:0::3::Break point:    50%
+99042:0::3::
+99042:0::3::Skills known:
+99042:0::6::Combat~[610]
+99042:0::6::Beastmastery~[650]
+99042:0::12::Breed beasts~[654], master
+99042:0::3::
+99042:0::3::New noble~[99042] has no possessions.
+99042:0::3::
+99042:0::3/11::Capacity:  0/100 land (0%)
+99042:0::3::
+102240:0::3::
+102240:0::3/16::Location:       Forest~[cz28], in Provinia
+102240:0::3::Loyalty:        Fear-84
+102240:0::3/16::Stacked under:  New noble~[2118]
+102240:0::3::Health:         100%
+102240:0::3::Combat:         attack 80, defense 80, missile 0
+102240:0::3::                behind 3  (stay behind in combat)
+102240:0::3::Break point:    50%
+102240:0::3::
+102240:0::3::Skills known:
+102240:0::6::Combat~[610]
+102240:0::6::Beastmastery~[650]
+102240:0::12::Breed beasts~[654], master
+102240:0::3::
+102240:0::3::New noble~[102240] has no possessions.
+102240:0::3::
+102240:0::3/11::Capacity:  0/100 land (0%)
+102240:0::3::
+112671:0::3::
+112671:0::3/16::Location:       Forest~[cz28], in Provinia
+112671:0::3::Loyalty:        Fear-83
+112671:0::3/16::Stacked under:  New noble~[2118]
+112671:0::3::Health:         100%
+112671:0::3::Combat:         attack 80, defense 80, missile 0
+112671:0::3::                behind 3  (stay behind in combat)
+112671:0::3::Break point:    50%
+112671:0::3::
+112671:0::3::Skills known:
+112671:0::6::Combat~[610]
+112671:0::6::Beastmastery~[650]
+112671:0::12::Breed beasts~[654], master
+112671:0::3::
+112671:0::3::New noble~[112671] has no possessions.
+112671:0::3::
+112671:0::3/11::Capacity:  0/100 land (0%)
+112671:0::3::
+114167:0::3::
+114167:0::3/16::Location:       Forest~[cz28], in Provinia
+114167:0::3::Loyalty:        Fear-83
+114167:0::3/16::Stacked under:  New noble~[2118]
+114167:0::3::Health:         100%
+114167:0::3::Combat:         attack 80, defense 80, missile 0
+114167:0::3::                behind 3  (stay behind in combat)
+114167:0::3::Break point:    50%
+114167:0::3::
+114167:0::3::Skills known:
+114167:0::6::Combat~[610]
+114167:0::6::Beastmastery~[650]
+114167:0::12::Breed beasts~[654], master
+114167:0::3::
+114167:0::3::New noble~[114167] has no possessions.
+114167:0::3::
+114167:0::3/11::Capacity:  0/100 land (0%)
+114167:0::3::
+118925:0::3::
+118925:0::3/16::Location:       Forest~[cz28], in Provinia
+118925:0::3::Loyalty:        Fear-994
+118925:0::3/16::Stacked under:  New noble~[2118]
+118925:0::3::Health:         100%
+118925:0::3::Combat:         attack 80, defense 80, missile 0
+118925:0::3::                behind 3  (stay behind in combat)
+118925:0::3::Break point:    50%
+118925:0::3::
+118925:0::3::Skills known:
+118925:0::6::Combat~[610]
+118925:0::6::Beastmastery~[650]
+118925:0::12::Breed beasts~[654], journeyman
+118925:0::3::
+118925:0::3::New noble~[118925] has no possessions.
+118925:0::3::
+118925:0::3/11::Capacity:  0/100 land (0%)
+118925:0::3::
+126268:0::3::
+126268:0::3/16::Location:       Forest~[cz28], in Provinia
+126268:0::3::Loyalty:        Fear-82
+126268:0::3/16::Stacked under:  New noble~[2118]
+126268:0::3::Health:         100%
+126268:0::3::Combat:         attack 80, defense 80, missile 0
+126268:0::3::                behind 3  (stay behind in combat)
+126268:0::3::Break point:    50%
+126268:0::3::
+126268:0::3::Skills known:
+126268:0::6::Combat~[610]
+126268:0::6::Beastmastery~[650]
+126268:0::12::Breed beasts~[654], master
+126268:0::3::
+126268:0::3::New noble~[126268] has no possessions.
+126268:0::3::
+126268:0::3/11::Capacity:  0/100 land (0%)
+126268:0::3::
+135481:0::3::
+135481:0::3/16::Location:       Forest~[cz28], in Provinia
+135481:0::3::Loyalty:        Fear-84
+135481:0::3/16::Stacked under:  New noble~[2118]
+135481:0::3::Health:         100%
+135481:0::3::Combat:         attack 80, defense 80, missile 0
+135481:0::3::                behind 3  (stay behind in combat)
+135481:0::3::Break point:    50%
+135481:0::3::
+135481:0::3::Skills known:
+135481:0::6::Combat~[610]
+135481:0::6::Beastmastery~[650]
+135481:0::12::Breed beasts~[654], adept
+135481:0::3::
+135481:0::3::New noble~[135481] has no possessions.
+135481:0::3::
+135481:0::3/11::Capacity:  0/100 land (0%)
+135481:0::3::
+139933:0::3::
+139933:0::3/16::Location:       Forest~[cz28], in Provinia
+139933:0::3::Loyalty:        Fear-82
+139933:0::3/16::Stacked under:  New noble~[2118]
+139933:0::3::Health:         100%
+139933:0::3::Combat:         attack 80, defense 80, missile 0
+139933:0::3::                behind 3  (stay behind in combat)
+139933:0::3::Break point:    50%
+139933:0::3::
+139933:0::3::Skills known:
+139933:0::6::Combat~[610]
+139933:0::6::Beastmastery~[650]
+139933:0::12::Breed beasts~[654], master
+139933:0::3::
+139933:0::3::New noble~[139933] has no possessions.
+139933:0::3::
+139933:0::3/11::Capacity:  0/100 land (0%)
+139933:0::3::
+146625:0::3::
+146625:0::3/16::Location:       Forest~[cz28], in Provinia
+146625:0::3::Loyalty:        Fear-83
+146625:0::3/16::Stacked under:  New noble~[2118]
+146625:0::3::Health:         100%
+146625:0::3::Combat:         attack 80, defense 80, missile 0
+146625:0::3::                behind 3  (stay behind in combat)
+146625:0::3::Break point:    50%
+146625:0::3::
+146625:0::3::Skills known:
+146625:0::6::Combat~[610]
+146625:0::6::Beastmastery~[650]
+146625:0::12::Breed beasts~[654], master
+146625:0::3::
+146625:0::3::New noble~[146625] has no possessions.
+146625:0::3::
+146625:0::3/11::Capacity:  0/100 land (0%)
+146625:0::3::
+147856:0::3::
+147856:0::3/16::Location:       Forest~[cz28], in Provinia
+147856:0::3::Loyalty:        Fear-84
+147856:0::3/16::Stacked under:  New noble~[2118]
+147856:0::3::Health:         100%
+147856:0::3::Combat:         attack 80, defense 80, missile 0
+147856:0::3::                behind 3  (stay behind in combat)
+147856:0::3::Break point:    50%
+147856:0::3::
+147856:0::3::Skills known:
+147856:0::6::Combat~[610]
+147856:0::6::Beastmastery~[650]
+147856:0::12::Breed beasts~[654], adept
+147856:0::3::
+147856:0::3::New noble~[147856] has no possessions.
+147856:0::3::
+147856:0::3/11::Capacity:  0/100 land (0%)
+147856:0::3::
+149340:0::3::
+149340:0::3/16::Location:       Forest~[cz28], in Provinia
+149340:0::3::Loyalty:        Fear-82
+149340:0::3/16::Stacked under:  New noble~[2118]
+149340:0::3::Health:         100%
+149340:0::3::Combat:         attack 80, defense 80, missile 0
+149340:0::3::                behind 3  (stay behind in combat)
+149340:0::3::Break point:    50%
+149340:0::3::
+149340:0::3::Skills known:
+149340:0::6::Combat~[610]
+149340:0::6::Beastmastery~[650]
+149340:0::12::Breed beasts~[654], master
+149340:0::3::
+149340:0::3::New noble~[149340] has no possessions.
+149340:0::3::
+149340:0::3/11::Capacity:  0/100 land (0%)
+149340:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Gar~[aw9].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/aw9/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [aw9]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        19  13th   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                             900  99th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   26/74  82nd   
+0:0::3/41::Spells known:                   17/79  80th   
+0:0::3/41::Provinces visited:          26/31,919  112nd  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  1     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 265.
+0:0::0::
+0:0::0::The next five nobles formed will be:  109843 131162 93404 83909 135753
+0:0::0::
+0:0::0::28 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::6599   cz28   f988  100  0 46  200                            Folderol
+0:0::0::2118   cz28   o1    100  0     700                            New noble
+0:0::0::135481 cz28   f84   100  3                             2118   New noble
+0:0::0::102240 cz28   f84   100  3                             2118   New noble
+0:0::0::146625 cz28   f83   100  3                             2118   New noble
+0:0::0::114167 cz28   f83   100  3                             2118   New noble
+0:0::0::90916  cz28   f82   100  3                             2118   New noble
+0:0::0::126268 cz28   f82   100  3                             2118   New noble
+0:0::0::149340 cz28   f82   100  3                             2118   New noble
+0:0::0::2364   cz28   f82   100  3                             2118   New noble
+0:0::0::147856 cz28   f84   100  3                             2118   New noble
+0:0::0::94859  cz28   f83   100  3                             2118   New noble
+0:0::0::112671 cz28   f83   100  3                             2118   New noble
+0:0::0::99042  cz28   f83   100  3                             2118   New noble
+0:0::0::89970  cz28   f83   100  3                             2118   New noble
+0:0::0::9866   cz28   f82   100  3                             2118   New noble
+0:0::0::5890   cz28   f82   100  3                             2118   New noble
+0:0::0::139933 cz28   f82   100  3                             2118   New noble
+0:0::0::118925 cz28   f994  100  3                             2118   New noble
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               900                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[cz28]                    Folderol~[6599]
+0:0::0::                                   New noble~[2118]
+0:0::0::                                     New noble~[135481]
+0:0::0::                                     New noble~[102240]
+0:0::0::                                     New noble~[146625]
+0:0::0::                                     New noble~[114167]
+0:0::0::                                     New noble~[90916]
+0:0::0::                                     New noble~[126268]
+0:0::0::                                     New noble~[149340]
+0:0::0::                                     New noble~[2364]
+0:0::0::                                     New noble~[147856]
+0:0::0::                                     New noble~[94859]
+0:0::0::                                     New noble~[112671]
+0:0::0::                                     New noble~[99042]
+0:0::0::                                     New noble~[89970]
+0:0::0::                                     New noble~[9866]
+0:0::0::                                     New noble~[5890]
+0:0::0::                                     New noble~[139933]
+0:0::0::                                     New noble~[118925]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  6599      23,128      3,522   0%      3,322   3%      3,322   3%
+0:0::0::  2118       1,800      1,800   0%                                
+0:0::0::135481         100        100   0%                                
+0:0::0::102240         100        100   0%                                
+0:0::0::146625         100        100   0%                                
+0:0::0::114167         100        100   0%                                
+0:0::0:: 90916         100        100   0%                                
+0:0::0::126268         100        100   0%                                
+0:0::0::149340         100        100   0%                                
+0:0::0::  2364         100        100   0%                                
+0:0::0::147856         100        100   0%                                
+0:0::0:: 94859         100        100   0%                                
+0:0::0::112671         100        100   0%                                
+0:0::0:: 99042         100        100   0%                                
+0:0::0:: 89970         100        100   0%                                
+0:0::0::  9866         100        100   0%                                
+0:0::0::  5890         100        100   0%                                
+0:0::0::139933         100        100   0%                                
+0:0::0::118925         100        100   0%                                
+0:0::0::
+0:0::0::storm  kind  owner   loc  strength
+0:0::0::-----  ----  -----  ----  --------
+0:0::0::102794  rain   6599  cd02     54
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Gar~[aw9]"><font size=+1><b>Gar~[aw9]</b></font>
+1:2::0::<hr>
+1:1::0::Gar~[aw9]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50229
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Folderol~[6599]"><font size=+1><b>Folderol~[6599]</b></font>
+1:2::0::<hr>
+1:1::0::Folderol~[6599]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6599
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[2118]"><font size=+1><b>New noble~[2118]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[2118]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2118
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[135481]"><font size=+1><b>New noble~[135481]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[135481]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 135481
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[102240]"><font size=+1><b>New noble~[102240]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[102240]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 102240
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[146625]"><font size=+1><b>New noble~[146625]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[146625]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 146625
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[114167]"><font size=+1><b>New noble~[114167]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[114167]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 114167
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[90916]"><font size=+1><b>New noble~[90916]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[90916]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 90916
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[126268]"><font size=+1><b>New noble~[126268]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[126268]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 126268
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[149340]"><font size=+1><b>New noble~[149340]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[149340]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 149340
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[2364]"><font size=+1><b>New noble~[2364]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[2364]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2364
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[147856]"><font size=+1><b>New noble~[147856]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[147856]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 147856
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[94859]"><font size=+1><b>New noble~[94859]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[94859]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 94859
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[112671]"><font size=+1><b>New noble~[112671]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[112671]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 112671
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[99042]"><font size=+1><b>New noble~[99042]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[99042]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 99042
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[89970]"><font size=+1><b>New noble~[89970]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[89970]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 89970
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[9866]"><font size=+1><b>New noble~[9866]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[9866]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9866
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[5890]"><font size=+1><b>New noble~[5890]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[5890]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5890
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[139933]"><font size=+1><b>New noble~[139933]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[139933]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 139933
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[118925]"><font size=+1><b>New noble~[118925]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[118925]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 118925
+1:2::0::
+1:2::0::<name="Ocean~[cd02]"><font size=+1><b>Ocean~[cd02]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cd02], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14302
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[cx28]"><font size=+1><b>Plain~[cx28]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[cx28], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15828
+1:0::0::
+1:2::0::
+1:2::0::<name="Barrows~[h434]"><font size=+1><b>Barrows~[h434]</b>, graveyard, in province Plain~[cx28]</font>
+1:2::0::<hr>
+1:1::0::Barrows~[h434], graveyard, in province Plain~[cx28]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 65434
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cz28]"><font size=+1><b>Forest~[cz28]</b>, forest, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[cz28], forest, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15928
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[sa48]"><font size=+1><b>Hades~[sa48]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[sa48], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38048
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

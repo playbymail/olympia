@@ -1,0 +1,193 @@
+14223:0::0:0:Garrison~[98132], garrison, with ten~soldiers guards Forest~[cc23].
+57140:0::0:13:Kymara Llwelyn~[105404], wielding Dagger of Plagcath~[z911] and magic dart~[145310], with seven~peasants, five~workers, one~elite guard, 53~pikemen, ten~sailors, four~elite archers, eight~winged horses, entered Confederacy Roundship~[6484].
+57140:0::0:13:Confederacy Roundship~[6484], roundship, 70% loaded, defense~10, departed for Ocean~[cc22].
+57140:0::0:30:Skull Duggery~[83628] melts into the ground and vanishes.
+14223:0::0::
+14223:0::0::Province controlled by Illumine Keep~[g359], castle, in Judecca ~[cg31]
+14223:0::0::Ruled by Sheik Arrarah~[92640], duke
+14223:0::0::
+14223:0::0::Routes leaving Forest: 
+14223:0::3::North, to Ocean~[cb23], Great Sea, impassable
+14223:0::3::East, plain, to Icy Black Holy Land~[cc24], 7~days
+14223:0::3::South, forest, to Black Forest~[cd23], 8~days
+14223:0::3::West, to Ocean~[cc22], Great Sea, impassable
+14223:0::0::
+14223:0::0::Inner locations:
+14223:0::3::Drassa~[d80], port city, safe haven, 1 day
+14223:0::0::
+14223:0::0::It is raining.
+14223:0::0::
+14223:0::0::Seen here:
+14223:0::0/3::   Garrison~[98132], garrison, on guard, with ten~soldiers
+57140:0::0::
+57140:0::0::Routes leaving Drassa: 
+57140:0::3::North, to Ocean~[cb23], Great Sea, 1~day
+57140:0::3::West, to Ocean~[cc22], Great Sea, 1~day
+57140:0::3::Out, to Forest~[cc23], 1~day
+57140:0::0::
+57140:0::0::Skills taught here:
+57140:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+57140:0::0::
+57140:0::0::Market report:
+57140:0::3::
+57140:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57140:0::3::-----    ---   -----    ---     -----   ----                     
+57140:0::3::  buy    d80     138     37        72   chocolate~[t074]         
+57140:0::3::  buy    d80      74     42       100   beans~[a056]             
+57140:0::3::  buy    d80      80      1        30   incense~[w133]           
+57140:0::3::  buy    d80     100     25       100   linen~[118161]           
+57140:0::3::  buy    d80     109     41        38   vinegar~[104605]         
+57140:0::3::  buy    d80     204     46       100   ivory~[139732]           
+57140:0::3::  buy    d80       2    100         2   fish~[87]                
+57140:0::3::  buy    d80       4     15         1   woven baskets~[94]       
+57140:0::3:: sell    d80      40     34        28   myrrh~[k517]             
+57140:0::3:: sell    d80      50     10       100   pitch~[261]              
+57140:0::3:: sell    d80      15     45        27   saffron~[129607]         
+57140:0::3:: sell    d80      14     25        30   wood~[77]                
+57140:0::3:: sell    d80      42     26        50   ink~[k994]               
+57140:0::3:: sell    d80      21     50        27   saffron~[137259]         
+57140:0::3:: sell    d80     135     39       100   obsidian~[136847]        
+57140:0::0::
+57140:0::0::Inner locations:
+57140:0::3::Tower of the Setting Sun~[5508], tower, defense~40
+57140:0::3::Tower of the Rising Moon~[6755], tower, defense~40
+57140:0::3::The dreaming spire~[j269], tower, defense~40
+57140:0::0::
+57140:0::0::It is raining.
+57140:0::0::
+57140:0::0::Seen here:
+57140:0::0/3::   Nero~[116526]
+57140:0::0/3:: * Egregior~[125333]
+57140:0::0/3::   Robert Stark~[b107], accompanied~by:
+57140:0::0/6::      Jon the Bastard~[a019]
+57140:0::0/6::      Lady Sansa~[m653]
+57140:0::0/6::      Arya the Audacious~[z089]
+57140:0::0/3::   Darian Alton~[h918]
+57140:0::0::
+57140:0::0::Ships docked at port:
+57140:0::3/3::Majesty~[j287], roundship-in-progress, 19% completed, 0% loaded
+57140:0::3/3::Intrepid~[5526], roundship, 0% loaded, defense~10, 57%~damaged
+57140:0::3/3::Ceres~[110811], roundship-in-progress, 18% completed, 0% loaded
+57140:0::3/3::Herndon~[91935], roundship, 0% loaded, defense~10, 10%~damaged
+57140:0::3/3::TTC Fargo~[6152], roundship, 0% loaded, defense~10, 10%~damaged
+5:0::0::
+5:0::0::begin uz8  # Sholden
+5:0::0::
+5:0::0::unit uz8  # Sholden
+5:0::0::
+5:0::0::unit 125333  # Egregior in Drassa~[d80]
+5:0::0::
+5:0::0::end
+55458:0::0::
+55458:0::0::Unclaimed items:
+55458:0::0::
+55458:0::0::      qty  name                              weight
+55458:0::0::      ---  ----                              ------
+55458:0::0::    5,425  gold~[1]                               0  
+55458:0::0::       50  wood~[77]                          1,500  
+55458:0::0::      100  stone~[78]                        10,000  
+125333:0::3::
+125333:0::3/16::Location:       Drassa~[d80], in province Forest~[cc23], in Provinia
+125333:0::3::Loyalty:        Oath-2
+125333:0::3::Health:         100%
+125333:0::3::Combat:         attack 80, defense 80, missile 0
+125333:0::3::                behind 0  (front line in combat)
+125333:0::3::Break point:    50%
+125333:0::3::
+125333:0::3::Skills known:
+125333:0::6::none
+125333:0::3::
+125333:0::3::Egregior~[125333] has no possessions.
+125333:0::3::
+125333:0::3/11::Capacity:  0/100 land (0%)
+125333:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Sholden~[uz8].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/uz8/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [uz8]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         1  121st  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    0/74  123rd  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:           0/31,919  120th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  24     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 267.
+0:0::0::
+0:0::0::The next five nobles formed will be:  111508 119150 107196 132824 117145
+0:0::0::
+0:0::0::100 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::125333 d80    o2    100  0                                    Egregior
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[cc23]
+0:0::0::    Drassa~[d80]                   Egregior~[125333]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::125333         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Sholden~[uz8]"><font size=+1><b>Sholden~[uz8]</b></font>
+1:2::0::<hr>
+1:1::0::Sholden~[uz8]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55458
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Egregior~[125333]"><font size=+1><b>Egregior~[125333]</b></font>
+1:2::0::<hr>
+1:1::0::Egregior~[125333]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 125333
+1:2::0::
+1:2::0::<name="Forest~[cc23]"><font size=+1><b>Forest~[cc23]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[cc23], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14223
+1:0::0::
+1:2::0::
+1:2::0::<name="Drassa~[d80]"><font size=+1><b>Drassa~[d80]</b>, port city, in province Forest~[cc23], safe haven</font>
+1:2::0::<hr>
+1:1::0::Drassa~[d80], port city, in province Forest~[cc23], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57140
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,604 @@
+58057:0::0:0:Garrison~[5470], garrison, with 119~pikemen guards Sunwater~[q97].
+14007:0::0:0:Garrison~[6449], garrison, with ten~soldiers guards Roestoc~[ca07].
+14509:0::0:0:Garrison~[7321], garrison, with ten~workers guards Dubglas~[cg09].
+10658:0::0:0:Garrison~[9481], garrison, with ten~workers guards Forest~[ah58].
+14408:0::0:0:Garrison~[j754], garrison, with ten~soldiers guards Grouchy~[cf08].
+14618:0::0:0:Garrison~[114232], garrison, with ten~soldiers guards Aqua Solaris~[ch18].
+14408:0::0:11:Mr. Hyde~[98450], wielding Longsword of Kuneack~[88014], with eight~peasants, 26~winged horses, arrived from the south.
+14408:0::0:12:Mr. Hyde~[98450], wielding Longsword of Kuneack~[88014], with eight~peasants, 26~winged horses, went north.
+14509:0::0:26:It has begun to rain.
+10658:0::0:30:It has stopped raining.
+10658:0::0::
+10658:0::0::Province controlled by Home~[p009], castle, in Mountain~[ah59]
+10658:0::0::Ruled by [8116], duke
+10658:0::0::
+10658:0::0::Routes leaving Forest: 
+10658:0::3::North, to Forest~[ag58], 8~days
+10658:0::3::East, to Mountain~[ah59], 10~days
+10658:0::3::South, to Plain~[aj58], 7~days
+10658:0::3::West, to Plain~[ah57], 7~days
+10658:0::0::
+10658:0::0::Seen here:
+10658:0::0/3::   Garrison~[9481], garrison, on guard, with ten~workers
+14007:0::0::
+14007:0::0::Routes leaving Roestoc: 
+14007:0::3::North, to Ocean~[bz07], Great Sea, 2~days
+14007:0::3::East, to Ocean~[ca08], Great Sea, 2~days
+14007:0::3::South, mountain, to Folkingham~[cb07], 10~days
+14007:0::3::West, plain, to Malahaut~[ca06], 7~days
+14007:0::0::
+14007:0::0::Inner locations:
+14007:0::3::Old battlefield~[w301], battlefield, 1 day
+14007:0::0::
+14007:0::0::It is raining.
+14007:0::0::
+14007:0::0::Seen here:
+14007:0::0/3::   Garrison~[6449], garrison, on guard, with ten~soldiers
+14007:0::0/3:: * Captain Westmore~[6344], wielding elven longsword~[125443], wearing magic shield~[120495], "{<i>}House of Lords{</i>}"
+14408:0::0::
+14408:0::0::Routes leaving Grouchy: 
+14408:0::3::North, plain, to Hertford~[cd08], 7~days
+14408:0::3::East, plain, to Devises~[cf09], 7~days
+14408:0::3::South, plain, to Somerset~[cg08], 7~days
+14408:0::3::West, mountain, to Ebble~[cf07], 10~days
+14408:0::0::
+14408:0::0::Inner locations:
+14408:0::3::Bog~[d291], bog, hidden, 1 day
+14408:0::0::
+14408:0::0::It is raining.
+14408:0::0::
+14408:0::0::Seen here:
+14408:0::0/3::   Garrison~[j754], garrison, on guard, with ten~soldiers
+14408:0::0/3:: * Sir Bors de Ganis~[2458], wielding enchanted sword~[g705], "{<i>}Kingdom of Cragstan{</i>}", with 16~centaurs, one~minotaur, one~rat, three~orcs, two~cyclops
+14509:0::0::
+14509:0::0::Routes leaving Dubglas: 
+14509:0::3::North, plain, to Devises~[cf09], 7~days
+14509:0::3::East, mountain, to Mont Blanc~[cg10], 10~days
+14509:0::3::South, plain, to Arden~[ch09], 7~days
+14509:0::3::West, plain, to Somerset~[cg08], 7~days
+14509:0::0::
+14509:0::0::Inner locations:
+14509:0::3::Yew grove~[h717], yew grove, hidden, 1 day
+14509:0::0::
+14509:0::0::It is raining.
+14509:0::0::
+14509:0::0::Seen here:
+14509:0::0/3::   Garrison~[7321], garrison, on guard, with ten~workers
+14509:0::0/3:: * Sir Ywaine~[5192], "{<i>}Kingdom of Cragstan{</i>}"
+14618:0::0::
+14618:0::0::Province controlled by Glowhome~[6525], castle, in Heartfang~[cp16]
+14618:0::0::Ruled by Griswold The Red~[6881], marquess
+14618:0::0::
+14618:0::0::Routes leaving Aqua Solaris: 
+14618:0::3::North, to Ocean~[cg18], Great Sea, impassable
+14618:0::3::East, mountain, to Aqua Solaris~[ch19], 10~days
+14618:0::3::South, mountain, to Aqua Solaris~[cj18], 10~days
+14618:0::3::West, to Ocean~[ch17], Great Sea, impassable
+14618:0::0::
+14618:0::0::Inner locations:
+14618:0::3::Grave Mounds~[a519], graveyard, 1 day
+14618:0::3::Sunwater~[q97], port city, 1 day
+14618:0::0::
+14618:0::0::It is raining.
+14618:0::0::
+14618:0::0::Seen here:
+14618:0::0/3::   Garrison~[114232], garrison, on guard, with ten~soldiers
+36677:0::0::
+36677:0::0::No known routes leaving Hades~[rh77]
+58057:0::0::
+58057:0::0::Routes leaving Sunwater: 
+58057:0::3::North, to Ocean~[cg18], Great Sea, 1~day
+58057:0::3::West, to Ocean~[ch17], Great Sea, 1~day
+58057:0::3::Out, forest, to Aqua Solaris~[ch18], 1~day
+58057:0::0::
+58057:0::0::Cities rumored to be nearby:
+58057:0::3::Myhra~[q95], in The Icy Black Forest~[cn15]
+58057:0::3::Haemfrith~[v86], in Forest~[cr19]
+58057:0::0::
+58057:0::0::Skills taught here:
+58057:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Forestry~[700], Magic~[800], Artifact construction~[880]
+58057:0::0::
+58057:0::0::Market report:
+58057:0::3::
+58057:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58057:0::3::-----    ---   -----    ---     -----   ----                     
+58057:0::3::  buy    q97     130      3        50   hides~[99]               
+58057:0::3::  buy    q97     200     30        15   rose perfume~[v223]      
+58057:0::3::  buy    q97      77     47       100   sugar~[w060]             
+58057:0::3::  buy    q97       2    100         2   fish~[87]                
+58057:0::3::  buy    q97       7      9         5   clay pots~[95]           
+58057:0::3:: sell    q97      60     46        23   cardamom~[v694]          
+58057:0::3:: sell    q97      11     25        30   wood~[77]                
+58057:0::3:: sell    q97      10     38       100   salt~[g839]              
+58057:0::3:: sell    q97      50     10       100   pitch~[261]              
+58057:0::3:: sell    q97     120     46        30   jeweled eggs~[t221]      
+58057:0::3:: sell    q97     130     31        30   jeweled eggs~[148123]    
+58057:0::0::
+58057:0::0::Inner locations:
+58057:0::3::The Goblin Tower~[7136], tower, defense~40, "TiB Alliance", owner:
+58057:0::0/6::      Hoard~[124723], "{<i>}Infidels Captain{</i>}", with eight~sailors, two~oxen
+58057:0::3::Neptunus Negrus~[9334], temple, defense~10, "TiB Alliance"
+58057:0::0::
+58057:0::0::It is raining.
+58057:0::0::
+58057:0::0::Seen here:
+58057:0::0/3::   Garrison~[5470], garrison, on guard, with 119~pikemen, accompanied~by:
+58057:0::0/6::      Shadewalker~[4575], with two~soldiers, one~elite guard
+58057:0::0/6::      Brother Cestus~[5663], priest, with five~workers, 12~elite guard, six~pikemen, one~elite archer
+58057:0::0/6::      Foamtreader~[9769], with two~workers, 16~soldiers, 18~sailors
+58057:0::0::
+58057:0::0::Ships docked at port:
+58057:0::3/3::IG Gyrfalcon~[2796], galley, 0% loaded, defense~20
+58057:0::3/3::IRS Steady~[120985], roundship, 0% loaded, defense~10
+58057:0::3/3::IRS TOLERANT~[3001], roundship, 0% loaded, defense~10, 6%~damaged
+58057:0::3/3::IRS Dependable~[5154], roundship, 0% loaded, defense~10
+58057:0::3/3::Glantri~[8589], roundship, 0% loaded, defense~10, 3%~damaged, "{<i>}Kingdom of Cragstan{</i>}"
+58057:0::3/3::Infidel~[9427], roundship, 0% loaded, defense~10, 4%~damaged, "{<i>}A jester painted on the bow{</i>}"
+5:0::0::
+5:0::0::begin wb4 "nooprah"  # House Sundar
+5:0::0::
+5:0::0::unit wb4  # House Sundar
+5:0::0::
+5:0::0::unit 3843  # Malvoisine in Forest~[ah58]
+5:0::0::
+5:0::0::unit 6344  # Captain Westmore in Roestoc~[ca07]
+5:0::0::
+5:0::0::unit 2458  # Sir Bors de Ganis in Grouchy~[cf08]
+5:0::0::
+5:0::0::unit 5192  # Sir Ywaine in Dubglas~[cg09]
+5:0::0::
+5:0::0::unit 5152  # Mardeisk Sundar in Hades~[rh77]
+5:0::0::
+5:0::0::end
+55734:0::0::
+55734:0::0::Admit permissions:
+55734:0::0::
+55734:0::3::admit 2458  de2  sa4 3920  kt3
+55734:0::3::admit 5152 1599 3582 3634 3843 3920 5934  de2  hr2  kt3  ra2  sa4
+55734:0::3::           k810 n471 z501
+55734:0::3::admit 5192  de2  sa4 3920  kt3
+55734:0::3::admit 6205  de2  sa4 3920  kt3
+55734:0::3::admit 6344 1599 3582 3634 3843 3920 5934  de2  hr2  kt3  ra2  sa4
+55734:0::3::           k810 n471 z501
+55734:0::0::
+55734:0::0::Declared attitudes:
+55734:0::3::defend  1599 3634 3843 3920 5934 6344  de2  hr2  kt3  px4  ra2
+55734:0::3::         sa4  wb4 a068 k810 n471 r381 x196 x218 z501
+55734:0::0::
+55734:0::0::Unclaimed items:
+55734:0::0::
+55734:0::0::      qty  name                              weight
+55734:0::0::      ---  ----                              ------
+55734:0::0::    5,586  gold~[1]                               0  
+2458:0::3::
+2458:0::3/16::Location:       Grouchy~[cf08], in Cragstan
+2458:0::3::Loyalty:        Oath-1
+2458:0::3::Health:         100%
+2458:0::3::Combat:         attack 89, defense 89, missile 0
+2458:0::3::                behind 0  (front line in combat)
+2458:0::3::Break point:    0% (fight to the death)
+2458:0::3::Banner:         Kingdom of Cragstan
+2458:0::3::
+2458:0::3::Skills known:
+2458:0::6::Combat~[610]
+2458:0::12::Survive fatal wound~[611]
+2458:0::12::Fight to the death~[612]
+2458:0::12::Defense~[614], apprentice
+2458:0::12::Swordplay~[616], apprentice
+2458:0::12::Weaponsmithing~[617], apprentice
+2458:0::6::Beastmastery~[650]
+2458:0::12::Bird spy~[651], apprentice
+2458:0::12::Capture beasts in battle~[652]
+2458:0::12::Use beasts in battle~[653]
+2458:0::12::Breed beasts~[654], adept
+2458:0::12::Catch wild horses~[655], adept
+2458:0::12::Train wild horse to riding horse~[656], journeyman
+2458:0::12::Train wild horse to warmount~[657], adept
+2458:0::12::Summon wild men~[658], apprentice
+2458:0::12::Breed hound~[661], apprentice
+2458:0::6::Construction~[680]
+2458:0::12::Stone quarrying~[682], master
+2458:0::3::
+2458:0::3::Inventory:
+2458:0::3::{<b>}      qty  name                              weight{</b>}
+2458:0::3::      ---  ----                              ------
+2458:0::3::        1  gold~[1]                               0  
+2458:0::3::       16  centaurs~[271]                    16,000  ride 2,400 (30,30,0)
+2458:0::3::        1  minotaur~[272]                       800   (30,5,0)
+2458:0::3::        1  rat~[279]                             50   (3,3,0)
+2458:0::3::        3  orcs~[287]                           300  cap 300 (20,15,0)
+2458:0::3::        2  cyclops~[291]                        400  cap 400 (25,75,0)
+2458:0::3::        1  enchanted sword~[g705]                10  +20 attack
+2458:0::3::        1  Orb~[v506]                             1  
+2458:0::3::        1  ancient scroll~[145614]                5  
+2458:0::3::                                             ======
+2458:0::3::                                             17,566
+2458:0::3::
+2458:0::3/11::Capacity:  16/3,200 land (0%), 516/2,400 ride (21%)
+2458:0::3::
+2458:0::3::ancient scroll~[145614] permits study of the following skills:
+2458:0::6/3::Persuade wild men to remain~[659] (requires Beastmastery)
+2458:0::3::
+3843:0::3::
+3843:0::3/16::Location:       Forest~[ah58], in Atala
+3843:0::3::Loyalty:        Oath-1
+3843:0::3::Health:         100%
+3843:0::3::Combat:         attack 130, defense 131, missile 0
+3843:0::3::                behind 0  (front line in combat)
+3843:0::3::Break point:    0% (fight to the death)
+3843:0::3::use  641 1      (concealing self)
+3843:0::3::Receive Vision: 7 protection
+3843:0::3::
+3843:0::3::Skills known:
+3843:0::6::Combat~[610]
+3843:0::12::Survive fatal wound~[611]
+3843:0::12::Fight to the death~[612]
+3843:0::12::Defense~[614], adept
+3843:0::12::Swordplay~[616], adept
+3843:0::12::Weaponsmithing~[617], apprentice
+3843:0::6::Stealth~[630]
+3843:0::12::Petty thievery~[631], apprentice
+3843:0::12::Determine inventory of character~[632], apprentice
+3843:0::12::Determine skills of character~[633], apprentice
+3843:0::12::Determine character's lord~[634], apprentice
+3843:0::12::Conceal faction~[635], apprentice
+3843:0::12::Sneak into structure~[639], apprentice
+3843:0::12::Conceal self~[641], apprentice
+3843:0::6::Persuasion~[670]
+3843:0::12::Bribe noble~[671], apprentice
+3843:0::12::Persuade oathbound noble~[672], apprentice
+3843:0::12::Raise peasant mob~[673], apprentice
+3843:0::12::Rally peasant mob~[674], apprentice
+3843:0::3::
+3843:0::3::Inventory:
+3843:0::3::{<b>}      qty  name                              weight{</b>}
+3843:0::3::      ---  ----                              ------
+3843:0::3::      298  gold~[1]                               0  
+3843:0::3::        1  magic dagger~[q209]                   10  +100 attack
+3843:0::3::        1  elven cloak~[v091]                    10  +100 defense
+3843:0::3::                                             ======
+3843:0::3::                                                 20
+3843:0::3::
+3843:0::3/11::Capacity:  20/100 land (20%)
+3843:0::3::
+5152:0::3::
+5152:0::3/16::Location:       Hades~[rh77], in Hades
+5152:0::3::Loyalty:        Oath-2
+5152:0::3::Health:         100%
+5152:0::3::Combat:         attack 80, defense 30, missile 0
+5152:0::3::                behind 9  (stay behind in combat)
+5152:0::3::Break point:    50%
+5152:0::3::use  641 1      (concealing self)
+5152:0::3::Banner:         Kingdom of Cragstan
+5152:0::3::
+5152:0::3::Current aura:   52
+5152:0::3::Maximum aura:   70
+5152:0::3::
+5152:0::3::Skills known:
+5152:0::6::Combat~[610]
+5152:0::6::Stealth~[630]
+5152:0::12::Conceal self~[641], apprentice
+5152:0::6::Magic~[800]
+5152:0::12::Meditate~[801], apprentice
+5152:0::12::Perform common tasks for gold~[802], grand master
+5152:0::12::Appear common~[803], journeyman
+5152:0::12::View current aura level of others~[804], apprentice
+5152:0::12::Reveal abilities of another mage~[805], apprentice
+5152:0::12::Tap health for aura~[806], apprentice
+5152:0::12::Heal~[807], apprentice
+5152:0::12::Modern magic script~[808], apprentice
+5152:0::12::Shroud abilities from scry~[809], apprentice
+5152:0::12::Detect ability scry~[811], apprentice
+5152:0::12::Dispel ability shroud~[812], apprentice
+5152:0::12::Advanced meditation~[813], adept
+5152:0::12::Hinder meditation~[814], apprentice
+5152:0::6::Weather magic~[820]
+5152:0::12::Fierce wind~[821], apprentice
+5152:0::12::Bind storm to ship~[822], apprentice
+5152:0::12::Scribe weather symbols~[823], apprentice
+5152:0::12::Summon rain~[824], apprentice
+5152:0::12::Summon wind~[825], apprentice
+5152:0::12::Summon fog~[826], apprentice
+5152:0::12::Direct storm~[827], apprentice
+5152:0::12::Dissipate storm~[828], apprentice
+5152:0::12::Renew storm strength~[829], apprentice
+5152:0::12::Lightning bolt~[831], apprentice
+5152:0::12::Seize control of storm~[832], apprentice
+5152:0::12::Fog of death~[833], apprentice
+5152:0::6::Scrying~[840]
+5152:0::12::Scry location~[841], master
+5152:0::12::Shroud location from magical scry~[842], apprentice
+5152:0::12::Dispel location shroud~[843], apprentice
+5152:0::12::Ciphered writing of Areth-Pirn~[844], apprentice
+5152:0::12::Create magical barrier~[845], apprentice
+5152:0::12::Remove magical barrier~[846], apprentice
+5152:0::12::Locate character~[847], apprentice
+5152:0::12::Detect location scry~[848], apprentice
+5152:0::12::Farcasting~[849], apprentice
+5152:0::12::Save farcast state~[851], apprentice
+5152:0::12::Banish undead~[852], apprentice
+5152:0::6::Gatecraft~[860]
+5152:0::12::Teleport~[861], apprentice
+5152:0::12::Detect gates~[862], apprentice
+5152:0::12::Jump through gate~[863], apprentice
+5152:0::12::Seal gate~[864], apprentice
+5152:0::12::Unseal gate with key~[865], apprentice
+5152:0::12::Notify if gate unsealed~[866], apprentice
+5152:0::12::Forcefully unseal gate~[867], apprentice
+5152:0::12::Reveal gate key~[868], apprentice
+5152:0::12::Notify of gate jumps~[869], apprentice
+5152:0::12::Language of the Ancients~[871], journeyman
+5152:0::12::Reverse jump through gate~[872], apprentice
+5152:0::6::Artifact construction~[880]
+5152:0::12::Forge auraculum~[881], apprentice
+5152:0::12::Reveal creator of artifact~[882], apprentice
+5152:0::12::Reveal where artifact was created~[883], apprentice
+5152:0::12::Cloak creator of artifact~[884]
+5152:0::12::Cloak region of artifact creation~[885], apprentice
+5152:0::12::Curse noncreator loyalty~[886], apprentice
+5152:0::12::Forge magical weapon~[887], apprentice
+5152:0::12::Forge magical armor~[888], apprentice
+5152:0::12::Forge magical bow~[889], apprentice
+5152:0::12::Dispel cloaking from artifact~[891], apprentice
+5152:0::6::Necromancy~[900]
+5152:0::12::Runes of Evil~[902], apprentice
+5152:0::12::Summon ghost warriors~[903], apprentice
+5152:0::12::Raise undead~[904], apprentice
+5152:0::12::Summon demon lord~[905], apprentice
+5152:0::12::Renew demon bond~[906], apprentice
+5152:0::12::Aura blast~[909], apprentice
+5152:0::12::Absorb aura blast~[911], apprentice
+5152:0::3::
+5152:0::3::Partially known skills:
+5152:0::6/6::Arcane symbols~[892], 7/21
+5152:0::6/6::Destroy artifact~[893], 0/21
+5152:0::6/6::Forge palantir~[894], 0/21
+5152:0::6/6::Banish demon lord~[907], 0/21
+5152:0::6/6::Eating of the dead~[908], 0/28
+5152:0::3::
+5152:0::3::Mardeisk Sundar~[5152] has no possessions.
+5152:0::3::
+5152:0::3/11::Capacity:  0/100 land (0%)
+5152:0::3::
+5192:0::3::
+5192:0::3/16::Location:       Dubglas~[cg09], in Cragstan
+5192:0::3::Loyalty:        Oath-1
+5192:0::3::Health:         100%
+5192:0::3::Combat:         attack 110, defense 98, missile 50
+5192:0::3::                behind 0  (front line in combat)
+5192:0::3::Break point:    0% (fight to the death)
+5192:0::3::Banner:         Kingdom of Cragstan
+5192:0::3::
+5192:0::3::Skills known:
+5192:0::6::Combat~[610]
+5192:0::12::Survive fatal wound~[611]
+5192:0::12::Fight to the death~[612]
+5192:0::12::Construct catapult~[613], apprentice
+5192:0::12::Defense~[614], journeyman
+5192:0::12::Archery~[615], apprentice
+5192:0::12::Swordplay~[616], grand master
+5192:0::12::Weaponsmithing~[617], grand master
+5192:0::6::Construction~[680]
+5192:0::12::Stone quarrying~[682], apprentice
+5192:0::6::Mining~[720]
+5192:0::12::Mine iron~[721], grand master
+5192:0::12::Mine gold~[722], master
+5192:0::3::
+5192:0::3::Sir Ywaine~[5192] has no possessions.
+5192:0::3::
+5192:0::3/11::Capacity:  0/100 land (0%)
+5192:0::3::
+6344:0::3::
+6344:0::3/16::Location:       Roestoc~[ca07], in Cragstan
+6344:0::3::Loyalty:        Oath-1
+6344:0::3::Health:         100%
+6344:0::3::Combat:         attack 80, defense 80, missile 0
+6344:0::3::                behind 0  (front line in combat)
+6344:0::3::Break point:    0% (fight to the death)
+6344:0::3::Receive Vision: 3 protection
+6344:0::3::Banner:         House of Lords
+6344:0::3::
+6344:0::3::Skills known:
+6344:0::6::Shipcraft~[600]
+6344:0::12::Sailing~[601], grand master
+6344:0::12::Shipbuilding~[602], apprentice
+6344:0::12::Fishing~[603], adept
+6344:0::6::Combat~[610]
+6344:0::12::Fight to the death~[612]
+6344:0::12::Defense~[614], apprentice
+6344:0::6::Stealth~[630]
+6344:0::12::Conceal faction~[635], apprentice
+6344:0::6::Forestry~[700]
+6344:0::12::Harvest lumber~[702], apprentice
+6344:0::6::Trade~[730]
+6344:0::12::Find tradegood for sale~[732], apprentice
+6344:0::12::Find market for tradegood~[733], apprentice
+6344:0::3::
+6344:0::3::Inventory:
+6344:0::3::{<b>}      qty  name                              weight{</b>}
+6344:0::3::      ---  ----                              ------
+6344:0::3::        4  pitch~[261]                          400  
+6344:0::3::        1  magic shield~[120495]                 10  +100 defense
+6344:0::3::        1  elven longsword~[125443]              10  +100 attack
+6344:0::3::                                             ======
+6344:0::3::                                                420
+6344:0::3::
+6344:0::3/11::Capacity:  420/100 land (420%)
+6344:0::3::
+6344:0::3::Pending trades:
+6344:0::3::
+6344:0::6::trade    price    qty   item
+6344:0::6::-----    -----    ---   ----
+6344:0::6:: sell        2  9,551   fish~[87]
+6344:0::6:: sell        4  9,985   woven basket~[94]
+6344:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for House Sundar~[wb4].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/wb4/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [wb4]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         5  89th   
+0:0::3/41::Men:                                5  81st   
+0:0::3/41::Gold:                             299  103rd  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   45/74  51st   
+0:0::3/41::Spells known:                   70/79  37th   
+0:0::3/41::Provinces visited:       1,018/31,919  29th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  24     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 267.
+0:0::0::
+0:0::0::The next five nobles formed will be:  b974 p943 128575 143876 83286
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::3843   ah58   o1    100  0     298                            Malvoisine
+0:0::0::6344   ca07   o1    100  0                                    Captain
+0:0::0::2458   cf08   o1    100  0       1                   5        Sir Bors
+0:0::0::5192   cg09   o1    100  0                                    Sir Ywaine
+0:0::0::5152   rh77   o2    100  9 52                                 Mardeisk Sundar
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               299                   5
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Atala
+0:0::0::  Forest~[ah58]                    Malvoisine~[3843]
+0:0::0::Cragstan
+0:0::0::  Roestoc~[ca07]                   Captain Westmore~[6344]
+0:0::0::  Grouchy~[cf08]                   Sir Bors de Ganis~[2458]
+0:0::0::  Dubglas~[cg09]                   Sir Ywaine~[5192]
+0:0::0::Hades
+0:0::0::  Hades~[rh77]                     Mardeisk Sundar~[5152]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  3843         120         80  20%                                
+0:0::0::  6344         520      (320) 420%                                
+0:0::0::  2458      17,666      3,184   0%      1,884  21%                
+0:0::0::  5192         100        100   0%                                
+0:0::0::  5152         100        100   0%                                
+0:0::0::
+0:0::0::storm  kind  owner   loc  strength
+0:0::0::-----  ----  -----  ----  --------
+0:0::0::99973  wind   5152  ch18     23
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="House Sundar~[wb4]"><font size=+1><b>House Sundar~[wb4]</b></font>
+1:2::0::<hr>
+1:1::0::House Sundar~[wb4]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55734
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Malvoisine~[3843]"><font size=+1><b>Malvoisine~[3843]</b></font>
+1:2::0::<hr>
+1:1::0::Malvoisine~[3843]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3843
+1:0::0::
+1:2::0::
+1:2::0::<name="Captain Westmore~[6344]"><font size=+1><b>Captain Westmore~[6344]</b></font>
+1:2::0::<hr>
+1:1::0::Captain Westmore~[6344]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6344
+1:0::0::
+1:2::0::
+1:2::0::<name="Sir Bors de Ganis~[2458]"><font size=+1><b>Sir Bors de Ganis~[2458]</b></font>
+1:2::0::<hr>
+1:1::0::Sir Bors de Ganis~[2458]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2458
+1:0::0::
+1:2::0::
+1:2::0::<name="Sir Ywaine~[5192]"><font size=+1><b>Sir Ywaine~[5192]</b></font>
+1:2::0::<hr>
+1:1::0::Sir Ywaine~[5192]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5192
+1:0::0::
+1:2::0::
+1:2::0::<name="Mardeisk Sundar~[5152]"><font size=+1><b>Mardeisk Sundar~[5152]</b></font>
+1:2::0::<hr>
+1:1::0::Mardeisk Sundar~[5152]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5152
+1:2::0::
+1:2::0::<name="Aqua Solaris~[ch18]"><font size=+1><b>Aqua Solaris~[ch18]</b>, forest, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Aqua Solaris~[ch18], forest, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14618
+1:0::0::
+1:2::0::
+1:2::0::<name="Sunwater~[q97]"><font size=+1><b>Sunwater~[q97]</b>, port city, in province Aqua Solaris~[ch18]</font>
+1:2::0::<hr>
+1:1::0::Sunwater~[q97], port city, in province Aqua Solaris~[ch18]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58057
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ah58]"><font size=+1><b>Forest~[ah58]</b>, forest, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[ah58], forest, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10658
+1:0::0::
+1:2::0::
+1:2::0::<name="Roestoc~[ca07]"><font size=+1><b>Roestoc~[ca07]</b>, forest, in Cragstan, wilderness</font>
+1:2::0::<hr>
+1:1::0::Roestoc~[ca07], forest, in Cragstan, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14007
+1:0::0::
+1:2::0::
+1:2::0::<name="Grouchy~[cf08]"><font size=+1><b>Grouchy~[cf08]</b>, swamp, in Cragstan, civ-1</font>
+1:2::0::<hr>
+1:1::0::Grouchy~[cf08], swamp, in Cragstan, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14408
+1:0::0::
+1:2::0::
+1:2::0::<name="Dubglas~[cg09]"><font size=+1><b>Dubglas~[cg09]</b>, mountain, in Cragstan, civ-1</font>
+1:2::0::<hr>
+1:1::0::Dubglas~[cg09], mountain, in Cragstan, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14509
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[rh77]"><font size=+1><b>Hades~[rh77]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[rh77], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36677
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

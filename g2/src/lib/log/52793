@@ -1,0 +1,400 @@
+14109:0::0:0:Garrison~[6120], garrison, with ten~soldiers, 15~workers, one~winged horse, 28~pikemen guards Cornwall~[cb09].
+14503:0::0:0:Garrison~[7738], garrison, with ten~soldiers guards Sanuki~[cg03].
+12921:0::0:0:Garrison~[f928], garrison, with ten~peasants guards Forest~[bm21].
+14109:0::0:4:It has begun to rain.
+12921:0::0:21:It has begun to rain.
+14503:0::0:30:It has stopped raining.
+12921:0::0::
+12921:0::0::Province controlled by Asgard~[5665], castle, in Forest~[bt17]
+12921:0::0::Ruled by Jon The Restless~[v296], duke
+12921:0::0::
+12921:0::0::Routes leaving Forest: 
+12921:0::3::North, swamp, to Confederation Territory~[bk21], 14~days
+12921:0::3::East, to Plain~[bm22], 7~days
+12921:0::3::South, to Mountain~[bn21], 10~days
+12921:0::3::West, forest, to Confederation Territory~[bm20], 8~days
+12921:0::0::
+12921:0::0::It is raining.
+12921:0::0::
+12921:0::0::Seen here:
+12921:0::0/3::   Garrison~[f928], garrison, on guard, with ten~peasants
+14109:0::0::
+14109:0::0::Routes leaving Cornwall: 
+14109:0::3::North, to Ocean~[ca09], Great Sea, 2~days
+14109:0::3::East, forest, to Salisbury~[cb10], 8~days
+14109:0::3::South, mountain, to Logres~[cc09], impassable
+14109:0::6::A magical barrier prevents entry.
+14109:0::3::West, plain, to Dorchester~[cb08], 7~days
+14109:0::0::
+14109:0::0::It is raining.
+14109:0::0::
+14109:0::0::Seen here:
+14109:0::0/3::   Garrison~[6120], garrison, on guard, with ten~soldiers, 15~workers, one~winged horse, 28~pikemen
+14109:0::0/3:: * Admiral Rossi~[r381], wielding dwaven axe~[v843], wearing enchanted armor~[p695], "{<i>}House of Lords{</i>}"
+14503:0::0::
+14503:0::0::Routes leaving Sanuki: 
+14503:0::3::North, swamp, to Awa-isi~[cf03], 14~days
+14503:0::3::East, plain, to Suwo~[cg04], 7~days
+14503:0::3::South, desert, to Awaji~[ch03], 8~days
+14503:0::3::West, to Ocean~[cg02], Great Sea, impassable
+14503:0::3::Secret sea route, to Ocean~[cg02], hidden, 2~days
+14503:0::0::
+14503:0::0::Inner locations:
+14503:0::3::Lair~[b789], lair, hidden, 1 day
+14503:0::3::Lair~[t123], lair, hidden, 1 day
+14503:0::0::
+14503:0::0::Seen here:
+14503:0::0/3::   Garrison~[7738], garrison, on guard, with ten~soldiers
+14503:0::0/3:: * Giovanni d'Vinci~[4569], wearing golden shield~[q169], "{<i>}Kingdom of Cragstan{</i>}", with nine~centaurs, one~lion, one~giant lizard, two~dragons, one~gorgon, two~cyclops
+42625:0::0::
+42625:0::0::Routes leaving Forest: 
+42625:0::3::North, to Forest~[zj27], 8~days
+42625:0::3::East, to Forest~[st04], 8~days
+42625:0::3::South, to Forest~[gv27], 8~days
+42625:0::3::West, to Forest~[xd99], 8~days
+5:0::0::
+5:0::0::begin kt3 "iinoiro"  # Sentries of Light
+5:0::0::
+5:0::0::unit kt3  # Sentries of Light
+5:0::0::
+5:0::0::unit k810  # Michaelo in Forest~[bm21]
+5:0::0::
+5:0::0::unit r381  # Admiral Rossi in Cornwall~[cb09]
+5:0::0::
+5:0::0::unit 4569  # Giovanni d'Vinci in Sanuki~[cg03]
+5:0::0::
+5:0::0::unit 3634  # Triniti in Forest~[vh25]
+5:0::0::
+5:0::0::end
+52793:0::0::
+52793:0::0::Admit permissions:
+52793:0::0::
+52793:0::3::admit 1938 1599 3582 3634 3920  de2  hr2  ra2  sa4  wb4
+52793:0::3::admit 3634  de2  sa4  wb4 3920
+52793:0::3::admit 3998  de2  sa4  wb4 3920
+52793:0::3::admit 4569  de2  sa4  wb4 3920
+52793:0::3::admit r381 1599 3582 3634 3843 3920 5934  de2  hr2  ra2  sa4  wb4
+52793:0::3::           k810 n471 z501
+52793:0::0::
+52793:0::0::Declared attitudes:
+52793:0::3::defend  1599 3634 3843 3920 5934 6344  de2  hr2  kt3  px4  ra2
+52793:0::3::         sa4  wb4 a068 k810 n471 r381 x196 x218 z501
+52793:0::0::
+52793:0::0::Unclaimed items:
+52793:0::0::
+52793:0::0::      qty  name                              weight
+52793:0::0::      ---  ----                              ------
+52793:0::0::    5,621  gold~[1]                               0  
+3634:0::3::
+3634:0::3/16::Location:       Forest~[vh25], in Faery
+3634:0::3::Loyalty:        Oath-1
+3634:0::3::Health:         100%
+3634:0::3::Combat:         attack 166, defense 164, missile 0
+3634:0::3::                behind 0  (front line in combat)
+3634:0::3::Break point:    0% (fight to the death)
+3634:0::3::use  641 1      (concealing self)
+3634:0::3::
+3634:0::3::Skills known:
+3634:0::6::Combat~[610]
+3634:0::12::Survive fatal wound~[611]
+3634:0::12::Fight to the death~[612]
+3634:0::12::Defense~[614], adept
+3634:0::12::Swordplay~[616], adept
+3634:0::12::Weaponsmithing~[617], apprentice
+3634:0::6::Stealth~[630]
+3634:0::12::Petty thievery~[631], journeyman
+3634:0::12::Determine inventory of character~[632], apprentice
+3634:0::12::Determine skills of character~[633], apprentice
+3634:0::12::Determine character's lord~[634], apprentice
+3634:0::12::Conceal faction~[635], apprentice
+3634:0::12::Learn of richest nearby noble~[636], apprentice
+3634:0::12::Torture prisoner~[637], apprentice
+3634:0::12::Sneak into structure~[639], apprentice
+3634:0::12::Conceal self~[641], apprentice
+3634:0::6::Persuasion~[670]
+3634:0::12::Bribe noble~[671], apprentice
+3634:0::12::Persuade oathbound noble~[672], apprentice
+3634:0::12::Raise peasant mob~[673], apprentice
+3634:0::12::Rally peasant mob~[674], apprentice
+3634:0::6::Alchemy~[690]
+3634:0::12::Record skill on scroll~[695], journeyman
+3634:0::3::
+3634:0::3::Inventory:
+3634:0::3::{<b>}      qty  name                              weight{</b>}
+3634:0::3::      ---  ----                              ------
+3634:0::3::      287  gold~[1]                               0  
+3634:0::3::        1  elfstone~[69]                          1  
+3634:0::3::                                             ======
+3634:0::3::                                                  1
+3634:0::3::
+3634:0::3/11::Capacity:  1/100 land (1%)
+3634:0::3::
+4569:0::3::
+4569:0::3/16::Location:       Sanuki~[cg03], in Cragstan
+4569:0::3::Loyalty:        Oath-1
+4569:0::3::Health:         100%
+4569:0::3::Combat:         attack 87, defense 87, missile 0
+4569:0::3::                behind 0  (front line in combat)
+4569:0::3::Break point:    0% (fight to the death)
+4569:0::3::Receive Vision: 4 protection
+4569:0::3::Banner:         Kingdom of Cragstan
+4569:0::3::
+4569:0::3::Skills known:
+4569:0::6::Combat~[610]
+4569:0::12::Survive fatal wound~[611]
+4569:0::12::Fight to the death~[612]
+4569:0::12::Defense~[614], apprentice
+4569:0::12::Swordplay~[616], apprentice
+4569:0::12::Weaponsmithing~[617], apprentice
+4569:0::6::Beastmastery~[650]
+4569:0::12::Bird spy~[651], apprentice
+4569:0::12::Capture beasts in battle~[652]
+4569:0::12::Use beasts in battle~[653]
+4569:0::12::Breed beasts~[654], master
+4569:0::12::Catch wild horses~[655], adept
+4569:0::12::Train wild horse to riding horse~[656], journeyman
+4569:0::12::Train wild horse to warmount~[657], journeyman
+4569:0::12::Summon wild men~[658], apprentice
+4569:0::12::Persuade wild men to remain~[659], apprentice
+4569:0::12::Breed hound~[661], apprentice
+4569:0::3::
+4569:0::3::Inventory:
+4569:0::3::{<b>}      qty  name                              weight{</b>}
+4569:0::3::      ---  ----                              ------
+4569:0::3::        3  gold~[1]                               0  
+4569:0::3::        1  elfstone~[69]                          1  
+4569:0::3::        1  drum~[98]                              2  
+4569:0::3::        9  centaurs~[271]                     9,000  ride 1,350 (30,30,0)
+4569:0::3::        1  lion~[280]                           750   (100,100,0)
+4569:0::3::        1  giant lizard~[282]                 1,000   (45,45,0)
+4569:0::3::        2  dragons~[286]                      5,000   (500,500,250)
+4569:0::3::        1  gorgon~[288]                         200   (10,20,0)
+4569:0::3::        2  cyclops~[291]                        400  cap 400 (25,75,0)
+4569:0::3::        1  golden shield~[q169]                  10  +30 defense
+4569:0::3::                                             ======
+4569:0::3::                                             16,363
+4569:0::3::
+4569:0::3/11::Capacity:  13/1,850 land (0%), 513/1,350 ride (38%)
+4569:0::3::
+4569:0::3::Pending trades:
+4569:0::3::
+4569:0::6::trade    price    qty   item
+4569:0::6::-----    -----    ---   ----
+4569:0::6:: sell        7  9,999   clay pot~[95]
+4569:0::3::
+67810:0::3::
+67810:0::3/16::Location:       Forest~[bm21], in Tollus
+67810:0::3::Loyalty:        Oath-1
+67810:0::3::Health:         100%
+67810:0::3::Combat:         attack 149, defense 147, missile 0
+67810:0::3::                behind 0  (front line in combat)
+67810:0::3::Break point:    0% (fight to the death)
+67810:0::3::use  641 1      (concealing self)
+67810:0::3::Receive Vision: 6 protection
+67810:0::3::
+67810:0::3::Skills known:
+67810:0::6::Combat~[610]
+67810:0::12::Survive fatal wound~[611]
+67810:0::12::Fight to the death~[612]
+67810:0::12::Defense~[614], master
+67810:0::12::Swordplay~[616], master
+67810:0::12::Weaponsmithing~[617], apprentice
+67810:0::6::Stealth~[630]
+67810:0::12::Petty thievery~[631], apprentice
+67810:0::12::Determine inventory of character~[632], apprentice
+67810:0::12::Determine skills of character~[633], journeyman
+67810:0::12::Determine character's lord~[634], apprentice
+67810:0::12::Conceal faction~[635], apprentice
+67810:0::12::Sneak into structure~[639], apprentice
+67810:0::12::Conceal self~[641], apprentice
+67810:0::6::Persuasion~[670]
+67810:0::12::Bribe noble~[671], apprentice
+67810:0::12::Persuade oathbound noble~[672], apprentice
+67810:0::12::Raise peasant mob~[673], apprentice
+67810:0::12::Rally peasant mob~[674], apprentice
+67810:0::3::
+67810:0::3::Inventory:
+67810:0::3::{<b>}      qty  name                              weight{</b>}
+67810:0::3::      ---  ----                              ------
+67810:0::3::      392  gold~[1]                               0  
+67810:0::3::                                             ======
+67810:0::3::                                                  0
+67810:0::3::
+67810:0::3/11::Capacity:  0/100 land (0%)
+67810:0::3::
+72381:0::3::
+72381:0::3/16::Location:       Cornwall~[cb09], in Cragstan
+72381:0::3::Loyalty:        Oath-1
+72381:0::3::Health:         100%
+72381:0::3::Combat:         attack 101, defense 101, missile 0
+72381:0::3::                behind 0  (front line in combat)
+72381:0::3::Break point:    0% (fight to the death)
+72381:0::3::Receive Vision: 1 protection
+72381:0::3::Banner:         House of Lords
+72381:0::3::
+72381:0::3::Skills known:
+72381:0::6::Shipcraft~[600]
+72381:0::12::Sailing~[601], grand master
+72381:0::12::Fishing~[603], apprentice
+72381:0::6::Combat~[610]
+72381:0::12::Fight to the death~[612]
+72381:0::12::Defense~[614], apprentice
+72381:0::12::Swordplay~[616], apprentice
+72381:0::6::Stealth~[630]
+72381:0::12::Conceal faction~[635], apprentice
+72381:0::3::
+72381:0::3::Inventory:
+72381:0::3::{<b>}      qty  name                              weight{</b>}
+72381:0::3::      ---  ----                              ------
+72381:0::3::        5  pitch~[261]                          500  
+72381:0::3::        1  enchanted armor~[p695]                10  +100 defense
+72381:0::3::        1  dwaven axe~[v843]                     10  +100 attack
+72381:0::3::                                             ======
+72381:0::3::                                                520
+72381:0::3::
+72381:0::3/11::Capacity:  520/100 land (520%)
+72381:0::3::
+72381:0::3::Pending trades:
+72381:0::3::
+72381:0::6::trade    price    qty   item
+72381:0::6::-----    -----    ---   ----
+72381:0::6:: sell        4  9,992   woven basket~[94]
+72381:0::6:: sell        2  9,949   fish~[87]
+72381:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Sentries of Light~[kt3].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/kt3/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [kt3]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         4  93rd   
+0:0::3/41::Men:                                2  82nd   
+0:0::3/41::Gold:                             682  100th  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   37/74  69th   
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         916/31,919  32nd   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  32     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  c428 d157 q562 q433 m075
+0:0::0::
+0:0::0::3 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::k810   bm21   o1    100  0     392                            Michaelo
+0:0::0::r381   cb09   o1    100  0                                    Admiral Rossi
+0:0::0::4569   cg03   o1    100  0       3                   2        Giovanni
+0:0::0::3634   vh25   o1    100  0     287                            Triniti
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               682                   2
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Tollus
+0:0::0::  Forest~[bm21]                    Michaelo~[k810]
+0:0::0::Cragstan
+0:0::0::  Cornwall~[cb09]                  Admiral Rossi~[r381]
+0:0::0::  Sanuki~[cg03]                    Giovanni d'Vinci~[4569]
+0:0::0::Faery
+0:0::0::  Forest~[vh25]                    Triniti~[3634]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  k810         100        100   0%                                
+0:0::0::  r381         620      (420) 520%                                
+0:0::0::  4569      16,463      1,837   0%        837  38%                
+0:0::0::  3634         101         99   1%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Sentries of Light~[kt3]"><font size=+1><b>Sentries of Light~[kt3]</b></font>
+1:2::0::<hr>
+1:1::0::Sentries of Light~[kt3]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 52793
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Michaelo~[k810]"><font size=+1><b>Michaelo~[k810]</b></font>
+1:2::0::<hr>
+1:1::0::Michaelo~[k810]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 67810
+1:0::0::
+1:2::0::
+1:2::0::<name="Admiral Rossi~[r381]"><font size=+1><b>Admiral Rossi~[r381]</b></font>
+1:2::0::<hr>
+1:1::0::Admiral Rossi~[r381]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 72381
+1:0::0::
+1:2::0::
+1:2::0::<name="Giovanni d'Vinci~[4569]"><font size=+1><b>Giovanni d'Vinci~[4569]</b></font>
+1:2::0::<hr>
+1:1::0::Giovanni d'Vinci~[4569]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4569
+1:0::0::
+1:2::0::
+1:2::0::<name="Triniti~[3634]"><font size=+1><b>Triniti~[3634]</b></font>
+1:2::0::<hr>
+1:1::0::Triniti~[3634]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3634
+1:2::0::
+1:2::0::<name="Forest~[bm21]"><font size=+1><b>Forest~[bm21]</b>, forest, in Tollus, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[bm21], forest, in Tollus, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12921
+1:0::0::
+1:2::0::
+1:2::0::<name="Cornwall~[cb09]"><font size=+1><b>Cornwall~[cb09]</b>, forest, in Cragstan, wilderness</font>
+1:2::0::<hr>
+1:1::0::Cornwall~[cb09], forest, in Cragstan, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14109
+1:0::0::
+1:2::0::
+1:2::0::<name="Sanuki~[cg03]"><font size=+1><b>Sanuki~[cg03]</b>, mountain, in Cragstan, wilderness</font>
+1:2::0::<hr>
+1:1::0::Sanuki~[cg03], mountain, in Cragstan, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14503
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vh25]"><font size=+1><b>Forest~[vh25]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vh25], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42625
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,479 @@
+16678:0::0:0:Garrison~[2610], garrison, with ten~peasants guards Forest~[dh78].
+58427:0::0:0:Garrison~[4230], garrison, with 64~pikemen guards Rhysum~[v67].
+15564:0::0:0:Garrison~[145671], garrison, with 16~peasants, 24~soldiers guards Plain~[ct64].
+58427:0::0:1:Rhysum~[v67] bought 43~soap~[j265] for 2,623~gold.
+15564:0::0:21:It has begun to rain.
+58427:0::0:30:Rhysum~[v67] bought one~cinnabar~[t246] from Coca-Cola Kid~[j707] for 90~gold.
+15564:0::0::
+15564:0::0::Province controlled by The Manetheren Ritz~[1712], castle, in The Moonlands~[cr64]
+15564:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+15564:0::0::
+15564:0::0::Routes leaving Plain: 
+15564:0::3::North, swamp, to The Moonlands~[cs64], 14~days
+15564:0::3::East, mountain, to The Moonlands~[ct65], 10~days
+15564:0::3::South, to Forest~[cv64], 8~days
+15564:0::3::West, mountain, to Mountains of Kor~[ct63], 10~days
+15564:0::0::
+15564:0::0::Inner locations:
+15564:0::3::Rhysum~[v67], city, 1 day
+15564:0::0::
+15564:0::0::It is raining.
+15564:0::0::
+15564:0::0::Seen here:
+15564:0::0/3::   Garrison~[145671], garrison, on guard, with 16~peasants, 24~soldiers
+16678:0::0::
+16678:0::0::Routes leaving Forest: 
+16678:0::3::North, desert, to The Shadowlands~[dg78], 8~days
+16678:0::3::East, to Ocean~[dh79], Great Sea, impassable
+16678:0::3::South, to Ocean~[dj78], Great Sea, impassable
+16678:0::3::West, forest, to The Shadowlands~[dh77], 8~days
+16678:0::0::
+16678:0::0::Inner locations:
+16678:0::3::Yellowleaf~[r52], port city, safe haven, 1 day
+16678:0::0::
+16678:0::0::It is raining.
+16678:0::0::
+16678:0::0::Seen here:
+16678:0::0/3::   Garrison~[2610], garrison, on guard, with ten~peasants
+16678:0::0/3::   Lord Gary~[103357]
+58112:0::0::
+58112:0::0::Routes leaving Yellowleaf: 
+58112:0::3::East, to Ocean~[dh79], Great Sea, 1~day
+58112:0::3::South, to Ocean~[dj78], Great Sea, 1~day
+58112:0::3::Out, to Forest~[dh78], 1~day
+58112:0::0::
+58112:0::0::Cities rumored to be nearby:
+58112:0::3::Alexandria~[h11], in The Shadowlands~[dj74]
+58112:0::3::Omaha Beach~[p97], in North Coast Highlands~[dp77]
+58112:0::3::Elantir~[s99], in The Shadowlands~[dc79]
+58112:0::3::Azrain~[z68], in The Shadowlands~[dh77]
+58112:0::0::
+58112:0::0::Skills taught here:
+58112:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58112:0::0::
+58112:0::0::Market report:
+58112:0::3::
+58112:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58112:0::3::-----    ---   -----    ---     -----   ----                     
+58112:0::3::  buy    r52     193      7        30   jeweled eggs~[r537]      
+58112:0::3::  buy    r52       2    100         2   fish~[87]                
+58112:0::3::  buy    r52     119     26       100   cassava~[m685]           
+58112:0::3::  buy    r52      62     47        50   soap~[148496]            
+58112:0::3::  buy    r52       4     15         1   woven baskets~[94]       
+58112:0::3:: sell    r52      50     10       100   pitch~[261]              
+58112:0::3:: sell    r52      37     29        43   tea~[m589]               
+58112:0::3:: sell    r52      37     32        43   tea~[134952]             
+58112:0::3:: sell    r52      12     25        30   wood~[77]                
+58112:0::3:: sell    r52     110     39       100   purple cloth~[f508]      
+58112:0::0::
+58112:0::0::Inner locations:
+58112:0::3::Tower of Liss~[9120], tower, defense~40, owner:
+58112:0::0/6::      Lisbron~[7813]
+58112:0::3::Fool's Guild~[8516], tower, defense~40
+58112:0::3::Quiet Refuge~[3050], tower, defense~40, owner:
+58112:0::0/6:: *    Teram Xifar~[3118]
+58112:0::3::House of Mirrors~[7473], tower, defense~40
+58112:0::3::The Gray Tower~[2928], tower, defense~40
+58112:0::0::
+58112:0::0::It is raining.
+58112:0::0::
+58112:0::0::Seen here:
+58112:0::0/3::   Kain of Ember~[118477]
+58112:0::0/3::   Tenser~[89770]
+58112:0::0/3::   Elias Swift~[g822]
+58112:0::0/3::   Lord Derfel~[7774]
+58112:0::0/3::   Elise~[3775]
+58112:0::0/3::   mary~[1161]
+58112:0::0/3::   Myrandel Shylantra~[f429]
+58112:0::0::
+58112:0::0::Ships docked at port:
+58112:0::3/3::Whisper~[w141], galley, 4% loaded, defense~20, owner:
+58112:0::0/6::      Morgan Walker~[c335]
+58112:0::0/6::      Francis Theopholus~[d413]
+58112:0::3/3::Corinth~[5512], roundship, 2% loaded, defense~10, 36%~damaged, owner:
+58112:0::0/6:: *    Duthan~[6374]
+58112:0::3/3::Ice Queen~[s137], roundship, 0% loaded, defense~10, 33%~damaged
+58427:0::0::
+58427:0::0::Routes leaving Rhysum: 
+58427:0::3::Out, to Plain~[ct64], 1~day
+58427:0::0::
+58427:0::0::Cities rumored to be nearby:
+58427:0::3::Ohvan~[g71], in The Moonlands~[cr66]
+58427:0::3::Manetheren~[h08], in The Moonlands~[cr64]
+58427:0::3::Galadon~[h62], in Plain~[cv61]
+58427:0::0::
+58427:0::0::Skills taught here:
+58427:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Construction~[680], Alchemy~[690], Trade~[730], Magic~[800]
+58427:0::0::
+58427:0::0::Market report:
+58427:0::3::
+58427:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58427:0::3::-----    ---   -----    ---     -----   ----                     
+58427:0::3::  buy    v67     112     35        65   plum wine~[d272]         
+58427:0::3::  buy    v67       7      9         5   clay pots~[95]           
+58427:0::3::  buy    v67     136     25       100   sugar~[94478]            
+58427:0::3::  buy    v67      90     38        55   cinnabar~[t246]          
+58427:0::3::  buy    v67      61     43        50   soap~[j265]              
+58427:0::3:: sell   5009       4      7         1   woven baskets~[94]       
+58427:0::3:: sell   2254       4      7         1   woven baskets~[94]       
+58427:0::3:: sell    v67     110      3     1,000   riding horses~[52]       
+58427:0::3:: sell    v67       1     50        10   lead~[102]               
+58427:0::3:: sell    v67      37     35        43   tea~[k377]               
+58427:0::3:: sell    v67      37     47        50   licorice~[g761]          
+58427:0::3:: sell    v67      27     32       100   honey~[p926]             
+58427:0::3:: sell    v67     100      5     2,000   oxen~[76]                
+58427:0::3:: sell    v67     130     25       100   ivory~[81702]            
+58427:0::3:: sell    v67      14     41       100   beans~[117941]           
+58427:0::3:: sell    v67      13     39        16   pepper~[139130]          
+58427:0::0::
+58427:0::0::Inner locations:
+58427:0::3::Hall of the Magi~[2536], tower, defense~40, owner:
+58427:0::0/6:: *    Torgaff~[4049], with one~riding horse
+58427:0::3::The Sacred Vision~[9396], temple, defense~10
+58427:0::0::
+58427:0::0::It is raining.
+58427:0::0::
+58427:0::0::Seen here:
+58427:0::0/3::   Garrison~[4230], garrison, on guard, with 64~pikemen, accompanied~by:
+58427:0::0/6::      Coca-Cola Kid~[j707], priest, with six~winged horses
+58427:0::0/3:: * Lorris~[5009], conjurer, with two~riding horses, accompanied~by:
+58427:0::0/6:: *    Beorn~[2254], with one~riding horse
+5:0::0::
+5:0::0::begin fx5 "wonderland"  # Family Rohnar
+5:0::0::
+5:0::0::unit fx5  # Family Rohnar
+5:0::0::
+5:0::0::unit 4049  # Torgaff in Hall of the Magi~[2536]
+5:0::0::
+5:0::0::unit 5009  # Lorris in Rhysum~[v67]
+5:0::0::
+5:0::0::unit 2254  # Beorn in Rhysum~[v67]
+5:0::0::
+5:0::0::unit 3118  # Teram Xifar in Quiet Refuge~[3050]
+5:0::0::
+5:0::0::unit 6374  # Duthan in Corinth~[5512]
+5:0::0::
+5:0::0::end
+51535:0::0::
+51535:0::0::Unclaimed items:
+51535:0::0::
+51535:0::0::      qty  name                              weight
+51535:0::0::      ---  ----                              ------
+51535:0::0::    5,025  gold~[1]                               0  
+2254:0::3::
+2254:0::3/16::Location:       Rhysum~[v67], in province Plain~[ct64], in Provinia
+2254:0::3::Loyalty:        Oath-1
+2254:0::3/16::Stacked under:  Lorris~[5009]
+2254:0::3::Health:         100%
+2254:0::3::Combat:         attack 151, defense 141, missile 59
+2254:0::3::                behind 0  (front line in combat)
+2254:0::3::Break point:    50%
+2254:0::3::
+2254:0::3::Skills known:
+2254:0::6::Combat~[610]
+2254:0::12::Defense~[614], master
+2254:0::12::Archery~[615], apprentice
+2254:0::12::Swordplay~[616], master
+2254:0::12::Weaponsmithing~[617], apprentice
+2254:0::3::
+2254:0::3::Inventory:
+2254:0::3::{<b>}      qty  name                              weight{</b>}
+2254:0::3::      ---  ----                              ------
+2254:0::3::      168  gold~[1]                               0  
+2254:0::3::        1  riding horse~[52]                  1,000  ride 150
+2254:0::3::        5  iron~[79]                             50  
+2254:0::3::        7  woven baskets~[94]                     7  
+2254:0::3::                                             ======
+2254:0::3::                                              1,057
+2254:0::3::
+2254:0::3/11::Capacity:  57/250 land (22%), 157/150 ride (104%)
+2254:0::3::
+2254:0::3::Pending trades:
+2254:0::3::
+2254:0::6::trade    price    qty   item
+2254:0::6::-----    -----    ---   ----
+2254:0::6:: sell        4      7   woven basket~[94]
+2254:0::3::
+3118:0::3::
+3118:0::3/16::Location:       Quiet Refuge~[3050], in Yellowleaf~[r52], in province Forest~[dh78], in Provinia
+3118:0::3::Loyalty:        Oath-1
+3118:0::3::Health:         100%
+3118:0::3::Combat:         attack 80, defense 80, missile 0
+3118:0::3::                behind 0  (front line in combat)
+3118:0::3::Break point:    50%
+3118:0::3::
+3118:0::3::Skills known:
+3118:0::6::Forestry~[700]
+3118:0::3::
+3118:0::3::Partially known skills:
+3118:0::6/6::Harvest opium~[706], 0/14
+3118:0::3::
+3118:0::3::Inventory:
+3118:0::3::{<b>}      qty  name                              weight{</b>}
+3118:0::3::      ---  ----                              ------
+3118:0::3::      520  gold~[1]                               0  
+3118:0::3::      346  fish~[87]                            692  
+3118:0::3::                                             ======
+3118:0::3::                                                692
+3118:0::3::
+3118:0::3/11::Capacity:  692/100 land (692%)
+3118:0::3::
+3118:0::3::Pending trades:
+3118:0::3::
+3118:0::6::trade    price    qty   item
+3118:0::6::-----    -----    ---   ----
+3118:0::6:: sell        2    400   fish~[87]
+3118:0::3::
+4049:0::3::
+4049:0::3/16::Location:       Hall of the Magi~[2536], in Rhysum~[v67], in province Plain~[ct64], in Provinia
+4049:0::3::Loyalty:        Oath-1
+4049:0::3::Health:         100%
+4049:0::3::Combat:         attack 80, defense 80, missile 0
+4049:0::3::                behind 0  (front line in combat)
+4049:0::3::Break point:    50%
+4049:0::3::
+4049:0::3::Skills known:
+4049:0::6::Stealth~[630]
+4049:0::6::Beastmastery~[650]
+4049:0::6::Trade~[730]
+4049:0::12::Find tradegood for sale~[732], apprentice
+4049:0::12::Find market for tradegood~[733], apprentice
+4049:0::3::
+4049:0::3::Partially known skills:
+4049:0::6/6::Conceal self~[641], 0/28
+4049:0::3::
+4049:0::3::Inventory:
+4049:0::3::{<b>}      qty  name                              weight{</b>}
+4049:0::3::      ---  ----                              ------
+4049:0::3::      250  gold~[1]                               0  
+4049:0::3::        1  riding horse~[52]                  1,000  ride 150
+4049:0::3::        7  woven baskets~[94]                     7  
+4049:0::3::                                             ======
+4049:0::3::                                              1,007
+4049:0::3::
+4049:0::3/11::Capacity:  7/250 land (2%), 107/150 ride (71%)
+4049:0::3::
+4049:0::3::Pending trades:
+4049:0::3::
+4049:0::6::trade    price    qty   item
+4049:0::6::-----    -----    ---   ----
+4049:0::6:: sell        4      7   woven basket~[94]
+4049:0::3::
+5009:0::3::
+5009:0::3/16::Location:       Rhysum~[v67], in province Plain~[ct64], in Provinia
+5009:0::3::Loyalty:        Oath-1
+5009:0::3::Stacked over:   Beorn~[2254]
+5009:0::3::Health:         100%
+5009:0::3::Combat:         attack 80, defense 80, missile 0
+5009:0::3::                behind 0  (front line in combat)
+5009:0::3::Break point:    50%
+5009:0::3::
+5009:0::3::Current aura:   7
+5009:0::3::Maximum aura:   7
+5009:0::3::
+5009:0::3::Skills known:
+5009:0::6::Construction~[680]
+5009:0::6::Alchemy~[690]
+5009:0::6::Magic~[800]
+5009:0::12::Meditate~[801], apprentice
+5009:0::12::Perform common tasks for gold~[802], apprentice
+5009:0::6::Gatecraft~[860]
+5009:0::12::Teleport~[861], apprentice
+5009:0::12::Detect gates~[862], adept
+5009:0::12::Language of the Ancients~[871], apprentice
+5009:0::3::
+5009:0::3::Inventory:
+5009:0::3::{<b>}      qty  name                              weight{</b>}
+5009:0::3::      ---  ----                              ------
+5009:0::3::      276  gold~[1]                               0  
+5009:0::3::        2  riding horses~[52]                 2,000  ride 300
+5009:0::3::        7  woven baskets~[94]                     7  
+5009:0::3::                                             ======
+5009:0::3::                                              2,007
+5009:0::3::
+5009:0::3/11::Capacity:  7/400 land (1%), 107/300 ride (35%)
+5009:0::3::
+5009:0::3::Pending trades:
+5009:0::3::
+5009:0::6::trade    price    qty   item
+5009:0::6::-----    -----    ---   ----
+5009:0::6:: sell        4      7   woven basket~[94]
+5009:0::3::
+6374:0::3::
+6374:0::3/16::Location:       Corinth~[5512], in Yellowleaf~[r52], in province Forest~[dh78], in Provinia
+6374:0::3::Loyalty:        Oath-2
+6374:0::3::Health:         100%
+6374:0::3::Combat:         attack 80, defense 80, missile 0
+6374:0::3::                behind 0  (front line in combat)
+6374:0::3::Break point:    50%
+6374:0::3::
+6374:0::3::Skills known:
+6374:0::6::Shipcraft~[600]
+6374:0::12::Sailing~[601], master
+6374:0::12::Shipbuilding~[602], apprentice
+6374:0::12::Fishing~[603], master
+6374:0::3::
+6374:0::3::Inventory:
+6374:0::3::{<b>}      qty  name                              weight{</b>}
+6374:0::3::      ---  ----                              ------
+6374:0::3::      100  fish~[87]                            200  
+6374:0::3::        1  pitch~[261]                          100  
+6374:0::3::                                             ======
+6374:0::3::                                                300
+6374:0::3::
+6374:0::3/11::Capacity:  300/100 land (300%)
+6374:0::3::
+6374:0::3::Pending trades:
+6374:0::3::
+6374:0::6::trade    price    qty   item
+6374:0::6::-----    -----    ---   ----
+6374:0::6:: sell        2      1   fish~[87]
+6374:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Family Rohnar~[fx5].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/fx5/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [fx5]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         5  89th   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           1,214  96th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   17/74  101st  
+0:0::3/41::Spells known:                    7/79  87th   
+0:0::3/41::Provinces visited:          72/31,919  109th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  32     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  3720 4226 9950 6365 m311
+0:0::0::
+0:0::0::2 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::4049   2536   o1    100  0     250                            Torgaff
+0:0::0::5009   v67    o1    100  0  7  276                            Lorris
+0:0::0::2254   v67    o1    100  0     168                     5009   Beorn
+0:0::0::3118   3050   o1    100  0     520                            Teram Xifar
+0:0::0::6374   5512   o2    100  0                                    Duthan
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              1214                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Plain~[ct64]
+0:0::0::    Rhysum~[v67]                   Lorris~[5009]
+0:0::0::                                     Beorn~[2254]
+0:0::0::      Hall of the Magi~[2536]      Torgaff~[4049]
+0:0::0::  Forest~[dh78]
+0:0::0::    Yellowleaf~[r52]
+0:0::0::      Quiet Refuge~[3050]          Teram Xifar~[3118]
+0:0::0::      Corinth~[5512]               Duthan~[6374]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  4049       1,107        243   2%         43  71%                
+0:0::0::  5009       3,264        586   9%        186  58%                
+0:0::0::  2254       1,157        193  22%        (7) 104%                
+0:0::0::  3118         792      (592) 692%                                
+0:0::0::  6374         400      (200) 300%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Family Rohnar~[fx5]"><font size=+1><b>Family Rohnar~[fx5]</b></font>
+1:2::0::<hr>
+1:1::0::Family Rohnar~[fx5]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51535
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Torgaff~[4049]"><font size=+1><b>Torgaff~[4049]</b></font>
+1:2::0::<hr>
+1:1::0::Torgaff~[4049]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4049
+1:0::0::
+1:2::0::
+1:2::0::<name="Lorris~[5009]"><font size=+1><b>Lorris~[5009]</b></font>
+1:2::0::<hr>
+1:1::0::Lorris~[5009]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5009
+1:0::0::
+1:2::0::
+1:2::0::<name="Beorn~[2254]"><font size=+1><b>Beorn~[2254]</b></font>
+1:2::0::<hr>
+1:1::0::Beorn~[2254]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2254
+1:0::0::
+1:2::0::
+1:2::0::<name="Teram Xifar~[3118]"><font size=+1><b>Teram Xifar~[3118]</b></font>
+1:2::0::<hr>
+1:1::0::Teram Xifar~[3118]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3118
+1:0::0::
+1:2::0::
+1:2::0::<name="Duthan~[6374]"><font size=+1><b>Duthan~[6374]</b></font>
+1:2::0::<hr>
+1:1::0::Duthan~[6374]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6374
+1:2::0::
+1:2::0::<name="Plain~[ct64]"><font size=+1><b>Plain~[ct64]</b>, plain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Plain~[ct64], plain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15564
+1:0::0::
+1:2::0::
+1:2::0::<name="Rhysum~[v67]"><font size=+1><b>Rhysum~[v67]</b>, city, in province Plain~[ct64]</font>
+1:2::0::<hr>
+1:1::0::Rhysum~[v67], city, in province Plain~[ct64]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58427
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dh78]"><font size=+1><b>Forest~[dh78]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dh78], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16678
+1:0::0::
+1:2::0::
+1:2::0::<name="Yellowleaf~[r52]"><font size=+1><b>Yellowleaf~[r52]</b>, port city, in province Forest~[dh78], safe haven</font>
+1:2::0::<hr>
+1:1::0::Yellowleaf~[r52], port city, in province Forest~[dh78], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58112
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

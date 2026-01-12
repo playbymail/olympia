@@ -1,0 +1,283 @@
+93748:breed 285 285
+93748:breed 285 285
+93748:breed 285 285
+93748:breed 285 285
+93748:breed 285 285
+93748:breed 285 285
+93748:breed 285 285
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+124664:explore
+124664:move s w
+140775:give garrison 281 3
+140775:get garrison 281 2
+140775:breed 281 281
+140775:give garrison 281 3
+140775:get garrison 281 2
+140775:breed 281 281
+140775:give garrison 281 3
+140775:get garrison 281 2
+140775:breed 281 281
+140775:give garrison 281 3
+140775:get garrison 281 2
+140775:breed 281 281
+140775:give garrison 281 3
+108717:give garrison 282 3
+108717:move c68
+108717:move 8865
+108717:get 93748 15 39
+108717:move c68
+108717:move bh49
+108717:get garrison 17 40
+108717:move v690
+108717:quest
+108717:move bh49
+108717:move n368
+108717:quest
+108717:quest
+108717:breed 54 54
+108717:breed 54 54
+108717:breed 54 54
+108717:breed 54 54
+88438:give garrison 281 3
+88438:get garrison 281 2
+88438:breed 281 281
+88438:give garrison 281 3
+88438:get garrison 281 2
+88438:breed 281 281
+88438:give garrison 281 3
+88438:get garrison 281 2
+88438:breed 281 281
+88438:give garrison 281 3
+88438:get garrison 281 2
+88438:breed 281 281
+88438:give garrison 281 3
+88438:get garrison 281 2
+88438:breed 281 281
+88438:give garrison 281 3
+88438:get garrison 281 2
+88438:breed 281 281
+88438:give garrison 281 3
+110574:give garrison 281 3
+110574:get garrison 281 2
+110574:breed 281 281
+110574:give garrison 281 3
+110574:get garrison 281 2
+110574:breed 281 281
+110574:give garrison 281 3
+110574:get garrison 281 2
+110574:breed 281 281
+110574:give garrison 281 3
+110574:get garrison 281 2
+110574:breed 281 281
+110574:give garrison 281 3
+125377:give garrison 53 1
+125377:catch
+125377:get garrison 51 200
+125377:get garrison 52 200
+125377:get garrison 52 200
+125377:move bh48
+125377:move bh49
+125377:give garrison 51 200
+125377:give garrison 52 200
+125377:give garrison 53 200
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+125377:get garrison 51 1
+125377:make 53
+125377:give garrison 53 1
+148834:get garrison 11 8
+148834:move t102
+148834:yew
+148834:move bg48
+148834:wood
+148834:give garrison 77 50
+148834:give garrison 11 8
+148834:make 72 5 
+148834:use 615
+148834:use 615
+148834:use 615
+148834:use 615
+148834:use 615
+148834:use 615
+148834:use 615
+148834:use 615
+117325:move c68
+117325:form 124539 "Sammy Joe"
+117325:give 124539 1 500
+117325:flag red
+117325:move bh49
+117325:use 756 110574
+117325:use 756 110574
+117325:move c68
+117325:move 82171
+117325:make 73 1
+117325:use 615
+117325:use 615
+117325:use 615
+117325:use 615
+141342:give garrison 12 1
+141342:get garrison 12 40
+141342:attack 112421
+141342:attack 112421
+141342:attack 85696
+141342:move out
+141342:attack 112421
+141342:execute 112421
+141342:give garrison 12 40
+141342:get garrison 11 40
+141342:move 85696 
+141342:repair 
+141342:use 722
+141342:repair 
+141342:move bg49
+141342:give garrison 11 40
+141342:get garrison 12 200 10
+141342:get garrison 11 200
+141342:get garrison 54 12
+141342:fly bh49
+141342:move bh49
+141342:give garrison 54 15
+141342:give garrison 11 200
+141342:give garrison 12 200
+141342:get garrison 17 40
+141342:attack 123172
+141342:attack 123172
+141342:attack 119809
+141342:move out
+141342:attack 123172
+141342:execute 123172
+141342:give garrison 17 40
+141342:get garrison 11 40
+141342:move 119809   
+141342:repair
+141342:use 721 
+141342:repair
+141342:move bh49
+141342:give garrison 11 40
+141342:give garrison 79 30 
+141342:recruit 1
+141342:train 11 1
+141342:give garrison 11 1
+141342:recruit 1
+141342:train 11 1
+141342:give garrison 11 1
+141342:recruit 1
+141342:train 11 1
+141342:give garrison 11 1
+141342:recruit 1
+141342:train 12 1
+141342:give garrison 12 1
+141342:recruit 1
+141342:train 12 1
+141342:give garrison 12 1
+141342:recruit 1
+141342:train 12 1
+141342:give garrison 12 1
+141342:recruit 1
+141342:train 12 1
+141342:give garrison 12 1
+141342:recruit 1
+141342:train 12 1
+141342:give garrison 12 1
+141342:recruit 1
+141342:train 12 1
+141342:give garrison 12 1
+141342:recruit 1
+141342:train 12 1
+141342:give garrison 12 1
+129726:study 650
+129726:study 650
+129726:move bb50
+129726:fly bb49
+129726:fly bc49
+129726:fly bd49
+129726:fly bf49
+129726:fly bg49
+129726:fly bh49
+129726:give garrison 54 5 
+136845:move a069
+136845:move bm47
+136845:study 922
+136845:study 922
+136845:fly bk47
+136845:move bk47
+136845:fly bk48
+136845:move bk48
+136845:fly bk49
+136845:move bk49
+136845:fly bj49
+136845:move bj49
+136845:give garrison 82 100 
+136845:move w234 
+136845:move wh65 
+136845:use 813
+136845:use 848
+51896:accept ak6 0
+51896:accept en6 0
+51896:accept fa5 0
+51896:accept zz4 0
+51896:accept fv6 0
+51896:accept t943 0    
+124539:wait flag red
+124539:study 610
+124539:study 630
+124539:move bh49
+124539:recruit 4
+124539:give garrison 10 4
+124539:move c68
+124539:move n270  

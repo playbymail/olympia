@@ -1,0 +1,17 @@
+Spell:  Scry location [9141]
+
+Usage:  USE @@@@ <location> [aura]
+
+Required aura:  one or more points, as given
+Required item:
+Time to cast:   seven days
+
+Grants the mage a vision of the specified place, no matter
+how far away he might be.
+
+If the target location is magically shrouded from scry attempts,
+sufficient aura must be used for @@@@ to pierce the shroud.
+For example, a location shroud of three aura would require
+USE @@@@ <region> 4 to overcome (costing four aura to cast).
+
+The default aura to use is one point.

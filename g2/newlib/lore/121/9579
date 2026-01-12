@@ -1,0 +1,13 @@
+#Skill:  Archery [9579]
+#
+Usage:  USE @@@@
+Time:   seven days
+
+Learning @@@@ gives the noble a +50 missile attack rating.
+
+Use of @@@@ will cause the noble to spend time and effort
+practicing archery further.  Every seven-day use will
+increase the noble's missile rating by one point.
+
+Knowledge of Archery also allows the noble to train archers and
+elite archers, via the TRAIN order.

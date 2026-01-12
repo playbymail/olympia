@@ -1,0 +1,273 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+For each long-haul tradegood,
+
+	Choose two cities (source, consumer) at least 15 provinces apart
+	Choose n=0-1 cities near to producer
+	Choose m=0-1 cities near to consumer
+
+	Set qty = 100 + (n-1)*25
+
+		Each source city sells qty/n +- 10%
+		Each consumer city buys qty/m +- 10%
+
+	set distance = los(source, consumer)
+	set profit = (125.5 + distance) * distance
+	set premium = profit/qty
+
+	set source city's cost at base price for item (base price is abitrary)
+	set consumer city's cost at base+premium
+	set prices for other source cities 1-5% lower
+	set prices for other consumer cities 1-5% higher
+
+
+try land routes within large regions first
+	land routes must be at least 20-25 provinces
+
+For each long-haul tradegood,
+    Choose two regions, one to produce the good, and one to consume it.
+    Within producer region, pick n=[1-3] cities to sell the item.
+    Within consumer region, pick m=[1-3] cities to buy the item.
+
+    Set qty = 100 + (n-1)*25
+
+        Each source city sells qty/n +- 10%
+        Each consumer city buys qty/m +- 10%
+
+    Choose a source and consumer city.
+
+    set distance = los(source, consumer)
+    Set profit = (125.5 + distance) * distance
+    Set premium = profit/qty
+
+    Set source city's cost at base price for item
+    Set consumer city's cost at base+premium
+    Set prices for other source cities slightly lower ( < 5% deviation).
+    Set prices for other consumer cities slightly higher ( < 5% deviation).
+
+
+alternatively:
+
+	pick two clusters of between 1-3 cities at least 10 (15?) provinces
+	apart.  may either be separated by land or ocean.
+
+	could be a separate routine to look for long-haul land routes
+
+
+Notes:
+
+	Cities chosen within regions should be close together, especially
+	if the region is large.
+
+	Quantity available to trade increases a bit if multiple cities sell.
+
+	Longer trade routes are a bit more profitable per unit of distance
+	than shorter ones.
+
+	Ideally there would be enough unique long-haul tradegoods so that
+	each region could produce one or two of them.  So far I've only
+	thought of eight long-haul tradegoods.
+
+	By fixing qty, we make lighter tradegoods naturally better than
+	than heavier ones.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+coffee, tea, silk, ebony, mahogany
+turquoise, porcelain
+fancy XXX
+fine vases
+gold leaf xxx
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Non-tradegood city trades:
+
+	port cities buy fish
+	all cities buy either clay pots or woven baskets
+	plains cities sell oxen
+	alchemy cities sell lead
+
+Common (short haul) tradegoods:
+
+	pipeweed
+	ale
+	tallow
+	candles
+	wool
+	vinegar
+	wax
+	sugar
+	salt
+	glue
+	linen
+	beans
+	walnuts
+	flax
+	flutes
+	cassava
+	plum wine
+
+	for each region
+		construct city list for region
+		clear temps on local tradegoods
+
+		for each city in region
+			pick new local tradegood from list
+				buy/sell it
+			choose another city from the region randomly to
+				sell/buy it
+			set price according to distance, or fixed profit
+
+
+	this algorithm requires that we have as many local tradegoods
+	as there are cities in the region
+
+	there are 39 cities in the biggest region
+	but that may be somewhat atypical
+
+
+Rare (long haul) tradegoods:
+
+	ink
+	fine cloaks
+	chocolate
+	ivory
+	rugs
+	honey
+	spice
+	licorice (root)
+	soap
+	old books
+	jade idols
+	purple cloth
+	rose perfume
+	jeweled egg
+	ochre
+	incense
+	oranges
+	cinnabar
+	myrhh
+	saffron
+
+opals
+powdered gate crystal
+unicorn horn
+
+rare books
+leather
+cocoa beans, cacao beans
+furs (local to a continent, or "north"?)
+
+
+any way to get jewels?  who buys them?
+
+
+plum brandy, plum wine
+
+
+<= 10 hops	short haul
+<= 25 hops	medium haul
+>25		long haul
+> 25 + via	vast
+ocean	
+
+galley		 5,000
+roundship	25,000
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+		weight (man=100, stone=100, wood=30, iron=30)
+		------
+spice		     5
+dried fish	     5		< fish
+fish		     7		> fish oil, dried fish
+fine cloak	    15
+ink		    25
+licorice	    25
+leather		    25
+soap		    25		< tallow
+candles		    25		< tallow
+pipeweed	    25
+walnuts		    25
+chocolate	    25		< beans
+ivory		    50
+fish oil	    50		< fish
+linen		   100		< flax
+wool		   100		> rugs
+flax		   100		> linen
+rugs		   100		< wool
+tallow		   250		> soap, candles
+beans		   250		> chocolate
+cask of ale	   250
+glue		   250
+vinegar		   250
+sugar		   250
+salt		   250
+honey		   250
+
+
+poppies	-> opium
+hemp	-> rope
+lime (mount->plain)
+flax	-> linen -> canvas -> sails
+sulfur
+lead
+dried spiders
+cassava (root?) (tropics) (farinha)
+x fur
+x marrow
+old books
+silvered glass / mirror
+Calabar bean
+
+flute
+market make: make-fad-none-reset (2 years)
+From sjc@mcs.kent.edu Thu Dec  2 08:51:08 1993
+Received: by candid.shadow.com; (ishmail 0.7) Thu, 02 Dec 93 08:51:08 EST
+Received: by blekko.rt.com; (ishmail 0.7) Thu, 02 Dec 93 08:23:20 EST
+Received: from zapranoth.mcs.kent.edu by Princeton.EDU (5.65b/2.103/princeton)
+	id AA03500; Wed, 1 Dec 93 15:59:07 -0500
+Received: from localhost.ARPA by zapranoth.mcs.kent.edu (930416.SGI/92.09.25)
+	id AA04214; Wed, 1 Dec 93 16:00:50 -0500
+Message-Id: <9312012100.AA04214@zapranoth.mcs.kent.edu>
+From: sjc@mcs.kent.edu (Steve Chapin)
+To: skrenta@candid.rt.com (Rich Skrenta)
+Zevon-Of-The-Day: Lawyers, Guns and Money 
+Subject: Re: Call for tradegoods 
+In-Reply-To: Your message of Sat, 27 Nov 1993 02:16:28 EST.
+             <754384589.AA8877@candid.rt.com> 
+Date: Wed, 01 Dec 1993 16:00:48 -0500
+Sender: sjc@mcs.kent.edu
+Status: RO
+
+
+Ok, let me think...
+
+You grabbed the easy ones.  Jools and rare minerals should be good,
+but that might be too easy, given mine production.
+
+      opium
+      teak (or other rare woods, let me know if you want a list
+	    to pick something more exotic)
+      rubber
+      joolry
+      silk (or other textiles)
+      sculpture
+      paintings
+      etchings (:-)
+
+If you want to include somatic components for magical spells, you
+might have:
+
+      python venom
+      djinn bottles
+      bat wings
+
+etc.
+
+sc
+--
+

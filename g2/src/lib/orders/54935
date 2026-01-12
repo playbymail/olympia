@@ -1,0 +1,637 @@
+6890:stop
+6890:contact bh3 cb5 db7 df7 et5 fc3
+6890:contact gk5 hd3 mm9 nn3 ny7 ps4
+6890:contact qb2 qn5 qy4 rq7 rr7 sz5
+6890:contact ta8 tj7 tp2 tr5 ug3 uh5
+6890:contact vy5 xy3 yf7 Yg9 ym3 yv5
+6890:contact zy6
+6890:accept 0 0
+6890:use 911 0
+6890:give 4972 54 0 40
+6890:give p237 287 0
+6890:give p237 291 9
+6890:give 4972 77 30
+6890:give x001 69 0
+6890:sail e
+6890:terrorize m083 999
+6890:terrorize q540 999
+6890:terrorize m556 999
+6890:use 813
+6890:train 22
+6890:train 13
+6890:train 12
+6890:breed 282 282
+6890:breed 282 282
+6890:breed 282 282
+6890:breed 282 282
+6890:breed 282 282
+6890:train 13
+6890:train 12
+6890:train 20
+6890:train 12
+6890:use 813
+6890:use 813
+6890:terrorize m083 999
+6890:terrorize q540 999
+6890:terrorize m556 999
+5374:give 6890 281 0
+5374:give 6890 282 0
+5374:give 6890 286 0
+5374:get 6890 281 2
+5374:get 6890 282 2
+5374:breed 281 282
+5374:give 6890 281 0
+5374:give 6890 282 0
+5374:get 6890 281 3
+5374:breed 281 281
+5374:give 6890 281 0
+5374:get 6890 281 3
+5374:breed 281 281
+5374:give 6890 281 0
+5374:get 6890 280 4
+5374:breed 280 280
+5374:breed 280 280
+5374:breed 280 280
+5374:breed 280 280
+5374:breed 282 282
+5374:breed 282 282
+5374:breed 282 282
+5374:give 6890 282 0 5
+5374:breed 282 282
+5374:breed 282 282
+5374:breed 282 282
+5492:stop
+5492:move out
+5492:move out
+5492:move out
+5492:give garrison 77 0
+5492:give garrison 75 0
+5492:give garrison 85 0
+5492:move cb60
+5492:get garrison 11 30
+5492:wood
+5492:get garrison 75 0
+5492:get garrison 85 0
+5492:get garrison 77 0
+5492:give garrison 11 0
+5492:recruit
+5492:give garrison 10 0
+5492:use 615
+5492:use 614
+5492:use 615
+5492:use 614
+5492:get garrison 10 0
+5492:get garrison 77 100
+5492:move cb61
+5492:give r807 77 50
+5492:move cb61
+5492:give garrison 10 0
+5492:use 614
+5492:make 85 0
+5492:give garrison 85 0
+5492:use 614
+5492:use 614
+5492:use 614
+5492:use 614
+5492:move g34
+5492:move 6160
+5492:give 4972 10 50
+5492:give 6890 77 0
+5492:give 6890 10 0
+5492:give 6890 85 0
+5492:get 6890 1 400
+5492:fly out
+5492:fly out
+5492:fly out
+5492:fly cb60
+4923:contact cb5 df7  et5
+4923:contact fc3   mm9 mv9  ps4 qn5
+4923:contact qb2  qy4  rq7  rr7 sz5 tj7 tp2  ug3 uh5
+4923:contact yf7 yg9 yv5   zy6
+4923:accept 0 0
+4923:give 9758 16 0
+4923:use 813
+4923:use 813
+4923:use 813
+4923:make 18 18
+4923:give 9758 18 0
+4923:use 813
+4923:use 813
+4923:use 813
+4923:use 813
+4923:seek
+4923:seek
+4923:use 615
+4923:use 615
+4923:use 615
+5943:stop
+5943:contact bh3 cb5 db7 df7 et5 fc3
+5943:contact gk5 hd3 mm9 nn3 ny7 ps4
+5943:contact qb2 qn5 qy4 rq7 rr7 sz5
+5943:contact ta8 tj7 tp2 tr5 ug3 uh5
+5943:contact vy5 xy3 yf7 Yg9 ym3 yv5
+5943:contact zy6
+5943:accept 0 0
+5943:give z022 128357 0
+5943:give z022 d378 0
+5943:give 1426 128357 0
+5943:give 1426 d378 0
+5943:give 8083 d378 0
+5943:give 8083 128357 0
+5943:give 8083 1 11000 9000
+5943:use 733 109393
+5943:use 733 114360
+5943:seek
+5943:seek
+5943:seek
+5943:seek
+5943:sell 128357 40 72 0 1
+5943:sell d378 39 173 0 1
+5943:buy s393 27 37 0 1
+5943:buy 131873 1 42 0 1
+5943:give z022 s393 0 250
+5943:fly out
+5943:give 1426 s393 5
+5943:fly out
+5943:give 1426 s393 5
+5943:fly out
+5943:give 1426 s393 5
+5943:fly out
+5943:give 1426 s393 5
+5943:fly out
+5943:give 1426 s393 0 85
+5943:fly out
+5943:fly out
+5943:fly out
+5943:fly n
+5943:fly n
+5943:fly n
+5943:fly n
+5943:fly n
+5943:fly n
+5943:fly db71
+5943:fly w
+5943:fly w
+5943:fly db69
+5943:sell s393 27 138 0 1
+5943:buy d378 0
+5943:buy 128357 40 15 0 1
+5943:buy 109393 1 30 0 1
+5943:fly d83 in
+5943:sail up
+5943:give 6183 s393 0
+5943:give 6183 c401 0
+5943:give 6183 131873 0
+5943:get 6183 109393 0
+5943:get 6183 d378 0
+5943:get 6183 128357 0
+5943:give 6183 1 6000
+5943:give 6183 d378 0 150
+5943:give 6183 128357 0 200
+5943:fly out
+5943:give 6183 d378 5
+5943:give 6183 128357 5
+5943:give s553 114360 0
+5943:give s553 109393 0
+5943:give s553 1 0 2000
+5943:give s553 54 0 5
+5943:give 6183 d378 5
+5943:give 6183 128357 5
+5943:fly out
+5943:give 6183 d378 5
+5943:give 6183 128357 5
+5943:fly out
+5943:give 6183 d378 5
+5943:give 6183 128357 5
+5943:fly out
+5943:give 6183 d378 15
+5943:give 6183 128357 15
+5943:fly out
+5943:fly out
+5943:fly e
+5943:fly e
+5943:fly db71
+5943:fly s
+5943:fly s
+5943:fly s
+5943:fly s
+5943:fly s
+5943:fly s
+5943:fly dj71
+5943:sell 128357 40 72 0 1
+5943:sell d378 39 173 0 1
+5943:buy s393 27 37 0 1
+5943:buy c401 1 91 0 1
+5943:buy 131873 1 42 0 1
+5943:fly x40 in
+5943:contact bh3 cb5 db7 df7 et5 fc3
+5943:contact gk5 hd3 mm9 nn3 ny7 ps4
+5943:contact qb2 qn5 qy4 rq7 rr7 sz5
+5943:contact ta8 tj7 tp2 tr5 ug3 uh5
+5943:contact vy5 xy3 yf7 Yg9 ym3 yv5
+5943:contact zy6
+5943:accept 0 0
+6451:stop
+6451:contact cb5 df7  et5
+6451:contact fc3   mm9 mv9  ps4 qn5
+6451:contact qb2  qy4  rq7  rr7 sz5 tj7 tp2  ug3 uh5
+6451:contact yf7 yg9 yv5   zy6
+6451:accept 0 0
+6451:sail e
+6451:name n056 "heal potion"
+6451:name w364 "heal potion"
+6451:give 6890 22 0
+6451:give 6890 13 0
+6451:get 6890 12 30
+6451:get 6890 72 30
+6451:train 13 29
+6451:give 6890 13 0
+6451:train 13 0
+6451:give 6890 22 0
+6451:use 614
+6451:use 614
+6451:use 615
+6451:use 615
+6451:use 615
+6451:use 615
+7440:stop
+7440:contact cb5 df7  et5
+7440:contact fc3   mm9 mv9  ps4 qn5
+7440:contact qb2  qy4  rq7  rr7 sz5 tj7 tp2  ug3 uh5
+7440:contact yf7 yg9 yv5   zy6
+7440:accept 0 0
+7440:sail e
+7440:give 4972 63 0
+7440:move g34
+7440:move out
+7440:recruit
+7440:move g34
+7440:recruit
+7440:move 6160
+7440:stack 6890
+7440:train 12 5
+7440:give 6890 12 0
+7440:give 6890 10 0
+7440:seek
+7440:use 615
+7440:use 615
+68748:give 6890 281 0
+68748:get 6890 281 3
+68748:breed 281 281
+68748:give 6890 281 0
+68748:get 6890 281 3
+68748:breed 281 281
+68748:give 6890 281 0
+68748:get 6890 281 3
+68748:breed 281 281
+68748:give 6890 281 0
+68748:breed 54 54
+68748:breed 54 54
+68748:breed 54 54
+68748:give 4972 54 0 9
+68748:breed 54 54
+68748:breed 54 54
+68748:breed 54 54
+68748:breed 54 54
+9854:stop
+9854:contact fc3 mm9 mv9  ps4 qn5
+9854:contact qb2 qy4 rq7 rr7 sz5 tj7 tj9 tp2  ug3 uh5
+9854:contact vw3 vw5 yf7 yg9 yv5  zy6
+9854:buy f819 0
+9854:buy r734 26 18
+9854:give 130494 80477 0
+9854:sail up
+9854:use 614
+9854:use 616
+9854:use 616
+9854:use 614
+9854:buy r734 0
+9854:buy f819 0
+9854:seek
+9854:seek
+9854:seek
+6411:move cb02
+6411:explore
+6411:explore
+6411:explore
+6411:explore
+6411:explore
+6411:explore
+6411:explore
+6411:explore
+7441:stop
+7441:pledge 9394
+7441:contact fc3 yv5 ug3
+7441:give 6890 12 0
+7441:give 6890 13 0
+7441:give 6890 18 0
+7441:give 6890 72 0
+7441:give 6890 22 0
+7441:make 18 1
+7441:give 6890 18 0
+7441:get 6890 10 28
+7441:get 6890 72 15
+7441:train 12 27
+7441:give 6890 12 0
+7441:train 12 1
+7441:give 6890 12 0
+7441:train 13 14
+7441:give 6890 13 0
+7441:train 13 0
+7441:give 6890 22 0
+7441:use 615
+7441:use 614
+7441:use 615
+7441:use 615
+77562:contact cb5 df7  et5
+77562:contact fc3   mm9 mv9  ps4 qn5
+77562:contact qb2  qy4  rq7  rr7 sz5 tj7 tp2  ug3 uh5
+77562:contact yf7 yg9 yv5   zy6
+77562:accept 0 0
+77562:sell t999 0
+77562:sell f819 47 72 0 1
+77562:sell r734 26 108 0 1
+77562:sail e
+77562:move 5895
+77562:give p880 1 7000 6000
+77562:give w449 g448 0
+77562:move s40
+77562:contact cb5 df7  et5
+77562:contact fc3   mm9 mv9  ps4 qn5
+77562:contact qb2  qy4  rq7  rr7 sz5 tj7 tp2  ug3 uh5
+77562:contact yf7 yg9 yv5   zy6
+77562:accept 0 0
+77562:use 732
+77562:use 614
+77562:sell t999 0
+77562:sell f819 0
+77562:sell r734 0
+77562:drop t999 0
+77562:use 615
+77562:use 614
+77562:seek
+9828:fly cv61
+9828:buy f819 0
+9828:buy r734 26 18 0 1
+9828:fly h62
+9828:contact fc3 mm9 mv9 ps4 qn5
+9828:contact qb2 qy4 rq7 rr7 sz5 ug3 uh5
+9828:contact yf7 yg9 yv5 zy6
+9828:sail e
+9828:give 9854 1 0
+9828:give 9854 b708 0
+9828:get 9854 1 0 4000
+9828:get 9854 r734 0
+9828:get 9854 f819 0
+9828:give 130494 80477 0
+9828:give 9854 80477 0
+9828:fly out
+9828:give 9854 f819 0 60
+9828:fly out
+9828:give 9854 f819 5
+9828:fly out
+9828:give 9854 f819 5
+9828:fly out
+9828:give 9854 f819 5
+9828:buy f819 0
+9828:fly e
+9828:fly s
+9828:fly e
+9828:fly e
+9828:fly e
+9828:fly e
+9828:fly e
+9828:fly e
+9828:fly cw68
+9828:sell r734 26 108 0 1
+9828:sell t999 0
+9828:sell f819 47 72 0 1
+9828:fly s40
+9828:sail e
+9828:get x562 1 2000
+9828:give x562 1 0 6000
+9828:get x562 54 0
+9828:give x562 128742 0
+9828:give x562  f819 0
+9828:give x562 x390 0
+9828:give x562 r734 0
+9828:get x562 80477 0
+9828:fly out
+9828:sell t999 0
+9828:sell f819 0
+9828:fly out
+9828:fly w
+9828:fly w
+9828:fly w
+9828:fly w
+9828:fly w
+9828:fly w
+9828:fly n
+9828:fly w
+9828:fly cv61
+5042:contact bh3 cb5 db7 df7 et5 fc3
+5042:contact gk5 hd3 mm9 nn3 ny7 ps4
+5042:contact qb2 qn5 qy4 rq7 rr7 sz5
+5042:contact ta8 tj7 tp2 tr5 ug3 uh5
+5042:contact vy5 xy3 yf7 Yg9 ym3 yv5
+5042:contact zy6
+5042:accept 0 0
+5042:sail e
+5042:fly e
+5042:fly e
+5042:fly e
+5042:fly e
+5042:fly e
+5042:fly cb61
+5042:fly g34
+5042:fly 6160
+5042:stack 4972
+5042:use 614
+5042:use 615
+5042:give 128732 1 0 6000
+5042:give 128732 v183 0
+5042:give 128732 s552 0
+5042:give 128732 z528 0
+5042:give 128732 83907 0
+5042:give 128732 108100 0
+5042:give 128732 149639 0
+5042:give 128732 54 0 5
+5042:give 128732 q996 0
+5042:give 128732 133350 0
+5042:give 128732 147211 0
+5042:give 128732 z405 0
+5042:give 128732 88994 0
+5042:give 128732 88271 0
+5042:give 128732 89714 0
+5042:seek
+5042:seek
+5042:seek
+5042:seek
+5042:seek
+5042:seek
+5042:give garrison 1 0 6000
+5042:give garrison v183 0
+5042:give garrison s552 0
+5042:give garrison z528 0
+5042:give garrison 83907 0
+5042:give garrison 108100 0
+5042:give garrison 149639 0
+5042:get garrison q996 0
+5042:get garrison 133350 0
+5042:get garrison 147211 0
+5042:get garrison z405 0
+5042:get garrison 88994 0
+5042:get garrison 88271 0
+5042:get garrison 89714 0
+5042:give 84379 q996 0 60
+5042:give 84379 133350 0 78
+5042:fly cm48
+5042:give 84379 q996 0 60
+5042:give 84379 133350 0 78
+5042:fly cm48
+5042:give 84379 q996 0 40
+5042:give 84379 133350 0 60
+5042:fly cm48
+5042:fly w
+5042:fly cm47
+5042:sell z405 0
+5042:sell 88994 0
+5042:sell 88271 41 60 0 1
+5042:buy a667 28 18 0 1
+5042:buy 108100 1 65 0 1
+5042:buy 149639 1 146 0 1
+5042:fly t63 in
+5042:contact bh3 cb5 db7 df7 et5 fc3
+5042:contact gk5 hd3 mm9 nn3 ny7 ps4
+5042:contact qb2 qn5 qy4 rq7 rr7 sz5
+5042:contact ta8 tj7 tp2 tr5 ug3 uh5
+5042:contact vy5 xy3 yf7 Yg9 ym3 yv5
+5042:contact zy6
+5042:accept 0 0
+5042:sail up
+5042:give 146214 z405 0
+5042:give 146214 88994 0
+5042:give 146214 1 600
+5042:give 146214 88271 0
+5042:fly out
+5042:fly out
+5042:give garrison z405 0
+5042:give garrison 88994 0
+5042:sell z405 0
+5042:sell 88994 0
+5042:sell 88271 0
+5042:buy a667 0
+5042:fly w
+5042:fly cm46
+5042:sell 133350 39 172
+5042:sell q996 30 130
+5042:sell 89714 31 97 0 1
+5042:buy s552 48 110
+5042:buy v183 3 15 0 1
+5042:fly n38 in
+5042:contact bh3 cb5 db7 df7 et5 fc3
+5042:contact gk5 hd3 mm9 nn3 ny7 ps4
+5042:contact qb2 qn5 qy4 rq7 rr7 sz5
+5042:contact ta8 tj7 tp2 tr5 ug3 uh5
+5042:contact vy5 xy3 yf7 Yg9 ym3 yv5
+5042:contact zy6
+5042:accept 0 0
+5042:sail up
+5042:give 149702 q996 0
+5042:give 149702 133350 0
+5042:give 149702 1 4000
+5042:give 149702 89714 0
+5042:fly out
+5042:fly out
+5042:sell 133350 0
+5042:sell q996 0
+5042:sell 89714 0
+5042:give garrison q996 0
+5042:give garrison 133350 0
+5042:fly cm47
+5042:fly cm48
+5042:fly cm49
+54935:accept bh3 0
+54935:accept cb5 0
+54935:accept db7 0
+54935:accept df7 0
+54935:accept et5 0
+54935:accept fc3 0
+54935:accept gk5 0
+54935:accept hd3 0
+54935:accept mm9 0
+54935:accept nn3 0
+54935:accept ny7 0
+54935:accept ps4 0
+54935:accept qb2 0
+54935:accept qn5 0
+54935:accept qy4 0
+54935:accept rq7 0
+54935:accept rr7 0
+54935:accept sz5 0
+54935:accept ta8 0
+54935:accept tj7 0
+54935:accept tp2 0
+54935:accept tr5 0
+54935:accept ug3 0
+54935:accept uh5 0
+54935:accept vy5 0
+54935:accept xy3 0
+54935:accept yf7 0
+54935:accept Yg9 0
+54935:accept ym3 0
+54935:accept yv5 0
+54935:accept zy6 0
+68083:unstack
+68083:get 6890 1 100
+68083:study 611
+68083:study 611
+68083:get 6890 282 2
+68083:breed 282 282
+68083:give 6890 282 0
+68083:get 6890 282 2
+68083:breed 282 282
+68083:give 6890 282 0
+68083:get 6890 282 2
+68083:breed 282 282
+68083:give 6890 282 0
+71540:unstack
+71540:get 6890 1 100
+71540:study 611
+71540:study 611
+71540:get 6890 282 2
+71540:breed 282 282
+71540:give 6890 282 0
+71540:get 6890 282 2
+71540:breed 282 282
+71540:give 6890 282 0
+71540:get 6890 282 2
+71540:breed 282 282
+71540:give 6890 282 0
+68556:unstack
+68556:get 6890 1 100
+68556:study 611
+68556:study 611
+68556:get 6890 282 2
+68556:breed 282 282
+68556:give 6890 282 0
+68556:get 6890 282 2
+68556:breed 282 282
+68556:give 6890 282 0
+68556:get 6890 282 2
+68556:breed 282 282
+68556:give 6890 282 0
+6183:stop
+6183:sell s393 27 138 0 1
+6183:buy d378 0
+6183:buy 128357 0
+6183:buy 114360 1 13 0 1
+6183:buy 109393 1 30 0 1
+6183:use 733 131873
+6183:buy d378 0
+6183:buy 128357 0
+6183:sell s393 0
+6183:explore
+6183:explore
+6183:explore
+6183:seek

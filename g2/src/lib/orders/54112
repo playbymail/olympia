@@ -1,0 +1,147 @@
+79021:wait item 96757 62
+79021:move out
+79021:move e
+79021:move e
+79021:move e
+79021:move e
+79021:move e
+79021:move e
+79021:move e
+79021:move e
+79021:move in
+1143:wait loc p44
+1143:form f129 "Steele Breeder"
+1143:form 106047 "Steele Breeder IV"
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+1143:breed 282 282
+68067:behind 5
+68067:give 1143 282 0 5
+68067:give 1143 271 0
+68067:move out
+68067:form v901 "Steele Breeder II"
+68067:form c258 "Steele Breeder III"
+68067:give 8721 54 3
+68067:wait not stack 106047
+68067:wait not stack c258
+68067:attack v596
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+68067:breed 282 282
+63030:wait loc at34
+63030:recruit 10
+63030:train 12
+63030:breed 282 282
+63030:breed 282 282
+63030:breed 282 282
+63030:breed 282 282
+63030:breed 282 282
+129401:move w
+129401:move w
+129401:move w
+129401:move w
+129401:move w
+129401:move w
+129401:move in
+137146:move e
+137146:move e
+137146:move e
+137146:move e
+137146:move in
+137146:stack garrison
+65969:fly e
+65969:explore
+65969:explore
+65969:fly e
+65969:explore
+65969:explore
+73707:explore
+73707:move w n
+73707:explore
+73707:explore
+73707:move w n
+73707:explore
+73707:explore
+73603:stop
+73603:fly w
+73603:use 862
+73603:fly n
+73603:use 862
+73603:study 800
+73603:study 800
+63456:move e
+63456:train 12
+63456:move k937
+63456:give f030 12 0
+63456:quest
+63456:quest
+63129:get m067 1 2000
+63129:unstack
+63129:study 610
+63129:study 610
+61258:get m067 1 2000
+61258:unstack
+61258:study 610
+61258:study 610
+75901:get m067 1 2000
+75901:unstack
+75901:study 610
+75901:study 610
+106047:get m067 1 2000
+106047:unstack
+106047:study 610
+106047:study 610
+66607:study 611
+66607:study 611
+66607:seek
+66607:seek
+54112:accept 0 0
+54112:rumor 0
+54112:Yvengi is a louse
+54112:end
+59646:move out
+59646:move out
+59646:move s
+59646:move w
+59646:recruit 10
+59646:train 11
+59646:quarry
+59646:move e
+59646:move n
+59646:move r92
+59646:build tower "PS 1"
+78789:attack 8527
+78789:use 722
+78789:use 723
+78789:repair
+78789:move out
+78789:execute

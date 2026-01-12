@@ -1,0 +1,48 @@
+Beating drums actually calls savages into existence.  (!)
+	1-3 stacks, randomly
+	in adjacent unoccupied provinces
+
+Call wild men
+	- constructs drum first if you don't have one
+	- same as use <drum> 1
+	- use drum 0 is a war challenge (!)
+
+
+Describe savages in rules
+	mention that they use a system of drumbeats to communicate
+	covers call-to-arms, war challenge, and victory
+
+victory in combat: fast beat
+
+Ways of the wild men
+Induce loyalty of wild men
+
+Constructs a drum
+
+
+
+if stacked under a savage,
+	do nothing.
+
+if in a structure,
+	issue RAZE.
+
+if there is an inn/castle/tower/ship/temple here,
+{
+	if empty,
+		enter,
+		issue RAZE.
+
+	if human-occupied,
+		beat drums to summon others,
+		sav_wait,
+		attack structure.
+}
+
+if a savage is beating drums nearby (or here),
+	move to same location,
+	stack under him.
+
+unstack any savages beneath,
+move randomly.
+

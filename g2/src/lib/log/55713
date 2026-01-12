@@ -1,0 +1,1091 @@
+16248:0::0:0:Garrison~[1823], garrison, with 20~soldiers guards Sea of Grass~[dc48].
+16349:0::0:0:Garrison~[2288], garrison, with 20~soldiers guards Desert~[dd49].
+16145:0::0:0:Garrison~[3586], garrison, with ten~soldiers guards Mount Vindamar~[db45].
+16348:0::0:0:Garrison~[3844], garrison, with 20~soldiers guards Desert~[dd48].
+16149:0::0:0:Garrison~[3873], garrison, with 25~soldiers guards Cemetery Wood~[db49].
+16049:0::0:0:Garrison~[4191], garrison, with 15~soldiers guards Delzoun~[da49].
+58351:0::0:0:Garrison~[4571], garrison, with 119~pikemen guards Sudshire~[t91].
+16148:0::0:0:Garrison~[4961], garrison, with eight~workers, four~pikemen, 41~soldiers, four~centaurs, three~giant lizards, two~wolves guards Sea of Grass~[db48].
+16245:0::0:0:Garrison~[5040], garrison, with ten~soldiers guards Elven Forest~[dc45].
+58502:0::0:0:Garrison~[5290], garrison, with 116~pikemen guards Cleanbones~[w42].
+16247:0::0:0:Garrison~[5342], garrison, with 20~soldiers guards Forest~[dc47].
+16249:0::0:0:Garrison~[5425], garrison, with 20~soldiers guards Mount Archibald~[dc49].
+57541:0::0:0:Garrison~[5511], garrison, with 129~pikemen guards Sudshire South~[j81].
+16146:0::0:0:Garrison~[5946], garrison, with 19~soldiers guards Elven Forest~[db46].
+16343:0::0:0:Garrison~[7529], garrison, with ten~soldiers, five~workers guards Darkwood~[dd43].
+16046:0::0:0:Garrison~[7700], garrison, with 15~soldiers, ten~workers guards Elven Forest~[da46].
+16044:0::0:0:Garrison~[7715], garrison, with ten~soldiers guards Little Desert~[da44].
+16045:0::0:0:Garrison~[8514], garrison, with 20~soldiers, five~workers guards Elven Forest~[da45].
+16147:0::0:0:Garrison~[8873], garrison, with 38~soldiers, 32~peasants, 30~workers guards Skeleton Swamp~[db47].
+16243:0::0:0:Garrison~[a167], garrison, with ten~soldiers, seven~workers guards Darkwood~[dc43].
+16344:0::0:0:Garrison~[c962], garrison, with 20~soldiers guards Darkwood~[dd44].
+16246:0::0:0:Garrison~[d018], garrison, with 20~soldiers guards Forest~[dc46].
+16347:0::0:0:Garrison~[d772], garrison, with ten~soldiers guards Mountain~[dd47].
+16346:0::0:0:Garrison~[h113], garrison, with 20~soldiers guards Mountain~[dd46].
+16345:0::0:0:Garrison~[h689], garrison, with ten~soldiers guards Swamp~[dd45].
+16244:0::0:0:Garrison~[k921], garrison, with ten~soldiers guards The Spider Meadows~[dc44].
+16047:0::0:0:Garrison~[r317], garrison, with 20~soldiers, five~workers guards Mount Arden~[da47].
+16144:0::0:0:Garrison~[84066], garrison, with ten~soldiers, 20~workers, one~peasant guards The Azure Forest~[db44].
+16048:0::0:0:Garrison~[85542], garrison, with 30~soldiers guards Sea of Grass - Sudshire~[da48].
+16043:0::0:0:Garrison~[114866], garrison, with 20~soldiers, ten~workers guards Forest~[da43].
+16143:0::0:0:Garrison~[132182], garrison, with ten~soldiers, ten~workers, 16~pikemen guards The Black Mountains~[db43].
+58351:0::0:1:Sudshire~[t91] bought 43~beans~[p599] for 2,451~gold.
+58351:0::0:1:Sudshire~[t91] sold 32~pipeweed~[v053] for 1,024~gold.
+16247:0::0:4:It has begun to rain.
+16049:0::0:4:It has begun to rain.
+16143:0::0:21:It has begun to rain.
+16246:0::0:21:It has begun to rain.
+16145:0::0:21:It has begun to rain.
+16244:0::0:21:It has begun to rain.
+16345:0::0:21:It has begun to rain.
+16343:0::0:26:It has begun to rain.
+16045:0::0:26:It has begun to rain.
+16048:0::0:26:It has begun to rain.
+16344:0::0:26:It has begun to rain.
+16243:0::0:26:It has begun to rain.
+6:0:1823:0:30:Paid maintenance of 40~gold.
+6:0:2288:0:30:Paid maintenance of 40~gold.
+6:0:3586:0:30:Paid maintenance of 20~gold.
+6:0:3844:0:30:Paid maintenance of 40~gold.
+6:0:3873:0:30:Paid maintenance of 50~gold.
+6:0:4191:0:30:Paid maintenance of 30~gold.
+6:0:5040:0:30:Paid maintenance of 20~gold.
+6:0:5342:0:30:Paid maintenance of 40~gold.
+6:0:5425:0:30:Paid maintenance of 40~gold.
+6:0:5946:0:30:Paid maintenance of 38~gold.
+6:0:7529:0:30:Paid maintenance of 30~gold.
+6:0:7700:0:30:Paid maintenance of 50~gold.
+6:0:7715:0:30:Paid maintenance of 20~gold.
+6:0:8514:0:30:Paid maintenance of 50~gold.
+6:0:a167:0:30:Paid maintenance of 34~gold.
+6:0:c962:0:30:Paid maintenance of 40~gold.
+6:0:d018:0:30:Paid maintenance of 40~gold.
+6:0:d772:0:30:Paid maintenance of 20~gold.
+6:0:h113:0:30:Paid maintenance of 40~gold.
+6:0:h689:0:30:Paid maintenance of 20~gold.
+6:0:k921:0:30:Paid maintenance of 20~gold.
+6:0:r317:0:30:Paid maintenance of 50~gold.
+6:0:84066:0:30:Paid maintenance of 61~gold.
+6:0:85542:0:30:Paid maintenance of 60~gold.
+6:0:114866:0:30:Paid maintenance of 60~gold.
+6:0:132182:0:30:Paid maintenance of 88~gold.
+60647:0::0:30:Collected 323~gold from owned provinces.
+60647:0::0:30:Collected 194~gold in taxes.
+60647:0::0:30:Paid maintenance of 413~gold.
+62579:0::0:30:Paid maintenance of 8~gold.
+16147:0::0:30:It has stopped raining.
+16144:0::0:30:It has stopped raining.
+16148:0::0:30:It has stopped raining.
+16045:0::0::
+16045:0::0::Province controlled by Castle Diabolicus Nox~[m458], castle, in The Azure Forest~[db44]
+16045:0::0::Ruled by Angus MacMurray~[b647], count
+16045:0::0::
+16045:0::0::Routes leaving Elven Forest: 
+16045:0::3::North, mountain, to Blood Mount~[cz45], 10~days
+16045:0::3::East, forest, to Elven Forest~[da46], 8~days
+16045:0::3::South, mountain, to Mount Vindamar~[db45], 10~days
+16045:0::3::West, desert, to Little Desert~[da44], 8~days
+16045:0::0::
+16045:0::0::Inner locations:
+16045:0::3::Field of Bones~[p315], battlefield, 1 day
+16045:0::0::
+16045:0::0::It is raining.
+16045:0::0::
+16045:0::0::Seen here:
+16045:0::0/3::   Garrison~[8514], garrison, on guard, with 20~soldiers, five~workers
+16045:0::0/3:: * Muldune MacMurray~[d015], with seven~riding horses, ten~oxen
+16047:0::0::
+16047:0::0::Province controlled by Castle Diabolicus Nox~[m458], castle, in The Azure Forest~[db44]
+16047:0::0::Ruled by Angus MacMurray~[b647], count
+16047:0::0::
+16047:0::0::Routes leaving Mount Arden: 
+16047:0::3::North, to Swamp~[cz47], 14~days
+16047:0::3::East, plain, to Sea of Grass - Sudshire~[da48], 7~days
+16047:0::3::South, swamp, to Skeleton Swamp~[db47], 14~days
+16047:0::3::West, forest, to Elven Forest~[da46], 8~days
+16047:0::0::
+16047:0::0::Inner locations:
+16047:0::3::Elven Grove~[f006], yew grove, 1 day
+16047:0::3::Kerek's Stand~[n292], yew grove, 1 day
+16047:0::0::
+16047:0::0::It is raining.
+16047:0::0::
+16047:0::0::Seen here:
+16047:0::0/3::   Garrison~[r317], garrison, on guard, with 20~soldiers, five~workers
+16047:0::0/3:: * Kerry MacMurray~[t625], with three~riding horses
+16048:0::0::
+16048:0::0::Province controlled by Castle Diabolicus Nox~[m458], castle, in The Azure Forest~[db44]
+16048:0::0::Ruled by Angus MacMurray~[b647], count
+16048:0::0::
+16048:0::0::Routes leaving Sea of Grass - Sudshire: 
+16048:0::3::North, desert, to Stallion Steppes~[cz48], 8~days
+16048:0::3::East, plain, to Delzoun~[da49], 7~days
+16048:0::3::South, plain, to Sea of Grass~[db48], 7~days
+16048:0::3::West, mountain, to Mount Arden~[da47], 10~days
+16048:0::0::
+16048:0::0::Inner locations:
+16048:0::3::Sudshire~[t91], city, 1 day
+16048:0::3::Khamath's Run~[p421], pasture, 1 day
+16048:0::3::Field of Dreams~[t635], poppy field, 1 day
+16048:0::0::
+16048:0::0::It is raining.
+16048:0::0::
+16048:0::0::Seen here:
+16048:0::0/3::   Garrison~[85542], garrison, on guard, with 30~soldiers
+16144:0::0::
+16144:0::0::Province controlled by Castle Diabolicus Nox~[m458], castle, in The Azure Forest~[db44]
+16144:0::0::Ruled by Angus MacMurray~[b647], count
+16144:0::0::
+16144:0::0::Routes leaving The Azure Forest: 
+16144:0::3::North, desert, to Little Desert~[da44], 8~days
+16144:0::3::East, mountain, to Mount Vindamar~[db45], 10~days
+16144:0::3::South, plain, to The Spider Meadows~[dc44], 7~days
+16144:0::3::West, mountain, to The Black Mountains~[db43], 10~days
+16144:0::0::
+16144:0::0::Inner locations:
+16144:0::3::Azure City~[n95], city, 1 day
+16144:0::0::
+16144:0::0::Seen here:
+16144:0::0/3::   Garrison~[84066], garrison, on guard, with ten~soldiers, 20~workers, one~peasant
+16147:0::0::
+16147:0::0::Routes leaving Skeleton Swamp: 
+16147:0::3::North, mountain, to Mount Arden~[da47], 10~days
+16147:0::3::East, plain, to Sea of Grass~[db48], 7~days
+16147:0::3::South, to Forest~[dc47], 8~days
+16147:0::3::West, forest, to Elven Forest~[db46], 8~days
+16147:0::0::
+16147:0::0::Inner locations:
+16147:0::3::Cleanbones~[w42], city, 1 day
+16147:0::0::
+16147:0::0::Seen here:
+16147:0::0/3::   Garrison~[8873], garrison, on guard, with 38~soldiers, 32~peasants, 30~workers
+16148:0::0::
+16148:0::0::Routes leaving Sea of Grass: 
+16148:0::3::North, plain, to Sea of Grass - Sudshire~[da48], 7~days
+16148:0::3::East, forest, to Cemetery Wood~[db49], 8~days
+16148:0::3::South, plain, to Sea of Grass~[dc48], 7~days
+16148:0::3::West, swamp, to Skeleton Swamp~[db47], 14~days
+16148:0::0::
+16148:0::0::Inner locations:
+16148:0::3::Sudshire South~[j81], city, 1 day
+16148:0::3::Grove of the Unicorn~[f293], sacred grove, 1 day
+16148:0::0::
+16148:0::0::Seen here:
+16148:0::0/3::   Garrison~[4961], garrison, on guard, with eight~workers, four~pikemen, 41~soldiers, four~centaurs, three~giant lizards, two~wolves
+57541:0::0::
+57541:0::0::Routes leaving Sudshire South: 
+57541:0::3::Out, plain, to Sea of Grass~[db48], 1~day
+57541:0::0::
+57541:0::0::Cities rumored to be nearby:
+57541:0::3::Albrand~[r45], in Twilight zone~[dc51]
+57541:0::3::Greton~[r79], in Kastrian Forest~[da52]
+57541:0::3::Sudshire~[t91], in Sea of Grass - Sudshire~[da48]
+57541:0::3::Cleanbones~[w42], in Skeleton Swamp~[db47]
+57541:0::0::
+57541:0::0::Skills taught here:
+57541:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Construction~[680], Trade~[730], Magic~[800], Weather magic~[820]
+57541:0::0::
+57541:0::0::Market report:
+57541:0::3::
+57541:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57541:0::3::-----    ---   -----    ---     -----   ----                     
+57541:0::3::  buy    j81      77     50        55   cinnabar~[130987]        
+57541:0::3::  buy    j81      70     43       100   beans~[v886]             
+57541:0::3::  buy    j81       7      9         5   clay pots~[95]           
+57541:0::3:: sell    j81      12     49        16   pepper~[m870]            
+57541:0::3:: sell    j81     130     37       100   jade~[87380]             
+57541:0::3:: sell    j81     110      3     1,000   riding horses~[52]       
+57541:0::3:: sell    j81     100      5     2,000   oxen~[76]                
+57541:0::3:: sell    j81      11     48       100   salt~[n011]              
+57541:0::0::
+57541:0::0::Seen here:
+57541:0::0/3::   Garrison~[5511], garrison, on guard, with 129~pikemen, accompanied~by:
+57541:0::0/6::      Orc~[130236], orc, with one~riding horse
+57541:0::0/3:: * Thomas MacMurray~[d579], "{<i>}a trader of Zidon{</i>}", with eight~peasants, three~riding horses
+57855:0::0::
+57855:0::0::Routes leaving Azure City: 
+57855:0::3::Out, forest, to The Azure Forest~[db44], 1~day
+57855:0::0::
+57855:0::0::Cities rumored to be nearby:
+57855:0::3::T'ien Fu~[v49], in Province of Shao-Lin~[db39]
+57855:0::3::Cleanbones~[w42], in Skeleton Swamp~[db47]
+57855:0::0::
+57855:0::0::Skills taught here:
+57855:0::3::Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Weather magic~[820]
+57855:0::0::
+57855:0::0::Market report:
+57855:0::3::
+57855:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57855:0::3::-----    ---   -----    ---     -----   ----                     
+57855:0::3::  buy    n95     127      4        50   hides~[99]               
+57855:0::3::  buy    n95     176     27        75   ochre~[a588]             
+57855:0::3::  buy    n95       7      9         5   clay pots~[95]           
+57855:0::3:: sell    n95      45     41        65   plum wine~[t150]         
+57855:0::3:: sell    n95     100     48       100   jade~[f813]              
+57855:0::3:: sell    n95      13     25        30   wood~[77]                
+57855:0::0::
+57855:0::0::Inner locations:
+57855:0::3::Castle Diabolicus Nox~[m458], castle, defense~80, level~6, owner:
+57855:0::0/6:: *    Angus MacMurray~[b647], count, with 14~peasants, 93~pikemen, 38~blessed soldiers, three~crossbowmen
+57855:0::6::Pect de NOX~[123804], tower, defense~40
+57855:0::3::Temple of Tae Clown Do~[4565], temple, defense~10
+57855:0::0::
+57855:0::0::Seen here:
+57855:0::0/3:: * Galen MacMurray~[101741]
+58351:0::0::
+58351:0::0::Routes leaving Sudshire: 
+58351:0::3::Out, plain, to Sea of Grass - Sudshire~[da48], 1~day
+58351:0::0::
+58351:0::0::Cities rumored to be nearby:
+58351:0::3::Sudshire South~[j81], in Sea of Grass~[db48]
+58351:0::3::Albrand~[r45], in Twilight zone~[dc51]
+58351:0::3::Greton~[r79], in Kastrian Forest~[da52]
+58351:0::3::Cleanbones~[w42], in Skeleton Swamp~[db47]
+58351:0::0::
+58351:0::0::Skills taught here:
+58351:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Construction~[680], Alchemy~[690], Trade~[730], Magic~[800]
+58351:0::0::
+58351:0::0::Market report:
+58351:0::3::
+58351:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58351:0::3::-----    ---   -----    ---     -----   ----                     
+58351:0::3::  buy    t91      84      6       100   salt~[r479]              
+58351:0::3::  buy    t91       7      9         5   clay pots~[95]           
+58351:0::3::  buy    t91     195     28       100   purple cloth~[s124]      
+58351:0::3::  buy    t91     111     28       100   oranges~[130785]         
+58351:0::3::  buy    t91      57     43       100   beans~[p599]             
+58351:0::3:: sell 119379       5     20         1   woven baskets~[94]       
+58351:0::3:: sell    t91     115      2     1,000   riding horses~[52]       
+58351:0::3:: sell    t91      52     47        28   myrrh~[k563]             
+58351:0::3:: sell    t91     100      5     2,000   oxen~[76]                
+58351:0::3:: sell    t91      15     37        27   saffron~[s817]           
+58351:0::3:: sell    t91      30     41        65   plum wine~[129540]       
+58351:0::3:: sell    t91       1     50        10   lead~[102]               
+58351:0::3:: sell    t91      30     49        65   plum wine~[d102]         
+58351:0::3:: sell    t91      32     32        62   pipeweed~[v053]          
+58351:0::0::
+58351:0::0::Inner locations:
+58351:0::3::Temple of Tae Clown Do~[5284], temple, defense~10
+58351:0::3::Tower of Petals Falling~[k189], tower, defense~40
+58351:0::3::New castle~[137096], castle-in-progress, 3% completed
+58351:0::3::New~[7588], tower-in-progress, 0% completed
+58351:0::0::
+58351:0::0::It is raining.
+58351:0::0::
+58351:0::0::Seen here:
+58351:0::0/3::   Garrison~[4571], garrison, on guard, with 119~pikemen, accompanied~by:
+58351:0::0/6::      Skeleton~[124832], skeleton
+58351:0::0/3:: * Brandon MacMurray~[134183], with 47~centaurs, accompanied~by:
+58351:0::0/6:: *    Sean MacMurray~[119379]
+58351:0::0/3:: * Craig MacMurray~[s443], with 13~centaurs
+58502:0::0::
+58502:0::0::Routes leaving Cleanbones: 
+58502:0::3::Out, swamp, to Skeleton Swamp~[db47], 1~day
+58502:0::0::
+58502:0::0::Cities rumored to be nearby:
+58502:0::3::Sudshire South~[j81], in Sea of Grass~[db48]
+58502:0::3::Albrand~[r45], in Twilight zone~[dc51]
+58502:0::3::Sudshire~[t91], in Sea of Grass - Sudshire~[da48]
+58502:0::0::
+58502:0::0::Skills taught here:
+58502:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Alchemy~[690], Magic~[800]
+58502:0::0::
+58502:0::0::Market report:
+58502:0::3::
+58502:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58502:0::3::-----    ---   -----    ---     -----   ----                     
+58502:0::3::  buy    w42       4     15         1   woven baskets~[94]       
+58502:0::3:: sell    w42       1     50        10   lead~[102]               
+58502:0::3:: sell    w42      36     30        65   plum wine~[n641]         
+58502:0::3:: sell    w42      44     41        28   myrrh~[x272]             
+58502:0::3:: sell    w42      11     34        50   soap~[84808]             
+58502:0::0::
+58502:0::0::Inner locations:
+58502:0::3::Bone Spire~[129082], tower, defense~40
+58502:0::0::
+58502:0::0::Seen here:
+58502:0::0/3::   Garrison~[5290], garrison, on guard, with 116~pikemen, accompanied~by:
+58502:0::0/6::      Barbarian~[143361], barbarian
+58502:0::0/3:: * Shawn MacMurray~[134963], with one~riding horse
+58502:0::0/3:: * Devilin MacMurray~[84244], with one~riding horse
+5:0::0::
+5:0::0::begin vz3 "power"  # Chaotic Order
+5:0::0::
+5:0::0::unit vz3  # Chaotic Order
+5:0::0::
+5:0::0::unit d015  # Muldune MacMurray in Elven Forest~[da45]
+5:0::0::
+5:0::0::unit t625  # Kerry MacMurray in Mount Arden~[da47]
+5:0::0::
+5:0::0::unit 134183  # Brandon MacMurray in Sudshire~[t91]
+5:0::0::
+5:0::0::unit 119379  # Sean MacMurray in Sudshire~[t91]
+5:0::0::
+5:0::0::unit s443  # Craig MacMurray in Sudshire~[t91]
+5:0::0::
+5:0::0::unit b647  # Angus MacMurray in Castle Diabolicus Nox~[m458]
+5:0::0::
+5:0::0::unit 101741  # Galen MacMurray in Azure City~[n95]
+5:0::0::
+5:0::0::unit 134963  # Shawn MacMurray in Cleanbones~[w42]
+5:0::0::
+5:0::0::unit 84244  # Devilin MacMurray in Cleanbones~[w42]
+5:0::0::
+5:0::0::unit d579  # Thomas MacMurray in Sudshire South~[j81]
+5:0::0::
+5:0::0::end
+55713:0::0::
+55713:0::0::Admit permissions:
+55713:0::0::
+55713:0::3::admit m458  pm8
+55713:0::0::
+55713:0::0::Declared attitudes:
+55713:0::3::defend   pm8  vg6  vy5  xy3 w837
+55713:0::0::
+55713:0::0::Unclaimed items:
+55713:0::0::
+55713:0::0::      qty  name                              weight
+55713:0::0::      ---  ----                              ------
+55713:0::0::    4,254  gold~[1]                               0  
+55713:0::0::       30  wood~[77]                            900  
+60647:0::3::
+60647:0::3/16::Location:       Castle Diabolicus Nox~[m458], in Azure City~[n95], in province The Azure Forest~[db44], in Provinia
+60647:0::3::Loyalty:        Oath-1
+60647:0::3::Health:         100%
+60647:0::3::Combat:         attack 247, defense 248, missile 259
+60647:0::3::                behind 9  (stay behind in combat)
+60647:0::3::Break point:    50%
+60647:0::3::
+60647:0::3::Skills known:
+60647:0::6::Combat~[610]
+60647:0::12::Defense~[614], grand master
+60647:0::12::Archery~[615], grand master
+60647:0::12::Swordplay~[616], grand master
+60647:0::12::Weaponsmithing~[617], apprentice
+60647:0::3::
+60647:0::3::Inventory:
+60647:0::3::{<b>}      qty  name                              weight{</b>}
+60647:0::3::      ---  ----                              ------
+60647:0::3::    9,731  gold~[1]                               0  
+60647:0::3::       14  peasants~[10]                      1,400  cap 1,400 (1,1,0)
+60647:0::3::       93  pikemen~[16]                       9,300  cap 9,300 (5,30,0)
+60647:0::3::       38  blessed soldiers~[17]              3,800  cap 3,800 (5,5,0)
+60647:0::3::        3  crossbowmen~[21]                     300  cap 300 (1,1,25)
+60647:0::3::       24  longbows~[72]                         72  
+60647:0::3::        9  plate armor~[73]                      45  
+60647:0::3::       18  longswords~[74]                       90  
+60647:0::3::      182  pikes~[75]                           910  
+60647:0::3::      302  wood~[77]                          9,060  
+60647:0::3::       26  iron~[79]                            260  
+60647:0::3::       31  crossbows~[85]                       310  
+60647:0::3::       91  woven baskets~[94]                    91  
+60647:0::3::      161  plum wine~[t150]                  10,465  
+60647:0::3::                                             ======
+60647:0::3::                                             36,103
+60647:0::3::
+60647:0::3/11::Capacity:  21,303/14,900 land (142%)
+60647:0::3::
+62015:0::3::
+62015:0::3/16::Location:       Elven Forest~[da45], in Provinia
+62015:0::3::Loyalty:        Oath-1
+62015:0::3::Health:         100%
+62015:0::3::Combat:         attack 103, defense 159, missile 137
+62015:0::3::                behind 9  (stay behind in combat)
+62015:0::3::Break point:    50%
+62015:0::3::
+62015:0::3::Skills known:
+62015:0::6::Combat~[610]
+62015:0::12::Defense~[614], adept
+62015:0::12::Archery~[615], adept
+62015:0::12::Swordplay~[616], apprentice
+62015:0::12::Weaponsmithing~[617], journeyman
+62015:0::6::Construction~[680]
+62015:0::6::Forestry~[700]
+62015:0::12::Harvest lumber~[702], adept
+62015:0::12::Harvest yew~[703], journeyman
+62015:0::3::
+62015:0::3::Inventory:
+62015:0::3::{<b>}      qty  name                              weight{</b>}
+62015:0::3::      ---  ----                              ------
+62015:0::3::        7  riding horses~[52]                 7,000  ride 1,050
+62015:0::3::       10  oxen~[76]                         20,000  cap 15,000
+62015:0::3::                                             ======
+62015:0::3::                                             27,000
+62015:0::3::
+62015:0::3/11::Capacity:  0/16,150 land (0%), 100/1,050 ride (9%)
+62015:0::3::
+62579:0::3::
+62579:0::3/16::Location:       Sudshire South~[j81], in province Sea of Grass~[db48], in Provinia
+62579:0::3::Loyalty:        Oath-1
+62579:0::3::Health:         100%
+62579:0::3::Combat:         attack 161, defense 185, missile 124
+62579:0::3::                behind 9  (stay behind in combat)
+62579:0::3::Break point:    50%
+62579:0::3::Banner:         a trader of Zidon
+62579:0::3::
+62579:0::3::Skills known:
+62579:0::6::Combat~[610]
+62579:0::12::Defense~[614], master
+62579:0::12::Archery~[615], master
+62579:0::12::Swordplay~[616], master
+62579:0::12::Weaponsmithing~[617], adept
+62579:0::6::Construction~[680]
+62579:0::6::Trade~[730]
+62579:0::12::Conceal identity of trader~[731], apprentice
+62579:0::12::Find tradegood for sale~[732], apprentice
+62579:0::3::
+62579:0::3::Inventory:
+62579:0::3::{<b>}      qty  name                              weight{</b>}
+62579:0::3::      ---  ----                              ------
+62579:0::3::      110  gold~[1]                               0  
+62579:0::3::        8  peasants~[10]                        800  cap 800 (1,1,0)
+62579:0::3::        3  riding horses~[52]                 3,000  ride 450
+62579:0::3::                                             ======
+62579:0::3::                                              3,800
+62579:0::3::
+62579:0::3/11::Capacity:  0/1,350 land (0%), 900/450 ride (200%)
+62579:0::3::
+62579:0::3::Pending trades:
+62579:0::3::
+62579:0::6::trade    price    qty   item
+62579:0::6::-----    -----    ---   ----
+62579:0::6:: sell        7      5   clay pot~[95]
+62579:0::3::
+73443:0::3::
+73443:0::3/16::Location:       Sudshire~[t91], in province Sea of Grass - Sudshire~[da48], in Provinia
+73443:0::3::Loyalty:        Oath-1
+73443:0::3::Health:         100%
+73443:0::3::Combat:         attack 170, defense 191, missile 119
+73443:0::3::                behind 9  (stay behind in combat)
+73443:0::3::Break point:    50%
+73443:0::3::
+73443:0::3::Skills known:
+73443:0::6::Combat~[610]
+73443:0::12::Defense~[614], master
+73443:0::12::Archery~[615], master
+73443:0::12::Swordplay~[616], master
+73443:0::6::Beastmastery~[650]
+73443:0::12::Breed beasts~[654], journeyman
+73443:0::3::
+73443:0::3::Inventory:
+73443:0::3::{<b>}      qty  name                              weight{</b>}
+73443:0::3::      ---  ----                              ------
+73443:0::3::      332  stone~[78]                        33,200  
+73443:0::3::        3  clay pots~[95]                        15  
+73443:0::3::       13  centaurs~[271]                    13,000  ride 1,950 (30,30,0)
+73443:0::3::                                             ======
+73443:0::3::                                             46,215
+73443:0::3::
+73443:0::3/11::Capacity:  33,215/2,050 land (1620%), 33,315/1,950 ride (1708%)
+73443:0::3::
+74625:0::3::
+74625:0::3/16::Location:       Mount Arden~[da47], in Provinia
+74625:0::3::Loyalty:        Oath-1
+74625:0::3::Health:         100%
+74625:0::3::Combat:         attack 228, defense 261, missile 195
+74625:0::3::                behind 9  (stay behind in combat)
+74625:0::3::Break point:    50%
+74625:0::3::
+74625:0::3::Skills known:
+74625:0::6::Combat~[610]
+74625:0::12::Defense~[614], grand master
+74625:0::12::Archery~[615], grand master
+74625:0::12::Swordplay~[616], grand master
+74625:0::6::Construction~[680]
+74625:0::12::Stone quarrying~[682], grand master
+74625:0::6::Trade~[730]
+74625:0::12::Find tradegood for sale~[732], apprentice
+74625:0::12::Find market for tradegood~[733], apprentice
+74625:0::3::
+74625:0::3::Inventory:
+74625:0::3::{<b>}      qty  name                              weight{</b>}
+74625:0::3::      ---  ----                              ------
+74625:0::3::        1  gold~[1]                               0  
+74625:0::3::        3  riding horses~[52]                 3,000  ride 450
+74625:0::3::      200  stone~[78]                        20,000  
+74625:0::3::        3  clay pots~[95]                        15  
+74625:0::3::                                             ======
+74625:0::3::                                             23,015
+74625:0::3::
+74625:0::3/11::Capacity:  20,015/550 land (3639%), 20,115/450 ride (4470%)
+74625:0::3::
+84244:0::3::
+84244:0::3/16::Location:       Cleanbones~[w42], in province Skeleton Swamp~[db47], in Provinia
+84244:0::3::Loyalty:        Oath-1
+84244:0::3::Health:         100%
+84244:0::3::Combat:         attack 150, defense 186, missile 61
+84244:0::3::                behind 9  (stay behind in combat)
+84244:0::3::Break point:    50%
+84244:0::3::
+84244:0::3::Skills known:
+84244:0::6::Combat~[610]
+84244:0::12::Defense~[614], master
+84244:0::12::Archery~[615], apprentice
+84244:0::12::Swordplay~[616], adept
+84244:0::3::
+84244:0::3::Inventory:
+84244:0::3::{<b>}      qty  name                              weight{</b>}
+84244:0::3::      ---  ----                              ------
+84244:0::3::      160  gold~[1]                               0  
+84244:0::3::        1  riding horse~[52]                  1,000  ride 150
+84244:0::3::                                             ======
+84244:0::3::                                              1,000
+84244:0::3::
+84244:0::3/11::Capacity:  0/250 land (0%), 100/150 ride (66%)
+84244:0::3::
+84244:0::3::Pending trades:
+84244:0::3::
+84244:0::6::trade    price    qty   item
+84244:0::6::-----    -----    ---   ----
+84244:0::6:: sell        4      3   clay pot~[95]
+84244:0::3::
+101741:0::3::
+101741:0::3/16::Location:       Azure City~[n95], in province The Azure Forest~[db44], in Provinia
+101741:0::3::Loyalty:        Oath-1
+101741:0::3::Health:         100%
+101741:0::3::Combat:         attack 80, defense 108, missile 0
+101741:0::3::                behind 9  (stay behind in combat)
+101741:0::3::Break point:    50%
+101741:0::3::
+101741:0::3::Current aura:   2
+101741:0::3::Maximum aura:   2
+101741:0::3::
+101741:0::3::Skills known:
+101741:0::6::Combat~[610]
+101741:0::12::Survive fatal wound~[611]
+101741:0::12::Defense~[614], journeyman
+101741:0::6::Magic~[800]
+101741:0::12::Perform common tasks for gold~[802], grand master
+101741:0::3::
+101741:0::3::Inventory:
+101741:0::3::{<b>}      qty  name                              weight{</b>}
+101741:0::3::      ---  ----                              ------
+101741:0::3::   13,551  gold~[1]                               0  
+101741:0::3::                                             ======
+101741:0::3::                                                  0
+101741:0::3::
+101741:0::3/11::Capacity:  0/100 land (0%)
+101741:0::3::
+101741:0::3::Pending trades:
+101741:0::3::
+101741:0::6::trade    price    qty   item
+101741:0::6::-----    -----    ---   ----
+101741:0::6:: sell        7     20   clay pot~[95]
+101741:0::3::
+119379:0::3::
+119379:0::3/16::Location:       Sudshire~[t91], in province Sea of Grass - Sudshire~[da48], in Provinia
+119379:0::3::Loyalty:        Oath-1
+119379:0::3/16::Stacked under:  Brandon MacMurray~[134183]
+119379:0::3::Health:         100%
+119379:0::3::Combat:         attack 146, defense 154, missile 62
+119379:0::3::                behind 9  (stay behind in combat)
+119379:0::3::Break point:    50%
+119379:0::3::
+119379:0::3::Skills known:
+119379:0::6::Combat~[610]
+119379:0::12::Defense~[614], adept
+119379:0::12::Archery~[615], apprentice
+119379:0::12::Swordplay~[616], adept
+119379:0::3::
+119379:0::3::Inventory:
+119379:0::3::{<b>}      qty  name                              weight{</b>}
+119379:0::3::      ---  ----                              ------
+119379:0::3::      100  gold~[1]                               0  
+119379:0::3::       20  woven baskets~[94]                    20  
+119379:0::3::                                             ======
+119379:0::3::                                                 20
+119379:0::3::
+119379:0::3/11::Capacity:  20/100 land (20%)
+119379:0::3::
+119379:0::3::Pending trades:
+119379:0::3::
+119379:0::6::trade    price    qty   item
+119379:0::6::-----    -----    ---   ----
+119379:0::6:: sell        5     30   woven basket~[94]
+119379:0::3::
+134183:0::3::
+134183:0::3/16::Location:       Sudshire~[t91], in province Sea of Grass - Sudshire~[da48], in Provinia
+134183:0::3::Loyalty:        Oath-1
+134183:0::3::Stacked over:   Sean MacMurray~[119379]
+134183:0::3::Health:         100%
+134183:0::3::Combat:         attack 80, defense 80, missile 0
+134183:0::3::                behind 9  (stay behind in combat)
+134183:0::3::Break point:    50%
+134183:0::3::
+134183:0::3::Skills known:
+134183:0::6::Beastmastery~[650]
+134183:0::12::Use beasts in battle~[653]
+134183:0::12::Breed beasts~[654], grand master
+134183:0::3::
+134183:0::3::Inventory:
+134183:0::3::{<b>}      qty  name                              weight{</b>}
+134183:0::3::      ---  ----                              ------
+134183:0::3::       47  centaurs~[271]                    47,000  ride 7,050 (30,30,0)
+134183:0::3::                                             ======
+134183:0::3::                                             47,000
+134183:0::3::
+134183:0::3/11::Capacity:  0/7,150 land (0%), 100/7,050 ride (1%)
+134183:0::3::
+134963:0::3::
+134963:0::3/16::Location:       Cleanbones~[w42], in province Skeleton Swamp~[db47], in Provinia
+134963:0::3::Loyalty:        Oath-1
+134963:0::3::Health:         100%
+134963:0::3::Combat:         attack 106, defense 176, missile 134
+134963:0::3::                behind 9  (stay behind in combat)
+134963:0::3::Break point:    50%
+134963:0::3::
+134963:0::3::Skills known:
+134963:0::6::Combat~[610]
+134963:0::12::Defense~[614], master
+134963:0::12::Archery~[615], master
+134963:0::12::Swordplay~[616], journeyman
+134963:0::12::Weaponsmithing~[617], apprentice
+134963:0::3::
+134963:0::3::Inventory:
+134963:0::3::{<b>}      qty  name                              weight{</b>}
+134963:0::3::      ---  ----                              ------
+134963:0::3::      580  gold~[1]                               0  
+134963:0::3::        1  riding horse~[52]                  1,000  ride 150
+134963:0::3::                                             ======
+134963:0::3::                                              1,000
+134963:0::3::
+134963:0::3/11::Capacity:  0/250 land (0%), 100/150 ride (66%)
+134963:0::3::
+134963:0::3::Pending trades:
+134963:0::3::
+134963:0::6::trade    price    qty   item
+134963:0::6::-----    -----    ---   ----
+134963:0::6:: sell        4     50   clay pot~[95]
+134963:0::6:: sell        4     31   woven basket~[94]
+134963:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Chaotic Order~[vz3].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/vz3/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [vz3]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        10  66th   
+0:0::3/41::Men:                              156  59th   
+0:0::3/41::Gold:                          24,233  53rd   
+0:0::3/41::Land controlled:                   26  69th   
+0:0::3/41::Skills known:                   18/74  95th   
+0:0::3/41::Spells known:                    2/79  94th   
+0:0::3/41::Provinces visited:          73/31,919  107th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  15     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  112478 88387 79103 99742 96442
+0:0::0::
+0:0::0::12 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::d015   da45   o1    100  9                                    Muldune
+0:0::0::t625   da47   o1    100  9       1                            Kerry MacMurray
+0:0::0::134183 t91    o1    100  9                                    Brandon
+0:0::0::119379 t91    o1    100  9     100                     134183 Sean MacMurray
+0:0::0::s443   t91    o1    100  9                                    Craig MacMurray
+0:0::0::b647   m458   o1    100  9    9731   14            134        Angus MacMurray
+0:0::0::101741 n95    o1    100  9  2  13k                            Galen MacMurray
+0:0::0::134963 w42    o1    100  9     580                            Shawn MacMurray
+0:0::0::84244  w42    o1    100  9     160                            Devilin
+0:0::0::d579   j81    o1    100  9     110    8                       Thomas
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               24k   22            134
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Elven Forest~[da45]              Muldune MacMurray~[d015]
+0:0::0::  Mount Arden~[da47]               Kerry MacMurray~[t625]
+0:0::0::  Sea of Grass - Sudshire~[da48]
+0:0::0::    Sudshire~[t91]                 Brandon MacMurray~[134183]
+0:0::0::                                     Sean MacMurray~[119379]
+0:0::0::                                   Craig MacMurray~[s443]
+0:0::0::  The Azure Forest~[db44]
+0:0::0::    Azure City~[n95]               Galen MacMurray~[101741]
+0:0::0::      Castle Diabolicus Nox~[m458] Angus MacMurray~[b647]
+0:0::0::  Skeleton Swamp~[db47]
+0:0::0::    Cleanbones~[w42]               Shawn MacMurray~[134963]
+0:0::0::                                   Devilin MacMurray~[84244]
+0:0::0::  Sea of Grass~[db48]
+0:0::0::    Sudshire South~[j81]           Thomas MacMurray~[d579]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  d015      27,100     16,150   0%        950   9%                
+0:0::0::  t625      23,115   (19,465)  --    (19,665)  --                 
+0:0::0::134183      47,220      7,230   0%      6,830   3%                
+0:0::0::119379         120         80  20%                                
+0:0::0::  s443      46,315   (31,165)  --    (31,365)  --                 
+0:0::0::  b647      36,203    (6,403) 142%                                
+0:0::0::101741         100        100   0%                                
+0:0::0::134963       1,100        250   0%         50  66%                
+0:0::0:: 84244       1,100        250   0%         50  66%                
+0:0::0::  d579       3,900      1,350   0%      (450) 200%                
+0:0::0::
+0:0::0::garr where  men cost  tax forw castle rulers
+0:0::0::---- -----  --- ----  --- ---- ------ ------
+0:0::0::114866  da43   30   60  100    8  m458  b647
+0:0::0::7715  da44   10   20  200   36  m458  b647
+0:0::0::8514  da45   25   50  100   10  m458  b647
+0:0::0::7700  da46   25   50   50    0  m458  b647
+0:0::0::r317  da47   25   50  100   10  m458  b647
+0:0::0::85542  da48   30   60  300   48  m458  b647
+0:0::0::4191  da49   15   30  100   14  m458  b647
+0:0::0::132182  db43   36   88  200   22  m458  b647
+0:0::0::84066  db44   31   61  450    -  m458  b647
+0:0::0::3586  db45   10   20  200   36  m458  b647
+0:0::0::5946  db46   19   38  100   12  m458  b647
+0:0::0::3873  db49   25   50   50    0  m458  b647
+0:0::0::a167  dc43   17   34  100   13  m458  b647
+0:0::0::k921  dc44   10   20  200   36  m458  b647
+0:0::0::5040  dc45   10   20  100   16  m458  b647
+0:0::0::d018  dc46   20   40   50    2  m458  b647
+0:0::0::5342  dc47   20   40  100   12  m458  b647
+0:0::0::1823  dc48   20   40   50    2  m458  b647
+0:0::0::5425  dc49   20   40   50    2  m458  b647
+0:0::0::7529  dd43   15   30   50    4  m458  b647
+0:0::0::c962  dd44   20   40  100   12  m458  b647
+0:0::0::h689  dd45   10   20  100   16  m458  b647
+0:0::0::h113  dd46   20   40   50    2  m458  b647
+0:0::0::d772  dd47   10   20   50    6  m458  b647
+0:0::0::3844  dd48   20   40   50    2  m458  b647
+0:0::0::2288  dd49   20   40   50    2  m458  b647
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Chaotic Order~[vz3]"><font size=+1><b>Chaotic Order~[vz3]</b></font>
+1:2::0::<hr>
+1:1::0::Chaotic Order~[vz3]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55713
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison log"><font size=+1><b>Garrison log</b></font>
+1:2::0::<hr>
+1:1::0::Garrison log
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Muldune MacMurray~[d015]"><font size=+1><b>Muldune MacMurray~[d015]</b></font>
+1:2::0::<hr>
+1:1::0::Muldune MacMurray~[d015]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 62015
+1:0::0::
+1:2::0::
+1:2::0::<name="Kerry MacMurray~[t625]"><font size=+1><b>Kerry MacMurray~[t625]</b></font>
+1:2::0::<hr>
+1:1::0::Kerry MacMurray~[t625]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 74625
+1:0::0::
+1:2::0::
+1:2::0::<name="Brandon MacMurray~[134183]"><font size=+1><b>Brandon MacMurray~[134183]</b></font>
+1:2::0::<hr>
+1:1::0::Brandon MacMurray~[134183]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 134183
+1:0::0::
+1:2::0::
+1:2::0::<name="Sean MacMurray~[119379]"><font size=+1><b>Sean MacMurray~[119379]</b></font>
+1:2::0::<hr>
+1:1::0::Sean MacMurray~[119379]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 119379
+1:0::0::
+1:2::0::
+1:2::0::<name="Craig MacMurray~[s443]"><font size=+1><b>Craig MacMurray~[s443]</b></font>
+1:2::0::<hr>
+1:1::0::Craig MacMurray~[s443]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 73443
+1:0::0::
+1:2::0::
+1:2::0::<name="Angus MacMurray~[b647]"><font size=+1><b>Angus MacMurray~[b647]</b></font>
+1:2::0::<hr>
+1:1::0::Angus MacMurray~[b647]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 60647
+1:0::0::
+1:2::0::
+1:2::0::<name="Galen MacMurray~[101741]"><font size=+1><b>Galen MacMurray~[101741]</b></font>
+1:2::0::<hr>
+1:1::0::Galen MacMurray~[101741]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 101741
+1:0::0::
+1:2::0::
+1:2::0::<name="Shawn MacMurray~[134963]"><font size=+1><b>Shawn MacMurray~[134963]</b></font>
+1:2::0::<hr>
+1:1::0::Shawn MacMurray~[134963]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 134963
+1:0::0::
+1:2::0::
+1:2::0::<name="Devilin MacMurray~[84244]"><font size=+1><b>Devilin MacMurray~[84244]</b></font>
+1:2::0::<hr>
+1:1::0::Devilin MacMurray~[84244]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 84244
+1:0::0::
+1:2::0::
+1:2::0::<name="Thomas MacMurray~[d579]"><font size=+1><b>Thomas MacMurray~[d579]</b></font>
+1:2::0::<hr>
+1:1::0::Thomas MacMurray~[d579]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 62579
+1:2::0::
+1:2::0::<name="Forest~[da43]"><font size=+1><b>Forest~[da43]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[da43], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16043
+1:0::0::
+1:2::0::
+1:2::0::<name="Little Desert~[da44]"><font size=+1><b>Little Desert~[da44]</b>, desert, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Little Desert~[da44], desert, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16044
+1:0::0::
+1:2::0::
+1:2::0::<name="Elven Forest~[da45]"><font size=+1><b>Elven Forest~[da45]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Elven Forest~[da45], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16045
+1:0::0::
+1:2::0::
+1:2::0::<name="Elven Forest~[da46]"><font size=+1><b>Elven Forest~[da46]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Elven Forest~[da46], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16046
+1:0::0::
+1:2::0::
+1:2::0::<name="Mount Arden~[da47]"><font size=+1><b>Mount Arden~[da47]</b>, mountain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Mount Arden~[da47], mountain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16047
+1:0::0::
+1:2::0::
+1:2::0::<name="Sea of Grass - Sudshire~[da48]"><font size=+1><b>Sea of Grass - Sudshire~[da48]</b>, plain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Sea of Grass - Sudshire~[da48], plain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16048
+1:0::0::
+1:2::0::
+1:2::0::<name="Sudshire~[t91]"><font size=+1><b>Sudshire~[t91]</b>, city, in province Sea of Grass - Sudshire~[da48]</font>
+1:2::0::<hr>
+1:1::0::Sudshire~[t91], city, in province Sea of Grass - Sudshire~[da48]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58351
+1:0::0::
+1:2::0::
+1:2::0::<name="Delzoun~[da49]"><font size=+1><b>Delzoun~[da49]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Delzoun~[da49], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16049
+1:0::0::
+1:2::0::
+1:2::0::<name="The Black Mountains~[db43]"><font size=+1><b>The Black Mountains~[db43]</b>, mountain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::The Black Mountains~[db43], mountain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16143
+1:0::0::
+1:2::0::
+1:2::0::<name="The Azure Forest~[db44]"><font size=+1><b>The Azure Forest~[db44]</b>, forest, in Provinia, civ-6</font>
+1:2::0::<hr>
+1:1::0::The Azure Forest~[db44], forest, in Provinia, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16144
+1:0::0::
+1:2::0::
+1:2::0::<name="Azure City~[n95]"><font size=+1><b>Azure City~[n95]</b>, city, in province The Azure Forest~[db44]</font>
+1:2::0::<hr>
+1:1::0::Azure City~[n95], city, in province The Azure Forest~[db44]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57855
+1:0::0::
+1:2::0::
+1:2::0::<name="Mount Vindamar~[db45]"><font size=+1><b>Mount Vindamar~[db45]</b>, mountain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Mount Vindamar~[db45], mountain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16145
+1:0::0::
+1:2::0::
+1:2::0::<name="Elven Forest~[db46]"><font size=+1><b>Elven Forest~[db46]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Elven Forest~[db46], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16146
+1:0::0::
+1:2::0::
+1:2::0::<name="Skeleton Swamp~[db47]"><font size=+1><b>Skeleton Swamp~[db47]</b>, swamp, in Provinia, civ-2</font>
+1:2::0::<hr>
+1:1::0::Skeleton Swamp~[db47], swamp, in Provinia, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16147
+1:0::0::
+1:2::0::
+1:2::0::<name="Cleanbones~[w42]"><font size=+1><b>Cleanbones~[w42]</b>, city, in province Skeleton Swamp~[db47]</font>
+1:2::0::<hr>
+1:1::0::Cleanbones~[w42], city, in province Skeleton Swamp~[db47]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58502
+1:0::0::
+1:2::0::
+1:2::0::<name="Sea of Grass~[db48]"><font size=+1><b>Sea of Grass~[db48]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Sea of Grass~[db48], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16148
+1:0::0::
+1:2::0::
+1:2::0::<name="Sudshire South~[j81]"><font size=+1><b>Sudshire South~[j81]</b>, city, in province Sea of Grass~[db48]</font>
+1:2::0::<hr>
+1:1::0::Sudshire South~[j81], city, in province Sea of Grass~[db48]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57541
+1:0::0::
+1:2::0::
+1:2::0::<name="Cemetery Wood~[db49]"><font size=+1><b>Cemetery Wood~[db49]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Cemetery Wood~[db49], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16149
+1:0::0::
+1:2::0::
+1:2::0::<name="Darkwood~[dc43]"><font size=+1><b>Darkwood~[dc43]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Darkwood~[dc43], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16243
+1:0::0::
+1:2::0::
+1:2::0::<name="The Spider Meadows~[dc44]"><font size=+1><b>The Spider Meadows~[dc44]</b>, plain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::The Spider Meadows~[dc44], plain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16244
+1:0::0::
+1:2::0::
+1:2::0::<name="Elven Forest~[dc45]"><font size=+1><b>Elven Forest~[dc45]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Elven Forest~[dc45], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16245
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dc46]"><font size=+1><b>Forest~[dc46]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[dc46], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16246
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dc47]"><font size=+1><b>Forest~[dc47]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[dc47], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16247
+1:0::0::
+1:2::0::
+1:2::0::<name="Sea of Grass~[dc48]"><font size=+1><b>Sea of Grass~[dc48]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Sea of Grass~[dc48], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16248
+1:0::0::
+1:2::0::
+1:2::0::<name="Mount Archibald~[dc49]"><font size=+1><b>Mount Archibald~[dc49]</b>, mountain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mount Archibald~[dc49], mountain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16249
+1:0::0::
+1:2::0::
+1:2::0::<name="Darkwood~[dd43]"><font size=+1><b>Darkwood~[dd43]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Darkwood~[dd43], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16343
+1:0::0::
+1:2::0::
+1:2::0::<name="Darkwood~[dd44]"><font size=+1><b>Darkwood~[dd44]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Darkwood~[dd44], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16344
+1:0::0::
+1:2::0::
+1:2::0::<name="Swamp~[dd45]"><font size=+1><b>Swamp~[dd45]</b>, swamp, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Swamp~[dd45], swamp, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16345
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[dd46]"><font size=+1><b>Mountain~[dd46]</b>, mountain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[dd46], mountain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16346
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[dd47]"><font size=+1><b>Mountain~[dd47]</b>, mountain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[dd47], mountain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16347
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[dd48]"><font size=+1><b>Desert~[dd48]</b>, desert, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[dd48], desert, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16348
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[dd49]"><font size=+1><b>Desert~[dd49]</b>, desert, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[dd49], desert, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16349
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

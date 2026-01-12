@@ -1,0 +1,162 @@
+94165:stop
+94165:move out
+94165:get garrison 68
+94165:get garrison 79
+94165:fly u
+94165:fly n
+94165:give garrison 68
+94165:give garrison 79
+94165:fly s
+94165:fly d
+94165:get garrison 68
+94165:get garrison 79
+94165:fly u
+94165:fly n
+94165:give garrison 68
+94165:give garrison 79
+94165:fly s
+94165:fly d
+94165:get garrison 68
+94165:get garrison 79
+94165:fly u
+94165:fly n
+94165:give garrison 68
+94165:give garrison 79
+94165:fly s
+94165:fly d
+94165:get garrison 68
+94165:get garrison 79
+94165:fly u
+94165:fly n
+94165:give garrison 68
+94165:give garrison 79
+94165:fly s
+94165:fly d
+79453:move kx80
+79453:move hj36
+79453:move hh16
+79453:wait item 78 100
+79453:build tower "Dark Hold II"
+138896:stop
+138896:give garrison 12
+138896:fly n
+138896:fly n
+138896:fly d88
+138896:fly 100928
+138896:take z729 54 0 3
+138896:take g621 54 0 3
+138896:take z729 78 20
+138896:fly out
+138896:fly out
+138896:fly n
+138896:fly kx80
+138896:fly hj36
+138896:fly hh16
+138896:wait unit 79453
+138896:give 79453 78
+138896:fly hj36
+138896:fly kx80
+138896:fly nj89
+138896:fly s
+138896:fly d88
+138896:fly 100928
+138896:take z729 54 0 3
+138896:take g621 54 0 3
+138896:take z729 78
+138896:fly out
+138896:fly out
+138896:fly n
+138896:fly kx80
+138896:fly hj36
+138896:fly hh16
+138896:wait unit 79453
+138896:give 79453 78 40
+138896:fly hj36
+138896:fly kx80
+138896:fly nj89
+138896:fly s
+138896:fly d88
+55705:accept bh3 0 0
+55705:accept cb5 0 0
+55705:accept db7 0 0
+55705:accept df7 0 0
+55705:accept fc3 0 0
+55705:accept hd3 0 0
+55705:accept mm9 0 0
+55705:accept nn3 0 0
+55705:accept ny7 0 0
+55705:accept ps4 0 0
+55705:accept qb2 0 0
+55705:accept qn5 0 0
+55705:accept qy4 0 0
+55705:accept rq7 0 0
+55705:accept rr7 0 0
+55705:accept sz5 0 0
+55705:accept ta8 0 0
+55705:accept tr5 0 0
+55705:accept ug3 0 0
+55705:accept uh5 0 0
+55705:accept xy3 0 0
+55705:accept yf7 0 0
+55705:accept yg9 0 0
+55705:accept ym3 0 0
+55705:accept yv5 0 0
+55705:accept zy6 0 0
+55705:admit 100928 bh3 cb5 db7 df7 fc3 hd3 mm9 nn3 ny7 ps4 qb2 qn5
+55705:admit 100928 qy4 rq7 rr7 sz5 ta8 tr5 ug3 uh5 xy3 yf7 yg9 ym3
+55705:admit 100928 yv5 zy6
+105235:get garrison 12 14
+105235:attack 110097
+105235:repair
+105235:use 721
+105235:use 722
+105235:move out
+105235:give garrison 12
+105235:get garrison 11
+105235:move r380
+105235:yew
+105235:move out
+105235:give garrison 68
+105235:give garrison 79
+105235:move 110097
+105235:use 723
+9547:give 90108 54 1
+9547:unstack 90108
+9547:fly nj89
+9547:attack garrison
+9547:fly kx80
+9547:attack garrison
+9547:fly hj36
+9547:attack garrison
+9547:fly hh16
+9547:attack garrison
+90108:wait not stack 9547
+90108:fly s
+90108:fly s
+90108:fly gz22
+90108:fly d
+90108:fly cr51
+90108:fly g92
+90108:claim 500
+90108:stack garrison
+90108:study 610
+90108:study 610
+78729:breed 54 54
+78729:breed 54 54
+78729:breed 54 54
+78729:breed 54 54
+78729:breed 54 54
+64621:breed 54 54
+64621:breed 54 54
+64621:breed 54 54
+64621:breed 54 54
+64621:breed 54 54
+64621:breed 54 54
+76837:use 862
+76837:use 801
+76837:use 801
+76837:use 801
+65879:recruit 10
+65879:train 12
+65879:make 72
+65879:make 75

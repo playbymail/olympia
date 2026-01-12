@@ -1,0 +1,2222 @@
+57870:0::0:0:Garrison~[1176], garrison, with 129~pikemen guards Dafarik~[p10].
+11369:0::0:0:Garrison~[1265], garrison, with one~soldier, ten~peasants guards Free Atala~[ar69].
+11467:0::0:0:Garrison~[1323], garrison, with four~soldiers, six~peasants guards Forest~[as67].
+14163:0::0:0:Garrison~[2053], garrison, with 80~workers, one~hound, 29~winged horses guards Blood Mist Woods~[cb63].
+11367:0::0:0:Garrison~[3355], garrison, with 12~peasants guards Forest~[ar67].
+11271:0::0:0:Garrison~[3529], garrison, with ten~soldiers guards Free Atala~[aq71].
+14268:0::0:0:Garrison~[4805], garrison, with 18~peasants, 29~giant lizards, 17~soldiers guards Musketeer Lands~[cc68].
+11274:0::0:0:Garrison~[5502], garrison, with ten~soldiers guards Desert~[aq74].
+11370:0::0:0:Garrison~[5588], garrison, with four~soldiers, six~peasants guards Free Atala~[ar70].
+11170:0::0:0:Garrison~[6016], garrison, with ten~soldiers guards Plain~[ap70].
+11268:0::0:0:Garrison~[7201], garrison, with ten~peasants guards Forest~[aq68].
+11171:0::0:0:Garrison~[7783], garrison, with 31~pikemen guards Free Atala~[ap71].
+11173:0::0:0:Garrison~[9033], garrison, with ten~soldiers guards Plain~[ap73].
+11469:0::0:0:Garrison~[9905], garrison, with one~soldier, nine~peasants guards Free Atala~[as69].
+11273:0::0:0:Garrison~[a897], garrison, with ten~soldiers guards Plain~[aq73].
+14157:0::0:0:Garrison~[r340], garrison, with 30~peasants, 21~wild horses, 95~winged horses, one~warmount, one~lion, one~giant lizard, four~wolves, one~cyclops, one~rat, two~centaurs guards Musketeer Lands~[cb57].
+11371:0::0:0:Garrison~[x790], garrison, with ten~pikemen guards Free Atala~[ar71].
+11272:0::0:0:Garrison~[84186], garrison, with ten~soldiers guards Plain~[aq72].
+11172:0::0:0:Garrison~[84352], garrison, with ten~soldiers guards Forest~[ap72].
+11267:0::0:0:Garrison~[88082], garrison, with ten~peasants guards Mountain~[aq67].
+11368:0::0:0:Garrison~[97253], garrison, with ten~peasants guards Forest~[ar68].
+11174:0::0:0:Garrison~[102689], garrison, with ten~soldiers guards Desert~[ap74].
+11468:0::0:0:Garrison~[111555], garrison, with ten~soldiers guards Free Atala~[as68].
+11269:0::0:0:Garrison~[122555], garrison, with 14~soldiers guards Desert~[aq69].
+11169:0::0:0:Garrison~[126058], garrison, with ten~soldiers guards Forest~[ap69].
+11270:0::0:0:Garrison~[126357], garrison, with one~soldier, nine~peasants guards Forest~[aq70].
+55275:0::0:0:> accept bh3 0
+55275:0::0:0:> accept cb5 0
+55275:0::0:0:> accept db7 0
+55275:0::0:0:> accept df7 0
+55275:0::0:0:> accept et5 0
+55275:0::0:0:> accept fc3 0
+55275:0::0:0:> accept gk5 0
+55275:0::0:0:> accept hd3 0
+55275:0::0:0:> accept mm9 0
+55275:0::0:0:> accept nn3 0
+55275:0::0:0:> accept ny7 0
+55275:0::0:0:> accept ps4 0
+55275:0::0:0:> accept qb2 0
+55275:0::0:0:> accept qn5 0
+55275:0::0:0:> accept qy4 0
+55275:0::0:0:> accept rq7 0
+55275:0::0:0:> accept rr7 0
+55275:0::0:0:> accept sz5 0
+55275:0::0:0:> accept ta8 0
+55275:0::0:0:> accept tj7 0
+55275:0::0:0:> accept tp2 0
+55275:0::0:0:> accept tr5 0
+55275:0::0:0:> accept ug3 0
+55275:0::0:0:> accept uh5 0
+55275:0::0:0:> accept vy5 0
+55275:0::0:0:> accept xy3 0
+55275:0::0:0:> accept yf7 0
+55275:0::0:0:> accept Yg9 0
+55275:0::0:0:> accept ym3 0
+55275:0::0:0:> accept yv5 0
+55275:0::0:0:> accept zy6 0
+75374:0::0:1:> stop
+65444:0::0:1:> stop
+63597:0::0:1:> contact bh3 cb5 db7 df7 et5 fc3
+63597:0::0:1:et5 is not a character or player entity.
+75374:0::0:1:> contact bh3 cb5 db7 df7 et5 fc3
+75374:0::0:1:et5 is not a character or player entity.
+65444:0::0:1:> contact bh3 cb5 db7 df7 et5 fc3
+65444:0::0:1:et5 is not a character or player entity.
+63597:0::0:1:> contact gk5 hd3 mm9 nn3 ny7 ps4
+63597:0::0:1:ps4 is not a character or player entity.
+75374:0::0:1:> contact gk5 hd3 mm9 nn3 ny7 ps4
+75374:0::0:1:ps4 is not a character or player entity.
+65444:0::0:1:> contact gk5 hd3 mm9 nn3 ny7 ps4
+65444:0::0:1:ps4 is not a character or player entity.
+63597:0::0:1:> contact qb2 qn5 qy4 rq7 rr7 sz5
+75374:0::0:1:> contact qb2 qn5 qy4 rq7 rr7 sz5
+65444:0::0:1:> contact qb2 qn5 qy4 rq7 rr7 sz5
+63597:0::0:1:> contact ta8 tj7 tp2 tr5 ug3 uh5
+63597:0::0:1:tj7 is not a character or player entity.
+63597:0::0:1:tp2 is not a character or player entity.
+75374:0::0:1:> contact ta8 tj7 tp2 tr5 ug3 uh5
+75374:0::0:1:tj7 is not a character or player entity.
+75374:0::0:1:tp2 is not a character or player entity.
+65444:0::0:1:> contact ta8 tj7 tp2 tr5 ug3 uh5
+65444:0::0:1:tj7 is not a character or player entity.
+65444:0::0:1:tp2 is not a character or player entity.
+63597:0::0:1:> contact vy5 xy3 yf7 Yg9 ym3 yv5
+75374:0::0:1:> contact vy5 xy3 yf7 Yg9 ym3 yv5
+65444:0::0:1:> contact vy5 xy3 yf7 Yg9 ym3 yv5
+63597:0::0:1:> contact zy6 148147
+75374:0::0:1:> contact zy6 148147
+65444:0::0:1:> contact zy6
+63597:0::0:1:> accept 0 0
+75374:0::0:1:> accept 0 0
+65444:0::0:1:> accept 0 0
+65444:0::0:1:Received 12~pikemen~[16] from Zeprin the Red~[8653].
+75374:0::0:1:> behind 0
+75374:0::0:1:Behind flag set to 0 (front unit).
+65444:0::0:1:Received 300~gold~[1] from Zeprin the Red~[8653].
+65444:0::0:1:> pledge 2621
+65444:0::0:1:Lands are now pledged to Princess Dianna~[2621].
+65444:0::0:1:> promote 8653
+65444:0::0:1:Characters to be promoted must be stacked immediately beneath the promoter, or be listed after the promoter at the same level.
+65444:0::0:1:> stack 8653
+65444:0::0:1:Zeprin the Red~[8653] refuses to let us stack.
+63597:0::0:1:> get v374 282 2
+63597:0::0:1:Took two~giant lizards from Gustav~[v374].
+75374:0::0:1:Antilles~[f597] took two~giant lizards~[282] from us.
+57870:0::0:1:Dafarik~[p10] sold 27~rose perfume~[h454] for 2,808~gold.
+57826:0::0:1:Ravenna~[n66] sold ten~jeweled eggs~[v897] for 1,500~gold.
+78495:0::0:1:> research 650
+78495:0::0:1:Research Beastmastery~[650].
+65444:0::0:1:> use 922 v374 16 75
+63597:0::0:1:> breed 282 282
+63597:0::0:1:Breed attempt will take 6 days.
+78775:0::0:1:> sail n
+78775:0::0:1:The crew of a roundship is eight sailors, but you have five.  Travel will take an extra three days.
+74766:0::0:1:Sailing to Ocean~[bk98] will take six days.
+78775:0::0:1:Sailing to Ocean~[bk98] will take six days.
+12998:0::0:1:Indefagable~[r423], roundship, 46% loaded, defense~10, departed for Ocean~[bk98].
+75374:0::0:1:> sail up
+75374:0::0:1:Must be on a sea-worthy ship to sail.
+75374:0::0:1:> decree watch 2592 
+6:0:1265:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:1323:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:3355:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:3529:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:5502:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:5588:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:6016:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:7201:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:7783:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:9033:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:9905:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:a897:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:x790:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:84186:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:84352:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:88082:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:97253:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:102689:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:111555:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:122555:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:126058:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:126357:0:1:Gustav~[v374] orders us to watch for [2592].
+75374:0::0:1:Watch decree given to 22 garrisons.
+75374:0::0:1:> breed 282 282
+75374:0::0:1:Breed attempt will take 6 days.
+65828:0::0:1:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:1:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+65828:0::0:2:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:2:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+65444:0::0:3:Teleported 12~pikemen to Gustav~[v374].
+75374:0::0:3:Zarthusa~[h444] teleported 12~pikemen to us.
+65828:0::0:3:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:3:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+74766:0::0:3:Defense rating raised 10 to 129.
+75374:0::0:3:Equo~[v033] teleported 50~crossbowmen to us.
+14157:0::0:3:Rock dust has caused an explosion in Mother Lode~[9992]!
+65444:0::0:4:> study 611
+65444:0::0:4:Already know Survive fatal wound~[611].
+65444:0::0:4:> study 611
+65444:0::0:4:Already know Survive fatal wound~[611].
+65444:0::0:4:> make 18 18
+74766:0::0:4:> use 616
+65828:0::0:4:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:4:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+62070:0::0:4:Exploration of [cb57] uncovers no new features.
+11370:0::0:4:It has begun to rain.
+11272:0::0:4:It has begun to rain.
+62070:0::0:5:> explore
+65828:0::0:5:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:5:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+75374:0::0:6:Produced one~giant lizard~[282].
+65828:0::0:6:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:6:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+11171:0::0:6:Harry Sullivan~[r783] cut 30~wood.
+63597:0::0:6:Produced one~giant lizard~[282].
+78775:0::0:6:Arrival at Ocean~[bk98].
+74766:0::0:6:Arrival at Ocean~[bk98].
+12898:0::0:6:Indefagable~[r423], roundship, 46% loaded, defense~10, arrived from Ocean~[bm98], owner:
+12898:0::0/3:6:   Gallagar~[z775], priest, wielding Troll Cleaver~[s525], with five~sailors, five~winged horses, accompanied~by:
+12898:0::0/6:6:      Lochlan~[t766], with 32~workers, two~winged horses
+63597:0::0:7:> give v374 282 0
+63597:0::0:7:Gave six~giant lizards to Gustav~[v374].
+75374:0::0:7:Received six~giant lizards~[282] from Antilles~[f597].
+63597:0::0:7:> get v374 282 2
+63597:0::0:7:Took two~giant lizards from Gustav~[v374].
+75374:0::0:7:Antilles~[f597] took two~giant lizards~[282] from us.
+75374:0::0:7:> breed 282 282
+75374:0::0:7:Breed attempt will take 6 days.
+63597:0::0:7:> breed 282 282
+63597:0::0:7:Breed attempt will take 6 days.
+78775:0::0:7:> sail n
+78775:0::0:7:The crew of a roundship is eight sailors, but you have five.  Travel will take an extra three days.
+74766:0::0:7:Sailing to Ocean~[bj98] will take six days.
+78775:0::0:7:Sailing to Ocean~[bj98] will take six days.
+12898:0::0:7:Indefagable~[r423], roundship, 46% loaded, defense~10, departed for Ocean~[bj98].
+78495:0::0:7:Research uncovers no new skills.
+65828:0::0:7:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:7:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+78495:0::0:8:> breed 54 54
+78495:0::0:8:Breed attempt will take 6 days.
+65828:0::0:8:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:8:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+60687:0::0:8:Trained ten~workers.
+60687:0::0:9:> get garrison 11 0
+60687:0::0:9:Garrison~[r340] is not under your control.
+60687:0::0:9:> move h374
+60687:0::0:9:One noble, 60 men: travel will take an extra 2 days.
+60687:0::0:9:Travel to Rocky hill~[h374] will take three days.
+14157:0::0:9:Malcom~[b687], with 60~workers, entered Rocky hill~[h374].
+65828:0::0:9:Sold one~clay pot~[95] to Ravenna~[n66] for 7~gold.
+57826:0::0:9:Ravenna~[n66] bought one~clay pot~[95] from Brondwyn~[h828] for 7~gold.
+65828:0::0:10:Made 18~clay pots.
+74766:0::0:10:Attack rating raised 10 to 114.
+65828:0::0:11:> study 860
+65828:0::0:11:Study Gatecraft for seven days.
+74766:0::0:11:> use 616
+60687:0::0:11:Arrival at Rocky hill~[h374].
+62070:0::0:11:Exploration of [cb57] uncovers no new features.
+60687:0::0:12:> move 9992
+14157:0::0:12:Malcom~[b687], with 60~workers, entered Mother Lode~[9992].
+60687:0::0:12:Arrival at Mother Lode~[9992].
+62070:0::0:12:> fly w
+62070:0::0:12:Eric~[d070] is too overloaded to fly.
+60687:0::0:12:> use 722
+60687:0::0:12:Will mine gold for the next six days.
+62070:0::0:12:> explore
+75374:0::0:12:One~giant lizard~[282] was killed in the breeding attempt.
+75374:0::0:12:Produced one~giant lizard~[282].
+63597:0::0:12:Produced one~giant lizard~[282].
+78775:0::0:12:Arrival at Ocean~[bj98].
+74766:0::0:12:Arrival at Ocean~[bj98].
+12798:0::0:12:Indefagable~[r423], roundship, 46% loaded, defense~10, arrived from Ocean~[bk98], owner:
+12798:0::0/3:12:   Gallagar~[z775], priest, wielding Troll Cleaver~[s525], with five~sailors, five~winged horses, accompanied~by:
+12798:0::0/6:12:      Lochlan~[t766], with 32~workers, two~winged horses
+63597:0::0:13:> give v374 282 0
+63597:0::0:13:Gave three~giant lizards to Gustav~[v374].
+75374:0::0:13:Received three~giant lizards~[282] from Antilles~[f597].
+63597:0::0:13:> get v374 282 2
+63597:0::0:13:Took two~giant lizards from Gustav~[v374].
+75374:0::0:13:Antilles~[f597] took two~giant lizards~[282] from us.
+75374:0::0:13:> breed 282 282
+75374:0::0:13:Breed attempt will take 6 days.
+63597:0::0:13:> breed 282 282
+63597:0::0:13:Breed attempt will take 6 days.
+78775:0::0:13:> sail n
+78775:0::0:13:The crew of a roundship is eight sailors, but you have five.  Travel will take an extra three days.
+74766:0::0:13:Sailing to Ocean~[bh98] will take six days.
+78775:0::0:13:Sailing to Ocean~[bh98] will take six days.
+12798:0::0:13:Indefagable~[r423], roundship, 46% loaded, defense~10, departed for Ocean~[bh98].
+78495:0::0:13:Produced one~winged horse~[54].
+60687:0::0:13:A roof has collapsed in a shaft in Mother Lode~[9992]!
+14157:0::0:13:A roof has collapsed in a shaft in Mother Lode~[9992]!
+60687:0::0:13:One miner was killed in the accident.
+14157:0::0:13:One miner was killed in the accident.
+60687:0::0:13:Malcom~[b687] lost one worker.
+78495:0::0:14:> breed 54 54
+78495:0::0:14:Breed attempt will take 6 days.
+65444:0::0:14:Another auraculum has come into existence.
+60687:0::0:17:Mining yielded 400~gold~[1].
+74766:0::0:17:Attack rating raised 3 to 117.
+60687:0::0:18:> repair
+65828:0::0:18:> study 860
+65828:0::0:18:Study Gatecraft for seven days.
+74766:0::0:18:> use 614
+75374:0::0:18:Produced one~giant lizard~[282].
+60687:0::0:18:Mother Lode~[9992] has been fully repaired.
+60687:0::0:18:Malcom~[b687] repaired 28 damage to Mother Lode~[9992].
+62070:0::0:18:Exploration of [cb57] uncovers no new features.
+63597:0::0:18:One~giant lizard~[282] was killed in the breeding attempt.
+63597:0::0:18:No offspring was produced.
+78775:0::0:18:Arrival at Ocean~[bh98].
+74766:0::0:18:Arrival at Ocean~[bh98].
+12698:0::0:18:Indefagable~[r423], roundship, 46% loaded, defense~10, arrived from Ocean~[bj98], owner:
+12698:0::0/3:18:   Gallagar~[z775], priest, wielding Troll Cleaver~[s525], with five~sailors, five~winged horses, accompanied~by:
+12698:0::0/6:18:      Lochlan~[t766], with 32~workers, two~winged horses
+63597:0::0:19:> give v374 282 0
+63597:0::0:19:Gave one~giant lizard to Gustav~[v374].
+75374:0::0:19:Received one~giant lizard~[282] from Antilles~[f597].
+63597:0::0:19:> get v374 282 2
+63597:0::0:19:Took two~giant lizards from Gustav~[v374].
+75374:0::0:19:Antilles~[f597] took two~giant lizards~[282] from us.
+60687:0::0:19:> move out
+14157:0::0:19:Malcom~[b687], with 59~workers, exited Mother Lode~[9992].
+60687:0::0:19:Arrival at Rocky hill~[h374].
+60687:0::0:19:> move out
+60687:0::0:19:One noble, 59 men: travel will take an extra 2 days.
+60687:0::0:19:Travel to Musketeer Lands~[cb57] will take three days.
+14157:0::0:19:Malcom~[b687], with 59~workers, exited Rocky hill~[h374].
+75374:0::0:19:> breed 282 282
+75374:0::0:19:Breed attempt will take 6 days.
+62070:0::0:19:> explore
+63597:0::0:19:> breed 282 282
+63597:0::0:19:Breed attempt will take 6 days.
+78775:0::0:19:> sail n
+78775:0::0:19:The crew of a roundship is eight sailors, but you have five.  Travel will take an extra three days.
+74766:0::0:19:Sailing to Ocean~[bg98] will take six days.
+78775:0::0:19:Sailing to Ocean~[bg98] will take six days.
+12698:0::0:19:Indefagable~[r423], roundship, 46% loaded, defense~10, departed for Ocean~[bg98].
+57826:0::0:19:Ravenna~[n66] bought 26~cinnabar~[t507] for 3,146~gold.
+78495:0::0:19:Produced one~winged horse~[54].
+78495:0::0:20:> breed 54 54
+78495:0::0:20:Breed attempt will take 6 days.
+60687:0::0:21:Arrival at Musketeer Lands~[cb57].
+65444:0::0:21:Summoned 36~ghost warriors.
+11368:0::0:21:It has begun to rain.
+11268:0::0:21:It has begun to rain.
+11169:0::0:21:It has begun to rain.
+11367:0::0:21:It has begun to rain.
+11173:0::0:21:It has begun to rain.
+65444:0::0:22:> give 8653 18 0
+65444:0::0:22:Gave 36~ghost warriors to Zeprin the Red~[8653].
+60687:0::0:22:> give garrison 11 0
+60687:0::0:22:Garrison~[r340] is not under your control.
+65444:0::0:22:> use 813
+65444:0::0:22:Meditate for six~days.
+60687:0::0:22:> recruit
+75374:0::0:24:Produced one~giant lizard~[282].
+74766:0::0:24:Defense rating raised 1 to 130.
+63597:0::0:24:Produced one~giant lizard~[282].
+78775:0::0:24:Arrival at Ocean~[bg98].
+74766:0::0:24:Arrival at Ocean~[bg98].
+12598:0::0:24:Indefagable~[r423], roundship, 46% loaded, defense~10, arrived from Ocean~[bh98], owner:
+12598:0::0/3:24:   Gallagar~[z775], priest, wielding Troll Cleaver~[s525], with five~sailors, five~winged horses, accompanied~by:
+12598:0::0/6:24:      Lochlan~[t766], with 32~workers, two~winged horses
+63597:0::0:25:> give v374 282 0
+63597:0::0:25:Gave three~giant lizards to Gustav~[v374].
+75374:0::0:25:Received three~giant lizards~[282] from Antilles~[f597].
+63597:0::0:25:> get v374 282 2
+63597:0::0:25:Took two~giant lizards from Gustav~[v374].
+75374:0::0:25:Antilles~[f597] took two~giant lizards~[282] from us.
+75374:0::0:25:> breed 282 282
+75374:0::0:25:Breed attempt will take 6 days.
+65828:0::0:25:> use 616
+74766:0::0:25:> use 616
+63597:0::0:25:> breed 282 282
+63597:0::0:25:Breed attempt will take 6 days.
+78775:0::0:25:> sail n
+78775:0::0:25:The crew of a roundship is eight sailors, but you have five.  Travel will take an extra three days.
+74766:0::0:25:Sailing to Ocean~[bf98] will take six days.
+78775:0::0:25:Sailing to Ocean~[bf98] will take six days.
+12598:0::0:25:Indefagable~[r423], roundship, 46% loaded, defense~10, departed for Ocean~[bf98].
+78495:0::0:25:Produced one~winged horse~[54].
+62070:0::0:25:Exploration of [cb57] uncovers no new features.
+14157:0::0:25:A tunnel in Mother Lode~[9992] has caved in!
+78495:0::0:26:> breed 54 54
+78495:0::0:26:Breed attempt will take 6 days.
+62070:0::0:26:> explore
+11271:0::0:26:It has begun to rain.
+11170:0::0:26:It has begun to rain.
+11468:0::0:26:It has begun to rain.
+14268:0::0:26:It has begun to rain.
+11274:0::0:26:It has begun to rain.
+12898:0::0:26:It has begun to rain.
+11273:0::0:26:It has begun to rain.
+11467:0::0:26:It has begun to rain.
+12998:0::0:26:It has begun to rain.
+6:0:126058:0:27:Received ten~soldiers~[12] from Defender~[128230].
+65444:0::0:27:Current aura is now 119.
+65444:0::0:28:> use 813
+65444:0::0:28:Meditate for six~days.
+14157:0::0:29:A tunnel in Mother Lode~[9992] has caved in!
+75374:0::0:30:Produced one~giant lizard~[282].
+63597:0::0:30:One~giant lizard~[282] was killed in the breeding attempt.
+63597:0::0:30:No offspring was produced.
+78775:0::0:30:Arrival at Ocean~[bf98].
+74766:0::0:30:Arrival at Ocean~[bf98].
+12498:0::0:30:Indefagable~[r423], roundship, 46% loaded, defense~10, arrived from Ocean~[bg98], owner:
+12498:0::0/3:30:   Gallagar~[z775], priest, wielding Troll Cleaver~[s525], with five~sailors, five~winged horses, accompanied~by:
+12498:0::0/6:30:      Lochlan~[t766], with 32~workers, two~winged horses
+6:0:1265:0:30:Paid maintenance of 12~gold.
+6:0:1323:0:30:Paid maintenance of 14~gold.
+6:0:3355:0:30:Paid maintenance of 12~gold.
+6:0:3529:0:30:Paid maintenance of 20~gold.
+6:0:5502:0:30:Paid maintenance of 20~gold.
+6:0:5588:0:30:Paid maintenance of 14~gold.
+6:0:6016:0:30:Paid maintenance of 20~gold.
+6:0:7201:0:30:Paid maintenance of 10~gold.
+6:0:7783:0:30:Paid maintenance of 93~gold.
+6:0:9033:0:30:Paid maintenance of 20~gold.
+6:0:9905:0:30:Paid maintenance of 11~gold.
+6:0:a897:0:30:Paid maintenance of 20~gold.
+6:0:x790:0:30:Paid maintenance of 30~gold.
+6:0:84186:0:30:Paid maintenance of 20~gold.
+6:0:84352:0:30:Paid maintenance of 20~gold.
+6:0:88082:0:30:Paid maintenance of 10~gold.
+6:0:97253:0:30:Paid maintenance of 10~gold.
+6:0:102689:0:30:Paid maintenance of 20~gold.
+6:0:111555:0:30:Paid maintenance of 20~gold.
+6:0:122555:0:30:Paid maintenance of 28~gold.
+6:0:126058:0:30:Paid maintenance of 40~gold.
+6:0:126357:0:30:Paid maintenance of 11~gold.
+75374:0::0:30:Collected 365~gold from owned provinces.
+75374:0::0:30:Collected 215~gold in taxes.
+60687:0::0:30:Paid maintenance of 127~gold.
+62070:0::0:30:Paid maintenance of 96~gold.
+74766:0::0:30:Maintenance costs are 64~gold, can afford 0~gold.
+74766:0::0:30:11~workers left service.
+75374:0::0:30:Paid maintenance of 2,979~gold.
+78495:0::0:30:Paid maintenance of 76~gold.
+78775:0::0:30:Maintenance costs are 10~gold, can afford 0~gold.
+78775:0::0:30:Two~sailors deserted.
+63597:0::0:30:One winged horse died.
+75374:0::0:30:One giant lizard died.
+75374:0::0:30:One~ghost warrior~[18] evaporated.
+14163:0::0:30:It has stopped raining.
+14157:0::0:30:It has stopped raining.
+12798:0::0:30:It has stopped raining.
+11271:0::0::
+11271:0::0::Province controlled by Honorland~[t383], castle, in Free Atala~[aq71]
+11271:0::0::Ruled by Soulcatcher~[k318], baron
+11271:0::0::
+11271:0::0::Routes leaving Free Atala: 
+11271:0::3::North, forest, to Free Atala~[ap71], 8~days
+11271:0::3::East, to Plain~[aq72], 7~days
+11271:0::3::South, plain, to Free Atala~[ar71], 7~days
+11271:0::3::West, to Forest~[aq70], 8~days
+11271:0::0::
+11271:0::0::Inner locations:
+11271:0::3::Revenge's Heart~[k98], city, 1 day
+11271:0::0::
+11271:0::0::It is raining.
+11271:0::0::
+11271:0::0::Seen here:
+11271:0::0/3::   Garrison~[3529], garrison, on guard, with ten~soldiers
+12498:0::0::
+12498:0::0::Routes leaving Ocean: 
+12498:0::3::North, to Ocean~[bd98], 3~days
+12498:0::3::East, to Ocean~[bf99], 3~days
+12498:0::3::South, to Ocean~[bg98], 3~days
+12498:0::3::West, to Ocean~[bf97], 3~days
+12498:0::0::
+12498:0::0::It is raining.
+12498:0::0::
+12498:0::0::Ships sighted:
+12498:0::3/3::Indefagable~[r423], roundship, 40% loaded, defense~10, owner:
+12498:0::0/6:: *    Gallagar~[z775], priest, wielding Troll Cleaver~[s525], with three~sailors, five~winged horses, accompanied~by:
+12498:0::0/9:: *       Lochlan~[t766], with 21~workers, two~winged horses
+12598:0::0::
+12598:0::0::Routes leaving Ocean: 
+12598:0::3::North, to Ocean~[bf98], 3~days
+12598:0::3::East, to Ocean~[bg99], 3~days
+12598:0::3::South, to Ocean~[bh98], 3~days
+12598:0::3::West, to Ocean~[bg97], 3~days
+12598:0::0::
+12598:0::0::Inner locations:
+12598:0::3::Island~[a956], island, 1 day
+12598:0::0::
+12598:0::0::It is raining.
+12698:0::0::
+12698:0::0::Routes leaving Ocean: 
+12698:0::3::North, to Ocean~[bg98], 3~days
+12698:0::3::East, to Ocean~[bh99], 3~days
+12698:0::3::South, to Ocean~[bj98], 3~days
+12698:0::3::West, to Ocean~[bh97], 3~days
+12698:0::0::
+12698:0::0::Inner locations:
+12698:0::3::Island~[z517], island, 1 day
+12698:0::3::Island~[b551], island, 1 day
+12698:0::0::
+12698:0::0::It is raining.
+12798:0::0::
+12798:0::0::Routes leaving Ocean: 
+12798:0::3::North, to Ocean~[bh98], 3~days
+12798:0::3::East, to Ocean~[bj99], 3~days
+12798:0::3::South, to Ocean~[bk98], 3~days
+12798:0::3::West, to Ocean~[bj97], 3~days
+12898:0::0::
+12898:0::0::Routes leaving Ocean: 
+12898:0::3::North, to Ocean~[bj98], 3~days
+12898:0::3::East, to Ocean~[bk99], 3~days
+12898:0::3::South, to Ocean~[bm98], 3~days
+12898:0::3::West, to Ocean~[bk97], 3~days
+12898:0::0::
+12898:0::0::It is raining.
+12998:0::0::
+12998:0::0::Routes leaving Ocean: 
+12998:0::3::North, to Ocean~[bk98], 3~days
+12998:0::3::East, to Ocean~[bm99], 3~days
+12998:0::3::South, to Ocean~[bn98], 3~days
+12998:0::3::West, to Ocean~[bm97], 3~days
+12998:0::0::
+12998:0::0::It is raining.
+14157:0::0::
+14157:0::0::Province controlled by Mantu Manor~[6160], castle, in Musketeer Lands~[cb61]
+14157:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+14157:0::0::
+14157:0::0::Routes leaving Musketeer Lands: 
+14157:0::3::North, mountain, to Musketeer Lands~[ca57], 10~days
+14157:0::3::East, mountain, to Musketeer Lands~[cb58], 10~days
+14157:0::3::South, forest, to Musketeer Lands~[cc57], 8~days
+14157:0::3::West, plain, to Musketeer Border~[cb56], 7~days
+14157:0::0::
+14157:0::0::Inner locations:
+14157:0::3::Rocky hill~[h374], rocky hill, 1 day
+14157:0::6::Kygor's Reflection~[z890], temple, defense~10
+14157:0::6::R & D~[p883], tower, defense~40, owner:
+14157:0::0/9:: *       Callum~[z495], with six~archers, 29~crossbowmen, 20~winged horses
+14157:0::6::Mother Lode~[9992], mine, defense~10, depth~6, 9%~damaged
+14157:0::3::Cave~[z094], cave, hidden, 1 day
+14157:0::0::
+14157:0::0::Seen here:
+14157:0::0/3::   Garrison~[r340], garrison, on guard, with 30~peasants, 21~wild horses, 95~winged horses, one~warmount, one~lion, one~giant lizard, four~wolves, one~cyclops, one~rat, two~centaurs
+14157:0::0/3:: * Eric~[d070], with 32~pikemen, three~winged horses, two~wolves, accompanied~by:
+14157:0::0/6::      Undead~[129820], undead
+14157:0::0/3:: * Malcom~[b687], with nine~peasants, 59~workers
+14163:0::0::
+14163:0::0::Province controlled by Dafarik Demesne~[8831], castle, in Blood Mist Woods~[cb63]
+14163:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+14163:0::0::
+14163:0::0::Routes leaving Blood Mist Woods: 
+14163:0::3::North, forest, to Musketeer Lands~[ca63], 8~days
+14163:0::3::East, plain, to Plain of Mist~[cb64], 7~days
+14163:0::3::South, swamp, to Sandle full of goo swamp~[cc63], 14~days
+14163:0::3::West, swamp, to Musketeer Lands~[cb62], 14~days
+14163:0::0::
+14163:0::0::Inner locations:
+14163:0::3::Cemetary Hill~[j084], graveyard, 1 day, owner:
+14163:0::0/6::      Derfel Cadarn~[85750], conjurer, with 122~undead, five~winged horses
+14163:0::3::A magical barrier surrounds Cemetary Hill~[j084].
+14163:0::3::Dafarik~[p10], city, 1 day
+14163:0::3::Mallorn grove~[p833], mallorn grove, hidden, 1 day
+14163:0::0::
+14163:0::0::Seen here:
+14163:0::0/3::   Garrison~[2053], garrison, on guard, with 80~workers, one~hound, 29~winged horses
+14268:0::0::
+14268:0::0::Province controlled by Castle Perilous~[9549], castle, in Musketeer Lands~[cc68]
+14268:0::0::Ruled by Warden~[7942], lord
+14268:0::0::
+14268:0::0::Routes leaving Musketeer Lands: 
+14268:0::3::North, forest, to Musketeer Lands~[cb68], 8~days
+14268:0::3::East, to Plain~[cc69], 7~days
+14268:0::3::South, to Plain~[cd68], 7~days
+14268:0::3::West, swamp, to Musketeer Lands~[cc67], 14~days
+14268:0::0::
+14268:0::0::Inner locations:
+14268:0::3::Ravenna~[n66], city, 1 day
+14268:0::3::Bog~[z701], bog, 1 day
+14268:0::0::
+14268:0::0::It is raining.
+14268:0::0::
+14268:0::0::Seen here:
+14268:0::0/3::   Garrison~[4805], garrison, on guard, with 18~peasants, 29~giant lizards, 17~soldiers
+57658:0::0::
+57658:0::0::Routes leaving Revenge's Heart: 
+57658:0::3::Out, mountain, to Free Atala~[aq71], 1~day
+57658:0::0::
+57658:0::0::Cities rumored to be nearby:
+57658:0::3::Phoenix~[b78], in Plain~[am75]
+57658:0::3::Moonfire~[n92], in Forest~[ap69]
+57658:0::3::WoodVille~[x81], in Free Atala~[ap71]
+57658:0::3::AlGore~[z95], in Forest~[ar67]
+57658:0::0::
+57658:0::0::Skills taught here:
+57658:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Mining~[720], Magic~[800], Weather magic~[820]
+57658:0::0::
+57658:0::0::Market report:
+57658:0::3::
+57658:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57658:0::3::-----    ---   -----    ---     -----   ----                     
+57658:0::3::  buy    k98       7      9         5   clay pots~[95]           
+57658:0::3:: sell    k98      30      1        10   iron~[79]                
+57658:0::0::
+57658:0::0::Inner locations:
+57658:0::3::Honorland~[t383], castle, defense~78, 23%~damaged, level~6, owner:
+57658:0::0/6:: *    Gustav~[v374], baron, conjurer, wielding enchanted javelin~[102347], wearing magic shield~[109870], with 20~soldiers, 255~pikemen, 72~ghost warriors, 453~crossbowmen, 317~elite archers, 15~winged horses, 34~giant lizards, accompanied~by:
+57658:0::0/9:: *       Antilles~[f597], mage, with 37~winged horses, one~giant lizard
+57658:0::3::Ye Lookout~[8555], tower, defense~40
+57658:0::3::Ye Holy Place~[1375], temple, defense~10
+57658:0::0::
+57658:0::0::It is raining.
+57826:0::0::
+57826:0::0::Routes leaving Ravenna: 
+57826:0::3::Out, swamp, to Musketeer Lands~[cc68], 1~day
+57826:0::0::
+57826:0::0::Cities rumored to be nearby:
+57826:0::3::Rimmon~[z76], in Forest~[cc75], safe haven
+57826:0::0::
+57826:0::0::Skills taught here:
+57826:0::3::Combat~[610], Stealth~[630], Construction~[680], Trade~[730], Magic~[800], Weather magic~[820]
+57826:0::0::
+57826:0::0::Market report:
+57826:0::3::
+57826:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57826:0::3::-----    ---   -----    ---     -----   ----                     
+57826:0::3::  buy    n66     142     28        65   plum wine~[v292]         
+57826:0::3::  buy    n66      86     40       100   sugar~[s288]             
+57826:0::3::  buy    n66     110     23        30   incense~[145787]         
+57826:0::3::  buy    n66       7      9         5   clay pots~[95]           
+57826:0::3::  buy    n66     121     26        55   cinnabar~[t507]          
+57826:0::3:: sell   h828       7      1         5   clay pot~[95]            
+57826:0::3:: sell    n66      21     35       100   walnuts~[d854]           
+57826:0::3:: sell    n66      13     29       100   oranges~[a085]           
+57826:0::3:: sell    n66     133     28        45   silk~[137619]            
+57826:0::3:: sell    n66      75     40        72   chocolate~[106814]       
+57826:0::3:: sell    n66      13     38       100   flax~[98678]             
+57826:0::3:: sell    n66     150     28        30   jeweled eggs~[v897]      
+57826:0::0::
+57826:0::0::Inner locations:
+57826:0::3::Daununda Shrine~[6575], temple, defense~10
+57826:0::3::Daununda University~[9835], tower, defense~40
+57826:0::3::Castle Perilous~[9549], castle, defense~67, level~6, owner:
+57826:0::0/6::      Warden~[7942], lord, mage, with four~peasants, 28~workers, 103~pikemen, 232~ghost warriors, 42~crossbowmen, 20~elite archers, 136~winged horses, 212~giant lizards, accompanied~by:
+57826:0::0/9::         Perro VII~[140620], with three~winged horses, three~giant lizards
+57826:0::0/9::         Perro VIII~[143341], with one~winged horse, three~giant lizards
+57826:0::0/9::         Perro IX~[127989], with three~winged horses, three~giant lizards
+57826:0::0/9::         Perro XI~[m434], with two~winged horses, three~giant lizards
+57826:0::0/9::         Perro XV~[a548], with three~winged horses, three~giant lizards
+57826:0::0/9::         Perro XVI~[x221], with three~winged horses, three~giant lizards
+57826:0::0/9::         Perro XIV~[g471], with three~winged horses, three~giant lizards
+57826:0::0/9::         Perro VI~[112354], with 41~winged horses, two~giant lizards
+57826:0::0/9::         Cinfandel~[4589], with three~winged horses
+57826:0::0::
+57826:0::0::It is raining.
+57870:0::0::
+57870:0::0::Routes leaving Dafarik: 
+57870:0::3::Out, forest, to Blood Mist Woods~[cb63], 1~day
+57870:0::0::
+57870:0::0::Cities rumored to be nearby:
+57870:0::3::Cyrkarth~[g34], in Musketeer Lands~[cb61]
+57870:0::3::Kygor's Blessings~[r13], in Musketeer Heartland~[cf63]
+57870:0::0::
+57870:0::0::Skills taught here:
+57870:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Forestry~[700], Magic~[800], Scrying~[840]
+57870:0::0::
+57870:0::0::Market report:
+57870:0::3::
+57870:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57870:0::3::-----    ---   -----    ---     -----   ----                     
+57870:0::3::  buy    p10      86     46        38   vinegar~[t641]           
+57870:0::3::  buy    p10       7      9         5   clay pots~[95]           
+57870:0::3:: sell    p10      12     25        30   wood~[77]                
+57870:0::3:: sell    p10      15     40       100   linen~[c091]             
+57870:0::3:: sell    p10      35     36       100   honey~[g199]             
+57870:0::3:: sell    p10      35     28        62   pipeweed~[r294]          
+57870:0::3:: sell    p10      50     42        23   cardamom~[110598]        
+57870:0::3:: sell    p10      27     49        43   tea~[101309]             
+57870:0::3:: sell    p10     104     27        15   rose perfume~[h454]      
+57870:0::0::
+57870:0::0::Inner locations:
+57870:0::3::Zeprin's Fine Soups~[2444], inn, defense~10, 40%~damaged
+57870:0::3::Kygor's Right Hand~[1362], temple, defense~10
+57870:0::3::The Learning Place~[4036], tower, defense~40
+57870:0::3::Dafarik Demesne~[8831], castle, defense~80, level~6, owner:
+57870:0::0/6::      Zeprin the Red~[8653], duke, master of the black arts, "{<i>}Rimmon Musketeer waving skull and crossbones{</i>}", with 414~peasants, 20~workers, 144~soldiers, five~elite guard, 2,413~ghost warriors, 61~crossbowmen, 116~elite archers, 1,363~undead, 552~giant lizards, 47~harpies, ten~wild horses, one~warmount, eight~hounds, accompanied~by:
+57870:0::0/9::         Arroin~[t309], wielding Vath's death touch~[z412], with seven~winged horses
+57870:0::3::Phantasm~[h120], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[z633], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[d012], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[g970], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[s158], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[d177], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[c128], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[c774], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[c947], inn-in-progress, 3% completed
+57870:0::3::Phantasm~[c734], inn-in-progress, 3% completed
+57870:0::0::
+57870:0::0::Seen here:
+57870:0::0/3::   Garrison~[1176], garrison, on guard, with 129~pikemen
+5:0::0::
+5:0::0::begin uh5 "Highlander"  # Highland Rangers
+5:0::0::
+5:0::0::unit uh5  # Highland Rangers
+5:0::0::
+5:0::0::unit z775  # Gallagar in Indefagable~[r423]
+5:0::3::sail n
+5:0::3::sail n
+5:0::3::sail n
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail n
+5:0::3::sail n
+5:0::3::sail n
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail n
+5:0::3::sail n
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail w
+5:0::3::sail n
+5:0::3::sail n
+5:0::3::sail n
+5:0::3::sail n
+5:0::0::
+5:0::0::unit t766  # Lochlan in Indefagable~[r423]
+5:0::3::# > use 616 (executing for one more day)
+5:0::3::use 616
+5:0::3::use 614
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 614
+5:0::3::use 614
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 614
+5:0::3::use 614
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 614
+5:0::3::use 614
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 614
+5:0::3::use 614
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 614
+5:0::0::
+5:0::0::unit z495  # Callum in R & D~[p883]
+5:0::3::# > breed 54 54 (executing for one more day)
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit d070  # Eric in Musketeer Lands~[cb57]
+5:0::3::# > explore (executing for two more days)
+5:0::3::explore
+5:0::3::use 614
+5:0::0::
+5:0::0::unit b687  # Malcom in Musketeer Lands~[cb57]
+5:0::3::# > collect 10 0 0 (still~executing)
+5:0::3::train 11 0
+5:0::3::get garrison 11 0
+5:0::3::move h374
+5:0::3::move 9992
+5:0::3::use 722
+5:0::3::repair
+5:0::3::move out
+5:0::3::move out
+5:0::3::give garrison 11 0
+5:0::3::recruit
+5:0::3::train 11 0
+5:0::0::
+5:0::0::unit h444  # Zarthusa in Dafarik Demesne~[8831]
+5:0::3::# > use 813 (executing for three more days)
+5:0::0::
+5:0::0::unit h828  # Brondwyn in Ravenna~[n66]
+5:0::3::# > use 616 (executing for one more day)
+5:0::3::use 616
+5:0::3::use 616
+5:0::0::
+5:0::0::unit v374  # Gustav in Honorland~[t383]
+5:0::3::breed 282 282
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit f597  # Antilles in Honorland~[t383]
+5:0::3::give v374 282 0
+5:0::0::
+5:0::0::end
+55275:0::0::
+55275:0::0::Admit permissions:
+55275:0::0::
+55275:0::3::admit 1055  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 1071  all
+55275:0::3::admit 1127  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 1152  all
+55275:0::3::admit 1206  all
+55275:0::3::admit 1267  all
+55275:0::3::admit 1362  all
+55275:0::3::admit 1400  all
+55275:0::3::admit 1585  all
+55275:0::3::admit 1685  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 1712  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit 1714  all
+55275:0::3::admit 1742  all
+55275:0::3::admit 1843  all
+55275:0::3::admit 1856  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 2068  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 2069  all
+55275:0::3::admit 2136  all
+55275:0::3::admit 2391  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 2444  all
+55275:0::3::admit 2468  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit 2509  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 3070  all
+55275:0::3::admit 3084  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 3287  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit 3852  all
+55275:0::3::admit 3869  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 4036  all
+55275:0::3::admit 4303  all
+55275:0::3::admit 4399  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 4681  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit 4768  all
+55275:0::3::admit 4933  all
+55275:0::3::admit 5353  all
+55275:0::3::admit 5532  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 5739  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 5787  all
+55275:0::3::admit 5895  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit 6134  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 6138  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 6160  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit 6247  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 6575  all
+55275:0::3::admit 6821  all
+55275:0::3::admit 6852  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 7301  all
+55275:0::3::admit 7699  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 7769  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 7879  all
+55275:0::3::admit 7911  all
+55275:0::3::admit 8130  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 8831  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit 8951  all
+55275:0::3::admit 9022  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 9310  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit 9516  all
+55275:0::3::admit 9549  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit 9714  all
+55275:0::3::admit 9835  all
+55275:0::3::admit 9896  all
+55275:0::3::admit  a54  all
+55275:0::3::admit  f05  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  g06  all
+55275:0::3::admit  g34  all
+55275:0::3::admit  j17  all
+55275:0::3::admit  j36  all
+55275:0::3::admit  j79  all
+55275:0::3::admit  m26  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  m71  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  n38  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  n66  all
+55275:0::3::admit  p10  all
+55275:0::3::admit  p25  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  q46  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  r13  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  t10  all
+55275:0::3::admit  t55  all
+55275:0::3::admit  t63  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  t89  all
+55275:0::3::admit  w33  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  x55  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit  x83  all
+55275:0::3::admit  z56  all
+55275:0::3::admit  z76  cb5  df7  fc3  qb2  sz5  ug3  uh5  yf7  yg9  yv5
+55275:0::3::admit  z95  all
+55275:0::3::admit a101  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit a516  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit a552  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit b621  all
+55275:0::3::admit b687  bh3  cb5  db7  df7  fc3  hd3  mm9  nn3  ny7  qb2  qn5
+55275:0::3::            qy4  rq7  rr7  sz5  ta8  tr5  ug3  uh5  vy5  xy3  yf7
+55275:0::3::            yg9  ym3  yv5  zy6  xf3
+55275:0::3::admit c096  all
+55275:0::3::admit d070  bh3  cb5  db7  df7  fc3  hd3  mm9  nn3  ny7  qb2  qn5
+55275:0::3::            qy4  rq7  rr7  sz5  ta8  tr5  ug3  uh5  vy5  xy3  yf7
+55275:0::3::            yg9  ym3  yv5  zy6  xf3
+55275:0::3::admit d229 a098
+55275:0::3::admit d345  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit d449  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit d492  all
+55275:0::3::admit d497  all
+55275:0::3::admit d796  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit f597  bh3  cb5  db7  df7  fc3  hd3  mm9  nn3  ny7  qb2  qn5
+55275:0::3::            qy4  rq7  rr7  sz5  ta8  tr5  ug3  uh5  vy5  xy3  yf7
+55275:0::3::            yg9  ym3  yv5  zy6  xf3
+55275:0::3::admit f602  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit f667  all
+55275:0::3::admit g121  all
+55275:0::3::admit g596  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit g812  all
+55275:0::3::admit h369  all
+55275:0::3::admit h374  all
+55275:0::3::admit h403  all
+55275:0::3::admit h444  bh3  cb5  db7  df7  fc3  hd3  mm9  nn3  ny7  qb2  qn5
+55275:0::3::            qy4  rq7  rr7  sz5  ta8  tr5  ug3  uh5  vy5  xy3  yf7
+55275:0::3::            yg9  ym3  yv5  zy6  xf3
+55275:0::3::admit j084  all
+55275:0::3::admit j105  all
+55275:0::3::admit j185  all
+55275:0::3::admit j262  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit j303  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit j688  all
+55275:0::3::admit j791  all
+55275:0::3::admit j799  all
+55275:0::3::admit k471  all
+55275:0::3::admit m095  all
+55275:0::3::admit m249  all
+55275:0::3::admit m708  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit n593  all
+55275:0::3::admit p102  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit p123  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit p255  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit p266  all
+55275:0::3::admit p370  all
+55275:0::3::admit p385  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit p782  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit p883  all
+55275:0::3::admit q068  all
+55275:0::3::admit q147  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit q882  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit q906 v319
+55275:0::3::admit r081  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit r124  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit r149  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit r380  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit r727  all
+55275:0::3::admit r824  all
+55275:0::3::admit s102  all
+55275:0::3::admit s104  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit s454  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit t383  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5 148147  qy4  rr7  rq7  sz5  ta8  tr5  xf3  ug3  uh5
+55275:0::3::            vy5  xy3  yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit t441  all
+55275:0::3::admit t490  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit t578  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit t766  bh3  cb5  db7  df7  fc3  hd3  mm9  nn3  ny7  qb2  qn5
+55275:0::3::            qy4  rq7  rr7  sz5  ta8  tr5  ug3  uh5  vy5  xy3  yf7
+55275:0::3::            yg9  ym3  yv5  zy6  xf3
+55275:0::3::admit t786  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit v374  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5 148147  qy4  rr7  rq7  sz5  ta8  tr5  xf3  ug3  uh5
+55275:0::3::            vy5  xy3  yf7  yg9  ym3  yv5  zy6
+55275:0::3::admit v926  all
+55275:0::3::admit w425  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit x285  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit x698  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit x895  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit z217  all
+55275:0::3::admit z462  all
+55275:0::3::admit z495  bh3  cb5  db7  df7  fc3  hd3  mm9  nn3  ny7  qb2  qn5
+55275:0::3::            qy4  rq7  rr7  sz5  ta8  tr5  ug3  uh5  vy5  xy3  yf7
+55275:0::3::            yg9  ym3  yv5  zy6  xf3
+55275:0::3::admit z554  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit z701  all
+55275:0::3::admit z775  bh3  cb5  db7  df7  fc3  hd3  mm9  nn3  ny7  qb2  qn5
+55275:0::3::            qy4  rq7  rr7  sz5  ta8  tr5  ug3  uh5  vy5  xy3  yf7
+55275:0::3::            yg9  ym3  yv5  zy6  xf3
+55275:0::3::admit z832  cb5  df7  fc3  mm9  qn5  qb2  sz5  ug3  uh5  yf7  yg9
+55275:0::3::            yv5  zy6
+55275:0::3::admit z835  all
+55275:0::3::admit z890  all
+55275:0::3::admit z954  all
+55275:0::3::admit 125522  bh3  cb5  db7  df7  fc3  gk5  hd3  mm9  nn3  ny7  qb2
+55275:0::3::            qn5  qy4  rr7  rq7  sz5  ta8  tr5  ug3  uh5  vy5  xy3
+55275:0::3::            yf7  yg9  ym3  yv5  zy6
+55275:0::0::
+55275:0::0::Declared attitudes:
+55275:0::3::neutral  uh5
+55275:0::0::
+55275:0::0::Unclaimed items:
+55275:0::0::
+55275:0::0::      qty  name                              weight
+55275:0::0::      ---  ----                              ------
+55275:0::0::    1,028  gold~[1]                               0  
+55275:0::0::       20  wood~[77]                            600  
+60687:0::3::
+60687:0::3/16::Location:       Musketeer Lands~[cb57], in Provinia
+60687:0::3::Loyalty:        Fear-31
+60687:0::3::Health:         100%
+60687:0::3::Combat:         attack 177, defense 140, missile 55
+60687:0::3::                behind 3  (stay behind in combat)
+60687:0::3::Break point:    0% (fight to the death)
+60687:0::3::use  641 1      (concealing self, but not alone)
+60687:0::3/16::Pledged to:     Serla Silverhair~[4972]
+60687:0::3::
+60687:0::3::Declared attitudes:
+60687:0::6::neutral 9711
+60687:0::3::
+60687:0::3::Skills known:
+60687:0::6::Combat~[610]
+60687:0::12::Survive fatal wound~[611]
+60687:0::12::Fight to the death~[612]
+60687:0::12::Defense~[614], adept
+60687:0::12::Archery~[615], apprentice
+60687:0::12::Swordplay~[616], master
+60687:0::12::Weaponsmithing~[617], adept
+60687:0::6::Stealth~[630]
+60687:0::12::Petty thievery~[631], apprentice
+60687:0::12::Determine inventory of character~[632], apprentice
+60687:0::12::Determine skills of character~[633], apprentice
+60687:0::12::Conceal faction~[635], apprentice
+60687:0::12::Torture prisoner~[637], apprentice
+60687:0::12::Sneak into structure~[639], apprentice
+60687:0::12::Conceal self~[641], apprentice
+60687:0::6::Persuasion~[670]
+60687:0::12::Bribe noble~[671], apprentice
+60687:0::12::Persuade oathbound noble~[672], apprentice
+60687:0::12::Raise peasant mob~[673], apprentice
+60687:0::12::Rally peasant mob~[674], apprentice
+60687:0::6::Construction~[680]
+60687:0::12::Construct siege tower~[681], apprentice
+60687:0::12::Stone quarrying~[682], apprentice
+60687:0::6::Alchemy~[690]
+60687:0::12::Extract venom from ratspider~[691], apprentice
+60687:0::12::Make potion of slavery~[692], apprentice
+60687:0::12::Brew healing potion~[693], apprentice
+60687:0::12::Record skill on scroll~[695], apprentice
+60687:0::12::Collect rare elements~[696], apprentice
+60687:0::6::Forestry~[700]
+60687:0::12::Construct battering ram~[701], apprentice
+60687:0::12::Harvest lumber~[702], journeyman
+60687:0::12::Harvest yew~[703], apprentice
+60687:0::12::Collect rare foliage~[704], apprentice
+60687:0::12::Harvest mallorn wood~[705], apprentice
+60687:0::6::Mining~[720]
+60687:0::12::Mine iron~[721], adept
+60687:0::12::Mine gold~[722], adept
+60687:0::12::Mine mithril~[723], adept
+60687:0::6::Trade~[730]
+60687:0::12::Conceal identity of trader~[731], apprentice
+60687:0::12::Find tradegood for sale~[732], apprentice
+60687:0::12::Find market for tradegood~[733], apprentice
+60687:0::3::
+60687:0::3::Inventory:
+60687:0::3::{<b>}      qty  name                              weight{</b>}
+60687:0::3::      ---  ----                              ------
+60687:0::3::    5,998  gold~[1]                               0  
+60687:0::3::        9  peasants~[10]                        900  cap 900 (1,1,0)
+60687:0::3::       59  workers~[11]                       5,900  cap 5,900 (1,1,0)
+60687:0::3::       24  iron~[79]                            240  
+60687:0::3::        1  692 potion 2974~[111005]               1  
+60687:0::3::                                             ======
+60687:0::3::                                              7,041
+60687:0::3::
+60687:0::3/11::Capacity:  241/6,900 land (3%)
+60687:0::3::
+60687:0::3::Pending trades:
+60687:0::3::
+60687:0::6::trade    price    qty   item
+60687:0::6::-----    -----    ---   ----
+60687:0::6:: sell        7    955   clay pot~[95]
+60687:0::3::
+62070:0::3::
+62070:0::3/16::Location:       Musketeer Lands~[cb57], in Provinia
+62070:0::3::Loyalty:        Fear-27
+62070:0::3::Stacked over:   Undead~[129820]
+62070:0::3::Health:         100%
+62070:0::3::Combat:         attack 138, defense 116, missile 85
+62070:0::3::                behind 3  (stay behind in combat)
+62070:0::3::Break point:    0% (fight to the death)
+62070:0::3::use  641 1      (concealing self, but not alone)
+62070:0::3::
+62070:0::3::Skills known:
+62070:0::6::Shipcraft~[600]
+62070:0::12::Sailing~[601], apprentice
+62070:0::12::Shipbuilding~[602], apprentice
+62070:0::12::Fishing~[603], apprentice
+62070:0::6::Combat~[610]
+62070:0::12::Fight to the death~[612]
+62070:0::12::Defense~[614], journeyman
+62070:0::12::Archery~[615], journeyman
+62070:0::12::Swordplay~[616], adept
+62070:0::12::Weaponsmithing~[617], adept
+62070:0::6::Stealth~[630]
+62070:0::12::Determine inventory of character~[632], apprentice
+62070:0::12::Learn of richest nearby noble~[636], apprentice
+62070:0::12::Torture prisoner~[637], apprentice
+62070:0::12::Sneak into structure~[639], apprentice
+62070:0::12::Conceal self~[641], apprentice
+62070:0::6::Persuasion~[670]
+62070:0::12::Bribe noble~[671], apprentice
+62070:0::12::Persuade oathbound noble~[672], apprentice
+62070:0::12::Raise peasant mob~[673], apprentice
+62070:0::12::Train angry peasants~[676], apprentice
+62070:0::6::Construction~[680]
+62070:0::12::Stone quarrying~[682], journeyman
+62070:0::6::Alchemy~[690]
+62070:0::12::Extract venom from ratspider~[691], apprentice
+62070:0::12::Record skill on scroll~[695], apprentice
+62070:0::12::Collect rare elements~[696], apprentice
+62070:0::6::Forestry~[700]
+62070:0::12::Harvest lumber~[702], journeyman
+62070:0::12::Harvest yew~[703], apprentice
+62070:0::12::Collect rare foliage~[704], apprentice
+62070:0::6::Mining~[720]
+62070:0::12::Mine iron~[721], journeyman
+62070:0::12::Mine gold~[722], journeyman
+62070:0::6::Trade~[730]
+62070:0::12::Conceal identity of trader~[731], apprentice
+62070:0::12::Find tradegood for sale~[732], apprentice
+62070:0::12::Find market for tradegood~[733], apprentice
+62070:0::3::
+62070:0::3::Inventory:
+62070:0::3::{<b>}      qty  name                              weight{</b>}
+62070:0::3::      ---  ----                              ------
+62070:0::3::    4,353  gold~[1]                               0  
+62070:0::3::       32  pikemen~[16]                       3,200  cap 3,200 (5,30,0)
+62070:0::3::        3  winged horses~[54]                 3,000  fly 450
+62070:0::3::        2  wolves~[289]                         200   (5,5,0)
+62070:0::3::        1  Orb~[a110]                             1  
+62070:0::3::                                             ======
+62070:0::3::                                              6,401
+62070:0::3::
+62070:0::3/11::Capacity:  1/3,750 land (0%), 3,301/450 ride (733%), 3,501/450 fly (778%)
+62070:0::3::
+62070:0::3::Pending trades:
+62070:0::3::
+62070:0::6::trade    price    qty   item
+62070:0::6::-----    -----    ---   ----
+62070:0::6:: sell        4     15   woven basket~[94]
+62070:0::6:: sell        7    928   clay pot~[95]
+62070:0::3::
+63597:0::3::
+63597:0::3/16::Location:       Honorland~[t383], in Revenge's Heart~[k98], in province Free Atala~[aq71], in Atala
+63597:0::3::Loyalty:        Oath-1
+63597:0::3/16::Stacked under:  Gustav~[v374]
+63597:0::3::Health:         100%
+63597:0::3::Combat:         attack 113, defense 110, missile 55
+63597:0::3::                behind 4  (stay behind in combat)
+63597:0::3::Break point:    0% (fight to the death)
+63597:0::3::use  641 1      (concealing self, but not alone)
+63597:0::3/16::Pledged to:     Count F'Drol~[148147]
+63597:0::3::
+63597:0::3::Current aura:   11
+63597:0::3::Maximum aura:   11
+63597:0::3::
+63597:0::3::Skills known:
+63597:0::6::Combat~[610]
+63597:0::12::Survive fatal wound~[611]
+63597:0::12::Fight to the death~[612]
+63597:0::12::Construct catapult~[613], apprentice
+63597:0::12::Defense~[614], journeyman
+63597:0::12::Archery~[615], apprentice
+63597:0::12::Swordplay~[616], journeyman
+63597:0::12::Weaponsmithing~[617], adept
+63597:0::6::Stealth~[630]
+63597:0::12::Petty thievery~[631], apprentice
+63597:0::12::Determine inventory of character~[632], apprentice
+63597:0::12::Sneak into structure~[639], apprentice
+63597:0::12::Conceal self~[641], apprentice
+63597:0::6::Beastmastery~[650]
+63597:0::12::Bird spy~[651], apprentice
+63597:0::12::Capture beasts in battle~[652]
+63597:0::12::Use beasts in battle~[653]
+63597:0::12::Breed beasts~[654], grand master
+63597:0::12::Catch wild horses~[655], grand master
+63597:0::12::Train wild horse to riding horse~[656], apprentice
+63597:0::12::Train wild horse to warmount~[657], adept
+63597:0::12::Summon wild men~[658], apprentice
+63597:0::12::Breed hound~[661], apprentice
+63597:0::6::Construction~[680]
+63597:0::12::Construct siege tower~[681], apprentice
+63597:0::12::Stone quarrying~[682], apprentice
+63597:0::6::Forestry~[700]
+63597:0::12::Construct battering ram~[701], apprentice
+63597:0::12::Harvest lumber~[702], apprentice
+63597:0::12::Harvest yew~[703], apprentice
+63597:0::12::Collect rare foliage~[704], apprentice
+63597:0::12::Harvest mallorn wood~[705], apprentice
+63597:0::12::Harvest opium~[706], apprentice
+63597:0::6::Trade~[730]
+63597:0::12::Conceal identity of trader~[731], apprentice
+63597:0::12::Find tradegood for sale~[732], apprentice
+63597:0::12::Find market for tradegood~[733], apprentice
+63597:0::6::Necromancy~[900]
+63597:0::12::Transcend death~[901], apprentice
+63597:0::12::Runes of Evil~[902], apprentice
+63597:0::12::Summon ghost warriors~[903], apprentice
+63597:0::12::Raise undead~[904], apprentice
+63597:0::12::Summon demon lord~[905], apprentice
+63597:0::12::Renew demon bond~[906], apprentice
+63597:0::12::Banish demon lord~[907], apprentice
+63597:0::12::Eating of the dead~[908], apprentice
+63597:0::12::Aura blast~[909], apprentice
+63597:0::12::Absorb aura blast~[911], apprentice
+63597:0::3::
+63597:0::3::Inventory:
+63597:0::3::{<b>}      qty  name                              weight{</b>}
+63597:0::3::      ---  ----                              ------
+63597:0::3::      122  gold~[1]                               0  
+63597:0::3::       37  winged horses~[54]                37,000  fly 5,550
+63597:0::3::       15  wood~[77]                            450  
+63597:0::3::       10  mithril~[82]                          50  
+63597:0::3::        1  giant lizard~[282]                 1,000   (45,45,0)
+63597:0::3::                                             ======
+63597:0::3::                                             38,500
+63597:0::3::
+63597:0::3/11::Capacity:  500/5,650 land (8%), 600/5,550 ride (10%), 1,600/5,550 fly (28%)
+63597:0::3::
+65444:0::3::
+65444:0::3/16::Location:       Dafarik Demesne~[8831], in Dafarik~[p10], in province Blood Mist Woods~[cb63], in Provinia
+65444:0::3::Loyalty:        Oath-2
+65444:0::3::Health:         100%
+65444:0::3::Combat:         attack 103, defense 143, missile 66
+65444:0::3::                behind 0  (front line in combat)
+65444:0::3::Break point:    50%
+65444:0::3::use  641 1      (concealing self)
+65444:0::3/16::Pledged to:     Princess Dianna~[2621]
+65444:0::3::
+65444:0::3::Current aura:   123
+65444:0::3::Maximum aura:   154 (4+150)
+65444:0::3::
+65444:0::3::Skills known:
+65444:0::6::Combat~[610]
+65444:0::12::Survive fatal wound~[611]
+65444:0::12::Fight to the death~[612]
+65444:0::12::Defense~[614], journeyman
+65444:0::12::Archery~[615], apprentice
+65444:0::12::Swordplay~[616], journeyman
+65444:0::12::Weaponsmithing~[617], apprentice
+65444:0::6::Stealth~[630]
+65444:0::12::Sneak into structure~[639], apprentice
+65444:0::12::Conceal self~[641], apprentice
+65444:0::6::Beastmastery~[650]
+65444:0::12::Capture beasts in battle~[652]
+65444:0::12::Use beasts in battle~[653]
+65444:0::12::Breed beasts~[654], apprentice
+65444:0::12::Catch wild horses~[655], apprentice
+65444:0::12::Train wild horse to warmount~[657], apprentice
+65444:0::6::Alchemy~[690]
+65444:0::12::Extract venom from ratspider~[691], apprentice
+65444:0::12::Record skill on scroll~[695], apprentice
+65444:0::6::Magic~[800]
+65444:0::12::Meditate~[801], apprentice
+65444:0::12::Perform common tasks for gold~[802], grand master
+65444:0::12::Appear common~[803], apprentice
+65444:0::12::View current aura level of others~[804], apprentice
+65444:0::12::Reveal abilities of another mage~[805], apprentice
+65444:0::12::Tap health for aura~[806], journeyman
+65444:0::12::Heal~[807], journeyman
+65444:0::12::Modern magic script~[808], apprentice
+65444:0::12::Shroud abilities from scry~[809], apprentice
+65444:0::12::Detect ability scry~[811], apprentice
+65444:0::12::Dispel ability shroud~[812], apprentice
+65444:0::12::Advanced meditation~[813], grand master
+65444:0::12::Hinder meditation~[814], apprentice
+65444:0::6::Weather magic~[820]
+65444:0::12::Fierce wind~[821], apprentice
+65444:0::12::Bind storm to ship~[822], apprentice
+65444:0::12::Scribe weather symbols~[823], journeyman
+65444:0::12::Summon rain~[824], apprentice
+65444:0::12::Summon wind~[825], apprentice
+65444:0::12::Summon fog~[826], apprentice
+65444:0::12::Direct storm~[827], journeyman
+65444:0::12::Dissipate storm~[828], apprentice
+65444:0::12::Renew storm strength~[829], apprentice
+65444:0::12::Lightning bolt~[831], apprentice
+65444:0::12::Seize control of storm~[832], journeyman
+65444:0::12::Fog of death~[833], apprentice
+65444:0::6::Scrying~[840]
+65444:0::12::Scry location~[841], adept
+65444:0::12::Shroud location from magical scry~[842], apprentice
+65444:0::12::Dispel location shroud~[843], apprentice
+65444:0::12::Ciphered writing of Areth-Pirn~[844], apprentice
+65444:0::12::Create magical barrier~[845], apprentice
+65444:0::12::Remove magical barrier~[846], journeyman
+65444:0::12::Locate character~[847], apprentice
+65444:0::12::Detect location scry~[848], apprentice
+65444:0::12::Farcasting~[849], apprentice
+65444:0::12::Save farcast state~[851], apprentice
+65444:0::12::Banish undead~[852], apprentice
+65444:0::6::Gatecraft~[860]
+65444:0::12::Teleport~[861], apprentice
+65444:0::12::Detect gates~[862], apprentice
+65444:0::12::Jump through gate~[863], apprentice
+65444:0::12::Seal gate~[864], apprentice
+65444:0::12::Unseal gate with key~[865], apprentice
+65444:0::12::Notify if gate unsealed~[866], apprentice
+65444:0::12::Forcefully unseal gate~[867], apprentice
+65444:0::12::Reveal gate key~[868], apprentice
+65444:0::12::Notify of gate jumps~[869], apprentice
+65444:0::12::Language of the Ancients~[871], apprentice
+65444:0::12::Reverse jump through gate~[872], apprentice
+65444:0::6::Artifact construction~[880]
+65444:0::12::Forge auraculum~[881], apprentice
+65444:0::12::Reveal creator of artifact~[882], apprentice
+65444:0::12::Reveal where artifact was created~[883], apprentice
+65444:0::12::Cloak creator of artifact~[884]
+65444:0::12::Cloak region of artifact creation~[885], apprentice
+65444:0::12::Curse noncreator loyalty~[886], apprentice
+65444:0::12::Forge magical weapon~[887], apprentice
+65444:0::12::Forge magical armor~[888], apprentice
+65444:0::12::Forge magical bow~[889], apprentice
+65444:0::12::Dispel cloaking from artifact~[891], apprentice
+65444:0::12::Arcane symbols~[892], apprentice
+65444:0::12::Destroy artifact~[893], apprentice
+65444:0::12::Forge palantir~[894], apprentice
+65444:0::6::Necromancy~[900]
+65444:0::12::Transcend death~[901], apprentice
+65444:0::12::Runes of Evil~[902], apprentice
+65444:0::12::Summon ghost warriors~[903], journeyman
+65444:0::12::Raise undead~[904], apprentice
+65444:0::12::Summon demon lord~[905], apprentice
+65444:0::12::Renew demon bond~[906], apprentice
+65444:0::12::Banish demon lord~[907], apprentice
+65444:0::12::Eating of the dead~[908], apprentice
+65444:0::12::Aura blast~[909], apprentice
+65444:0::12::Absorb aura blast~[911], apprentice
+65444:0::6::Advanced sorcery~[920]
+65444:0::12::Trance~[921], apprentice
+65444:0::12::Teleport items~[922], journeyman
+65444:0::3::
+65444:0::3::Inventory:
+65444:0::3::{<b>}      qty  name                              weight{</b>}
+65444:0::3::      ---  ----                              ------
+65444:0::3::    2,300  gold~[1]                               0  
+65444:0::3::        7  winged horses~[54]                 7,000  fly 1,050
+65444:0::3::        1  Helm of Valor~[f058]                  10  +100 defense
+65444:0::3::        1  The Torc of the Archmage~[g947]         1  
+65444:0::3::        1  crystal sword~[m159]                  10  +25 attack
+65444:0::3::        1  Strange potion~[p609]                  1  
+65444:0::3::        1  Magic potion~[r535]                    1  
+65444:0::3::        1  Morathaen~[v135]                      10  +100 missile
+65444:0::3::        1  Farstriker~[85817]                    10  +100 missile
+65444:0::3::        1  Bow of Lightning~[113569]             10  +100 missile
+65444:0::3::        1  692 potion 2974~[120169]               1  
+65444:0::3::                                             ======
+65444:0::3::                                              7,054
+65444:0::3::
+65444:0::3/11::Capacity:  54/1,150 land (4%), 154/1,050 ride (14%), 154/1,050 fly (14%)
+65444:0::3::
+65828:0::3::
+65828:0::3/16::Location:       Ravenna~[n66], in province Musketeer Lands~[cc68], in Provinia
+65828:0::3::Loyalty:        Oath-1
+65828:0::3::Health:         100%
+65828:0::3::Combat:         attack 106, defense 80, missile 0
+65828:0::3::                behind 4  (stay behind in combat)
+65828:0::3::Break point:    50%
+65828:0::3::use  641 1      (concealing self)
+65828:0::3::
+65828:0::3::Current aura:   5
+65828:0::3::Maximum aura:   5
+65828:0::3::
+65828:0::3::Skills known:
+65828:0::6::Shipcraft~[600]
+65828:0::6::Combat~[610]
+65828:0::12::Survive fatal wound~[611]
+65828:0::12::Swordplay~[616], apprentice
+65828:0::6::Stealth~[630]
+65828:0::12::Conceal self~[641], apprentice
+65828:0::6::Construction~[680]
+65828:0::6::Forestry~[700]
+65828:0::6::Magic~[800]
+65828:0::12::Meditate~[801], apprentice
+65828:0::12::Perform common tasks for gold~[802], journeyman
+65828:0::6::Scrying~[840]
+65828:0::12::Scry location~[841], apprentice
+65828:0::3::
+65828:0::3::Partially known skills:
+65828:0::6/6::Persuasion~[670], 0/28
+65828:0::6/6::Alchemy~[690], 0/28
+65828:0::6/6::Weather magic~[820], 14/35
+65828:0::6/6::Gatecraft~[860], 28/35
+65828:0::3::
+65828:0::3::Inventory:
+65828:0::3::{<b>}      qty  name                              weight{</b>}
+65828:0::3::      ---  ----                              ------
+65828:0::3::    1,077  gold~[1]                               0  
+65828:0::3::        4  winged horses~[54]                 4,000  fly 600
+65828:0::3::        1  clay pot~[95]                          5  
+65828:0::3::                                             ======
+65828:0::3::                                              4,005
+65828:0::3::
+65828:0::3/11::Capacity:  5/700 land (0%), 105/600 ride (17%), 105/600 fly (17%)
+65828:0::3::
+65828:0::3::Pending trades:
+65828:0::3::
+65828:0::6::trade    price    qty   item
+65828:0::6::-----    -----    ---   ----
+65828:0::6:: sell        7  9,903   clay pot~[95]
+65828:0::3::
+74766:0::3::
+74766:0::3/16::Location:       Indefagable~[r423], in Ocean~[bf98], in Great Sea
+74766:0::3::Loyalty:        Oath-1
+74766:0::3/16::Stacked under:  Gallagar~[z775]
+74766:0::3::Health:         100%
+74766:0::3::Combat:         attack 117, defense 130, missile 107
+74766:0::3::                behind 0  (front line in combat)
+74766:0::3::Break point:    0% (fight to the death)
+74766:0::3::use  641 1      (concealing self, but not alone)
+74766:0::3::
+74766:0::3::Skills known:
+74766:0::6::Combat~[610]
+74766:0::12::Survive fatal wound~[611]
+74766:0::12::Fight to the death~[612]
+74766:0::12::Construct catapult~[613], apprentice
+74766:0::12::Defense~[614], journeyman
+74766:0::12::Archery~[615], adept
+74766:0::12::Swordplay~[616], journeyman
+74766:0::12::Weaponsmithing~[617], grand master
+74766:0::6::Stealth~[630]
+74766:0::12::Petty thievery~[631], apprentice
+74766:0::12::Determine inventory of character~[632], apprentice
+74766:0::12::Determine skills of character~[633], apprentice
+74766:0::12::Determine character's lord~[634], apprentice
+74766:0::12::Conceal faction~[635], apprentice
+74766:0::12::Sneak into structure~[639], apprentice
+74766:0::12::Conceal self~[641], apprentice
+74766:0::6::Construction~[680]
+74766:0::12::Stone quarrying~[682], apprentice
+74766:0::6::Alchemy~[690]
+74766:0::12::Extract venom from ratspider~[691], apprentice
+74766:0::12::Make potion of slavery~[692], apprentice
+74766:0::12::Brew healing potion~[693], apprentice
+74766:0::6::Forestry~[700]
+74766:0::12::Construct battering ram~[701], apprentice
+74766:0::12::Harvest lumber~[702], journeyman
+74766:0::12::Harvest yew~[703], grand master
+74766:0::12::Collect rare foliage~[704], journeyman
+74766:0::12::Harvest mallorn wood~[705], journeyman
+74766:0::6::Mining~[720]
+74766:0::12::Mine iron~[721], grand master
+74766:0::12::Mine gold~[722], master
+74766:0::12::Mine mithril~[723], master
+74766:0::6::Trade~[730]
+74766:0::12::Conceal identity of trader~[731], apprentice
+74766:0::12::Find tradegood for sale~[732], apprentice
+74766:0::12::Find market for tradegood~[733], apprentice
+74766:0::3::
+74766:0::3::Inventory:
+74766:0::3::{<b>}      qty  name                              weight{</b>}
+74766:0::3::      ---  ----                              ------
+74766:0::3::       21  workers~[11]                       2,100  cap 2,100 (1,1,0)
+74766:0::3::        2  winged horses~[54]                 2,000  fly 300
+74766:0::3::        3  avinia leaves~[65]                     3  
+74766:0::3::        1  Orb~[s043]                             1  
+74766:0::3::        1  Strange potion~[t228]                  1  
+74766:0::3::        1  Magic potion~[t940]                    1  
+74766:0::3::        1  692 potion 2974~[120328]               1  
+74766:0::3::                                             ======
+74766:0::3::                                              4,107
+74766:0::3::
+74766:0::3/11::Capacity:  7/2,500 land (0%), 2,207/300 ride (735%), 2,207/300 fly (735%)
+74766:0::3::
+75374:0::3::
+75374:0::3/16::Location:       Honorland~[t383], in Revenge's Heart~[k98], in province Free Atala~[aq71], in Atala
+75374:0::3::Loyalty:        Oath-2
+75374:0::3::Stacked over:   Antilles~[f597]
+75374:0::3::Health:         100%
+75374:0::3::Combat:         attack 80, defense 80, missile 50
+75374:0::3::                behind 0  (front line in combat)
+75374:0::3::Break point:    0% (fight to the death)
+75374:0::3::use  641 1      (concealing self, but not alone)
+75374:0::3/16::Pledged to:     Count F'Drol~[148147]
+75374:0::3::
+75374:0::3::Current aura:   10
+75374:0::3::Maximum aura:   10
+75374:0::3::
+75374:0::3::Skills known:
+75374:0::6::Combat~[610]
+75374:0::12::Survive fatal wound~[611]
+75374:0::12::Fight to the death~[612]
+75374:0::12::Defense~[614], apprentice
+75374:0::12::Archery~[615], apprentice
+75374:0::12::Swordplay~[616], apprentice
+75374:0::12::Weaponsmithing~[617], apprentice
+75374:0::6::Stealth~[630]
+75374:0::12::Sneak into structure~[639], apprentice
+75374:0::12::Conceal self~[641], apprentice
+75374:0::6::Beastmastery~[650]
+75374:0::12::Bird spy~[651], apprentice
+75374:0::12::Capture beasts in battle~[652]
+75374:0::12::Use beasts in battle~[653]
+75374:0::12::Breed beasts~[654], grand master
+75374:0::12::Catch wild horses~[655], master
+75374:0::12::Train wild horse to riding horse~[656], apprentice
+75374:0::12::Train wild horse to warmount~[657], grand master
+75374:0::12::Summon wild men~[658], apprentice
+75374:0::12::Breed hound~[661], apprentice
+75374:0::6::Persuasion~[670]
+75374:0::6::Necromancy~[900]
+75374:0::12::Transcend death~[901], apprentice
+75374:0::12::Runes of Evil~[902], apprentice
+75374:0::12::Summon ghost warriors~[903], apprentice
+75374:0::12::Raise undead~[904], apprentice
+75374:0::12::Summon demon lord~[905], apprentice
+75374:0::12::Renew demon bond~[906], apprentice
+75374:0::12::Banish demon lord~[907], apprentice
+75374:0::12::Aura blast~[909], apprentice
+75374:0::12::Absorb aura blast~[911], apprentice
+75374:0::3::
+75374:0::3::Inventory:
+75374:0::3::{<b>}      qty  name                              weight{</b>}
+75374:0::3::      ---  ----                              ------
+75374:0::3::    7,574  gold~[1]                               0  
+75374:0::3::       20  soldiers~[12]                      2,000  cap 2,000 (5,5,0)
+75374:0::3::      255  pikemen~[16]                      25,500  cap 25,500 (5,30,0)
+75374:0::3::       72  ghost warriors~[18]                    0   (0,0,0)
+75374:0::3::      453  crossbowmen~[21]                  45,300  cap 45,300 (1,1,25)
+75374:0::3::      317  elite archers~[22]                31,700  cap 31,700 (10,10,75)
+75374:0::3::       15  winged horses~[54]                15,000  fly 2,250
+75374:0::3::        2  longbows~[72]                          6  
+75374:0::3::       16  crossbows~[85]                       160  
+75374:0::3::       34  giant lizards~[282]               34,000   (45,45,0)
+75374:0::3::        1  enchanted javelin~[102347]            10  +50 missile
+75374:0::3::        1  magic shield~[109870]                 10  +10 defense
+75374:0::3::        1  692 potion 2974~[116890]               1  
+75374:0::3::                                             ======
+75374:0::3::                                            153,687
+75374:0::3::
+75374:0::3/11::Capacity:  187/106,850 land (0%), 104,787/2,250 ride (4657%), 138,787/2,250 fly (6168%)
+75374:0::3::
+75374:0::3::Pending trades:
+75374:0::3::
+75374:0::6::trade    price    qty   item
+75374:0::6::-----    -----    ---   ----
+75374:0::6:: sell        7    955   clay pot~[95]
+75374:0::3::
+78495:0::3::
+78495:0::3/16::Location:       R & D~[p883], in Rocky hill~[h374], in province Musketeer Lands~[cb57], in Provinia
+78495:0::3::Loyalty:        Fear-27
+78495:0::3::Health:         100%
+78495:0::3::Combat:         attack 80, defense 80, missile 135
+78495:0::3::                behind 9  (stay behind in combat)
+78495:0::3::Break point:    0% (fight to the death)
+78495:0::3::use  641 1      (concealing self, but not alone)
+78495:0::3/16::Pledged to:     Nyssa of Croyden~[a098]
+78495:0::3::Pledged to us:  Neil Torgalsen~[c788]
+78495:0::3::
+78495:0::3::Skills known:
+78495:0::6::Combat~[610]
+78495:0::12::Survive fatal wound~[611]
+78495:0::12::Fight to the death~[612]
+78495:0::12::Defense~[614], apprentice
+78495:0::12::Archery~[615], journeyman
+78495:0::12::Swordplay~[616], apprentice
+78495:0::12::Weaponsmithing~[617], adept
+78495:0::6::Stealth~[630]
+78495:0::12::Petty thievery~[631], apprentice
+78495:0::12::Determine inventory of character~[632], apprentice
+78495:0::12::Sneak into structure~[639], apprentice
+78495:0::12::Conceal self~[641], apprentice
+78495:0::6::Beastmastery~[650]
+78495:0::12::Bird spy~[651], apprentice
+78495:0::12::Capture beasts in battle~[652]
+78495:0::12::Use beasts in battle~[653]
+78495:0::12::Breed beasts~[654], grand master
+78495:0::12::Catch wild horses~[655], apprentice
+78495:0::6::Persuasion~[670]
+78495:0::12::Bribe noble~[671], apprentice
+78495:0::12::Persuade oathbound noble~[672], apprentice
+78495:0::12::Raise peasant mob~[673], apprentice
+78495:0::12::Rally peasant mob~[674], apprentice
+78495:0::12::Train angry peasants~[676], apprentice
+78495:0::6::Construction~[680]
+78495:0::12::Stone quarrying~[682], apprentice
+78495:0::6::Alchemy~[690]
+78495:0::12::Extract venom from ratspider~[691], apprentice
+78495:0::12::Make potion of slavery~[692], apprentice
+78495:0::12::Record skill on scroll~[695], apprentice
+78495:0::12::Collect rare elements~[696], apprentice
+78495:0::6::Forestry~[700]
+78495:0::12::Harvest lumber~[702], journeyman
+78495:0::12::Harvest yew~[703], apprentice
+78495:0::12::Collect rare foliage~[704], apprentice
+78495:0::6::Mining~[720]
+78495:0::12::Mine iron~[721], apprentice
+78495:0::12::Mine gold~[722], apprentice
+78495:0::6::Trade~[730]
+78495:0::12::Conceal identity of trader~[731], apprentice
+78495:0::12::Find tradegood for sale~[732], apprentice
+78495:0::12::Find market for tradegood~[733], apprentice
+78495:0::3::
+78495:0::3::Partially known skills:
+78495:0::6/6::Train wild horse to warmount~[657], 0/21
+78495:0::6/6::Brew healing potion~[693], 7/21
+78495:0::3::
+78495:0::3::Inventory:
+78495:0::3::{<b>}      qty  name                              weight{</b>}
+78495:0::3::      ---  ----                              ------
+78495:0::3::    1,982  gold~[1]                               0  
+78495:0::3::        6  archers~[13]                         600  cap 600 (5,5,50)
+78495:0::3::       29  crossbowmen~[21]                   2,900  cap 2,900 (1,1,25)
+78495:0::3::       20  winged horses~[54]                20,000  fly 3,000
+78495:0::3::       61  longswords~[74]                      305  
+78495:0::3::       50  wood~[77]                          1,500  
+78495:0::3::       58  iron~[79]                            580  
+78495:0::3::       16  crossbows~[85]                       160  
+78495:0::3::        1  woven basket~[94]                      1  
+78495:0::3::        1  Scroll~[g981]                          1  
+78495:0::3::                                             ======
+78495:0::3::                                             26,047
+78495:0::3::
+78495:0::3/11::Capacity:  2,547/6,600 land (38%), 6,147/3,000 ride (204%), 6,147/3,000 fly (204%)
+78495:0::3::
+78495:0::3::Scroll~[g981] permits study of the following skills:
+78495:0::6/3::Record skill on scroll~[695] (requires Alchemy)
+78495:0::3::
+78495:0::3::Pending trades:
+78495:0::3::
+78495:0::6::trade    price    qty   item
+78495:0::6::-----    -----    ---   ----
+78495:0::6:: sell        4    986   woven basket~[94]
+78495:0::6:: sell        7    937   clay pot~[95]
+78495:0::3::
+78775:0::3::
+78775:0::3/16::Location:       Indefagable~[r423], in Ocean~[bf98], in Great Sea
+78775:0::3::Loyalty:        Oath-1
+78775:0::3::Stacked over:   Lochlan~[t766]
+78775:0::3::Health:         100%
+78775:0::3::Combat:         attack 123, defense 129, missile 83
+78775:0::3::                behind 1  (stay behind in combat)
+78775:0::3::Break point:    0% (fight to the death)
+78775:0::3::use  641 1      (concealing self, but not alone)
+78775:0::3::Receive Vision: 1 protection
+78775:0::3/16::Pledged to:     Serla Silverhair~[4972]
+78775:0::3::
+78775:0::3::Skills known:
+78775:0::6::Shipcraft~[600]
+78775:0::12::Sailing~[601], journeyman
+78775:0::12::Shipbuilding~[602], apprentice
+78775:0::12::Fishing~[603], apprentice
+78775:0::6::Combat~[610]
+78775:0::12::Survive fatal wound~[611]
+78775:0::12::Fight to the death~[612]
+78775:0::12::Defense~[614], adept
+78775:0::12::Archery~[615], adept
+78775:0::12::Swordplay~[616], adept
+78775:0::12::Weaponsmithing~[617], master
+78775:0::6::Stealth~[630]
+78775:0::12::Petty thievery~[631], apprentice
+78775:0::12::Determine inventory of character~[632], apprentice
+78775:0::12::Determine skills of character~[633], apprentice
+78775:0::12::Determine character's lord~[634], apprentice
+78775:0::12::Conceal faction~[635], apprentice
+78775:0::12::Learn of richest nearby noble~[636], apprentice
+78775:0::12::Torture prisoner~[637], apprentice
+78775:0::12::Sneak into structure~[639], apprentice
+78775:0::12::Conceal self~[641], apprentice
+78775:0::6::Persuasion~[670]
+78775:0::12::Bribe noble~[671], apprentice
+78775:0::12::Persuade oathbound noble~[672], apprentice
+78775:0::12::Raise peasant mob~[673], apprentice
+78775:0::12::Incite mob violence~[675], apprentice
+78775:0::12::Train angry peasants~[676], apprentice
+78775:0::6::Construction~[680]
+78775:0::12::Stone quarrying~[682], adept
+78775:0::6::Alchemy~[690]
+78775:0::12::Extract venom from ratspider~[691], apprentice
+78775:0::12::Make potion of slavery~[692], apprentice
+78775:0::12::Brew healing potion~[693], apprentice
+78775:0::12::Brew potion of death~[694], apprentice
+78775:0::12::Record skill on scroll~[695], apprentice
+78775:0::12::Collect rare elements~[696], apprentice
+78775:0::12::Turn lead into gold~[697], apprentice
+78775:0::6::Forestry~[700]
+78775:0::12::Construct battering ram~[701], apprentice
+78775:0::12::Harvest lumber~[702], master
+78775:0::12::Harvest yew~[703], apprentice
+78775:0::12::Collect rare foliage~[704], apprentice
+78775:0::12::Harvest mallorn wood~[705], apprentice
+78775:0::12::Harvest opium~[706], apprentice
+78775:0::12::Improve opium production~[707], apprentice
+78775:0::6::Trade~[730]
+78775:0::12::Conceal identity of trader~[731], apprentice
+78775:0::12::Find tradegood for sale~[732], apprentice
+78775:0::12::Find market for tradegood~[733], apprentice
+78775:0::6::Religion~[750]
+78775:0::12::Receive vision~[751], apprentice
+78775:0::12::Resurrect dead noble~[752], apprentice
+78775:0::12::Preparatory ritual~[753], apprentice
+78775:0::12::Lay to rest~[754], apprentice
+78775:0::12::Remove blessing from soldiers~[755], apprentice
+78775:0::12::Immunity from Vision~[756], apprentice
+78775:0::3::
+78775:0::3::Inventory:
+78775:0::3::{<b>}      qty  name                              weight{</b>}
+78775:0::3::      ---  ----                              ------
+78775:0::3::        3  sailors~[19]                         300  cap 300 (1,1,0)
+78775:0::3::        5  winged horses~[54]                 5,000  fly 750
+78775:0::3::       20  wood~[77]                            600  
+78775:0::3::        1  Orb~[s212]                             1  
+78775:0::3::        1  Troll Cleaver~[s525]                  10  +100 attack
+78775:0::3::        1  692 potion 2974~[86843]                1  
+78775:0::3::        1  EK's 755 Scroll~[89203]                1  
+78775:0::3::        1  Golden ring~[120910]                   1  
+78775:0::3::        1  EK's 756 Scroll~[136089]               1  
+78775:0::3::                                             ======
+78775:0::3::                                              5,915
+78775:0::3::
+78775:0::3/11::Capacity:  615/1,150 land (53%), 1,015/750 ride (135%), 1,015/750 fly (135%)
+78775:0::3::
+78775:0::3::EK's 755 Scroll~[89203] permits study of the following skills:
+78775:0::6/3::Remove blessing from soldiers~[755] (requires Religion)
+78775:0::3::
+78775:0::3::EK's 756 Scroll~[136089] permits study of the following skills:
+78775:0::6/3::Immunity from Vision~[756] (requires Religion)
+78775:0::3::
+78775:0::3::Pending trades:
+78775:0::3::
+78775:0::6::trade    price    qty   item
+78775:0::6::-----    -----    ---   ----
+78775:0::6:: sell        4  9,891   woven basket~[94]
+78775:0::6:: sell        7  9,982   clay pot~[95]
+78775:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Highland Rangers~[uh5].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/uh5/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [uh5]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         9  72nd   
+0:0::3/41::Men:                            1,276  22nd   
+0:0::3/41::Gold:                          23,406  54th   
+0:0::3/41::Land controlled:                   22  70th   
+0:0::3/41::Skills known:                   73/74  4th    
+0:0::3/41::Spells known:                   79/79  1st    
+0:0::3/41::Provinces visited:         619/31,919  56th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  2     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  r217 s260 f573 141271 100438
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::z775   r423   o1    100  1                      3             Gallagar
+0:0::0::t766   r423   o1    100  0                21           z775   Lochlan
+0:0::0::z495   p883   f27   100  9    1982                  35        Callum
+0:0::0::d070   cb57   f27   100  3    4353                  32        Eric
+0:0::0::b687   cb57   f31   100  3    5998    9   59                  Malcom
+0:0::0::h444   8831   o2    100  0123 2300                            Zarthusa
+0:0::0::h828   n66    o1    100  4  5 1077                            Brondwyn
+0:0::0::v374   t383   o2    100  0 10 7574                1045        Gustav
+0:0::0::f597   t383   o1    100  4 11  122                     v374   Antilles
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               23k    9   80    3 1112
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Great Sea
+0:0::0::  Ocean~[bf98]
+0:0::0::      Indefagable~[r423]           Gallagar~[z775]
+0:0::0::                                     Lochlan~[t766]
+0:0::0::Provinia
+0:0::0::  Musketeer Lands~[cb57]           Eric~[d070]
+0:0::0::                                   Malcom~[b687]
+0:0::0::    Rocky hill~[h374]
+0:0::0::      R & D~[p883]                 Callum~[z495]
+0:0::0::  Blood Mist Woods~[cb63]
+0:0::0::    Dafarik~[p10]
+0:0::0::      Dafarik Demesne~[8831]       Zarthusa~[h444]
+0:0::0::  Musketeer Lands~[cc68]
+0:0::0::    Ravenna~[n66]                  Brondwyn~[h828]
+0:0::0::Atala
+0:0::0::  Free Atala~[aq71]
+0:0::0::    Revenge's Heart~[k98]
+0:0::0::      Honorland~[t383]             Gustav~[v374]
+0:0::0::                                     Antilles~[f597]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  z775      10,222      3,028  17%    (2,172) 306%    (2,172) 306%
+0:0::0::  t766       4,207      2,493   0%    (1,907) 735%    (1,907) 735%
+0:0::0::  z495      26,147      4,053  38%    (3,147) 204%    (3,147) 204%
+0:0::0::  d070       6,601      3,849   0%    (2,951) 755%    (3,151) 800%
+0:0::0::  b687       7,141      6,659   3%                                
+0:0::0::  h444       7,154      1,096   4%        896  14%        896  14%
+0:0::0::  h828       4,105        695   0%        495  17%        495  17%
+0:0::0::  v374     192,387    111,813   0%   (97,587)  --   (132,587)  -- 
+0:0::0::  f597      38,600      5,150   8%      4,950  10%      3,950  28%
+0:0::0::
+0:0::0::garr where  men cost  tax forw castle rulers
+0:0::0::---- -----  --- ----  --- ---- ------ ------
+0:0::0::126058  ap69   20   40  200   32  t383  v374 148147 k318
+0:0::0::6016  ap70   10   20  100   16  t383  v374 148147 k318
+0:0::0::7783  ap71   31   93  300   41  t383  v374 148147 k318
+0:0::0::84352  ap72   10   20  100   16  t383  v374 148147 k318
+0:0::0::9033  ap73   10   20   50    6  t383  v374 148147 k318
+0:0::0::102689  ap74   10   20   50    6  t383  v374 148147 k318
+0:0::0::88082  aq67   10   10   50    8  t383  v374 148147 k318
+0:0::0::7201  aq68   10   10   50    8  t383  v374 148147 k318
+0:0::0::122555  aq69   14   28  100   14  t383  v374 148147 k318
+0:0::0::126357  aq70   10   11  200   37  t383  v374 148147 k318
+0:0::0::3529  aq71   10   20  450    -  t383  v374 148147 k318
+0:0::0::84186  aq72   10   20  200   36  t383  v374 148147 k318
+0:0::0::a897  aq73   10   20  100   16  t383  v374 148147 k318
+0:0::0::5502  aq74   10   20   50    6  t383  v374 148147 k318
+0:0::0::3355  ar67   12   12  200   37  t383  v374 148147 k318
+0:0::0::97253  ar68   10   10   50    8  t383  v374 148147 k318
+0:0::0::1265  ar69   11   12   50    7  t383  v374 148147 k318
+0:0::0::5588  ar70   10   14  100   17  t383  v374 148147 k318
+0:0::0::x790  ar71   10   30  200   34  t383  v374 148147 k318
+0:0::0::1323  as67   10   14   50    7  t383  v374 148147 k318
+0:0::0::111555  as68   10   20   50    6  t383  v374 148147 k318
+0:0::0::9905  as69   10   11   50    7  t383  v374 148147 k318
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Highland Rangers~[uh5]"><font size=+1><b>Highland Rangers~[uh5]</b></font>
+1:2::0::<hr>
+1:1::0::Highland Rangers~[uh5]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55275
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison log"><font size=+1><b>Garrison log</b></font>
+1:2::0::<hr>
+1:1::0::Garrison log
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Gallagar~[z775]"><font size=+1><b>Gallagar~[z775]</b></font>
+1:2::0::<hr>
+1:1::0::Gallagar~[z775]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 78775
+1:0::0::
+1:2::0::
+1:2::0::<name="Lochlan~[t766]"><font size=+1><b>Lochlan~[t766]</b></font>
+1:2::0::<hr>
+1:1::0::Lochlan~[t766]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 74766
+1:0::0::
+1:2::0::
+1:2::0::<name="Callum~[z495]"><font size=+1><b>Callum~[z495]</b></font>
+1:2::0::<hr>
+1:1::0::Callum~[z495]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 78495
+1:0::0::
+1:2::0::
+1:2::0::<name="Eric~[d070]"><font size=+1><b>Eric~[d070]</b></font>
+1:2::0::<hr>
+1:1::0::Eric~[d070]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 62070
+1:0::0::
+1:2::0::
+1:2::0::<name="Malcom~[b687]"><font size=+1><b>Malcom~[b687]</b></font>
+1:2::0::<hr>
+1:1::0::Malcom~[b687]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 60687
+1:0::0::
+1:2::0::
+1:2::0::<name="Zarthusa~[h444]"><font size=+1><b>Zarthusa~[h444]</b></font>
+1:2::0::<hr>
+1:1::0::Zarthusa~[h444]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 65444
+1:0::0::
+1:2::0::
+1:2::0::<name="Brondwyn~[h828]"><font size=+1><b>Brondwyn~[h828]</b></font>
+1:2::0::<hr>
+1:1::0::Brondwyn~[h828]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 65828
+1:0::0::
+1:2::0::
+1:2::0::<name="Gustav~[v374]"><font size=+1><b>Gustav~[v374]</b></font>
+1:2::0::<hr>
+1:1::0::Gustav~[v374]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 75374
+1:0::0::
+1:2::0::
+1:2::0::<name="Antilles~[f597]"><font size=+1><b>Antilles~[f597]</b></font>
+1:2::0::<hr>
+1:1::0::Antilles~[f597]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 63597
+1:2::0::
+1:2::0::<name="Ocean~[bf98]"><font size=+1><b>Ocean~[bf98]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bf98], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12498
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bg98]"><font size=+1><b>Ocean~[bg98]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bg98], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12598
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bh98]"><font size=+1><b>Ocean~[bh98]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bh98], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12698
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bj98]"><font size=+1><b>Ocean~[bj98]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bj98], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12798
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bk98]"><font size=+1><b>Ocean~[bk98]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bk98], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12898
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bm98]"><font size=+1><b>Ocean~[bm98]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bm98], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12998
+1:0::0::
+1:2::0::
+1:2::0::<name="Musketeer Lands~[cb57]"><font size=+1><b>Musketeer Lands~[cb57]</b>, plain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Musketeer Lands~[cb57], plain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14157
+1:0::0::
+1:2::0::
+1:2::0::<name="Blood Mist Woods~[cb63]"><font size=+1><b>Blood Mist Woods~[cb63]</b>, forest, in Provinia, civ-7</font>
+1:2::0::<hr>
+1:1::0::Blood Mist Woods~[cb63], forest, in Provinia, civ-7
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14163
+1:0::0::
+1:2::0::
+1:2::0::<name="Dafarik~[p10]"><font size=+1><b>Dafarik~[p10]</b>, city, in province Blood Mist Woods~[cb63]</font>
+1:2::0::<hr>
+1:1::0::Dafarik~[p10], city, in province Blood Mist Woods~[cb63]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57870
+1:0::0::
+1:2::0::
+1:2::0::<name="Musketeer Lands~[cc68]"><font size=+1><b>Musketeer Lands~[cc68]</b>, swamp, in Provinia, civ-6</font>
+1:2::0::<hr>
+1:1::0::Musketeer Lands~[cc68], swamp, in Provinia, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14268
+1:0::0::
+1:2::0::
+1:2::0::<name="Ravenna~[n66]"><font size=+1><b>Ravenna~[n66]</b>, city, in province Musketeer Lands~[cc68]</font>
+1:2::0::<hr>
+1:1::0::Ravenna~[n66], city, in province Musketeer Lands~[cc68]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57826
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ap69]"><font size=+1><b>Forest~[ap69]</b>, forest, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[ap69], forest, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11169
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[ap70]"><font size=+1><b>Plain~[ap70]</b>, plain, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[ap70], plain, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11170
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[ap71]"><font size=+1><b>Free Atala~[ap71]</b>, forest, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[ap71], forest, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11171
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ap72]"><font size=+1><b>Forest~[ap72]</b>, forest, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[ap72], forest, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11172
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[ap73]"><font size=+1><b>Plain~[ap73]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[ap73], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11173
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[ap74]"><font size=+1><b>Desert~[ap74]</b>, desert, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[ap74], desert, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11174
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[aq67]"><font size=+1><b>Mountain~[aq67]</b>, mountain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[aq67], mountain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11267
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[aq68]"><font size=+1><b>Forest~[aq68]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[aq68], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11268
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[aq69]"><font size=+1><b>Desert~[aq69]</b>, desert, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Desert~[aq69], desert, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11269
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[aq70]"><font size=+1><b>Forest~[aq70]</b>, forest, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[aq70], forest, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11270
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[aq71]"><font size=+1><b>Free Atala~[aq71]</b>, mountain, in Atala, civ-6</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[aq71], mountain, in Atala, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11271
+1:0::0::
+1:2::0::
+1:2::0::<name="Revenge's Heart~[k98]"><font size=+1><b>Revenge's Heart~[k98]</b>, city, in province Free Atala~[aq71]</font>
+1:2::0::<hr>
+1:1::0::Revenge's Heart~[k98], city, in province Free Atala~[aq71]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57658
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[aq72]"><font size=+1><b>Plain~[aq72]</b>, plain, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Plain~[aq72], plain, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11272
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[aq73]"><font size=+1><b>Plain~[aq73]</b>, plain, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[aq73], plain, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11273
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[aq74]"><font size=+1><b>Desert~[aq74]</b>, desert, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[aq74], desert, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11274
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ar67]"><font size=+1><b>Forest~[ar67]</b>, forest, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[ar67], forest, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11367
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ar68]"><font size=+1><b>Forest~[ar68]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[ar68], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11368
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[ar69]"><font size=+1><b>Free Atala~[ar69]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[ar69], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11369
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[ar70]"><font size=+1><b>Free Atala~[ar70]</b>, desert, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[ar70], desert, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11370
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[ar71]"><font size=+1><b>Free Atala~[ar71]</b>, plain, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[ar71], plain, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11371
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[as67]"><font size=+1><b>Forest~[as67]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[as67], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11467
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[as68]"><font size=+1><b>Free Atala~[as68]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[as68], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11468
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[as69]"><font size=+1><b>Free Atala~[as69]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[as69], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11469
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,32 @@
+
+grassy field
+
+Farming actions:
+	plow field
+	plant seeds
+	harvest crop
+
+	others?  irrigation, weed, erect fence
+	inspect crops
+
+
+plowed, 0-100
+
+Animals may graze on unplowed fields
+Too much rain ruins crops
+
+
+plant trees:
+	apple
+	figs
+
+
+combat:
+	salt field
+
+
+Field [px89], grassy field
+Field [px89], plowed field
+Field [px89], 56 plowed
+Field [px89], 14 wheat
+

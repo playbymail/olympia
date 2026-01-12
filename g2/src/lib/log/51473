@@ -1,0 +1,690 @@
+17585:0::0:0:Garrison~[1752], garrison, with ten~soldiers guards Central Camaris County~[dt85].
+17487:0::0:0:Garrison~[1849], garrison, with 13~soldiers guards Central Camaris County~[ds87].
+17286:0::0:0:Garrison~[2435], garrison, with five~oxen, 57~workers guards Mountain~[dq86].
+17185:0::0:0:Garrison~[4844], garrison, with ten~soldiers, 29~swordsmen guards Plain~[dp85].
+16987:0::0:0:Garrison~[5194], garrison, with 32~peasants, six~soldiers, 19~workers guards Mountain~[dm87].
+17587:0::0:0:Garrison~[5700], garrison, with ten~soldiers, two~pikemen, one~swordsman, one~elite archer guards Central Camaris County~[dt87].
+17387:0::0:0:Garrison~[7984], garrison, with 25~soldiers guards Central Camaris County~[dr87].
+17687:0::0:0:Garrison~[8400], garrison, with ten~soldiers guards Central Camaris County~[dv87].
+17287:0::0:0:Garrison~[b029], garrison, with one~peasant, nine~workers, ten~pikemen, 15~swordsmen guards Forest~[dq87].
+17586:0::0:0:Garrison~[83129], garrison, with ten~soldiers guards Central Camaris County~[dt86].
+17486:0::0:0:Garrison~[85783], garrison, with 13~peasants, one~worker guards Central Camaris County~[ds86].
+17385:0::0:0:Garrison~[111217], garrison, with ten~peasants guards Central Camaris County~[dr85].
+17686:0::0:0:Garrison~[127917], garrison, with ten~soldiers guards Central Camaris County~[dv86].
+17184:0::0:0:Garrison~[136060], garrison, with ten~soldiers guards North Camaris County~[dp84].
+17386:0::0:0:Garrison~[142153], garrison, with ten~peasants, two~dragons guards Central Camaris County~[dr86].
+17485:0::0:0:Garrison~[146120], garrison, with ten~soldiers guards Central Camaris County~[ds85].
+58603:0::0:1:Harkonen~[101132], with five~winged horses, exited Tymbuktu~[x43].
+16987:0::0:1:Harkonen~[101132], with five~winged horses, arrived from Tymbuktu~[x43].
+16987:0::0:2:Harkonen~[101132], with five~winged horses, three~peasants, six~soldiers, entered Tymbuktu~[x43].
+58603:0::0:2:Harkonen~[101132], with five~winged horses, three~peasants, six~soldiers, arrived from Mountain~[dm87].
+58603:0::0:3:Harkonen~[101132] attacks Aegyptus~[p351]!
+58603:0::3:3:
+58603:0::3:3:Harkonen~[101132], with five~winged horses, three~peasants, six~soldiers
+58603:0::3:3:
+58603:0::3:3:Aegyptus~[p351], 5th black circle, accompanied~by:
+58603:0::6/3:3:Hakuna Matata~[n845], ally
+70351:0::0:3:Harkonen~[101132] attacks us!
+69845:0::0:3:Harkonen~[101132] attacks Aegyptus~[p351]!  We rush to the defense.
+58603:0::0:3:
+58603:0::0:3:Harkonen~[101132] is victorious!
+70351:0::0:3:We lost!
+69845:0::0:3:We lost!
+58603:0::0:3:
+58603:0::3:3:Harkonen lost two~soldiers.
+58603:0::0:3:
+58603:0::3:3:Aegyptus~[p351] was taken prisoner.
+58603:0::3:3:Hakuna Matata~[n845] was taken prisoner.
+58603:0::0:3:
+69845:0::0:3:Hakuna Matata~[n845] is wounded.  Health is now 78.
+70351:0::0:3:Aegyptus~[p351] is taken prisoner by Harkonen~[101132].
+69845:0::0:3:Hakuna Matata~[n845] is taken prisoner by Harkonen~[101132].
+70351:0::0:4:*** Aegyptus has died ***
+70351:0::0:4:Aegyptus~[p351] appears at Hades~[qv48].
+69845:0::0:4:*** Hakuna Matata has died ***
+58603:0::0:4:Harkonen~[101132], with five~winged horses, three~peasants, four~soldiers, exited Tymbuktu~[x43].
+16987:0::0:4:Harkonen~[101132], with five~winged horses, three~peasants, four~soldiers, arrived from Tymbuktu~[x43].
+17185:0::0:4:It has begun to rain.
+16987:0::0:4:It has begun to rain.
+17285:0::0:4:It has begun to rain.
+17586:0::0:4:It has begun to rain.
+58603:0::0:14:Diomedes~[h888] trained one~warmount.
+17587:0::0:21:It has begun to rain.
+17485:0::0:21:It has begun to rain.
+17487:0::0:21:It has begun to rain.
+17687:0::0:21:It has begun to rain.
+17285:0::0:23:Savage~[84297] attacks Barad-dur~[144806]!
+17285:0::3:23:
+17285:0::3:23:Savage~[84297], savages, number:~11
+17285:0::3:23:
+17285:0::3:23:Barad-dur~[144806], castle, defense~75, level~6, owner:
+17285:0::6/3:23:Kunta Kinte~[q029], baron, with 17~soldiers, six~pikemen, 34~swordsmen, 57~elite archers, two~riding horses
+71029:0::0:23:Savage~[84297] attacks us!
+17285:0::0:23:
+17285:0::0:23:Kunta Kinte~[q029] is victorious!
+71029:0::0:23:We won!
+17285:0::0:23:
+17285:0::3:23:Savage lost ten~savages.
+17285:0::3:23:Savage~[84297] was taken prisoner.
+17285:0::0:23:
+71029:0::0:23:Savage~[84297] is taken prisoner by Kunta Kinte~[q029].
+71029:0::0:23:Taken from Savage~[84297]:
+71029:0::3:23:one~drum~[98]
+17285:0::0:24:Breises~[82543] recruited ten~peasants.
+17385:0::0:26:It has begun to rain.
+17286:0::0:26:It has begun to rain.
+17287:0::0:26:It has begun to rain.
+6:0:1752:0:30:Paid maintenance of 20~gold.
+6:0:1849:0:30:Paid maintenance of 26~gold.
+6:0:2435:0:30:Paid maintenance of 114~gold.
+6:0:4844:0:30:Paid maintenance of 107~gold.
+6:0:5700:0:30:Paid maintenance of 33~gold.
+6:0:7984:0:30:Paid maintenance of 50~gold.
+6:0:8400:0:30:Paid maintenance of 20~gold.
+6:0:b029:0:30:Paid maintenance of 94~gold.
+6:0:83129:0:30:Paid maintenance of 20~gold.
+6:0:85783:0:30:Paid maintenance of 15~gold.
+6:0:111217:0:30:Paid maintenance of 10~gold.
+6:0:127917:0:30:Paid maintenance of 20~gold.
+6:0:136060:0:30:Paid maintenance of 20~gold.
+6:0:142153:0:30:Paid maintenance of 10~gold.
+6:0:146120:0:30:Paid maintenance of 20~gold.
+71029:0::0:30:Collected 232~gold from owned provinces.
+71029:0::0:30:Collected 150~gold in taxes.
+69872:0::0:30:Temple of Isis~[f040] collected offerings of 100~gold.
+69872:0::0:30:Paid maintenance of 66~gold.
+71029:0::0:30:Paid maintenance of 382~gold.
+16987:0::0::
+16987:0::0::Province controlled by Pyramid of Cheyops~[c141], castle, in Mountain~[dm87]
+16987:0::0::Ruled by Acheron~[103685], duke
+16987:0::0::
+16987:0::0::Routes leaving Mountain: 
+16987:0::3::North, to Ocean~[dk87], Great Sea, impassable
+16987:0::3::East, to Plain~[dm88], 7~days
+16987:0::3::South, to Plain~[dn87], 7~days
+16987:0::3::West, to Plain~[dm86], 7~days
+16987:0::3::Secret pass, to Forest~[dn88], hidden, 8~days
+16987:0::0::
+16987:0::0::Inner locations:
+16987:0::3::Tymbuktu~[x43], city, "Flying Marine Colors", 1 day
+16987:0::0::
+16987:0::0::It is raining.
+16987:0::0::
+16987:0::0::Seen here:
+16987:0::0/3::   Garrison~[5194], garrison, on guard, with 29~peasants, 19~workers
+16987:0::0/3::   Harkonen~[101132], "{<i>}Ra Consortium{</i>}", with five~winged horses, three~peasants, four~soldiers
+17285:0::0::
+17285:0::0::Routes leaving Plain: 
+17285:0::3::North, to Plain~[dp85], 7~days
+17285:0::3::East, to Mountain~[dq86], 10~days
+17285:0::3::South, plain, to Central Camaris County~[dr85], 7~days
+17285:0::3::West, swamp, to North Camaris County~[dq84], 14~days
+17285:0::0::
+17285:0::0::Inner locations:
+17285:0::3::Graveyard~[p065], graveyard, 1 day
+17285:0::6::Morgoth's Tomb~[2408], temple, defense~10
+17285:0::3::Poppy field~[v614], poppy field, 1 day
+17285:0::3::Barad-dur~[144806], castle, defense~75, level~6, owner:
+17285:0::0/6:: *    Kunta Kinte~[q029], baron, "{<i>}Ashanti Warrior{</i>}", with 17~soldiers, six~pikemen, 34~swordsmen, 57~elite archers, two~riding horses, accompanied~by:
+17285:0::0/9::         Savage~[115154], savage, prisoner
+17285:0::0/9::         Savage~[145282], savage, prisoner
+17285:0::0/9::         Savage~[117182], savage, prisoner
+17285:0::0/9::         Savage~[98447], savage, prisoner
+17285:0::0/9::         Savage~[84297], savage, prisoner
+17285:0::6::Obsidian Tower~[w673], tower, defense~40, owner:
+17285:0::0/9::         Sulla~[g528], sorcerer, priest, wielding Ebony Blade of Ra~[n336], wearing elven shield~[d894], with five~winged horses
+17285:0::0::
+17285:0::0::It is raining.
+17285:0::0::
+17285:0::0::Seen here:
+17285:0::0/3::   Breises~[82543], with nine~peasants, ten~workers, 31~soldiers, four~pikemen, six~swordsmen, two~crossbowmen, 29~elite archers, 17~winged horses, two~giant birds, 22~giant lizards, three~harpies
+35648:0::0::
+35648:0::0::No known routes leaving Hades~[qv48]
+35648:0::0::
+35648:0::0::Seen here:
+35648:0::0/3:: * Aegyptus~[p351], 5th black circle
+58603:0::0::
+58603:0::0::Routes leaving Tymbuktu: 
+58603:0::3::Out, to Mountain~[dm87], 1~day
+58603:0::0::
+58603:0::0::Cities rumored to be nearby:
+58603:0::3::Quickrock~[c66], in Mountain~[dm92]
+58603:0::3::Fennario~[k42], in Central Camaris County~[dt86]
+58603:0::0::
+58603:0::0::Skills taught here:
+58603:0::3::Combat~[610], Stealth~[630], Construction~[680], Alchemy~[690], Mining~[720], Trade~[730], Magic~[800]
+58603:0::0::
+58603:0::0::Market report:
+58603:0::3::
+58603:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58603:0::3::-----    ---   -----    ---     -----   ----                     
+58603:0::3::  buy    x43     126      3        50   hides~[99]               
+58603:0::3::  buy    x43      72     47       100   sugar~[w825]             
+58603:0::3::  buy    x43     180     30        30   jeweled eggs~[148166]    
+58603:0::3::  buy    x43       7      9         5   clay pots~[95]           
+58603:0::3:: sell    x43       1     50        10   lead~[102]               
+58603:0::3:: sell    x43      27      2        10   iron~[79]                
+58603:0::3:: sell    x43      14     48       100   beans~[f881]             
+58603:0::3:: sell    x43      39     33        38   vinegar~[v252]           
+58603:0::3:: sell    x43      20     45        55   cinnabar~[117449]        
+58603:0::0::
+58603:0::0::Inner locations:
+58603:0::3::Pyramid of Cheyops~[c141], castle, defense~80, level~6, owner:
+58603:0::0/6::      Diomedes~[h888], baron, wizard, "{<i>}Ra Consortium Retrival Unit{</i>}", with six~knights, one~elite guard, one~pikeman, 92~ghost warriors, 67~swordsmen, 33~crossbowmen, 20~elite archers, 17~wild horses, one~riding horse, six~winged horses, 19~nazgul, one~centaur, 11~giant lizards
+58603:0::3::Temple of Isis~[f040], temple, defense~10, owner:
+58603:0::0/6:: *    Binti Jua~[n872], priest, with 22~blessed soldiers
+58603:0::3::Ibis Aerie~[r324], tower, defense~39
+58603:0::0::
+58603:0::0::It is raining.
+5:0::0::
+5:0::0::begin fr3 "Nubia"  # Ashanti
+5:0::0::
+5:0::0::unit fr3  # Ashanti
+5:0::0::
+5:0::0::unit n872  # Binti Jua in Temple of Isis~[f040]
+5:0::0::
+5:0::0::unit q029  # Kunta Kinte in Barad-dur~[144806]
+5:0::0::
+5:0::0::unit p351  # Aegyptus in Hades~[qv48]
+5:0::0::
+5:0::0::#
+5:0::0::# Orders for units you do not control as of now
+5:0::0::#
+5:0::0::unit 145696
+5:0::3::study 880
+5:0::3::study 880
+5:0::3::study 881
+5:0::3::make 9516
+5:0::0::
+5:0::0::end
+51473:0::0::
+51473:0::0::Admit permissions:
+51473:0::0::
+51473:0::3::admit 4681 c272 r415
+51473:0::0::
+51473:0::0::Unclaimed items:
+51473:0::0::
+51473:0::0::      qty  name                              weight
+51473:0::0::      ---  ----                              ------
+51473:0::0::    1,470  gold~[1]                               0  
+69872:0::3::
+69872:0::3/16::Location:       Temple of Isis~[f040], in Tymbuktu~[x43], in province Mountain~[dm87], in Camaris
+69872:0::3::Loyalty:        Fear-13
+69872:0::3::Health:         100%
+69872:0::3::Combat:         attack 80, defense 214, missile 141
+69872:0::3::                behind 0  (front line in combat)
+69872:0::3::Break point:    50%
+69872:0::3::Receive Vision: 6 protection
+69872:0::3/16::Pledged to:     Maxwell Grimm~[t023]
+69872:0::3::
+69872:0::3::Skills known:
+69872:0::6::Combat~[610]
+69872:0::12::Survive fatal wound~[611]
+69872:0::12::Fight to the death~[612]
+69872:0::12::Defense~[614], master
+69872:0::12::Archery~[615], master
+69872:0::12::Swordplay~[616], apprentice
+69872:0::12::Weaponsmithing~[617], apprentice
+69872:0::6::Stealth~[630]
+69872:0::12::Petty thievery~[631], journeyman
+69872:0::12::Determine inventory of character~[632], apprentice
+69872:0::12::Determine skills of character~[633], apprentice
+69872:0::6::Alchemy~[690]
+69872:0::12::Extract venom from ratspider~[691], apprentice
+69872:0::12::Make potion of slavery~[692], apprentice
+69872:0::12::Brew healing potion~[693], apprentice
+69872:0::12::Brew potion of death~[694], apprentice
+69872:0::12::Record skill on scroll~[695], apprentice
+69872:0::12::Collect rare elements~[696], apprentice
+69872:0::12::Turn lead into gold~[697], apprentice
+69872:0::6::Religion~[750]
+69872:0::12::Receive vision~[751], journeyman
+69872:0::12::Resurrect dead noble~[752], apprentice
+69872:0::12::Preparatory ritual~[753], journeyman
+69872:0::12::Lay to rest~[754], apprentice
+69872:0::12::Remove blessing from soldiers~[755], apprentice
+69872:0::12::Immunity from Vision~[756], adept
+69872:0::3::
+69872:0::3::Inventory:
+69872:0::3::{<b>}      qty  name                              weight{</b>}
+69872:0::3::      ---  ----                              ------
+69872:0::3::    1,782  gold~[1]                               0  
+69872:0::3::       22  blessed soldiers~[17]              2,200  cap 2,200 (5,5,0)
+69872:0::3::       16  crossbows~[85]                       160  
+69872:0::3::      111  woven baskets~[94]                   111  
+69872:0::3::      132  clay pots~[95]                       660  
+69872:0::3::                                             ======
+69872:0::3::                                              3,131
+69872:0::3::
+69872:0::3/11::Capacity:  931/2,300 land (40%)
+69872:0::3::
+69872:0::3::Pending trades:
+69872:0::3::
+69872:0::6::trade    price    qty   item
+69872:0::6::-----    -----    ---   ----
+69872:0::6:: sell        7     15   clay pot~[95]
+69872:0::3::
+70351:0::3::
+70351:0::3/16::Location:       Hades~[qv48], in Hades
+70351:0::3::Loyalty:        Oath-2
+70351:0::3::Health:         100%
+70351:0::3::Combat:         attack 80, defense 124, missile 0
+70351:0::3::                behind 0  (front line in combat)
+70351:0::3::Break point:    50%
+70351:0::3::Receive Vision: 4 protection
+70351:0::3/16::Pledged to:     Maxwell Grimm~[t023]
+70351:0::3::
+70351:0::3::Current aura:   2
+70351:0::3::Maximum aura:   44
+70351:0::3::
+70351:0::3::Skills known:
+70351:0::6::Combat~[610]
+70351:0::12::Fight to the death~[612]
+70351:0::12::Construct catapult~[613], apprentice
+70351:0::12::Defense~[614], journeyman
+70351:0::6::Stealth~[630]
+70351:0::6::Construction~[680]
+70351:0::6::Forestry~[700]
+70351:0::12::Harvest lumber~[702], apprentice
+70351:0::6::Magic~[800]
+70351:0::12::Meditate~[801], apprentice
+70351:0::12::Perform common tasks for gold~[802], grand master
+70351:0::12::Appear common~[803], apprentice
+70351:0::12::View current aura level of others~[804], apprentice
+70351:0::12::Reveal abilities of another mage~[805], apprentice
+70351:0::12::Tap health for aura~[806], apprentice
+70351:0::12::Heal~[807], apprentice
+70351:0::12::Modern magic script~[808], apprentice
+70351:0::12::Shroud abilities from scry~[809], apprentice
+70351:0::12::Dispel ability shroud~[812], apprentice
+70351:0::12::Advanced meditation~[813], apprentice
+70351:0::12::Hinder meditation~[814], apprentice
+70351:0::6::Gatecraft~[860]
+70351:0::12::Teleport~[861], apprentice
+70351:0::12::Detect gates~[862], apprentice
+70351:0::12::Jump through gate~[863], apprentice
+70351:0::12::Seal gate~[864], apprentice
+70351:0::12::Unseal gate with key~[865], apprentice
+70351:0::12::Notify if gate unsealed~[866], apprentice
+70351:0::12::Forcefully unseal gate~[867], apprentice
+70351:0::12::Reveal gate key~[868], apprentice
+70351:0::12::Notify of gate jumps~[869], apprentice
+70351:0::12::Language of the Ancients~[871], apprentice
+70351:0::12::Reverse jump through gate~[872], apprentice
+70351:0::6::Artifact construction~[880]
+70351:0::12::Forge auraculum~[881], apprentice
+70351:0::12::Reveal creator of artifact~[882], apprentice
+70351:0::12::Reveal where artifact was created~[883], apprentice
+70351:0::12::Cloak creator of artifact~[884]
+70351:0::12::Curse noncreator loyalty~[886], apprentice
+70351:0::12::Forge magical bow~[889], apprentice
+70351:0::12::Destroy artifact~[893], apprentice
+70351:0::6::Necromancy~[900]
+70351:0::12::Transcend death~[901], apprentice
+70351:0::12::Runes of Evil~[902], apprentice
+70351:0::12::Summon ghost warriors~[903], apprentice
+70351:0::12::Raise undead~[904], apprentice
+70351:0::12::Summon demon lord~[905], apprentice
+70351:0::12::Renew demon bond~[906], apprentice
+70351:0::12::Banish demon lord~[907], apprentice
+70351:0::12::Eating of the dead~[908], apprentice
+70351:0::12::Aura blast~[909], apprentice
+70351:0::12::Absorb aura blast~[911], apprentice
+70351:0::3::
+70351:0::3::Partially known skills:
+70351:0::6/6::Detect ability scry~[811], 14/21
+70351:0::6/6::Arcane symbols~[892], 0/21
+70351:0::3::
+70351:0::3::Aegyptus~[p351] has no possessions.
+70351:0::3::
+70351:0::3/11::Capacity:  0/100 land (0%)
+70351:0::3::
+70351:0::3::Pending trades:
+70351:0::3::
+70351:0::6::trade    price    qty   item
+70351:0::6::-----    -----    ---   ----
+70351:0::6:: sell        4     52   woven basket~[94]
+70351:0::3::
+71029:0::3::
+71029:0::3/16::Location:       Barad-dur~[144806], in province Plain~[dq85], in Camaris
+71029:0::3::Loyalty:        Fear-67
+71029:0::3::Health:         100%
+71029:0::3::Combat:         attack 142, defense 244, missile 152
+71029:0::3::                behind 0  (front line in combat)
+71029:0::3::Break point:    0% (fight to the death)
+71029:0::3::use  641 0      (not concealing self)
+71029:0::3::Receive Vision: 3 protection
+71029:0::3::Banner:         Ashanti Warrior
+71029:0::3/16::Pledged to:     Maxwell Grimm~[t023]
+71029:0::3::Prisoners:      Savage~[115154], health 100
+71029:0::3::                Savage~[145282], health 100
+71029:0::3::                Savage~[117182], health 100
+71029:0::3::                Savage~[98447], health 100
+71029:0::3::                Savage~[84297], health 81
+71029:0::3::
+71029:0::3::Skills known:
+71029:0::6::Shipcraft~[600]
+71029:0::12::Sailing~[601], apprentice
+71029:0::12::Shipbuilding~[602], apprentice
+71029:0::12::Fishing~[603], apprentice
+71029:0::6::Combat~[610]
+71029:0::12::Survive fatal wound~[611]
+71029:0::12::Fight to the death~[612]
+71029:0::12::Construct catapult~[613], apprentice
+71029:0::12::Defense~[614], master
+71029:0::12::Archery~[615], adept
+71029:0::12::Swordplay~[616], adept
+71029:0::12::Weaponsmithing~[617], journeyman
+71029:0::6::Stealth~[630]
+71029:0::12::Petty thievery~[631], journeyman
+71029:0::12::Determine inventory of character~[632], apprentice
+71029:0::12::Determine skills of character~[633], apprentice
+71029:0::12::Determine character's lord~[634], apprentice
+71029:0::12::Conceal faction~[635], apprentice
+71029:0::12::Learn of richest nearby noble~[636], apprentice
+71029:0::12::Torture prisoner~[637], apprentice
+71029:0::12::Sneak into structure~[639], apprentice
+71029:0::12::Conceal self~[641], apprentice
+71029:0::6::Construction~[680]
+71029:0::12::Stone quarrying~[682], journeyman
+71029:0::6::Forestry~[700]
+71029:0::12::Construct battering ram~[701], apprentice
+71029:0::12::Harvest lumber~[702], apprentice
+71029:0::12::Harvest yew~[703], apprentice
+71029:0::12::Collect rare foliage~[704], apprentice
+71029:0::6::Mining~[720]
+71029:0::12::Mine iron~[721], journeyman
+71029:0::12::Mine gold~[722], journeyman
+71029:0::12::Mine mithril~[723], apprentice
+71029:0::3::
+71029:0::3::Partially known skills:
+71029:0::6/6::Harvest mallorn wood~[705], 11/14
+71029:0::3::
+71029:0::3::Inventory:
+71029:0::3::{<b>}      qty  name                              weight{</b>}
+71029:0::3::      ---  ----                              ------
+71029:0::3::    1,381  gold~[1]                               0  
+71029:0::3::       17  soldiers~[12]                      1,700  cap 1,700 (5,5,0)
+71029:0::3::        6  pikemen~[16]                         600  cap 600 (5,30,0)
+71029:0::3::       34  swordsmen~[20]                     3,400  cap 3,400 (15,15,0)
+71029:0::3::       57  elite archers~[22]                 5,700  cap 5,700 (10,10,75)
+71029:0::3::        2  riding horses~[52]                 2,000  ride 300
+71029:0::3::       47  plate armor~[73]                     235  
+71029:0::3::       30  drums~[98]                            60  
+71029:0::3::                                             ======
+71029:0::3::                                             13,695
+71029:0::3::
+71029:0::3/11::Capacity:  295/11,800 land (2%), 11,795/300 ride (3931%)
+71029:0::3::
+71029:0::3::Pending trades:
+71029:0::3::
+71029:0::6::trade    price    qty   item
+71029:0::6::-----    -----    ---   ----
+71029:0::6:: sell        7    100   woven basket~[94]
+71029:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Ashanti~[fr3].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/fr3/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [fr3]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         3  104th  
+0:0::3/41::Men:                              136  62nd   
+0:0::3/41::Gold:                           3,163  89th   
+0:0::3/41::Land controlled:                   15  72nd   
+0:0::3/41::Skills known:                   48/74  44th   
+0:0::3/41::Spells known:                   44/79  60th   
+0:0::3/41::Provinces visited:         208/31,919  94th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  5     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 262.
+0:0::0::
+0:0::0::The next five nobles formed will be:  86041 83962 117118 92589 125325
+0:0::0::
+0:0::0::16 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::n872   f040   f13   100  0    1782                  22        Binti Jua
+0:0::0::q029   144806 f67   100  0    1381                 114        Kunta Kinte
+0:0::0::p351   qv48   o2    100  0  2                                 Aegyptus
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              3163                 136
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Camaris
+0:0::0::  Mountain~[dm87]
+0:0::0::    Tymbuktu~[x43]
+0:0::0::      Temple of Isis~[f040]        Binti Jua~[n872]
+0:0::0::  Plain~[dq85]
+0:0::0::      Barad-dur~[144806]           Kunta Kinte~[q029]
+0:0::0::Hades
+0:0::0::  Hades~[qv48]                     Aegyptus~[p351]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  n872       3,231      1,369  40%                                
+0:0::0::  q029      14,295     12,005   2%   (11,995)  --                 
+0:0::0::  p351         100        100   0%                                
+0:0::0::
+0:0::0::garr where  men cost  tax forw castle rulers
+0:0::0::---- -----  --- ----  --- ---- ------ ------
+0:0::0::136060  dp84   10   20  100   16 144806  q029 t023 103685
+0:0::0::4844  dp85   39  107  150    8 144806  q029 t023 103685
+0:0::0::2435  dq86   57  114  150    7 144806  q029 t023 103685
+0:0::0::b029  dq87   35   94  100    1 144806  q029 t023 103685
+0:0::0::111217  dr85   10   10  150   28 144806  q029 t023 103685
+0:0::0::142153  dr86   12   10  100   18 144806  q029 t023 103685
+0:0::0::7984  dr87   25   50   50    0 144806  q029 t023 103685
+0:0::0::146120  ds85   10   20  100   16 144806  q029 t023 103685
+0:0::0::85783  ds86   14   15   50    7 144806  q029 t023 103685
+0:0::0::1849  ds87   13   26  100   14 144806  q029 t023 103685
+0:0::0::1752  dt85   10   20   50    6 144806  q029 t023 103685
+0:0::0::83129  dt86   10   20  200   36 144806  q029 t023 103685
+0:0::0::5700  dt87   14   33  300   53 144806  q029 t023 103685
+0:0::0::127917  dv86   10   20   50    6 144806  q029 t023 103685
+0:0::0::8400  dv87   10   20  100   16 144806  q029 t023 103685
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Ashanti~[fr3]"><font size=+1><b>Ashanti~[fr3]</b></font>
+1:2::0::<hr>
+1:1::0::Ashanti~[fr3]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51473
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison log"><font size=+1><b>Garrison log</b></font>
+1:2::0::<hr>
+1:1::0::Garrison log
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Hakuna Matata~[n845]"><font size=+1><b>Hakuna Matata~[n845]</b></font>
+1:2::0::<hr>
+1:1::0::Hakuna Matata~[n845]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 69845
+1:0::0::
+1:2::0::
+1:2::0::<name="Binti Jua~[n872]"><font size=+1><b>Binti Jua~[n872]</b></font>
+1:2::0::<hr>
+1:1::0::Binti Jua~[n872]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 69872
+1:0::0::
+1:2::0::
+1:2::0::<name="Kunta Kinte~[q029]"><font size=+1><b>Kunta Kinte~[q029]</b></font>
+1:2::0::<hr>
+1:1::0::Kunta Kinte~[q029]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 71029
+1:0::0::
+1:2::0::
+1:2::0::<name="Aegyptus~[p351]"><font size=+1><b>Aegyptus~[p351]</b></font>
+1:2::0::<hr>
+1:1::0::Aegyptus~[p351]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 70351
+1:2::0::
+1:2::0::<name="Mountain~[dm87]"><font size=+1><b>Mountain~[dm87]</b>, mountain, in Camaris, civ-6</font>
+1:2::0::<hr>
+1:1::0::Mountain~[dm87], mountain, in Camaris, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16987
+1:0::0::
+1:2::0::
+1:2::0::<name="Tymbuktu~[x43]"><font size=+1><b>Tymbuktu~[x43]</b>, city, in province Mountain~[dm87]</font>
+1:2::0::<hr>
+1:1::0::Tymbuktu~[x43], city, in province Mountain~[dm87]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58603
+1:0::0::
+1:2::0::
+1:2::0::<name="North Camaris County~[dp84]"><font size=+1><b>North Camaris County~[dp84]</b>, forest, in Camaris, civ-1</font>
+1:2::0::<hr>
+1:1::0::North Camaris County~[dp84], forest, in Camaris, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17184
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[dp85]"><font size=+1><b>Plain~[dp85]</b>, plain, in Camaris, civ-2</font>
+1:2::0::<hr>
+1:1::0::Plain~[dp85], plain, in Camaris, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17185
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[dq85]"><font size=+1><b>Plain~[dq85]</b>, plain, in Camaris, civ-5</font>
+1:2::0::<hr>
+1:1::0::Plain~[dq85], plain, in Camaris, civ-5
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17285
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[dq86]"><font size=+1><b>Mountain~[dq86]</b>, mountain, in Camaris, civ-2</font>
+1:2::0::<hr>
+1:1::0::Mountain~[dq86], mountain, in Camaris, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17286
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dq87]"><font size=+1><b>Forest~[dq87]</b>, forest, in Camaris, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[dq87], forest, in Camaris, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17287
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[dr85]"><font size=+1><b>Central Camaris County~[dr85]</b>, plain, in Camaris, civ-2</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[dr85], plain, in Camaris, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17385
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[dr86]"><font size=+1><b>Central Camaris County~[dr86]</b>, forest, in Camaris, civ-1</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[dr86], forest, in Camaris, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17386
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[dr87]"><font size=+1><b>Central Camaris County~[dr87]</b>, forest, in Camaris, wilderness</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[dr87], forest, in Camaris, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17387
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[ds85]"><font size=+1><b>Central Camaris County~[ds85]</b>, forest, in Camaris, civ-1</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[ds85], forest, in Camaris, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17485
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[ds86]"><font size=+1><b>Central Camaris County~[ds86]</b>, forest, in Camaris, wilderness</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[ds86], forest, in Camaris, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17486
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[ds87]"><font size=+1><b>Central Camaris County~[ds87]</b>, forest, in Camaris, civ-1</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[ds87], forest, in Camaris, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17487
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[dt85]"><font size=+1><b>Central Camaris County~[dt85]</b>, forest, in Camaris, wilderness</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[dt85], forest, in Camaris, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17585
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[dt86]"><font size=+1><b>Central Camaris County~[dt86]</b>, plain, in Camaris, civ-1</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[dt86], plain, in Camaris, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17586
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[dt87]"><font size=+1><b>Central Camaris County~[dt87]</b>, mountain, in Camaris, civ-3</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[dt87], mountain, in Camaris, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17587
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[dv86]"><font size=+1><b>Central Camaris County~[dv86]</b>, forest, in Camaris, wilderness</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[dv86], forest, in Camaris, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17686
+1:0::0::
+1:2::0::
+1:2::0::<name="Central Camaris County~[dv87]"><font size=+1><b>Central Camaris County~[dv87]</b>, forest, in Camaris, civ-1</font>
+1:2::0::<hr>
+1:1::0::Central Camaris County~[dv87], forest, in Camaris, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17687
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[qv48]"><font size=+1><b>Hades~[qv48]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[qv48], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 35648
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

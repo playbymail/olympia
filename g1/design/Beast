@@ -1,0 +1,135 @@
+
+#define		item_spider		278
+#define		item_rat		279
+#define		item_lion		280
+#define		item_bird		281
+#define		item_lizard		282
+#define		item_goat		283
+#define		item_chimera		284
+#define		item_harpie		285
+#define		item_dragon		286
+#define		item_orc		287
+#define		item_gorgon		288
+#define		item_goat_man		289
+#define		item_ratspider		290
+
+giant spider [278]
+rat [279]
+lion [280]
+giant bird [281]
+lizard [282]
+goat [283]
+
+centaur [271]		peasant + horse
+minotaur [272]		peasant + ox
+
+chimera [284]		lion + lizard
+harpie [285]		peasant + lion
+dragon [286]		lizard + giant bird
+winged horse [287]	giant bird + horse
+gorgon [288]		peasant + lizard
+ratspider [81]		rat + giant spider
+
+orc [287]		goat man ^
+orc []			gorgon ^
+orc []			harpie ^
+orc []			orc ^
+
+
+base tier
+---------
+horse
+peasant
+ox
+
+giant bird
+lizard
+goat
+lion
+
+horde of rats
+giant spider
+
+
+first derivative
+----------------
+
+man + horse		= centaur
+man + ox		= minotaur
+man + lion		= harpie
+lion + lizard +	goat	= chimera
+lizard + bird		= dragon
+horse + bird		= pegasus
+man + lizard		= gorgon
+man + goat		= goat-man
+
+
+second derivative
+-----------------
+
+pegasus + dragon	= nazgul
+
+
+
+
+Beasts:
+
+rat
+giant spider
+lion
+harpie
+
+	rat + spider		= ratspider
+	man + lion		= harpie
+	man + horse		= centaur
+	man + lizard		= gorgon
+	man + dog		= scylla (?)
+	man + ox		= minotaur
+	horse + eagle		= pegasus
+	lion + lizard +	goat	= chimera
+	lizard + vulture	= dragon
+	pegasus + dragon	= nazgul
+	man + jackal		= orc
+
+	----
+	man + goat		= pan, giles goat-boy
+
+
+horse		centaur		nazgul
+vulture		pegasus
+		dragon
+
+	man		centaur-	nazgul+
+	horse-		gorgon
+	jackal		minotaur
+	goat		pegasus+
+	lizard		dragon+
+	ox		orc
+	vulture		chimera
+	lion		ratspider
+	giant spider
+	rat
+
+	giant bird
+		take place of vulture, eagle
+
+	must limit # of giant birds in world
+	so flying things don't become too common.
+
+	chance that beasts die in the attempt (5%?)
+
+
+Capture beast unit
+	see what happens to associated members in a unit when it it taken
+	perhaps some new configuration of can't capture
+	or simply -- allow capture?
+
+Breed beasts
+	5% chance beasts die
+
+	breed n m [o]
+
+Form beast unit
+	requires 1 NP
+
+

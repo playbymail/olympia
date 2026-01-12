@@ -1,0 +1,108 @@
+From bron-oly2@bronze.corp.sgi.com  Thu May 11 21:16:58 2000
+Received: (from smtp@localhost) by happy.xkey.com
+	id VAA27321 for <skrenta@pbm.com>; Thu, 11 May 2000 21:16:58 -0700
+Received: from sgi.SGI.COM(192.48.153.1) by happy.xkey.com via smtp (V1.3)
+	id sma027317; Thu May 11 21:16:48 2000
+Received: from relay1.corp.sgi.com (corp.sgi.com [198.29.75.13]) 
+	by sgi.com (980327.SGI.8.8.8-aspam/980304.SGI-aspam:
+       SGI does not authorize the use of its proprietary
+       systems or networks for unsolicited or bulk email
+       from the Internet.) 
+	via ESMTP id VAA06057
+	for <@external-mail-relay.sgi.com:skrenta@pbm.com>; Thu, 11 May 2000 21:16:42 -0700 (PDT)
+	mail_from (bron-oly2@bronze.corp.sgi.com)
+Received: from bronze.corp.sgi.com (bronze.corp.sgi.com [150.166.204.98]) by relay1.corp.sgi.com (980427.SGI.8.8.8/970903.SGI.AUTOCF) via SMTP id VAA81908 for <@spindle.corp.sgi.com:skrenta@pbm.com>; Thu, 11 May 2000 21:16:45 -0700 (PDT)
+Received: by bronze.corp.sgi.com (940816.SGI.8.6.9/940406.SGI)
+	for skrenta@pbm.com id VAA13687; Thu, 11 May 2000 21:16:00 -0700
+Date: Thu, 11 May 2000 21:16:00 -0700
+From: bron-oly2@bronze.corp.sgi.com (Bron Nelson)
+Message-Id: <200005120416.VAA13687@bronze.corp.sgi.com>
+To: skrenta@pbm.com
+Subject: Olympia 2 comments
+Status: RO
+
+
+Since it has been a long time since I'd looked at the source, and since
+I stumbled across that weirdness with swampy combat, I decided to just
+read through the sources to try and improve my overall feel for the
+program.  Naturally, this is taking longer than I thought, plus the
+recent need to actually do some work has slowed me down.  I've gotten
+through about a third of it at this point, and thought I'd mention a
+couple of things I've noted along the way.  A couple of these seem
+to be real bugs; most of them are just things that struck me oddly.
+
+	In combat.c, the "weather" determination is wrong.  It has:
+		if (wind or rain) {
+			archer, elite_archer  missile rating / 2
+			crossbowman missile rating / 4
+		}
+		else if (fog) {
+			all missile ratings / 4
+		}
+
+	If there is *both* fog and rain(wind), then only the lesser
+	rain(wind) effects are charged, not the more stringent fog
+	effects.  In particular note that if it is foggy, catapults
+	and dragons have their misile effectiveness cut to 1/4.  If
+	it is both raining *and* foggy, then they are unaffected.
+	I think you just want to test the fog first:
+		if (fog) {
+			all missile ratings / 4
+		}
+		else if (wind or rain) {
+			archer, elite_archer  missile rating / 2  
+			crossbowman missile rating / 4
+		}
+
+
+	In art.c - d_forge_art_x:  The 500 gold forging cost is
+	charged twice.
+
+
+
+	alchem.c - v_use_death:  does 50 point of damage, but rules
+	say it should be instant death.
+
+	alchem.c - v_use_slave: If the recieving faction does not
+	have enough noble points, the unit deserts from the original
+	faction anyway.
+
+	alchem.c - d_lead_to_gold:  The farrenstone is consumed.  The
+	rules say that it is a "catalyst".  I (and I think, most people)
+	think of a "catalyst" as something needed for a reaction, but
+	is not itself consumed by that reaction.  I freely admit that
+	this is not necessarily true (catalysts can be consumed), but
+	I think the wording in the rules is unnecessarily confusing.
+
+	art.c - v_curse_noncreat, destroyable_item:  Only palantirs
+	and auraculums can be cursed?  Not forged weapons/armor?
+	This seems odd (why are palantirs singled out?).  One does
+	need to be a little bit careful here so that forged things
+	doen't get used as "aura batteries".  But limiting the
+	amount of aura that can be put into the item in the first
+	place, plus the time and aura cost of using the "destroy"
+	spell would make that route unprofitable.
+
+	breed.c :  the different horse types (riding/war/wild) are
+	interchangeable for breeding, but different man types are not
+	(must be "peasant", not worker, soldier, sailor, etc.)
+
+	day.c, u.c: barking dogs - The rules say that dogs might bark
+	if a concealed character is in the same "location".  The source
+	seems to say that the concealed character must actually be in
+	the same sub-location as the hound (e.g. actually inside the
+	castle, not just in the same province as the castle).  I admit
+	I am not 100% sure of this point.  If so, then hounds are
+	fairly impotent; they should be given some chance of barking
+	at a concealed character in the same sub-location *each* day,
+	not just once a month.  If they in fact bark at any concealed
+	character in the same province, then the once-a-month business
+	seems ok.
+
+
+
+--
+Please use  bron-oly2@bronze.corp.sgi.com  for Oly2 correspondence.
+Use  bron@sgi.com  only if you require fast response.
+These statements are my own, not those of Silicon Graphics.
+

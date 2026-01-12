@@ -1,0 +1,251 @@
+59274:breed 285 285
+59274:breed 285 285
+59274:breed 285 285
+59274:breed 285 285
+75319:fly w
+75319:fly n
+75319:fly w
+75319:fly s
+75319:fly w
+75319:fly n
+75319:explore
+75319:explore
+75319:explore
+95020:stop
+95020:move e
+95020:move m980
+95020:move sw99
+95020:move w
+95020:move w
+95020:move w
+95020:move w
+95020:move w
+95020:move w
+95020:move w
+95020:move w
+95020:move w
+95020:move w
+95020:move w
+95020:explore
+95020:explore
+95020:explore
+95020:move w s
+95020:explore
+95020:move w s
+95020:explore
+95020:move w s
+95020:explore
+95020:move w s
+95020:explore
+95020:move w s
+95020:explore
+95020:move w s
+95020:explore
+95020:move w s
+65346:breed 282 282
+65346:breed 282 282
+65346:breed 282 282
+65346:breed 282 282
+65346:breed 282 282
+65346:breed 282 282
+65346:breed 282 282
+131021:stop
+131021:fly n
+131021:fly e
+131021:fly e
+131021:fly e
+131021:fly e
+131021:fly e
+131021:fly e
+131021:recruit 5
+131021:train 12 5
+67318:move e n
+67318:explore
+67318:move e
+67318:explore
+67318:move e
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+67318:explore
+67318:move e s
+59098:move s
+59098:explore
+59098:move s
+59098:explore
+59098:move s w
+59098:explore
+59098:move s w
+59098:explore
+59098:move s w
+59098:explore
+59098:move s w
+74076:explore
+74076:move d n w e
+74076:explore
+74076:move d n w e
+74076:explore
+74076:move d n w e
+74076:explore
+74076:move d n w e
+74076:explore
+78867:stop
+78867:move b78
+78867:wait not item q138 1
+78867:move out
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly s
+78867:fly s
+78867:fly w
+78867:fly n92
+78867:wait not item 113367 1
+78867:fly out
+78867:fly e
+78867:fly n
+78867:fly n
+78867:fly e
+78867:fly e
+78867:fly e
+78867:fly e
+78867:fly e
+78867:fly b78
+78867:wait not item q138 1
+78867:fly out
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly s
+78867:fly s
+78867:fly w
+78867:fly n92
+78867:wait not item 113367 1
+78867:fly out
+78867:fly e
+78867:fly n
+78867:fly n
+78867:fly e
+78867:fly e
+78867:fly e
+78867:fly e
+78867:fly e
+78867:fly b78
+78867:wait not item q138 1
+78867:fly out
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly w
+78867:fly s
+78867:fly s
+78867:fly w
+78867:fly n92
+56033:accept 0 0
+86596:study 616
+86596:study 616
+86596:train 20 17
+60054:stop
+60054:collect 68 0
+60054:move out
+60054:give garrison 11 0
+60054:make 72 10
+60054:recruit 10
+60054:train 12 0
+60054:give garrison 12 0
+60054:use 641 1
+60054:wait turn 262
+60054:get garrison 11 3
+60054:move f348
+60054:collect 68 0
+60054:move out
+60054:give garrison 11 0
+60054:make 72 5
+60054:recruit 5
+60054:train 12 5
+60054:train 13 5
+60054:give garrison 13 0
+60054:wait turn 263
+60054:get garrison 11 3
+60054:move f348
+60054:collect 68 0
+60054:move out
+60054:give garrison 11 0
+60054:make 72 5
+60054:recruit 5
+60054:train 12 5
+60054:train 13 5
+60054:give garrison 13 0
+64250:honor 50
+64250:drop 12 23
+64250:use 69
+64250:fly e
+64250:use 69
+64250:fly n
+64250:use 69
+64250:move s18
+64250:study 630
+64250:study 630
+64250:fly e
+64250:use 69
+64250:fly n
+64250:move n670
+64250:move tt10
+64250:use 69
+64250:move 9840
+64250:give h346 69 1
+64250:get h346 f911 1
+64250:wait turn 262
+64250:study 630
+64250:study 630
+64250:study 641 1
+75660:move w
+75660:use 824 46
+75660:use 813
+75660:use 813
+75660:use 813
+75660:use 813
+75660:use 813
+75660:use 813
+128230:stop
+128230:study 610
+128230:study 630
+128230:study 630
+128230:train 12 0
+128230:move out
+128230:give garrison 12 0
+128230:fly e
+128230:fly e
+128230:recruit 5
+128230:train 12 5
+72783:stop
+72783:collect 77 0
+72783:make 85 25
+72783:collect 77 0
+72783:make 85 25
+72783:collect 77 0
+72783:make 85 25
+72783:collect 77 0
+72783:make 85 25

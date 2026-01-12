@@ -1,0 +1,165 @@
+[perhaps peasants shouldn't be able to fight?]
+
+[ must choose values for siege tower ]
+
+[ must incorporate fortifaction stuff into this doc ]
+
+Combat
+------
+
+Each kind of fighter is given an attack and defense rating:
+
+                     attack  defense
+                    +---------------
+    peasant         |   1       1 
+    soldier         |   5       5
+    swordsman       |  15      15
+    knight          |  45      45
+    elite guard     |  90      90
+    crossbowman     |  25       1 
+    archer          |  50       5 
+    elite archer    |  75      10 
+
+When one man attacks another, the chance that the attacker will kill
+the defender is proportional to their attack and defense ratings.
+
+    A(attack=60) vs B(defense=30)     A has a 2/3 chance of killing B
+    A(attack=60) vs B(defense=60)     A has a 1/2 chance of killing B
+
+During combat, the computer will pick a man at random, choosing from
+both sides, and have him attack a randomly selected enemy.  If the
+attack succeeds, the enemy will be killed.  This continues until the
+battle is over.
+
+When one side has sustained 50% losses, that side is declared the
+loser.  The winner may then attempt to take prisoners.  The chance
+that a given defeated unit will be taken prisoner is proportional
+to the sizes of the remaining forces.
+
+        1:1     0%
+        2:1     50%
+        3:1     100%
+
+If the winning side outnumbers the defeated force by 2:1, there
+is a 50% chance that a given defeated unit will be captured.
+Defeated units which are not captured retreat from battle, but
+remain in the province.
+
+A combatant may set the no-prisoners flag, in which case battle
+will continue past 50% losses, until the weaker force is completely
+destroyed.
+
+
+Nobles in combat
+----------------
+
+Nobles have strong innate heroic abilities, and so even an unarmed,
+untrained noble is a formidable opponent on the battlefield.
+
+An unarmed, untrained noble is rated (attack=80, defense=80).
+
+Combat skills such as archery and swordplay will improve these ratings.
+
+|When a noble is hit, instead of instantly dying, the noble will
+|lose 10-20 points of health.  The noble will not take a hit, however,
+|until all of the other fighting men in the unit have been killed.
+
+One hit will take a noble out of the fighting.  However, Nobles do not
+instantly die from hit.  Instead, they will suffer a 10-20 (15-25?)
+loss of health.
+
+
+
+Fortifications
+--------------
+
+Structures which may aid fighters in battle are rated for
+their defensive bonus.
+
+	Castle Imperius [gx56], castle, fort 25
+
+During battle, the fortification rating is added to the defense
+number for each of the men inside the structure.
+
+Hmmm.
+
+Increase fort level from n to n+1 requires one worker to work n days,
+pay n gold.
+
+1.  Structure may take a hit.  Each hit reduces the fort level by one.
+    Once fort level reaches zero, each hit increases damage by one.
+    Once damage is at 100%, the structure is destroyed.
+
+2.  The number of men protected by different structures:
+
+	Castle			first 500
+	Tower			first 100
+	Galley or roundship	first 50
+	Other structures	first 50
+
+3.  Siege engines
+
+	delivers 3-5 hits against a fortification
+	catapults may fire from behind
+	rams and siege towers must be used in front
+
+		catapult*	25	25
+		battering ram	30	20
+		siege tower	20	30
+
+		* - missile weapon
+
+4.  Have only one rating for structures ?
+	fortify/repair raises it
+	combat, natural forces lowers it
+
+	Excess over 100 is defensive bonus
+	Cost is 5 days, 5 gold to repair points < 100
+	Each point over 100 costs one additional day and one gold.
+
+
+Other factors
+-------------
+
+1.  The side with the best tactician gets a free round of attacks
+    at the start of battle.
+
+    If both sides have no unit skilled in Tactics, or if the tacticians 
+    are equally matched, then neither side will gain a free round of
+    attacks.
+
+    The best tactician for each side will be chosen, regardless of
+    where in the stack he may be.
+
+2.  Knights and elite guard receive a -25 penalty to both their
+    attack and defense ratings when fighting in a swampy province.
+
+3.  In wind, the attack rating for crossbowmen, archers and
+    elite archers is halved.  In rain, the attack rating for
+    missile fighters is reduced to their defense rating.
+
+4.  When battling on the ocean, siege engines are not used.
+
+    Knights and elite guard receive a -25 penalty to both their
+    attack and defense ratings.
+
+    If the galley is fitted with a ram, it will behave like a
+    battering ram on land.
+
+
+
+Change prisoner function to be:
+
+	1:1	25%
+	2:1	50%
+	3:1	75%
+
+	"Taking prisoners in battle and claiming loot requires
+	many soldiers to run down the fleeing enemy.  Thus, the
+	chance of success is based on numerical advantage rather
+	than combat skill."
+
+n.  If the leader of a winning force is killed during combat,
+    the new leader's prisoners flag will be used to determine
+    whether prisoners will be taken or executed.
+

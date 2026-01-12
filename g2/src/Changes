@@ -1,0 +1,3519 @@
+Don't have non-renewable resources
+	make the lairs renew
+
+Change d_breed to not allow i1 == i2 && man_item(i1)
+
+inner locs should be randomly numbered
+
+Multiple starting cities:  because you didn't last time.
+
+Pick a larger numbering space for structures
+Put a maximum on HOSTILE, NEUTRAL, etc.
+Put a maximum on the # of orders a faction will execute.
+
+Separate PRESS command for regular announcements.
+
+Hades and Faery destroy the idea of a frontier, and subvert gatemastery.
+
+
+New
+---
+	fullname		XX
+	start <city>
+	regen <id> ["name"]
+
+	giveup/create
+	create "name"
+
+> P.S.: How is the improved SEEK stuff coming along?  I started thinking
+> about syntax and decided that SEEK <days> [<who>] should work okay.
+
+
+Characters that regen in starting cities should appear in random order.
+Turn delay between death and regen?
+
+
+One way to give more variety would be to have the skills you can pick up
+from cities be more geographically skewed.  So if you wanted to learn
+Necromancy, you could only do it on a certain island.  If you wanted to
+learn about Weather Magic, you would have to have a noble half-way around
+the world.  This would make gathering all these skills a more challenging task
+and would spread factions out a bit, so that a landowner spending all his
+noble-days developing his kingdom wouldn't pick up all the skills so quickly.
+
+Should really fix trade somehow.
+
+   >Other things in Olympia need to be changed to allow greater personal
+   >growth of "heroic" nobles, but this would be a start.
+   
+   Yes.  I've suggested that Rich implement *and enforce* space limits on
+   internal locations such as hills and graveyards and such.  That way, a
+   noble and a large army couldn't enter, only a small band of nobles and
+   maybe some fighting men.  This would let Rich better tune monsters to
+   require certain types of forces to defeat.
+
+That I completely agree with.  This is both a real problem and the
+correct solution.
+
+"Do it."
+
+>    it would be neat if attacking after the first day of
+>    travel out of a province worked only if the attacker matched
+>    movement directions with the attackee (this could be
+>    implemented with a new parameter on ATTACK giving the movement
+>    direction - and if the attacker guessed wrong, he'd still have
+>    to move)
+
+> 3. I would like to see more options in combat along the lines of
+>    Oly I's [kill|capture|booty] choices, and (ideally) some means
+>    of supporting robbery, whereby a player could offer to exchange
+>    all booty in exchange for preventing combat.
+
+> ps.  Oh, and idea I had:  I think that nobles that die and are ressurected
+> should have their attack & defense lowered by like 10 each.  If defense
+> would be lower than 0, no ressurection is possible.  This way there
+> would be a slow degeneration of the noble as they are continually raised.
+> This would also made the DEFENSE skill a little more attractive.....
+
+Must
+----
+
+0.  Add secret selling skill.  Should be very easy to add.
+
+1.  Add a new skill to catch beasts in the wilderness.
+    It is similar to wild horse catching.
+
+2.  Players may choose from 6-12 cities to start in.
+
+3.  Get rid of o/0 l/1 in ID's.
+	Done in engine, what about mapgen?
+
+4.  Design new map for G2
+
+5.  Don't have subloc npc's auto-attack people who enter.
+
+7.  Remove all forms of NP transfer.  Give each player 6 characters from the
+    start.  If a character dies, reincarnate it in its starting location.
+
+	a. potion of slavery goes away		XX
+	b. form/bribe/honor/oath/terrorize go away	XX
+		loyalty desertions		..
+		np's at start			XX
+		loyalty report			XX
+		np accretion			XX
+		np report at top		XX
+		nps on skills			XX
+		curse noncreate loyalty 9113	XX
+	c. persuade oathbound noble goes away	XX
+	d. rescued npc prisoners		XX
+
+	e. start player with five units
+	f. give player a new unit if one dies
+	g. give player a command to give up a character
+	h. new way to work to get more units (max 9)
+
+
+3.  ATTACK always takes three days, regardless of whether the target is
+    present and engaged or not.  (except for "meta-errors"; see source)
+
+	[or should all commands take their stated amount of time?
+	no, too big a change]
+
+
+Holding fighters idea needs attention to summoned entities, mobs, etc.
+Or wait -- is an army stack a stack, or a unit?
+
+Perhaps require Persuasion for RECRUIT.
+
+Perhaps disallow mages to RECRUIT, due to public revulsion.
+
+Maybe?
+------
+
+2.  Make all attacks take three days, regardless of success/failure
+    (i.e. ATTACK takes 3 days prep even if the target isn't found).
+
+3.  Non-combat stacks that are smaller than a force trying to
+    attack them have a 50% chance to evade the agressor.
+
+4.  Flag armies as ", army".  Perhaps require combat (Military leadership)
+    to hold military units.
+
+
+Combat
+------
+
+1.  The combat ratings for peasants, sailors and workers is removed.
+2.  Only one who has studied Combat may hold fighters.
+3.  Only one who has studied Combat may issue ATTACK.
+4.  ATTACK always takes 3 days, regardless of whether the target is found.
+5.  ATTACK against a non-Combat unit has a 50% chance of failure.
+6.  Monsters don't randomly attack travelers.
+
+#4 doesn't work with hostile  (or does it?)
+
+Alt #5:
+	Attack against non-combat unit has 20% chance of succeeding in a
+	city or province, 50% in a sublocation.
+
+Make it so that subloc npc's aren't hostile
+
+7.  Change to combat system: alternate sides, 4-in-a-row?
+
+
+How to make defense easier?
+	bigger defensive bonus to towers
+	extra bonus for defending...
+		a skill?
+		if you're at home or something?
+	forest defense
+		bonus if not an attacker and you're at large in the forest
+	mountain defense
+	plains defense
+	swamp defense
+	desert defense
+
+
+POV growth
+----------
+
+Players start with five nobles
+
+Each additional noble requires the following investment of time
+into SOLICIT.  SOLICIT may only be used by a noble once per month:
+SOLICIT/HIRE/ATTRACT.
+
+	noble 	weeks		rl months	components
+	-----	-----		---------	----------
+	 6th	  20		    1		    5*4
+	 7th	  48		    2		    6*8
+	 8th	  56	 	    2		    7*8
+	 9th	  96		    3		    8*12
+	10th	 144		    4		    9*16
+	11th	 200		    5		   10*20
+	12th	 264		    6		   11*24
+
+wrinkles:
+	give 10 weeks credit for visiting 10 cities
+	(must add 10 to everything though; feh)
+
+	or make them hurdles, eh?  so to do 6-7 one has to visit 10 cities
+	8-9 requires visiting three separate regions
+	10-11 requires payment of 50,000 gold.
+	11-12 requires rank of duke or higher
+
+
+Must
+----
+
+1.  Add a new skill to catch beasts in the wilderness.
+    It is similar to wild horse catching.
+
+2.  Make sure BUILD RAFT is documented.
+
+3.  Players may choose from 6-12 cities to start in.
+
+4.  There are no safe havens. (?)  Players are invisible?
+    Safe havens only work for your first three turns?
+
+5.  Combat changes.
+	Change combat ratings such that peasants, workers, other free
+	soldiers can't fight.  But make sure they run away in combat, too.
+
+6.  Get rid of o/0 l/1 in ID's.
+	Done in engine, what about mapgen?
+
+
+
+Optional
+--------
+
+1.  Improve trade.  Trade should make more than taxes.
+
+2.  Add rivers.
+
+3.  Include chart showing what every kind of fighter, beast is.
+
+4.  Morrow "wimpy" mode
+
+5.  Require Persuasion to recruit
+
+
+
+Hmmm
+----
+
+Max NP's / nobles per faction.
+
+Powerful NPCs with special treasures
+
+
+
+
+Starting cities
+---------------
+
+Don't release the vague map?
+
+Game years to get to the edge of the map
+
+Don't have free turns.  Maybe debit people .50 for a turn they don't run.
+
+
+2.  Don't have wandering beasties attack automatically.
+    Lone nobles should be able to explore.
+
+3.  Get rid of the potion of slavery.
+
+4.  Combat changes:
+
+	a.  When a unit is captured, all men with it desert, all
+	    beasts run away.
+
+	b.  A unit that is not captured retreats.  Retreat is a movement
+	    out of the province in a specific direction.  The direction to
+	    retreat may be specified with the RETREAT order.  The unit may
+	    not be attacked while it is retreating.  (Should the unit be
+	    invisible?)  As soon as any member of the stack stops moving,
+	    it loses its immunity shield.  Retreating units drop 25% of
+	    their stuff.
+
+	c.  Some kind of change to make the losers be able to get their
+	    licks in.
+
+	d.  Some kind of change to allow a superdragon.
+
+	e.  Add a battle magic phase at the start of combat.
+
+5.  Have the Cloud city float around.  Create a rare artifact to
+    control its wanderings.
+
+6.  Have Faery hills float around, instead of having the faery stones
+
+7.  Add a Steal item skill to stealth?
+
+> 
+> I do not understand why you chose the make a the items all numbers I think
+> that some trigraph system would really reduce errors in writing turns. 
+> 
+> FOR example populations types could be changes from numbers to trigraphs.
+> 
+> 11 WRK
+> 12 SLD
+> 13 ARC
+> 14 KNG
+> 15 ELG
+> 16 PIK
+> 17 BLS
+> 19 SAL
+> 20 SWR
+> 21 XBW
+> 22 EAR
+> 24 PIR
+> etc
+
+Beastmastery
+------------
+
+1.  Improve trade.  Trade should net lots of money.  More than taxes.
+
+1.  Map should be smaller.  500-2500 provinces.
+
+
+1.  NP's are conserved between factions.
+
+	a.  Potion of slavery goes away.
+	b.  New players are given 25 NP's.  No further NP's are ever
+	    accumulated.
+	c.  TERRORIZE, BRIBE, Persuade oathbound noble require payment
+	    of NP's by the aggressor in the event of success.
+	d.  Upon death or desertion, all NP's are returned to a noble's
+	    owner.
+
+1.  Combat changes, first attempt:
+
+	a.  New combat algorithm:
+
+		1.  All missile fighters get the first round of attacks. 
+		    Algorith is as it is now:  choose random victim, see
+		    if we hit them.
+
+		    Missile fighters do not fire again during battle.
+
+		2.  Repeat until done:
+			Choose a man from each side to fight
+			Chance that A hits B is: A / (A + B)
+			Otherwise B hits A.
+
+	b.  Eliminate breaking and Fight to the death.  All combat
+	    proceeds until every figure on one side has been hit.
+
+	c.  Fog should have effect in combat, just like wind & rain.
+	    Wind & rain should affect crossbows & nobles too.
+
+3.  Number of peasants recruitable in a province each month == civ level.
+    Recruiting may only be done in cities.
+
+4.  A choice of six initial start cities.  There are no safe havens.
+    Instead...  (newbie shields?  invisibility?)
+
+7.  Harvest lumber may only be done instead a lumbercamp.
+    Lumbercamps require 500 effort, no materials to create.
+    Only one lumbercamp is allowed per forest.
+
+    Quarry stone may only be done in a quarry.
+    Quarries require 500 effort, no materials to create.
+    Only one quarry is allowed per mountain.
+
+    Lumbercamps and quarries suffer quick damage if left unoccupied.
+
+
+Other changes
+-------------
+
+1.  Consider going to an O3-ish map.  Longer travel times between
+    provinces.  Smaller overall number of provinces (200-500).
+    All resource extraction takes place in sublocations within
+    provinces.  Approx 5-10 sublocs per province.  3 days travel
+    into/out of a subloc.  Perhaps a sub-map of inter-subloc routes.
+
+2.  The Cloudlands is replaced with a randomly floating Cloud City.
+    Find the key stone which governs the floating so you can direct
+    the city yourself.
+
+3.  Big underground dungeon.  Entrances here and there.  Really tough
+    dragons down there.
+
+4.  Inland river travel
+
+
+
+
+Setup fee?  $5?  $10?
+
+Longer to travel between provinces.
+
+Winner-gets-weaker combat (see ed bailey mail)
+
+Implement rivers, de-emphasise ocean travel
+
+New-style map?
+
+Get rid of license-plate id's!
+
+Progressive NP costs.  Or a fixed number of core nobles?  Nah, just
+progressive NP costs.
+
+Get rid of Use beasts in battle.  Maybe whole beastmastery category.
+
+Better Trade system.
+
+Show toughness of beasts, so one doesn't attack them if one won't win?
+
+
+Whoa.  One thing we don't want to do is to start getting crazy with
+the changes.  We want enough key changes so that the entire _feel_
+of the game is different.  New ID scheme, the map idea might do that.
+But we want to get G2 off the ground as quickly as possible.
+
+
+Proposed rule changes
+---------------------
+
+1.  Limit Common magic to cities, or tie it to civ level [srt]
+
+> Note that if you adopt Greg's day-by-day PCT4G scheme, this problem
+> would disappear. That scheme was that you compute PCT4G on a
+> day-by-day basis, allowing everyone trying PCT4G to collect a fraction
+> of the available gold, just like peasants or wood or stone or other
+> such resources.
+
+2.  Eliminate the diminishing returns on STUDY.
+    Instead, characters would be limited to initiating at most
+    two STUDY orders per game month.  All STUDY would count for
+    full credit, i.e. 1 day's credit for 1 day's study.
+
+3.  Allow GET/GIVE to work across zero time routes.
+    Characters could GIVE and item to another character who was
+    inside a building.
+
+4.  Allow BUY/SELL/STUDY to work from inside of buildings.
+
+5.  Limit ships to being built in cities.
+
+6.  Instead of Safe Havens, have personal newbie shields.  Last for
+    n turns, or until the first ATTACK / HOSTILE / DEFEND.  This lets
+    newbies go out and walk around.
+
+    Or at least make ordering random within safe havens.
+
+7.  Install default garrisons in all cities.  100 pikemen or something.
+    ADMIT ALL.  PC nobles stacking with the garrisons earn some small
+    amount of gold in return for work aiding the city's defense.
+
+8.  Allow a choice of several start cities.
+
+9.  Have a really tough dragon underground somewhere, guarding a
+    horde of gold.
+
+10. Look at Bron's sqrt() change to combat side selection, as a
+    "walk over" effect reducer.
+
+11. Fog should have effect in combat, just like wind & rain.
+    Wind & rain should affect crossbows too.
+
+12. Only allow one building of each type in each location.
+    Except towers.  There can be up to six towers in a location.
+
+13. Orders should take constant time whenever possible.  Magic spells
+    should take constant time, even for failure -- the time spent
+    represents an attempt to cast the spell, even if you don't know it.
+    (chance to learn?)  Do everything possible to make predicting the
+    turn possible in a rigorous sense, so we can implement a turn
+    simulator.
+
+16. Require full term of study in city, not just first day.
+    Make a scroll for each common subskill; sell them in the
+    city markets.  Require a scroll to learn the common subskills.
+    Add [days] to study.
+
+17. Garrison each city by default.  Garrisons are ADMIT ALL.  Players
+    who stack with garrisons get paid 5 gold/week.
+
+18. Get rid of resurrection, or make it harder.
+    Limit to being used in temples.
+    Last Rites is a problem too.
+
+19. Make building castles harder.
+
+20. Make faction growth even slower.  Harder to oath?
+
+21. Allow up to 6 NP and 1200 gold to be spent immediately
+    learning skills/developing character right away at setup.
+
+    Setup execution:
+
+	> learn <skill>
+	> master <skill>
+
+22. Make the experience scale mean something.  Should take many uses.
+    Should display with the character.
+
+	10,25,45,70,100
+
+    Increase amount of wood/etc. which can be harvested.
+    Increase ability of sailing, etc.
+
+23. Need a plot.  Call it Olympia G2 -- The Darklands.
+    Beyond Olympia:  The Darklands of Areth Pirn.
+    Come up with some story about how the sun got dark and evil
+    things crawled out of the earth.  The game ends when the last
+    vile creature has been killed.
+
+    The player or team with the most ??? when this milestone is
+    reached is declared the victor.
+
+    Separate world into areas or islands (nasty forest, underground
+    dungeon, etc.)  List how tough the monsters are in each area.
+    Start players in a relatively friendly setting.
+
+    Have each different kind of monster have a king, holding a control
+    artifact which gives him control of each of his units.
+
+	Orcs Savages Barbarians Skeletons ...
+
+    Dragons are independent.
+
+    No shipcraft, gatecraft.
+
+    Have a ship players can summon for an amount of gold.  It takes
+    them into the west, to the land of the dead.  There they must
+    defeat skeletons and the undead lord.  There is no return for
+    mortals from the land of the dead.
+
+    Also have an underground kingdom with a really tough dragon.
+
+24. Eliminate civ level.
+
+25. New areas, revamp old ones.  Let the cloud city float around;
+    have an artifact to control where it goes.
+
+26. Players get a fixed 1-6 primary characters.  Primary characters
+    may learn things, do things.  They may HIRE secondary characters,
+    and TELL them to do things, but don't get POVs for these other
+    units.
+
+27. Mute control artifacts into a new skill which binds a secondary
+    character's spirit to the artifact.
+
+28. Let castles be built on islands.
+
+29. Uldim/Summerbridge are a month off.  Should be end of 2-end of 6.
+
+30. Make FLY automatic in MOVE, like riding is.
+
+
+From lachlan@netcom.com  Mon Oct 24 20:53:17 1994
+Received: from netcom4.netcom.com (lachlan@netcom4.netcom.com [192.100.81.107]) by blekko.pbm.com with ESMTP
+	id UAA03848 for <info@pbm.com>; Mon, 24 Oct 1994 20:53:01 -0400
+Received: by netcom4.netcom.com (8.6.9/Netcom)
+	id SAA12270; Mon, 24 Oct 1994 18:39:36 -0700
+Date: Mon, 24 Oct 1994 18:39:35 -0700 (PDT)
+From: Gerald M McCourt <lachlan@netcom.com>
+Subject: two cents <g>
+To: info@pbm.com
+Message-ID: <Pine.3.89.9410241858.A12215-0100000@netcom4>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+
+Rich, 
+
+This is only the second time that I have liked a PBM game enough to
+bother writing to the GM/designer with suggestions.
+
+For a _close_ ended game, Olympia is magnificient!  The ability to
+quickely create armies and smash other player positions. Excitement
+adventure, romance and blood! After only 17 turns, we have had a
+major battle on Mt. Olympus!
+
+For an _open_ ended game however, things seem to be moving awesomely
+fast. The AOO is dominating Provincia and more than likely each of 
+the other landmasses is soon going to have a dominate group. What is 
+going to be the fate of someone who starts the game in six months 
+from now? I think that things are moving so fast because everything 
+is so bloody cheap.
+
+Beastmasters after a minimal IPL are able to wield large forces at
+no charge. Silver tongued orators with Persuasion can acquire large
+followings of peasants, again at no charge. Even regular trained troops
+are dirt cheap. 
+
+If Olympia is meant to be a _closed_ ended game, it would be nice to
+post the victory conditions, so that we non-playtestors know what to
+aim for. If Olympia is menat to be a _open_ ended game, I have some
+suggestions.
+
+ 1. Double or even triple the cost of everything. Do not
+    change the income, just the cost.
+
+ 2. Implement food and require that beasts, peasants,
+    soldiers, etc all be fed each turn, just like the
+    peasants & soldiers must be paid.
+
+    Other than putting a price on large armies of beasts,
+    the food requirement would now enable a force to
+    lay siege to a castle and starve out the occupants.
+
+ 3. Change the availability of resources in a province
+    to be dependant upon the civ level and the season.
+
+    Peasants, for instance, might be more available in
+    high civ provinces during winter and summer but 
+    less available during the planting/harvest seasons
+    of spring and fall and in low civ provinces.
+
+    Food might be more available in summer and fall.
+
+    Horses might be more available in low civ provinces 
+    during fall (after the spring foals are grown up).
+
+Thanx for you time,
+    Mike McCourt / faction  vm2
+    lachlan@netcom.com
+
+BTW: The rulebooks are great.
+
+
+Combat idea:
+	use that alternative we thought of early in combat design
+	a vs. b.  either a wins, or b wins.
+	missile fighter works traditionally
+	each missile fighter gets to shoot during a round
+	other fighters are paired up and duke it out...one left standing
+
+
+Skyships
+Deserts are the seas
+Arabian Nights
+Magic uses up life -- creates desert
+
+more things to mine
+	anamentite
+	basis of skyships
+	liftwood
+
+
+tired of plain old regular fantasy
+fantasy is neat if its different
+
+more advanced fantasy setting -- technology based on magic
+vehicles that are magic powered, "soul powered"
+necromancers use people's souls as a power source
+
+sand dragons
+vast desert "sea" -- but stuff within it
+
+steam powered railroads
+
+mount some kind of reptile like creature, fly, use them as mounts
+ships built of liftwood, liftstone
+
+flying fortresses, flying cities made out of the stuff
+
+boarding battles
+
+a lot of detail in the ships.  different sizes, unique things
+
+colonies exist in the game after the players are gone
+have players run cities, "run" the city
+sim-city like things
+
+powergamers, powermongers want to RUN their cities
+build stuff in it, control the market, run everything
+
+outpost settlements slaves mining ores for the cities
+farms ranches
+
+technology; cannons, mostly sword based, perhaps very primitive
+firearms
+
+BSE: each position can own 6 outposts
+
+colonies produce things
+make it so that colony cannot be self sufficient
+basically can survive, but to produce things, traders have
+to bring it to you
+
+different kinds of ore
+pilot gem / crystal for navigation
+governor crystal
+
+caravan -- subset of city position
+also gives pirates something to hit
+build railroads between the cities, run trains
+colonies are where research gets done
+
+black market single character position
+
+Midgard: position types are clans (ship, horse based; military
+fighting units); and cities; cities do production
+charioteers, neat types of siege weapons, 18 troop types
+
+flying cities, moves on as resources are depleted
+
+ground party, groun expedition, "clan"
+
+Underwater game, hi tech, flavor of BSE
+underwater colonies
+Waterworld
+
+A lot of naval people in PBM
+Warships, ships that shoot torpedoes at one another
+naval battles, space battles
+
+twin worlds, sister planet, one's water, the other's desert,
+gates between them.
+
+valley, magic surrounding it, dense packed forest, very large,
+populated with cannibalistic halflings
+
+very salty or acidic ocean in the desert, lot of metal compounds
+
+suck all life into their continent, use it as a power source for
+their magic.
+
+flying carpets over the desert too?  they would wear out, of course.
+
+Out Time Days: most detailed cities ever
+	text based detailed descriptions
+
+maybe except for Adventurer's Guild
+
+
+Separate reports for each different kind of position
+Individual reports per noble/position/city/etc.
+
+City armies: training, troop marches, drills, etc.
+Each up lots of time.
+
+Unit called passengers that you ferry from city to city.
+
+
+  10.  A small automatic income for each faction.  (an allowance
+from the family?)  Avoids having to make pots or write press for
+cash needed to support a minimal entourage.
+
+  11.  Have some starting cities on small island continents
+where all provinces are safe havens.  No location building
+(except perhaps for towers so peaceful types could research
+without fear).
+
+  12.  Allow for castles (and income, though small) on islands.
+Would not affect balance much, but would be fun.  Perhaps a better
+idea is for some one province continent/islands.
+
+
+Make map long & thin: the inside of a space tube.
+Don't make too many gates.  Seal lots of them.
+
+
+
+So far, the changes I have for G2 which address the power problem are:
+
+        o  Make defending easier than attacking.
+                Example:  Peasants, workers and sailors will not
+                participate in attacks, only for defense.
+
+        o  Elimination of winner-gets-stronger in combat.
+                Fighters on the opposing side never get added to the
+                victor's inventory.  1/3-2/3 of booty is always lost in
+                battle.  Lack of NP transfer means you have no chance
+                of getting nobles out of an attack.
+
+        o  A slight change to the combat algorithm lets the loser get his
+           licks in before he goes down.  This makes combat more expensive
+           for the bully, as he can't attack and come away unscathed.
+
+        o  Beastmastery fixed.
+                Beasts require workers for maintenance, and aren't
+                as plentiful (one has to catch them like horses).
+
+        o  A reduction in castle income.
+                Castles still are lucrative, just not as much.
+
+Some others I'm considering:
+
+        o  Making attacks take more time, say 3 days, perhaps even when
+           the target is not found.
+
+        o  Improving the flee mechanics, so you actually have a chance to
+           get away (although increasing the attack time as above helps a
+           bit here).
+
+        o  Bring back "hyperspace" movement, so one can't be attacked after
+           the first day of travel out of a province.  This is really just
+           making ATTACK and the display routines work like GIVE, STACK, etc.
+
+These are all tuning level fixes.  They will slow the ramp-up of power in the
+game, and together with a limit on the number of nobles allowed in a faction,
+may be sufficient to make the game stable in the long term.
+
+Some have suggested changes which I mentally classify in the "Club Olympia over
+the head" category.  These include "wimpy" and variants, where we draw a sharp
+line between combat units and non-combat units, and spotting rules. These are
+all swell ideas, but are big changes, and the level of debate they spark
+suggests that they really need playtesting to see just how they behave in
+practice.  I'm reluctant to embrace these radical changes unless tuning level
+fixes can't do the job.
+
+From morrow@gandalf.rutgers.edu  Mon Jan 23 12:23:40 1995
+Received: from gandalf.rutgers.edu (gandalf.rutgers.edu [128.6.7.26]) by blekko.pbm.com with SMTP
+	id MAA24150 for <skrenta@pbm.com>; Mon, 23 Jan 1995 12:23:37 -0500
+Received: by gandalf.rutgers.edu (5.59/SMI4.0/RU1.5/3.08) 
+	id AA23475; Mon, 23 Jan 95 12:25:30 EST
+Date: Mon, 23 Jan 95 12:25:30 EST
+From: morrow@gandalf.rutgers.edu (John Morrow)
+Message-Id: <9501231725.AA23475@gandalf.rutgers.edu>
+To: skrenta@pbm.com
+Subject: g2
+Status: RO
+
+Another thing you might want to consider when making the new g2 map is
+to make ALL the lair locations "hidden" except, maybe, islands.  As
+people are pointing out, lair cleaning is most lucrative and benefits
+those who get in the game first.  As you've pointed out, it is just
+too easy to do with an army.  By making them hidden:
+
+A) Players cannot use controlled units to find them, even if artifacts
+   only let you control one controlled unit.
+B) It will take a longer time to find them all, thus slowing down
+   things a bit more (and you want to slow down the game progression).
+C) It will make EXPLORE a more valuable command that people will be
+   more willing to use more often.  
+D) It will partially redress the problem that a roving army can easily
+   go on a lair cleaning expedition.  Slowing down an army makes this
+   more expensive.
+
+Best of all, you should be able to do this with the exiting game.
+
+The next change I'd make is to make it so that books are destroyed
+when used to learn a skill.  This will remove the problem of players
+finding more and more books with none of them ever going away.  It
+will also make people less willing to share them.
+
+Another change you might want to consider is to REALLY limit the
+skills that each city teaches and restrict all magic skills EXCEPT the
+basic Magic skill (and Weather Magic in the Cloud Cities) to books
+that must be found or maybe to books and just one or two cities in the
+world.  Other skills should be harder to find.  Each city should only
+teach one or two skills, not a half dozen.  This will encourage people
+to go out and explore.  Imperial City might be an exception, teaching
+Combat, Shipcraft, Forestry, Stealth, Magic, and Gatecraft -- all the
+skills you might need to get started (including Stealth so you CAN
+sneak out of IC if you want).  The rest might teach only one or two
+skills.
+
+What do you think?
+
+John Morrow
+
+From Dave806459@aol.com  Sat Feb 18 12:59:05 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id MAA23554 for <skrenta@pbm.com>; Sat, 18 Feb 1995 12:59:04 -0500
+From: Dave806459@aol.com
+Received: from mail06.mail.aol.com(152.163.172.108) by blekko.pbm.com via smtp (V1.3)
+	id sma023552; Sat Feb 18 12:59:02 1995
+Received: by mail06.mail.aol.com
+	(1.37.109.11/16.2) id AA289930878; Sat, 18 Feb 1995 13:07:58 -0500
+Date: Sat, 18 Feb 1995 13:07:58 -0500
+Message-Id: <950218130757_25471471@aol.com>
+To: skrenta@pbm.com
+Subject: new skills
+Status: RO
+
+Rich:
+
+    I don't know if this skill exists or not, but if it doesn't, it should.
+ :)
+
+    Rationale:  there's no way to make opium dealing work without it.
+ Especially opium dealing as an attack upon a taxing lord's realm.  I noticed
+that nobody was selling opium on the recent money report.  
+
+    If this skill were to make thieves too powerful, perhaps we could develop
+another skill to track thieves, thus bringing counter-intelligence to the
+game. :)
+
+------------------------------------------------------
+95??  Fencing, a hidden skill under stealth
+
+Use of this skill allows a thief to buy and sell items on the market
+anonymously.  Buy and sell orders will appear publically as "a fence" or
+something like that.
+
+
+-Dave
+
+From gl8f@fermi.clas.virginia.edu  Thu Mar  2 17:00:40 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id RAA00827 for <skrenta@pbm.com>; Thu, 2 Mar 1995 17:00:40 -0500
+Received: from uvaarpa.virginia.edu(128.143.2.7) by blekko.pbm.com via smtp (V1.3)
+	id sma000823; Thu Mar  2 17:00:30 1995
+Received: from fermi.clas.virginia.edu by uvaarpa.virginia.edu id aa26706;
+          2 Mar 95 17:12 EST
+Received: (from gl8f@localhost) by fermi.clas.Virginia.EDU (8.6.10/8.6.6) id RAA143092 for skrenta@pbm.com; Thu, 2 Mar 1995 17:12:43 -0500
+Date: Thu, 2 Mar 1995 17:12:43 -0500
+From: Greg Lindahl <gl8f@fermi.clas.virginia.edu>
+Message-Id: <199503022212.RAA143092@fermi.clas.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: Rich Skrenta <skrenta@pbm.com>
+Subject: btw
+Status: RO
+
+In G2, siege engines used on DEFENSE should target siege engines by
+default. That means you can make your castle more defended by building
+lots of catapults and using them against the enemy ones...
+
+From desj@ccr-p.ida.org  Fri Mar  3 01:48:50 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id BAA07681 for <skrenta@pbm.com>; Fri, 3 Mar 1995 01:48:50 -0500
+Received: from idacrd.ccr-p.ida.org(198.3.41.2) by blekko.pbm.com via smtp (V1.3)
+	id sma007679; Fri Mar  3 01:48:41 1995
+Received: from runner.ccr-p.ida.org (runner.ccr-p.ida.org [198.3.41.1]) by ccr-p.ida.org (8.6.10/8.6.9) with ESMTP id CAA22225 for <skrenta@pbm.com>; Fri, 3 Mar 1995 02:01:04 -0500
+From: David desJardins <desj@ccr-p.ida.org>
+Received: (desj@localhost) by runner.ccr-p.ida.org (8.6.10/8.6.9) id CAA22370; Fri, 3 Mar 1995 02:00:58 -0500
+Date: Fri, 3 Mar 1995 02:00:58 -0500
+Message-Id: <199503030700.CAA22370@runner.ccr-p.ida.org>
+To: skrenta@pbm.com
+In-reply-to: <199503030633.BAA07559@blekko.pbm.com> "skrenta@pbm.com"
+Subject: competition
+Status: RO
+
+> 3.  New combat round algorithm is as follows:
+
+I'll have to think about this.  Has anyone else seen it?
+
+> 1.  Capture beasts in battle is removed.
+
+So no one will ever have any beasts?  Then why have rules for
+controlling them?
+
+> Inventory may not be removed from garrisons.
+
+I sort of like the ability to use garrisons to store stuff.  What's
+wrong with that?
+
+What happens to the inventory when you UNGARRISON?
+
+> Stacks with large numbers of men relative to the number of nobles
+> travel slower.
+
+Another thing to ponder.  Does this apply to FLY as well?
+
+> 2.  Up to 5 horses may be caught per month in plains.
+>     Chance per day to catch is 50%, up from 25%.
+>     Train wild horse to riding horse takes 3 days.
+>     Train wild horse to warmount takes 7 days.
+
+This is better although I think warmount is still too hard.  But maybe
+with the limitations on number of men they will get built.
+
+> 4.  Summoned entities, such as angry mobs, may not be given anything.
+
+Now there's something I never found a use for.
+
+> 7.  Ocean-land routes take normal time to cross, not one day.
+
+I'm going to miss the coastal routes.  I sort of liked those.  Maybe
+have coastal waters (adjacent to land), and deep ocean, and make travel
+faster through the former?  It's nice because it makes it more likely to
+run into people.
+
+                                        David desJardins
+
+From whalen@stromboli.usc.edu  Thu Mar  9 15:52:10 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id PAA14367 for <skrenta@pbm.com>; Thu, 9 Mar 1995 15:52:09 -0500
+Received: from usc.edu(128.125.253.136) by blekko.pbm.com via smtp (V1.3)
+	id sma014365; Thu Mar  9 15:52:05 1995
+Received: from stromboli.usc.edu by usc.edu (4.1/SMI-3.0DEV3-USC+3.1)
+	id AA16853; Thu, 9 Mar 95 12:54:43 PST
+Received: (whalen@localhost)
+	by stromboli.usc.edu (8.6.10/8.6.7+ucs)
+	id MAA02758 for skrenta@pbm.com; Thu, 9 Mar 1995 12:54:40 -0800
+Date: Thu, 9 Mar 1995 12:54:40 -0800
+From: Tim Whalen <whalen@stromboli.usc.edu>
+Message-Id: <199503092054.MAA02758@stromboli.usc.edu>
+To: skrenta@pbm.com
+Subject: Garrison problem redux
+Status: RO
+
+
+Last turn I mentioned that a garrison with troops having
+a total maintenance of 272 gold in a wilderness province
+didn't suffer any attrition.  That, I thought, was an
+obvious bug.  This turn I attacked the garrison and it
+had 252 gold that I captured!  I just don't believe that
+Ergonal put his gold in a garrison for safe keeping.
+There is something very wrong going on here and it may
+well be that some players have been abusing this bug
+for fun and profit.  Viliz has apparently garrisonned
+300+ troops in a civ-1 province this turn ([by10]).
+Since you can TAKE stuff from garrisons in zero time
+UNGARRISON may be a useless command.  I don't know,
+maybe the empty garrison stays around until the end
+of the turn...  If you garrisonned on the last day
+of the month and then took everything from the garrison
+at the start of the next month, you may never be at
+risk from a surprise attack and never have to spend
+any money!  Anyhow, I think there's a problem...
+
+The Survive Fatal Wound was demonstrated as an essentially
+useless skill this turn.  I was able to kill Ergonal no
+problem.  He escaped the first time, as you mentioned but
+was easily killed the following turn.  I can't think of
+many situations where the skill would actually help.  I
+think you may want to change the mechanics so that the
+noble is moved to the nearest GY alive or back to IC
+alive.  Those changes are probably going too far though.
+It's certainly not worth an NP IMO though.
+
+Tim
+
+From gl8f@fermi.clas.virginia.edu  Thu Mar 16 13:25:49 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id NAA27921 for <skrenta@pbm.com>; Thu, 16 Mar 1995 13:25:49 -0500
+Received: from uvaarpa.virginia.edu(128.143.2.7) by blekko.pbm.com via smtp (V1.3)
+	id sma027919; Thu Mar 16 13:25:44 1995
+Received: from fermi.clas.virginia.edu by uvaarpa.virginia.edu id aa23019;
+          16 Mar 95 13:30 EST
+Received: (from gl8f@localhost) by fermi.clas.Virginia.EDU (8.6.10/8.6.6) id NAA89879 for skrenta@pbm.com; Thu, 16 Mar 1995 13:30:22 -0500
+Date: Thu, 16 Mar 1995 13:30:22 -0500
+From: Greg Lindahl <gl8f@fermi.clas.virginia.edu>
+Message-Id: <199503161830.NAA89879@fermi.clas.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.3 5/22/91)
+To: skrenta@pbm.com
+Subject: faery
+Status: RO
+
+The ability of powerful players to use Faery as a superhighway to
+quickly get anywhere sort of undermines the ability of players to use
+distance to get away from the enemy. Remember when I said that a
+fantasy game was one in which it took a long time to cross the world,
+whereas a space game was one in which you could cross the entire
+universe in 3-4 turns? Well, for most players Oly is fantasy, but for
+a few, it's a space game. Hades doesn't really have this effect
+because of the fees, although I think that beasts don't get charged,
+right? so it's still a bit weird.
+
+From aoo-list-request@cedman.remote.Princeton.EDU  Thu Mar 16 09:36:24 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id JAA26734 for <diplo@pbm.com>; Thu, 16 Mar 1995 09:36:24 -0500
+Received: from princeton.edu(128.112.128.1) by blekko.pbm.com via smtp (V1.3)
+	id sma026732; Thu Mar 16 09:36:19 1995
+Received: from cedman.remote.Princeton.EDU by Princeton.EDU (5.65b/2.115/princeton)
+	id AA06979; Thu, 16 Mar 95 09:39:09 -0500
+Received: by capitalist.princeton.edu (NX5.67e/1.115)
+	id AA29337; Thu, 16 Mar 95 09:39:05 -0500
+Resent-Date: Thu, 16 Mar 95 09:38:57 -0500
+Old-Return-Path: <cedman>
+Message-Id: <9503161438.AA29317@capitalist.princeton.edu>
+Content-Type: text/plain
+Mime-Version: 1.0 (NeXT Mail 3.3 v118.2)
+From: Carl Edman <cedman@cedman.remote.Princeton.EDU>
+Date: Thu, 16 Mar 95 09:38:57 -0500
+To: AOO list <aoo-list@cedman.remote.Princeton.EDU>
+Subject: The Aethelarn Convention
+Reply-To: cedman@Princeton.EDU
+Resent-Message-Id: <"nJjOD3.0.JA7.7s4Ql"@capitalist>
+Resent-From: aoo-list@cedman.remote.Princeton.EDU
+X-Mailing-List: <aoo-list@capitalist.princeton.edu> archive/latest/2132
+X-Loop: aoo-list@capitalist.princeton.edu
+Precedence: list
+Resent-Sender: aoo-list-request@cedman.remote.Princeton.EDU
+Status: RO
+
+I intend to POST something like this in the next OT.
+
+------------------------------------------------------------------
+The Aethelarn Convention on Civilized Warfare 0.1
+=================================================
+
+Olympia is a warlike world, ridden by strife and ruled by warlords willing  
+to use violence to achieve their objectives noble and ignoble.  And as some  
+of us have made clear, we would not want it any other way.  That being said,  
+it is still true that there are certain means of warfare which seem to  
+inflict much greater harm on the victim than aid the victimizer or otherwise  
+detract from the general enjoyment of wanton bloodshed.  We have acted on the  
+basis of an unspoken Gentlemans Agreement that such means were to be  
+avoided.  Regrettably it has been shown that such agreements aren't always  
+sufficient.  Hence we propose the following articles.
+
+(A1) Ban on the aggressive use of Laying to Rest.
+
+Aggressive Laying to Rest of killed enemy nobles to deprive their allies of  
+the opportunity to resurrect them is clearly a legal tactic.  Equally clearly  
+by statements of the Great God Atnerks it was a wholly unintended one which  
+basically eliminates the possibility of resurrection in those cases in which  
+it would be most useful i.e. all the major Olympian leaders.  Signatories  
+agree not to engage in it or to solicit others to engage in it against nobles  
+associated with other signatories.
+
+(B1) Becoming a signatory.
+
+Any noble leading a group of other nobles may become a signatory by  
+personally POSTing to the Olympian Times.  A list of other nobles also  
+covered by the agreement is optional.  A noble may indicate that he has  
+signed this convention or is bound to it by a superior nobles signing of it  
+by stating "ACOCW" anywhere in their banner.
+
+(B2) Violations.
+
+A signatory may accuse another signatory of violating this convention in a  
+POST to the Olympian Times containing as much corroborating detail as  
+possible.  After such a POST the convention is suspended between the accuser  
+and the accused until they mutually agree to reinstate it.
+
+I attach my signature to this agreement and consider myself bound by it.
+-----------------------------------------------------------------------------
+
+What do you think ?  Is it a bad idea ?  Would you sign it ?  Violate it ?
+
+	BtA
+
+From cedman@cedman.remote.Princeton.EDU Thu Apr 20 22:26:04 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id WAA14075 for <skrenta@pbm.com>; Thu, 20 Apr 1995 22:26:03 GMT
+Received: from princeton.edu(128.112.128.1) by blekko.pbm.com via smtp (V1.3)
+	id sma013948; Thu Apr 20 22:26:01 1995
+Received: from cedman.remote.Princeton.EDU by Princeton.EDU (5.65b/2.116/princeton)
+	id AA22772; Thu, 20 Apr 95 22:32:15 -0400
+Received: by capitalist.princeton.edu (NX5.67e/1.115)
+	id AA17164; Thu, 20 Apr 95 22:32:11 -0400
+Message-Id: <9504210232.AA17164@capitalist.princeton.edu>
+Content-Type: text/plain
+Mime-Version: 1.0 (NeXT Mail 3.3 v118.2)
+Received: by NeXT.Mailer (1.118.2)
+From: Carl Edman <cedman@cedman.remote.Princeton.EDU>
+Date: Thu, 20 Apr 95 22:32:09 -0400
+To: Rich Skrenta <skrenta@pbm.com>
+Subject: NOTES ON G2:  Death Done Right
+Cc: AOO list <aoo-list@cedman.remote.Princeton.EDU>
+Reply-To: cedman@Princeton.EDU
+Status: RO
+
+Apropos nothing at all let me once again point out just how broken the  
+current handling of death in Olympia is.  It has all kinds of unrealistic,  
+counterintuitive and generally un-fun consequences:
+
+Most of all, Lay to Rest has become the most widely used offensive spell in  
+the game.  Anybody, anywhere can do it and destroy a body even if they  
+weren't involved in the events leading to the death at all, even if the side  
+of the dead body won the confrontation.  Even if you recover the body  
+instantly and start resurrecting it at the highest possible speed, it is  
+completely impossible to beat a determined LTRer to the punch.
+
+One counterintuitive consequence of this is that Resurrection really applies  
+only to minor characters.  If a character isn't worth laying to rest, he is  
+probably only barely worth resurrecting.  But powerful or famous characters  
+which a seasoned role-player would consider the prime candidates for  
+resurrection never get a chance against an opponent with an IQ above room  
+temperature.
+
+On the other hand losing any number of those common fear/contract nobles  
+with only a few skills has almost no cost at all.  Even if you have no access  
+to the body, you can have it laid to rest, used the NP to form a new noble,  
+have it study combat and be out recruiting or training again within a month.
+
+Even worse is the horrible lack of realism of death itself.  When a noble  
+dies on the battle field, he doesn't just lay down in the dirt as one would  
+expect.  Instead he wrangles free from all his opponents without a problem,  
+sprouts a pair of wings and flies to the nearest graveyard at a velocity  
+greater than that of a speeding nazgul.  Then he buries himself but not  
+before sending a telegram to his old boss so that he knows where he can find  
+him when he needs him.
+
+With all due (and considerable) respect for you, Rich, this system sucks.   
+It is broken so badly that as we have found out any attempts to fix it by  
+twiddling with the parameters is likely to only make it worse.  What it needs  
+is a complete bottom up replacement.  Of course this can't be done in G1,  
+but here is what how I think death should work in G2.
+
+When a noble dies, his body is handled the same way his items are currently  
+i.e. if he is in a stack, somebody in the stack inherits the body.  If he  
+dies in battle, the body ends up either with the winners, his own side if  
+there are some escapees, or hidden in the province.  If a single noble dies  
+all by himself his body always ends up hidden in the province.  Hidden bodies  
+can be found like any other items by using explore.  A year after the death  
+the body is destroyed.  If the body is destroyed either by the passage of  
+time or e.g. having its brain eaten, it is just gone.  The old owner receives  
+back neither a NP, nor does he even get a message.
+
+A priest in a graveyard who holds a body can lay it to rest.  That destroys  
+the body, but recovers all invested NPs for the old owner.  A priest in a  
+temple who holds a body can resurrect it.  Resurrection restores the body to  
+life under its old ownership but it costs the faction of the priest a NP.   
+Together these rules should ensure that only the most powerful nobles are  
+resurrected.  Resurrection would be rare and impressive.  Most mortals stay  
+dead, but if their owners can recover the bodies and have them laid to rest  
+within a year they won't suffer permanently, apart from the hassles involved  
+in the laying to rest.
+
+As a side note, under this system high power aura blasts are downgraded from  
+killer strategy to mere major nuisance as the body of the aura blasted noble  
+will typical end up in the ownership of its allies in the old stack.
+
+	Carl Edman
+
+From desj@ccr-p.ida.org Thu Apr 20 23:45:34 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id XAA15259 for <skrenta@pbm.com>; Thu, 20 Apr 1995 23:45:34 GMT
+Received: from idacrd.ccr-p.ida.org(198.3.41.2) by blekko.pbm.com via smtp (V1.3)
+	id sma015255; Thu Apr 20 23:45:32 1995
+Received: from runner.ccr-p.ida.org (runner.ccr-p.ida.org [198.3.41.1]) by ccr-p.ida.org (8.6.10/8.6.9) with ESMTP id XAA14890; Thu, 20 Apr 1995 23:51:38 -0400
+From: David desJardins <desj@ccr-p.ida.org>
+Received: (desj@localhost) by runner.ccr-p.ida.org (8.6.10/8.6.9) id XAA11284; Thu, 20 Apr 1995 23:51:37 -0400
+Date: Thu, 20 Apr 1995 23:51:37 -0400
+Message-Id: <199504210351.XAA11284@runner.ccr-p.ida.org>
+To: skrenta@pbm.com
+CC: aoo-list@cedman.remote.Princeton.EDU
+Subject: deaths in olympia
+Status: RO
+
+I disagree almost 100% with Carl's ideas of how to "solve" the problem,
+but I pretty much agree with him that the whole death/prisoner/last
+rites system is a lousy one.
+
+One thing I would add is that Survive fatal wound is the oddest of
+things: a very expensive skill (1 NP!) which has *negative* value.  I
+just attacked a couple of nobles with SFW this past turn.  Because of
+their SFW, instead of being dead, they are my prisoners at health 100.
+Which is clearly worse for their owner: if I want, I can always execute
+them, but I also have other options like Persuade oathbound noble, or
+just keeping them prisoner forever.
+
+Anyway this whole skill makes zero sense and I know I'd be mad if I had
+foolishly expended any NP on it.
+
+                                        David desJardins
+
+From bailey@hagar.ph.utexas.edu Thu Apr 20 11:33:54 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id LAA07090 for <skrenta@pbm.com>; Thu, 20 Apr 1995 11:33:54 GMT
+Received: from hagar.ph.utexas.edu(128.83.179.27) by blekko.pbm.com via smtp (V1.3)
+	id sma007088; Thu Apr 20 11:33:49 1995
+Received: by hagar.ph.utexas.edu (AIX 3.2/UCB 5.64/4.03)
+          id AA57932; Thu, 20 Apr 1995 10:39:57 -0500
+Date: Thu, 20 Apr 1995 10:39:57 -0500
+From: bailey@hagar.ph.utexas.edu (Ed Bailey)
+Message-Id: <9504201539.AA57932@hagar.ph.utexas.edu>
+To: skrenta@pbm.com
+Subject: Olympia: admit permissions
+Status: RO
+
+Rich, for my g2 wish list (and g1, as well...).
+
+Can we please,please,please,please have some modifications to the admit
+permissions system (and faction relations in general).
+
+I just got burned *again*, because a friend of mine couldn't move into
+my tower.  It's really kind-of silly for us to have to do all these
+"admit x00 j9j j9j j9j..." orders, when something like
+"ally j9j j9j j9j" would do everything that I would like (and more).
+
+Thanks for making such a wonderful game!
+
+Ed "I'm a landowner :)" Bailey
+--
+Ed Bailey                | Voice: (512) 471-4198   Fax: (512) 471-6715
+Inst. for Fusion Studies | Internet: bailey@{hagar,ziggy}.ph.utexas.edu,
+Univ. of Texas at Austin |   u70262@c.nersc.gov, or pnab643@chpc.utexas.edu
+Austin TX  78712         | "No pithy quotes.  Just email addresses."
+
+From chuk@casbah.acns.nwu.edu Thu Jul 13 14:12:53 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id OAA09222 for <skrenta@pbm.com>; Thu, 13 Jul 1995 14:12:52 -0400
+From: chuk@casbah.acns.nwu.edu
+Received: from casbah.acns.nwu.edu(129.105.16.52) by blekko.pbm.com via smtp (V1.3)
+	id sma009219; Thu Jul 13 14:12:50 1995
+Received: by casbah.acns.nwu.edu
+	(1.37.109.16/20.3) id AA002529052; Thu, 13 Jul 1995 13:10:52 -0500
+Message-Id: <199507131810.AA002529052@casbah.acns.nwu.edu>
+Subject: Dispel location shroud
+To: skrenta@pbm.com
+Date: Thu, 13 Jul 1995 13:10:52 -0500 (CDT)
+X-Mailer: ELM [version 2.4 PL24alpha3]
+Content-Type: text
+Content-Length: 674       
+Status: RO
+
+The lore sheet for Dispel location shroud is a little nebulous.
+
+
+Dispel location shroud [9143]
+-----------------------------
+Usage:  USE 9143 <location>
+
+Required aura:  three points
+Required item:
+Time to cast:   three days
+
+Dispels any magical shroud inhibiting scrying of the specified
+location.
+
+
+This sounds like you can sit safely ensconsed in your private tower, and 
+just blow away any location shroud in the world with just three aura and
+three days.  Is this correct?
+
+
+chuk
+
+Charles E. Craig                          
+University Computer Center                 Internet: chuk@nwu.edu
+Northwestern University                    "Mayonnaise is the Stuff of Life."
+
+
+	i) Building restrictions enforced at least four provinces
+from starting city.
+	ii)  No mountain next to starting city
+       iii) Multiple starting cities making it difficult and less
+advantagous for previous gaming communities to use existing
+relationships as basis of meta-alliance.  
+From chuk@casbah.acns.nwu.edu Thu Jul 13 14:27:55 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id OAA09313 for <skrenta@pbm.com>; Thu, 13 Jul 1995 14:27:55 -0400
+From: chuk@casbah.acns.nwu.edu
+Received: from casbah.acns.nwu.edu(129.105.16.52) by blekko.pbm.com via smtp (V1.3)
+	id sma009311; Thu Jul 13 14:27:46 1995
+Received: by casbah.acns.nwu.edu
+	(1.37.109.16/20.3) id AA024659948; Thu, 13 Jul 1995 13:25:48 -0500
+Message-Id: <199507131825.AA024659948@casbah.acns.nwu.edu>
+Subject: Re: Dispel location shroud
+To: skrenta@pbm.com (Rich Skrenta)
+Date: Thu, 13 Jul 1995 13:25:48 -0500 (CDT)
+In-Reply-To: <199507131816.OAA09257@blekko.pbm.com> from "Rich Skrenta" at Jul 13, 95 02:16:02 pm
+X-Mailer: ELM [version 2.4 PL24alpha3]
+Content-Type: text
+Content-Length: 626       
+Status: RO
+
+Rich Skrenta
+> 
+> > This sounds like you can sit safely ensconsed in your private tower, and 
+> > just blow away any location shroud in the world with just three aura and
+> > three days.  Is this correct?
+> 
+> Actually, it does seem to work that way.  Urm.
+
+Um, ok.  Well, location shrouds are pretty wimpy then.  Are you going to 
+change this to look like the create magical barrier/remove magical barrier
+things, and if so, when?
+
+chuk
+
+Charles E. Craig                          
+University Computer Center                 Internet: chuk@nwu.edu
+Northwestern University                    "Mayonnaise is the Stuff of Life."
+
+From srt@sun-dimas.aero.org Tue Jul 18 10:54:11 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id KAA02703 for <skrenta@pbm.com>; Tue, 18 Jul 1995 10:54:11 -0400
+Received: from aero.org(130.221.16.2) by blekko.pbm.com via smtp (V1.3)
+	id sma002701; Tue Jul 18 10:54:07 1995
+Received: from sun-dimas.aero.org ([130.221.193.151]) by aero.org with SMTP id <111129-2>; Tue, 18 Jul 1995 07:50:48 -0700
+Received: from localhost by sun-dimas.aero.org/A8/sws-04; Tue, 18 Jul 95 07:50:37 PDT
+Posted-Date:  Tue, 18 Jul 1995 07:50:37 -0700
+Message-Id: <9507181450.AA12955@sun-dimas.aero.org>
+To: Rich Skrenta <skrenta@pbm.com>
+Subject: Re: Arena 
+Reply-To: srt@aerospace.aero.org
+In-Reply-To: Your message of "Tue, 18 Jul 95 05:12:42 PDT."
+             <199507181212.IAA17115@blekko.pbm.com> 
+Date: 	Tue, 18 Jul 1995 07:50:37 -0700
+From: Scott Turner <srt@sun-dimas.aero.org>
+Status: RO
+
+>I probably just won't have Faery in G2...
+
+Oh, I don't think most players want that.  Faery is cool, after all.
+It's just (as Greg rightly points out) too easy to abuse as a
+shortcut.
+
+Cutting down on the number of elfstones would be one solution
+(especially if you remove the apparent automatic protection NPC units
+get).  And from my limited experience it seems like the Hunt doesn't
+attack that often.  Make them more vicious.  Add 2 elves to the Hunt
+for every body that enters Faery. Give the Hunt control over all the
+beasts in the battle.  After all, an elf versus a beastmaster?  Who is
+the dragon going to obey? :-)
+
+Maybe one of the best things to do would be to make travel in Faery
+probablistic.  I'd lean towards a mechanism that shuffles the
+connections between the Faery hills, and maybe even shuffling the hill
+on every continent between different enchanted forests.  Or, in
+keeping with traditional stories about Faery, you could have the
+actual Faery locations shuffle around.  It was notoriously hard to
+find your way around, you know.  Everything was constantly shifting.
+Maybe in Faery you can only move with directions, and every move
+shifts all the location connections?  That would be
+weird/cool/vicious.  Also, Faery was typically easier to get into than
+out of; maybe elfstones permit you to *leave* Faery...
+
+And you should probably eliminate garrisoning in Faery (and Hell and
+the Cloudlands for that matter).  I mean, who exactly are you making
+money off of in those places anyway, right?
+
+>...beastmastery is already dealt with.
+
+Are you going to charge maintenance?  That's the obvious solution, but
+I lean towards a different kind of limit.  Maybe there's a limit to
+the number of beasts a beastmaster can control?  And some way he can
+slowly raise that?
+
+It would be cool, too, if you had beasts track their ages, so after
+breeding you end up with a "young wyvern" that becomes a "mature
+wyvern" that becomes a "young dragon" that becomes a "mature dragon",
+etc.  Although you'd still have to speed up aging for game purposes.
+
+						-- Scott T.
+
+From pbm.com!news1.digex.net!news2.digex.net!howland.reston.ans.net!swrinde!sgigate.sgi.com!genmagic!bug.rahul.net!a2i!rahul.net!a2i!keradwc.a2i!keradwc 18 Jul 1995 07:50:34 GMT
+Path: pbm.com!news1.digex.net!news2.digex.net!howland.reston.ans.net!swrinde!sgigate.sgi.com!genmagic!bug.rahul.net!a2i!rahul.net!a2i!keradwc.a2i!keradwc
+From: Kevin Davis Connery <keradwc@rahul.net>
+Newsgroups: rec.games.pbm
+Subject: Olympia-improvements: Faery
+Date: 18 Jul 1995 07:50:34 GMT
+Organization: Ringworld Engineering
+Lines: 40
+Message-ID: <3ufp4a$d3t@hustle.rahul.net>
+NNTP-Posting-Host: bolero.rahul.net
+NNTP-Posting-User: keradwc
+Cc: skrenta@pbm.com
+
+Some possible changes (for Olympia II v2) might be:
+
+1. Faery can only be exited where it was entered (i.e., if I entered at
+   aa01, and you entered at bb05, when I exit, I will exit at aa01, and
+   you will exit at bb05, even if we use the same exit point from the 
+   inside. This fits some classic behavior of the faery lands--though
+   it doesn't fit them all.
+
+   This solves the armies travelling VIA faery, but not the takeover OF
+   faery.
+
+2. Exit from Faery takes time; perhaps a month or so is 'lost' for every
+   week spent inside, perhaps with some random component tossed in. In other
+   words, whenever a unit tries to *exit* faery, that unit is in 'limbo'
+   for a non-deterministic period of time; consuming no food, making no
+   income, etc. This fits some other classic behaviors of the faery lands
+   (stay overnight, and leave 20 years later...). If kept to a low but not
+   trivial value this would reduce the in-out-in-out casual use of faery, 
+   and minimizes the use of it as an army transport mechanism.
+
+3. Make the exit points random rather than fixed. Just because the Faery
+   know how to get in and out reliably doesn't mean that everyone with
+   an elfstone does. In other words, just because exiting from faery in
+   this location gets you to aa99 this time, doesn't mean it will always
+   do so. (Or, risking a long term problem, make the exit locations
+   time dependent: day of week, or season, or month, or such.)
+
+
+All of these keep the extra 'space' available for exploration and conquest,
+but do not permit that extra space to become a vehicle for other game
+distortions.
+
+--kdc
+
+
+-- 
+ | Kevin Connery      | Quality must be designed |         Not speaking for: |
+ | keradwc@rahul.net  | into software; it cannot |   Integrated Systems, Inc |
+ | kconnery@isi.com   | be patched on afterwards |           Santa Clara, CA |
+
+
+From pbm.com!news.uni-stuttgart.de!news.rhrz.uni-bonn.de!RRZ.Uni-Koeln.DE!nntp.gmd.de!Dortmund.Germany.EU.net!Germany.EU.net!howland.reston.ans.net!news.sprintlink.net!europa.chnt.gtegsc.com!news.umbc.edu!nobody 19 Jul 1995 18:20:38 -0400
+Path: pbm.com!news.uni-stuttgart.de!news.rhrz.uni-bonn.de!RRZ.Uni-Koeln.DE!nntp.gmd.de!Dortmund.Germany.EU.net!Germany.EU.net!howland.reston.ans.net!news.sprintlink.net!europa.chnt.gtegsc.com!news.umbc.edu!nobody
+From: schott@cs.umbc.edu (Brian Schott)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia
+Date: 19 Jul 1995 18:20:38 -0400
+Organization: University of Maryland, Baltimore County
+Lines: 72
+Message-ID: <3uk0fmINNqev@retriever.cs.umbc.edu>
+References: <3u6671$qa0@gandalf.rutgers.edu> <3ubvkf$537@news1.ucsd.edu> <3uc9o9$hlp@grapevine.lcs.mit.edu> <3uj7sr$eij@raptor.eng.pyramid.com>
+NNTP-Posting-Host: retriever.cs.umbc.edu
+
+The question is: what is the *real* strength of beasts?  When running
+the combat simulator (version 1.5) 1 dragon is roughly equivalent to
+11 soldiers.
+
+Although though the attack ratio is 500/500 vs. 55/55 the odds are
+reported as even.  I think this has to do with the fact that the
+dragon has only a 1 in 12 chance of gaining the initiative and must do
+so 11 times to win (assuming fight to the death).  The soldiers will
+get in a fairly large number of attacks before they die.
+
+If anything, the combat system should be modified to IMPROVE the
+performance of strong units.  There is not much of an incentive in the
+game to produce swordsmen and knights because the combat system favors
+numerical advantage over strength.
+
+I agree that there is an economic advantage to beasts.  One possible
+solution is to require a noble-point for beastmastery like magic
+skills.  That would at least limit the number of beast masters.
+Possibly, also require a noble point for breed beasts.
+
+Brian
+
+---
+
+fight -b 'dr1 * s11'
+Olympia II Battle Simulator  version 1.5
+Parameters: -b dr1 * s11
+5000 battles fought in 4 seconds, 1250.00 battles/s
+
+ATTACKER (Fighting to the death) :
+
+    1 dragon (500,500,0) [0.53]
+
+DEFENDER (Fighting to the death) :
+
+    11 soldiers (5,5,0) [3.77]
+
+    Average losses : 7 soldiers
+
+LIKELIHOOD OF WIN 53.28%
+v
+----
+
+fight -b 'dr1 * ap18'
+Olympia II Battle Simulator  version 1.5
+Parameters: -b dr1 * ap18
+5000 battles fought in 7 seconds, 714.29 battles/s
+
+ATTACKER (Fighting to the death) :
+
+    1 dragon (500,500,0) [0.51]
+
+DEFENDER (Fighting to the death) :
+
+    18 angry peasants (2,2,0) [6.43]
+
+    Average losses : 12 angry peasants
+
+LIKELIHOOD OF WIN 50.96%
+
+
+
+In article <3uj7sr$eij@raptor.eng.pyramid.com>,
+Keith Hearn <khearn@pyramid.com> wrote:
+>
+>I'll bet if beasts started costing in proportion to their strength,
+>  you'd see these huge beast-stacks start to melt down to a more
+>  reasonable size.
+
+
+
+
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!math.ohio-state.edu!news.cyberstore.ca!van-bc!unixg.ubc.ca!info.ucla.edu!nnrp.info.ucla.edu!usenet 19 Sep 1995 17:00:28 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!math.ohio-state.edu!news.cyberstore.ca!van-bc!unixg.ubc.ca!info.ucla.edu!nnrp.info.ucla.edu!usenet
+From: Rob Rodgers <rrodgers@unex.ucla.edu>
+Newsgroups: rec.games.pbm
+Subject: Re: "Olympia" - any good?
+Date: 19 Sep 1995 17:00:28 GMT
+Organization: University of California, Los Angeles
+Lines: 36
+Message-ID: <43msvc$ake@saba.info.ucla.edu>
+References: <42g3qo$1sa@news.ccit.arizona.edu> <4398q1$i2t@blekko.pbm.com> <43isbd$gl8@news1.ucsd.edu>
+NNTP-Posting-Host: 128.97.218.117
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: Mozilla 1.1N (Windows; I; 16bit)
+
+wbruvold@weber.ucsd.edu (William Bruvold) wrote:
+
+>Noble points are not the problem.  I believe that the single biggest
+>problem in olympia is the fact that old players who got a jump on
+>the "lair cleaning" during the first few turns have a serious
+>advantage over either players who did not participate (largely their
+>fault) and newbies (faultless).  This is particularly true as it
+>allowed the "capture" of NPC's and control devices, along with
+>prisoners.  Thus some of the old factions have in excess of 50
+>controlled units, something they did not get through accumulating
+>NPs.  While I enjoy the game tremendously, IMHO their is a serious
+>flaw in how "labor assets" can be accumulated.  
+>
+
+The older players indeed have serious advantage, but hey, why do we play 
+this games if not to overcome challenges.  Sure, I would have loved to 
+test my skills on an even playing field against the group of older 
+players, and perhaps someday I will, but at the same time success will be 
+sweet indeed if I can overcome the inherent disadvantages that "newbies" 
+have in Olympia.  I'm not going to brag about my acomplishments here, but 
+let's just say that at some point I expect to be able to present at least 
+a major annoyance to anyone I choose to annoy, no matter how established. 
+Success in a game like Olympia is based on the skill of the player, not 
+when he/she starts.  
+
+Not to say that there aren't problems with Olympia, but noble points, 
+IMHO, aren't one of them.  That system works for me.  Much worse is that 
+a noble with 10,000 dragons can enter an Inn...  ;-)
+
+Seriously, Rich, if you're reading this, my biggest problem is that 
+access to the areas where advanced magic can be learned are so easily 
+restricted.  That, I think, is the major advantage the older players 
+have, and it isn't fair.  Either it should be harder to restrict access 
+to Faery and the Cloudlands, or the magic skills taught there and only 
+there should be made available in other locations.
+
+
+From gl8f@fermi.clas.virginia.edu Fri Sep 22 08:55:28 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id IAA05590 for <skrenta@pbm.com>; Fri, 22 Sep 1995 08:55:28 -0400
+Received: from uvaarpa.virginia.edu(128.143.2.7) by blekko.pbm.com via smtp (V1.3)
+	id sma005588; Fri Sep 22 08:55:22 1995
+Received: from fermi.clas.virginia.edu by uvaarpa.virginia.edu id aa24956;
+          22 Sep 95 8:54 EDT
+Received: (from gl8f@localhost) by fermi.clas.Virginia.EDU (8.6.10/8.6.6) id IAA93901 for skrenta@pbm.com; Fri, 22 Sep 1995 08:54:38 -0400
+Date: Fri, 22 Sep 1995 08:54:38 -0400
+From: Greg Lindahl <gl8f@fermi.clas.virginia.edu>
+Message-Id: <199509221254.IAA93901@fermi.clas.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Rich Skrenta <skrenta@pbm.com>
+Subject: Re: OLY: breaking Beastmastery
+Status: RO
+
+> > The % of beasts die suggestion, and the suggestion that breeding
+> > big beasts, such as dragons, ought to be less efficient.
+> 
+> So what's the connection to "restoring human armies to their place"?
+> That seems like an indirect way of describing your suggestion.
+> G2 had the 1-worker/1-beast requirement.
+
+Both of those changes turn beasts into more of a specialty item, not
+the backbone of your army, restoring human armies to the center of
+combat power...
+
+I actually don't like the 1-worker/1-beast thing; that makes it
+impossible to have small, powerful, fast-moving beast armies. I
+suppose you added more flying cargo capability so that giant birds and
+the like can still move with flying units...
+
+-- greg
+
+
+
+From pbm.com!news.uni-stuttgart.de!rz.uni-karlsruhe.de!ka.sub.net!xlink.net!howland.reston.ans.net!tank.news.pipex.net!pipex!in2.uu.net!dziuxsolim.rutgers.edu!gandalf.rutgers.edu!not-for-mail 23 Sep 1995 13:29:54 -0400
+Path: pbm.com!news.uni-stuttgart.de!rz.uni-karlsruhe.de!ka.sub.net!xlink.net!howland.reston.ans.net!tank.news.pipex.net!pipex!in2.uu.net!dziuxsolim.rutgers.edu!gandalf.rutgers.edu!not-for-mail
+From: morrow@gandalf.rutgers.edu (John Morrow)
+Newsgroups: rec.games.pbm
+Subject: Re: "Olympia" - any good?
+Date: 23 Sep 1995 13:29:54 -0400
+Organization: Rutgers University
+Lines: 55
+Message-ID: <441g6i$f8k@gandalf.rutgers.edu>
+References: <42g3qo$1sa@news.ccit.arizona.edu> <4398q1$i2t@blekko.pbm.com> <43isbd$gl8@news1.ucsd.edu> <DFC3C4.L8G@murdoch.acc.Virginia.EDU> <43vr3h$183@snook.ccr-p.ida.org>
+NNTP-Posting-Host: gandalf.rutgers.edu
+
+desj@ccr-p.ida.org (David desJardins) writes:
+>This turns out not to be the case.  When I found out about control
+>artifacts I was expecting something like this.  But as it actually
+>worked out, the initial frequency of everything was high enough that all
+>that was really important was getting on the growth curve as early as
+>possible and then growing as rapidly as possible.
+
+Getting on the "growth curve" early wouldn't have been the only
+workable strategy if Olympia didn't have so many ways around its
+movement restrictions.  Another viable option would have been to
+travel and then grow.  The only problem is that those of us who 
+tried that quickly found the large alliances pulling in units all
+around us from Faery and Hades, cleaning out the surrounding inner
+locations that we *would* have time to exploit otherwise.
+
+When a game has useful restrictions to an activity (e.g. movment
+times, unit upkeep costs) but then provides tricks to totally get
+around those restrictions (Faery, zero upkeep beasts), the players who
+most quickly and effectively exploit the tricks win and a player who
+can't or doesn't exploid them can't.  While it isn't unreasonable to
+give players an advanage for efficient play (e.g. the coastal crawl)
+or for things they have developed over time (e.g. most magic, castle
+defensive bonuses), it is unreasonable to provide advantages that
+totally break restrictions that are important for balancing the game
+(e.g. very rapid movment via Faery, teleportaion of 200 dragons to a
+prowler in a catle, blasting a noble to death from afar, getting a
+half-dozen controlled units from one lair [fixed]).  In short, if
+the game -- ANY game -- has restrictions to activities, care needs
+to be taken to make sure that those restrictions can't be totally
+circumvented by something else in the game.  If so, the game quickly
+becomes a situation of "haves" and "have nots".
+
+>For players who came along later, I'm sure that luck was far more
+>important, both in terms of finding useful stuff and just in terms of
+>reaching unexplored territory.
+
+Is there *really* any virgin territory out there?  Having seen how
+quickly little friends popped of of Faery all around us (we were about
+as far from IC as you can get) when they wanted to (e.g. when we
+attacked them first they had no trouble finding and sieging our
+castle, when they thought there were empty castles on Torba Bacor for
+them to take [RAZEd in time, thank you very much], when they wanted to
+clean out lairs on lands around us [5 to 10 little armies with no
+ships -- hmmmm], etc.), I'm dubious of any claims of "frontiers" in
+Olympia any more.  You would really need to explain to me how a large
+alliance with control of much of Faery, with armies waiting there,
+with the ability to Scry or Vision any noble they see start in IC, and
+with the ability to either blast nobles from afar or teleport in
+hundreds of dragons to a hiding prowler would have any problem wiping
+out any new player they want to.  Oh, joining up with another alliance
+might prolong things but can anyone in a certain large alliance really
+say, with a straight face, that if they wanted a particular faction
+dead that they couldn't do it -- particularly a new one? 
+
+John Morrow
+
+From sjc@mcs.kent.edu Mon Sep 25 08:58:28 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id IAA02291 for <skrenta@pbm.com>; Mon, 25 Sep 1995 08:58:28 -0400
+Received: from ogion.mcs.kent.edu(131.123.2.53) by blekko.pbm.com via smtp (V1.3)
+	id sma002289; Mon Sep 25 08:58:25 1995
+Received: from localhost.ARPA by ogion (930416.SGI/92.09.25)
+	id AA23679; Mon, 25 Sep 95 08:50:12 -0400
+Message-Id: <9509251250.AA23679@ogion>
+Reply-To: sjc@mcs.kent.edu
+From: sjc@mcs.kent.edu (Steve Chapin)
+To: Rich Skrenta <skrenta@pbm.com>
+Zevon-Of-The-Day: I'll Sleep When I'm Dead 
+Subject: Re: Opium 
+In-Reply-To: Your message of Sun, 24 Sep 1995 19:01:54 EDT.
+             <199509242301.TAA10016@blekko.pbm.com> 
+Date: Mon, 25 Sep 1995 08:50:11 -0400
+Sender: sjc@mcs.kent.edu
+Status: RO
+
+
+>> > So, is it going to stay the same way?
+>> 
+>> Yes, I'm not going to change it.
+
+Okey-dokey.  I needed to know whether to study Harvest Opium first or
+not.
+
+Are you going to change the message returned from RESEARCH in this
+case (or these cases?).
+
+sc
+--
+
+From erik@engrg.uwo.ca Tue Sep 26 10:01:11 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id KAA08975; Tue, 26 Sep 1995 10:01:11 -0400
+Received: from nova.engrg.uwo.ca(129.100.100.13) by blekko.pbm.com via smtp (V1.3)
+	id sma008972; Tue Sep 26 10:01:08 1995
+Date: Tue, 26 Sep 1995 09:53:01 -0400 (EDT)
+From: Erik Jacobsen <erik@engrg.uwo.ca>
+Sender: Erik Jacobsen <erik@engrg.uwo.ca>
+Reply-To: Erik Jacobsen <erik@engrg.uwo.ca>
+Subject: Resigning from Olympia
+To: skrenta@pbm.com
+Cc: MAFOCians <olympia@engrg.uwo.ca>
+Message-Id: <Pine.3.88.9509260955.A13568-0100000@nova.engrg.uwo.ca>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Status: RO
+
+Hi Rich
+
+
+	Sorry to say, but I too will be leaving Olympia.  My reasons for 
+leaving are several, but they are all based on my perception that the 
+game has not developed in an open-ended fashion.  It has become evident 
+to me that the 'power-gamers' of the AOO have in all respects, won the 
+game.  I feel that in an open ended game this should not be possible.  
+
+	Some of the flaws in the game as I see them are:
+
+1.	There should be several roads to 'power' , such that no one path 
+is far superior to any other.  In this case, the role or importance of 
+beastmastery is far greater than that of magic or army-building.  I think 
+a proportional balance of power between beastmastery, army building, or 
+magic wielding would ensure a greater game balance.
+
+2.	The style of game-play espoused by some members of the AOO ( and 
+others I'm sure)  essentially revolves around the 'Harvest of Souls', ie 
+acquisition of nobles by preying on new players.  Anyone who cares to 
+follow this path of play can rapidly (in fact in an exponential manner) 
+outgrow all other factions.  This assumes several things, such as a 
+sufficiently large alliance, and a lack of organized counter-reprisal, 
+and a reasonably intelligent strategy.  Given that the AOO started the 
+game as a large metafaction, and that some of their players were 
+undoubtedly very clever, the outcome has been predictable.
+	The harvest of souls is the core of the problem.  I have nothing 
+against the ability of people in this game to form factions as large as 
+they want. But the ability to grow at a rate proportional to the rate of 
+loss of other factions means the game is not open ended.  A possible fix 
+would be add a combat subskill, 'Death before Dishonour', such that a 
+captured noble with this subskill would die before allowing himself to be 
+bribed or persuaded.  Another fix might be to simply have multiple start 
+locations in the world, although that would reduce the interest of 
+exploration.  Maybe periodically rotate start locations to new continents.
+
+3.	My third major nit to pick is the limitation of certain skills 
+and resources.  We found that despite settling and exploring 3 or 4 
+continents, our faction only found a source for learning scrying around 
+turn 55,  and never found any dragons at all.  Maybe we missed something 
+fundamental ( ie experimenting with breed beasts more) but as it has 
+turned out, we cannot even affect what the AOO does.  It has been pointed 
+out that many of the rarer magical skills were to be found in various 
+tomes, and that information could be acquired through negotiation, but 
+given political uncertainties, it is difficult to make serious inquires 
+publically.  While rare skills should be rare, they should also remain 
+accesible.
+	Also the ability of the AOO, through sheer strength of numbers, 
+to be able to control Faery and some of Hades, is unbalancing.  This 
+however is a spin-off of Whine #2.  I think however that Hades and Faery 
+should remain uncontrollable by anyone at any time, and in fact remain 
+dangerous.  Traditional legend/folklore has mortals becoming enchanted or 
+entranced if they remained in faery especially if they ate and drank 
+while in faery lands.  In game terms, any troops would suffer 10% / week 
+losses while in faery, and each noble a 10% flat chance per month of 
+being entranced and becoming independent.  Similarly, in Hades, troops 
+that drink from the river Lethe would fall alseep never to re-awaken, and 
+some due to the sheer horror of being in the Land of the Dead, become 
+depressed and wander off to die.  In both cases ( Faery and Hades)  
+having large stack especially lingering for a time, would be bound to 
+attract the attention of the respective Lords and/or Ladies of the 
+Domain, and earn their wrath.  Attacks could be made somewhat 
+proportional to the size of the stack
+
+	Relative strengths
+'Good guys'								
+Native defense
+1 noble + 10 soldiers						50%
+1 noble  20 soldiers, 10 pikemen,10 crossbowmen		75%
+5 nobles 40 soldiers 20 swordsmen, 20 archers, 20 beasts	100% 
+5 nobles100 soldiers, 150 crossbowmen, 200 beasts		125%
+
+This kind of an increasing response to increasing forces would keep the 
+numbers down, and allow even newbies to explore and travel, while being 
+able to survive the trip.  I think allowing Faery and Hades to be used as 
+risky routes is good,adding uncertainty to the game, but allowing one 
+faction to control one or both regions is game-unbalancing.	
+
+	Despite my criticisms of the game Rich, it is and remains a 
+unique experience in game playing.  I have enjoyed both this game and the 
+test game immensely.  The ability to conduct diplomatic negotiations is 
+great.  The interaction with the other players has been terrific - in 
+fact what I enjoyed the most.  The style that we wished to play has 
+proven to be non-viable in this game.  We had envisioned MAFOC 
+establishing a power base, and acquiring mages, beasts and armies and 
+then constantly tweaking the collective noses of the game leaders.  What 
+has happened has shown that this is not possible.  Even if the AOO didn't 
+have teleporting dragon armies, with the sheer number of nobles they 
+possess would eventually swamp all others.  I believe some game tweaks 
+are neccessary to maintain the game as open-ended.  If you do start a g2, 
+I would love to play again, and as Dan has said I would also be willing 
+to throw my $.02 any time.  
+
+				Best of luck
+
+						Erik Jacobsen
+
+p.s. 	the article by Rob Butchko in rec.games.pbm was worth a read -some 
+good suggestions
+p.p.s.	for every major spell effect, a counterspell	(re teleport/ 
+block teleport)
+
+
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!news.sprintlink.net!in2.uu.net!dziuxsolim.rutgers.edu!gandalf.rutgers.edu!not-for-mail 26 Sep 1995 17:02:55 -0400
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!news.sprintlink.net!in2.uu.net!dziuxsolim.rutgers.edu!gandalf.rutgers.edu!not-for-mail
+From: morrow@gandalf.rutgers.edu (John Morrow)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia - Time for G2?
+Date: 26 Sep 1995 17:02:55 -0400
+Organization: Rutgers University
+Lines: 47
+Message-ID: <449ppv$kre@gandalf.rutgers.edu>
+References: <44775c$8ev@saba.info.ucla.edu>
+NNTP-Posting-Host: gandalf.rutgers.edu
+
+Rob Rodgers <rrodgers@unex.ucla.edu> writes:
+>But I'd like to find out.  Given the opportunity to vote, I'd vote for 
+>the opportunity to have a new Olympia world to play in where I'd have an 
+>equal chance from the beginning.  (I'd also vote for the skill to build 
+>roads, but that's another issue.)
+
+The key to a successful G2 is not that it gives everyone a chance to
+start at the beginning.  If that is the only reason for it, then G2
+will soon suffer the same fate a G1 if people find it hard to start
+after a few turns.  Not very "open ended".  Remember -- this is an
+evolving situation with new players all the time and the game should
+try to support that.  Otherwise, Olympia will be just another
+closed-ended game.
+
+The valid reason for a G2 is to fix the problems that have shown up in
+G1 which should, ideally, make the game more equitable and challenging
+for all.  The reason that G1 cannot be retrofitted any more than it has
+been is that players who have staked their positions on the broken bits
+will have their positions destroyed by any fixes.  That isn't really
+fair to those players.  G2 would provide the oppotunity to make fixes
+and adjust the map to hopefully provide a more balanced game.
+
+As for roads -- fast travel is BAD.  If you can quickly get from point
+A to point B, so can everyone else, including your enemies.  Part of
+the problem with the AOO is that they aren't just a Provinia problem
+(which would be reasonable) but a *global* problem thanks to Scry,
+Vision, Teleportation, Faery, and Hades.  If the wilderness isn't hard
+to get to (for some reason), it doesn't stay a wilderness for long.
+Being able to pinpoint and get to someone (with an army, no less) in
+the wilderness in a few short months is a real problem.  Roads will
+only make that worse.  I'd personally like to see a map of more
+smaller continents although that would require a lot of new names. :-)
+
+>What does the rest of the community think?
+
+What I'd like to know is how many G1 players would jump to G2 and
+*stop playing* in G1 and how many would play both?  The reason I ask
+is that I think that the people who have spent a lot of time on G1
+might get a bit annoyed if everyone jumps to G2 and leaves them in a
+dead game.  One could argue that that is what you get for trying to
+"win" in an "open-ended" game but I'm still curious. :-)
+
+I think that both games *could* be viable side-by-side, each offering
+something a bit different.  But I'd like to know what others think.
+
+John Morrow
+
+
+From morrow@gandalf.rutgers.edu Wed Sep 27 10:44:34 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id KAA21766 for <skrenta@pbm.com>; Wed, 27 Sep 1995 10:44:34 -0400
+Received: from gandalf.rutgers.edu(128.6.7.26) by blekko.pbm.com via smtp (V1.3)
+	id sma021764; Wed Sep 27 10:44:29 1995
+Received: (from morrow@localhost) by gandalf.rutgers.edu (8.6.12+bestmx+oldruq+newsunq+grosshack/8.6.12) id KAA10280 for skrenta@pbm.com; Wed, 27 Sep 1995 10:43:15 -0400
+Date: Wed, 27 Sep 1995 10:43:15 -0400
+From: John Morrow <morrow@gandalf.rutgers.edu>
+Message-Id: <199509271443.KAA10280@gandalf.rutgers.edu>
+To: skrenta@pbm.com
+Subject: Re: Olympia - Time for G2?
+Status: RO
+
+>> As for roads -- fast travel is BAD.  [blah blah blah :-) ]
+
+>Well said.
+
+Thanks.  Just keep all that in mind when you do the final G2 mods :-).
+
+I think the key is to make it tough for people to shuttle large armies
+around and making it a bit more iffy to see at a distance (maybe a
+more significant chance of failure for Scry and Vision).  Parhaps
+Hades or Faery could work if they only allowed a lone noble in without
+troops.  I also had an interesting idea for Hades -- make the prereq
+for entry a dead noble and the NP doesn't come back... :-)
+
+John Morrow
+
+BTW - I think the G2 map should be more intricate -- more little
+islands, rougher coasts in spots, more significant mountain ranges.
+You also might want to consider more stuff like Summerbridge and
+the Pass -- and perhaps a sea straight that works like that, too
+(perhaps a monthly "high tide"/"low tide" cycle). 
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!swrinde!ihnp4.ucsd.edu!news1.ucsd.edu!not-for-mail 26 Sep 1995 20:28:29 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!swrinde!ihnp4.ucsd.edu!news1.ucsd.edu!not-for-mail
+From: wbruvold@weber.ucsd.edu (William Bruvold)
+Newsgroups: rec.games.pbm
+Subject: Re: OLY: breaking Beastmastery (LONG)
+Date: 26 Sep 1995 20:28:29 GMT
+Organization: University of California, San Diego
+Lines: 94
+Message-ID: <449npd$brv@news1.ucsd.edu>
+References: <43kn31$9d2@kaiwan009.kaiwan.com> <43ku1i$ti@wahoo.ccr-p.ida.org> <43v38u$45k@stromboli.usc.edu> <445e72$db4@st-james.comp.vuw.ac.nz>
+NNTP-Posting-Host: weber.ucsd.edu
+
+In article <445e72$db4@st-james.comp.vuw.ac.nz>,  <bill@rses.vuw.ac.nz> wrote:
+>In article <43v38u$45k@stromboli.usc.edu>, whalen@stromboli.usc.edu (Tim Whalen) writes:
+>
+>|> on ways to balance Beastmastery.  Clearly there is a problem and dragons
+>|> are simply the poster children, not the cause of the problem.  The first
+>|> time I saw a dragon I told Rich that there was a typo regarding its weight
+>|> but I understand that he felt that it was too late to make major changes
+>|> to beast stats and breeding odds in g1.  I agree but of course it should
+>|> be addressed in g2.
+>|> 
+>|> TWTW
+>|> 
+>
+>	I agree that dragons should weigh more, but then again I think they
+>	should fly too :-)
+>
+>	My preferred way of toning down beastmastery would be for certain
+>	powerful beasts to only be able to breed in particular months.  I
+>	can't remember who came up with this idea originally, but I think
+>	it has a certain neatness to it.  It also means that for a beastmaster
+>	to be able to breeds throughout a year they are going to have to have
+>	a better variety of creatures (which is in itself harder to accomplish,
+>	and should slow things down).  Finding out the month(s) that particular
+>	beasts can breed (and crossbreed) would add another challenge to
+>	the game.  Adding a maintenance cost seems a kind of clunky way of doing
+>	it and means that the 'travelling beastmaster' type character is not
+>	really an option.
+>
+>B. (who also thinks roads should be added)
+
+
+Let me add my 2cents about fixing beastmastery.  IMHO, special
+months to breed does not solve the game imbalance.
+ As a faction with a
+fairly large breeding program I would simply adjust to make sure
+that my beastmasters had a variety of animals.  Depending upon the
+month, I would adjust breeding orders. Dragon breeding now can not
+be a monthly occupation but so what?  I still "maximize" my beast
+stack and have units that are much more powerful than "human" units.
+Again, it takes at least 4 days to create either
+ swordman/archer/pikeman
+(and more for advanced units such as knight/elite a./elite g.).
+These units require maintanence and, because they require
+ multiple kinds of inputs (peasants, raw wood/iron, 
+processed material, soldiers), it is
+often difficult to insure 100% efficiency and coordination
+
+In contrast, to breed beasts takes between 4 and 6 days, requires
+little/no coordination, and no maint.  Also no known defesenses
+(i.e. wind) to reduce the combat effectiveness of beast armies.
+Simply put, except for the ego gratification regarding "men" I see
+no reason why mid and old age factions spend _any_ time creating
+human armies when they can spend time breeding beasts.  While the
+"fodder" argument might hold, I have yet to see a "fodder" dedicated
+group of nobles to significantly
+ooutpace giant bird/giant spider production over the
+long haul.
+
+Hiding the days in which breeding works for particular beasts
+hurts newbies and smaller
+alliances much more than large ones.  Assuming equal intellengence
+leaks", big/old alliances are able to have all their beastmasters
+"cover" all beasts each month.  At the end of the cycle they should
+know which months allow breeding which beast and which do not.
+All this means is that such information becomes valuable and is
+unlikely to be shared (it also means that I would kill all
+unidentified nobles in beastbreeding area without asking questions
+as they can interprete their reports and gain such info).  In
+contrast, the smaller alliance has a difficult time "covering" the
+possible combinations and so losses breeding opportunites.
+
+
+IMHO, the best and least intrusive
+ "fix" to the beastmastery problem in G2 is to make
+beastmastery cost a noble point.  It is a skill that is as valuable
+as most of the 1 point magic areas (though I think weather should be
+2 but that is a different subject).  It would be difficult except
+during the very late game to create 200+ dragon armies _EXCEPT_ if
+you specialized in the skill early on.  IMHO, specialization breeds
+cooperation/diplomacy which is a very good thing.
+
+In contrast, the fix Rich mentioned early on, requiring support by
+way of "workers to handle the beasts" I have decided is a poor fix.
+It means that beastmastery _has_ to be associated with castle
+ownership (thus reducing the incentives to specialize).  My guess is
+that this change will result is fewer "early game" vacuum cleaning
+beastmasters (as they will not have the $ to support the peasants)
+but that late comers now _have_ to gain castle income to support
+beastmastery (thus making it even more difficult to for newbies in a
+world in which all land is claimed (and ownership rights enforced by
+armies able to move large distances).
+
+Erik
+
+
+From morrow@gandalf.rutgers.edu Thu Sep 28 01:38:29 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id BAA04030 for <skrenta@pbm.com>; Thu, 28 Sep 1995 01:38:29 -0400
+Received: from gandalf.rutgers.edu(128.6.7.26) by blekko.pbm.com via smtp (V1.3)
+	id sma004028; Thu Sep 28 01:38:26 1995
+Received: (from morrow@localhost) by gandalf.rutgers.edu (8.6.12+bestmx+oldruq+newsunq+grosshack/8.6.12) id BAA04497 for skrenta@pbm.com; Thu, 28 Sep 1995 01:37:03 -0400
+Date: Thu, 28 Sep 1995 01:37:03 -0400
+From: John Morrow <morrow@gandalf.rutgers.edu>
+Message-Id: <199509280537.BAA04497@gandalf.rutgers.edu>
+To: skrenta@pbm.com
+Subject: Re: Stan
+Status: RO
+
+>Sounds cool.  You may want to hold off on chatting with Stan -- I may be
+>getting a "web makeover" from another artists, and he said something about
+>making my various graphics all have a consistent style.  Not sure what that
+>means.  ;-)
+
+You should probably ask Stan, then, for the raw files for the logo he
+did so you have it.  Giving graphics a consistent style doesn't mean
+you have to toss everything.  My pages look pretty "consistent"
+because I cropped and resized all the little graphics icons down to a
+regular 72X36 pixel size regardless of the size or shape of the
+original source.
+
+>I dumped all of the old design list discussions into hypermail and
+>came out with beautiful four-way indexed archives.  And I finally
+>figured out that texinfo was a good thing, and turned the rules.texi
+>into html with an automated tool.  I'm going to update the manual
+>(finally), get rid of all those rules addenda, and put up a proper
+>rulebook here.
+
+Hypermail?  What does it index on?  Everything?  Have you seen the
+"DejaNews" site (there is a pointer on my search page)?
+
+As for the manual, are you going to maintain seperate rulebooks for G1
+and G2 since, I assume, there are going to be some rules differences
+or do you hope to handle most differenes via lore sheets?
+
+Another thing to consider which I touch upon in a recent post -- limit
+access to lairs to forces of only a certain size so that people will
+never get a 100% chance to kill the monster.  If a noble can only
+bring 25 other men along, better human units will have more utility
+and lairs will have more of the feel that I think you are shooting
+for.  The access limit would probably have to be visible.  You could
+also turn this back on for buildings.  If people can fit huge armies
+into the castle, it will require them to have a second noble hang 
+around as a field general.
+
+John Morrow
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!scsing.switch.ch!swidir.switch.ch!in2p3.fr!univ-lyon1.fr!oleane!plug.news.pipex.net!pipex!tank.news.pipex.net!pipex!howland.reston.ans.net!swrinde!ihnp4.ucsd.edu!news.service.uci.edu!aldebaran.oac.uci.edu!eahg128 Wed, 27 Sep 1995 12:18:54 -0700
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!scsing.switch.ch!swidir.switch.ch!in2p3.fr!univ-lyon1.fr!oleane!plug.news.pipex.net!pipex!tank.news.pipex.net!pipex!howland.reston.ans.net!swrinde!ihnp4.ucsd.edu!news.service.uci.edu!aldebaran.oac.uci.edu!eahg128
+From: Mark Hendrickson <eahg128@aldebaran.oac.uci.edu>
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia - Time for G2?
+Date: Wed, 27 Sep 1995 12:18:54 -0700
+Organization: University of California, Irvine
+Lines: 36
+Message-ID: <Pine.SUN.3.91.950927120236.4867A-100000@aldebaran.oac.uci.edu>
+References: <44775c$8ev@saba.info.ucla.edu> <199509271434.HAA18374@po.EECS.Berkeley.EDU>
+NNTP-Posting-Host: aldebaran.oac.uci.edu
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+In-Reply-To: <199509271434.HAA18374@po.EECS.Berkeley.EDU>
+
+Erik wrote:
+
+"Which brings up a bigger point, we need more "character" in this
+game."
+
+	I certainly agree & view it a shame that the game seems to have a 
+kind of cold war mentality (e.g. dogmatix et. al v. AOO).  It is too bad 
+that the most poweful AOO factions seem to play the game as a closed 
+game.  To put it bluntly, some very powerful AOO factions are not 
+civilized.  In a society, groups like this are punished & removed as 
+sources of irritation (much like the Brotherhood of the Black Dawn was 
+earlier in Olympia).  In Olympia, this kind of play is rewarded (captured 
+nobles & control artifacts, captured troops, castles, brain-eating, etc.) to 
+such an extent that the AOO just dominates everything.  
+
+	I don't mean to say that this isn't a legitimate playing 
+style, it is & maybe I'll play G2 that way, who knows?--but it seems that 
+the game rewards it too generously.  It was disheartedning to say the least, 
+to find big & very unfriendly AOO armies roaming about the frontier in search 
+of newbie fodder.  It adds a little too much cynicism to the game & I 
+think recent posts here & in the Times reflect that.  Changes in G2 should 
+address this problem.  Here are three suggestions:
+
+1. get rid of the eating of the brains thing.  combined with farcast aura 
+blasts & rapid transit through hades to the appropriate graveyard 
+presents a significant bonus for the first person to wrench five mithril 
+out of the ground.
+
+2. make it harder to convert nobles over from one faction to another (I 
+haven't really thought out how to do this).
+
+3. stop putting nobles as treasure in lairs.  This just makes looting the 
+ruins way too powerful & is what enables the "vacuum effect" & 
+exponential growth (1 lair cleaner turns into 2, turns into 4, turns into 8).
+
+-Mark wearing my game designers hat (first time!)
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!scsing.switch.ch!swidir.switch.ch!in2p3.fr!univ-lyon1.fr!oleane!tank.news.pipex.net!pipex!news.sprintlink.net!howland.reston.ans.net!vixen.cso.uiuc.edu!news.ecn.bgu.edu!siemens!princeton!cnn.Princeton.EDU!phoenix.princeton.edu!cedman 28 Sep 1995 06:21:53 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!scsing.switch.ch!swidir.switch.ch!in2p3.fr!univ-lyon1.fr!oleane!tank.news.pipex.net!pipex!news.sprintlink.net!howland.reston.ans.net!vixen.cso.uiuc.edu!news.ecn.bgu.edu!siemens!princeton!cnn.Princeton.EDU!phoenix.princeton.edu!cedman
+From: cedman@phoenix.princeton.edu (Carl F. Edman)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia - Time for G2?
+Date: 28 Sep 1995 06:21:53 GMT
+Organization: Princeton University
+Lines: 18
+Message-ID: <44deu1$sbk@cnn.Princeton.EDU>
+References: <44775c$ckk@saba.info.ucla.edu> <4497eu$5d9@news.aero.org> <44bs7q$lv6@gandalf.rutgers.edu>
+Reply-To: Carl Edman <cedman@princeton.edu>
+NNTP-Posting-Host: phoenix.princeton.edu
+
+In article <44bs7q$lv6@gandalf.rutgers.edu>,
+John Morrow <morrow@gandalf.rutgers.edu> wrote:
+> [ ... largely valid point ruthlessly deleted ... ]
+> 6) Teleportation of combat units in coordination with Stealth is too
+>    powerful.  It was neat to see once but I'd hate to see it become
+>    a normal M.O.  This is something that new players won't have 
+>    access to for a very long time.
+
+Never.  Or at least only over BtAs cold dead body.  Nobody outside the AOO
+has ever acquired Advanced Sorcery and lived.  Matter of fact, it was only
+last month that the second mage rose to the rank of advanced sorcerers
+(with BtAs blessing).  I hope that gives something to think about to those
+otherwise usually well-informed nobles who, when the first auraculum was
+forged almost five olympian years ago, couldn't help themselves but had to
+make jokes about "premature auraculation". 
+
+	Carl Edman
+
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!swrinde!tank.news.pipex.net!pipex!news.sprintlink.net!in1.uu.net!comp.vuw.ac.nz!bill 28 Sep 1995 20:41:12 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!swrinde!tank.news.pipex.net!pipex!news.sprintlink.net!in1.uu.net!comp.vuw.ac.nz!bill
+From: bill@rses.vuw.ac.nz (Bill Viggers)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia - Time for G2?
+Date: 28 Sep 1995 20:41:12 GMT
+Organization: Research School of Earth Sciences, Victoria University of Wellington, New Zealand.
+Lines: 42
+Distribution: world
+Message-ID: <44f198$81k@st-james.comp.vuw.ac.nz>
+References: <44775c$8ev@saba.info.ucla.edu>    <449ppv$kre@gandalf.rutgers.edu> <DFJE4u.46x@isltd.insignia.com>
+NNTP-Posting-Host: dope.geog.vuw.ac.nz
+
+In article <DFJE4u.46x@isltd.insignia.com>, jeremy@insignia.com (Jeremy Maiden) writes:
+|> 
+|> For a radical option: consider the Supernova II system where new
+|> regions start when enough new players are ready, and initially run
+|> independently. But, suitable high tech advances allow you to move
+|> between regions.
+
+	The problem here is that if you have suitable high tech (read magic)
+	then there is nothing to stop you using that to dominate the new world
+	you go into as well.
+
+|> Naturally, there have to be limits that stop big g1 armies just
+|> conquering g2 (SN has some percentage of things passing through
+|> the "gate"s destroyed). Even so, it might be able to provide
+|> virgin territory for new players while keeping players in g1 with
+|> the thought that their wizards can one day cross over.
+
+	Even if only nobles were able to transit between games, and were
+	stripped of all accompanying creatures (and presumably items, as
+	well), that doesn't solve the problem.  Assume everyone other than
+	AOO abandoned G1 for the new realm G2 (starting anew over there),
+	that leaves the AOO (or whoever) free to develop their characters in
+	a TOTALLY SAFE ENVIRONMENT.  Presumably at the moment a large proportion
+	of AOO effort goes in to wiping out other players and making sure their
+	own defences are tight.  Take away that restriction and they really
+	can grown without any limits, drip feeding nobles over into the new
+	game as they become powerful enough to be lords in the new realm.
+
+	I'd prefer to see radical changes in g1, things like the earthquakes and
+	such that were mentioned many months ago in this very forum.  Such a 
+	change could be accomplished as the result of some kind of quest proposed
+	by the gods, and would thus give the wicked AOO something to concentrate
+	on (stopping) other than killing off newbies (who knows, the dark gods 
+	that the AOO worships, may have some kind of quest that is set to them), 
+	Even the AOO has limited resources.  Twenty or thirty players cannot take 
+	on the other one hundred and fifty odd players indefinitly.
+
+	On the subject of changes, I think a new gatemastery spell to locate the
+	far side of gates would be a worthwhile addition.  It would be nice to
+	have some way of researching new spells and skills.
+	
+B.
+
+From tpt2@BBN.COM Mon Oct  2 14:39:50 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id OAA03774; Mon, 2 Oct 1995 14:39:50 -0400
+From: tpt2@BBN.COM
+Message-Id: <199510021839.OAA03774@blekko.pbm.com>
+Received: from medea.bbn.com(128.89.5.128) by blekko.pbm.com via smtp (V1.3)
+	id sma003772; Mon Oct  2 14:39:42 1995
+To: skrenta@pbm.com, info@pbm.com
+Subject: Design Request For G2 (Short! :)
+Date: Mon, 02 Oct 95 14:32:54 -0400
+Status: RO
+
+
+	I think it would be good if only a priest in a slain noble's
+faction had the ability to perform Last Rites on that noble. Better
+yet, you could expand the group to include factions that were on the
+noble's ADMIT list when he died. 
+	The reason for this is that with the current design, we have
+people shutting down their enemies' nobles with Last Rites following
+up a battle (or an aura blast.) As well as being very silly, it is too
+easy for people to siphon off the serious investments of other
+players. I'd like to see Olympia move more in the direction where
+there's a fair chance of knocking someone down, but it's difficult to
+knock someone out.
+
+	Tom	:-)
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!news.sprintlink.net!simtel!zombie.ncsc.mil!cs.umd.edu!haven.umd.edu!news.umbc.edu!nobody 2 Oct 1995 09:20:42 -0400
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!news.sprintlink.net!simtel!zombie.ncsc.mil!cs.umd.edu!haven.umd.edu!news.umbc.edu!nobody
+From: schott@cs.umbc.edu (Brian Schott)
+Newsgroups: rec.games.pbm
+Subject: Re: OLY: breaking Beastmastery
+Date: 2 Oct 1995 09:20:42 -0400
+Organization: University of Maryland, Baltimore County
+Lines: 46
+Message-ID: <44oovaINN9h1@retriever.cs.umbc.edu>
+References: <43mvhl$ne8@mozo.cc.purdue.edu> <43na73$4po@cnn.Princeton.EDU> <43pggmINNoha@retriever.cs.umbc.edu> <DFsEE9.I9D@murdoch.acc.Virginia.EDU>
+NNTP-Posting-Host: retriever.cs.umbc.edu
+NNTP-Posting-User: schott
+
+I'm glad to hear that more experienced players also have reached the
+same conclusion.  I thought I might be missing something.  It appears
+that pikemen and crossbowmen/archers *are* sort of optimal given
+limited noble time and a game system that favors length over strength
+(at least according to the battle simulator which could be incorrect).
+This means that a significant number of skills are less than useful
+(mining, for example).  It is also a disincentive to trade for scarce
+resources (wood and peasants are plentiful; horses and iron less so).
+
+It is interesting that you point out that in Hades where there is a
+limit on the number of men stronger units are useful.  Maybe a similar
+limitation (number of men in a single stack) would help outside Hades?  
+
+Another idea is to allow Knights to act as independent units sort of
+like NPCs with a *very* limited set of orders (move, attack, explore,
+seek, etc.)  Combine this with the idea of limiting the number of men
+in a stack that can participate in an attack and you add depth to the
+game.
+
+Brian Schott
+
+In article <DFsEE9.I9D@murdoch.acc.Virginia.EDU>,
+Greg Lindahl <gl8f@fermi.clas.Virginia.EDU> wrote:
+>In article <43pggmINNoha@retriever.cs.umbc.edu>,
+>Brian Schott <schott@cs.umbc.edu> wrote:
+>
+>>One of the limitations of the combat system is that there is little
+>>incentive (that I can see) for expending the effort of producing
+>>stronger non-beast units.  A Knight requires too much effort for the
+>>benefit
+>
+>While I have no use for riding-speed humans, I could imagine that
+>others do. If there were an area, like Hades but with no teleport
+>loophole, where you were limited in the number of humans you could
+>bring in, then there would be more incentive to build stronger humans.
+>For right now, I don't build much more than pikemen myself; they're
+>great at providing a hard-to-kill target for enemy fodder. One
+>memorable combat between Dogmatix and BtA's army resulted in Dogmatix
+>losing almost no men because BtA's huge army of savages couldn't get
+>through Dogmatix's front line of pikemen. So there are some nice
+>trade-offs in the current game, but the expensive humans aren't really
+>viable options.
+>
+>-- greg
+
+
+
+From pbm.com!news.uni-stuttgart.de!rz.uni-karlsruhe.de!nntp.gmd.de!newsserver.jvnc.net!newsserver2.jvnc.net!howland.reston.ans.net!news.sprintlink.net!in1.uu.net!hearst.acc.Virginia.EDU!murdoch!fermi.clas.Virginia.EDU!gl8f Sun, 1 Oct 1995 20:32:32 GMT
+Newsgroups: rec.games.pbm
+Path: pbm.com!news.uni-stuttgart.de!rz.uni-karlsruhe.de!nntp.gmd.de!newsserver.jvnc.net!newsserver2.jvnc.net!howland.reston.ans.net!news.sprintlink.net!in1.uu.net!hearst.acc.Virginia.EDU!murdoch!fermi.clas.Virginia.EDU!gl8f
+From: gl8f@fermi.clas.Virginia.EDU (Greg Lindahl)
+Subject: Re: OLY: breaking Beastmastery
+X-Nntp-Posting-Host: fermi.clas.virginia.edu
+Message-ID: <DFsEE9.I9D@murdoch.acc.Virginia.EDU>
+Sender: usenet@murdoch.acc.Virginia.EDU
+Organization: Department of Astronomy, University of Virginia
+References: <43mvhl$ne8@mozo.cc.purdue.edu> <43na73$4po@cnn.Princeton.EDU> <43pggmINNoha@retriever.cs.umbc.edu>
+Date: Sun, 1 Oct 1995 20:32:32 GMT
+Lines: 21
+
+In article <43pggmINNoha@retriever.cs.umbc.edu>,
+Brian Schott <schott@cs.umbc.edu> wrote:
+
+>One of the limitations of the combat system is that there is little
+>incentive (that I can see) for expending the effort of producing
+>stronger non-beast units.  A Knight requires too much effort for the
+>benefit
+
+While I have no use for riding-speed humans, I could imagine that
+others do. If there were an area, like Hades but with no teleport
+loophole, where you were limited in the number of humans you could
+bring in, then there would be more incentive to build stronger humans.
+For right now, I don't build much more than pikemen myself; they're
+great at providing a hard-to-kill target for enemy fodder. One
+memorable combat between Dogmatix and BtA's army resulted in Dogmatix
+losing almost no men because BtA's huge army of savages couldn't get
+through Dogmatix's front line of pikemen. So there are some nice
+trade-offs in the current game, but the expensive humans aren't really
+viable options.
+
+-- greg
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!fu-berlin.de!news.dfn.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!newsfeed.ACO.net!Austria.EU.net!EU.net!news.sprintlink.net!in2.uu.net!news1.digital.com!decwrl!waikato!comp.vuw.ac.nz!bill 3 Oct 1995 20:22:39 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!fu-berlin.de!news.dfn.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!newsfeed.ACO.net!Austria.EU.net!EU.net!news.sprintlink.net!in2.uu.net!news1.digital.com!decwrl!waikato!comp.vuw.ac.nz!bill
+From: bill@rses.vuw.ac.nz (Bill Viggers)
+Newsgroups: rec.games.pbm
+Subject: Oly: changes I'd like to see for G2
+Date: 3 Oct 1995 20:22:39 GMT
+Organization: Research School of Earth Sciences, Victoria University of Wellington, New Zealand.
+Lines: 82
+Distribution: world
+Message-ID: <44s62f$4qs@st-james.comp.vuw.ac.nz>
+References: <43mvhl$ne8@mozo.cc.purdue.edu> <43na73$4po@cnn.Princeton.EDU> <43pggmINNoha@retriever.cs.umbc.edu> <DFsEE9.I9D@murdoch.acc.Virginia.EDU> <44oovaINN9h1@retriever.cs.umbc.edu>
+NNTP-Posting-Host: dope.geog.vuw.ac.nz
+
+In article <44oovaINN9h1@retriever.cs.umbc.edu>, schott@cs.umbc.edu (Brian Schott) writes:
+|> It is interesting that you point out that in Hades where there is a
+|> limit on the number of men stronger units are useful.  Maybe a similar
+|> limitation (number of men in a single stack) would help outside Hades?  
+
+	Nice point, I hadn't though of it that way.  Maybe better than putting
+	an absolute stack limit would be putting in a limit of men/beasts per
+	noble?  Hopefuly there would be some kind of skill that would let this
+	be increased slowly (using current experience system).
+
+	Maybe I should rephrase that.  Nobles should be able to have as many
+	men/beasts/whatever in their inventory as they like, but they should
+	only be able to _use_ a certain number of them.
+
+|> Another idea is to allow Knights to act as independent units sort of
+|> like NPCs with a *very* limited set of orders (move, attack, explore,
+|> seek, etc.)  Combine this with the idea of limiting the number of men
+|> in a stack that can participate in an attack and you add depth to the
+|> game.
+
+	Bad move!
+	This lets big factions grow much much faster.  Your nobles produce
+	lots of knights who get go and scout out where the interesting places
+	are.
+
+	As I'm on this thread anyway, I had may as well put forwards my wish list
+	for Game 2.
+
+	1: Roads.  Back when the olympia-discussion list was running I put in a
+		proposal for roads.  I guess Rich has it archived away somewhere.
+		I'd like to see some sort of roads able to be built.  On the 
+		subject of building roads, why is it knowledge of construction
+		allows people to build towers/temples/inns/etc without learning
+		specific sub skills.  Castle building for instance should probably
+		be subject to RESEARCH.  That one simple change would have slowed
+		down the AOO in G1.
+	2: Limits on beastmastery.  Personally I like the 'in season' idea, but
+		whatever.  Beats USED in battle should not be able to be CAPUTRED
+		in battle.  (this might already be the case but I don't think it
+		was origionally).
+	3: Experience should make a bigger difference in mining.  Currently it
+		does the regular shortening of days.  I think a grand master miner
+		should be able to pull more iron/gold/mithril/whatever from a
+		mine than an apprentice should.  Maybe not much more, but there 
+		should be a difference.
+		Actually, experience should make a bigger difference in most skills,
+		at the moment the only skill I can think of where experience makes
+		any difference (other than time taken to use the skill) is in
+		detecting gates.  Now I don't know all the skills in the game, I do
+		know 53 of them however (4th place for those interested).  I use
+		only a very small subset of those skills.  Other people with a
+		little more experience might want to prove me wrong here.
+	4: Religions, How about priests having skills specific to their religion?
+		Religion is really a pretty understated part of Olympia at the
+		moment, priests are just mages with different spells who don't
+		have to worry about aura.  More priestly spells and limits on
+		which ones you can learn based on the religion you belong to.
+	5: Magic.  Gatemastery seems to be virtually unused.  With the dreaded
+		AOO occuping both hades and Faerie I guess this might change,
+		but at the moment at any rate gatemastery seems to be a very 
+		second rate school of magic.  Having been looking for gates from
+		the start of the gate, and exchanging data with over twenty other
+		players, I know of 27 different gates.  While I guess there are
+		some people out there who know more than me, I think I'm probably
+		pretty near the top in gate knowledge.  Yet people don't actually
+		USE the gates (as far as I know).  Small steps like reducing the
+		amount of aura it takes to use a gate might help here, I don't know.
+	6: Skills.  I think it would be neat if cities only taught a single skill.
+		Thus in order to know about combat and forestry and mining and
+		stealth a noble would be forced to visit at least four different
+		cities.  This makes travel and exploration much more important.
+		Putting limits of those old books so they deteriate after a while
+		and have a chance of falling to pieces would also be a good move.
+	7: Wagons.  Another proposal from way back.  A wagon would behave much
+		as does a ship, but on land rather than the sea.  This allows
+		one noble to concentrate on the movement, while others can work
+		on things like study.  I can't remember who came up with this idea
+		either, but I like it.
+
+	Oh well, that should be enough for people to pull apart for a few days.		
+
+B.
+
+From desj@ccr-p.ida.org Wed Oct  4 14:29:18 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id OAA23747 for <diplo@pbm.com>; Wed, 4 Oct 1995 14:29:18 -0400
+Received: from idacrd.ccr-p.ida.org(198.3.41.2) by blekko.pbm.com via smtp (V1.3)
+	id sma023738; Wed Oct  4 14:29:11 1995
+Received: (from desj@localhost) by ccr-p.ida.org (8.6.10/8.6.9) id OAA02080 for diplo@pbm.com; Wed, 4 Oct 1995 14:26:10 -0400
+Received: from lists.Princeton.EDU (lists.Princeton.EDU [128.112.129.249]) by ccr-p.ida.org (8.6.10/8.6.9) with ESMTP id OAA02075 for <desj@ccr-p.ida.org>; Wed, 4 Oct 1995 14:26:06 -0400
+Received: by lists.Princeton.EDU id <23161.s2-2>; Wed, 4 Oct 1995 14:25:52 -0400
+Received: from ccr-p.ida.org ([198.3.41.2]) by lists.Princeton.EDU with SMTP id <23161.s2-2>; Wed, 4 Oct 1995 14:25:22 -0400
+Received: from runner.ccr-p.ida.org (runner.ccr-p.ida.org [198.3.41.1]) by ccr-p.ida.org (8.6.10/8.6.9) with ESMTP id OAA01984 for <aoo-list@lists.Princeton.EDU>; Wed, 4 Oct 1995 14:25:10 -0400
+Received: (desj@localhost) by runner.ccr-p.ida.org (8.6.10/8.6.9) id OAA04324; Wed, 4 Oct 1995 14:25:11 -0400
+Message-Id: <199510041825.OAA04324@runner.ccr-p.ida.org>
+Date: 	 Wed, 4 Oct 1995 14:25:11 -0400
+Reply-To: aoo-list@lists.Princeton.EDU
+Sender: owner-aoo-list@lists.Princeton.EDU
+From: David desJardins <desj@ccr-p.ida.org>
+To: AOO list <aoo-list@lists.Princeton.EDU>
+Subject: Re: Breeding without losses
+In-Reply-To: <19951004163406.5.DOUG@SHANDRA.MCC.COM> "lenat@cyc.com"
+X-Listprocessor-Version: 7.2 -- ListProcessor by CREN
+Status: RO
+
+This problem (units attacking friendly units for which they have DEFEND
+status) has certainly been around for a long time.  I remember
+discussions about it on turn 2.  If I were writing the game I would
+ensure that a unit never attacks another unit which it would defend.
+But Rich wasn't persuaded of the value of this change.
+
+                                        David desJardins
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!news.dfn.de!Germany.EU.net!howland.reston.ans.net!swrinde!sgigate.sgi.com!enews.sgi.com!lll-winken.llnl.gov!elroy.jpl.nasa.gov!news.aero.org!sun-dimas!srt 4 Oct 1995 16:36:44 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!news.dfn.de!Germany.EU.net!howland.reston.ans.net!swrinde!sgigate.sgi.com!enews.sgi.com!lll-winken.llnl.gov!elroy.jpl.nasa.gov!news.aero.org!sun-dimas!srt
+From: srt@sun-dimas.aero.org (Scott Turner)
+Newsgroups: rec.games.pbm
+Subject: Silliest Oly I features
+Date: 4 Oct 1995 16:36:44 GMT
+Organization: The Aerospace Corporation, El Segundo, CA
+Lines: 13
+Message-ID: <44ud6s$9it@news.aero.org>
+NNTP-Posting-Host: sun-dimas.aero.org
+
+jeremy@insignia.com (Jeremy Maiden) writes:
+>4a) Flying (you really can't have dragons that don't fly)
+
+In a previous post I mentioned sequential sublocation ids as the
+silliest G1 feature, but Jeremy has reminded me of the non-flying
+dragons (and non-flying giant birds).
+
+Maybe we should have a "silliest feature" contest.
+
+I wonder why Rich isn't answering my mail anymore? :-)
+
+
+					-- Scott T.
+
+From gl8f@fermi.clas.virginia.edu Thu Oct  5 10:36:46 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id KAA05747 for <skrenta@pbm.com>; Thu, 5 Oct 1995 10:36:46 -0400
+Received: from uvaarpa.virginia.edu(128.143.2.7) by blekko.pbm.com via smtp (V1.3)
+	id sma005744; Thu Oct  5 10:36:45 1995
+Received: from fermi.clas.virginia.edu by uvaarpa.virginia.edu id aa05133;
+          5 Oct 95 10:33 EDT
+Received: (from gl8f@localhost) by fermi.clas.Virginia.EDU (8.6.10/8.6.6) id KAA84280 for skrenta@pbm.com; Thu, 5 Oct 1995 10:33:29 -0400
+Date: Thu, 5 Oct 1995 10:33:29 -0400
+From: Greg Lindahl <gl8f@fermi.clas.virginia.edu>
+Message-Id: <199510051433.KAA84280@fermi.clas.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Rich Skrenta <skrenta@pbm.com>
+Subject: Re: Boring Times drivel
+Status: RO
+
+> Tell me what you thought of the mixed sf-fantasy genre game
+> again (science fantasy?  space fantasy?)
+
+I claimed that you could do the same thing through a fantasy element
+like astral travel or teleportation, which would keep the theme all
+fantasy, but have the same result of separated worlds. I think that
+separated worlds is a good idea, but they need to be separated enough
+that you can't get around the separation. For example, Hades in Oly
+can still be scryed/visioned/orbed into, you can teleport huge armies
+into it, and many players have enough spare gold to carry huge armies
+(of, say, dragons) into it through graveyards. So it isn't a good
+separated world. A good separated world in Oly might only allow single
+nobles to enter it, with only as much stuff as they can personally
+carry, and visions/orbs/teleport/farcast can't cross the barrier. Then
+at worst you could have your experienced mage cross over, carrying a
+billion gold pieces.
+
+> The alternative, I suppose,
+> is to try and keep the engine general enough so that both a
+> fantasy version and a space version could be created from it.
+
+Well, we've discussed before the kinds of things that I would want to
+do with your Oly engine in order to make it space-game-compatible, and
+it wasn't so bad.
+
+-- g
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!newsfeed.ACO.net!Austria.EU.net!EU.net!newsfeed.internetmci.com!howland.reston.ans.net!usc!news.service.uci.edu!arcturus.oac.uci.edu!eahg128 Thu, 5 Oct 1995 08:38:58 -0700
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!newsfeed.ACO.net!Austria.EU.net!EU.net!newsfeed.internetmci.com!howland.reston.ans.net!usc!news.service.uci.edu!arcturus.oac.uci.edu!eahg128
+From: Mark Hendrickson <eahg128@arcturus.oac.uci.edu>
+Newsgroups: rec.games.pbm
+Subject: oly combat simple fix
+Date: Thu, 5 Oct 1995 08:38:58 -0700
+Organization: University of California, Irvine
+Lines: 30
+Message-ID: <Pine.SUN.3.91.951005083152.4904A-100000@arcturus.oac.uci.edu>
+References: <44775c$8ev@saba.info.ucla.edu> <199509271434.HAA18374@po.EECS.Berkeley.EDU>
+NNTP-Posting-Host: arcturus.oac.uci.edu
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+In-Reply-To: <199509271434.HAA18374@po.EECS.Berkeley.EDU>
+
+Gentlemen:
+
+	If we're agreed that the combat rules give too much emphasis to 
+weenie troops (crossbowmen & pikemen) over cool troops (elite guards & 
+elite archers), they why not simply increase the values of these 
+higher-end units so that they make sense to build?  One would still have 
+to weigh the relative advantages of ease of building (wood is easier to 
+get then iron & horses) over long range strength.
+
+perhaps something like:
+
+elite guard:  500/500/0
+
+or even high numbers (friggin warhorse takes soooo long to train).
+
+	Combine this with limitations on beasts as people have been 
+discussing, & an elite guard doesn't look too shabby.
+
+	In addition, the skills of swordsmanship & defence (& archery 
+too) could confer a significant bonus for use (say, an increase in 
+ability of 10 points per use at the apprentice level, up to 20 points per 
+use high up).  It's amazing to me that people are using these skills 
+anyway (note recent GMs report) with their negligible affect on combat.  
+
+	Along the same lines, magic items should be more powerful (swords 
+& things).  As of now they're basically status symbols & little more.  
+Let one aura be translated into 50 instead of 5 points.  That would make 
+that +1000 armor a little more useful.
+
+-Mark
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!swrinde!tank.news.pipex.net!pipex!news.sprintlink.net!in2.uu.net!hearst.acc.Virginia.EDU!murdoch!fermi.clas.Virginia.EDU!gl8f Fri, 6 Oct 1995 14:26:58 GMT
+Newsgroups: rec.games.pbm
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!news.dfn.de!Germany.EU.net!howland.reston.ans.net!swrinde!tank.news.pipex.net!pipex!news.sprintlink.net!in2.uu.net!hearst.acc.Virginia.EDU!murdoch!fermi.clas.Virginia.EDU!gl8f
+From: gl8f@fermi.clas.Virginia.EDU (Greg Lindahl)
+Subject: Re: Oly: changes in G2
+X-Nntp-Posting-Host: fermi.clas.virginia.edu
+Message-ID: <DG16sy.7r4@murdoch.acc.Virginia.EDU>
+Sender: usenet@murdoch.acc.Virginia.EDU
+Organization: Department of Astronomy, University of Virginia
+References: <44775c$8ev@saba.info.ucla.edu> <199509271434.HAA18374@po.EECS.Berkeley.EDU> <Pine.SUN.3.91.951003174746.14675A-100000@aldebaran.oac.uci.edu>
+Date: Fri, 6 Oct 1995 14:26:58 GMT
+Lines: 19
+
+In article <Pine.SUN.3.91.951003174746.14675A-100000@aldebaran.oac.uci.edu>,
+Mark Hendrickson  <eahg128@aldebaran.oac.uci.edu> wrote:
+
+>	Against a recent post, I'd like to say that religion is way too 
+>powerful.  Priests are in vary high demand in G1 because their scries 
+>always work & because they can't be blocked.
+
+Also, Last Rites has no range limit. This was a disturbing notion
+early in the game when BtA died, and could have been Last Rited before
+he could be raised, only the anti-AOO folks couldn't find any priests.
+I think Rich is considering changing LR to require the body in G2, or
+be done by someone friendly to the corpse.
+
+> I was also very 
+>surprised to find out how much information a scry of a person produced.  
+
+I was shocked when I got my first one, too. Yow.
+
+-- O
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!newsfeed.ACO.net!Austria.EU.net!EU.net!newsfeed.internetmci.com!news.sprintlink.net!simtel!news.kei.com!eff!news.umbc.edu!nobody 7 Oct 1995 12:42:40 -0400
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!newsfeed.ACO.net!Austria.EU.net!EU.net!newsfeed.internetmci.com!news.sprintlink.net!simtel!news.kei.com!eff!news.umbc.edu!nobody
+From: schott@cs.umbc.edu (Brian Schott)
+Newsgroups: rec.games.pbm
+Subject: Re: oly combat simple fix
+Date: 7 Oct 1995 12:42:40 -0400
+Organization: University of Maryland, Baltimore County
+Lines: 39
+Message-ID: <456am0INN4fr@retriever.cs.umbc.edu>
+References: <44775c$8ev@saba.info.ucla.edu> <451a53$cvo@saba.info.ucla.edu> <453igk$et@wahoo.ccr-p.ida.org> <454ek4$pel@kaiwan009.kaiwan.com>
+NNTP-Posting-Host: retriever.cs.umbc.edu
+NNTP-Posting-User: schott
+
+I assume you have tongue in cheek?  Let's do the math shall we?  A
+noble starts at (80,80,0).  It takes 6 days to raise 1 point (I assume
+once you are grand master the skill only takes 6 days).  So (1250 -
+80) * 6 / 30 = 234.  So to get from 80,80,0 to 1250,80,0 would take
+234 turns.  If you are willing to wait 4.5 years of REAL TIME, you
+*might* survive combat with a novice and 10 peasants.  
+
+I just realized I made a glaring error in my computation, you listed
+(1250,1250,0), so that's 9 years of real time, not 4.5.  Of course, if
+you are able to find a few magic items, you might be able to shave a
+few years off of your effort.
+
+I guess this proves how useful defense and swordplay are.  
+
+These skills might be more valuable (and magic items to boot) if they
+provided a bonus to the entire stack.  Every 10 points of defense over
+80 adds 1 point of defense to everybody in the stack.  Every 10 points
+of archery over 80 adds 1 point to every unit with a missle attack,
+etc.
+
+Brian
+
+In article <454ek4$pel@kaiwan009.kaiwan.com>,
+Robert Christopher Butchko <rcb@kaiwan009.kaiwan.com> wrote:
+>Hmm, is this true? 
+>5000 battles fought in 4 seconds, 1250.00 battles/s 
+>ATTACKER (Fighting to the death) : 
+>    1 noble (80,80,0) [0.50], with: 
+>      10 peasants (1,1,0) [2.84]
+>    Average losses : 1 noble
+>                     7 peasants 
+>DEFENDER (Fighting to the death) : 
+>    1 Practised Noble (1250,1250,0) [0.50] 
+>      LIKELIHOOD OF WIN 49.86% 
+>Guess not.  Let's watch those sloppy errors, shall we?  Well, I suppose 
+
+
+
+
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!in2p3.fr!univ-lyon1.fr!oleane!plug.news.pipex.net!pipex!tank.news.pipex.net!pipex!newsfeed.internetmci.com!howland.reston.ans.net!swrinde!elroy.jpl.nasa.gov!news.aero.org!sun-dimas!srt 9 Oct 1995 16:20:55 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!in2p3.fr!univ-lyon1.fr!oleane!plug.news.pipex.net!pipex!tank.news.pipex.net!pipex!newsfeed.internetmci.com!howland.reston.ans.net!swrinde!elroy.jpl.nasa.gov!news.aero.org!sun-dimas!srt
+From: srt@sun-dimas.aero.org (Scott Turner)
+Newsgroups: rec.games.pbm
+Subject: Re: Silliest Oly I features
+Date: 9 Oct 1995 16:20:55 GMT
+Organization: The Aerospace Corporation, El Segundo, CA
+Lines: 9
+Message-ID: <45bi57$spm@news.aero.org>
+References: <44ud6s$9it@news.aero.org> <454pao$7sf@st-james.comp.vuw.ac.nz>
+NNTP-Posting-Host: sun-dimas.aero.org
+
+bill@rses.vuw.ac.nz (Bill Viggers) writes:
+>Second place goes to dragons that weigh the same amount as the
+>peasants they should be feeding on...
+
+Heh.  Another one I forgot.  This is particularly amusing when you
+recall that oxen weigh 1000.  The mental picture I get is of ten
+dragons snapping and snarling around the ankles of a placid ox.
+
+				-- Scott T.
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!newsfeed.ACO.net!Austria.EU.net!EU.net!howland.reston.ans.net!newsfeed.internetmci.com!chi-news.cic.net!news.uoregon.edu!waikato!comp.vuw.ac.nz!bill 12 Oct 1995 04:39:55 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!newsfeed.ACO.net!Austria.EU.net!EU.net!howland.reston.ans.net!newsfeed.internetmci.com!chi-news.cic.net!news.uoregon.edu!waikato!comp.vuw.ac.nz!bill
+From: bill@rses.vuw.ac.nz (Bill Viggers)
+Newsgroups: rec.games.pbm
+Subject: Re: Oly: changes in G2- generalship skill
+Date: 12 Oct 1995 04:39:55 GMT
+Organization: Research School of Earth Sciences, Victoria University of Wellington, New Zealand.
+Lines: 42
+Distribution: world
+Message-ID: <45i66r$959@st-james.comp.vuw.ac.nz>
+References: <44ucs2$9ea@news.aero.org>  <450n2o$43h@blekko.pbm.com> <DG1urw.5Jz@isltd.insignia.com> <krause.83.00081DDF@wifak.uni-wuerzburg.de>
+NNTP-Posting-Host: dope.geog.vuw.ac.nz
+
+In article <krause.83.00081DDF@wifak.uni-wuerzburg.de>, krause@wifak.uni-wuerzburg.de (Guenter Krause) writes:
+|> Here are my 2 cents about improving(?) the combat system
+|> 
+|> How about introducing a new skill, generalship, under combat, perhaps costing 
+|> a noble point.
+|> 
+
+	Way back in the days of Oly-1 (and no, thats not the play test of Oly-II)
+	there was a skill called Military Leadership.  Basically the side that had a
+	better leader got a combat bonus.
+
+[Heh, looking round I even managed to dig up the old lore sheets for it :-]
+
+
+|> It could have levels (studied weeks or some function thereof) which allow a 
+|> certain  number of men/beasts to be commanded by a noble
+
+	I like the idea of levels, but I'd prefer to see it use the current
+	experience system.  You become a better leader by leading armies in
+	battle.  I like this for two reasons.
+	1: it reuses the experience system (which is under used but good)
+and 	2: it means that in order to get better a noble is going to have to
+		do something that puts them at a little risk.  
+
+	The combination of 1&2 will also mean that attaining high levels of
+	skill in Military leadership should be harder to get.
+
+	Actually I think that high skill levels should be harder to get than
+	they are at the moment.  Someone can go from not knowing a skill to
+	becoming a grand master in just over a year of _casual_ use of a 
+	skill.  Doubling the amount of required months of use would be a start.
+	(okay, okay I'm off topic).
+
+
+	As to the effect of such a skill, well, I'm easy.  Your army size
+	limit is fine, as was the original bonus to combat.  Another 	
+	alternative could be an 'army quality limit'.  Basically you don't
+	need very much skill to lead a bunch of peasants, but if you want to
+	be able to make full use of your elite guards then you had better
+	be a good general.	
+
+Bill.
+
+Basil A. Daust:
+	show aura left in appear common, etc.
+	fix dragon weight
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!fu-berlin.de!cs.tu-berlin.de!informatik.uni-bremen.de!nordwest.pop.de!news.hamburg.pop.de!news.gun.de!msn!noris.net!xlink.net!howland.reston.ans.net!newsfeed.internetmci.com!tank.news.pipex.net!pipex!dish.news.pipex.net!pipex!lade.news.pipex.net!pipex!insignia!Jeremy.Maiden Sun, 15 Oct 1995 20:17:29 GMT
+Newsgroups: rec.games.pbm
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!fu-berlin.de!cs.tu-berlin.de!informatik.uni-bremen.de!nordwest.pop.de!news.hamburg.pop.de!news.gun.de!msn!noris.net!xlink.net!howland.reston.ans.net!newsfeed.internetmci.com!tank.news.pipex.net!pipex!dish.news.pipex.net!pipex!lade.news.pipex.net!pipex!insignia!Jeremy.Maiden
+From: jeremy@insignia.com (Jeremy Maiden)
+Subject: Oly: Fixing beastmastery in G1
+Message-ID: <DGIB16.K1E@isltd.insignia.com>
+X-Posted-From: InterNews 1.0@sacrum.isltd.insignia.com.
+Lines: 24
+Sender: -Not-Authenticated-[1895]
+Nntp-Posting-Host: c1macdyn252.isltd.insignia.com
+Organization: Insignia Solutions plc
+Date: Sun, 15 Oct 1995 20:17:29 GMT
+Xdisclaimer: No attempt was made to authenticate the sender's name.
+
+Following a general view that beastmastery is too good, there've
+been several suggested changes to bring it into balance with the
+rest of the game. Most of the proposed changes have been more
+suitable for a fresh start in G2, here's an "upgrade" path for G1.
+
+1) Use the wild horse/riding horse idea to split each existing
+beast type into wild and trained versions - different item numbers.
+
+2) Introduce a skill (or maybe skill per type) of training wild
+beasts, taking some time to train each individual creature.
+
+3) Make new beasts captured or bred always the wild type.
+
+4) For a transtional period, have wild and trained beasts both
+function as the original single type.
+
+5) On some future pre-announced turn stop the wild versions
+having any combat value when held by players.
+
+Suitable choices of all the numbers could give a toned down but
+still valuble beastmastery skill, but have a relativly small impact
+on the existing game.
+
+Jeremy
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!fu-berlin.de!simtel!news.sprintlink.net!news.telepac.pt!usenet Sun, 15 Oct 1995 22:07:03 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!fu-berlin.de!simtel!news.sprintlink.net!news.telepac.pt!usenet
+From: arendas@telepac.pt (Antonio Joao Rendas)
+Newsgroups: rec.games.pbm
+Subject: Re: Oly: Fixing beastmastery in G1
+Date: Sun, 15 Oct 1995 22:07:03 GMT
+Organization: telepac
+Lines: 24
+Message-ID: <45s7ge$779@vivaldi.telepac.pt>
+References: <DGIB16.K1E@isltd.insignia.com>
+NNTP-Posting-Host: cai1_p10.telepac.pt
+X-Newsreader: Forte Free Agent 1.0.82
+
+jeremy@insignia.com (Jeremy Maiden) wrote:
+
+[snip...ideas for diminuishing beastmastery's current power]
+
+I'd like to add something to all you said.Why not implement,a 1-1
+relation between the noble and the units stacked with him? For each
+noble in the stack there should be a single (combat) beast under
+control,not allowing "1 noble 10 dragons" units ,which,despite being
+fun and pitoresque are greatly unrealistic .Please note that it is
+still possible to have more than one beast in a unit,by having
+additional beastmastering nobles stacked within.Perhaps for lower
+combat-valued beasts there could be a skill that enabled a noble to
+control two or three beasts,but never unlimited ammounts of them,the
+fact that they are tamed does not imply they stop being beasts,and I
+find it hard to control more than a dragon at the same time :)
+
+>Suitable choices of all the numbers could give a toned down but
+>still valuble beastmastery skill, but have a relativly small impact
+>on the existing game.
+
+>Jeremy
+
+-AJRendas
+
+
+From pbm.com!news1.digex.net!news2.digex.net!howland.reston.ans.net!math.ohio-state.edu!uwm.edu!chi-news.cic.net!simtel!zombie.ncsc.mil!news.duke.edu!godot.cc.duq.edu!newsfeed.pitt.edu!uunet!in2.uu.net!newshub1.wanet.net!ucsnews!newshub.sdsu.edu!ihnp4.ucsd.edu!news1.ucsd.edu!not-for-mail 17 Oct 1995 16:40:18 GMT
+Path: pbm.com!news1.digex.net!news2.digex.net!howland.reston.ans.net!math.ohio-state.edu!uwm.edu!chi-news.cic.net!simtel!zombie.ncsc.mil!news.duke.edu!godot.cc.duq.edu!newsfeed.pitt.edu!uunet!in2.uu.net!newshub1.wanet.net!ucsnews!newshub.sdsu.edu!ihnp4.ucsd.edu!news1.ucsd.edu!not-for-mail
+From: wbruvold@weber.ucsd.edu (William Bruvold)
+Newsgroups: rec.games.pbm
+Subject: Olympia and Game Theory (LONG)
+Date: 17 Oct 1995 16:40:18 GMT
+Organization: University of California, San Diego
+Lines: 123
+Message-ID: <460m9i$fnu@news2.ucsd.edu>
+NNTP-Posting-Host: weber.ucsd.edu
+
+Some of the recent postings on Olympia and the need for various
+"fixes" got me thinking about some of the macro issues in the game.
+
+Some background-- Game theory refers to the modeling of games.  It
+started as a branch of mathamatics and has been subsequently
+developed in numerous academic disciplines.  Some of its most
+interesting applications occur in social situations characterized by
+strategic interaction, those instances in which the action of one
+individual are influence by the actions (and expectations of actions)
+of others.  Not the best summary but one that can work to save
+bandwidth....;-)
+
+1.  The concept of Game economics. 
+
+IMHO, olympia greatest feature is its movement and inventory
+features.  Fairly intuitive, relatively bug free, etc.  Its weakest
+feature remains its failure to encourage an "economy".  By economy I
+mean something generic, the exchange of goods and services between
+players out of mutual self interest.  A good example of a game with
+economy is diplomacy, in which gains/victory require that players
+cooperate, albeit temporarily, with each other.  A game that
+has very little economic interactions would be black jack in which
+the players all are individually playing against the house and exert
+very litle influence on each other.
+
+2.  Why economies develop
+
+Economies develop for a number of reasons and require a number of
+underlying factors to operate.  While there is some debate over
+this, most agree that economies develop because the actors benenfit
+from exchange.  Furthermore, they most often benefit from exchange
+because they are each able to more efficiently produce 1 particular
+good and then swamp surpluses with each other.  The famous example
+concerns British cloth and Spainish wine.
+
+A key concept is that of value added which I take to mean in game
+contexts that the interaction between the players adds more value
+than simply a sum of the existing parts.  That is, that two players
+can do more seperately than if one player controlled all the
+nobles.
+
+In addition to the potential benefits of exchange, for economies to
+develop requires punishment of
+those individuals who "shirk" and attempt to cheat.  Punishments can
+range from the powers of the state to ostracism and detrimental
+exclusion from future interactions.
+
+3.  Why Olympia doesn't encourage economic exchange.
+
+Simply put, olympia doesn't encourage economic cooperative because
+of the limited advantages to specialization. This strikes across
+many categories.  For example, post BTA's production of the
+Auraculum there has been very little reason to specialize as a magic
+faction.  The mage faction, without Auraculum can provide only
+minimal services to other factions while they do not recieve
+benefits from cooperating with an obvious target.  Another example
+concerns beastmastery, either in the old or the proposed "fix" as
+there are little benefit to specializing in beastmastery.  One could
+go on and on.  IMHO, the basic olympia "strategy" is to simply
+exist, building up in all areas at a relatively equal rate.  The
+result is that economic exchange is fairly limited between
+homogenous looking factions.
+
+4.  the Present form of cooperation.
+
+Many readers have been shaking their heads and yelling "I have
+allies!!  What is he saying???!!!"  I would posit, however, that the
+present alliances are largely for two purposes.  One is what could
+be call the "social alliance."  It makes playing olympia a lot more
+fun, you exchange resources, provide assistance in wars, etc. etc.
+However, the actual strategic (as opposed to social) benefits of
+that cooperation, I believe, can be questioned. 
+
+Second are the so called "meta-alliances".  These are groupings that
+exist for reasons outside of the game universe.  They are based upon
+associations brought from other games (alpha, beta, non-olympia) or
+have arisen as Role playing devices.  But in terms of pure economic
+mechanics, their utility has to be judged by the criteria that the
+whole is greater than the sum of their parts.  I think that in most
+of these alliances there is little "value added" by the cooperation
+occuring.
+
+5.  Fixing olympia.
+
+If a goal, and I think it should be, is reforming olympia to
+ecourage higher levels of exchange, I propose the following......
+
+a.  Each faction allowed four "free" skills.  Excluding necromancy,
+all factions would be allowed to study the first four base skills
+free of charge.  This would count across the entire faction, so that
+if each noble studies combat it would count as 1 skill.
+
+b.  The next 4 skills cost 1 noble points
+
+c.  The next 4 skills cost 2 noble points
+
+d.  The next 4 cost 3
+
+etc. etc.
+
+However, there should be (and I would have to think about this
+carefully), certain exceptions to skills that can be learned by
+scroll.  These would not require knowledge of the base skill.  These
+should be "end use" skills for products produced by others.  The
+obvious one that comes to mind is use beasts in battle.  Thus you
+could have a non-beastmaster faction benefit fromt he products that
+the beast mastery faction produces.  Other possible candidates are
+"build structure" (with the stones others produce) or "catrips"
+(basically a minor form of perform common tasks).
+
+Though radical, the advantage of this proposal is that it would
+insure faction specialization.  Factions could, of course, last it
+out and eventually learn everything.  But meanwhile lots of value
+added as the various specialized factions trade goods/services with
+each other.  Furthermore, by insuring that a decent collection of
+skills can be learned early on, it insures that players will not
+feel trapped by the choices that they made.
+
+
+Erik
+
+
+
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!in2p3.fr!univ-lyon1.fr!jussieu.fr!math.ohio-state.edu!howland.reston.ans.net!usc!usc!not-for-mail 18 Oct 1995 11:14:22 -0700
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swidir.switch.ch!in2p3.fr!univ-lyon1.fr!jussieu.fr!math.ohio-state.edu!howland.reston.ans.net!usc!usc!not-for-mail
+From: whalen@stromboli.usc.edu (Tim Whalen)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia and Game Theory (LONG)
+Date: 18 Oct 1995 11:14:22 -0700
+Organization: University of Southern California, Los Angeles, CA
+Lines: 73
+Sender: whalen@stromboli.usc.edu
+Message-ID: <463g5u$nj8@stromboli.usc.edu>
+References: <460m9i$fnu@news2.ucsd.edu>
+NNTP-Posting-Host: stromboli.usc.edu
+
+In article <460m9i$fnu@news2.ucsd.edu> wbruvold@weber.ucsd.edu (William Bruvold) writes:
+>
+>5.  Fixing olympia.
+>
+>a.  Each faction allowed four "free" skills.  Excluding necromancy,
+>all factions would be allowed to study the first four base skills
+>free of charge.  This would count across the entire faction, so that
+>if each noble studies combat it would count as 1 skill.
+>
+>Erik
+>
+
+A long while back I proposed an Olympia variant where any single
+faction would be restricted to X skill/spell categories.  I'd say
+that X should be somewhere between one (a Mining faction would be
+pretty dull, eh?) and seven (minimum required for supermagi...)
+
+In alpha I tried to play a religion-based faction and it worked
+pretty well but I did dabble in the other categories.  I think
+that Rich coincidentally finished the prayer coding at virtually
+the same instant I joined the game which made me actually useful
+to lots of factions that had written it off as useless.
+
+The specialization in Atlantis II makes it somewhat frustrating.
+My job there is sort of like the IRS, basically taxing and giving
+the cash to magic research labs and industrial consortia to play
+with, as well as some modest defense spending of course.  If one
+had to specialize in Olympia IV folks would pine for the good old
+days too, I think.  I miss my Atlantis I wizards. :>(
+
+My two cents on the broke stuff is that 99% of it can be fixed by :
+
+A. Adjusting combat ratings (e.g. elite guards), weights (e.g. dragons) etc.
+B. Revamping the beast breeding charts to slow down production of good
+   beasts (e.g. only chimera + nazgul produce dragons with 25% chance
+   for either parent to die and 50% chance of stillborn baby dragon.)
+   In other words, dragon breeding becomes almost a zero-sum equation.
+   Beasts that fly and/or with high combat ratings should be difficult
+   or impossible to breed.  (Sure, why not impossible to breed, for
+   instance, giant birds?)
+C. Rethinking Faerie, Cloudlands and Hades to discourage the "warp zone"
+   concept.  These should be places that anybody *can* get to but that
+   nobody can reasonably aspire to "control"  Restrict access absolutely
+   to nobles and non-combat items.  (No recruiting, teleporting, breeding,
+   capturing, etc.)  Access from Olympia should be dynamic (i.e. locations
+   of faerie hills, mountain under Cloudlands, GYs with Hades access
+   changes every other game year or something...)
+D. Scaling inner location rewards and making inner loc IDs non-sequential.
+   Prisoners/control artifacts/magic books should be *extremely* rare and
+   require exploration, multiple required artifacts, etc.  Those lone
+   centaur guards should have trade goods, artifact weapons or a little
+   gold.  Unfortunately, large alliances are able to handle inner locs
+   with item requirements better than lone factions but the required
+   items are always found within a single region so lone factions can
+   toward the netherlands and aspire to success here.
+
+Okay, so it was more than two cents...
+
+-----------------------------------Tim Whalen-----------------------------------
+
+"Whoo-oop!  I'm the old original iron-jawed, brass-mounted, copper-bellied
+corpse-maker from the wilds of Arkansaw!  Look at me!  I'm the man they call
+Sudden Death and General Desolation!  Sired by a hurricane, dam'd by an
+earthquake, half-brother to the cholera, nearly related to the small pox on
+my mother's side!  Look at me!  I take nineteen alligators and a bar'l of
+whisky for breakfast when I'm in robust health, and a bushel of rattlesnakes
+and a dead body when I'm ailing!  I split the everlasting rocks with my glance,
+and I squench the thunder when I speak!  Whoo-oop!  Stand back and give me room
+according to my strength!  Blood's my natural drink, and the wails of the dying
+is music to my ear!  Cast your eye on me, gentlemen!--and lay low and hold your
+breath, for I'm 'bout to turn myself loose!" - Mark Twain
+
+-----------------------------whalen@lipari.usc.edu------------------------------
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!in2p3.fr!oleane!tank.news.pipex.net!pipex!newsfeed.internetmci.com!news.msfc.nasa.gov!elroy.jpl.nasa.gov!usc!usc!not-for-mail 18 Oct 1995 16:16:54 -0700
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!in2p3.fr!oleane!tank.news.pipex.net!pipex!newsfeed.internetmci.com!news.msfc.nasa.gov!elroy.jpl.nasa.gov!usc!usc!not-for-mail
+From: whalen@stromboli.usc.edu (Tim Whalen)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia and Game Theory (LONG)
+Date: 18 Oct 1995 16:16:54 -0700
+Organization: University of Southern California, Los Angeles, CA
+Lines: 25
+Sender: whalen@stromboli.usc.edu
+Message-ID: <4641t6$nvp@stromboli.usc.edu>
+References: <460m9i$fnu@news2.ucsd.edu> <463g5u$nj8@stromboli.usc.edu> <463n6o$1i9@news.aero.org>
+NNTP-Posting-Host: stromboli.usc.edu
+
+In article <463n6o$1i9@news.aero.org> srt@sun-dimas.aero.org (Scott Turner) writes:
+>whalen@stromboli.usc.edu (Tim Whalen) writes:
+>>C. Rethinking Faerie, Cloudlands and Hades to discourage the "warp zone"
+>>   concept.  These should be places that anybody *can* get to but that
+>
+>The argument here is "there shouldn't exist any powerful thing in the
+>game that any particular faction (or group) can control" ---
+> ...
+> It's no different than any other set of regions in Oly.
+>
+>					-- Scott T.
+
+No, the point was that an unrestricted "warp zone" is a bad thing to
+have in Olympia.  I think that there is an overwhelming group percep-
+tion that the time required to move from point A to point B should
+be fairly long.  Witness the general concensus that roads would, if
+anything, make Olympia worse.  I would like to see flying in G2 a
+somewhat rare mode of transport.  I know of factions in G1 that
+refuse to walk anywhere, ever.  Gate travel is costly enough that
+it's virtually never used.  The three worst offenders to appropriate
+travel times are Faerie, flying and Hades.  Okay, okay, I admit that
+I'd like to see more public access to cloudlands in g2, but who
+really gives a flying stack about cloudlands.
+
+
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!in2p3.fr!oleane!simtel!lll-winken.llnl.gov!ames!waikato!comp.vuw.ac.nz!bill 19 Oct 1995 00:08:53 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!in2p3.fr!oleane!simtel!lll-winken.llnl.gov!ames!waikato!comp.vuw.ac.nz!bill
+From: bill@rses.vuw.ac.nz (Bill Viggers)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia and Game Theory (LONG)
+Date: 19 Oct 1995 00:08:53 GMT
+Organization: Research School of Earth Sciences, Victoria University of Wellington, New Zealand.
+Lines: 40
+Distribution: world
+Message-ID: <4644ul$lpd@st-james.comp.vuw.ac.nz>
+References: <460m9i$fnu@news2.ucsd.edu> <463g5u$nj8@stromboli.usc.edu>
+NNTP-Posting-Host: dope.geog.vuw.ac.nz
+
+In article <463g5u$nj8@stromboli.usc.edu>, whalen@stromboli.usc.edu (Tim Whalen) writes:
+
+	A number of very good points.
+
+|> C. Rethinking Faerie, Cloudlands and Hades to discourage the "warp zone"
+|>    concept.  These should be places that anybody *can* get to but that
+|>    nobody can reasonably aspire to "control"  Restrict access absolutely
+|>    to nobles and non-combat items.  (No recruiting, teleporting, breeding,
+|>    capturing, etc.)  Access from Olympia should be dynamic (i.e. locations
+|>    of faerie hills, mountain under Cloudlands, GYs with Hades access
+|>    changes every other game year or something...)
+
+	At the moment, Faerie and Hades are two of the 'special resources'
+	in Olympia that are _worth_ fighting over.  They make trade much
+	more profitable.  I like the idea of making access more random,
+	I think that would be fun.  But I also think that if you put in
+	enough effort you should be able to control them.
+
+	I control the cloudlands and I put about 3 game years worth of effort
+	into mapping it out and building a castle up there.  Then another game
+	year or two to actually garrison it.  I don't happen to think that was
+	too easy.  In fact that was one of the goals I set myself in Olympia.
+	
+	It would have been even harder if the entrance from the clouds to
+	the mundane world had changed every year, but I would still have stuck
+	at it.
+
+	Restricting Teleporting into hades and faerie might be an option though.
+	If they are somehow separate from the rest of Olympia then it would
+	make a certain amount of sense to have teleport not work between the
+	real world and those other places.  Or maybe a different spell must be
+	researched and studied.
+
+	Recruiting _is_ limited in the clouds (I don't know about hades /
+	Faerie).  On a slightly sillier note, so is the summoning of weather,
+	Rich, that really should be changed in G2.
+
+	Oh and a final note.  The Cloudlands can't be used as a warp zone.
+
+B. (current ruler of the cloudlands)
+
+From cedman@cedman.remote.Princeton.EDU Fri Oct 20 11:25:29 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id LAA27992 for <skrenta@pbm.com>; Fri, 20 Oct 1995 11:25:29 -0400
+Received: from princeton.edu(128.112.128.1) by blekko.pbm.com via smtp (V1.3)
+	id sma027990; Fri Oct 20 11:25:27 1995
+Received: from dialin9027.slip.uci.edu by Princeton.EDU (5.65b/2.122/princeton)
+	id AA22538; Fri, 20 Oct 95 11:23:39 -0400
+Received: by capitalist.princeton.edu (8.6.12/1.115)
+	id IAA00645; Fri, 20 Oct 1995 08:23:36 -0700
+Message-Id: <199510201523.IAA00645@capitalist.princeton.edu>
+Content-Type: text/plain
+Mime-Version: 1.0 (NeXT Mail 3.3 v118.2)
+Received: by NeXT.Mailer (1.118.2)
+From: Carl Edman <cedman@Princeton.EDU>
+Date: Fri, 20 Oct 95 08:23:35 -0700
+To: Rich Skrenta <skrenta@pbm.com>
+Subject: Re: Hostile bug
+Reply-To: cedman@Princeton.EDU
+References: <199510201111.HAA23223@blekko.pbm.com>
+X-Face: "3j&zX:\4Fv+|EtJ_@0U.lpHU=j7E<FTV\H9$n]}x{[{&7&yclgGB|:L}E=(bJ(aiFCL%lY}
+	xwr3bybh'>1K}w]4o"TB(VC9oAxSn%tv,C7w`wVgS}$\q2_s%+aNQ>;1z~G~Wqh8Bui,!P4[
+Status: RO
+
+On Fri, 20 Oct 1995, Rich Skrenta wrote:
+> > Well, I would have thought so too. But you still auto-defend even
+> > if you are already several days out of the province.
+>
+> I think this was true originally, but was considered a bug, and is no
+> longer true now.
+
+Then how come you can still attack people who have moved out ?  Seems  
+to me that the restrictions on attack/auto-attack/auto-defend all  
+ought to be the same.
+---
+Carl Edman
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!simtel!lll-winken.llnl.gov!uwm.edu!vixen.cso.uiuc.edu!news.ecn.bgu.edu!siemens!princeton!cnn.Princeton.EDU!phoenix.princeton.edu!cedman 20 Oct 1995 16:29:30 GMT
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!simtel!lll-winken.llnl.gov!uwm.edu!vixen.cso.uiuc.edu!news.ecn.bgu.edu!siemens!princeton!cnn.Princeton.EDU!phoenix.princeton.edu!cedman
+From: cedman@phoenix.princeton.edu (Carl F. Edman)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia and Game Theory (LONG)
+Date: 20 Oct 1995 16:29:30 GMT
+Organization: Princeton University
+Lines: 31
+Message-ID: <468ipa$e4p@cnn.Princeton.EDU>
+References: <460m9i$fnu@news2.ucsd.edu> <463g5u$nj8@stromboli.usc.edu> <463n6o$1i9@news.aero.org> <Pine.SOL.3.91.951020103700.11200C-100000@eniac>
+Reply-To: Carl Edman <cedman@princeton.edu>
+NNTP-Posting-Host: phoenix.princeton.edu
+
+In article <Pine.SOL.3.91.951020103700.11200C-100000@eniac>,
+Deric Elkins  <delkins@eniac> wrote:
+> It is a _lot_ easier to get a castle and some land than it is to get safe 
+> access to Faerie.  Also, a castle does not allow quick travel to and from 
+> every contenent in the game.  Finally, I do not believe that it is 
+> possible to teleport troops directly into Faerie like it is to a castle 
+> (making sneak attacks far less likely).
+
+Now, why don't you go and build a castle in faerie so we can test that ?  
+Decessim has dragons, will travel.  :) 
+
+Seriously, one of the many flaws in the current combat system is that
+walls are virtually irrelevant to dragons.  Whether BtA teleports them
+into the castle or to a noble outside really doesn't matter as far as
+combat outcome is concerned.  I only teleport them in for dramatic 
+effect.  If you teleport men though, walls can matter.
+
+> I am not faulting the players for taking advantage of the way Faerie 
+> works (I'd do the same).  However, I would have to agree that it is _way_ 
+> too nice as it exsists now.
+
+Actually I agree.  Faerie, Hades and Teleport Item have obsoleted
+geography for the AOO.  The former two should be drastically changed.  My
+favorite way to fix the latter would be to give reasonable weights to high
+combat value creatures i.e. 2500 or so for dragons.  That way teleporting
+men becomes an option again and it becomes at least in principle possible
+for a medium sized power to defend itself against teleports. 
+
+	Carl Edman
+
+
+
+From pbm.com!news.shadow.net!chi-news.cic.net!nntp.coast.net!zombie.ncsc.mil!news.duke.edu!news.ysu.edu!neoucom.edu!ns.mcs.kent.edu!kent!sjc 10 Dec 95 12:50:35
+Path: pbm.com!news.shadow.net!chi-news.cic.net!nntp.coast.net!zombie.ncsc.mil!news.duke.edu!news.ysu.edu!neoucom.edu!ns.mcs.kent.edu!kent!sjc
+From: sjc@mcs.kent.EDU (Steve Chapin)
+Newsgroups: rec.games.pbm
+Subject: Re: Olympia musings
+Date: 10 Dec 95 12:50:35
+Organization: Dept. of Math & Computer Science, Kent State University
+Lines: 21
+Message-ID: <SJC.95Dec10125035@ogion.mcs.kent.EDU>
+References: <4a82ip$s6v@raptor.eng.pyramid.com>
+NNTP-Posting-Host: ogion.mcs.kent.edu
+In-reply-to: khearn@pyramid.com's message of 7 Dec 1995 16:58:01 -0800
+
+
+The problem I see with this proposal (make skills take many months to
+learn) is that new players won't be able to do anything of note for a
+long time.  When would the first ship have sailed from the IC if it
+took a game year just to learn shipcraft, and another to learn
+shipbuilding?  Closer to reality?  Yes.  More playable?  No.  
+
+Another option would be to make all base skills (Forestry, Sailing,
+etc.) require a noble point to learn.  Make magical skill classes cost
+2.  This would allow players to quickly learn new skills, but not have
+everyone in their faction know them (e.g. almost 2/3 of my nobles know
+Beastmastery and its subskills).
+
+Maybe even combine the two.  Give players the option of spending an NP
+to drastically cut down the study time.
+
+sjc@mcs.kent.edu               Steve Chapin              Today's Usage Lesson:
+     It's a wise dog that scratches its own fleas. (William Strunk, Jr.)
+
+      "But Doctor...I *am* Pagliacci..." (The Comedian, in "Watchmen")
+
+
+From sjc@mcs.kent.edu Sun Dec 10 21:01:38 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id VAA22164 for <skrenta@pbm.com>; Sun, 10 Dec 1995 21:01:38 -0500
+Received: from ogion.mcs.kent.edu(131.123.2.53) by blekko.pbm.com via smtp (V1.3)
+	id sma022157; Sun Dec 10 21:01:35 1995
+Received: from localhost.ARPA by ogion.mcs.kent.edu (930416.SGI/92.09.25)
+	id AA09241; Sun, 10 Dec 95 20:49:47 -0500
+Message-Id: <9512110149.AA09241@ogion.mcs.kent.edu>
+Reply-To: sjc@mcs.kent.edu
+From: sjc@mcs.kent.edu (Steve Chapin)
+To: Rich Skrenta <skrenta@pbm.com>
+Zevon-Of-The-Day: Roland the Headless Thompson Gunner 
+Subject: Re: Olympia musings 
+In-Reply-To: Your message of Sun, 10 Dec 1995 15:04:33 EST.
+             <199512102004.PAA15911@blekko.pbm.com> 
+Date: Sun, 10 Dec 1995 20:49:46 -0500
+Sender: sjc@mcs.kent.edu
+Status: RO
+
+
+>> I like that idea...
+
+It's so stinking obvious, I can't believe someone didn't think of it
+before.
+
+What I like even more is the hybrid:  make skills take obscenely long
+to learn, e.g. 1 game year for a "regular" skill, and one month for
+subskills.  Magical skills take 2 game years to learn, at minimum
+(e.g. Necro may take 4).
+
+A noble can buy a factor of 32 reduction by spending an NP.  That
+means I can study a base skill in a week by spending an NP, or a
+subskill in a day if I spend an NP.
+
+That still allows generalist development, but at glacial speed.  For
+example, if I know I'm going to be hanging out on a continent for a
+while, I can develop a forester and a shipbuilder slowly, while
+quickly developing other skills.
+
+sc
+--
+
+From pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!nntp.coast.net!news.kei.com!newsfeed.internetmci.com!in1.uu.net!gossip.pyramid.com!sword.eng.pyramid.com!not-for-mail 7 Dec 1995 16:58:01 -0800
+Path: pbm.com!news.uni-stuttgart.de!news.belwue.de!scsing.switch.ch!swsbe6.switch.ch!swidir.switch.ch!nntp.coast.net!news.kei.com!newsfeed.internetmci.com!in1.uu.net!gossip.pyramid.com!sword.eng.pyramid.com!not-for-mail
+From: khearn@pyramid.com (Keith Hearn)
+Newsgroups: rec.games.pbm
+Subject: Olympia musings
+Date: 7 Dec 1995 16:58:01 -0800
+Organization: Pyramid Technology Corporation
+Lines: 112
+Message-ID: <4a82ip$s6v@raptor.eng.pyramid.com>
+NNTP-Posting-Host: raptor.eng.pyramid.com
+
+I've been playing Olympia since turn 43. I realize that that makes me
+  a relative newcomer, but I think it's long enough for me to
+  have gotten a feel for things. I see very little inter-player trade
+  going on. Almost everyone has become a generalist. If you want a
+  ship, you build it yourself. If you want swords, you make them.
+  There is nothing like an economy based on making and trading goods.
+
+I've been thinking about the general design of games of this ilk, such
+  as Oly and Atlantis. A central problem is that of interdependancy of
+  factions. Simply put, the game works best if factions need to work
+  together, rather than one being able to work completely on it's own
+  and grow exponentially to a point where it completely overpowers
+  it's neighbors and dominates the game. Interplayer cooperation is
+  better fostered if players have incentive to specialize, rather than
+  having every faction able to do everything.
+
+Atlantis tried to solve this problem by creating types of factions,
+  military, trade, and magic, similar to D&D's character classes.
+  Military and trade factions could not have mages, military and magic
+  factions could not produce goods, and trade and magic factions could
+  not have significant armies. This is, of course, a simplification of
+  the way it works, but you get the idea. Thus, if a military faction
+  wants swords, they need to work with a trade faction, and if they
+  want magical support, they need to work with a magic faction, an so
+  on. While this seems to work, it is very artificial. I quit playing
+  D&D because I hated the restrictive class system (Why is it
+  completely impossible for my 18 intelligence mage to learn to pick a
+  simple lock?).
+
+Olympia tries to avoid the problem by the use of noble points, but
+  doesn't quite manage to cause much in the way of specialization.
+
+For instance, if I need a ship, I have two basic choices: make
+  it myself, or trade with someone else for one. Trading with someone
+  else involves finding someone who has or will make one, and then
+  waiting for them to bring it to me, or else going forth to pick it
+  up. This takes time, probably several turns, in addition the the
+  construction time. 
+
+On the other hand, it only takes one noble-week for me to have a fully
+  qualified shipbuilder trained up and ready to go. Another noble-week 
+  and I've got a noble ready to harvest the wood I need. Why should I ever 
+  buy a ship from someone else, when I can be ready to make my own in two
+  noble-weeks? 
+
+This leads to there being no niche for shipbuilders in the game.
+  A game like Olympia should be full of niches, like shipbuilders,
+  weaponmakers, transportation companies, miners, et al. But since
+  anyone can set themself up to do just about anything in a few turns,
+  the niches simply aren't there.
+
+Then there's also the consideration of realism, if we want to consider
+  it. Does anyone *really* think they can learn to build a sailing
+  ship in just a week? It should take months, at a minimum. Similarly
+  for most other skills. One doesn't learn to make a sword in a week.
+
+I think Olympia would be a better game if skills took longer to learn.
+  It would encourage people to specialize and fill niches, rather than
+  all of us being generalists who can do anything, and thus don't need
+  to work together.
+
+If it took months to learn to make a ship, and years (game years) to
+  become really good at it, then those who took the time to learn
+  would have a market for their products. Other players would seriously
+  consider buying a ship from someone else, rather than just spending
+  a week training one of their own people to do it.
+
+A faction would still be able to do anything they wanted, but it would
+  take a long time. There would be no artificial constraints on what
+  you can do. You could make a decent profit without a castle, by
+  spending your time learning to do something that those who built
+  castles haven't had the time to learn.
+  
+I also think that the experience system should be used more heavily.
+  Right now all it seems to do is shorten the time required to do
+  something. There should be a difference in quality as well. Maybe
+  apprentice shipbuilders should only be able to make galleys, and
+  only journeymen or adepts should be able to make roundships.
+  Other skills could have other progressions.
+  
+It is also too easy to become very experienced. Becoming
+  a grand master at something should require years of working at it,
+  not just 9 tries. A swordmaker should have to make dozens of swords
+  before he is even a journeyman.
+
+I've been playing Olympia for only 33 turns, yet I already know 52 of 
+  the 70 skills. I've got nobles that are masters or grand masters in
+  several skills. By turn 100 I may know every skill in the game
+  (magic spells not included). In 12 game years should half a dozen
+  nobles be able to learn everything there is to know? I don't think
+  so.
+
+Yes, this would make the game start slower, but once a few player had
+  gotten over the first hurdles, trade between factions would start
+  up, and a real economy could develop.
+
+One could even borrow a page from Odyssey and allow people to pick a
+  few skills to start out with. You could have a point system like
+  Odyssey has for it's setup, and allow starting players to spend
+  points on extra nobles, and on training them in some basic skills.
+  Points could also be used to start out with goods, similar to the
+  gold and wood that people currently start out able to claim. This
+  would make the startup go a bit more quickly, while still keeping
+  people from being able to learn to do everything too quickly.
+
+Well, this has already gotten far too long, but what do others think?
+  Would slowing down learning make the game go too slowly, or would it
+  enrich it my fostering more trade and cooperation?
+
+  Keith Hearn
+  khearn@pyramid.com
+
+
+From gl8f@fermi.clas.virginia.edu Thu Dec 14 09:26:48 1995
+Received: (from smtp@localhost) by blekko.pbm.com
+	id JAA16780 for <skrenta@pbm.com>; Thu, 14 Dec 1995 09:26:48 -0500
+Received: from uvaarpa.virginia.edu(128.143.2.7) by blekko.pbm.com via smtp (V1.3)
+	id sma016778; Thu Dec 14 09:26:43 1995
+Received: from fermi.clas.virginia.edu by uvaarpa.virginia.edu id aa09524;
+          14 Dec 95 9:23 EST
+Received: (from gl8f@localhost) by fermi.clas.Virginia.EDU (8.7.1/8.6.6) id JAA31272 for skrenta@pbm.com; Thu, 14 Dec 1995 09:22:59 -0500
+Date: Thu, 14 Dec 1995 09:22:59 -0500
+From: Greg Lindahl <gl8f@fermi.clas.virginia.edu>
+Message-Id: <199512141422.JAA31272@fermi.clas.Virginia.EDU>
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Rich Skrenta <skrenta@pbm.com>
+Subject: Re: Acknowledge6
+Status: RO
+
+> > Received: from uvaarpa.virginia.edu(128.143.2.7) by blekko.pbm.com via smtp
+> > (V1.3)
+> > 	id sma000140; Thu Dec 14 03:18:43 1995
+> > Received: from fermi.clas.virginia.edu by uvaarpa.virginia.edu id aa10603;
+> > 	  13 Dec 95 14:26 EST
+
+Yeah, once anything gets into the "failed" queue, it takes forever for
+it to be reprocessed. My turn which ran was mailed from pbm.com, and I
+didn't typo on the address this time.
+
+BTW, my guy who had his HONOR fail because he was 3 gold short
+renounced loyalty. I believe I reported that HONOR behavior as a bug a
+year ago... bad Rich, no donut.
+
+-- greg
+
+From lindahl@pbm.com Thu Feb 29 09:15:05 1996
+Received: (from lindahl@localhost) by blekko.pbm.com
+	id JAA09193 for skrenta; Thu, 29 Feb 1996 09:15:05 -0500
+Date: Thu, 29 Feb 1996 09:15:05 -0500
+From: Greg Lindahl <lindahl@pbm.com>
+Message-Id: <199602291415.JAA09193@blekko.pbm.com>
+To: skrenta
+Subject: olympia
+Status: RO
+
+Since I don't pay, I might as well restart ;-)
+
+I forget, what do I need to send you? A name for the oath-2 noble and the
+faction? I wonder if it's possible to get out of the IC alive these days?
+I hope G2 has multiple starting points from the start ;-) And if you're
+worried about players whining about them moving in the future, you might
+want to put a message on other cities that they will eventually become
+starting cities.
+
+-- g
+

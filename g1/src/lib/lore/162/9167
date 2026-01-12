@@ -1,0 +1,20 @@
+#Spell:  Locate character [9167]
+#
+Usage:  USE @@@@ <character> [aura]
+
+Required aura:  one to three points, as given
+Required item:
+Time to cast:   ten days
+
+Attempt to locate the specified character.  If successful, the
+mage will learn the location in which the character is currently
+located.
+
+The more aura expended, the greater the chance that the character
+will be located.
+
+	aura	chance of success
+	----	-----------------
+	 1            50%
+	 2            75%
+	 3            90%

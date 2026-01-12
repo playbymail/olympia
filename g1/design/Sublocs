@@ -1,0 +1,122 @@
+
+structure things
+        temple
+        ancient fortress
+        inn
+        castle
+        tower
+
+water things
+        waterfall
+        lake
+        stream
+
+ravine crevice gully canyon fissure valley
+lotus field
+rocky field
+faery hill / enchanted hills
+place of seeing / outlook
+
+Ancient Fortress
+Haunted House (supernatural beasts)
+
+grove of trees
+        appear in plains regions
+        immediately eliminated by lumber harvest
+
+        if (tree_grove_count <= 0)
+                produce tree grove in plains
+
+Secret pass [xx99], to Foobar [ab01], hidden, 1 day
+Secret route [xx99], to Foobar [ab01], hidden, 1 day
+Old road [xx99], to Foobar [ab01], hidden, 1 day
+Underground passage [xx99], to Foobar [ab01], hidden, 1 day
+Secret passage [xx99], to Foobar [ab01], hidden, 1 day
+
+        - caddy corner
+        - bridging # holes
+        - from city guilds to adjoining province
+          come out in subloc of this province, or an adjoining
+          all thieves guilds
+
+
+Every land location should get at least one sublocation
+
+                        hidden  terr    chance
+                        ------  ----    ------
+city                    0       *       1 in 10
+
+graveyard               0       *       3
+ruins                   ?       *       3
+ancient battlefield     ?       *       2
+enchanted forest        1       F       1
+bog                     ?       S       3
+cave                    ?       D       3
+cave                    ?       M       3
+
+
+        * = everything but swamp & desert
+        F = forest
+        P = plains
+        D = desert
+        M = mountain
+
+
+City of Magicians
+        all magic guilds there
+
+City of the Sorcerors
+City of Wizards
+City of Magic
+
+
+Suppose we want a city every 1 in 12 (16) locations
+40% of the locations can have zero features in them.
+
+        city            1
+        empty           4 (6)
+
+We only need 7 (9) more features to avoid overuse of features.
+
+	    any       Desert    Mount      Swamp   Forest       Plains
+	    ---       ------    -----      -----   ------       ------
+    1.  graveyard
+    2.  ruins
+    3.                cave      cave       bog     tree-circ    pasture
+    4.                oasis     cave       pits    ench-forest  rocky hill
+    5.  temple
+    6.  sacred grove
+    7.                sand pit  yew-grove          yew-grove    poppy field
+    8.
+    9.
+
+Horses and oxen get stuck in sand pits
+
+need plant to grow in oasis
+need type of bones to find in sand pit
+	pretus bones
+
+may harvest lumber in mallorn grove or sacred grove
+
+	mallorn wood
+
+however: one must first make a sacrifice, or the gods will smite you
+
+heh heh.  put sacred grove only in plain regions
+
+
+
+	desert    mountain      swamp    forest        plains
+	------    --------      -----    ------        ------
+ 1.               graveyard              graveyard     graveyard
+ 2.               ruins                  ruins         ruins
+ 3.     cave      cave          bog      tree-circ     pasture
+ 4.     oasis                   pits     ench-forest   rocky hill
+ 5 .              temple                 temple        temple
+ 6.                                                    sacred grove
+ 7.     sand pit  yew grove              yew grove     poppy field
+ 8.
+ 9.
+
+
+mystical monuments

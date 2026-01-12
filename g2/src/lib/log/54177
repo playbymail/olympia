@@ -1,0 +1,478 @@
+57364:0::0:0:Garrison~[4522], garrison, with 29~pikemen guards Brine City~[h04].
+58446:0::0:0:Garrison~[6504], garrison, with 79~pikemen guards Haemfrith~[v86].
+15222:0::0:0:Garrison~[9703], garrison, with ten~soldiers guards Mountain~[cq22].
+15319:0::0:0:Garrison~[9881], garrison, with ten~workers guards Forest~[cr19].
+15220:0::0:0:Garrison~[c832], garrison, with ten~soldiers guards Forest~[cq20].
+15518:0::0:0:Garrison~[d518], garrison, with ten~workers guards Mountain~[ct18].
+15519:0::0:0:Garrison~[f762], garrison, with ten~soldiers guards Desert~[ct19].
+15618:0::0:0:Garrison~[m662], garrison, with ten~peasants guards Plain~[cv18].
+15619:0::0:0:Garrison~[q585], garrison, with ten~soldiers guards Swamp~[cv19].
+15620:0::0:0:Garrison~[r367], garrison, with ten~workers guards Forest~[cv20].
+15419:0::0:0:Garrison~[s704], garrison, with ten~workers guards Mountain~[cs19].
+15420:0::0:0:Garrison~[v744], garrison, with six~peasants, four~workers guards Desert~[cs20].
+15520:0::0:0:Garrison~[w776], garrison, with ten~peasants guards Plain~[ct20].
+15320:0::0:0:Garrison~[w980], garrison, with ten~workers guards Mountain~[cr20].
+15221:0::0:0:Garrison~[108706], garrison, with ten~soldiers guards Forest~[cq21].
+15619:0::0:4:It has begun to rain.
+15220:0::0:4:It has begun to rain.
+15221:0::0:4:It has begun to rain.
+15420:0::0:21:It has begun to rain.
+15620:0::0:21:It has begun to rain.
+15519:0::0:26:It has begun to rain.
+15319:0::0:26:It has begun to rain.
+15518:0::0:26:It has begun to rain.
+15618:0::0:26:It has begun to rain.
+6:0:9703:0:30:Paid maintenance of 20~gold.
+6:0:9881:0:30:Paid maintenance of 20~gold.
+6:0:c832:0:30:Paid maintenance of 20~gold.
+6:0:d518:0:30:Paid maintenance of 20~gold.
+6:0:f762:0:30:Paid maintenance of 20~gold.
+6:0:m662:0:30:Paid maintenance of 10~gold.
+6:0:q585:0:30:Paid maintenance of 20~gold.
+6:0:r367:0:30:Paid maintenance of 20~gold.
+6:0:s704:0:30:Paid maintenance of 20~gold.
+6:0:v744:0:30:Paid maintenance of 14~gold.
+6:0:w776:0:30:Paid maintenance of 10~gold.
+6:0:w980:0:30:Paid maintenance of 20~gold.
+6:0:108706:0:30:Paid maintenance of 20~gold.
+3065:0::0:30:Collected 237~gold from owned provinces.
+3065:0::0:30:Collected 165~gold in taxes.
+3065:0::0:30:Paid maintenance of 209~gold.
+15319:0::0::
+15319:0::0::Province controlled by Haemfrith Castle~[7737], castle, in Forest~[cr19]
+15319:0::0::Ruled by Ysrthgrathe~[9509], duke
+15319:0::0::
+15319:0::0::Routes leaving Forest: 
+15319:0::3::North, plain, to Sable Dell~[cq19], 7~days
+15319:0::3::East, to Mountain~[cr20], 10~days
+15319:0::3::South, to Mountain~[cs19], 10~days
+15319:0::3::West, to Plain~[cr18], 7~days
+15319:0::0::
+15319:0::0::Inner locations:
+15319:0::3::Haemfrith~[v86], city, 1 day
+15319:0::3::Cave~[t522], cave, hidden, 1 day
+15319:0::0::
+15319:0::0::It is raining.
+15319:0::0::
+15319:0::0::Seen here:
+15319:0::0/3::   Garrison~[9881], garrison, on guard, with ten~workers
+15620:0::0::
+15620:0::0::Province controlled by Haemfrith Castle~[7737], castle, in Forest~[cr19]
+15620:0::0::Ruled by Ysrthgrathe~[9509], duke
+15620:0::0::
+15620:0::0::Routes leaving Forest: 
+15620:0::3::North, to Plain~[ct20], 7~days
+15620:0::3::East, to Mountain~[cv21], 10~days
+15620:0::3::South, to Forest~[cw20], 8~days
+15620:0::3::West, to Swamp~[cv19], 14~days
+15620:0::3::Secret route, to Pasture~[g245], hidden, 1~day
+15620:0::0::
+15620:0::0::Inner locations:
+15620:0::3::Brine City~[h04], city, 1 day
+15620:0::0::
+15620:0::0::It is raining.
+15620:0::0::
+15620:0::0::Seen here:
+15620:0::0/3::   Garrison~[r367], garrison, on guard, with ten~workers
+57364:0::0::
+57364:0::0::Routes leaving Brine City: 
+57364:0::3::Out, to Forest~[cv20], 1~day
+57364:0::0::
+57364:0::0::Cities rumored to be nearby:
+57364:0::3::Farshadow~[b56], in Desert~[ct19]
+57364:0::3::Haemfrith~[v86], in Forest~[cr19]
+57364:0::0::
+57364:0::0::Skills taught here:
+57364:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Forestry~[700], Magic~[800], Scrying~[840]
+57364:0::0::
+57364:0::0::Market report:
+57364:0::3::
+57364:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57364:0::3::-----    ---   -----    ---     -----   ----                     
+57364:0::3::  buy   1228      91     54        75   ochre~[d889]             
+57364:0::3::  buy    h04     125      6        50   hides~[99]               
+57364:0::3::  buy    h04      75     49       100   beans~[v148]             
+57364:0::3::  buy    h04       7      9         5   clay pots~[95]           
+57364:0::3::  buy    h04      78     35       100   beans~[134947]           
+57364:0::3:: sell    h04      12     30        50   soap~[w428]              
+57364:0::3:: sell    h04     120     45       100   ivory~[v067]             
+57364:0::3:: sell    h04      14     25        30   wood~[77]                
+57364:0::3:: sell    h04      11     40       100   cassava~[s551]           
+57364:0::3:: sell    h04     120     50       100   jade~[95507]             
+57364:0::0::
+57364:0::0::It is raining.
+57364:0::0::
+57364:0::0::Seen here:
+57364:0::0/3::   Garrison~[4522], garrison, on guard, with 29~pikemen
+57364:0::0/3:: * Hanjanis~[1228], with ten~winged horses
+58446:0::0::
+58446:0::0::Routes leaving Haemfrith: 
+58446:0::3::Out, to Forest~[cr19], 1~day
+58446:0::0::
+58446:0::0::Cities rumored to be nearby:
+58446:0::3::Farshadow~[b56], in Desert~[ct19]
+58446:0::3::Estbeorn~[j23], in Mountain~[cs16]
+58446:0::3::Thyria~[n44], in Mountain~[cr14]
+58446:0::3::Myhra~[q95], in The Icy Black Forest~[cn15]
+58446:0::0::
+58446:0::0::Skills taught here:
+58446:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Forestry~[700], Magic~[800], Necromancy~[900]
+58446:0::0::
+58446:0::0::Market report:
+58446:0::3::
+58446:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58446:0::3::-----    ---   -----    ---     -----   ----                     
+58446:0::3::  buy    v86     121     33        62   pipeweed~[v482]          
+58446:0::3::  buy    v86       4     15         1   woven baskets~[94]       
+58446:0::3:: sell    v86      15     25        30   wood~[77]                
+58446:0::3:: sell    v86     123     49        45   silk~[j193]              
+58446:0::3:: sell    v86      36     31        65   plum wine~[g119]         
+58446:0::0::
+58446:0::0::Inner locations:
+58446:0::3::Haemfrith Castle~[7737], castle, defense~80, level~6, owner:
+58446:0::0/6:: *    Lomar~[3065], baron, with 22~peasants, 21~archers, 22~crossbowmen, 20~elite archers, one~ox
+58446:0::0/6::      Jordanth~[9287], with two~winged horses
+58446:0::0::
+58446:0::0::It is raining.
+58446:0::0::
+58446:0::0::Seen here:
+58446:0::0/3::   Garrison~[6504], garrison, on guard, with 79~pikemen
+5:0::0::
+5:0::0::begin qb7  # Xephyr
+5:0::0::
+5:0::0::unit qb7  # Xephyr
+5:0::0::
+5:0::0::unit 3065  # Lomar in Haemfrith Castle~[7737]
+5:0::0::
+5:0::0::unit 1228  # Hanjanis in Brine City~[h04]
+5:0::0::
+5:0::0::end
+54177:0::0::
+54177:0::0::Admit permissions:
+54177:0::0::
+54177:0::3::admit 3065 4080
+54177:0::3::admit  qb7  ts4  ug8 4080
+54177:0::0::
+54177:0::0::Declared attitudes:
+54177:0::3::defend   qb7  tm6  ts4  ug8
+54177:0::0::
+54177:0::0::Unclaimed items:
+54177:0::0::
+54177:0::0::      qty  name                              weight
+54177:0::0::      ---  ----                              ------
+54177:0::0::    3,863  gold~[1]                               0  
+1228:0::3::
+1228:0::3/16::Location:       Brine City~[h04], in province Forest~[cv20], in Provinia
+1228:0::3::Loyalty:        Fear-599
+1228:0::3::Health:         100%
+1228:0::3::Combat:         attack 80, defense 80, missile 0
+1228:0::3::                behind 2  (stay behind in combat)
+1228:0::3::Break point:    0% (fight to the death)
+1228:0::3::
+1228:0::3::Declared attitudes:
+1228:0::6::neutral 4689
+1228:0::3::
+1228:0::3::Skills known:
+1228:0::6::Shipcraft~[600]
+1228:0::12::Sailing~[601], grand master
+1228:0::12::Fishing~[603], adept
+1228:0::6::Combat~[610]
+1228:0::12::Fight to the death~[612]
+1228:0::12::Weaponsmithing~[617], apprentice
+1228:0::6::Stealth~[630]
+1228:0::6::Construction~[680]
+1228:0::6::Trade~[730]
+1228:0::12::Conceal identity of trader~[731], apprentice
+1228:0::12::Find tradegood for sale~[732], journeyman
+1228:0::12::Find market for tradegood~[733], apprentice
+1228:0::3::
+1228:0::3::Inventory:
+1228:0::3::{<b>}      qty  name                              weight{</b>}
+1228:0::3::      ---  ----                              ------
+1228:0::3::    5,000  gold~[1]                               0  
+1228:0::3::       10  winged horses~[54]                10,000  fly 1,500
+1228:0::3::        1  obsidian~[a369]                      100  
+1228:0::3::        1  cassava~[s551]                       100  
+1228:0::3::        1  ivory~[v067]                         100  
+1228:0::3::        1  soap~[w428]                           50  
+1228:0::3::        1  jade~[95507]                         100  
+1228:0::3::        1  licorice~[139418]                     50  
+1228:0::3::                                             ======
+1228:0::3::                                             10,500
+1228:0::3::
+1228:0::3/11::Capacity:  500/1,600 land (31%), 600/1,500 ride (40%), 600/1,500 fly (40%)
+1228:0::3::
+1228:0::3::Pending trades:
+1228:0::3::
+1228:0::6::trade    price    qty   item
+1228:0::6::-----    -----    ---   ----
+1228:0::6::  buy       91    898   ochre~[d889]
+1228:0::6:: sell      153    898   ochre~[d889]
+1228:0::3::
+3065:0::3::
+3065:0::3/16::Location:       Haemfrith Castle~[7737], in Haemfrith~[v86], in province Forest~[cr19], in Provinia
+3065:0::3::Loyalty:        Oath-1
+3065:0::3::Health:         100%
+3065:0::3::Combat:         attack 80, defense 80, missile 50
+3065:0::3::                behind 5  (stay behind in combat)
+3065:0::3::Break point:    0% (fight to the death)
+3065:0::3/16::Pledged to:     Crimson Thorn~[c781]
+3065:0::3::
+3065:0::3::Skills known:
+3065:0::6::Combat~[610]
+3065:0::12::Survive fatal wound~[611]
+3065:0::12::Fight to the death~[612]
+3065:0::12::Archery~[615], apprentice
+3065:0::12::Swordplay~[616], journeyman
+3065:0::12::Weaponsmithing~[617], grand master
+3065:0::6::Construction~[680]
+3065:0::12::Stone quarrying~[682], apprentice
+3065:0::6::Forestry~[700]
+3065:0::12::Harvest lumber~[702], journeyman
+3065:0::3::
+3065:0::3::Partially known skills:
+3065:0::6/6::Harvest yew~[703], 7/14
+3065:0::3::
+3065:0::3::Inventory:
+3065:0::3::{<b>}      qty  name                              weight{</b>}
+3065:0::3::      ---  ----                              ------
+3065:0::3::    4,651  gold~[1]                               0  
+3065:0::3::       22  peasants~[10]                      2,200  cap 2,200 (1,1,0)
+3065:0::3::       21  archers~[13]                       2,100  cap 2,100 (5,5,50)
+3065:0::3::       22  crossbowmen~[21]                   2,200  cap 2,200 (1,1,25)
+3065:0::3::       20  elite archers~[22]                 2,000  cap 2,000 (10,10,75)
+3065:0::3::      115  longbows~[72]                        345  
+3065:0::3::      283  longswords~[74]                    1,415  
+3065:0::3::        1  ox~[76]                            2,000  cap 1,500
+3065:0::3::       70  stone~[78]                         7,000  
+3065:0::3::      305  crossbows~[85]                     3,050  
+3065:0::3::       15  clay pots~[95]                        75  
+3065:0::3::       53  silk~[j193]                        2,385  
+3065:0::3::       28  pipeweed~[w847]                    1,736  
+3065:0::3::        1  Scroll~[z488]                          1  
+3065:0::3::                                             ======
+3065:0::3::                                             26,507
+3065:0::3::
+3065:0::3/11::Capacity:  16,007/10,100 land (158%)
+3065:0::3::
+3065:0::3::Scroll~[z488] permits study of the following skills:
+3065:0::6/3::??? (requires Stealth)
+3065:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Xephyr~[qb7].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/qb7/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [qb7]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         2  116th  
+0:0::3/41::Men:                               85  65th   
+0:0::3/41::Gold:                           9,651  73rd   
+0:0::3/41::Land controlled:                   13  73rd   
+0:0::3/41::Skills known:                   18/74  95th   
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         514/31,919  64th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  41     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  7753 s297 t642 x305 p263
+0:0::0::
+0:0::0::20 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::3065   7737   o1    100  5    4651   22             63        Lomar
+0:0::0::1228   h04    f599  100  2    5000                            Hanjanis
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              9651   22             63
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[cr19]
+0:0::0::    Haemfrith~[v86]
+0:0::0::      Haemfrith Castle~[7737]      Lomar~[3065]
+0:0::0::  Forest~[cv20]
+0:0::0::    Brine City~[h04]               Hanjanis~[1228]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  3065      26,607    (5,907) 158%                                
+0:0::0::  1228      10,600      1,100  31%        900  40%        900  40%
+0:0::0::
+0:0::0::garr where  men cost  tax forw castle rulers
+0:0::0::---- -----  --- ----  --- ---- ------ ------
+0:0::0::c832  cq20   10   20  100   16  7737  3065 c781 9509
+0:0::0::108706  cq21   10   20   50    6  7737  3065 c781 9509
+0:0::0::9703  cq22   10   20   50    6  7737  3065 c781 9509
+0:0::0::9881  cr19   10   20  350    -  7737  3065 c781 9509
+0:0::0::w980  cr20   10   20  150   26  7737  3065 c781 9509
+0:0::0::s704  cs19   10   20  150   26  7737  3065 c781 9509
+0:0::0::v744  cs20   10   14  100   17  7737  3065 c781 9509
+0:0::0::d518  ct18   10   20  200   36  7737  3065 c781 9509
+0:0::0::f762  ct19   10   20  200   36  7737  3065 c781 9509
+0:0::0::w776  ct20   10   10   50    8  7737  3065 c781 9509
+0:0::0::m662  cv18   10   10  100   18  7737  3065 c781 9509
+0:0::0::q585  cv19   10   20   50    6  7737  3065 c781 9509
+0:0::0::r367  cv20   10   20  200   36  7737  3065 c781 9509
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Xephyr~[qb7]"><font size=+1><b>Xephyr~[qb7]</b></font>
+1:2::0::<hr>
+1:1::0::Xephyr~[qb7]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54177
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison log"><font size=+1><b>Garrison log</b></font>
+1:2::0::<hr>
+1:1::0::Garrison log
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Lomar~[3065]"><font size=+1><b>Lomar~[3065]</b></font>
+1:2::0::<hr>
+1:1::0::Lomar~[3065]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3065
+1:0::0::
+1:2::0::
+1:2::0::<name="Hanjanis~[1228]"><font size=+1><b>Hanjanis~[1228]</b></font>
+1:2::0::<hr>
+1:1::0::Hanjanis~[1228]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1228
+1:2::0::
+1:2::0::<name="Forest~[cq20]"><font size=+1><b>Forest~[cq20]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[cq20], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15220
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cq21]"><font size=+1><b>Forest~[cq21]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[cq21], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15221
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[cq22]"><font size=+1><b>Mountain~[cq22]</b>, mountain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[cq22], mountain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15222
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cr19]"><font size=+1><b>Forest~[cr19]</b>, forest, in Provinia, civ-4</font>
+1:2::0::<hr>
+1:1::0::Forest~[cr19], forest, in Provinia, civ-4
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15319
+1:0::0::
+1:2::0::
+1:2::0::<name="Haemfrith~[v86]"><font size=+1><b>Haemfrith~[v86]</b>, city, in province Forest~[cr19]</font>
+1:2::0::<hr>
+1:1::0::Haemfrith~[v86], city, in province Forest~[cr19]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58446
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[cr20]"><font size=+1><b>Mountain~[cr20]</b>, mountain, in Provinia, civ-2</font>
+1:2::0::<hr>
+1:1::0::Mountain~[cr20], mountain, in Provinia, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15320
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[cs19]"><font size=+1><b>Mountain~[cs19]</b>, mountain, in Provinia, civ-2</font>
+1:2::0::<hr>
+1:1::0::Mountain~[cs19], mountain, in Provinia, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15419
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[cs20]"><font size=+1><b>Desert~[cs20]</b>, desert, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Desert~[cs20], desert, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15420
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[ct18]"><font size=+1><b>Mountain~[ct18]</b>, mountain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Mountain~[ct18], mountain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15518
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[ct19]"><font size=+1><b>Desert~[ct19]</b>, desert, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Desert~[ct19], desert, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15519
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[ct20]"><font size=+1><b>Plain~[ct20]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[ct20], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15520
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[cv18]"><font size=+1><b>Plain~[cv18]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[cv18], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15618
+1:0::0::
+1:2::0::
+1:2::0::<name="Swamp~[cv19]"><font size=+1><b>Swamp~[cv19]</b>, swamp, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Swamp~[cv19], swamp, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15619
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cv20]"><font size=+1><b>Forest~[cv20]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[cv20], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15620
+1:0::0::
+1:2::0::
+1:2::0::<name="Brine City~[h04]"><font size=+1><b>Brine City~[h04]</b>, city, in province Forest~[cv20]</font>
+1:2::0::<hr>
+1:1::0::Brine City~[h04], city, in province Forest~[cv20]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57364
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,199 @@
+
+1.  Trade
+
+	Don't forget quest gen trade item
+
+	1.  Find tradegood for sale
+
+		takes 28 days
+		creates a tradegood and adds it to the city sell list
+		at most three tradegoods may be offered in a city
+		if a tradegood is not purchased for 24 months, it
+		goes away
+
+		perhaps tradegood is generated only on a particular month?
+
+	2.  Create market for tradegood - specify unique tradegood
+
+		Must have some of the tradegood in inventory
+		takes 14 days
+		for a given city, there is a 50% chance it will buy
+		the tradegood.  (i.e. this is per city, not per attempt)
+		50% chance of success for a given city (not attempt)
+		if city < 8 provinces away, no market for tradegood
+		if city 16+ provinces away, profit is doubled
+
+		if tradegood not sold for 24 months, it goes away
+
+		2-4 provs/turn is travel rate
+		buy/sell are instantaneous
+		pct4g was 100/month
+		let's say 200+/month for trade
+		that's 200*dist/2 (could be 400/month for fliers)
+		or 200 * 8/2 = 800
+		200 * 16/2 =  1600
+
+		start at 1000/gold profit per traderoute
+		double for 18+ provs, say
+		increase sell volume 10% each time all is bought
+		increase buy volume 10% each time all is bought
+
+		.. or play with the prices
+		weight will be self-limiting
+
+	after n turns an x% chance the city no longer will want it
+
+
+2.  existing faction id box on signup forms
+    $2.50 signup fee
+
+
+3.  Golden City
+	cost to enter
+	seed for sale items
+	teach list
+	or remove it
+
+
+Add DESCRIBE command, for buildings, characters
+
+html'ify turn report?
+
+Give Cloudlands a 3-D configuration
+
+22.  Can we set ADMIT to allow anyone in the friendly faction to enter?
+
+------
+
+2.  New artifacts
+
+6.  Hinder trance spell
+
+7.  Stats line for Times masthead
+
+sell mercs as trade?
+
+GM relic owners
+
+
+Times:  add stats line from gm report
+
+   +----------------------------------------------------------------------+
+   | The Olympia Times                                       issue g1-123 |
+   | October 30, 1996                                                     |
+   |                                                                      |
+   | turn 123  123 players                  http://www.pbm.com/oly/times/ |
+   +----------------------------------------------------------------------+
+   |  nobles xxxx castles xxxx towers xxxx galleys xxxx roundships xxxx   |
+   +----------------------------------------------------------------------+
+
+   | 68 |
+
+
+
+   |  garrisons xxxx locs xxxx taxes xxxx combats xxxx auraculi xxxx      |
+   |  deaths xxxx prisoners xxxx                                          |
+   +----------------------------------------------------------------------+
+
+Add random view of a starting city to the Times each month
+
+Combat figures/men issue
+
+
+
+New unique artifacts:
+
+
+Dagger of Fire:
+	A gold and jewel encrusted blade which burns the minds
+	of nearby mages.  The Dagger inhibits the natural weekly
+	aura regeneration, as well as aura recovery via Meditation,
+	Advanced Meditation, and Trance, in the immediate and
+	adjacent provinces.
+
+Sceptre of Birth:
+	USE of the sceptre will yield a random treasure
+	to the noble holding it (gold, rare book, aura boost
+	for mages, etc.)
+
+	The Sceptre may only be used once per faction.
+
+	Giving the sceptre to a noble belonging to a faction
+	which has never held it before will yield 1 NP to
+	the giver.
+
+Orb of Darkness:
+	The Orb of Darkness is an aura sink.  It drains 2 aura per
+	week from every mage located in the same province, and 1
+	aura per week from every mage located in adjacent provinces.
+
+Horn of Fear
+	The Horn of Fear produces an unearthly, terrifying wail, which
+	frightens men and beasts.  When heard in foggy provinces, all
+	men and beasts suffer a 50% chance of desertion, either by
+	madness, fighting amongst themselves, or simply freeing in
+	terror.
+
+	The Horn may be heard throughout the province in which it is
+	blown, as well as in adjacent provinces.
+
+	The horn must be used in Hades to acquire its terrifying
+	power.  It may then be used once in the normal world, after
+	which is must be returned to Hades before it may be used
+	again.  The horn is ineffective in Faery.
+
+Imperial Throne
+	Long ago, the emperor of Olympia sat on his throne in the
+	emperor's palace, high amidst Mt. Olympus.  It is said that
+	whoever rebuilds the famed castle on Mt. Olympus, and sits
+	upon the throne, will be titled Emperor of Olympia.  It is
+	also believed that the Throne adds a powerful boost of aura
+	if the Emperor is also a mage.
+
+The ring
+	Grants invisibility to one who possesses it, and a 50%
+	bonus to vision and scry attempts.  Also helps to pierce
+	through scry and vision shields.  Yields 1 aura/week extra
+	aura recovery.
+
+	Loss of the ring (by either giving it or having it taken away)
+	causes the noble to immediately fall ill and lose half his
+	health.  If the noble is a mage, his permanent aura is halved.
+
+Artifacts may not be carried via teleportation.
+
+
+Stone to govern where the flying cloud city goes
+
+
+Cloudstone:
+	makes the route up to the Cloudlands solid for the turn
+
+Golden City
+	huge cost in gold to enter, per head
+	special market there or something, with really
+	expensive stuff for sale
+
+	figure inflation by averaging the wealth of
+	the top 5 factions
+
+	the fee to enter the Golden City should be a percentage
+
+	min 5000
+
+	must put some good stuff up for sale there though
+
+	fee decays 5%/turn if no one enters
+	fee rises 50% * num to enter per turn
+
+
+Hide a few unique interesting places in Faery & Hades somewhere
+
+	Cities?  Trade items for sale there, skills taught?
+
+create a few new nasties:
+
+	balrog
+	snakes
+	werewolf
+

@@ -1,0 +1,21 @@
+#Skill:  Fight to the death [9505]
+Usage:   USE @@@@ <flag>
+Time:    0 days
+
+Knowledge of @@@@ allows a leader to inspire troops to fight past
+their break point.  Such units will choose death instead of allowing
+themselves to be taken prisoner.
+
+Normally a side will break when its offensive plus defensive total
+falls by 50% or more.  When @@@@ is engaged, however, the troops
+will fight to the last man.
+
+Issue the order USE @@@@ 1 to cause troops to fight to the death.
+The normal 50% break point may be restored with the order USE @@@@ 0.
+
+During combat, only the stack leader's setting for @@@@ is checked.
+@@@@ works both for attacking and defending stacks.
+
+Note that prisoners may still be taken from a side fighting to the
+death, as wounded nobles may be too weak to resist being taken
+captive.

@@ -1,0 +1,244 @@
+74934:sail dj79
+74934:sail dj80
+74934:sail dj81
+74934:sail dj82
+74934:sail dk82
+74934:sail z33
+74934:move z33
+74934:recruit 1
+74934:move 131360
+74934:sail dk82
+74934:sail dj82
+74934:sail dj81
+74934:sail dj80
+74934:sail dj79
+74934:sail dj78
+74934:sail dj77
+74934:sail z68
+74934:move z68
+74934:train 12 1
+74934:move 131360
+74934:sail dj77
+74934:sail dj78
+74934:sail dj79
+74934:sail dj80
+74934:sail dj81
+74934:sail dj82
+74934:sail dk82
+74934:sail z33
+74934:move z33
+74934:recruit 1
+74934:move 131360
+74934:sail dk82
+74934:sail dj82
+74934:sail dj81
+74934:sail dj80
+74934:sail dj79
+74934:sail dj78
+74934:sail dj77
+74934:sail z68
+74934:move z68
+74934:train 12 1
+74934:move 131360
+74934:sail dj77
+74934:sail dj78
+74934:sail dj79
+74934:sail dj80
+74934:sail dj81
+74934:sail dj82
+74934:sail dk82
+74934:sail z33
+74934:move z33
+74934:recruit 1
+74934:move 131360
+74934:sail dk82
+74934:sail dj82
+74934:sail dj81
+74934:sail dj80
+74934:sail dj79
+74934:sail dj78
+74934:sail dj77
+74934:sail z68
+74934:move z68
+74934:train 12 1
+74934:move 131360
+74934:sail dj77
+74934:sail dj78
+74934:sail dj79
+74934:sail dj80
+74934:sail dj81
+74934:sail dj82
+74934:sail dk82
+74934:sail z33
+74934:move z33
+74934:recruit 1
+74934:move 131360
+74934:sail dk82
+74934:sail dj82
+74934:sail dj81
+74934:sail dj80
+74934:sail dj79
+74934:sail dj78
+74934:sail dj77
+74934:sail z68
+74934:move z68
+74934:train 12 1
+74934:move 131360
+74934:sail dj77
+74934:sail dj78
+74934:sail dj79
+74934:sail dj80
+74934:sail dj81
+74934:sail dj82
+74934:sail dk82
+74934:sail z33
+74934:move
+74934:explore
+74934:explore
+74934:explore
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 281
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 281
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 282
+62351:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:breed 282 282
+61272:use 614
+61272:use 615
+61272:use 615
+77178:recruit
+77178:move fb54
+77178:wood
+77178:recruit
+77178:train 12 0
+77178:wood
+77178:recruit
+77178:move fc54
+77178:quarry
+77178:recruit
+77178:move fc53
+77178:quarry
+77178:recruit
+77178:move fc52
+77178:quarry
+77178:recruit
+77178:move fd52
+77178:recruit
+77178:study 631
+77178:study 631
+77178:explore
+77178:explore
+66438:use 813
+66438:use 813
+66438:use 922 g528 n336 1
+66438:breed 282 282
+66438:breed 282 282
+66438:breed 282 282
+66438:breed 282 282
+66438:breed 282 282
+66438:breed 282 282
+103685:stop
+103685:move ds67
+103685:attack garrison
+103685:garrison 4851
+103685:move dv67
+103685:garrison 4851
+103685:recruit
+103685:train 12 0
+103685:move dw67
+103685:garrison 4851
+103685:recruit
+103685:train 12 0
+103685:move dw68
+103685:garrison 4851
+103685:recruit
+103685:move dw69
+103685:garrison 4851
+103685:recruit
+103685:move dw70
+103685:garrison 4851
+103685:recruit
+103685:move dw71
+103685:garrison 4851
+103685:recruit
+103685:explore
+103685:explore
+103685:explore
+103685:explore
+108160:move dq82
+108160:move dq83
+108160:move 8306
+61250:stop
+61250:move dr82
+61250:garrison 8306
+61250:give garrison 16 10
+61250:get garrison 12 0
+61250:move ds82
+61250:garrison 8306
+61250:give garrison 16 10
+61250:get garrison 12 0
+61250:move dt82
+61250:ungarrison
+61250:garrison 8306
+61250:give garrison 21 0
+61250:explore
+61250:explore
+61250:explore
+65888:use 922 t023 85090 1
+65888:use 922 t023 v985 1
+65888:make 53 0
+65888:train 14 0
+65888:breed 55 55
+65888:breed 55 55
+65888:breed 55 55
+65888:breed 55 55
+82543:stop
+82543:study 630
+82543:study 630
+82543:recruit
+82543:train 12 0
+82543:use 615
+82543:use 615
+82543:use 615
+82543:use 615
+82543:use 615
+82543:use 615
+82543:explore
+82543:explore
+82543:explore
+142253:study 611
+142253:study 611
+142253:attack garrison
+142253:garrison 4851
+142253:recruit
+142253:train 12 0
+142253:attack garrison
+142253:garrison 4851
+142253:move w
+142253:recruit
+142253:train 12 0
+50615:accept 0 0

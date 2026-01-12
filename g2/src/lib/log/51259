@@ -1,0 +1,233 @@
+16210:0::0:0:Garrison~[4272], garrison, with four~oxen, 16~sailors guards Forest~[dc10].
+16210:0::0:4:It has begun to rain.
+58423:0::0:15:Red Dragon~[82992], with 16~winged horses, exited Port Aurnos~[v63].
+16210:0::0:15:Red Dragon~[82992], with 16~winged horses, arrived from Port Aurnos~[v63].
+58423:0::0:16:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, exited Port Aurnos~[v63].
+16210:0::0:16:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, arrived from Port Aurnos~[v63].
+16210:0::0:17:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, went east.
+16210:0::0:19:Zygmunt~[95307] cut 30~wood.
+16210:0::0:25:Red Dragon~[82992] recruited ten~peasants.
+16210:0::0::
+16210:0::0::Province controlled by Castle Silence~[h862], castle, in Plain~[db13]
+16210:0::0::Ruled by Kitla~[3462], marquess
+16210:0::0::
+16210:0::0::Routes leaving Forest: 
+16210:0::3::North, to Forest~[db10], 8~days
+16210:0::3::East, to Forest~[dc11], 8~days
+16210:0::3::South, to Ocean~[dd10], Great Sea, impassable
+16210:0::3::West, to Ocean~[dc09], Great Sea, impassable
+16210:0::0::
+16210:0::0::Inner locations:
+16210:0::3::Port Aurnos~[v63], port city, safe haven, 1 day
+16210:0::0::
+16210:0::0::It is raining.
+16210:0::0::
+16210:0::0::Seen here:
+16210:0::0/3::   Garrison~[4272], garrison, on guard, with four~oxen, 16~sailors
+16210:0::0/3::   Zygmunt~[95307], with four~peasants, ten~workers, five~winged horses
+16210:0::0/3::   Red Dragon~[82992], "{<i>}Greyfell Dragons{</i>}", with 16~winged horses, ten~peasants
+58423:0::0::
+58423:0::0::Routes leaving Port Aurnos: 
+58423:0::3::South, to Ocean~[dd10], Great Sea, 1~day
+58423:0::3::West, to Ocean~[dc09], Great Sea, 1~day
+58423:0::3::Out, to Forest~[dc10], 1~day
+58423:0::0::
+58423:0::0::Cities rumored to be nearby:
+58423:0::3::Sigil~[f82], in Plain~[db13]
+58423:0::0::
+58423:0::0::Skills taught here:
+58423:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58423:0::0::
+58423:0::0::Market report:
+58423:0::3::
+58423:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58423:0::3::-----    ---   -----    ---     -----   ----                     
+58423:0::3::  buy 104748       5     10        10   iron~[79]                
+58423:0::3::  buy    v63     137     47        72   chocolate~[m585]         
+58423:0::3::  buy    v63     128      5        50   hides~[99]               
+58423:0::3::  buy    v63     199     42        30   jeweled eggs~[w973]      
+58423:0::3::  buy    v63       2    100         2   fish~[87]                
+58423:0::3::  buy    v63       4     15         1   woven baskets~[94]       
+58423:0::3:: sell    v63      50     10       100   pitch~[261]              
+58423:0::3:: sell    v63     140      2       100   ivory~[k845]             
+58423:0::3:: sell    v63      11     48       100   salt~[z752]              
+58423:0::3:: sell    v63      30     46        43   tea~[q556]               
+58423:0::3:: sell    v63      12     40       100   salt~[h526]              
+58423:0::3:: sell    v63      12     25        30   wood~[77]                
+58423:0::0::
+58423:0::0::Inner locations:
+58423:0::3::L.S.E~[9108], tower, defense~40
+58423:0::3::Empty Coffers~[w698], tower, defense~40, "MT"
+58423:0::0::
+58423:0::0::It is raining.
+58423:0::0::
+58423:0::0::Seen here:
+58423:0::0/3::   Thorleik~[131616]
+58423:0::0/3::   Gerabaldi~[131891]
+58423:0::0/3:: * Londo Mollari~[n631], accompanied~by:
+58423:0::0/6:: *    Vir~[n611]
+58423:0::0/3::   Qunix~[8231]
+58423:0::0/3::   Docken~[106928], with 22~winged horses
+58423:0::0/3::   Narf~[136313], with 20~workers
+58423:0::0/3::   Bertain~[104748], with ten~workers
+58423:0::0/3::   Black Dragon~[96859], "{<i>}Greyfell Dragons{</i>}", with 19~winged horses
+58423:0::0/3::   Red Knight~[131218], "{<i>}Greyfell Dragons{</i>}", with 14~winged horses
+58423:0::0::
+58423:0::0::Ships docked at port:
+58423:0::3/3::Runtings warrior~[4330], galley-in-progress, 38% completed, 0% loaded
+58423:0::3/3::Sword of the Sea~[7851], galley, 0% loaded, defense~20
+58423:0::3/3::Trinity~[9198], galley, 0% loaded, defense~20
+58423:0::3/3::Glory Hunter~[6102], roundship-in-progress, 38% completed, 0% loaded
+58423:0::3/3::The Seagull~[4997], roundship, 0% loaded, defense~10
+5:0::0::
+5:0::0::begin ev9  # Centori
+5:0::0::
+5:0::0::unit ev9  # Centori
+5:0::0::
+5:0::0::unit n631  # Londo Mollari in Port Aurnos~[v63]
+5:0::0::
+5:0::0::unit n611  # Vir in Port Aurnos~[v63]
+5:0::0::
+5:0::0::end
+51259:0::0::
+51259:0::0::Unclaimed items:
+51259:0::0::
+51259:0::0::      qty  name                              weight
+51259:0::0::      ---  ----                              ------
+51259:0::0::    6,775  gold~[1]                               0  
+51259:0::0::       50  wood~[77]                          1,500  
+51259:0::0::      100  stone~[78]                        10,000  
+69611:0::3::
+69611:0::3/16::Location:       Port Aurnos~[v63], in province Forest~[dc10], in Provinia
+69611:0::3::Loyalty:        Oath-1
+69611:0::3/16::Stacked under:  Londo Mollari~[n631]
+69611:0::3::Health:         100%
+69611:0::3::Combat:         attack 80, defense 80, missile 0
+69611:0::3::                behind 0  (front line in combat)
+69611:0::3::Break point:    50%
+69611:0::3::
+69611:0::3::Skills known:
+69611:0::6::Forestry~[700]
+69611:0::3::
+69611:0::3::Vir~[n611] has no possessions.
+69611:0::3::
+69611:0::3/11::Capacity:  0/100 land (0%)
+69611:0::3::
+69631:0::3::
+69631:0::3/16::Location:       Port Aurnos~[v63], in province Forest~[dc10], in Provinia
+69631:0::3::Loyalty:        Oath-2
+69631:0::3::Stacked over:   Vir~[n611]
+69631:0::3::Health:         100%
+69631:0::3::Combat:         attack 80, defense 80, missile 0
+69631:0::3::                behind 0  (front line in combat)
+69631:0::3::Break point:    50%
+69631:0::3::
+69631:0::3::Skills known:
+69631:0::6::Combat~[610]
+69631:0::3::
+69631:0::3::Londo Mollari~[n631] has no possessions.
+69631:0::3::
+69631:0::3/11::Capacity:  0/100 land (0%)
+69631:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Centori~[ev9].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/ev9/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [ev9]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         2  116th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    2/74  120th  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:           0/31,919  120th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  31     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  f267 n133 f268 f957 p982
+0:0::0::
+0:0::0::65 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::n631   v63    o2    100  0                                    Londo Mollari
+0:0::0::n611   v63    o1    100  0                             n631   Vir
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                                                      
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[dc10]
+0:0::0::    Port Aurnos~[v63]              Londo Mollari~[n631]
+0:0::0::                                     Vir~[n611]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  n631         200        200   0%                                
+0:0::0::  n611         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Centori~[ev9]"><font size=+1><b>Centori~[ev9]</b></font>
+1:2::0::<hr>
+1:1::0::Centori~[ev9]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51259
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Londo Mollari~[n631]"><font size=+1><b>Londo Mollari~[n631]</b></font>
+1:2::0::<hr>
+1:1::0::Londo Mollari~[n631]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 69631
+1:0::0::
+1:2::0::
+1:2::0::<name="Vir~[n611]"><font size=+1><b>Vir~[n611]</b></font>
+1:2::0::<hr>
+1:1::0::Vir~[n611]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 69611
+1:2::0::
+1:2::0::<name="Forest~[dc10]"><font size=+1><b>Forest~[dc10]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dc10], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16210
+1:0::0::
+1:2::0::
+1:2::0::<name="Port Aurnos~[v63]"><font size=+1><b>Port Aurnos~[v63]</b>, port city, in province Forest~[dc10], safe haven</font>
+1:2::0::<hr>
+1:1::0::Port Aurnos~[v63], port city, in province Forest~[dc10], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58423
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

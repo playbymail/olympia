@@ -1,0 +1,175 @@
+14490:0::0:0:Garrison~[7105], garrison, with four~soldiers, six~workers, one~cyclops, three~elite guard, nine~giant lizards, 15~riding horses guards Trader's Haven~[cf90].
+16022:0::0:0:Garrison~[8335], garrison, with ten~soldiers guards Plain~[da22].
+16028:0::0:0:Garrison~[9870], garrison, with ten~peasants guards Mountain~[da28].
+13875:0::0:0:Garrison~[d836], garrison, with 18~peasants, 16~workers guards Musketeer Lands~[bx75].
+13875:0::0:4:It has begun to rain.
+14490:0::0:4:It has begun to rain.
+13824:0::0:5:Parran the Wanderer~[k511] attacks Pirate~[138503]!
+13824:0::3:5:
+13824:0::3:5:Parran the Wanderer~[k511], wielding Elven Longsword~[134984], wearing Elven Chainmail~[127514], with seven~soldiers, five~sailors, 19~pirates, three~winged horses, accompanied~by:
+13824:0::6/3:5:Exedor the Gaunt~[x536], master of the black arts, behind~9, with one~soldier, nine~archers, four~winged horses
+13824:0::3:5:
+13824:0::3:5:Pirate~[138503], pirates, number:~30
+138503:0::0:5:Parran the Wanderer~[k511] attacks us!
+13824:0::0:5:
+13824:0::0:5:Parran the Wanderer~[k511] is victorious!
+138503:0::0:5:We lost!
+13824:0::0:5:
+13824:0::3:5:Parran the Wanderer lost five~soldiers, 12~pirates.
+13824:0::0:5:
+13824:0::3:5:Pirate lost 29~pirates.
+138503:0::0:5:Pirate~[138503] lost 29~pirates.
+13824:0::3:5:Pirate~[138503] was destroyed.
+13824:0::0:5:
+138503:0::0:5:*** Pirate has died ***
+13333:0::0:10:Baldric~[9569] attacks Cyclops~[82341]!
+13333:0::3:10:
+13333:0::3:10:Baldric~[9569], wielding enchanted dagger~[a160], wearing magic shield~[110238], with five~workers, 19~soldiers, 45~pikemen, eight~sailors, one~winged horse
+13333:0::3:10:
+13333:0::3:10:Cyclops~[82341], cyclops, number:~5, with one~winged horse
+82341:0::0:10:Baldric~[9569] attacks us!
+13333:0::0:10:
+13333:0::0:10:Baldric~[9569] is victorious!
+82341:0::0:10:We lost!
+13333:0::0:10:
+13333:0::3:10:Baldric lost three~soldiers, one~pikeman.
+13333:0::0:10:
+13333:0::3:10:Cyclops lost four~cyclops.
+82341:0::0:10:Cyclops~[82341] lost four~cyclops.
+13333:0::3:10:Cyclops~[82341] was destroyed.
+13333:0::0:10:
+82341:0::0:10:*** Cyclops has died ***
+13560:0::0:13:Faeirfin~[w346] attacks Orc~[104401]!
+13560:0::3:13:
+13560:0::3:13:Faeirfin~[w346], wielding Dagger of Albrand~[114426], wearing magic shield~[84845], behind~3, with two~soldiers, nine~pikemen, 16~winged horses, 28~centaurs, nine~lions, five~chimera, seven~harpies, one~orc, five~gorgons, one~wolf, accompanied~by:
+13560:0::6/3:13:Faenor~[d405], wielding Spear of Antresk~[n501], behind~9, with ten~peasants, 42~crossbowmen
+13560:0::3:13:
+13560:0::3:13:Orc~[104401], orcs, number:~13
+104401:0::0:13:Faeirfin~[w346] attacks us!
+13560:0::0:13:
+13560:0::0:13:Faeirfin~[w346] is victorious!
+104401:0::0:13:We lost!
+13560:0::0:13:
+13560:0::3:13:Faeirfin lost one~soldier, four~centaurs, one~lion, one~gorgon.
+13560:0::0:13:
+13560:0::3:13:Orc lost 12~orcs.
+104401:0::0:13:Orc~[104401] lost 12~orcs.
+13560:0::3:13:Orc~[104401] was captured
+13560:0::0:13:
+104401:0::0:13:Orc~[104401] disbands.
+18470:0::0:14:Elephant~[v173] attacks Orc~[126865]!
+18470:0::3:14:
+18470:0::3:14:Elephant~[v173], wielding Longsword of Aldain~[g474], with 19~soldiers, 81~pikemen, nine~sailors, two~winged horses, one~rat, five~harpies, two~orcs, one~gorgon, six~cyclops
+18470:0::3:14:
+18470:0::3:14:Orc~[126865], orcs, number:~20
+126865:0::0:14:Elephant~[v173] attacks us!
+18470:0::0:14:
+18470:0::0:14:Elephant~[v173] is victorious!
+126865:0::0:14:We lost!
+18470:0::0:14:
+18470:0::3:14:Elephant lost two~soldiers, seven~pikemen.
+18470:0::0:14:
+18470:0::3:14:Orc lost 19~orcs.
+126865:0::0:14:Orc~[126865] lost 19~orcs.
+18470:0::3:14:Orc~[126865] was captured
+18470:0::0:14:
+126865:0::0:14:Orc~[126865] disbands.
+12649:0::0:16:Jes Wood~[108717] attacks Skeleton~[128407]!
+12649:0::3:16:
+12649:0::3:16:Jes Wood~[108717], wielding Sword of Delight~[j132] and elven spear~[120293], wearing Armor of Delight~[140185], with seven~winged horses, 39~elite guard, 40~blessed soldiers
+12649:0::3:16:
+12649:0::3:16:Skeleton~[128407], skeleton, number:~95
+128407:0::0:16:Jes Wood~[108717] attacks us!
+12649:0::0:16:
+12649:0::0:16:Jes Wood~[108717] is victorious!
+128407:0::0:16:We lost!
+12649:0::0:16:
+12649:0::3:16:Jes Wood lost three~elite guard, 21~blessed soldiers.
+12649:0::0:16:
+12649:0::3:16:Skeleton lost 94~skeleton.
+128407:0::0:16:Skeleton~[128407] lost 94~skeleton.
+12649:0::3:16:Skeleton~[128407] was destroyed.
+12649:0::0:16:
+128407:0::0:16:*** Skeleton has died ***
+13333:0::0:18:Baldric~[9569], wielding enchanted dagger~[a160], wearing magic shield~[110238], with five~workers, 16~soldiers, 44~pikemen, eight~sailors, two~winged horses, entered Tollus Shuttle~[133092].
+13333:0::0:18:Tollus Shuttle~[133092], roundship, 43% loaded, defense~10, 12%~damaged, departed for Ocean~[br33].
+13333:0::0:18:Tollus Shuttle~[133092], roundship, 43% loaded, defense~10, 12%~damaged, arrived from Island~[q853], owner:
+13333:0::0/3:18:   Baldric~[9569], wielding enchanted dagger~[a160], wearing magic shield~[110238], with five~workers, 16~soldiers, 44~pikemen, eight~sailors, two~winged horses
+13333:0::0:19:Tollus Shuttle~[133092], roundship, 43% loaded, defense~10, 12%~damaged, departed for Ocean~[br34].
+12649:0::0:21:Theopolis~[125377], with 71~wild horses, three~riding horses, arrived from the west.
+13143:0::0:21:Silva~[141808] attacks Cyclops~[106197]!
+13143:0::3:21:
+13143:0::3:21:Silva~[141808], wearing golden helm~[110303], behind~9, with ten~peasants, 24~soldiers, 53~pikemen, eight~sailors, six~pirates, seven~winged horses, accompanied~by:
+13143:0::6/3:21:Demon Lord~[88046], behind~9, with ten~crossbowmen
+13143:0::3:21:
+13143:0::3:21:Cyclops~[106197], cyclops, number:~3
+106197:0::0:21:Silva~[141808] attacks us!
+13143:0::0:21:
+13143:0::0:21:Silva~[141808] is victorious!
+106197:0::0:21:We lost!
+13143:0::0:21:
+13143:0::3:21:Silva lost one~pikeman, two~crossbowmen.
+13143:0::0:21:
+13143:0::3:21:Cyclops lost two~cyclops.
+106197:0::0:21:Cyclops~[106197] lost two~cyclops.
+13143:0::3:21:Cyclops~[106197] was destroyed.
+13143:0::0:21:
+106197:0::0:21:*** Cyclops has died ***
+12649:0::0:21:A roof has collapsed in a shaft in Geno's Mine~[119809]!
+12649:0::0:21:It has begun to rain.
+13143:0::0:22:Silva~[141808], wearing golden helm~[110303], with ten~peasants, 24~soldiers, 52~pikemen, eight~sailors, six~pirates, seven~winged horses, entered Seeker II~[v607], accompanied~by:
+13143:0::3/3:22:Demon Lord~[88046], with eight~crossbowmen
+13143:0::0:22:Seeker II~[v607], roundship, 90% loaded, defense~10, 19%~damaged, departed for Ocean~[bp43].
+13143:0::0:22:Seeker II~[v607], roundship, 90% loaded, defense~10, 19%~damaged, arrived from Island~[v409], owner:
+13143:0::0/3:22:   Silva~[141808], wearing golden helm~[110303], with ten~peasants, 24~soldiers, 52~pikemen, eight~sailors, six~pirates, seven~winged horses, accompanied~by:
+13143:0::0/6:22:      Demon Lord~[88046], with eight~crossbowmen
+13143:0::0:23:Seeker II~[v607], roundship, 90% loaded, defense~10, 19%~damaged, departed for Ocean~[bp42].
+77819:0::0:24:Jack Nicklaus~[9624] attacks Ratspider~[99206]!
+77819:0::3:24:
+77819:0::3:24:Jack Nicklaus~[9624], with six~elite guard, 13~pikemen, 21~winged horses, accompanied~by:
+77819:0::6/3:24:The Undertoad~[1937], wielding Bow of Bayarth~[g137], behind~1, with 24~crossbowmen, five~elite archers, 23~riding horses
+77819:0::3:24:
+77819:0::3:24:Ratspider~[99206], ratspiders, number:~19, with one~winged horse
+99206:0::0:24:Jack Nicklaus~[9624] attacks us!
+77819:0::0:24:
+77819:0::0:24:Jack Nicklaus~[9624] is victorious!
+99206:0::0:24:We lost!
+77819:0::0:24:
+77819:0::3:24:Jack Nicklaus lost one~pikeman.
+77819:0::0:24:
+77819:0::3:24:Ratspider lost 18~ratspiders.
+99206:0::0:24:Ratspider~[99206] lost 18~ratspiders.
+77819:0::3:24:Ratspider~[99206] was destroyed.
+77819:0::0:24:
+99206:0::0:24:*** Ratspider has died ***
+16028:0::0:26:It has begun to rain.
+16491:0::0:26:It has begun to rain.
+16022:0::0:26:It has begun to rain.
+17224:0::0:26:It has begun to rain.
+13824:0::0:27:Parran the Wanderer~[k511], wielding Elven Longsword~[134984], wearing Elven Chainmail~[127514], with two~soldiers, five~sailors, seven~pirates, three~winged horses, entered Patuxent~[6509], accompanied~by:
+13824:0::3/3:27:Exedor the Gaunt~[x536], master of the black arts, with one~soldier, nine~archers, four~winged horses
+13824:0::0:27:Patuxent~[6509], roundship, 47% loaded, defense~10, 17%~damaged, departed for Ocean~[bx24].
+12649:0::0:27:Theopolis~[125377] trained one~warmount.
+13824:0::0:27:Patuxent~[6509], roundship, 47% loaded, defense~10, 17%~damaged, arrived from Island~[t205], owner:
+13824:0::0/3:27:   Parran the Wanderer~[k511], wielding Elven Longsword~[134984], wearing Elven Chainmail~[127514], with two~soldiers, five~sailors, seven~pirates, three~winged horses, accompanied~by:
+13824:0::0/6:27:      Exedor the Gaunt~[x536], master of the black arts, with one~soldier, nine~archers, four~winged horses
+13824:0::0:28:Patuxent~[6509], roundship, 47% loaded, defense~10, 17%~damaged, departed for Ocean~[bz24].
+12649:0::0:29:Step Wood~[141342], with 49~soldiers, 26~workers, 12~winged horses, arrived from the north, accompanied~by:
+12649:0::3/3:29:Savage~[91133], savage, prisoner
+12649:0::0:30:Step Wood~[141342] attacks Geno's Mine~[119809]!
+12649:0::3:30:
+12649:0::3:30:Step Wood~[141342], with 24~blessed soldiers
+12649:0::3:30:
+12649:0::3:30:Geno's Mine~[119809], mine, defense~10, depth~3, 11%~damaged, owner:
+12649:0::6/3:30:Savage~[123172], savages, number:~16
+12649:0::0:30:
+12649:0::0:30:Step Wood~[141342] is victorious!
+12649:0::0:30:
+12649:0::3:30:Step Wood lost four~blessed soldiers.
+12649:0::0:30:
+12649:0::3:30:Savage lost 15~savages.
+12649:0::3:30:Savage~[123172] was taken prisoner.
+12649:0::0:30:
+12649:0::0:30:[141342] moved into [119809] as a result of combat.
+13333:0::0:30:It has stopped raining.
+13560:0::0:30:It has stopped raining.

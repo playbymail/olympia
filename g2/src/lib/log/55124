@@ -1,0 +1,397 @@
+15514:0::0:0:Garrison~[4157], garrison, with ten~workers, four~winged horses guards Mountain~[ct14].
+15415:0::0:0:Garrison~[7354], garrison, with ten~workers guards Plain~[cs15].
+56964:0::0:6:Ysrthgrathe~[9509], duke, with five~elite archers, five~riding horses, exited Abyss of Aras Nehem~[5253].
+56964:0::0:6:Argon City~[c04] bought nine~clay pots~[95] from Ysrthgrathe~[9509] for 63~gold.
+56964:0::0:6:Ysrthgrathe~[9509], duke, with five~elite archers, five~riding horses, entered Abyss of Aras Nehem~[5253].
+15415:0::0:21:It has begun to rain.
+15415:0::0::
+15415:0::0::Province controlled by Abyss of Aras Nehem~[5253], castle, in Mountain~[ct14]
+15415:0::0::Ruled by Ysrthgrathe~[9509], duke
+15415:0::0::
+15415:0::0::Routes leaving Plain: 
+15415:0::3::North, to Plain~[cr15], 7~days
+15415:0::3::East, to Mountain~[cs16], 10~days
+15415:0::3::South, to Forest~[ct15], impassable
+15415:0::6::A magical barrier prevents entry.
+15415:0::3::West, to Plain~[cs14], 7~days
+15415:0::0::
+15415:0::0::Inner locations:
+15415:0::3::Travar~[g96], city, 1 day
+15415:0::3::Rocky hill~[n437], rocky hill, 1 day
+15415:0::0::
+15415:0::0::It is raining.
+15415:0::0::
+15415:0::0::Seen here:
+15415:0::0/3::   Garrison~[7354], garrison, on guard, with ten~workers
+15415:0::0/3:: * Xerxes~[5285], with two~riding horses
+15514:0::0::
+15514:0::0::Province controlled by Abyss of Aras Nehem~[5253], castle, in Mountain~[ct14]
+15514:0::0::Ruled by Ysrthgrathe~[9509], duke
+15514:0::0::
+15514:0::0::Routes leaving Mountain: 
+15514:0::3::North, to Plain~[cs14], 7~days
+15514:0::3::East, to Forest~[ct15], impassable
+15514:0::6::A magical barrier prevents entry.
+15514:0::3::South, to Forest~[cv14], 8~days
+15514:0::3::West, to Desert~[ct13], impassable
+15514:0::6::A magical barrier prevents entry.
+15514:0::0::
+15514:0::0::Inner locations:
+15514:0::3::Argon City~[c04], city, 1 day
+15514:0::0::
+15514:0::0::It is raining.
+15514:0::3::Rain~[117075], storm, strength~1
+15514:0::0::
+15514:0::0::Seen here:
+15514:0::0/3::   Garrison~[4157], garrison, on guard, with ten~workers, four~winged horses
+56964:0::0::
+56964:0::0::Routes leaving Argon City: 
+56964:0::3::Out, to Mountain~[ct14], 1~day
+56964:0::0::
+56964:0::0::Cities rumored to be nearby:
+56964:0::3::Halhere~[b44], in Forest~[cw15]
+56964:0::3::Farshadow~[b56], in Desert~[ct19]
+56964:0::3::Travar~[g96], in Plain~[cs15]
+56964:0::3::Estbeorn~[j23], in Mountain~[cs16]
+56964:0::3::Thyria~[n44], in Mountain~[cr14]
+56964:0::3::Myhra~[q95], in The Icy Black Forest~[cn15]
+56964:0::3::Haemfrith~[v86], in Forest~[cr19]
+56964:0::3::Riverwind~[z24], in Forest~[cw14]
+56964:0::0::
+56964:0::0::Skills taught here:
+56964:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Mining~[720], Magic~[800], Scrying~[840]
+56964:0::0::
+56964:0::0::Market report:
+56964:0::3::
+56964:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+56964:0::3::-----    ---   -----    ---     -----   ----                     
+56964:0::3::  buy    c04       7      9         5   clay pots~[95]           
+56964:0::3:: sell    c04      26      2        10   iron~[79]                
+56964:0::0::
+56964:0::0::Inner locations:
+56964:0::3::Abyss of Aras Nehem~[5253], castle, defense~80, level~6, owner:
+56964:0::0/6::      Ysrthgrathe~[9509], duke, with five~elite archers, five~riding horses
+56964:0::6::Rift~[8311], tower, defense~40
+56964:0::6::Crypt~[7634], tower, defense~40, owner:
+56964:0::0/9:: *       The Reaver~[4080], 5th black circle
+56964:0::0/9:: *       Berserker~[7298], sorcerer, with one~winged horse
+56964:0::6::Deep~[m054], tower, defense~40
+56964:0::3::Altar of Raggok~[3481], temple, defense~10
+56964:0::3::Universal Church~[3042], temple, defense~10
+56964:0::0::
+56964:0::0::It is raining.
+5:0::0::
+5:0::0::begin ts4 "blind8"  # War's Moneychanger
+5:0::0::
+5:0::0::unit ts4  # War's Moneychanger
+5:0::0::
+5:0::0::unit 5285  # Xerxes in Plain~[cs15]
+5:0::0::
+5:0::0::unit 4080  # The Reaver in Crypt~[7634]
+5:0::0::
+5:0::0::unit 7298  # Berserker in Crypt~[7634]
+5:0::0::
+5:0::0::end
+55124:0::0::
+55124:0::0::Admit permissions:
+55124:0::0::
+55124:0::3::admit 4080  qb7  ug8
+55124:0::3::admit 5253  qb7  ug8
+55124:0::3::admit 5285  qb7  ug8
+55124:0::3::admit 7298  qb7  ug8
+55124:0::3::admit 7634  qb7  ug8
+55124:0::0::
+55124:0::0::Declared attitudes:
+55124:0::3::defend   qb7  ug8
+55124:0::0::
+55124:0::0::Unclaimed items:
+55124:0::0::
+55124:0::0::      qty  name                              weight
+55124:0::0::      ---  ----                              ------
+55124:0::0::    3,635  gold~[1]                               0  
+4080:0::3::
+4080:0::3/16::Location:       Crypt~[7634], in Abyss of Aras Nehem~[5253], in Argon City~[c04], in province Mountain~[ct14], in Provinia
+4080:0::3::Loyalty:        Oath-2
+4080:0::3::Health:         100%
+4080:0::3::Combat:         attack 80, defense 80, missile 0
+4080:0::3::                behind 0  (front line in combat)
+4080:0::3::Break point:    50%
+4080:0::3::use  641 1      (concealing self)
+4080:0::3/16::Pledged to:     Truvor~[k105]
+4080:0::3::
+4080:0::3::Current aura:   48
+4080:0::3::Maximum aura:   48
+4080:0::3::Project cast:   Swamp~[db14]
+4080:0::3::
+4080:0::3::Skills known:
+4080:0::6::Stealth~[630]
+4080:0::12::Conceal self~[641], apprentice
+4080:0::6::Magic~[800]
+4080:0::12::Meditate~[801], journeyman
+4080:0::12::Perform common tasks for gold~[802], journeyman
+4080:0::12::Appear common~[803], journeyman
+4080:0::12::View current aura level of others~[804], apprentice
+4080:0::12::Reveal abilities of another mage~[805], apprentice
+4080:0::12::Tap health for aura~[806], apprentice
+4080:0::12::Advanced meditation~[813], journeyman
+4080:0::6::Weather magic~[820]
+4080:0::12::Fierce wind~[821], apprentice
+4080:0::12::Bind storm to ship~[822], apprentice
+4080:0::12::Scribe weather symbols~[823], apprentice
+4080:0::12::Summon rain~[824], apprentice
+4080:0::12::Summon wind~[825], apprentice
+4080:0::12::Summon fog~[826], apprentice
+4080:0::12::Direct storm~[827], apprentice
+4080:0::12::Dissipate storm~[828], apprentice
+4080:0::12::Renew storm strength~[829], apprentice
+4080:0::12::Lightning bolt~[831], apprentice
+4080:0::12::Seize control of storm~[832], apprentice
+4080:0::12::Fog of death~[833], apprentice
+4080:0::6::Scrying~[840]
+4080:0::12::Scry location~[841], apprentice
+4080:0::12::Shroud location from magical scry~[842], apprentice
+4080:0::12::Create magical barrier~[845], apprentice
+4080:0::12::Farcasting~[849], apprentice
+4080:0::6::Gatecraft~[860]
+4080:0::12::Teleport~[861], apprentice
+4080:0::12::Detect gates~[862], apprentice
+4080:0::12::Reveal gate key~[868], apprentice
+4080:0::12::Notify of gate jumps~[869], apprentice
+4080:0::12::Language of the Ancients~[871], apprentice
+4080:0::12::Reverse jump through gate~[872], apprentice
+4080:0::6::Artifact construction~[880]
+4080:0::12::Forge auraculum~[881], apprentice
+4080:0::12::Reveal creator of artifact~[882], apprentice
+4080:0::12::Reveal where artifact was created~[883], apprentice
+4080:0::6::Necromancy~[900]
+4080:0::12::Transcend death~[901], apprentice
+4080:0::12::Runes of Evil~[902], apprentice
+4080:0::12::Summon ghost warriors~[903], apprentice
+4080:0::12::Raise undead~[904], apprentice
+4080:0::12::Summon demon lord~[905], apprentice
+4080:0::12::Renew demon bond~[906], apprentice
+4080:0::12::Banish demon lord~[907], apprentice
+4080:0::12::Eating of the dead~[908], apprentice
+4080:0::12::Aura blast~[909], apprentice
+4080:0::12::Absorb aura blast~[911], apprentice
+4080:0::3::
+4080:0::3::Inventory:
+4080:0::3::{<b>}      qty  name                              weight{</b>}
+4080:0::3::      ---  ----                              ------
+4080:0::3::      168  gold~[1]                               0  
+4080:0::3::                                             ======
+4080:0::3::                                                  0
+4080:0::3::
+4080:0::3/11::Capacity:  0/100 land (0%)
+4080:0::3::
+5285:0::3::
+5285:0::3/16::Location:       Plain~[cs15], in Provinia
+5285:0::3::Loyalty:        Oath-1
+5285:0::3::Health:         100%
+5285:0::3::Combat:         attack 80, defense 80, missile 0
+5285:0::3::                behind 0  (front line in combat)
+5285:0::3::Break point:    0% (fight to the death)
+5285:0::3::
+5285:0::3::Declared attitudes:
+5285:0::6::neutral 1117 2608 4689 4941 6403 6789 9551
+5285:0::3::
+5285:0::3::Skills known:
+5285:0::6::Shipcraft~[600]
+5285:0::6::Combat~[610]
+5285:0::12::Fight to the death~[612]
+5285:0::12::Weaponsmithing~[617], apprentice
+5285:0::6::Stealth~[630]
+5285:0::6::Trade~[730]
+5285:0::12::Conceal identity of trader~[731], apprentice
+5285:0::12::Find tradegood for sale~[732], apprentice
+5285:0::12::Find market for tradegood~[733], apprentice
+5285:0::3::
+5285:0::3::Inventory:
+5285:0::3::{<b>}      qty  name                              weight{</b>}
+5285:0::3::      ---  ----                              ------
+5285:0::3::    6,472  gold~[1]                               0  
+5285:0::3::        2  riding horses~[52]                 2,000  ride 300
+5285:0::3::                                             ======
+5285:0::3::                                              2,000
+5285:0::3::
+5285:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%)
+5285:0::3::
+7298:0::3::
+7298:0::3/16::Location:       Crypt~[7634], in Abyss of Aras Nehem~[5253], in Argon City~[c04], in province Mountain~[ct14], in Provinia
+7298:0::3::Loyalty:        Oath-1
+7298:0::3::Health:         100%
+7298:0::3::Combat:         attack 80, defense 80, missile 50
+7298:0::3::                behind 1  (stay behind in combat)
+7298:0::3::Break point:    50%
+7298:0::3::Receive Vision: 1 protection
+7298:0::3::
+7298:0::3::Current aura:   22
+7298:0::3::Maximum aura:   22
+7298:0::3::
+7298:0::3::Skills known:
+7298:0::6::Combat~[610]
+7298:0::12::Archery~[615], apprentice
+7298:0::12::Weaponsmithing~[617], apprentice
+7298:0::6::Construction~[680]
+7298:0::6::Forestry~[700]
+7298:0::12::Harvest lumber~[702], apprentice
+7298:0::6::Magic~[800]
+7298:0::12::Meditate~[801], apprentice
+7298:0::12::Perform common tasks for gold~[802], journeyman
+7298:0::12::Appear common~[803], apprentice
+7298:0::12::Reveal abilities of another mage~[805], apprentice
+7298:0::12::Heal~[807], apprentice
+7298:0::12::Detect ability scry~[811], apprentice
+7298:0::12::Advanced meditation~[813], apprentice
+7298:0::6::Scrying~[840]
+7298:0::12::Scry location~[841], apprentice
+7298:0::12::Shroud location from magical scry~[842], apprentice
+7298:0::12::Dispel location shroud~[843], apprentice
+7298:0::12::Ciphered writing of Areth-Pirn~[844], journeyman
+7298:0::12::Create magical barrier~[845], apprentice
+7298:0::12::Remove magical barrier~[846], apprentice
+7298:0::12::Locate character~[847], apprentice
+7298:0::12::Detect location scry~[848], apprentice
+7298:0::12::Farcasting~[849], apprentice
+7298:0::12::Save farcast state~[851], apprentice
+7298:0::12::Banish undead~[852], apprentice
+7298:0::6::Artifact construction~[880]
+7298:0::12::Forge auraculum~[881], apprentice
+7298:0::3::
+7298:0::3::Partially known skills:
+7298:0::6/6::Shroud abilities from scry~[809], 14/21
+7298:0::3::
+7298:0::3::Inventory:
+7298:0::3::{<b>}      qty  name                              weight{</b>}
+7298:0::3::      ---  ----                              ------
+7298:0::3::      200  gold~[1]                               0  
+7298:0::3::        1  winged horse~[54]                  1,000  fly 150
+7298:0::3::        2  ratspiders~[81]                        2   (5,5,0)
+7298:0::3::        1  Magic potion~[n430]                    1  
+7298:0::3::        1  Orb~[w299]                             1  
+7298:0::3::                                             ======
+7298:0::3::                                              1,004
+7298:0::3::
+7298:0::3/11::Capacity:  4/250 land (1%), 104/150 ride (69%), 104/150 fly (69%)
+7298:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for War's Moneychanger~[ts4].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/ts4/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [ts4]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         3  104th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           6,840  76th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   14/74  104th  
+0:0::3/41::Spells known:                   57/79  47th   
+0:0::3/41::Provinces visited:         151/31,919  98th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  27     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  2714 8817 9304 5016 4780
+0:0::0::
+0:0::0::1 fast study day are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::5285   cs15   o1    100  0    6472                            Xerxes
+0:0::0::4080   7634   o2    100  0 48  168                            The Reaver
+0:0::0::7298   7634   o1    100  1 22  200                            Berserker
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              6840                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Plain~[cs15]                     Xerxes~[5285]
+0:0::0::  Mountain~[ct14]
+0:0::0::    Argon City~[c04]
+0:0::0::      Abyss of Aras Nehem~[5253]
+0:0::0::      Crypt~[7634]                 The Reaver~[4080]
+0:0::0::                                   Berserker~[7298]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  5285       2,100        400   0%        200  33%                
+0:0::0::  4080         100        100   0%                                
+0:0::0::  7298       1,104        246   1%         46  69%         46  69%
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="War's Moneychanger~[ts4]"><font size=+1><b>War's Moneychanger~[ts4]</b></font>
+1:2::0::<hr>
+1:1::0::War's Moneychanger~[ts4]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55124
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Xerxes~[5285]"><font size=+1><b>Xerxes~[5285]</b></font>
+1:2::0::<hr>
+1:1::0::Xerxes~[5285]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5285
+1:0::0::
+1:2::0::
+1:2::0::<name="The Reaver~[4080]"><font size=+1><b>The Reaver~[4080]</b></font>
+1:2::0::<hr>
+1:1::0::The Reaver~[4080]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4080
+1:0::0::
+1:2::0::
+1:2::0::<name="Berserker~[7298]"><font size=+1><b>Berserker~[7298]</b></font>
+1:2::0::<hr>
+1:1::0::Berserker~[7298]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7298
+1:2::0::
+1:2::0::<name="Plain~[cs15]"><font size=+1><b>Plain~[cs15]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[cs15], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15415
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[ct14]"><font size=+1><b>Mountain~[ct14]</b>, mountain, in Provinia, civ-6</font>
+1:2::0::<hr>
+1:1::0::Mountain~[ct14], mountain, in Provinia, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15514
+1:0::0::
+1:2::0::
+1:2::0::<name="Argon City~[c04]"><font size=+1><b>Argon City~[c04]</b>, city, in province Mountain~[ct14]</font>
+1:2::0::<hr>
+1:1::0::Argon City~[c04], city, in province Mountain~[ct14]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 56964
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

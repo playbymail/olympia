@@ -1,0 +1,2529 @@
+58318:0::0:0:Garrison~[1804], garrison, with 72~pikemen guards Moon Shadow~[t58].
+14648:0::0:0:Garrison~[2078], garrison, with ten~soldiers guards Swamp~[ch48].
+57149:0::0:0:Garrison~[2441], garrison, with 148~pikemen guards Agnar~[d89].
+14707:0::0:0:Garrison~[3308], garrison, with ten~soldiers guards Quinqueroi~[cj07].
+13750:0::0:0:Garrison~[3987], garrison, with ten~soldiers guards Llangollen Mountain Ridge~[bw50].
+13650:0::0:0:Garrison~[5558], garrison, with eight~workers, two~peasants guards Dencedian Plains~[bv50].
+39378:0::0:0:Garrison~[7277], garrison, with ten~peasants guards Cloud~[sr78].
+15854:0::0:0:Garrison~[7444], garrison, with ten~soldiers guards East Kastria Swamp~[cx54].
+15351:0::0:0:Garrison~[8760], garrison, with ten~soldiers guards Forest~[cr51].
+15350:0::0:0:Garrison~[9472], garrison, with 24~soldiers, 23~workers, five~peasants guards Mt. Olympus~[cr50].
+13749:0::0:0:Garrison~[109302], garrison, with ten~soldiers guards Llangollen Mountain Ridge~[bw49].
+14947:0::0:0:Garrison~[110974], garrison, with ten~soldiers guards Forest~[cm47].
+13649:0::0:0:Garrison~[126806], garrison, with ten~peasants guards Mountain~[bv49].
+14841:0::0:0:Garrison~[133047], garrison, with ten~soldiers, 15~oxen guards Dragons Peak~[ck41].
+68595:0::0:0:> stop
+68595:0::0:0:Interrupt current order.
+74536:0::0:0:> stop
+74536:0::0:0:Interrupt current order.
+53513:0::0:0:> accept 0 0
+58318:0::0:1:Shadow Knight~[t941] bought two~iron~[79] from Moon Shadow~[t58] for 50~gold.
+76164:0::0:1:> execute 92614
+76164:0::0:1:Lady Evalin~[w164] executes Savage~[92614]!
+76164:0::0:1:Savage~[92614] has died.
+76164:0::0:1:Savage~[92614] unstacks from us.
+74536:0::0:1:> execute 137978
+74536:0::0:1:Richard Harrington~[t536] executes Savage~[137978]!
+74536:0::0:1:Savage~[137978] has died.
+74536:0::0:1:Savage~[137978] unstacks from us.
+68595:0::0:1:> drop 11 0
+68595:0::0:1:Dropped.
+68595:0::0:1:> drop 12 0
+68595:0::0:1:Dropped.
+68595:0::0:1:> drop 98 0
+68595:0::0:1:Lord Grum~[m595] does not have any [98].
+74720:0::0:1:> sell 95 0
+74720:0::0:1:Cleared pending sell for clay pot~[95].
+142038:0::0:1:> give w604 282 0
+142038:0::0:1:Gave three~giant lizards to Breeder I~[w604].
+76604:0::0:1:Received three~giant lizards~[282] from Breeder V~[142038].
+142038:0::0:1:> get w604 282 2
+142038:0::0:1:Took two~giant lizards from Breeder I~[w604].
+76604:0::0:1:Breeder V~[142038] took two~giant lizards~[282] from us.
+58323:0::0:1:Golden City~[t63] sold two~chocolate~[108100] for 130~gold.
+58323:0::0:1:Golden City~[t63] sold two~silk~[149639] for 246~gold.
+76164:0::0:1:> move out
+13750:0::0:1:Lady Evalin~[w164], with one~peasant, 13~workers, 26~soldiers, 11~swordsmen, three~winged horses, exited Miners Pub~[127030].
+76164:0::0:1:Arrival at Llangollen Mountain Ridge~[bw50].
+74536:0::0:1:> move out
+13749:0::0:1:Richard Harrington~[t536], with eight~workers, 13~soldiers, 35~pikemen, one~winged horse, exited Savage Target~[82297].
+74536:0::0:1:Arrival at Llangollen Mountain Ridge~[bw49].
+15350:0::0:1:Transport~[94165], with 40~winged horses, exited Smith Hole~[110097].
+68595:0::0:1:> move w
+68595:0::0:1:One noble, 21 men: travel will take an extra 2 days.
+68595:0::0:1:Travel to Mountain~[bv49] will take 12 days.
+13650:0::0:1:Lord Grum~[m595], with 21~pikemen, went west.
+72667:0::0:1:> move n
+72667:0::0:1:Difficult terrain slows the animals.  Travel will take an extra day.
+72667:0::0:1:One noble, 28 men: travel will take an extra 2 days.
+72667:0::0:1:Travel to Clarence~[ch07] will take 17 days.
+14707:0::0:1:Ian Aenstein~[r667], with 13~peasants, ten~workers, five~soldiers, one~winged horse, went north.
+58318:0::0:1:Raphael~[131603], with seven~winged horses, exited South Fort~[t114].
+58318:0::0:1:Raphael~[131603], with seven~winged horses, exited Moon Shadow~[t58].
+15350:0::0:1:Transport~[94165], with 40~winged horses, left for Cloud~[gz22].
+74720:0::0:1:> move n
+74720:0::0:1:One noble, 15 men: travel will take an extra day.
+74720:0::0:1:Travel to Plains of Morning~[cg48] will take eight days.
+65727:0::0:1:> research 650
+65727:0::0:1:Lord Magnus~[h727] does not know 650.
+65727:0::0:1:> research 650
+65727:0::0:1:Lord Magnus~[h727] does not know 650.
+65727:0::0:1:> research 650
+65727:0::0:1:Lord Magnus~[h727] does not know 650.
+65727:0::0:1:> research 650
+65727:0::0:1:Lord Magnus~[h727] does not know 650.
+65727:0::0:1:> research 650
+65727:0::0:1:Lord Magnus~[h727] does not know 650.
+65727:0::0:1:> research 650
+65727:0::0:1:Lord Magnus~[h727] does not know 650.
+91377:0::0:1:> study 733
+91377:0::0:1:Study Find market for tradegood for seven days.
+100265:0::0:1:> study 730
+100265:0::0:1:Paid 100~gold to begin study.
+100265:0::0:1:Study Trade for seven days.
+15350:0::0:1:Dwarf~[105235] attacks Smith Hole~[110097]!
+15350:0::3:1:
+15350:0::3:1:Dwarf~[105235], with 39~workers, 14~soldiers
+15350:0::3:1:
+15350:0::3:1:Smith Hole~[110097], mine, defense~10, depth~4, 6%~damaged, owner:
+15350:0::6/3:1:Savage~[110178], savages, number:~14
+15350:0::0:1:
+15350:0::0:1:Dwarf~[105235] is victorious!
+15350:0::0:1:
+15350:0::3:1:Dwarf lost six~soldiers.
+15350:0::0:1:
+15350:0::3:1:Savage lost 13~savages.
+15350:0::3:1:Savage~[110178] was taken prisoner.
+15350:0::0:1:
+15350:0::0:1:[105235] moved into [110097] as a result of combat.
+76164:0::0:1:> attack 100311
+13750:0::0:1:Lady Evalin~[w164] attacks Savage~[100311]!
+13750:0::3:1:
+13750:0::3:1:Lady Evalin~[w164], behind~9, with one~peasant, 13~workers, 26~soldiers, 11~swordsmen, three~winged horses
+13750:0::3:1:
+13750:0::3:1:Savage~[100311], savages, number:~11
+76164:0::0:1:Attack Savage~[100311].
+13750:0::0:1:
+13750:0::0:1:Lady Evalin~[w164] is victorious!
+76164:0::0:1:We won!
+13750:0::0:1:
+13750:0::3:1:Savage lost ten~savages.
+13750:0::3:1:Savage~[100311] was wounded.
+13750:0::0:1:
+74536:0::0:1:> attack 109382
+13749:0::0:1:Richard Harrington~[t536] attacks Savage~[109382]!
+13749:0::3:1:
+13749:0::3:1:Richard Harrington~[t536], behind~5, with eight~workers, 13~soldiers, 35~pikemen, one~winged horse
+13749:0::3:1:
+13749:0::3:1:Savage~[109382], savages, number:~13
+74536:0::0:1:Attack Savage~[109382].
+13749:0::0:1:
+13749:0::0:1:Richard Harrington~[t536] is victorious!
+74536:0::0:1:We won!
+13749:0::0:1:
+13749:0::3:1:Richard Harrington lost two~soldiers, one~pikeman.
+74536:0::0:1:Richard Harrington~[t536] lost two~soldiers, one~pikeman.
+13749:0::0:1:
+13749:0::3:1:Savage lost 12~savages.
+13749:0::3:1:Savage~[109382] was wounded.
+13749:0::0:1:
+142038:0::0:1:> breed 282 282
+142038:0::0:1:Breed attempt will take 6 days.
+14841:0::0:1:Raphael~[131603], with seven~winged horses, arrived from Moon Shadow~[t58].
+76604:0::0:1:Produced one~giant lizard~[282].
+13750:0::0:1:A new fissure in a shaft wall has allowed poisonous gas to seep into Silver Caverns~[82361].
+14841:0::0:2:Raphael~[131603], with seven~winged horses, went north.
+76604:0::0:2:> breed 282 282
+76604:0::0:2:Breed attempt will take 6 days.
+76164:0::0:2:> attack 131824
+13750:0::0:2:Lady Evalin~[w164] attacks Savage~[131824]!
+13750:0::3:2:
+13750:0::3:2:Lady Evalin~[w164], behind~9, with one~peasant, 13~workers, 26~soldiers, 11~swordsmen, three~winged horses
+13750:0::3:2:
+13750:0::3:2:Savage~[131824], savages, number:~11
+76164:0::0:2:Attack Savage~[131824].
+13750:0::0:2:
+13750:0::0:2:Lady Evalin~[w164] is victorious!
+76164:0::0:2:We won!
+13750:0::0:2:
+13750:0::3:2:Lady Evalin lost two~soldiers.
+76164:0::0:2:Lady Evalin~[w164] lost two~soldiers.
+13750:0::0:2:
+13750:0::3:2:Savage lost ten~savages.
+13750:0::3:2:Savage~[131824] was taken prisoner.
+13750:0::0:2:
+76164:0::0:2:Savage~[131824] is taken prisoner by Lady Evalin~[w164].
+76164:0::0:2:Taken from Savage~[131824]:
+76164:0::3:2:one~drum~[98]
+74536:0::0:2:> attack 86689
+13749:0::0:2:Richard Harrington~[t536] attacks Savage~[86689]!
+13749:0::3:2:
+13749:0::3:2:Richard Harrington~[t536], behind~5, with eight~workers, 11~soldiers, 34~pikemen, one~winged horse
+13749:0::3:2:
+13749:0::3:2:Savage~[86689], savages, number:~8
+74536:0::0:2:Attack Savage~[86689].
+13749:0::0:2:
+13749:0::0:2:Richard Harrington~[t536] is victorious!
+74536:0::0:2:We won!
+13749:0::0:2:
+13749:0::3:2:Savage lost seven~savages.
+13749:0::3:2:Savage~[86689] was taken prisoner.
+13749:0::0:2:
+74536:0::0:2:Savage~[86689] is taken prisoner by Richard Harrington~[t536].
+74536:0::0:2:Taken from Savage~[86689]:
+74536:0::3:2:one~drum~[98]
+97856:0::0:2:Produced one~harpie~[285].
+86077:0::0:2:Exploration of [d89] uncovers no new features.
+58318:0::0:3:Palidine~[6448], sorcerer, wielding Ebony Blade~[b757], with 24~peasants, 70~pikemen, 1,008~ghost warriors, three~winged horses, arrived.
+97856:0::0:3:> move out
+97856:0::0:3:Travel to Cloud~[sr78] will take one day.
+57148:0::0:3:Breeder III~[97856], with 59~winged horses, nine~harpies, exited Nimbus~[d88].
+76164:0::0:3:> move 82361
+13750:0::0:3:Lady Evalin~[w164], with one~peasant, 13~workers, 24~soldiers, 11~swordsmen, three~winged horses, entered Silver Caverns~[82361], accompanied~by:
+13750:0::3/3:3:Savage~[131824], savage, prisoner
+76164:0::0:3:Arrival at Silver Caverns~[82361].
+58318:0::0:3:Palidine~[6448], sorcerer, wielding Ebony Blade~[b757], with 24~peasants, 70~pikemen, 1,008~ghost warriors, three~winged horses, entered South Fort~[t114].
+58318:0::0:3:Palidine~[6448], sorcerer, wielding Ebony Blade~[b757], with 24~peasants, three~winged horses, exited South Fort~[t114].
+58318:0::0:3:Palidine~[6448], sorcerer, wielding Ebony Blade~[b757], with 24~peasants, three~winged horses, exited Moon Shadow~[t58].
+76164:0::0:3:> repair
+86077:0::0:3:> study 730
+86077:0::0:3:Study Trade for seven days.
+74536:0::0:3:> attack 121715
+13749:0::0:3:Richard Harrington~[t536] attacks Savage~[121715]!
+13749:0::3:3:
+13749:0::3:3:Richard Harrington~[t536], behind~5, with eight~workers, 11~soldiers, 34~pikemen, one~winged horse
+13749:0::3:3:
+13749:0::3:3:Savage~[121715], savages, number:~21
+74536:0::0:3:Attack Savage~[121715].
+13749:0::0:3:
+13749:0::0:3:Richard Harrington~[t536] is victorious!
+74536:0::0:3:We won!
+13749:0::0:3:
+13749:0::3:3:Richard Harrington lost one~soldier, one~pikeman.
+74536:0::0:3:Richard Harrington~[t536] lost one~soldier, one~pikeman.
+13749:0::0:3:
+13749:0::3:3:Savage lost 20~savages.
+13749:0::3:3:Savage~[121715] was taken prisoner.
+13749:0::0:3:
+74536:0::0:3:Savage~[121715] is taken prisoner by Richard Harrington~[t536].
+74536:0::0:3:Taken from Savage~[121715]:
+74536:0::3:3:one~drum~[98]
+97856:0::0:3:Arrival at Cloud~[sr78].
+39378:0::0:3:Breeder III~[97856], with 59~winged horses, nine~harpies, arrived from Nimbus~[d88].
+15350:0::0:3:Lightheart~[v883] quarried 50~stone.
+64690:0::0:3:One~giant lizard~[282] was killed in the breeding attempt.
+64690:0::0:3:Produced one~giant lizard~[282].
+76164:0::0:3:A roof has collapsed in a shaft in Silver Caverns~[82361]!
+13750:0::0:3:A roof has collapsed in a shaft in Silver Caverns~[82361]!
+76164:0::0:3:Two miners were killed in the accident.
+13750:0::0:3:Two miners were killed in the accident.
+76164:0::0:3:Lady Evalin~[w164] lost two workers.
+74536:0::0:4:> drop 10 0
+74536:0::0:4:Richard Harrington~[t536] does not have any [10].
+74536:0::0:4:> drop 11 0
+74536:0::0:4:Dropped.
+74536:0::0:4:> drop 98 0
+74536:0::0:4:Dropped.
+97856:0::0:4:> fly s
+97856:0::0:4:Flying to Cloud~[gz22] will take three days.
+39378:0::0:4:Breeder III~[97856], with 59~winged horses, nine~harpies, went south.
+64690:0::0:4:> breed 282 282
+64690:0::0:4:Breed attempt will take 6 days.
+74536:0::0:4:> study 615
+74536:0::0:4:Paid 100~gold to begin study.
+74536:0::0:4:Study Archery for seven days.
+15350:0::0:4:It has begun to rain.
+13749:0::0:4:It has begun to rain.
+57149:0::0:5:Agnar~[d89] sold one~orange~[130785] for 13~gold.
+57149:0::0:5:Agnar~[d89] sold 43~beans~[p599] for 430~gold.
+57149:0::0:5:Agnar~[d89] bought 32~pipeweed~[v053] for 3,680~gold.
+58318:0::0:5:Yin~[111083] entered Spire Lunaire~[q355].
+14841:0::0:5:Palidine~[6448], sorcerer, wielding Ebony Blade~[b757], with 24~peasants, three~winged horses, arrived from Moon Shadow~[t58].
+39378:0::0:6:Transport II~[138896], with nine~winged horses, arrived from the south.
+97856:0::0:6:Arrival at Cloud~[gz22].
+21922:0::0:6:Breeder III~[97856], with 59~winged horses, nine~harpies, arrived from the north.
+39378:0::0:6:Transport~[94165], with 40~winged horses, arrived from the south.
+14947:0::0:6:Lorenzo The Magnificent~[r930], with 15~winged horses, four~giant lizards, arrived from the south.
+142038:0::0:6:Produced one~giant lizard~[282].
+142038:0::0:7:> give w604 282 0
+142038:0::0:7:Gave three~giant lizards to Breeder I~[w604].
+76604:0::0:7:Received three~giant lizards~[282] from Breeder V~[142038].
+142038:0::0:7:> get w604 282 2
+142038:0::0:7:Took two~giant lizards from Breeder I~[w604].
+76604:0::0:7:Breeder V~[142038] took two~giant lizards~[282] from us.
+39378:0::0:7:Transport II~[138896], with nine~winged horses, entered Nimbus~[d88].
+97856:0::0:7:> fly cr50
+97856:0::0:7:Flying to Mt. Olympus~[cr50] will take four days.
+21922:0::0:7:Breeder III~[97856], with 59~winged horses, nine~harpies, left for Mt. Olympus~[cr50].
+39378:0::0:7:Transport~[94165], with 40~winged horses, went south.
+14947:0::0:7:Lorenzo The Magnificent~[r930], with 15~winged horses, four~giant lizards, entered Golden City~[t63].
+67142:0::0:7:> study 845
+67142:0::0:7:Study Create magical barrier for seven days.
+142038:0::0:7:> breed 282 282
+142038:0::0:7:Breed attempt will take 6 days.
+57148:0::0:7:Transport II~[138896], with nine~winged horses, arrived from Cloud~[sr78].
+58323:0::0:7:Lorenzo The Magnificent~[r930], with 15~winged horses, four~giant lizards, arrived from Forest~[cm47].
+91377:0::0:7:Learned Find market for tradegood~[733].
+76604:0::0:7:Produced one~giant lizard~[282].
+57148:0::0:8:Transport II~[138896], with nine~winged horses, entered Schloss Smith~[100928].
+57148:0::0:8:Transport II~[138896], with nine~winged horses, arrived from Nimbus~[d88].
+57148:0::0:8:Transport II~[138896], with 21~winged horses, exited Schloss Smith~[100928].
+57148:0::0:8:Transport II~[138896], with 21~winged horses, arrived from Schloss Smith~[100928].
+57148:0::0:8:Transport II~[138896], with 21~winged horses, exited Nimbus~[d88].
+91377:0::0:8:> study 732
+91377:0::0:8:Cannot afford 100~gold to begin study.
+91377:0::0:8:> move out
+91377:0::0:8:Travel to Forest~[cm47] will take one day.
+58323:0::0:8:Breeder IV~[91377], with 19~winged horses, exited Golden City~[t63].
+100265:0::0:8:> study 730
+100265:0::0:8:Study Trade for seven days.
+76604:0::0:8:> breed 282 282
+76604:0::0:8:Breed attempt will take 6 days.
+91377:0::0:8:Arrival at Forest~[cm47].
+14947:0::0:8:Breeder IV~[91377], with 19~winged horses, arrived from Golden City~[t63].
+39378:0::0:8:Transport II~[138896], with 21~winged horses, arrived from Nimbus~[d88].
+74720:0::0:8:Arrival at Plains of Morning~[cg48].
+14548:0::0:8:Erik the Fox~[t720], conjurer, with ten~peasants, five~workers, one~winged horse, arrived from the south.
+39378:0::0:9:Transport II~[138896], with 21~winged horses, went north.
+74720:0::0:9:> move w
+74720:0::0:9:One noble, 15 men: travel will take an extra day.
+74720:0::0:9:Travel to Mount Jacinth~[cg47] will take 11 days.
+14548:0::0:9:Erik the Fox~[t720], conjurer, with ten~peasants, five~workers, one~winged horse, went west.
+91377:0::0:9:> fly s
+91377:0::0:9:Flying to Mountain~[cn47] will take four days.
+14947:0::0:9:Breeder IV~[91377], with 19~winged horses, went south.
+21922:0::0:9:New noble~[90108], with one~winged horse, arrived from the west.
+21922:0::0:9:Transport~[94165], with 40~winged horses, arrived from the north.
+76164:0::0:9:Silver Caverns~[82361] has been fully repaired.
+76164:0::0:9:Lady Evalin~[w164] repaired 38 damage to Silver Caverns~[82361].
+86077:0::0:9:Learned Trade~[730].
+64690:0::0:9:Produced one~giant lizard~[282].
+86077:0::0:10:> buy p599 1 10
+86077:0::0:10:Try to buy one~beans~[p599] for 10~gold.
+86077:0::0:10:> buy 130785 1 13
+86077:0::0:10:Try to buy one~orange~[130785] for 13~gold.
+86077:0::0:10:Bought one~orange~[130785] from Agnar~[d89] for 13~gold.
+57149:0::0:10:Breeder VII~[86077] bought one~orange~[130785] from Agnar~[d89] for 13~gold.
+86077:0::0:10:> buy v739 1 100
+86077:0::0:10:Try to buy one~jade~[v739] for 100~gold.
+86077:0::0:10:Bought one~jade~[v739] from Agnar~[d89] for 100~gold.
+57149:0::0:10:Breeder VII~[86077] bought one~jade~[v739] from Agnar~[d89] for 100~gold.
+86077:0::0:10:> buy v886 1 14
+86077:0::0:10:Try to buy one~beans~[v886] for 14~gold.
+86077:0::0:10:Bought one~beans~[v886] from Agnar~[d89] for 14~gold.
+57149:0::0:10:Breeder VII~[86077] bought one~beans~[v886] from Agnar~[d89] for 14~gold.
+86077:0::0:10:> buy 119939 1 22
+86077:0::0:10:Try to buy one~saffron~[119939] for 22~gold.
+86077:0::0:10:Bought one~saffron~[119939] from Agnar~[d89] for 22~gold.
+57149:0::0:10:Breeder VII~[86077] bought one~saffron~[119939] from Agnar~[d89] for 22~gold.
+21922:0::0:10:New noble~[90108], with one~winged horse, left for Mt. Olympus~[cr50].
+86077:0::0:10:> move out
+86077:0::0:10:Difficult terrain slows the animals.  Travel will take an extra day.
+86077:0::0:10:Travel to East Kastria Swamp~[cx54] will take two days.
+57149:0::0:10:Breeder VII~[86077], with 71~winged horses, exited Agnar~[d89].
+21922:0::0:10:Transport~[94165], with 40~winged horses, left for Mt. Olympus~[cr50].
+76164:0::0:10:> use 721
+76164:0::0:10:Will mine iron for the next seven days.
+64690:0::0:10:> breed 282 282
+64690:0::0:10:Breed attempt will take 6 days.
+97856:0::0:10:Arrival at Mt. Olympus~[cr50].
+15350:0::0:10:Breeder III~[97856], with 59~winged horses, nine~harpies, arrived from Cloud~[gz22].
+57148:0::0:10:Mark Smith~[h879] recruited ten~peasants.
+97856:0::0:11:> stack w604
+97856:0::0:11:Breeder III~[97856] stacks beneath Breeder I~[w604].
+76604:0::0:11:Breeder III~[97856] stacks beneath us.
+74536:0::0:11:> study 615
+74536:0::0:11:Study Archery for seven days.
+97856:0::0:11:> breed 285 285
+97856:0::0:11:Breed attempt will take 13 days.
+86077:0::0:11:Arrival at East Kastria Swamp~[cx54].
+15854:0::0:11:Breeder VII~[86077], with 71~winged horses, arrived from Agnar~[d89].
+86077:0::0:12:> fly n
+86077:0::0:12:Flying to Kastrian Desert~[cw54] will take four days.
+15854:0::0:12:Breeder VII~[86077], with 71~winged horses, went north.
+68595:0::0:12:Arrival at Mountain~[bv49].
+13649:0::0:12:Lord Grum~[m595], with 21~pikemen, arrived from the east.
+91377:0::0:12:Arrival at Mountain~[cn47].
+15047:0::0:12:Breeder IV~[91377], with 19~winged horses, arrived from the north.
+142038:0::0:12:Produced one~giant lizard~[282].
+76164:0::0:12:A roof has collapsed in a shaft in Silver Caverns~[82361]!
+13750:0::0:12:A roof has collapsed in a shaft in Silver Caverns~[82361]!
+76164:0::0:12:Two miners were killed in the accident.
+13750:0::0:12:Two miners were killed in the accident.
+76164:0::0:12:Lady Evalin~[w164] lost two workers.
+68595:0::0:13:> give g690 16 0
+68595:0::0:13:Gave 21~pikemen to Charlie Bass~[g690].
+64690:0::0:13:Received 21~pikemen~[16] from Lord Grum~[m595].
+142038:0::0:13:> give w604 282 0
+142038:0::0:13:Gave three~giant lizards to Breeder I~[w604].
+76604:0::0:13:Received three~giant lizards~[282] from Breeder V~[142038].
+142038:0::0:13:> get w604 282 2
+142038:0::0:13:Took two~giant lizards from Breeder I~[w604].
+76604:0::0:13:Breeder V~[142038] took two~giant lizards~[282] from us.
+91377:0::0:13:> fly s
+91377:0::0:13:Flying to Olympus Plains~[cp47] will take three days.
+15047:0::0:13:Breeder IV~[91377], with 19~winged horses, went south.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly s
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly w
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly w
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly w
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+68595:0::0:13:> fly w
+68595:0::0:13:Lord Grum~[m595] is too overloaded to fly.
+142038:0::0:13:> breed 282 282
+142038:0::0:13:Breed attempt will take 6 days.
+15350:0::0:13:New noble~[90108], with one~winged horse, arrived from Cloud~[gz22].
+15350:0::0:13:Transport~[94165], with 40~winged horses, arrived from Cloud~[gz22].
+76604:0::0:13:Produced one~giant lizard~[282].
+15350:0::0:14:New noble~[90108], with one~winged horse, went east.
+15350:0::0:14:Transport~[94165], with 40~winged horses, left for Cloud~[gz22].
+76604:0::0:14:> breed 282 282
+76604:0::0:14:Breed attempt will take 6 days.
+67142:0::0:14:> study 849
+67142:0::0:14:Study Farcasting for seven days.
+15351:0::0:14:Quetzalcoatl~[7681] recruited ten~peasants.
+67142:0::0:14:Maximum 14 days studied this month.
+15350:0::0:15:Dwarf~[105235], with 39~workers, eight~soldiers, exited Smith Hole~[110097], accompanied~by:
+15350:0::3/3:15:Savage~[110178], savage, prisoner
+15351:0::0:15:Quetzalcoatl~[7681], with two~winged horses, ten~peasants, went south.
+15350:0::0:15:Dwarf~[105235], with 62~workers, entered Grove of the Stalker~[r380], accompanied~by:
+15350:0::3/3:15:Savage~[110178], savage, prisoner
+100265:0::0:15:> breed 54 54
+100265:0::0:15:Breed attempt will take 6 days.
+67142:0::0:15:> study 842
+67142:0::0:15:Maximum 14 days studied this month.
+67142:0::0:15:> use 841 an56
+14707:0::0:15:Scarn~[88463], with ten~peasants, 60~soldiers, eight~sailors, arrived from the east.
+91377:0::0:15:Arrival at Olympus Plains~[cp47].
+15147:0::0:15:Breeder IV~[91377], with 19~winged horses, arrived from the north.
+86077:0::0:15:Arrival at Kastrian Desert~[cw54].
+15754:0::0:15:Breeder VII~[86077], with 71~winged horses, arrived from the south.
+64690:0::0:15:Produced one~giant lizard~[282].
+91377:0::0:16:> fly s
+91377:0::0:16:Flying to Olympus Plains~[cq47] will take three days.
+15147:0::0:16:Breeder IV~[91377], with 19~winged horses, went south.
+64690:0::0:16:> move s
+64690:0::0:16:One noble, 33 men: travel will take an extra 3 days.
+64690:0::0:16:Travel to Llangollen Mountain Ridge~[bw49] will take eight days.
+13649:0::0:16:Charlie Bass~[g690], with 14~riding horses, ten~winged horses, four~oxen, 12~giant lizards, 21~pikemen, went south.
+86077:0::0:16:> fly n
+86077:0::0:16:Flying to Forest~[cv54] will take four days.
+15754:0::0:16:Breeder VII~[86077], with 71~winged horses, went north.
+14707:0::0:16:Scarn~[88463] attacks Garrison~[3308]!
+14707:0::3:16:
+14707:0::3:16:Scarn~[88463], with ten~peasants, 60~soldiers, eight~sailors
+14707:0::3:16:
+14707:0::3:16:Garrison~[3308], garrison, with ten~soldiers
+14707:0::0:16:
+14707:0::0:16:Scarn~[88463] is victorious!
+14707:0::0:16:
+14707:0::3:16:Scarn lost four~soldiers.
+14707:0::0:16:
+14707:0::3:16:Garrison lost ten~soldiers.
+14707:0::3:16:Garrison~[3308] was destroyed.
+14707:0::0:16:
+21922:0::0:16:Transport~[94165], with 40~winged horses, arrived from Mt. Olympus~[cr50].
+76164:0::0:16:Lady Evalin~[w164] no longer has ten workers.
+21922:0::0:17:Transport~[94165], with 40~winged horses, went north.
+76164:0::0:17:> use 722
+76164:0::0:17:Mining activity requires at least ten workers.
+76164:0::0:17:> move out
+13750:0::0:17:Lady Evalin~[w164], with one~peasant, nine~workers, 24~soldiers, 11~swordsmen, three~winged horses, exited Silver Caverns~[82361], accompanied~by:
+13750:0::3/3:17:Savage~[131824], savage, prisoner
+76164:0::0:17:Arrival at Llangollen Mountain Ridge~[bw50].
+76164:0::0:17:> move w
+76164:0::0:17:One noble, 46 men: travel will take an extra 4 days.
+76164:0::0:17:Travel to Llangollen Mountain Ridge~[bw49] will take 14 days.
+13750:0::0:17:Lady Evalin~[w164], with one~peasant, nine~workers, 24~soldiers, 11~swordsmen, three~winged horses, went west, accompanied~by:
+13750:0::3/3:17:Savage~[131824], savage, prisoner
+14707:0::0:17:Garrison~[110040], garrison, on guard, with ten~soldiers now guards Quinqueroi~[cj07].
+72667:0::0:17:Arrival at Clarence~[ch07].
+14607:0::0:17:Ian Aenstein~[r667], with 13~peasants, ten~workers, five~soldiers, one~winged horse, arrived from the south.
+15351:0::0:17:New noble~[90108], with one~winged horse, arrived from the west.
+13750:0::0:17:A tunnel in Silver Caverns~[82361] has caved in!
+14707:0::0:18:Scarn~[88463], with ten~peasants, 46~soldiers, eight~sailors, went south.
+72667:0::0:18:> move e
+72667:0::0:18:One noble, 28 men: travel will take an extra 2 days.
+72667:0::0:18:Travel to Peterborough~[ch08] will take nine days.
+14607:0::0:18:Ian Aenstein~[r667], with 13~peasants, ten~workers, five~soldiers, one~winged horse, went east.
+15351:0::0:18:New noble~[90108], with one~winged horse, entered Imperial City~[g92].
+91377:0::0:18:Arrival at Olympus Plains~[cq47].
+15247:0::0:18:Breeder IV~[91377], with 19~winged horses, arrived from the north.
+57352:0::0:18:New noble~[90108], with one~winged horse, arrived from Forest~[cr51].
+15350:0::0:18:Dwarf~[105235] cut five~yew.
+142038:0::0:18:One~giant lizard~[282] was killed in the breeding attempt.
+142038:0::0:18:No offspring was produced.
+142038:0::0:19:> give w604 282 0
+142038:0::0:19:Gave one~giant lizard to Breeder I~[w604].
+76604:0::0:19:Received one~giant lizard~[282] from Breeder V~[142038].
+142038:0::0:19:> get w604 282 2
+142038:0::0:19:Took two~giant lizards from Breeder I~[w604].
+76604:0::0:19:Breeder V~[142038] took two~giant lizards~[282] from us.
+15350:0::0:19:Dwarf~[105235], with 62~workers, exited Grove of the Stalker~[r380], accompanied~by:
+15350:0::3/3:19:Savage~[110178], savage, prisoner
+91377:0::0:19:> fly s
+91377:0::0:19:Flying to Olympus Plains~[cr47] will take three days.
+15247:0::0:19:Breeder IV~[91377], with 19~winged horses, went south.
+142038:0::0:19:> breed 282 282
+142038:0::0:19:Breed attempt will take 6 days.
+15247:0::0:19:Prince Prowler~[147777], with four~winged horses, 87~giant lizards, arrived from the east.
+39378:0::0:19:Transport~[94165], with 40~winged horses, arrived from the south.
+74720:0::0:19:Arrival at Mount Jacinth~[cg47].
+14547:0::0:19:Erik the Fox~[t720], conjurer, with ten~peasants, five~workers, one~winged horse, arrived from the east.
+86077:0::0:19:Arrival at Forest~[cv54].
+15654:0::0:19:Breeder VII~[86077], with 71~winged horses, arrived from the south.
+76604:0::0:19:Produced one~giant lizard~[282].
+74720:0::0:20:> move r873
+74720:0::0:20:No visible route from Mount Jacinth~[cg47] to r873.
+39378:0::0:20:Transport~[94165], with 40~winged horses, went south.
+15247:0::0:20:Prince Prowler~[147777], with four~winged horses, 87~giant lizards, went west.
+86077:0::0:20:> fly n
+86077:0::0:20:Flying to Oldwood forest~[ct54] will take four days.
+15654:0::0:20:Breeder VII~[86077], with 71~winged horses, went north.
+74720:0::0:20:> yew
+74720:0::0:20:Yew must be cut in yew groves
+74720:0::0:20:> move out
+74720:0::0:20:No visible out route from Mount Jacinth~[cg47].
+74720:0::0:20:> wood
+74720:0::0:20:Wood must be cut in forest provinces.
+76604:0::0:20:> breed 282 282
+76604:0::0:20:Breed attempt will take 6 days.
+100265:0::0:20:Produced one~winged horse~[54].
+67142:0::0:20:A vision of Swamp~[an56] appears:
+67142:0::0:20:
+67142:0::0:20:Swamp~[an56], swamp, in Atala, wilderness
+67142:0::0:20:
+67142:0::0:20:Province controlled by Home~[p009], castle, in Mountain~[ah59]
+67142:0::0:20:Ruled by [8116], duke
+67142:0::0:20:
+67142:0::0:20:Routes leaving Swamp: 
+67142:0::3:20:North, to Forest~[am56], 8~days
+67142:0::3:20:East, to Swamp~[an57], 14~days
+67142:0::3:20:South, to Mountain~[ap56], 10~days
+67142:0::3:20:West, to Mountain~[an55], 10~days
+67142:0::0:20:
+67142:0::0:20:Seen here:
+67142:0::0/3:20:   Garrison~[9386], garrison, on guard, with ten~peasants
+100265:0::0:21:> breed 54 54
+100265:0::0:21:Breed attempt will take 6 days.
+67142:0::0:21:> use 841 an55
+91377:0::0:21:Arrival at Olympus Plains~[cr47].
+15347:0::0:21:Breeder IV~[91377], with 19~winged horses, arrived from the north.
+74536:0::0:21:Savage~[86689] has died.
+74536:0::0:21:Savage~[86689] unstacks from us.
+15147:0::0:21:It has begun to rain.
+13650:0::0:21:It has begun to rain.
+15351:0::0:21:It has begun to rain.
+15347:0::0:21:It has begun to rain.
+91377:0::0:22:> move in
+91377:0::0:22:(assuming 'move v64')
+91377:0::0:22:Travel to Etranth~[v64] will take one day.
+15347:0::0:22:Breeder IV~[91377], with 19~winged horses, entered Etranth~[v64].
+15350:0::0:22:Dwarf~[105235], with 62~workers, entered Smith Hole~[110097], accompanied~by:
+15350:0::3/3:22:Savage~[110178], savage, prisoner
+21922:0::0:22:Transport~[94165], with 40~winged horses, arrived from the north.
+91377:0::0:22:Arrival at Etranth~[v64].
+58424:0::0:22:Breeder IV~[91377], with 19~winged horses, arrived from Olympus Plains~[cr47].
+21922:0::0:23:Transport~[94165], with 40~winged horses, left for Mt. Olympus~[cr50].
+91377:0::0:23:> breed 54 54
+91377:0::0:23:Breed attempt will take 6 days.
+86077:0::0:23:Arrival at Oldwood forest~[ct54].
+15554:0::0:23:Breeder VII~[86077], with 71~winged horses, arrived from the south.
+64690:0::0:23:Arrival at Llangollen Mountain Ridge~[bw49].
+13749:0::0:23:Charlie Bass~[g690], with 14~riding horses, ten~winged horses, four~oxen, 12~giant lizards, 21~pikemen, arrived from the north.
+14841:0::0:23:Andrew Bogoliubski~[f090], with two~winged horses, arrived from the west.
+97856:0::0:23:Produced one~harpie~[285].
+86077:0::0:24:> fly n
+86077:0::0:24:Flying to Oldwood forest~[cs54] will take four days.
+15554:0::0:24:Breeder VII~[86077], with 71~winged horses, went north.
+14841:0::0:24:Andrew Bogoliubski~[f090], with two~winged horses, entered Moon Shadow~[t58].
+64690:0::0:24:> breed 282 282
+64690:0::0:24:Breed attempt will take 6 days.
+97856:0::0:24:> breed 285 285
+97856:0::0:24:Breed attempt will take 13 days.
+58318:0::0:24:Andrew Bogoliubski~[f090], with two~winged horses, arrived from Dragons Peak~[ck41].
+142038:0::0:24:Produced one~giant lizard~[282].
+15350:0::0:24:A roof has collapsed in a shaft in Smith Hole~[110097]!
+15350:0::0:24:Five miners were killed in the accident.
+142038:0::0:25:> give w604 282 0
+142038:0::0:25:Gave three~giant lizards to Breeder I~[w604].
+76604:0::0:25:Received three~giant lizards~[282] from Breeder V~[142038].
+142038:0::0:25:> get w604 282 2
+142038:0::0:25:Took two~giant lizards from Breeder I~[w604].
+76604:0::0:25:Breeder V~[142038] took two~giant lizards~[282] from us.
+142038:0::0:25:> breed 282 282
+142038:0::0:25:Breed attempt will take 6 days.
+76604:0::0:25:One~giant lizard~[282] was killed in the breeding attempt.
+76604:0::0:25:Produced one~giant lizard~[282].
+76604:0::0:26:> breed 282 282
+76604:0::0:26:Breed attempt will take 6 days.
+15350:0::0:26:Transport~[94165], with 40~winged horses, arrived from Cloud~[gz22].
+72667:0::0:26:Arrival at Peterborough~[ch08].
+14608:0::0:26:Ian Aenstein~[r667], with 13~peasants, ten~workers, five~soldiers, one~winged horse, arrived from the west.
+100265:0::0:26:Produced one~winged horse~[54].
+67142:0::0:26:A vision of Mountain~[an55] appears:
+67142:0::0:26:
+67142:0::0:26:Mountain~[an55], mountain, in Atala, wilderness
+67142:0::0:26:
+67142:0::0:26:Province controlled by Home~[p009], castle, in Mountain~[ah59]
+67142:0::0:26:Ruled by [8116], duke
+67142:0::0:26:
+67142:0::0:26:Routes leaving Mountain: 
+67142:0::3:26:North, to Plain~[am55], 7~days
+67142:0::3:26:East, to Swamp~[an56], 14~days
+67142:0::3:26:South, to Plain~[ap55], 7~days
+67142:0::3:26:West, to Swamp~[an54], 14~days
+67142:0::0:26:
+67142:0::0:26:It is raining.
+67142:0::0:26:
+67142:0::0:26:Seen here:
+67142:0::0/3:26:   Garrison~[m939], garrison, on guard, with ten~peasants
+13750:0::0:26:A new fissure in a shaft wall has allowed poisonous gas to seep into Silver Caverns~[82361].
+15247:0::0:26:It has begun to rain.
+14547:0::0:26:It has begun to rain.
+14608:0::0:26:It has begun to rain.
+72667:0::0:27:> move h37
+72667:0::0:27:No visible route from Peterborough~[ch08] to h37.
+15350:0::0:27:Transport~[94165], with 40~winged horses, left for Cloud~[gz22].
+100265:0::0:27:> breed 54 54
+100265:0::0:27:Breed attempt will take 6 days.
+72667:0::0:27:> study 600
+72667:0::0:27:Instruction in [600] is not available here.
+67142:0::0:27:> use 841 ap56
+72667:0::0:27:> study 600
+72667:0::0:27:Instruction in [600] is not available here.
+72667:0::0:27:> explore
+86077:0::0:27:Arrival at Oldwood forest~[cs54].
+15454:0::0:27:Breeder VII~[86077], with 71~winged horses, arrived from the south.
+58323:0::0:27:Golden City~[t63] bought one~honey~[100243] for 73~gold.
+86077:0::0:28:> fly n
+86077:0::0:28:Flying to Oldwood forest~[cr54] will take four days.
+15454:0::0:28:Breeder VII~[86077], with 71~winged horses, went north.
+91377:0::0:28:Produced one~winged horse~[54].
+91377:0::0:29:> breed 54 54
+91377:0::0:29:Breed attempt will take 6 days.
+57149:0::0:29:Agnar~[d89] sold one~orange~[130785] for 13~gold.
+21922:0::0:29:Transport~[94165], with 40~winged horses, arrived from Mt. Olympus~[cr50].
+64690:0::0:29:One~giant lizard~[282] was killed in the breeding attempt.
+64690:0::0:29:No offspring was produced.
+21922:0::0:30:Transport~[94165], with 40~winged horses, went north.
+64690:0::0:30:> breed 282 282
+64690:0::0:30:Breed attempt will take 6 days.
+76164:0::0:30:Arrival at Llangollen Mountain Ridge~[bw49].
+13749:0::0:30:Lady Evalin~[w164], with one~peasant, nine~workers, 24~soldiers, 11~swordsmen, three~winged horses, arrived from the east, accompanied~by:
+13749:0::3/3:30:Savage~[131824], savage, prisoner
+142038:0::0:30:Produced one~giant lizard~[282].
+65727:0::0:30:La Main du Dragon~[w262] collected offerings of 100~gold.
+64690:0::0:30:Paid maintenance of 63~gold.
+65727:0::0:30:Paid maintenance of 10~gold.
+72667:0::0:30:Paid maintenance of 43~gold.
+74536:0::0:30:Maintenance costs are 119~gold, can afford 94~gold.
+74536:0::0:30:Three~pikemen deserted.
+74720:0::0:30:Paid maintenance of 20~gold.
+76164:0::0:30:Paid maintenance of 100~gold.
+64690:0::0:30:One winged horse died.
+64690:0::0:30:One giant lizard died.
+86077:0::0:30:Two winged horses died.
+53513:0::0:30:Breeder II~[95818] has passed on.  Gained 2 NPs.
+15854:0::0:30:It has stopped raining.
+13649:0::0:30:It has stopped raining.
+14841:0::0:30:It has stopped raining.
+15454:0::0:30:It has stopped raining.
+14607:0::0:30:It has stopped raining.
+4:2::0::
+4:2::0::<name="Mountain~[bv49]"><font size=+1><b>Mountain~[bv49]</b>, mountain, in Provinia, civ-2</font>
+4:2::0::<hr>
+4:1::0::Mountain~[bv49], mountain, in Provinia, civ-2
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Mountain: 
+4:0::3::North, to Swamp~[bt49], 14~days
+4:0::3::East, plain, to Dencedian Plains~[bv50], 7~days
+4:0::3::South, mountain, to Llangollen Mountain Ridge~[bw49], 10~days
+4:0::3::West, to Mountain~[bv48], 10~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Lair~[j938], lair, 1 day
+4:0::6::Aerie Shrine~[149995], temple, defense~10
+4:0::6::Lords Lookout~[116188], tower, defense~40
+4:0::3::Ancient battlefield~[f674], battlefield, 1 day
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[126806], garrison, on guard, with ten~peasants
+4:0::0/3:: * Lord Grum~[m595], "{<i>}Mountain Dwarf{</i>}"
+4:0::0::
+4:2::0::
+4:2::0::<name="Dencedian Plains~[bv50]"><font size=+1><b>Dencedian Plains~[bv50]</b>, plain, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::Dencedian Plains~[bv50], plain, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Dencedian Plains: 
+4:0::3::North, forest, to Nation Of Ergoth~[bt50], 8~days
+4:0::3::East, forest, to Dencedian Woods~[bv51], 8~days
+4:0::3::South, mountain, to Llangollen Mountain Ridge~[bw50], 10~days
+4:0::3::West, to Mountain~[bv49], 10~days
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[5558], garrison, on guard, with eight~workers, two~peasants
+4:0::0::
+4:2::0::
+4:2::0::<name="Llangollen Mountain Ridge~[bw49]"><font size=+1><b>Llangollen Mountain Ridge~[bw49]</b>, mountain, in Provinia, civ-3</font>
+4:2::0::<hr>
+4:1::0::Llangollen Mountain Ridge~[bw49], mountain, in Provinia, civ-3
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Llangollen Mountain Ridge: 
+4:0::3::North, to Mountain~[bv49], 10~days
+4:0::3::East, mountain, to Llangollen Mountain Ridge~[bw50], 10~days
+4:0::3::South, to Forest~[bx49], 8~days
+4:0::3::West, to Swamp~[bw48], 14~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Graveyard~[w580], graveyard, 1 day
+4:0::6::Ridge Necropolis~[8533], temple, defense~10
+4:0::3::Lair~[j713], lair, hidden, 1 day
+4:0::3::Cave~[q420], cave, hidden, 1 day
+4:0::6::Ridge Shelter~[136481], tower, defense~40
+4:0::3::Savage Target~[82297], inn, defense~10, 24%~damaged
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[109302], garrison, on guard, with ten~soldiers
+4:0::0/3:: * Richard Harrington~[t536], with ten~soldiers, 30~pikemen, one~winged horse, accompanied~by:
+4:0::0/6::      Savage~[121715], savage, prisoner
+4:0::0/3:: * Charlie Bass~[g690], with 14~riding horses, nine~winged horses, four~oxen, ten~giant lizards, 21~pikemen
+4:0::0/3:: * Lady Evalin~[w164], "{<i>}Red Dwarf{</i>}", with one~peasant, nine~workers, 24~soldiers, 11~swordsmen, three~winged horses, accompanied~by:
+4:0::0/6::      Savage~[131824], savage, prisoner
+4:0::0::
+4:2::0::
+4:2::0::<name="Llangollen Mountain Ridge~[bw50]"><font size=+1><b>Llangollen Mountain Ridge~[bw50]</b>, mountain, in Provinia, civ-3</font>
+4:2::0::<hr>
+4:1::0::Llangollen Mountain Ridge~[bw50], mountain, in Provinia, civ-3
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Llangollen Mountain Ridge: 
+4:0::3::North, plain, to Dencedian Plains~[bv50], 7~days
+4:0::3::East, forest, to Nation Of Ergoth~[bw51], 8~days
+4:0::3::South, mountain, to Llangollen Mountain Ridge~[bx50], 10~days
+4:0::3::West, mountain, to Llangollen Mountain Ridge~[bw49], 10~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Lair~[h425], lair, hidden, 1 day
+4:0::6::Prayer Stone~[r418], temple, defense~10
+4:0::3::Silver Caverns~[82361], mine, defense~10, depth~8, 22%~damaged
+4:0::3::Miners Pub~[127030], inn, defense~10, 10%~damaged
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[3987], garrison, on guard, with ten~soldiers
+4:0::0/3::   Savage~[100311], savage
+4:0::0::
+4:2::0::
+4:2::0::<name="Mount Jacinth~[cg47]"><font size=+1><b>Mount Jacinth~[cg47]</b>, mountain, in Provinia, wilderness</font>
+4:2::0::<hr>
+4:1::0::Mount Jacinth~[cg47], mountain, in Provinia, wilderness
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Castle Dawn~[k006], castle, in Forest of Dawn~[cd49]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Mount Jacinth: 
+4:0::3::North, plain, to Plains of Morning~[cf47], 7~days
+4:0::3::East, plain, to Plains of Morning~[cg48], 7~days
+4:0::3::South, mountain, to Mount Jade~[ch47], 10~days
+4:0::3::West, forest, to Forest of Dawn~[cg46], 8~days
+4:0::0::
+4:0::0::It is raining.
+4:0::3::Rain~[131576], storm, strength~1
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[119359], garrison, on guard, with ten~soldiers
+4:0::0/3:: * Erik the Fox~[t720], conjurer, "{<i>}Weather King{</i>}", with ten~peasants, five~workers, one~winged horse
+4:0::0::
+4:2::0::
+4:2::0::<name="Plains of Morning~[cg48]"><font size=+1><b>Plains of Morning~[cg48]</b>, plain, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::Plains of Morning~[cg48], plain, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Castle Dawn~[k006], castle, in Forest of Dawn~[cd49]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Plains of Morning: 
+4:0::3::North, plain, to Plains of Morning~[cf48], 7~days
+4:0::3::East, plain, to Plains of Morning~[cg49], 7~days
+4:0::3::South, to Swamp~[ch48], 14~days
+4:0::3::West, mountain, to Mount Jacinth~[cg47], 10~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Sacred grove~[n890], sacred grove, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::3::Rain~[110387], storm, strength~1
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[83647], garrison, on guard, with ten~soldiers, five~workers
+4:0::0::
+4:2::0::
+4:2::0::<name="Clarence~[ch07]"><font size=+1><b>Clarence~[ch07]</b>, swamp, in Cragstan, wilderness</font>
+4:2::0::<hr>
+4:1::0::Clarence~[ch07], swamp, in Cragstan, wilderness
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Clarence: 
+4:0::3::North, plain, to Essex~[cg07], 7~days
+4:0::3::East, plain, to Peterborough~[ch08], 7~days
+4:0::3::South, desert, to Quinqueroi~[cj07], 8~days
+4:0::3::West, plain, to Calne~[ch06], 7~days
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[c650], garrison, on guard, with ten~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="Peterborough~[ch08]"><font size=+1><b>Peterborough~[ch08]</b>, plain, in Cragstan, civ-1</font>
+4:2::0::<hr>
+4:1::0::Peterborough~[ch08], plain, in Cragstan, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Dragon Shire~[5498], castle, in Somerset~[cg08]
+4:0::0::Ruled by Hammet~[z279], lord
+4:0::0::
+4:0::0::Routes leaving Peterborough: 
+4:0::3::North, plain, to Somerset~[cg08], 7~days
+4:0::3::East, plain, to Arden~[ch09], 7~days
+4:0::3::South, plain, to Ganis~[cj08], 7~days
+4:0::3::West, swamp, to Clarence~[ch07], 14~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Pasture~[c055], pasture, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[7164], garrison, on guard, with 50~soldiers
+4:0::0/3:: * Ian Aenstein~[r667], with 13~peasants, ten~workers, five~soldiers, one~winged horse
+4:0::0::
+4:2::0::
+4:2::0::<name="Swamp~[ch48]"><font size=+1><b>Swamp~[ch48]</b>, swamp, in Provinia, civ-3</font>
+4:2::0::<hr>
+4:1::0::Swamp~[ch48], swamp, in Provinia, civ-3
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by South Fort~[t114], castle, in Dragons Peak~[ck41]
+4:0::0::Ruled by General Attitude~[9943], duke
+4:0::0::
+4:0::0::Routes leaving Swamp: 
+4:0::3::North, plain, to Plains of Morning~[cg48], 7~days
+4:0::3::East, forest, to South Fort Forest~[ch49], 8~days
+4:0::3::South, to Forest~[cj48], 8~days
+4:0::3::West, mountain, to Mount Jade~[ch47], 10~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::South Fort~[z98], city, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::It is windy.
+4:0::0::The province is blanketed in fog.
+4:0::3::Rain~[145819], storm, owner~113562, strength~22
+4:0::3::Hellion~[123316], storm, owner~113562, strength~34
+4:0::3::Death Mist~[122863], storm, owner~t720, strength~13
+4:0::3::Noxious Cloud~[137289], storm, owner~113562, strength~25
+4:0::0::
+4:0::0::No one can be seen through the fog.
+4:0::0::
+4:2::0::
+4:2::0::<name="Quinqueroi~[cj07]"><font size=+1><b>Quinqueroi~[cj07]</b>, desert, in Cragstan, civ-1</font>
+4:2::0::<hr>
+4:1::0::Quinqueroi~[cj07], desert, in Cragstan, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Dragon Shire~[5498], castle, in Somerset~[cg08]
+4:0::0::Ruled by Hammet~[z279], lord
+4:0::0::
+4:0::0::Routes leaving Quinqueroi: 
+4:0::3::North, swamp, to Clarence~[ch07], 14~days
+4:0::3::East, plain, to Ganis~[cj08], 7~days
+4:0::3::South, forest, to Estregales~[ck07], 8~days
+4:0::3::West, mountain, to Daussi~[cj06], 10~days
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[110040], garrison, on guard, with ten~soldiers
+4:0::0/3::   Scarn~[88463], with ten~peasants, 46~soldiers, eight~sailors
+4:0::0::
+4:2::0::
+4:2::0::<name="Dragons Peak~[ck41]"><font size=+1><b>Dragons Peak~[ck41]</b>, mountain, in Provinia, civ-6</font>
+4:2::0::<hr>
+4:1::0::Dragons Peak~[ck41], mountain, in Provinia, civ-6
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by South Fort~[t114], castle, in Dragons Peak~[ck41]
+4:0::0::Ruled by General Attitude~[9943], duke
+4:0::0::
+4:0::0::Routes leaving Dragons Peak: 
+4:0::3::North, mountain, to DragonSpine Ridge~[cj41], 10~days
+4:0::3::East, mountain, to DragonSpine Ridge~[ck42], 10~days
+4:0::3::South, to Forest~[cm41], 8~days
+4:0::3::West, to Forest~[ck40], 8~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Moon Shadow~[t58], city, 1 day
+4:0::3::Ancient battlefield~[v576], battlefield, 1 day
+4:0::3::Ruins~[m265], ruins, hidden, 1 day
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[133047], garrison, on guard, with ten~soldiers, 15~oxen
+4:0::0/3::   Palidine~[6448], sorcerer, wielding Ebony Blade~[b757], "{<i>}Greyfell Lord{</i>}", with 24~peasants, two~winged horses
+4:0::0::
+4:2::0::
+4:2::0::<name="Forest~[cm47]"><font size=+1><b>Forest~[cm47]</b>, forest, in Provinia, safe haven, civ-2</font>
+4:2::0::<hr>
+4:1::0::Forest~[cm47], forest, in Provinia, safe haven, civ-2
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Forest: 
+4:0::3::North, to Desert~[ck47], 8~days
+4:0::3::East, to Forest~[cm48], 8~days
+4:0::3::South, to Mountain~[cn47], 10~days
+4:0::3::West, to Mountain~[cm46], 10~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Golden City~[t63], city, safe haven, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[110974], garrison, on guard, with ten~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="Mountain~[cn47]"><font size=+1><b>Mountain~[cn47]</b>, mountain, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::Mountain~[cn47], mountain, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Mountain: 
+4:0::3::North, to Forest~[cm47], 8~days
+4:0::3::East, plain, to Musketeer Border~[cn48], 7~days
+4:0::3::South, plain, to Olympus Plains~[cp47], 7~days
+4:0::3::West, to Plain~[cn46], 7~days
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[t451], garrison, on guard, with ten~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="Olympus Plains~[cp47]"><font size=+1><b>Olympus Plains~[cp47]</b>, plain, in Provinia, wilderness</font>
+4:2::0::<hr>
+4:1::0::Olympus Plains~[cp47], plain, in Provinia, wilderness
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Olympus Plains: 
+4:0::3::North, to Mountain~[cn47], 10~days
+4:0::3::East, plain, to Olympus Plains~[cp48], 7~days
+4:0::3::South, plain, to Olympus Plains~[cq47], 7~days
+4:0::3::West, forest, to Musketeer Border~[cp46], 8~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Poppy field~[m703], poppy field, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[4464], garrison, on guard, with 12~soldiers, 26~peasants
+4:0::0::
+4:2::0::
+4:2::0::<name="Olympus Plains~[cq47]"><font size=+1><b>Olympus Plains~[cq47]</b>, plain, in Provinia, wilderness</font>
+4:2::0::<hr>
+4:1::0::Olympus Plains~[cq47], plain, in Provinia, wilderness
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Olympus Plains: 
+4:0::3::North, plain, to Olympus Plains~[cp47], 7~days
+4:0::3::East, plain, to Olympus Plains~[cq48], 7~days
+4:0::3::South, plain, to Olympus Plains~[cr47], 7~days
+4:0::3::West, to Mountain~[cq46], 10~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Rocky hill~[q639], rocky hill, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[8977], garrison, on guard, with ten~soldiers
+4:0::0/3::   Prince Prowler~[147777], with four~winged horses, 86~giant lizards
+4:0::0::
+4:2::0::
+4:2::0::<name="Olympus Plains~[cr47]"><font size=+1><b>Olympus Plains~[cr47]</b>, plain, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::Olympus Plains~[cr47], plain, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Olympus Plains: 
+4:0::3::North, plain, to Olympus Plains~[cq47], 7~days
+4:0::3::East, plain, to Olympus Plains~[cr48], 7~days
+4:0::3::South, plain, to Olympus Plains~[cs47], 7~days
+4:0::3::West, forest, to Aquilonian border~[cr46], 8~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Etranth~[v64], city, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[8198], garrison, on guard, with 22~soldiers, ten~peasants
+4:0::0::
+4:2::0::
+4:2::0::<name="Mt. Olympus~[cr50]"><font size=+1><b>Mt. Olympus~[cr50]</b>, mountain, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::Mt. Olympus~[cr50], mountain, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Mt. Olympus: 
+4:0::3::North, plain, to Olympus Plains~[cq50], 7~days
+4:0::3::East, to Forest~[cr51], 8~days
+4:0::3::South, plain, to Olympus Plains~[cs50], 7~days
+4:0::3::West, plain, to Olympus Plains~[cr49], 7~days
+4:0::3::Up, cloud, to Cloud~[gz22], Cloudlands, impassable
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Grove of the Stalker~[r380], yew grove, 1 day
+4:0::3::Smith Hole~[110097], mine, defense~10, depth~5, 14%~damaged, owner:
+4:0::0/6::      Dwarf~[105235], with 57~workers, accompanied~by:
+4:0::0/9::         Savage~[110178], savage, prisoner
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[9472], garrison, on guard, with 18~soldiers, five~peasants
+4:0::0/3:: * Breeder I~[w604], with 18~giant lizards, accompanied~by:
+4:0::0/6:: *    Breeder V~[142038], with three~giant lizards
+4:0::0/6:: *    Breeder III~[97856], with 59~winged horses, ten~harpies
+4:0::0/3::   Goblin recruiter~[147107], "{<i>}Gobbo!{</i>}"
+4:0::0::
+4:2::0::
+4:2::0::<name="Forest~[cr51]"><font size=+1><b>Forest~[cr51]</b>, forest, in Provinia, safe haven, civ-3</font>
+4:2::0::<hr>
+4:1::0::Forest~[cr51], forest, in Provinia, safe haven, civ-3
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Forest: 
+4:0::3::North, plain, to Olympus Plains~[cq51], 7~days
+4:0::3::East, forest, to Oldwood forest~[cr52], 8~days
+4:0::3::South, plain, to Xibalba Plateau~[cs51], 7~days
+4:0::3::West, mountain, to Mt. Olympus~[cr50], 10~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Imperial City~[g92], city, safe haven, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[8760], garrison, on guard, with ten~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="Oldwood forest~[cs54]"><font size=+1><b>Oldwood forest~[cs54]</b>, forest, in Provinia, wilderness</font>
+4:2::0::<hr>
+4:1::0::Oldwood forest~[cs54], forest, in Provinia, wilderness
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Oldwood forest: 
+4:0::3::North, forest, to Oldwood forest~[cr54], 8~days
+4:0::3::East, forest, to Oldwood forest~[cs55], 8~days
+4:0::3::South, forest, to Oldwood forest~[ct54], 8~days
+4:0::3::West, forest, to Oldwood forest~[cs53], 8~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Yew grove~[c538], yew grove, 1 day
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[2400], garrison, on guard, with ten~soldiers
+4:0::0/3:: * Breeder VII~[86077], with 69~winged horses
+4:0::0::
+4:2::0::
+4:2::0::<name="Oldwood forest~[ct54]"><font size=+1><b>Oldwood forest~[ct54]</b>, forest, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::Oldwood forest~[ct54], forest, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Oldwood forest: 
+4:0::3::North, forest, to Oldwood forest~[cs54], 8~days
+4:0::3::East, forest, to Delzoun~[ct55], 8~days
+4:0::3::South, to Forest~[cv54], 8~days
+4:0::3::West, forest, to Oldwood forest~[ct53], 8~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Hollian~[w61], city, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[94178], garrison, on guard, with 69~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="Forest~[cv54]"><font size=+1><b>Forest~[cv54]</b>, forest, in Provinia, wilderness</font>
+4:2::0::<hr>
+4:1::0::Forest~[cv54], forest, in Provinia, wilderness
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Acropolis of the Jaguar~[r149], castle, in Xibalba Plateau~[cs51]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Forest: 
+4:0::3::North, forest, to Oldwood forest~[ct54], 8~days
+4:0::3::East, plain, to Delzoun~[cv55], 7~days
+4:0::3::South, desert, to Kastrian Desert~[cw54], 8~days
+4:0::3::West, plain, to Olympus Plains~[cv53], 7~days
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[2261], garrison, on guard, with ten~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="Kastrian Desert~[cw54]"><font size=+1><b>Kastrian Desert~[cw54]</b>, desert, in Provinia, wilderness</font>
+4:2::0::<hr>
+4:1::0::Kastrian Desert~[cw54], desert, in Provinia, wilderness
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Kastria Central~[81847], castle, in Kastrian Forest~[da52]
+4:0::0::Ruled by dead body~[86697]
+4:0::0::
+4:0::0::Routes leaving Kastrian Desert: 
+4:0::3::North, to Forest~[cv54], 8~days
+4:0::3::East, swamp, to Delzoun~[cw55], 14~days
+4:0::3::South, swamp, to East Kastria Swamp~[cx54], 14~days
+4:0::3::West, plain, to South Central Plains~[cw53], 7~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Oasis~[z573], oasis, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[128118], garrison, on guard, with ten~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="East Kastria Swamp~[cx54]"><font size=+1><b>East Kastria Swamp~[cx54]</b>, swamp, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::East Kastria Swamp~[cx54], swamp, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Kastria Central~[81847], castle, in Kastrian Forest~[da52]
+4:0::0::Ruled by dead body~[86697]
+4:0::0::
+4:0::0::Routes leaving East Kastria Swamp: 
+4:0::3::North, desert, to Kastrian Desert~[cw54], 8~days
+4:0::3::East, forest, to Delzoun~[cx55], 8~days
+4:0::3::South, plain, to Kastria~[cz54], 7~days
+4:0::3::West, plain, to South Central Plains~[cx53], 7~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Agnar~[d89], city, 1 day
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[7444], garrison, on guard, with ten~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="Cloud~[gz22]"><font size=+1><b>Cloud~[gz22]</b>, cloud, in Cloudlands, civ-2</font>
+4:2::0::<hr>
+4:1::0::Cloud~[gz22], cloud, in Cloudlands, civ-2
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Schloss Smith~[100928], castle, in Cloud~[sr78]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Cloud: 
+4:0::3::North, cloud, to Cloud~[sr78], 7~days
+4:0::3::East, cloud, to Cloud~[sa72], 7~days
+4:0::3::South, cloud, to Cloud~[tb40], 7~days
+4:0::3::West, cloud, to Cloud~[vx13], 7~days
+4:0::3::Down, mountain, to Mt. Olympus~[cr50], Provinia, impassable
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[2507], garrison, on guard, with ten~peasants
+4:0::0/3::   Savage~[123027], savages, number:~5
+4:0::0/3::   Transport~[94165], with 39~winged horses
+4:0::0::
+4:2::0::
+4:2::0::<name="Cloud~[sr78]"><font size=+1><b>Cloud~[sr78]</b>, cloud, in Cloudlands, civ-5</font>
+4:2::0::<hr>
+4:1::0::Cloud~[sr78], cloud, in Cloudlands, civ-5
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Schloss Smith~[100928], castle, in Cloud~[sr78]
+4:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+4:0::0::
+4:0::0::Routes leaving Cloud: 
+4:0::3::North, cloud, to Cloud~[nj89], 7~days
+4:0::3::East, cloud, to Cloud~[vs63], 7~days
+4:0::3::South, cloud, to Cloud~[gz22], 7~days
+4:0::3::West, cloud, to Cloud~[ns08], 7~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Nimbus~[d88], city, 1 day
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[7277], garrison, on guard, with ten~peasants
+4:0::0::
+4:2::0::
+4:2::0::<name="Nimbus~[d88]"><font size=+1><b>Nimbus~[d88]</b>, city, in province Cloud~[sr78]</font>
+4:2::0::<hr>
+4:1::0::Nimbus~[d88], city, in province Cloud~[sr78]
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Nimbus: 
+4:0::3::Out, cloud, to Cloud~[sr78], 1~day
+4:0::0::
+4:0::0::Cities rumored to be nearby:
+4:0::3::Aerovia~[c35], in Cloud~[tr30]
+4:0::3::Imperial City~[g92], in Forest~[cr51], safe haven
+4:0::3::Machu Pichu~[m97], in Xibalba Plateau~[cs51]
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Weather magic~[820]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy   h879      37     11       100   honey~[123436]           
+4:0::3:: sell    d88   1,000      1         1   Golden ring~[94225]      
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::New temple~[3123], temple, defense~10
+4:0::3::Schloss Smith~[100928], castle, defense~60, level~2, owner:
+4:0::0/6::      Bruce Smith~[z729], lord, "{<i>}Smith Erigadorn Ltd.{</i>}", with four~winged horses, accompanied~by:
+4:0::0/9::         Bill Smith~[g621], "{<i>}Smith-Erigadorn Ltd.{</i>}", with six~winged horses
+4:0::0/9::         William Wallace~[w068], master of the black arts, with 273~winged horses
+4:0::6::Eye of God~[7926], tower, defense~40, owner:
+4:0::0/9::         Banstable Smith II~[w837], duke, master of the black arts, "{<i>}Smith Erigadorn Ltd.{</i>}", with two~winged horses
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Mark Smith~[h879], with one~hound, ten~soldiers
+4:0::0/3::   Angel I~[134028], with two~winged horses, 22~harpies, accompanied~by:
+4:0::0/6::      Angel II~[120615], with four~winged horses, two~harpies
+4:0::0/6::      Angel III~[109781], with four~winged horses, two~harpies
+4:0::0::
+4:2::0::
+4:2::0::<name="Agnar~[d89]"><font size=+1><b>Agnar~[d89]</b>, city, in province East Kastria Swamp~[cx54]</font>
+4:2::0::<hr>
+4:1::0::Agnar~[d89], city, in province East Kastria Swamp~[cx54]
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Agnar: 
+4:0::3::Out, swamp, to East Kastria Swamp~[cx54], 1~day
+4:0::0::
+4:0::0::Cities rumored to be nearby:
+4:0::3::City of the Shadows~[f05], in Oldwood forest~[cs55]
+4:0::3::Imperial City~[g92], in Forest~[cr51], safe haven
+4:0::3::Twilight City~[g95], in Twilight zone~[df55]
+4:0::3::Machu Pichu~[m97], in Xibalba Plateau~[cs51]
+4:0::3::Greton~[r79], in Kastrian Forest~[da52]
+4:0::3::Skyllith~[t64], in Kastria~[db54]
+4:0::3::Hollian~[w61], in Oldwood forest~[ct54]
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Combat~[610], Stealth~[630], Construction~[680], Trade~[730], Magic~[800], Scrying~[840]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy      ?     112     47        80   fine cloaks~[111590]     
+4:0::3::  buy    d89     135      4        50   hides~[99]               
+4:0::3::  buy    d89       7      9         5   clay pots~[95]           
+4:0::3::  buy    d89     115     32        62   pipeweed~[v053]          
+4:0::3:: sell    d89      22     37        27   saffron~[119939]         
+4:0::3:: sell    d89      14     42       100   beans~[v886]             
+4:0::3:: sell    d89     100     48       100   jade~[v739]              
+4:0::3:: sell    d89      13     28       100   oranges~[130785]         
+4:0::3:: sell    d89      10     43       100   beans~[p599]             
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[2441], garrison, on guard, with 148~pikemen
+4:0::0::
+4:2::0::
+4:2::0::<name="Imperial City~[g92]"><font size=+1><b>Imperial City~[g92]</b>, city, in province Forest~[cr51], safe haven</font>
+4:2::0::<hr>
+4:1::0::Imperial City~[g92], city, in province Forest~[cr51], safe haven
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Imperial City: 
+4:0::3::Out, to Forest~[cr51], 1~day
+4:0::0::
+4:0::0::Cities rumored to be nearby:
+4:0::3::Aerovia~[c35], in Cloud~[tr30]
+4:0::3::Nimbus~[d88], in Cloud~[sr78]
+4:0::3::City of the Shadows~[f05], in Oldwood forest~[cs55]
+4:0::3::Machu Pichu~[m97], in Xibalba Plateau~[cs51]
+4:0::3::Golden City~[t63], in Forest~[cm47], safe haven
+4:0::3::Hollian~[w61], in Oldwood forest~[ct54]
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy    g92     134      3        50   hides~[99]               
+4:0::3::  buy    g92      91     33       100   walnuts~[n771]           
+4:0::3::  buy    g92      94     40        27   saffron~[119939]         
+4:0::3::  buy    g92       4     15         1   woven baskets~[94]       
+4:0::3:: sell    g92      30     43        65   plum wine~[r476]         
+4:0::3:: sell    g92      30     34        50   licorice~[99213]         
+4:0::3:: sell    g92      22     29        30   incense~[89246]          
+4:0::3:: sell    g92      11     25        30   wood~[77]                
+4:0::3:: sell    g92      45     40        65   plum wine~[129763]       
+4:0::3:: sell    g92      19     50       100   walnuts~[m373]           
+4:0::3:: sell    g92      10     50        50   soap~[101592]            
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Sewer~[g882], sewer, hidden
+4:0::3::Tower of Doom~[2857], tower, defense~40
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3:: * Breeder VI~[100265], with 30~winged horses
+4:0::0/3::   New noble~[90108], with one~winged horse
+4:0::0::
+4:2::0::
+4:2::0::<name="Moon Shadow~[t58]"><font size=+1><b>Moon Shadow~[t58]</b>, city, in province Dragons Peak~[ck41]</font>
+4:2::0::<hr>
+4:1::0::Moon Shadow~[t58], city, in province Dragons Peak~[ck41]
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Moon Shadow: 
+4:0::3::Out, mountain, to Dragons Peak~[ck41], 1~day
+4:0::0::
+4:0::0::Cities rumored to be nearby:
+4:0::3::Golden City~[t63], in Forest~[cm47], safe haven
+4:0::3::StarShadow~[z78], in StarLight Shadow~[cm42]
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Alchemy~[690], Mining~[720], Magic~[800]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy   t941      25    247        10   iron~[79]                
+4:0::3::  buy   f090      27      7       100   walnuts~[121826]         
+4:0::3::  buy    t58       4     15         1   woven baskets~[94]       
+4:0::3::  buy    t58     180     32       100   jade~[126140]            
+4:0::3:: sell    t58      25     49        43   tea~[w061]               
+4:0::3:: sell    t58       1     50        10   lead~[102]               
+4:0::3:: sell    t58      25      2        10   iron~[79]                
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::South Fort~[t114], castle, defense~80, level~6, owner:
+4:0::0/6::      General Attitude~[9943], duke, conjurer, wielding Axe of the Planes~[h897], wearing Spiked Plate~[91588], "{<i>}Greyfell Lord{</i>}", with 111~peasants, 291~soldiers, two~elite guard, 183~pikemen, 1,143~ghost warriors, 83~swordsmen, 20~winged horses, 41~nazgul, 14~giant spiders, 14~giant birds, 402~giant lizards, 24~harpies, three~dragons, one~cyclops, one~hound, 28~wild horses, 21~riding horses, seven~warmounts, 13~oxen, 22~rats, accompanied~by:
+4:0::0/9::         Khasan al Kusai~[c959], wearing Dragon Fire Armor~[104191], "{<i>}Greyfell Lord{</i>}", with ten~peasants, ten~swordsmen, 91~crossbowmen, 17~elite archers, two~winged horses, nine~catapults, one~hound
+4:0::0/9::         Yang~[114963], wielding Ebony Blade~[117657], wearing Ring of Ancients~[a906], "{<i>}The Older{</i>}", with two~giant lizards
+4:0::0/6::      Lord Riurik~[a593], conjurer, wielding sword of Earth~[z974], "{<i>}Greyfell Lord{</i>}", with 16~ghost warriors, 32~winged horses
+4:0::0/6::      Royal Guard~[117144], savage, "{<i>}Greyfell Elite{</i>}"
+4:0::6::Spire Lunaire~[q355], tower, defense~40, owner:
+4:0::0/9::         Yin~[111083], "{<i>}The Younger{</i>}"
+4:0::6::Palazzo di Bicci~[k160], tower, defense~40
+4:0::3::La Main du Dragon~[w262], temple, defense~10, owner:
+4:0::0/6:: *    Lord Magnus~[h727], mage, priest, with ten~peasants, one~winged horse
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[1804], garrison, on guard, with 72~pikemen, accompanied~by:
+4:0::0/6::      Royal Guard~[131449], savage, "{<i>}Moonshadow Sheriff{</i>}", with six~oxen
+4:0::0/3:: * Eloise Pritchart~[k142], conjurer, with 12~winged horses
+4:0::0/3::   Shadow Knight~[t941], with 28~workers, 23~riding horses, accompanied~by:
+4:0::0/6::      Lubonski~[p949], prisoner
+4:0::0/3::   Andrew Bogoliubski~[f090], with two~winged horses
+4:0::0::
+4:2::0::
+4:2::0::<name="Golden City~[t63]"><font size=+1><b>Golden City~[t63]</b>, city, in province Forest~[cm47], safe haven</font>
+4:2::0::<hr>
+4:1::0::Golden City~[t63], city, in province Forest~[cm47], safe haven
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Golden City: 
+4:0::3::Out, to Forest~[cm47], 1~day
+4:0::0::
+4:0::0::Cities rumored to be nearby:
+4:0::3::Imperial City~[g92], in Forest~[cr51], safe haven
+4:0::3::Salach~[n38], in Mountain~[cm46]
+4:0::3::Delde City~[q53], in Mountain~[cm49]
+4:0::3::StarShadow~[z78], in StarLight Shadow~[cm42]
+4:0::3::South Fort~[z98], in Swamp~[ch48]
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy  97975     110     14       100   purple cloth~[133350]    
+4:0::3::  buy  97975      32     30        62   pipeweed~[q996]          
+4:0::3::  buy      ?      25     49       100   honey~[100243]           
+4:0::3::  buy    t63       7      9         5   clay pots~[95]           
+4:0::3::  buy    t63     196     20       100   jade~[88994]             
+4:0::3::  buy    t63     128     41        28   myrrh~[88271]            
+4:0::3:: sell      ?      73     49       100   honey~[100243]           
+4:0::3:: sell    t63      15     25        30   wood~[77]                
+4:0::3:: sell    t63      90     36       100   obsidian~[c543]          
+4:0::3:: sell    t63      15     41       100   sugar~[130735]           
+4:0::3:: sell    t63      22     28        30   incense~[83907]          
+4:0::3:: sell    t63      65     35        72   chocolate~[108100]       
+4:0::3:: sell    t63     123     46        45   silk~[149639]            
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Trader 25~[97975], with eight~winged horses
+4:0::0/3::   Lorenzo The Magnificent~[r930], "{<i>}Greyfell Lord{</i>}", with 15~winged horses, five~giant lizards
+4:0::0::
+4:2::0::
+4:2::0::<name="Etranth~[v64]"><font size=+1><b>Etranth~[v64]</b>, city, in province Olympus Plains~[cr47]</font>
+4:2::0::<hr>
+4:1::0::Etranth~[v64], city, in province Olympus Plains~[cr47]
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Etranth: 
+4:0::3::Out, plain, to Olympus Plains~[cr47], 1~day
+4:0::0::
+4:0::0::Cities rumored to be nearby:
+4:0::3::Nimbus~[d88], in Cloud~[sr78]
+4:0::3::Imperial City~[g92], in Forest~[cr51], safe haven
+4:0::3::Machu Pichu~[m97], in Xibalba Plateau~[cs51]
+4:0::3::Golden City~[t63], in Forest~[cm47], safe haven
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Persuasion~[670], Construction~[680], Alchemy~[690], Magic~[800]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy    v64       4     15         1   woven baskets~[94]       
+4:0::3::  buy    v64     141     32        28   myrrh~[149166]           
+4:0::3:: sell      ?     182     33       100   jade~[120050]            
+4:0::3:: sell    v64       1     50        10   lead~[102]               
+4:0::3:: sell    v64      25     29       100   honey~[89537]            
+4:0::3:: sell    v64     100      5     2,000   oxen~[76]                
+4:0::3:: sell    v64     130      2     1,000   riding horses~[52]       
+4:0::3:: sell    v64      25     49       100   honey~[125631]           
+4:0::3:: sell    v64      32     42        62   pipeweed~[132331]        
+4:0::3:: sell    v64     150     47       100   jade~[87974]             
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[2990], garrison, on guard, with 126~pikemen
+4:0::0/3:: * Breeder IV~[91377], with 20~winged horses
+4:0::0::
+5:0::0::
+5:0::0::begin nn3 "margo"  # Breeders Inc.
+5:0::0::
+5:0::0::unit nn3  # Breeders Inc.
+5:0::0::
+5:0::0::unit m595  # Lord Grum in Mountain~[bv49]
+5:0::0::
+5:0::0::unit t536  # Richard Harrington in Llangollen Mountain Ridge~[bw49]
+5:0::0::
+5:0::0::unit g690  # Charlie Bass in Llangollen Mountain Ridge~[bw49]
+5:0::3::# > breed 282 282 (executing for five more days)
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit w164  # Lady Evalin in Llangollen Mountain Ridge~[bw49]
+5:0::0::
+5:0::0::unit t720  # Erik the Fox in Mount Jacinth~[cg47]
+5:0::0::
+5:0::0::unit h727  # Lord Magnus in La Main du Dragon~[w262]
+5:0::0::
+5:0::0::unit k142  # Eloise Pritchart in Moon Shadow~[t58]
+5:0::3::# > use 841 ap56 (executing for two more days)
+5:0::0::
+5:0::0::unit 91377  # Breeder IV in Etranth~[v64]
+5:0::3::# > breed 54 54 (executing for four more days)
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit w604  # Breeder I in Mt. Olympus~[cr50]
+5:0::3::# > breed 282 282 (executing for one more day)
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 142038  # Breeder V in Mt. Olympus~[cr50]
+5:0::3::give w604 282 0
+5:0::3::get w604 282 2
+5:0::3::breed 282 282
+5:0::3::give w604 282 0
+5:0::3::get w604 282 2
+5:0::3::breed 282 282
+5:0::3::give w604 282 0
+5:0::3::get w604 282 2
+5:0::3::breed 282 282
+5:0::3::give w604 282 0
+5:0::3::get w604 282 2
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 97856  # Breeder III in Mt. Olympus~[cr50]
+5:0::3::# > breed 285 285 (executing for six more days)
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::0::
+5:0::0::unit 100265  # Breeder VI in Imperial City~[g92]
+5:0::3::# > breed 54 54 (executing for two more days)
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit 86077  # Breeder VII in Oldwood forest~[cs54]
+5:0::3::# > fly n (executing for one more day)
+5:0::3::fly w
+5:0::3::fly w
+5:0::3::fly w
+5:0::3::fly w
+5:0::3::fly w
+5:0::3::fly w
+5:0::0::
+5:0::0::unit r667  # Ian Aenstein in Peterborough~[ch08]
+5:0::3::# > explore (executing for three more days)
+5:0::3::explore
+5:0::3::explore
+5:0::0::
+5:0::0::end
+53513:0::0::
+53513:0::0::Admit permissions:
+53513:0::0::
+53513:0::3::admit g690  bh3  gk5  hd3  nn3  ta8  tr5  vy5  xy3  yg9  ym3
+53513:0::3::admit h727  bh3  gk5  hd3  nn3  ta8  tr5  vy5  xy3  yg9  ym3
+53513:0::3::admit k142  bh3  gk5  hd3  nn3  ta8  tr5  vy5  xy3  yg9  ym3
+53513:0::3::admit r667  bh3  gk5  hd3  nn3  ta8  tr5  vy5  xy3  yg9  ym3
+53513:0::3::admit t563  bh3  gk5  hd3  nn3  ta8  tr5  vy5  xy3  yg9  ym3
+53513:0::3::admit t720  bh3  gk5  hd3  nn3  ta8  tr5  vy5  xy3  yg9  ym3
+53513:0::3::admit w604  bh3  gk5  hd3  nn3  ta8  tr5  vy5  xy3  yg9  ym3
+53513:0::0::
+53513:0::0::Unclaimed items:
+53513:0::0::
+53513:0::0::      qty  name                              weight
+53513:0::0::      ---  ----                              ------
+53513:0::0::       50  gold~[1]                               0  
+64690:0::3::
+64690:0::3/16::Location:       Llangollen Mountain Ridge~[bw49], in Provinia
+64690:0::3::Loyalty:        Oath-1
+64690:0::3::Health:         100%
+64690:0::3::Combat:         attack 80, defense 80, missile 0
+64690:0::3::                behind 2  (stay behind in combat)
+64690:0::3::Break point:    0% (fight to the death)
+64690:0::3::
+64690:0::3::Skills known:
+64690:0::6::Shipcraft~[600]
+64690:0::12::Sailing~[601], apprentice
+64690:0::6::Combat~[610]
+64690:0::12::Survive fatal wound~[611]
+64690:0::12::Fight to the death~[612]
+64690:0::12::Swordplay~[616], apprentice
+64690:0::6::Stealth~[630]
+64690:0::6::Beastmastery~[650]
+64690:0::12::Capture beasts in battle~[652]
+64690:0::12::Use beasts in battle~[653]
+64690:0::12::Breed beasts~[654], master
+64690:0::6::Alchemy~[690]
+64690:0::12::Extract venom from ratspider~[691], apprentice
+64690:0::12::Make potion of slavery~[692], apprentice
+64690:0::3::
+64690:0::3::Inventory:
+64690:0::3::{<b>}      qty  name                              weight{</b>}
+64690:0::3::      ---  ----                              ------
+64690:0::3::      238  gold~[1]                               0  
+64690:0::3::       21  pikemen~[16]                       2,100  cap 2,100 (5,30,0)
+64690:0::3::       14  riding horses~[52]                14,000  ride 2,100
+64690:0::3::        9  winged horses~[54]                 9,000  fly 1,350
+64690:0::3::       79  longswords~[74]                      395  
+64690:0::3::        4  oxen~[76]                          8,000  cap 6,000
+64690:0::3::       10  giant lizards~[282]               10,000   (45,45,0)
+64690:0::3::                                             ======
+64690:0::3::                                             43,495
+64690:0::3::
+64690:0::3/11::Capacity:  395/11,650 land (3%), 2,595/3,450 ride (75%), 34,595/1,350 fly (2562%)
+64690:0::3::
+65727:0::3::
+65727:0::3/16::Location:       La Main du Dragon~[w262], in Moon Shadow~[t58], in province Dragons Peak~[ck41], in Provinia
+65727:0::3::Loyalty:        Oath-2
+65727:0::3::Health:         100%
+65727:0::3::Combat:         attack 80, defense 108, missile 0
+65727:0::3::                behind 2  (stay behind in combat)
+65727:0::3::Break point:    50%
+65727:0::3::Receive Vision: 5 protection
+65727:0::3/16::Pledged to:     Bukowski~[a379]
+65727:0::3::
+65727:0::3::Current aura:   13
+65727:0::3::Maximum aura:   13
+65727:0::3::
+65727:0::3::Skills known:
+65727:0::6::Combat~[610]
+65727:0::12::Survive fatal wound~[611]
+65727:0::12::Fight to the death~[612]
+65727:0::12::Construct catapult~[613], apprentice
+65727:0::12::Defense~[614], apprentice
+65727:0::12::Weaponsmithing~[617], journeyman
+65727:0::6::Construction~[680]
+65727:0::12::Construct siege tower~[681], apprentice
+65727:0::12::Stone quarrying~[682], adept
+65727:0::6::Mining~[720]
+65727:0::12::Mine iron~[721], journeyman
+65727:0::12::Mine gold~[722], journeyman
+65727:0::6::Religion~[750]
+65727:0::12::Receive vision~[751], apprentice
+65727:0::12::Resurrect dead noble~[752], apprentice
+65727:0::12::Preparatory ritual~[753], apprentice
+65727:0::12::Immunity from Vision~[756], apprentice
+65727:0::6::Magic~[800]
+65727:0::12::Meditate~[801], journeyman
+65727:0::12::Perform common tasks for gold~[802], grand master
+65727:0::12::Appear common~[803], journeyman
+65727:0::12::View current aura level of others~[804], apprentice
+65727:0::12::Reveal abilities of another mage~[805], apprentice
+65727:0::12::Tap health for aura~[806], apprentice
+65727:0::12::Heal~[807], apprentice
+65727:0::12::Modern magic script~[808], apprentice
+65727:0::12::Shroud abilities from scry~[809], apprentice
+65727:0::12::Dispel ability shroud~[812], apprentice
+65727:0::12::Advanced meditation~[813], apprentice
+65727:0::12::Hinder meditation~[814], apprentice
+65727:0::3::
+65727:0::3::Inventory:
+65727:0::3::{<b>}      qty  name                              weight{</b>}
+65727:0::3::      ---  ----                              ------
+65727:0::3::    1,290  gold~[1]                               0  
+65727:0::3::       10  peasants~[10]                      1,000  cap 1,000 (1,1,0)
+65727:0::3::        1  winged horse~[54]                  1,000  fly 150
+65727:0::3::                                             ======
+65727:0::3::                                              2,000
+65727:0::3::
+65727:0::3/11::Capacity:  0/1,250 land (0%), 1,100/150 ride (733%), 1,100/150 fly (733%)
+65727:0::3::
+67142:0::3::
+67142:0::3/16::Location:       Moon Shadow~[t58], in province Dragons Peak~[ck41], in Provinia
+67142:0::3::Loyalty:        Oath-1
+67142:0::3::Health:         100%
+67142:0::3::Combat:         attack 106, defense 131, missile 0
+67142:0::3::                behind 2  (stay behind in combat)
+67142:0::3::Break point:    50%
+67142:0::3::
+67142:0::3::Current aura:   3
+67142:0::3::Maximum aura:   6
+67142:0::3::
+67142:0::3::Skills known:
+67142:0::6::Combat~[610]
+67142:0::12::Survive fatal wound~[611]
+67142:0::12::Defense~[614], journeyman
+67142:0::12::Swordplay~[616], apprentice
+67142:0::12::Weaponsmithing~[617], apprentice
+67142:0::6::Stealth~[630]
+67142:0::12::Torture prisoner~[637], apprentice
+67142:0::6::Construction~[680]
+67142:0::6::Scrying~[840]
+67142:0::12::Scry location~[841], adept
+67142:0::12::Remove magical barrier~[846], apprentice
+67142:0::12::Locate character~[847], apprentice
+67142:0::12::Save farcast state~[851], apprentice
+67142:0::12::Banish undead~[852], apprentice
+67142:0::3::
+67142:0::3::Partially known skills:
+67142:0::6/6::Shroud location from magical scry~[842], 1/14
+67142:0::6/6::Dispel location shroud~[843], 1/21
+67142:0::6/6::Ciphered writing of Areth-Pirn~[844], 1/21
+67142:0::6/6::Create magical barrier~[845], 15/21
+67142:0::6/6::Farcasting~[849], 16/21
+67142:0::3::
+67142:0::3::Inventory:
+67142:0::3::{<b>}      qty  name                              weight{</b>}
+67142:0::3::      ---  ----                              ------
+67142:0::3::      501  gold~[1]                               0  
+67142:0::3::       12  winged horses~[54]                12,000  fly 1,800
+67142:0::3::                                             ======
+67142:0::3::                                             12,000
+67142:0::3::
+67142:0::3/11::Capacity:  0/1,900 land (0%), 100/1,800 ride (5%), 100/1,800 fly (5%)
+67142:0::3::
+68595:0::3::
+68595:0::3/16::Location:       Mountain~[bv49], in Provinia
+68595:0::3::Loyalty:        Fear-9974
+68595:0::3::Health:         100%
+68595:0::3::Combat:         attack 80, defense 104, missile 50
+68595:0::3::                behind 9  (stay behind in combat)
+68595:0::3::Break point:    50%
+68595:0::3::Banner:         Mountain Dwarf
+68595:0::3::
+68595:0::3::Skills known:
+68595:0::6::Combat~[610]
+68595:0::12::Survive fatal wound~[611]
+68595:0::12::Fight to the death~[612]
+68595:0::12::Defense~[614], apprentice
+68595:0::12::Archery~[615], apprentice
+68595:0::12::Weaponsmithing~[617], apprentice
+68595:0::6::Stealth~[630]
+68595:0::6::Mining~[720]
+68595:0::12::Mine iron~[721], journeyman
+68595:0::12::Mine gold~[722], journeyman
+68595:0::12::Mine mithril~[723], apprentice
+68595:0::3::
+68595:0::3::Partially known skills:
+68595:0::6/6::Sneak into structure~[639], 14/21
+68595:0::3::
+68595:0::3::Inventory:
+68595:0::3::{<b>}      qty  name                              weight{</b>}
+68595:0::3::      ---  ----                              ------
+68595:0::3::    1,897  gold~[1]                               0  
+68595:0::3::        1  elfstone~[69]                          1  
+68595:0::3::        1  mithril~[82]                           5  
+68595:0::3::                                             ======
+68595:0::3::                                                  6
+68595:0::3::
+68595:0::3/11::Capacity:  6/100 land (6%)
+68595:0::3::
+72667:0::3::
+72667:0::3/16::Location:       Peterborough~[ch08], in Cragstan
+72667:0::3::Loyalty:        Oath-1
+72667:0::3::Health:         100%
+72667:0::3::Combat:         attack 107, defense 80, missile 0
+72667:0::3::                behind 3  (stay behind in combat)
+72667:0::3::Break point:    50%
+72667:0::3::use  641 1      (concealing self, but not alone)
+72667:0::3::
+72667:0::3::Skills known:
+72667:0::6::Combat~[610]
+72667:0::12::Survive fatal wound~[611]
+72667:0::12::Fight to the death~[612]
+72667:0::12::Defense~[614], apprentice
+72667:0::12::Swordplay~[616], apprentice
+72667:0::12::Weaponsmithing~[617], adept
+72667:0::6::Stealth~[630]
+72667:0::12::Petty thievery~[631], apprentice
+72667:0::12::Determine skills of character~[633], apprentice
+72667:0::12::Conceal self~[641], apprentice
+72667:0::6::Persuasion~[670]
+72667:0::12::Bribe noble~[671], apprentice
+72667:0::12::Persuade oathbound noble~[672], journeyman
+72667:0::6::Forestry~[700]
+72667:0::12::Construct battering ram~[701], apprentice
+72667:0::12::Harvest lumber~[702], apprentice
+72667:0::6::Trade~[730]
+72667:0::12::Conceal identity of trader~[731], apprentice
+72667:0::12::Find tradegood for sale~[732], apprentice
+72667:0::12::Find market for tradegood~[733], apprentice
+72667:0::3::
+72667:0::3::Inventory:
+72667:0::3::{<b>}      qty  name                              weight{</b>}
+72667:0::3::      ---  ----                              ------
+72667:0::3::    6,482  gold~[1]                               0  
+72667:0::3::       13  peasants~[10]                      1,300  cap 1,300 (1,1,0)
+72667:0::3::       10  workers~[11]                       1,000  cap 1,000 (1,1,0)
+72667:0::3::        5  soldiers~[12]                        500  cap 500 (5,5,0)
+72667:0::3::        1  winged horse~[54]                  1,000  fly 150
+72667:0::3::        5  yew~[68]                              15  
+72667:0::3::       60  wood~[77]                          1,800  
+72667:0::3::                                             ======
+72667:0::3::                                              5,615
+72667:0::3::
+72667:0::3/11::Capacity:  1,815/3,050 land (59%), 4,715/150 ride (3143%), 4,715/150 fly (3143%)
+72667:0::3::
+74536:0::3::
+74536:0::3/16::Location:       Llangollen Mountain Ridge~[bw49], in Provinia
+74536:0::3::Loyalty:        Oath-1
+74536:0::3::Health:         100%
+74536:0::3::Combat:         attack 112, defense 104, missile 0
+74536:0::3::                behind 5  (stay behind in combat)
+74536:0::3::Break point:    50%
+74536:0::3::Prisoners:      Savage~[121715], health 100
+74536:0::3::
+74536:0::3::Skills known:
+74536:0::6::Shipcraft~[600]
+74536:0::12::Sailing~[601], apprentice
+74536:0::12::Shipbuilding~[602], apprentice
+74536:0::12::Fishing~[603], apprentice
+74536:0::6::Combat~[610]
+74536:0::12::Survive fatal wound~[611]
+74536:0::12::Defense~[614], apprentice
+74536:0::12::Swordplay~[616], journeyman
+74536:0::12::Weaponsmithing~[617], master
+74536:0::6::Construction~[680]
+74536:0::6::Forestry~[700]
+74536:0::12::Construct battering ram~[701], apprentice
+74536:0::12::Harvest lumber~[702], master
+74536:0::12::Harvest yew~[703], apprentice
+74536:0::6::Trade~[730]
+74536:0::12::Conceal identity of trader~[731], apprentice
+74536:0::12::Find tradegood for sale~[732], apprentice
+74536:0::12::Find market for tradegood~[733], apprentice
+74536:0::3::
+74536:0::3::Partially known skills:
+74536:0::6/6::Archery~[615], 14/21
+74536:0::3::
+74536:0::3::Inventory:
+74536:0::3::{<b>}      qty  name                              weight{</b>}
+74536:0::3::      ---  ----                              ------
+74536:0::3::        2  gold~[1]                               0  
+74536:0::3::       10  soldiers~[12]                      1,000  cap 1,000 (5,5,0)
+74536:0::3::       30  pikemen~[16]                       3,000  cap 3,000 (5,30,0)
+74536:0::3::        1  winged horse~[54]                  1,000  fly 150
+74536:0::3::                                             ======
+74536:0::3::                                              5,000
+74536:0::3::
+74536:0::3/11::Capacity:  0/4,250 land (0%), 4,100/150 ride (2733%), 4,100/150 fly (2733%)
+74536:0::3::
+74720:0::3::
+74720:0::3/16::Location:       Mount Jacinth~[cg47], in Provinia
+74720:0::3::Loyalty:        Oath-1
+74720:0::3::Health:         100%
+74720:0::3::Combat:         attack 80, defense 120, missile 85
+74720:0::3::                behind 9  (stay behind in combat)
+74720:0::3::Break point:    50%
+74720:0::3::Banner:         Weather King
+74720:0::3::
+74720:0::3::Current aura:   10
+74720:0::3::Maximum aura:   10
+74720:0::3::
+74720:0::3::Skills known:
+74720:0::6::Combat~[610]
+74720:0::12::Survive fatal wound~[611]
+74720:0::12::Defense~[614], adept
+74720:0::12::Archery~[615], journeyman
+74720:0::12::Swordplay~[616], apprentice
+74720:0::12::Weaponsmithing~[617], journeyman
+74720:0::6::Stealth~[630]
+74720:0::6::Construction~[680]
+74720:0::6::Forestry~[700]
+74720:0::12::Harvest lumber~[702], adept
+74720:0::12::Harvest yew~[703], apprentice
+74720:0::12::Collect rare foliage~[704], apprentice
+74720:0::6::Mining~[720]
+74720:0::12::Mine iron~[721], journeyman
+74720:0::12::Mine gold~[722], journeyman
+74720:0::6::Weather magic~[820]
+74720:0::12::Fierce wind~[821], apprentice
+74720:0::12::Bind storm to ship~[822], apprentice
+74720:0::12::Scribe weather symbols~[823], apprentice
+74720:0::12::Summon wind~[825], apprentice
+74720:0::12::Summon fog~[826], apprentice
+74720:0::12::Direct storm~[827], apprentice
+74720:0::12::Dissipate storm~[828], apprentice
+74720:0::12::Renew storm strength~[829], apprentice
+74720:0::12::Seize control of storm~[832], apprentice
+74720:0::3::
+74720:0::3::Partially known skills:
+74720:0::6/6::Construct catapult~[613], 7/14
+74720:0::3::
+74720:0::3::Inventory:
+74720:0::3::{<b>}      qty  name                              weight{</b>}
+74720:0::3::      ---  ----                              ------
+74720:0::3::      141  gold~[1]                               0  
+74720:0::3::       10  peasants~[10]                      1,000  cap 1,000 (1,1,0)
+74720:0::3::        5  workers~[11]                         500  cap 500 (1,1,0)
+74720:0::3::        1  winged horse~[54]                  1,000  fly 150
+74720:0::3::                                             ======
+74720:0::3::                                              2,500
+74720:0::3::
+74720:0::3/11::Capacity:  0/1,750 land (0%), 1,600/150 ride (1066%), 1,600/150 fly (1066%)
+74720:0::3::
+76164:0::3::
+76164:0::3/16::Location:       Llangollen Mountain Ridge~[bw49], in Provinia
+76164:0::3::Loyalty:        Fear-9974
+76164:0::3::Health:         100%
+76164:0::3::Combat:         attack 80, defense 92, missile 0
+76164:0::3::                behind 9  (stay behind in combat)
+76164:0::3::Break point:    50%
+76164:0::3::Banner:         Red Dwarf
+76164:0::3::Prisoners:      Savage~[131824], health 15
+76164:0::3::
+76164:0::3::Skills known:
+76164:0::6::Combat~[610]
+76164:0::12::Survive fatal wound~[611]
+76164:0::12::Defense~[614], apprentice
+76164:0::12::Swordplay~[616], journeyman
+76164:0::12::Weaponsmithing~[617], journeyman
+76164:0::6::Mining~[720]
+76164:0::12::Mine iron~[721], journeyman
+76164:0::12::Mine gold~[722], journeyman
+76164:0::3::
+76164:0::3::Inventory:
+76164:0::3::{<b>}      qty  name                              weight{</b>}
+76164:0::3::      ---  ----                              ------
+76164:0::3::    2,857  gold~[1]                               0  
+76164:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+76164:0::3::        9  workers~[11]                         900  cap 900 (1,1,0)
+76164:0::3::       24  soldiers~[12]                      2,400  cap 2,400 (5,5,0)
+76164:0::3::       11  swordsmen~[20]                     1,100  cap 1,100 (15,15,0)
+76164:0::3::        3  winged horses~[54]                 3,000  fly 450
+76164:0::3::        8  iron~[79]                             80  
+76164:0::3::        7  drums~[98]                            14  
+76164:0::3::                                             ======
+76164:0::3::                                              7,594
+76164:0::3::
+76164:0::3/11::Capacity:  94/5,050 land (1%), 4,694/450 ride (1043%), 4,694/450 fly (1043%)
+76164:0::3::
+76604:0::3::
+76604:0::3/16::Location:       Mt. Olympus~[cr50], in Provinia
+76604:0::3::Loyalty:        Oath-1
+76604:0::3::Stacked over:   Breeder V~[142038]
+76604:0::3::                Breeder III~[97856]
+76604:0::3::Health:         100%
+76604:0::3::Combat:         attack 80, defense 80, missile 0
+76604:0::3::                behind 2  (stay behind in combat)
+76604:0::3::Break point:    50%
+76604:0::3::use  641 1      (concealing self, but not alone)
+76604:0::3::
+76604:0::3::Skills known:
+76604:0::6::Combat~[610]
+76604:0::12::Survive fatal wound~[611]
+76604:0::6::Stealth~[630]
+76604:0::12::Conceal self~[641], apprentice
+76604:0::6::Beastmastery~[650]
+76604:0::12::Capture beasts in battle~[652]
+76604:0::12::Use beasts in battle~[653]
+76604:0::12::Breed beasts~[654], grand master
+76604:0::12::Catch wild horses~[655], apprentice
+76604:0::6::Construction~[680]
+76604:0::6::Trade~[730]
+76604:0::12::Find market for tradegood~[733], apprentice
+76604:0::3::
+76604:0::3::Partially known skills:
+76604:0::6/6::Fight to the death~[612], 14/28
+76604:0::3::
+76604:0::3::Inventory:
+76604:0::3::{<b>}      qty  name                              weight{</b>}
+76604:0::3::      ---  ----                              ------
+76604:0::3::        2  gold~[1]                               0  
+76604:0::3::       10  crossbows~[85]                       100  
+76604:0::3::       18  giant lizards~[282]               18,000   (45,45,0)
+76604:0::3::        1  641 Scroll~[k680]                      1  
+76604:0::3::                                             ======
+76604:0::3::                                             18,101
+76604:0::3::
+76604:0::3/11::Capacity:  101/100 land (101%)
+76604:0::3::
+76604:0::3::641 Scroll~[k680] permits study of the following skills:
+76604:0::6/3::Conceal self~[641] (requires Stealth)
+76604:0::3::
+86077:0::3::
+86077:0::3/16::Location:       Oldwood forest~[cs54], in Provinia
+86077:0::3::Loyalty:        Fear-82
+86077:0::3::Health:         100%
+86077:0::3::Combat:         attack 80, defense 91, missile 0
+86077:0::3::                behind 3  (stay behind in combat)
+86077:0::3::Break point:    50%
+86077:0::3::
+86077:0::3::Skills known:
+86077:0::6::Combat~[610]
+86077:0::12::Survive fatal wound~[611]
+86077:0::12::Defense~[614], apprentice
+86077:0::6::Beastmastery~[650]
+86077:0::12::Breed beasts~[654], apprentice
+86077:0::6::Trade~[730]
+86077:0::3::
+86077:0::3::Inventory:
+86077:0::3::{<b>}      qty  name                              weight{</b>}
+86077:0::3::      ---  ----                              ------
+86077:0::3::    3,255  gold~[1]                               0  
+86077:0::3::       69  winged horses~[54]                69,000  fly 10,350
+86077:0::3::        1  jade~[v739]                          100  
+86077:0::3::        1  beans~[v886]                         100  
+86077:0::3::        1  saffron~[119939]                      27  
+86077:0::3::        1  orange~[130785]                      100  
+86077:0::3::                                             ======
+86077:0::3::                                             69,327
+86077:0::3::
+86077:0::3/11::Capacity:  327/10,450 land (3%), 427/10,350 ride (4%), 427/10,350 fly (4%)
+86077:0::3::
+86077:0::3::Pending trades:
+86077:0::3::
+86077:0::6::trade    price    qty   item
+86077:0::6::-----    -----    ---   ----
+86077:0::6::  buy       10      1   beans~[p599]
+86077:0::3::
+91377:0::3::
+91377:0::3/16::Location:       Etranth~[v64], in province Olympus Plains~[cr47], in Provinia
+91377:0::3::Loyalty:        Fear-91
+91377:0::3::Health:         100%
+91377:0::3::Combat:         attack 80, defense 80, missile 0
+91377:0::3::                behind 2  (stay behind in combat)
+91377:0::3::Break point:    50%
+91377:0::3::
+91377:0::3::Skills known:
+91377:0::6::Combat~[610]
+91377:0::6::Beastmastery~[650]
+91377:0::12::Breed beasts~[654], journeyman
+91377:0::6::Trade~[730]
+91377:0::12::Find market for tradegood~[733], apprentice
+91377:0::3::
+91377:0::3::Inventory:
+91377:0::3::{<b>}      qty  name                              weight{</b>}
+91377:0::3::      ---  ----                              ------
+91377:0::3::       20  winged horses~[54]                20,000  fly 3,000
+91377:0::3::                                             ======
+91377:0::3::                                             20,000
+91377:0::3::
+91377:0::3/11::Capacity:  0/3,100 land (0%), 100/3,000 ride (3%), 100/3,000 fly (3%)
+91377:0::3::
+91377:0::3::Pending trades:
+91377:0::3::
+91377:0::6::trade    price    qty   item
+91377:0::6::-----    -----    ---   ----
+91377:0::6:: sell       73    999   honey~[100243]
+91377:0::3::
+97856:0::3::
+97856:0::3/16::Location:       Mt. Olympus~[cr50], in Provinia
+97856:0::3::Loyalty:        Fear-85
+97856:0::3/16::Stacked under:  Breeder I~[w604]
+97856:0::3::Health:         100%
+97856:0::3::Combat:         attack 80, defense 80, missile 0
+97856:0::3::                behind 2  (stay behind in combat)
+97856:0::3::Break point:    50%
+97856:0::3::
+97856:0::3::Skills known:
+97856:0::6::Combat~[610]
+97856:0::12::Survive fatal wound~[611]
+97856:0::6::Beastmastery~[650]
+97856:0::12::Breed beasts~[654], adept
+97856:0::3::
+97856:0::3::Inventory:
+97856:0::3::{<b>}      qty  name                              weight{</b>}
+97856:0::3::      ---  ----                              ------
+97856:0::3::       59  winged horses~[54]                59,000  fly 8,850
+97856:0::3::       10  harpies~[285]                      5,000   (80,120,0)
+97856:0::3::                                             ======
+97856:0::3::                                             64,000
+97856:0::3::
+97856:0::3/11::Capacity:  0/8,950 land (0%), 100/8,850 ride (1%), 100/8,850 fly (1%)
+97856:0::3::
+100265:0::3::
+100265:0::3/16::Location:       Imperial City~[g92], in province Forest~[cr51], in Provinia
+100265:0::3::Loyalty:        Fear-91
+100265:0::3::Health:         100%
+100265:0::3::Combat:         attack 80, defense 80, missile 0
+100265:0::3::                behind 2  (stay behind in combat)
+100265:0::3::Break point:    50%
+100265:0::3::
+100265:0::3::Skills known:
+100265:0::6::Combat~[610]
+100265:0::12::Survive fatal wound~[611]
+100265:0::6::Beastmastery~[650]
+100265:0::12::Breed beasts~[654], journeyman
+100265:0::3::
+100265:0::3::Partially known skills:
+100265:0::6/6::Trade~[730], 14/21
+100265:0::3::
+100265:0::3::Inventory:
+100265:0::3::{<b>}      qty  name                              weight{</b>}
+100265:0::3::      ---  ----                              ------
+100265:0::3::    6,353  gold~[1]                               0  
+100265:0::3::       30  winged horses~[54]                30,000  fly 4,500
+100265:0::3::                                             ======
+100265:0::3::                                             30,000
+100265:0::3::
+100265:0::3/11::Capacity:  0/4,600 land (0%), 100/4,500 ride (2%), 100/4,500 fly (2%)
+100265:0::3::
+142038:0::3::
+142038:0::3/16::Location:       Mt. Olympus~[cr50], in Provinia
+142038:0::3::Loyalty:        Fear-86
+142038:0::3/16::Stacked under:  Breeder I~[w604]
+142038:0::3::Health:         100%
+142038:0::3::Combat:         attack 80, defense 80, missile 0
+142038:0::3::                behind 2  (stay behind in combat)
+142038:0::3::Break point:    50%
+142038:0::3::
+142038:0::3::Skills known:
+142038:0::6::Combat~[610]
+142038:0::12::Survive fatal wound~[611]
+142038:0::6::Beastmastery~[650]
+142038:0::12::Breed beasts~[654], adept
+142038:0::3::
+142038:0::3::Partially known skills:
+142038:0::6/6::Use beasts in battle~[653], 21/28
+142038:0::3::
+142038:0::3::Inventory:
+142038:0::3::{<b>}      qty  name                              weight{</b>}
+142038:0::3::      ---  ----                              ------
+142038:0::3::       25  gold~[1]                               0  
+142038:0::3::        3  giant lizards~[282]                3,000   (45,45,0)
+142038:0::3::                                             ======
+142038:0::3::                                              3,000
+142038:0::3::
+142038:0::3/11::Capacity:  0/100 land (0%)
+142038:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Breeders Inc.~[nn3].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/nn3/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [nn3]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        14  41st   
+0:0::3/41::Men:                              159  58th   
+0:0::3/41::Gold:                          23,043  56th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   49/74  43rd   
+0:0::3/41::Spells known:                   29/79  70th   
+0:0::3/41::Provinces visited:         320/31,919  88th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  6     (2 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 268.
+0:0::0::
+0:0::0::The next five nobles formed will be:  146442 119402 115794 145811 101511
+0:0::0::
+0:0::0::21 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::m595   bv49   f9974 100  9    1897                            Lord Grum
+0:0::0::t536   bw49   o1    100  5       2                  40        Richard
+0:0::0::g690   bw49   o1    100  2     238                  21        Charlie Bass
+0:0::0::w164   bw49   f9974 100  9    2857    1    9        35        Lady Evalin
+0:0::0::t720   cg47   o1    100  9 10  141   10    5                  Erik the Fox
+0:0::0::h727   w262   o2    100  2 13 1290   10                       Lord Magnus
+0:0::0::k142   t58    o1    100  2  3  501                            Eloise
+0:0::0::91377  v64    f91   100  2                                    Breeder IV
+0:0::0::w604   cr50   o1    100  2       2                            Breeder I
+0:0::0::142038 cr50   f86   100  2      25                     w604   Breeder V
+0:0::0::97856  cr50   f85   100  2                             w604   Breeder III
+0:0::0::100265 g92    f91   100  2    6353                            Breeder VI
+0:0::0::86077  cs54   f82   100  3    3255                            Breeder VII
+0:0::0::r667   ch08   o1    100  3    6482   13   10         5        Ian Aenstein
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               23k   34   24       101
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Mountain~[bv49]                  Lord Grum~[m595]
+0:0::0::  Llangollen Mountain Ridge~[bw49] Richard Harrington~[t536]
+0:0::0::                                   Charlie Bass~[g690]
+0:0::0::                                   Lady Evalin~[w164]
+0:0::0::  Mount Jacinth~[cg47]             Erik the Fox~[t720]
+0:0::0::  Dragons Peak~[ck41]
+0:0::0::    Moon Shadow~[t58]              Eloise Pritchart~[k142]
+0:0::0::      La Main du Dragon~[w262]     Lord Magnus~[h727]
+0:0::0::  Olympus Plains~[cr47]
+0:0::0::    Etranth~[v64]                  Breeder IV~[91377]
+0:0::0::  Mt. Olympus~[cr50]               Breeder I~[w604]
+0:0::0::                                     Breeder V~[142038]
+0:0::0::                                     Breeder III~[97856]
+0:0::0::  Forest~[cr51]
+0:0::0::    Imperial City~[g92]            Breeder VI~[100265]
+0:0::0::  Oldwood forest~[cs54]            Breeder VII~[86077]
+0:0::0::Cragstan
+0:0::0::  Peterborough~[ch08]              Ian Aenstein~[r667]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  m595         106         94   6%                                
+0:0::0::  t536       5,200      4,350   0%    (4,050)  --     (4,050)  -- 
+0:0::0::  g690      43,595     11,255   3%        855  75%   (33,245)  -- 
+0:0::0::  w164       7,794      5,056   1%    (4,344)  --     (4,344)  -- 
+0:0::0::  t720       2,600      1,750   0%    (1,450)  --     (1,450)  -- 
+0:0::0::  h727       2,100      1,250   0%      (950) 733%      (950) 733%
+0:0::0::  k142      12,100      1,900   0%      1,700   5%      1,700   5%
+0:0::0:: 91377      20,100      3,100   0%      2,900   3%      2,900   3%
+0:0::0::  w604      85,401      9,049   1%      8,449   4%   (12,551) 241%
+0:0::0::142038       3,100        100   0%                                
+0:0::0:: 97856      64,100      8,950   0%      8,750   1%      8,750   1%
+0:0::0::100265      30,100      4,600   0%      4,400   2%      4,400   2%
+0:0::0:: 86077      69,427     10,123   3%      9,923   4%      9,923   4%
+0:0::0::  r667       5,715      1,235  59%    (4,565)  --     (4,565)  -- 
+0:0::0::
+0:0::0::storm  kind  owner   loc  strength
+0:0::0::-----  ----  -----  ----  --------
+0:0::0::122863  wind   t720  ch48     13
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Breeders Inc.~[nn3]"><font size=+1><b>Breeders Inc.~[nn3]</b></font>
+1:2::0::<hr>
+1:1::0::Breeders Inc.~[nn3]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 53513
+1:0::0::
+1:0::0::#include 4
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Grum~[m595]"><font size=+1><b>Lord Grum~[m595]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Grum~[m595]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 68595
+1:0::0::
+1:2::0::
+1:2::0::<name="Richard Harrington~[t536]"><font size=+1><b>Richard Harrington~[t536]</b></font>
+1:2::0::<hr>
+1:1::0::Richard Harrington~[t536]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 74536
+1:0::0::
+1:2::0::
+1:2::0::<name="Charlie Bass~[g690]"><font size=+1><b>Charlie Bass~[g690]</b></font>
+1:2::0::<hr>
+1:1::0::Charlie Bass~[g690]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 64690
+1:0::0::
+1:2::0::
+1:2::0::<name="Lady Evalin~[w164]"><font size=+1><b>Lady Evalin~[w164]</b></font>
+1:2::0::<hr>
+1:1::0::Lady Evalin~[w164]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 76164
+1:0::0::
+1:2::0::
+1:2::0::<name="Erik the Fox~[t720]"><font size=+1><b>Erik the Fox~[t720]</b></font>
+1:2::0::<hr>
+1:1::0::Erik the Fox~[t720]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 74720
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Magnus~[h727]"><font size=+1><b>Lord Magnus~[h727]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Magnus~[h727]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 65727
+1:0::0::
+1:2::0::
+1:2::0::<name="Eloise Pritchart~[k142]"><font size=+1><b>Eloise Pritchart~[k142]</b></font>
+1:2::0::<hr>
+1:1::0::Eloise Pritchart~[k142]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 67142
+1:0::0::
+1:2::0::
+1:2::0::<name="Breeder IV~[91377]"><font size=+1><b>Breeder IV~[91377]</b></font>
+1:2::0::<hr>
+1:1::0::Breeder IV~[91377]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 91377
+1:0::0::
+1:2::0::
+1:2::0::<name="Breeder I~[w604]"><font size=+1><b>Breeder I~[w604]</b></font>
+1:2::0::<hr>
+1:1::0::Breeder I~[w604]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 76604
+1:0::0::
+1:2::0::
+1:2::0::<name="Breeder V~[142038]"><font size=+1><b>Breeder V~[142038]</b></font>
+1:2::0::<hr>
+1:1::0::Breeder V~[142038]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 142038
+1:0::0::
+1:2::0::
+1:2::0::<name="Breeder III~[97856]"><font size=+1><b>Breeder III~[97856]</b></font>
+1:2::0::<hr>
+1:1::0::Breeder III~[97856]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 97856
+1:0::0::
+1:2::0::
+1:2::0::<name="Breeder VI~[100265]"><font size=+1><b>Breeder VI~[100265]</b></font>
+1:2::0::<hr>
+1:1::0::Breeder VI~[100265]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 100265
+1:0::0::
+1:2::0::
+1:2::0::<name="Breeder VII~[86077]"><font size=+1><b>Breeder VII~[86077]</b></font>
+1:2::0::<hr>
+1:1::0::Breeder VII~[86077]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 86077
+1:0::0::
+1:2::0::
+1:2::0::<name="Ian Aenstein~[r667]"><font size=+1><b>Ian Aenstein~[r667]</b></font>
+1:2::0::<hr>
+1:1::0::Ian Aenstein~[r667]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 72667
+1:2::0::
+1:2::0::<name="Mountain~[bv49]"><font size=+1><b>Mountain~[bv49]</b>, mountain, in Provinia, civ-2</font>
+1:2::0::<hr>
+1:1::0::Mountain~[bv49], mountain, in Provinia, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13649
+1:0::0::
+1:2::0::
+1:2::0::<name="Dencedian Plains~[bv50]"><font size=+1><b>Dencedian Plains~[bv50]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Dencedian Plains~[bv50], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13650
+1:0::0::
+1:2::0::
+1:2::0::<name="Llangollen Mountain Ridge~[bw49]"><font size=+1><b>Llangollen Mountain Ridge~[bw49]</b>, mountain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Llangollen Mountain Ridge~[bw49], mountain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13749
+1:0::0::
+1:2::0::
+1:2::0::<name="Llangollen Mountain Ridge~[bw50]"><font size=+1><b>Llangollen Mountain Ridge~[bw50]</b>, mountain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Llangollen Mountain Ridge~[bw50], mountain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13750
+1:0::0::
+1:2::0::
+1:2::0::<name="Mount Jacinth~[cg47]"><font size=+1><b>Mount Jacinth~[cg47]</b>, mountain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mount Jacinth~[cg47], mountain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14547
+1:0::0::
+1:2::0::
+1:2::0::<name="Plains of Morning~[cg48]"><font size=+1><b>Plains of Morning~[cg48]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plains of Morning~[cg48], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14548
+1:0::0::
+1:2::0::
+1:2::0::<name="Swamp~[ch48]"><font size=+1><b>Swamp~[ch48]</b>, swamp, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Swamp~[ch48], swamp, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14648
+1:0::0::
+1:2::0::
+1:2::0::<name="Dragons Peak~[ck41]"><font size=+1><b>Dragons Peak~[ck41]</b>, mountain, in Provinia, civ-6</font>
+1:2::0::<hr>
+1:1::0::Dragons Peak~[ck41], mountain, in Provinia, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14841
+1:0::0::
+1:2::0::
+1:2::0::<name="Moon Shadow~[t58]"><font size=+1><b>Moon Shadow~[t58]</b>, city, in province Dragons Peak~[ck41]</font>
+1:2::0::<hr>
+1:1::0::Moon Shadow~[t58], city, in province Dragons Peak~[ck41]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58318
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cm47]"><font size=+1><b>Forest~[cm47]</b>, forest, in Provinia, safe haven, civ-2</font>
+1:2::0::<hr>
+1:1::0::Forest~[cm47], forest, in Provinia, safe haven, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14947
+1:0::0::
+1:2::0::
+1:2::0::<name="Golden City~[t63]"><font size=+1><b>Golden City~[t63]</b>, city, in province Forest~[cm47], safe haven</font>
+1:2::0::<hr>
+1:1::0::Golden City~[t63], city, in province Forest~[cm47], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58323
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[cn47]"><font size=+1><b>Mountain~[cn47]</b>, mountain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Mountain~[cn47], mountain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15047
+1:0::0::
+1:2::0::
+1:2::0::<name="Olympus Plains~[cp47]"><font size=+1><b>Olympus Plains~[cp47]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Olympus Plains~[cp47], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15147
+1:0::0::
+1:2::0::
+1:2::0::<name="Olympus Plains~[cq47]"><font size=+1><b>Olympus Plains~[cq47]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Olympus Plains~[cq47], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15247
+1:0::0::
+1:2::0::
+1:2::0::<name="Olympus Plains~[cr47]"><font size=+1><b>Olympus Plains~[cr47]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Olympus Plains~[cr47], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15347
+1:0::0::
+1:2::0::
+1:2::0::<name="Etranth~[v64]"><font size=+1><b>Etranth~[v64]</b>, city, in province Olympus Plains~[cr47]</font>
+1:2::0::<hr>
+1:1::0::Etranth~[v64], city, in province Olympus Plains~[cr47]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58424
+1:0::0::
+1:2::0::
+1:2::0::<name="Mt. Olympus~[cr50]"><font size=+1><b>Mt. Olympus~[cr50]</b>, mountain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Mt. Olympus~[cr50], mountain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15350
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cr51]"><font size=+1><b>Forest~[cr51]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[cr51], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15351
+1:0::0::
+1:2::0::
+1:2::0::<name="Imperial City~[g92]"><font size=+1><b>Imperial City~[g92]</b>, city, in province Forest~[cr51], safe haven</font>
+1:2::0::<hr>
+1:1::0::Imperial City~[g92], city, in province Forest~[cr51], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57352
+1:0::0::
+1:2::0::
+1:2::0::<name="Oldwood forest~[cs54]"><font size=+1><b>Oldwood forest~[cs54]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Oldwood forest~[cs54], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15454
+1:0::0::
+1:2::0::
+1:2::0::<name="Oldwood forest~[ct54]"><font size=+1><b>Oldwood forest~[ct54]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Oldwood forest~[ct54], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15554
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cv54]"><font size=+1><b>Forest~[cv54]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[cv54], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15654
+1:0::0::
+1:2::0::
+1:2::0::<name="Kastrian Desert~[cw54]"><font size=+1><b>Kastrian Desert~[cw54]</b>, desert, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Kastrian Desert~[cw54], desert, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15754
+1:0::0::
+1:2::0::
+1:2::0::<name="East Kastria Swamp~[cx54]"><font size=+1><b>East Kastria Swamp~[cx54]</b>, swamp, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::East Kastria Swamp~[cx54], swamp, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15854
+1:0::0::
+1:2::0::
+1:2::0::<name="Agnar~[d89]"><font size=+1><b>Agnar~[d89]</b>, city, in province East Kastria Swamp~[cx54]</font>
+1:2::0::<hr>
+1:1::0::Agnar~[d89], city, in province East Kastria Swamp~[cx54]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57149
+1:0::0::
+1:2::0::
+1:2::0::<name="Clarence~[ch07]"><font size=+1><b>Clarence~[ch07]</b>, swamp, in Cragstan, wilderness</font>
+1:2::0::<hr>
+1:1::0::Clarence~[ch07], swamp, in Cragstan, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14607
+1:0::0::
+1:2::0::
+1:2::0::<name="Peterborough~[ch08]"><font size=+1><b>Peterborough~[ch08]</b>, plain, in Cragstan, civ-1</font>
+1:2::0::<hr>
+1:1::0::Peterborough~[ch08], plain, in Cragstan, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14608
+1:0::0::
+1:2::0::
+1:2::0::<name="Quinqueroi~[cj07]"><font size=+1><b>Quinqueroi~[cj07]</b>, desert, in Cragstan, civ-1</font>
+1:2::0::<hr>
+1:1::0::Quinqueroi~[cj07], desert, in Cragstan, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14707
+1:0::0::
+1:2::0::
+1:2::0::<name="Cloud~[sr78]"><font size=+1><b>Cloud~[sr78]</b>, cloud, in Cloudlands, civ-5</font>
+1:2::0::<hr>
+1:1::0::Cloud~[sr78], cloud, in Cloudlands, civ-5
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39378
+1:0::0::
+1:2::0::
+1:2::0::<name="Nimbus~[d88]"><font size=+1><b>Nimbus~[d88]</b>, city, in province Cloud~[sr78]</font>
+1:2::0::<hr>
+1:1::0::Nimbus~[d88], city, in province Cloud~[sr78]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57148
+1:0::0::
+1:2::0::
+1:2::0::<name="Cloud~[gz22]"><font size=+1><b>Cloud~[gz22]</b>, cloud, in Cloudlands, civ-2</font>
+1:2::0::<hr>
+1:1::0::Cloud~[gz22], cloud, in Cloudlands, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21922
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

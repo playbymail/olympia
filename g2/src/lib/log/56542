@@ -1,0 +1,95 @@
+5:0::0::
+5:0::0::begin ze2 "Iamthelord"  # Knights of Armageddon
+5:0::0::
+5:0::0::unit ze2  # Knights of Armageddon
+5:0::0::
+5:0::0::end
+56542:0::0::
+56542:0::0::Admit permissions:
+56542:0::0::
+56542:0::3::admit 2748  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 2928  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 3050  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 3831  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 3839  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 3961  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 4401  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  vg6  wc9
+56542:0::3::            yq6  ze2  xu3  gh2
+56542:0::3::admit 7473  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 8516  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 8693  fr8  ze2  xp6  ka6  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 9120  jm8  fr8  ze2  xp6  ka6  ty4  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 9269  fr8  ze2  xp6  ka6  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit 9600  fr8  ze2  xp6  ka6  rv6  fp4  nf6  wc9  yq6
+56542:0::3::admit a537  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  vg6  wc9
+56542:0::3::            yq6  ze2  xu3  gh2
+56542:0::3::admit f710  wc9  yq6
+56542:0::3::admit g945  wc9  yq6
+56542:0::3::admit r504  all
+56542:0::3::admit r654  wc9  yq6
+56542:0::3::admit s104  wc9  yq6
+56542:0::3::admit t254  wc9  yq6
+56542:0::3::admit t324  wc9  yq6
+56542:0::0::
+56542:0::0::Declared attitudes:
+56542:0::3::neutral  fp4  fr8  jm8  ka6  nf6  rv6  ty4  wc9  xp6  yq6  ze2
+56542:0::0::
+56542:0::0::Unclaimed items:
+56542:0::0::
+56542:0::0::      qty  name                              weight
+56542:0::0::      ---  ----                              ------
+56542:0::0::    1,975  gold~[1]                               0  
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Knights of Armageddon~[ze2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/ze2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [ze2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         0  148th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    0/74  123rd  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         503/31,919  66th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  35     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 266.
+0:0::0::
+0:0::0::The next five nobles formed will be:  84464 88148 108094 86209 110855
+0:0::0::
+0:0::0::
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Knights of Armageddon~[ze2]"><font size=+1><b>Knights of Armageddon~[ze2]</b></font>
+1:2::0::<hr>
+1:1::0::Knights of Armageddon~[ze2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 56542
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

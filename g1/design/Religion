@@ -1,0 +1,1619 @@
+
+Here comes the first part of the religion stuff.  Obviously this is a
+first draft, comments will be appreciated.
+
+			        RELIGION
+	
+BASIC ELEMENTS
+
+  The basic elements of the Olympia religion system are Priests, Prayers
+  and Temples.  Priests are noble units dedicated to a particular
+  religion, Prayers are the priestly equivalent of spells, and Temples are
+  structures dedicated to a particular religion.
+
+PRIESTS
+
+  * A noble unit becomes a Priest by travelling to a Temple of the
+  religion he'd like to join, and then using the JOIN command.
+  Becoming a Priest requires the unit to make an appropriate
+  sacrifice, usually a fair amount of gold (how much?) but in the case
+  of some of the darker religions, a corpse is also suitable.
+  
+  * A stack with a Priest in it gets certain advantages and
+  disadvantages: 
+
+  Advantages
+
+    * +5% "to-hit" bonus in battle against other religions and magicians.
+    * +5% "saving throw" versus magic spells. 
+    * Can recruit better (+10%) in regions which contain a temple of the 
+      appropriate type.
+    * Priests can immediately identify Magicians.  Experienced Priests
+      can identify the Magician's school.
+    * Can enter temples of own religion.
+
+  Disadvantages
+
+    * Small minuses (-5%) in battle against members of same religion.
+    * Difficulty recruiting in regions which contain another religion's
+      temple or a wizard's tower (-20%).
+    * Can *never* stack with Magicians or Priests of another religion.
+    * Magicians can immediately identify Priests.  Experienced Magicians
+      can identify the Priest's religion.
+
+  * Priests have a "Piety" rating.  Piety, like aura, is used to fuel 
+  Prayers.  Unlike aura, Priests know neither their maximum nor current 
+  Piety.  Piety can be increased by:
+
+    * Using the Prayer "PRAY".
+    * Using the Prayer "PROSLETISE"
+    * Sacrificing to a temple (via GIVE): gold, artifacts, wizards...
+    * Spending time in a Temple.
+    * Creating a new Temple.
+    * Destroying a Magician's tower.
+    
+  Piety can be lost by:
+
+    * Casting prayers.
+    * Removing items from the Temple treasury. (Lose 2x what you would
+      have gotten by sacrificing the same item.)
+      
+  * High Priests - If a priest unit has 20% higher maximum piety than
+  every other priest of the same religion, then his god recognizes him
+  as "High Priest" and he immediately gains +5 piety.  High Priests
+  are known to everyone, i.e., published in the Times, and the
+  location of the High Priest is revealed each turn to all the priests
+  of the religion each turn.  Note that High Priest can change hands
+  as priests' maximum piety changes; it is not a permanent position.
+      
+TEMPLES
+
+    * Temples are building structures dedicated (by use of a high-level 
+    Prayer) to a particular god.
+
+    * Temples are protected by a magical barrier that can only be passed
+    by stacks containing an appropriate Priest.  (Note: Magicians can 
+    dispell this barrier w/ [9161].)
+
+    * Temples can be "hidden", making them secret sublocations.
+
+    * All temples contain a Holy Book which holds Prayers of that
+    religion.  Holy Books are magically created during the dedication
+    of the Temple and start out with Pray, Heal, and Bless.  Other
+    Prayers can be added by use of the "Holy Script" prayer.  Prayers
+    can be learned out of Holy Books.  A Holy Book cannot be removed
+    from its temple, but they can be held by a Priest in the temple.
+    (Note: If a Magician destroys the magical barrier on a temple, he
+    could go in an retrieve the book.  There should be some high-level
+    Magicians/Necromancer spells requiring a holy book.)
+
+    The existence and use of Holy Books is not common knowledge.
+
+    * Some temples have inner sanctums (hidden sublocs) that can only
+    be entered by individual Priest units of high level.  Inner
+    sanctums are created by having a Priest of current piety > 15 cast
+    Dedicate Temple while inside a temple.  (This information is not
+    initially available to the players.)  The inner sanctum will, like
+    the Temple, have a Holy Book.  In the case of Inner Sanctums
+    created by players, the Holy Book therein will have one random
+    higher-level prayer inscribed.  In the case of Inner Sanctums
+    created during world initialization, the Holy Books will have 1-3
+    higher-level prayers.  Inner Sanctum Holy Books cannot be removed
+    from the Inner Sanctum.  Only one Inner Sanctum can be created per
+    Temple.
+
+    Destroying the magical barrier on the outside of the temple
+    destroys the Inner Sanctum and all it contains.  Units in the
+    Inner Sanctum when this occurs will be booted out into the regular
+    Temple area.
+
+    * Healing at 3x in temples.
+
+    * No combat in temples.
+
+    * No maintenance costs inside a temple.
+
+    * Non-Priest units can enter a temple only when stacked with a Priest.
+
+    * Non-Priest units entering a temple pay a 10% tithe of their gold
+    to the temple.
+
+    * Non-Priest units cannot perform any actions which require time 
+    while inside the Temple.  Non-Priest units in a Temple "work" for
+    the Temple, adding any moneys they make to the Temple treasury.
+
+    * Stacking within the Temple is ordered by current piety.  The most 
+    currently pious unit in the temple is at the top of the heap and so
+    on down the line.
+
+    * The Temple treasury holds everything sacrificed at the temple
+    (i.e., GIVEn to the temple) as well as the 10% tithes.  The Temple
+    treasury is controlled by the currently most pious priest within the
+    temple. 
+
+PRAYER
+
+This section contains prayers common to all the religions.  Notes on the
+individual religions follow this section, but we note here that every
+religion has a holy plant and a totem animal.  Implementation notes
+for each prayer given between $$$. 
+
+COMMON PRAYERS
+
+    Pray (0)                Last Rites (1)
+    Bless (1)               Holy Runes (1)
+    Heal (3)                Conceal Aura (3)
+    Turn Undead (1)         Proselytise (5)
+    Destroy Undead (5)      Dedicate Temple (10)
+    
+    Holy Messenger (5)
+    Holy Warrior (7)
+    Holy Guard (10)
+    
+----------------
+
+Prayer: Pray to Deity []
+Usage: USE []
+Required Item: none
+Time to cast: 7 days
+
+By use of this prayer, a Priest demonstrates his faith to his Deity.
+Devotional prayer is the cornerstone of every religion.  By use of
+devotional prayer a Priest gains holy power and in rare instances, the
+direct guidance of his deity.
+
+$$$
+
+  Piety: 0
+
+  Pray raises the current Piety of the praying Priest by one.  
+
+  If the Priest is already at maximum piety and has maximum piety < 25, 
+  there is a 
+        .004 chance that his maximum piety will be raised by 1.
+	.001 chance that his diety will reveal a prayer to the Priest.
+
+  If the Priest is at maximum piety and has maximum piety > 25, then 
+  there is a 
+  
+        .004 chance that his diety will reveal a prayer,
+	.002 chance that his diety will grant the priest a holy artifact.
+	     (But a priest will only be granted one holy artifact, ever.)
+
+----------------
+
+Prayer: Bless
+Usage: USE [] <unit>
+Required Item: none
+Time to cast: 1 day
+
+This prayer calls a blessing down upon the designated unit.  This
+blessing will help shield the unit in battle and improve the unit's
+resistance to magics.  This effect lasts 7 days.
+
+Priests cannot bless Magicians or Priests of another religion.
+
+$$$
+
+Piety: 1
+
+Bless gives a 5% bonus to defense and a 5% bonus against magic.  Bless
+will also fail if the blessed unit is carrying a holy artifact of a
+different religion.
+
+May also be cast upon buildings (+5% to defensive strength) and items
+(effect?).  This is not initially known to the players.
+
+----------------
+
+Prayer: Heal
+Usage: USE [] <unit>
+Required Item: holy plant
+Time to cast: 1 day
+
+This prayer causes the designated unit to be miraculously healed.  
+
+$$$
+
+Piety: 3
+
+Should be more powerful than the Magician equivalent.  Perhaps heal any
+one unit to full health?
+
+----------------
+
+Prayer: Create Holy Symbol
+Usage: USE []
+Required Item: one unit silver
+Time to cast: 30 days
+
+Create a holy symbol [] consecrated to the Priest unit's diety.  The holy
+symbol increases the faith of the Priest and is necessary for many
+prayers.
+
+$$$
+Piety: 3 (permanent)
+
+This prayer creates a new holy symbol at a permanent cost of 3 points. 
+A holy symbol consecrated to the proper diety and carried raises a
+Priest's maximum piety by 5 points.  Notes: (1) it is perfectly possible
+for a Priest to find a holy symbol or obtain one from another Priest,
+thereby avoiding spending the 3 piety to create one.  (2) There is
+nothing to distinguish one holy symbol from another.  Carrying a holy
+symbol consecrated to the wrong deity costs the Priest -10 piety.  (3)
+Carrying multiple holy symbols has no additional effect.  (But if a unit
+carries the wrong symbol and a right one, the wrong one has effect.)
+
+----------------
+
+Prayer: Turn Undead
+Usage: USE [] <unit>
+Required Item: holy symbol
+Time to cast: 1 day
+
+By use of this prayer, the Priest will strike fear into the undead
+legions commanded by the designated unit.  The affected undead will flee
+the province in a random direction.
+
+$$$
+
+Piety: 3
+
+A number of undead equal to the Priest's current piety flee the
+province, or half that number of skeleton warriors, or one third that
+number of undead followers.  If the designated unit commands a mixed
+force of undead, then undead flee first, followed by skeleton warriors,
+followed by undead followers.
+
+Should be a Necromancy spell to guard against this prayer.
+
+----------------
+
+Prayer: Destroy Undead
+Usage: USE [] <unit>
+Required Item: holy symbol
+Time to cast: 1 day
+
+By use of this prayer, the Priest will destroy the undead legions
+commanded by the designated unit.
+
+$$$
+
+Piety: 5
+
+A number of undead equal to the Priest's current piety are destroyed, or
+half that number of skeleton warriors, or one third that number of
+undead followers.  If the designated unit commands a mixed force of
+undead, then undead are destroyed first, followed by skeleton warriors,
+followed by undead followers. 
+
+Should be a Necromancy spell to guard against this spell.
+
+----------------
+
+Prayer: Last Rites
+Usage: USE [] <unit>
+Required Item: holy symbol
+Time to cast: 1 day
+
+Commend a dead noble to his final resting place.  This prayer prevents
+the noble from ever being raised as undead.
+
+$$$
+Piety : 1
+----------------
+
+Prayer: Holy Runes
+Usage: USE [] <prayer> <entity>
+Required Item: none
+Time to cast: 1 day
+
+Permits a Priest to read or write a prayer into a Holy Book or appropriate
+scroll.  
+
+$$$
+Piety: <variable>
+
+To write a prayer into a Holy Book, you must expend twice the piety
+required to cast the spell.  Note that you can neither read nor write
+in Holy Books or scrolls of a different religion.
+
+----------------
+
+Prayer: Conceal Aura
+Usage: USE [] <unit>
+Required Item: none
+Time to cast: 1 day
+
+Conceal the aura of the designated unit for one month.  The unit's aura
+will appear grey (unaligned).
+
+$$$
+Piety: 3
+
+The aura is how Magicians/Priests detect one another.  The color of the
+aura indicates the school/religion.  (We'll have to decide on an
+appropriate assignment of colors.)  Non-magic units have grey auras.
+----------------
+
+Prayer: Proselytise
+Usage: USE [] <number>
+Required Item: none
+Time to cast: 7 days
+
+Attempt to raise followers from amongst the peasantry.  Priests do not
+have to pay recruitment costs for followers gathered through
+Proselytise.  Note that Proselytizing works best where there is
+already support for a deity.
+
+$$$
+Piety: 5
+
+Proselytise works as well as normal recruitment in provinces with an
+appropriate temple; half as well in unaligned provinces; and not at all
+in provinces with a wizard's tower or other temple.
+
+----------------
+
+Prayer: Dedicate Temple
+Usage: USE [] <building>
+Required Item: holy symbol, holy plant, $500
+Time to cast: 30 days
+
+By use of this lengthy and costly ritual, the Priest consecrates a new
+temple to his religion.  It is very dangerous to attempt to consecrate
+a building that has been previously consecrated or used for magic.
+For this reason, temples are almost always consecrated from
+newly-constructed buildings.
+
+If this prayer is interrupted by battle, the Priest will almost surely
+die as a result.
+
+$$$
+Piety: 10
+
+The Priest's maximum piety is raised by +5 for dedicating a new temple.
+
+Consecrating a previously-consecrated or magician's building will fail
+and cause the Priest to lose 10 piety (on top of the 10 spent in the
+prayer).  If the consecration is interrupted by battle, the Priest
+will lose (30-number of days spent)/3 piety (i.e., 0-10 piety
+depending upon when interrupted).  In either case, if the Priest's
+piety becomes negative, he dies immediately.  If his piety falls to 0,
+he loses his Priest status.
+
+----------------
+
+Prayer: Holy Messenger
+Usage: USE [] <destination> <item> <number>
+Required Item: holy symbol
+Time to cast: 7 days
+
+By use of this prayer the priest summons a totem animal of his religion
+to act as a messenger.  If possible, the messenger will carry the
+indicated number of the given item to the indicated destination.  The
+destination can be a location or a unit.
+
+The holy messenger will only carry as much as it is able.  The Priest's
+diety will direct the holy messenger towards its destination, but the
+messenger may get lost or killed en route, in which case the items it
+carries will also be lost (or taken by the attacking unit).  Holy
+messengers are most likely to be able to find locations containing
+temples or other priest units.
+
+$$$
+Piety: 5
+
+Should adjust the animals so that religions whose totems cannot cross
+water are compensated by greater carry capacity.
+
+----------------
+
+Prayer: Holy Warrior
+Usage: USE [] <unit>
+Required Item: holy symbol
+Time to cast: 7 days
+
+By means of this prayer, a priest summons a totem animal of his religion
+and directs it to attack a nearby unit.  The unit need not be in the
+same province as the summoning priest, but if it is too far distant the
+Holy Warrior may get lost en route.
+
+$$$
+Piety: 7
+----------------
+
+Prayer: Holy Guard
+Usage: USE [] <item or unit>
+Required Item: holy symbol
+Time to cast: 7 days
+
+By means of this prayer, a priest summons a totem animal of his religion
+and directs it to guard an item or unit.  The item or unit must be in
+the same province as the summoning priest.  
+
+$$$
+Piety: 10
+----------------
+
+
+Here are the writeups on the 8 different religions.  Warning: this is
+pretty long.
+
+                            THE FAITHFUL EIGHT
+			    
+GENERAL NOTES
+
+There are eight religions in Olympia, corresponding to the eight sons of
+Sol that remained faithful during the Rebellion (see Mythology).  Each
+religion has a particular area of strength, an area of weakness, a holy
+plant and totem animal, and a mystic color.  The religions are grouped
+in pairs, so that the strength of one religion is the weakness of its
+paired religion.  Each area of strength corresponds to an Olympia skill
+category.  This information is summarized below:
+
+  God     Strength    Weakness    Plant         Animal      Color   Terrain
+  ---     --------    --------    -----         ------      -----   -------
+  Eres    Shipcraft   Mining      Gold Seagrass Shark       Blue    Coastal
+  Anteus  Mining      Shipcraft   Firewort      Mole        Brown   Mountain
+  Dol     Beasts      Alchemy     Beastnip      Bull        Red     Plains
+  Timeid  Alchemy     Beasts      Green Rose    Eagle       Green   Woods
+  Ham     Entertain   Construct   Elf Poppy     Monkey      Gold    City
+	  Observation
+  Kireus  Construct   Entertain   Ironwood      Horse       Granite City
+		      Observation
+  Halon   Leadership  Stealth     King's Fern   Lion        Silver  City
+	  Persuasion
+  Domingo Stealth     Leadership  Moon Palm     Rat	    Shadows City
+		      Persuasion
+
+In general, a priest learns his strength skill at 2x normal speed, and
+cannot learn his weakness skill at all.  (A priest loses all weakness
+skills when he JOINs his temple.)  Units stacked with a priest unit get
+a 5% bonus using skills in the Priest's strength, and a -10% bonus using
+skills in the Priest's weakness area.
+
+The holy plants are all rare and difficult to find.  They are used as
+components in many prayers.  They will typically be found in bunches
+of 3-7 plants.  Except for "city", they are twice as likely to be
+found in the indicated terrain.  (The four city religions get no bonus
+for finding their holy plant in any terrain.)
+
+In battle, a priest and the units stacked with him get +5% defensive
+strength if they are fighting in the Priest's terrain.
+
+=====
+
+ERES
+
+Eres is the God of Sea and Wind.  He appears to his followers as a tall,
+strongly built man of advancing years, with a wild mane of white hair. 
+Priests of Eres typically build their temples near the sea and often
+serve on sailing ships.  It is said that a ship with a Priest of Eres on
+it will never capsize or be lost in a storm.  Certainly it is true that
+Priests of Eres have saved many a ship with their powerful prayers to
+control the weather.
+
+$$$
+
+Temples to Eres must be in coastal provinces.  Attempts to consecrate
+temples elsewhere will fail, with the usual disastrous results to the
+consecrating Priest.
+
+Ships with a Priest of Eres on board have a 10% bonus to avoid storm
+damage.  This bonus is cumulative, so that a ship with 10 priests on
+board would be completely immune to storm effects.  There is a similar
+5% bonus to avoid being becalmed.
+
+Spells
+
+	(Same as weather magic:)
+
+	Summon fog [9132]
+	Summon rain [9135]
+	Summon wind [9136]
+	Predict future weather [9133]
+	Project next weather spell [9138]
+	Reveal source of last month's weather [9139]
+	Conceal source of weather influence [9140]
+	Fog of death [9134]
+
+	(Other:)
+
+        Summon Water Elemental (7)
+
+Prayer: Summon Water Elemental 
+Usage: USE [] 
+Required Item: holy symbol, holy plant
+Time to cast: 1 day
+
+This spell summons a water elemental into the sea province the priest
+occupies.  The water elemental will attempt to capsize the next ship
+entering the province.
+
+$$$
+Piety: 7
+
+The ship has a chance equal to a bad storm of being capsized by the
+water elemental.  Magic may affect this chance.  A ship with a priest
+of Eres on board will not be attacked.
+
+=====
+
+ANTEUS
+
+Anteus is the God of Fire and Earth.  He appears to his followers as a
+short, stout man with a bulbous nose, a long cap and he is often seen
+carrying a pickaxe or hammer.  Priests of Anteus build their temples in
+the mountains and are often seen working with miners.  It is said that
+dwarves are the special minions of Anteus, and that a party which
+contains a Priest of Anteus will never be attacked by dwarves and will
+have free passage through dwarven tunnels. 
+
+$$$
+
+Temples to Anteus must be in mountain provinces.  Attempts to consecrate
+temples elsewhere will fail, with the usual disastrous results to the
+consecrating Priest. 
+
+Dwarves will not attack stacks containing Priests of Anteus.  Stacks
+containing Priests of Anteus may pass through protected routes that lead
+into dwarven areas without knowing the pass key.  
+
+Priests of Anteus lose 5 piety for attacking dwarves.
+
+Spells
+
+    Find Mountain Trail 
+    Obscure Mountain Trail
+    Detect Gold Deposit
+    Improve Mining 
+    Find Hidden Tunnel
+    Hide Tunnel Entrance
+    Improve Fortification
+    Weaken Fortification
+    Set Boulder Trap
+
+    
+------
+Prayer: Find Mountain Trail
+Usage: USE [] 
+Required Item: holy symbol
+Time to cast: 1 day
+
+By means of this prayer, the priest finds a faster trail into or out of
+a mountain province, speeding the movement of the stack he is in as it
+travels.  The Priest must lead the stack he is guiding through the
+mountains. 
+
+$$$
+Piety: 1
+
+After casting this prayer, the Priest must immediately move into or out
+of a mountain province.  If so, the Priest's stacks movement time will
+be cut by 25%.  This bonus does not apply if the Priest is moving along
+a road.
+
+------
+Prayer: Obscure Mountain Trail
+Usage: USE [] <province>
+Required Item: holy symbol
+Time to cast: 7 days
+
+By use of this prayer, a Priest of Anteus obscures the mountain trails
+leading into a mountain province.  The Priest must be in or adjacent to
+the province.  This effect will last for 30 days.  Units moving into the
+province will have their movment slowed.
+
+This prayer will not affect units moving out of the province, or against
+other Priests of Anteus.
+
+$$$
+Piety: 1
+
+Movement will be slowed by 25%.
+------
+Prayer: Detect Gold Deposit
+Usage: USE [] 
+Required Item: <holy plant> 
+Time to cast: 7 days
+
+By use of this prayer, the priest determines whether there are any large
+gold deposits nearby suitable for mining.
+
+$$$
+Piety: 2
+
+The range of this prayer is determined by the current piety of the
+priest, one province radius for each 2 current piety.
+
+------
+Prayer: Improve Mining
+Usage: USE []
+Required Item: holy plant
+Time to cast: 7 days
+
+By means of this prayer, the priest improves the efficiency of a mine. 
+The effects last for 30 days.
+
+$$$
+Piety: 3
+
+During the 30 days the spell lasts, production at the mine will be
+improved by 25%.  
+------
+Prayer: Find Hidden Tunnel
+Usage: USE [] 
+Required Item: holy symbol 
+Time to cast: 7 days
+
+By use of this prayer, the priest reveals whether there are any secret
+tunnel entrances in the province he is in.
+
+$$$
+Piety: 2
+
+This prayer actually reveals any hidden province feature.
+------
+Prayer: Hide Tunnel Entrance
+Usage: USE [] <tunnel>
+Required Item: holy symbol, holy plant
+Time to cast: 30 days
+
+By use of this prayer, a priest permanently conceals the entrance to a
+mine or tunnel.  Note that permanent magic of this sort makes a
+permanent drain upon the user.
+
+$$$
+Piety: 2 (permanently)
+
+If interrupted by combat the prayer will fail to take effect, but the
+priest will still lose 2 piety permanently.
+
+------
+Prayer: Improve Fortification
+Usage: USE [] <building>
+Required Item: holy symbol
+Time to cast: 7 days
+
+Priests of Anteus may use this prayer to increase the strength of a
+fortification.  For the following month, the blessed fortification will
+have extra resistance to damage.
+
+$$$
+Piety: 3
+
+This prayer adds an extra 10 (?) points of strength to a fortification. 
+These points will be used first if the fortification is attacked during
+the next month.  This spell is cumulative.
+
+------
+Prayer: Weaken Fortification
+Usage: USE [] <building>
+Required Item: holy symbol, holy plant
+Time to cast: 1 day
+
+By this prayer, the priest of Anteus causes the walls of a fortification
+to weaken and crumble.  
+
+$$$
+Piety: 5
+
+This prayer does 10 points of damage to a fortification.  
+------
+Prayer: Set Boulder Trap
+Usage: USE [] <path>
+Required Item: holy plant
+Time to cast: 7 days
+
+Using this prayer, the priest creates a magical boulder trap on a path
+leading into or out of a mountain province.  The next unit to pass
+through will trigger the trap, and be caught in an avalanche!
+
+Priest of Anteus may pass through boulder traps without effect.
+
+$$$
+Piety: 7
+
+The boulder trap does a substantial amount of damage.  It may eventually
+weaken and dissipate if not triggered.
+
+=====
+
+DOL
+
+Dol is a the God of the Animals, called the Beastmaster.  He appears to
+his followers a tall, well-built man with the head of a bull.  Priests
+of Dol usually build their temples in the plains, and are often seen
+working with beastmasters.  It is said that the Priests of Dol are often
+accompanied by wild beasts who protect them from all harm.
+
+$$$
+
+Temples to Dol must be in plains provinces.  Attempts to consecrate
+temples elsewhere will fail, with the usual disastrous results.
+
+Priests of Dol with maximum piety > 5 will be spontaneously accompanied
+by beasts whenever in a plains province.  These beasts will remain
+stacked with the priest unit and will defend in the case of battle.  50%
+of the time the accompanying beast will be a bull.
+
+Spells
+
+    Detect Beasts
+    Conceal Beasts
+    Bird Spy
+    Ride Wild Beast
+    Find Ancient Ruin
+    Improve Herding
+    Cause Stampede
+    Set Snake Trap
+
+Prayer: Detect Beasts
+Usage: USE [] 
+Required Item: holy plant
+Time to cast: 7 days
+
+Priests of Dol may use this prayer to determine whether there are any
+wild animals in nearby provinces.
+
+$$$
+Piety: 2
+
+The range of this prayer is determined by the current piety of the
+priest, one province radius for each 2 current piety.
+------
+Prayer: Conceal Beasts
+Usage: USE [] <beasts>
+Required Item: holy plant
+Time to cast: 7 days
+
+By use of this spell, the priest conceals from detection a group of wild
+beasts for 30 days.  This spell can be used, for example, to hide a herd
+of wild horses from a horse-taming outfit.
+
+$$$
+Piety: 2
+------
+Prayer: Bird Spy
+Usage: USE [] <province or direction>
+Required Item: 
+Time to cast: 1 day
+
+This spell summons a bird and sends it into the indicated adjacent
+province where it reports units and features.
+
+$$$
+Piety: 1
+
+------
+Prayer: Ride Wild Beast
+Usage: USE [] 
+Required Item: holy plant 
+Time to cast: 1 day
+
+This spell summons a wild beast to carry the Priest unit only for the
+remainder of the month.  The wild beast will carry the Priest as far and
+as fast as possible in any direction the Priest desires.
+
+$$$
+Piety: 3
+
+Note that beasts will have various load limits, and so the summoned
+beast may not be able to carry the Priest and his items, but all beasts
+summoned by this spell will at least be able to carry an unencumbered
+person. 
+
+------
+Prayer: Improve Herding
+Usage: USE []
+Required Item: holy plant
+Time to cast: 7 days
+
+By means of this prayer, the priest improves the efficiency of a herding 
+operation.  The effects last for 30 days.
+
+$$$
+Piety: 3
+
+During the 30 days the spell lasts, production at the herding operation
+will be improved by 25%.  
+------ 
+Prayer: Find Ancient Ruin
+Usage: USE [] 
+Required Item: holy symbol 
+Time to cast: 7 days
+
+By use of this prayer, the priest reveals whether there are any secret
+ancient ruins in the province he is in.
+
+$$$
+Piety: 2
+
+This prayer actually reveals any hidden province feature.
+------
+Prayer: Cause Stampede
+Usage: USE [] <direction>
+Required Item: holy symbol
+Time to cast: 14 days
+
+Using this prayer, the Priest of Dol summons a large herd of wild beasts
+and sends them stampeding in the given direction.  The herd will
+stampede through the adjoining province, disrupting all activity there.
+
+$$$
+Piety: 7
+
+All units in the adjacent province not stacked with a Priest of Dol will
+have their activities interrupted for one week by the stampede.  Any
+beast catching, taming, etc., activities will completely fail.
+
+------
+Prayer: Set Snake Trap
+Usage: USE [] <path>
+Required Item: holy plant
+Time to cast: 7 days
+
+Using this prayer, the priest creates a snake trap on a path leading
+into or out of a plains province.  The next single, unstacked unit to
+pass through will trigger the trap, be bitten by the snake, and be
+likely to die from the poison. 
+
+Priest of Dol may pass through snake traps without effect.
+
+$$$
+Piety: 7
+
+The snake trap may eventually weaken and dissipate if not triggered. 
+The snake trap has a 75% chance of kiling its victim outright.  In all
+other cases the unit takes 50% damage.
+
+=====
+
+TIMEID
+
+Timeid is the Goddess of Plants.  She appears to her followers as a
+small, fey woman clothed in clinging vines.  Priests of Timeid usually
+build their temples in forests, and are often seen working with
+alchemists, with whom they share an interest in plants.  It is said that
+the Priests of Timeid can pass through even the densest forest without
+leaving a trace behind.
+
+$$$
+
+Temples to Timeid must be in forest provinces.  Attempts to consecrate
+temples elsewhere will fail, with the usual disastrous results.
+
+In forest provinces, Priest of Timeid are concealed with stealth equal
+to their current piety.  Stacks which include a Priest of Timeid pass
+through forests 25% faster than ordinary stacks.  This bonus does not
+apply to roads through forest provinces.
+
+Spells 
+
+    Find Forest Trail
+    Obscure Forest Trail
+    Detect Plants
+    Find Elven Hollow 
+    Improve Foresting
+    Create Dense Thicket
+    Create Path of Entrapment    
+    
+------
+Prayer: Find Forest Trail
+Usage: USE [] 
+Required Item: holy symbol
+Time to cast: 1 day
+
+By means of this prayer, the priest finds a faster trail into or out of
+a forest province, speeding the movement of the stack he is in as it
+travels.  The Priest must lead the stack he is guiding through the
+forest. 
+
+$$$
+Piety: 1
+
+After casting this prayer, the Priest must immediately move into or out
+of a forest province.  If so, the Priest's stacks movement time will
+be cut by 25%.  This bonus does not apply if the Priest is moving along
+a road.
+
+------
+Prayer: Obscure Forest Trail
+Usage: USE [] <province>
+Required Item: holy symbol
+Time to cast: 7 days
+
+By use of this prayer, a Priest of Timeid obscures the forest trails
+leading into a forest province.  The Priest must be in or adjacent to
+the province.  This effect will last for 30 days.  Units moving into the
+province will have their movment slowed.
+
+This prayer will not affect units moving out of the province, or against
+other Priests of Timeid.
+
+$$$
+Piety: 1
+
+Movement will be slowed by 25%.
+------
+Prayer: Improve Forestry
+Usage: USE []
+Required Item: holy plant
+Time to cast: 7 days
+
+By means of this prayer, the priest improves the efficiency of logging
+in a province.  The effects last for 30 days.
+
+$$$
+Piety: 3
+
+During the 30 days the spell lasts, production at the forestry operation
+will be improved by 25%.  
+------ 
+Prayer: Find Elven Hollow
+Usage: USE [] 
+Required Item: holy symbol 
+Time to cast: 7 days
+
+By use of this prayer, the priest reveals whether there are any secret
+elvish hollows in the province he is in.
+
+$$$
+Piety: 2
+
+This prayer actually reveals any hidden province feature.
+------
+Prayer: Detect Plants
+Usage: USE [] 
+Required Item: holy plant
+Time to cast: 7 days
+
+Priests of Timeid may use this prayer to determine whether there are any
+special plants in nearby provinces.
+
+$$$
+Piety: 2
+
+The range of this prayer is determined by the current piety of the
+priest, one province radius for each 2 current piety.
+------
+Prayer: Create Dense Thicket
+Usage: USE [] <fortification>
+Required Item: holy plant
+Time to cast: 7 days
+
+Using this prayer, the priest causes a dense thicket of thorns to grow
+over a fortification.  This thicket will last thirty days and will do
+damage to anyone who directly attacks the fortifications.  (Attackers in
+siege engines will not be affected.)
+
+Priest of Timeid are not affected by thickets.
+$$$
+Piety: 7
+------
+Prayer: Create Path of Entrapment
+Usage: USE [] <path>
+Required Item: holy plant
+Time to cast: 7 days
+
+Using this prayer, the priest creates a path of entrapment on a path
+leading into or out of a forest province.  The next stack to pass through
+will trigger the trap.  The enchanted path will cause the stack to wander
+aimlessly for a month, ending in the same location in which it started.
+
+Priest of Timeid may pass through paths of entrapment without effect.
+
+$$$
+Piety: 7
+
+The path of entrapment may eventually weaken and dissipate if not triggered.
+
+=====
+
+HAM
+
+Ham is the God of Laughter and Devilment.  He appears as a laughing
+young man dressed in the gay colorful garb of a court jester.  Priests
+of Ham traditionally build their Temples in cities, where they serve as
+centers of entertainment.  It is said that the followers of Ham never
+lose heart, and that no act goes unseen by Ham's keen-eyed Priests.
+
+$$$
+
+Temples to Ham must be in cities.  Attempts to consecrate temples
+elsewhere will fail, with the usual disastrous results. 
+
+Units stacked with Priests of Ham will never fail morale checks, though
+they will still retreat when appropriate.  Inside cities, Priests of Ham
+gain pluses on their Observation rolls. 
+
+Spells
+    
+    Find Nearest City
+    Find Hidden Sewer Entrance
+    Enchant City Guard
+    Urchin Spy
+    Draw Crowds
+    Arrange Mugging    
+
+Prayer: Find Nearest City
+Usage: USE [] 
+Required Item: 
+Time to cast: 7 days
+
+By use of this prayer, the priest of Ham learns the direction and
+distance to the nearest city.
+
+$$$
+Piety: 1
+
+------
+Prayer: Find Hidden Sewer Entrance 
+Usage: USE [] 
+Required Item: holy symbol
+Time to cast: 7 days
+
+Many cities contain ancient sewers that are no longer in use and provide
+a means for moving undetected about the city.  This prayer reveals to
+the priest of Ham any hidden sewers in the city he is in.
+
+$$$
+Piety: 2
+
+------
+Prayer: Enchant City Guard
+Usage: USE [] <unit>
+Required Item: holy plant
+Time to cast: 7 days
+
+This prayer increases the gullibility of the city guard and increases
+the persuaviness of the priest of Ham, allowing the priest of Ham to
+suggest to the City Guard that a particular unit may be involved in
+crimes.  This will result in the given unit being detained for a time
+when it next enters the city.  If the unit is already in the city, it
+will be arrested and detained immediately.
+
+
+$$$
+Piety: 4
+
+Unit is detained for 7 days.  Other priests of Ham are not affected.
+
+------
+Prayer: Urchin Spy
+Usage: USE [] <unit>
+Required Item: holy symbol, $50
+Time to cast: 1 day
+
+This prayer increases the persuasiveness of the priest of Ham, allowing
+the priest of Ham to suggest that an urchin follow a particular unit
+around the city for a week and report to the priest anything interesting
+he discovers.  The priest also gives the urchin $50 to use for bribing
+shopkeepers, city guards, etc. 
+
+$$$
+Piety: 3
+
+The urchin will try to uncover things the player wouldn't know from
+simply being co-located with the target unit, such as the unit's
+faction, actions it took this turn, other units in the same faction who
+are also in the city, etc.
+
+------
+Prayer: Draw Crowds
+Usage: USE [] 
+Required Item: holy plant
+Time to cast: 7 days
+
+By use of this prayer, the priest increases the size of the crowds in a
+city for 30 days, improving the efficiency of entertainment skills.  
+
+$$$
+Piety: 3 
+
+This also improves pickpocketing opportunities.  This should be lore.
+
+------
+Prayer: Arrange Mugging
+Usage: USE [] <victim>
+Required Item: holy plant
+Time to cast: 7 days
+
+Using this prayer, the priest arranges for muggers to fall upon the
+hapless victim the next time he leaves the city.  The muggers will rob
+the victim of his gold, and possibly rough him up.
+
+$$$
+Piety: 7
+
+Note that (1) the priest doesn't get the stolen gold, and (2) the
+muggers don't take other items.  If the victim has combat skills (i.e.,
+resists) then a mini-battle takes place between the muggers (3-5
+soldier-level fighters) and the victim.  The victim attacks as normal,
+but the muggers are looking to "subdue".  If they force the victim to
+flee or "kill" him, they've succeed in subduing him.  He's stripped of
+his gold and left with 20-50% wounds.
+
+=====
+
+KIREUS
+
+Kireus is the patron of smiths.  He appears as a thick-set man dressed
+in blacksmith's garb, with bushy red hair and a beard singed by smithing
+fires.  Priests of Kireus traditionally build their Temples in cities,
+and often associate with engineers and weapon smiths.  It is said that
+no priest of Kireus can be harmed by a blade and no wall built of stone
+can bar them. 
+
+$$$
+
+Temples to Kireus must be in cities.  Attempts to consecrate temples
+elsewhere will fail, with the usual disastrous results. 
+
+Units stacked with priests of Kirues take 5% less damage from forged
+weapons (i.e., swords, axes, etc., but not polearms, arrows, etc.) and
+priests of Kireus themselves 15% less damage.  Hidden passages through
+stone walls (i.e., city walls, walls of some buildings) are immediately
+obvious to a priest of Kireus.
+
+Spells
+
+    Detect Stone Quarry 
+    Improve Quarrying
+    Improve Smithing
+    Create Secret Exit
+    Detect Secret Passage
+    Improve Fortification
+    Weaken Fortification
+    Edge of Kireus
+    Create Mithril
+    Set Pit Trap
+    
+Prayer: Detect Stone Quarry
+Usage: USE [] 
+Required Item: holy plant
+Time to cast: 7 days
+
+By use of this prayer, the priest determines whether there are any large
+stone deposits nearby suitable for mining.
+
+$$$
+Piety: 2
+
+The range of this prayer is determined by the current piety of the
+priest, one province radius for each 2 current piety.
+
+--------
+Prayer: Improve Quarrying
+Usage: USE [] 
+Required Item: holy plant
+Time to cast: 7 days
+
+This prayer improves the quarrying operations in the province in which
+it is cast for 30 days.
+
+$$$
+Piety: 2
+
+--------
+Prayer: Improve Smithing
+Usage: USE [] 
+Required Item: holy plant
+Time to cast: 7 days
+
+This prayer improves the smithing operations in the province in which
+it is cast for 30 days.
+
+$$$
+Piety: 
+
+--------
+Prayer: Create Secret Exit
+Usage: USE [] 
+Required Item: holy symbol, holy plant
+Time to cast: 30 days
+
+This prayer magically creates a secret exit from the inside of a
+building or fortification to the outside.  The priest of Kireus using
+this prayer must be inside when he uses the spell, and must be
+undisturbed for thirty days.
+
+$$$
+Piety: 4
+
+Usual bad consequences if disturbed.  The resulting secret passage is
+not magical.
+
+--------
+Prayer: Detect Secret Passages
+Usage: USE [] 
+Required Item: holy symbol
+Time to cast: 7 days
+
+When used inside a building or fortification, this prayer will detect
+any secret passages.  This prayer will not detect magical passageways
+such as gates, nor will it detect magically concealed passages.
+
+$$$
+Piety: 3
+-----
+Prayer: Improve Fortification
+Usage: USE [] <building>
+Required Item: holy symbol
+Time to cast: 7 days
+
+Priests of Kireus may use this prayer to increase the strength of a
+fortification.  For the following month, the blessed fortification will
+have extra resistance to damage.
+
+$$$
+Piety: 3
+
+This prayer adds an extra 10 (?) points of strength to a fortification. 
+These points will be used first if the fortification is attacked during
+the next month.  This spell is cumulative.
+
+------
+Prayer: Weaken Fortification
+Usage: USE [] <building>
+Required Item: holy symbol, holy plant
+Time to cast: 1 day
+
+By this prayer, the priest of Kireus causes the walls of a fortification
+to weaken and crumble.  
+
+$$$
+Piety: 5
+
+This prayer does 10 points of damage to a fortification.  
+
+--------
+Prayer: Edge of Kireus
+Usage: USE [] 
+Required Item: holy symbol
+Time to cast: 1 day
+
+By use of this prayer, the priest of Kireus calls down a blessing upon
+all the edged weapons borne by the troops stacked with him.  This
+blessing causes the edges of the weapons to glow, and magically
+maintains their sharpness in battle.  Normally this benefit lasts for
+seven days, but if the priest unstacks from the soldiers or dies, the
+blessing is immediately cancelled.
+
+$$$
+Piety: 6
+
+Edge of Kireus is visible in combat reports.
+
+--------
+Prayer: Create Mithril
+Usage: USE [] <amount>
+Required Item: holy symbol, holy plant
+Time to cast: 30 days
+
+By use of this prayer, the priest of Kireus creates the magical metal
+mithril.  The rarest of metals, mithril is prized by wizards and
+weapon-makers.  Creation of mithril is extremely taxing, and only the
+strongest priests dare make more than one or two units of mithril at a
+time.  Each unit of mithril created also consumes one unit of iron and
+one unit of gold from the priest's inventory.
+
+$$$
+Piety: 6*<amount>
+
+--------
+Prayer: Set Pit Trap
+Usage: USE [] <building>
+Required Item: 1 unit iron
+Time to cast: 7 days
+
+By use of this prayer, the priest of Kireus creates a magical pit trap
+at the entrance of the specified building.  The next unit to enter or
+leave the building will fall into the trap and suffer damage.  The
+priest of Kireus must be immediately outside of the building while using
+this prayer.
+
+$$$
+Piety: 7
+
+Pit traps can fade like all priestly traps.
+--------
+
+=====
+
+HALON
+
+Halon was the leader of the Faithful Eight when they rejected Loki's
+suggestion to overthrow Sol.  He appears a tall, strikingly handsome
+man with glossy black hair and penetrating grey eyes.  Priests of
+Halon build their temples where men congregate, and are often found as
+advisors and confidants of great leaders.  It is said that Halon's
+touch upon a priest makes him a natural commander of men.
+
+$$$
+
+Temples to Halon must be within one province of a city.  Attempts to
+consecrate temples elsewhere will fail, with the usual disastrous
+results.
+
+Priests of Halon get a 10% to recruiting followers and to battle command.
+
+Spells
+
+	Find Nearest City
+	Give Fiery Speech
+	Improve Leader's Charisma
+	Mesmerize Crowd
+	Improve Taxes
+	Guard Loyalty
+	Instill Fanaticism
+
+Prayer: Find Nearest City
+Usage: USE [] 
+Required Item: 
+Time to cast: 7 days
+
+By use of this prayer, the priest of Halon learns the direction and
+distance to the nearest city.
+
+$$$
+Piety: 1
+
+------
+
+Prayer: Give Fiery Speech
+Usage: USE [] 
+Required Item: holy symbol 
+Time to cast: 1 day
+
+The priest of Halon first prays and then gives an impassioned speech
+urging popular support.  For 7 days following the speech, the
+priest gains additional followers from the local populace.
+
+$$$
+Piety: 2
+
+Add 10-20 unskilled peasants to the priest's inventory for 7 days.
+
+------
+
+Prayer: Improve Charisma
+Usage: USE [] <unit>
+Required Item: holy plant 
+Time to cast: 7 days
+
+By means of this prayer, the priest of Halon magically enhances a
+unit's charisma for 30 days.  Improved charisma will make a unit a
+better leader and persuader.
+
+$$$
+Piety: 3
+
+Bonuses to the affected unit's recruitment, persuasion and combat
+leadership skills.
+
+------
+
+Prayer: Mesmerize Crowd
+Usage: USE [] 
+Required Item: holy symbol
+Time to cast: 1 day
+
+By means of this prayer, the priest mesmerizes and confuses a crowd of
+people.  All units in the same location as the priest have a chance of
+standing dazed for seven days.
+
+$$$
+Piety: 5
+
+Saving throw based on leadership; doesn't affect other priests of Halon.
+
+------
+
+Prayer: Improve Taxes
+Usage: USE [] 
+Required Item: holy plant 
+Time to cast: 7 days
+
+By use of magical leadership, the priest of Halon convinces the local
+inhabitants to contribute higher taxes without complaint.  The effects
+last for 30 days.
+
+$$$
+Piety: 3
+
+During the 30 days the spell lasts, taxation will be improved by 25%.  
+
+------
+
+Prayer: Guard Loyalty
+Usage: USE [] <unit>
+Required Item: holy symbol
+Time to cast: 1 day
+
+For thirty days, this prayer protects a unit from all attempts at
+persuasion. 
+
+$$$
+Piety: 2
+
+------
+
+Prayer: Instill Fanaticism
+Usage: USE [] 
+Required Item: soldiers [12], holy plant 
+Time to cast: 30 days
+
+During the thirty days of this prayer, the priest of Halon will preach
+to the soldiers he commands about the importance of loyalty and the
+holy nature of their leaders.  The result will be to convert the
+receptive soldiers into fanatics [].  Fanatics are soldiers who fight
+with great intensity, and never lose morale.  Fanatics require a
+strong leader to believe in.
+
+$$$
+Piety: 6
+
+This prayer converts one soldier for each 2 maximum piety the priest
+has.  Fanatics fight as soldiers except that they do 30% more damage
+and take 20% more damage, i.e., they're great on offense and poor on
+defense.  If in the inventory of a unit with low leadership, they will
+become discontent and eventually turn on their leader.  They will
+never grow discontent while in the inventory of a priest of Halon.
+
+======
+
+DOMINGO
+
+Of all the Faithful Eight, least is known about Domingo.  The ancient
+texts from the time of the Rebellion do not mention him, and there is
+no record of his typical appearance.  Some say that he is one of the
+children of Sol who followed Loki, returned now to Olympia to spy upon
+the man and the Faithful.  Because of this, Priests of Domingo build
+their temples in secret places and are cautious about announcing their
+faith.  It is said that the priests of Domingo know all the secret
+places in the world.
+
+$$$
+
+Temples to Domingo must be in a hidden location.  Attempts to
+consecrate temples elsewhere will fail, with the usual disastrous
+results.
+
+Priests of Domingo get a 20% bonus to notice hidden location features. 
+
+Spells
+
+	Find Hidden Location
+	Conceal Location
+	Change Appearance
+	Magic Purse
+	Burlar Alarm
+	Mists of Concealment
+	Create Ninja
+
+Prayer: Find Hidden Location
+Usage: USE [] 
+Required Item: holy symbol
+Time to cast: 7 days
+
+Domingo mystically reveals to his priest any hidden locations where
+the priest is at.
+
+$$$
+Piety: 2
+
+------
+
+Prayer: Conceal Location
+Usage: USE [] <location>
+Required Item: holy symbol, holy plant
+Time to cast: 30 days
+
+By use of this prayer, a priest permanently conceals the entrance to a
+mine or tunnel.  Note that permanent magic of this sort makes a
+permanent drain upon the user.
+
+$$$
+Piety: 2 (permanently)
+
+If interrupted by combat the prayer will fail to take effect, but the
+priest will still lose 2 piety permanently.
+
+------
+
+Prayer: Change Appearance
+Usage: USE [] <id> <faction>
+Required Item: holy symbol, holy plant
+Time to cast: 7 days
+
+By means of this spell, the priest uses the power of Domingo to take
+on the appearance of unit <id>, of faction <faction>.  For one month,
+the priest will appear to have the identification and name of <id> and
+appear to belong to the faction <faction>.  (Note that in reality,
+unit <id> might not belong to <faction>.)  The priest will be able to
+stack as if he really belonged to <faction>, and might even end up in
+control of a stack!  
+
+$$$
+Piety: 5
+
+Need to define this prayer so that it isn't massively abusable.  I
+don't think it is, but we'll have to peruse the rules carefully.
+
+------
+
+Prayer: Magic Purse
+Usage: USE [] <unit>
+Required Item: 
+Time to cast: 1 day
+
+This prayer enchants a unit's backpack for a period of 30 days.  For
+that time, if any thief attempts to steal something from the backpack,
+the backpack will scream a loud warning, thwarting the thief's attempt
+and improving the unit's attempts to catch the thief.
+
+$$$
+Piety: 3
+
+Steal Item fails automatically; chance to catch thief +10%.  Note: has
+no affect against priests of Domingo.
+----
+Prayer: Burglar Alarm
+Usage: USE [] <location>
+Required Item: holy plant
+Time to cast: 1 day
+
+This prayer weaves a magical guard around a location.  If any unit
+attempts to sneak into the location, the guard will alert all
+occupants of the location by shouting out in a loud voice the name of
+the burglar.
+
+$$$
+Piety: 3
+
+Note: has no affect against priests of Domingo.  Cannot be used on a
+province-sized location.
+----
+Prayer: Mists of Concealment
+Usage: USE [] 
+Required Item: holy plant
+Time to cast: 7 days
+
+By use of this prayer, the priest of Domingo calls up a concealing
+mist in the province he occupies.  The priest himself will see through
+the mist easily, but others will have difficulty seeing one another.
+The mist lasts for thirty days.
+
+$$$
+Piety: 5
+
+The mist decreases everyone's observation level by one.  Priests of
+Domingo are not affected.
+----
+Prayer: Create Ninja
+Usage: USE [] 
+Required Item: soldiers [12], holy plant 
+Time to cast: 30 days
+
+During the thirty days of this prayer, the priest of Domingo will
+teach to the soldiers he commands temple secrets of concealment and
+train them harshly.  The result will be to convert the best soldiers
+into ninjas [].  Ninjas have the ability to pass unseen amongst normal
+units until they initiate combat.
+
+$$$
+Piety: 6
+
+This prayer converts one soldier for each 2 maximum piety the priest
+has.  Ninjas are magically concealed and cannot be observed by any
+units except priests of Domingo.  In battle, the Ninjas become visible
+to their opponents.
+
+When ninjas are GIVEN to another unit, no transfer message occurs
+unless the receiving unit can see the ninjas.  It's quite possible to
+GIVE ninjas to an unsuspecting unit who will never know he has them.
+------
+
+

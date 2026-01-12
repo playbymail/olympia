@@ -1,0 +1,1510 @@
+51372:0::0:0:> accept 0 0
+91617:0::0:1:> wait item  10 1  item 12 1
+3764:0::0:1:> wait item  10 1  item 12 1
+97334:0::0:1:> wait item  10 1  item 12 1
+118569:0::0:1:> wait item  10 1  item 12 1
+118511:0::0:1:> wait item  10 1  item 12 1
+118594:0::0:1:> wait item  10 1  item 12 1
+117496:0::0:1:> wait item  10 1  item 12 1
+8803:0::0:1:> wait item  10 1  item 12 1
+137416:0::0:1:> wait item  10 1  item 12 1
+137028:0::0:1:> wait item  10 1  item 12 1
+132783:0::0:1:> wait item  10 1  item 12 1
+101093:0::0:1:> wait item  10 1  item 12 1
+90474:0::0:1:> wait item  10 1  item 12 1
+79153:0::0:1:> wait item  10 1  item 12 1
+73569:0::0:1:> wait item  10 1  item 12 1
+65126:0::0:1:> wait item  10 1  item 12 1
+64499:0::0:1:> wait item  10 1  item 12 1
+113826:0::0:1:> wait item  10 1  item 12 1
+106638:0::0:1:> wait item  10 1  item 12 1
+91617:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+3764:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+97334:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+118569:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+118511:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+118594:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+117496:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+8803:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+137416:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+137028:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+132783:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+101093:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+90474:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+79153:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+73569:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+65126:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+64499:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+113826:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+106638:0::0:1:Received four~pikes~[75] from Skeleton~[99167].
+38048:0::0:1:New noble~[2118] left for Barrows~[h434], accompanied~by:
+38048:0::3/3:1:New noble~[135481]
+38048:0::3/3:1:New noble~[102240]
+38048:0::3/3:1:New noble~[146625]
+38048:0::3/3:1:New noble~[114167]
+38048:0::3/3:1:New noble~[90916]
+38048:0::3/3:1:New noble~[126268]
+38048:0::3/3:1:New noble~[149340]
+38048:0::3/3:1:New noble~[2364]
+38048:0::3/3:1:New noble~[147856]
+38048:0::3/3:1:New noble~[94859]
+38048:0::3/3:1:New noble~[112671]
+38048:0::3/3:1:New noble~[99042]
+38048:0::3/3:1:New noble~[89970]
+38048:0::3/3:1:New noble~[9866]
+38048:0::3/3:1:New noble~[5890]
+38048:0::3/3:1:New noble~[139933]
+38048:0::3/3:1:New noble~[118925]
+38048:0::0:4:Savage~[88263], savage, with two~winged horses, arrived.
+38048:0::0:6:New noble~[109532], with four~winged horses, arrived from Barrows~[h434].
+38048:0::0:7:Undead~[97181], undead, wielding Spear of Evinob~[k091], with 68~peasants, 512~soldiers, 90~archers, 15~knights, 34~elite guard, 671~pikemen, 128~swordsmen, 29~crossbowmen, 63~elite archers, six~riding horses, 26~winged horses, 15~nazgul, 25~catapults, 98~oxen, 254~centaurs, 1,962~giant lizards, one~orc, one~wolf, one~cyclops, two~giants, arrived from Barrows~[h434], accompanied~by:
+38048:0::3/3:7:Samuel~[t610], wearing enchanted helm~[h149], with 12~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[129139], with two~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[120532], with three~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[94648], with three~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[140431], with three~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:Ekechi~[92963], with three~winged horses, 21~soldiers, two~pikemen
+38048:0::3/3:7:New noble~[145685], with 21~soldiers, two~pikemen, three~winged horses
+91617:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+3764:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+97334:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+118569:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+118511:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+118594:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+117496:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+8803:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+137416:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+137028:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+132783:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+101093:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+90474:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+79153:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+73569:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+65126:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+64499:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+113826:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+106638:0::0:8:Received ten~pikes~[75] from Undead~[97181].
+91617:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+91617:0::0:8:Wait finished: New noble has 14~soldiers.
+3764:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+3764:0::0:8:Wait finished: New noble has 14~soldiers.
+97334:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+97334:0::0:8:Wait finished: New noble has 14~soldiers.
+118569:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+118569:0::0:8:Wait finished: New noble has 14~soldiers.
+118511:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+118511:0::0:8:Wait finished: New noble has 14~soldiers.
+118594:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+118594:0::0:8:Wait finished: New noble has 14~soldiers.
+117496:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+117496:0::0:8:Wait finished: New noble has 14~soldiers.
+8803:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+8803:0::0:8:Wait finished: New noble has 14~soldiers.
+137416:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+137416:0::0:8:Wait finished: New noble has 14~soldiers.
+137028:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+137028:0::0:8:Wait finished: New noble has 14~soldiers.
+132783:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+132783:0::0:8:Wait finished: New noble has 14~soldiers.
+101093:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+101093:0::0:8:Wait finished: New noble has 14~soldiers.
+90474:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+90474:0::0:8:Wait finished: New noble has 14~soldiers.
+79153:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+79153:0::0:8:Wait finished: New noble has 14~soldiers.
+73569:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+73569:0::0:8:Wait finished: New noble has 14~soldiers.
+65126:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+65126:0::0:8:Wait finished: New noble has 14~soldiers.
+64499:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+64499:0::0:8:Wait finished: New noble has 14~soldiers.
+113826:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+113826:0::0:8:Wait finished: New noble has 14~soldiers.
+106638:0::0:8:Received 14~soldiers~[12] from Undead~[97181].
+106638:0::0:8:Wait finished: New noble has 14~soldiers.
+91617:0::0:8:Received 100~gold~[1] from Undead~[97181].
+3764:0::0:8:Received 100~gold~[1] from Undead~[97181].
+97334:0::0:8:Received 100~gold~[1] from Undead~[97181].
+118569:0::0:8:Received 100~gold~[1] from Undead~[97181].
+118511:0::0:8:Received 100~gold~[1] from Undead~[97181].
+118594:0::0:8:Received 100~gold~[1] from Undead~[97181].
+117496:0::0:8:Received 100~gold~[1] from Undead~[97181].
+8803:0::0:8:Received 100~gold~[1] from Undead~[97181].
+137416:0::0:8:Received 100~gold~[1] from Undead~[97181].
+137028:0::0:8:Received 100~gold~[1] from Undead~[97181].
+132783:0::0:8:Received 100~gold~[1] from Undead~[97181].
+101093:0::0:8:Received 100~gold~[1] from Undead~[97181].
+90474:0::0:8:Received 100~gold~[1] from Undead~[97181].
+79153:0::0:8:Received 100~gold~[1] from Undead~[97181].
+73569:0::0:8:Received 100~gold~[1] from Undead~[97181].
+65126:0::0:8:Received 100~gold~[1] from Undead~[97181].
+64499:0::0:8:Received 100~gold~[1] from Undead~[97181].
+113826:0::0:8:Received 100~gold~[1] from Undead~[97181].
+106638:0::0:8:Received 100~gold~[1] from Undead~[97181].
+91617:0::0:8:> sail up
+91617:0::0:8:Must be on a sea-worthy ship to sail.
+91617:0::0:8:> train 12
+91617:0::0:8:Don't have any peasants~[10].
+91617:0::0:8:> train 16
+3764:0::0:8:> sail up
+3764:0::0:8:Must be on a sea-worthy ship to sail.
+3764:0::0:8:> train 12
+3764:0::0:8:Don't have any peasants~[10].
+3764:0::0:8:> train 16
+97334:0::0:8:> sail up
+97334:0::0:8:Must be on a sea-worthy ship to sail.
+97334:0::0:8:> train 12
+97334:0::0:8:Don't have any peasants~[10].
+97334:0::0:8:> train 16
+118569:0::0:8:> sail up
+118569:0::0:8:Must be on a sea-worthy ship to sail.
+118569:0::0:8:> train 12
+118569:0::0:8:Don't have any peasants~[10].
+118569:0::0:8:> train 16
+118511:0::0:8:> sail up
+118511:0::0:8:Must be on a sea-worthy ship to sail.
+118511:0::0:8:> train 12
+118511:0::0:8:Don't have any peasants~[10].
+118511:0::0:8:> train 16
+118594:0::0:8:> sail up
+118594:0::0:8:Must be on a sea-worthy ship to sail.
+118594:0::0:8:> train 12
+118594:0::0:8:Don't have any peasants~[10].
+118594:0::0:8:> train 16
+117496:0::0:8:> sail up
+117496:0::0:8:Must be on a sea-worthy ship to sail.
+117496:0::0:8:> train 12
+117496:0::0:8:Don't have any peasants~[10].
+117496:0::0:8:> train 16
+8803:0::0:8:> sail up
+8803:0::0:8:Must be on a sea-worthy ship to sail.
+8803:0::0:8:> train 12
+8803:0::0:8:Don't have any peasants~[10].
+8803:0::0:8:> train 16
+137416:0::0:8:> sail up
+137416:0::0:8:Must be on a sea-worthy ship to sail.
+137416:0::0:8:> train 12
+137416:0::0:8:Don't have any peasants~[10].
+137416:0::0:8:> train 16
+137028:0::0:8:> sail up
+137028:0::0:8:Must be on a sea-worthy ship to sail.
+137028:0::0:8:> train 12
+137028:0::0:8:Don't have any peasants~[10].
+137028:0::0:8:> train 16
+132783:0::0:8:> sail up
+132783:0::0:8:Must be on a sea-worthy ship to sail.
+132783:0::0:8:> train 12
+132783:0::0:8:Don't have any peasants~[10].
+132783:0::0:8:> train 16
+101093:0::0:8:> sail up
+101093:0::0:8:Must be on a sea-worthy ship to sail.
+101093:0::0:8:> train 12
+101093:0::0:8:Don't have any peasants~[10].
+101093:0::0:8:> train 16
+90474:0::0:8:> sail up
+90474:0::0:8:Must be on a sea-worthy ship to sail.
+90474:0::0:8:> train 12
+90474:0::0:8:Don't have any peasants~[10].
+90474:0::0:8:> train 16
+79153:0::0:8:> sail up
+79153:0::0:8:Must be on a sea-worthy ship to sail.
+79153:0::0:8:> train 12
+79153:0::0:8:Don't have any peasants~[10].
+79153:0::0:8:> train 16
+73569:0::0:8:> sail up
+73569:0::0:8:Must be on a sea-worthy ship to sail.
+73569:0::0:8:> train 12
+73569:0::0:8:Don't have any peasants~[10].
+73569:0::0:8:> train 16
+65126:0::0:8:> sail up
+65126:0::0:8:Must be on a sea-worthy ship to sail.
+65126:0::0:8:> train 12
+65126:0::0:8:Don't have any peasants~[10].
+65126:0::0:8:> train 16
+64499:0::0:8:> sail up
+64499:0::0:8:Must be on a sea-worthy ship to sail.
+64499:0::0:8:> train 12
+64499:0::0:8:Don't have any peasants~[10].
+64499:0::0:8:> train 16
+113826:0::0:8:> sail up
+113826:0::0:8:Must be on a sea-worthy ship to sail.
+113826:0::0:8:> train 12
+113826:0::0:8:Don't have any peasants~[10].
+113826:0::0:8:> train 16
+106638:0::0:8:> sail up
+106638:0::0:8:Must be on a sea-worthy ship to sail.
+106638:0::0:8:> train 12
+106638:0::0:8:Don't have any peasants~[10].
+106638:0::0:8:> train 16
+38048:0::0:9:Undead~[79289], undead, with 477~peasants, 167~soldiers, two~riding horses, arrived.
+91617:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+91617:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+3764:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+3764:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+97334:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+97334:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+118569:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+118569:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+118511:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+118511:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+118594:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+118594:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+117496:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+117496:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+8803:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+8803:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+137416:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+137416:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+137028:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+137028:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+132783:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+132783:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+101093:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+101093:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+90474:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+90474:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+79153:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+79153:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+73569:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+73569:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+65126:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+65126:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+64499:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+64499:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+113826:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+113826:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+106638:0::0:10:Received ten~peasants~[10] from Undead~[79289].
+106638:0::0:10:Received four~soldiers~[12] from Undead~[79289].
+91617:0::0:21:Trained 14~pikemen.
+3764:0::0:21:Trained 14~pikemen.
+97334:0::0:21:Trained 14~pikemen.
+118569:0::0:21:Trained 14~pikemen.
+118511:0::0:21:Trained 14~pikemen.
+118594:0::0:21:Trained 14~pikemen.
+117496:0::0:21:Trained 14~pikemen.
+8803:0::0:21:Trained 14~pikemen.
+137416:0::0:21:Trained 14~pikemen.
+137028:0::0:21:Trained 14~pikemen.
+132783:0::0:21:Trained 14~pikemen.
+101093:0::0:21:Trained 14~pikemen.
+90474:0::0:21:Trained 14~pikemen.
+79153:0::0:21:Trained 14~pikemen.
+73569:0::0:21:Trained 14~pikemen.
+65126:0::0:21:Trained 14~pikemen.
+64499:0::0:21:Trained 14~pikemen.
+113826:0::0:21:Trained 14~pikemen.
+106638:0::0:21:Trained 14~pikemen.
+91617:0::0:22:> sail up
+91617:0::0:22:Must be on a sea-worthy ship to sail.
+91617:0::0:22:> train 12
+3764:0::0:22:> sail up
+3764:0::0:22:Must be on a sea-worthy ship to sail.
+3764:0::0:22:> train 12
+97334:0::0:22:> sail up
+97334:0::0:22:Must be on a sea-worthy ship to sail.
+97334:0::0:22:> train 12
+118569:0::0:22:> sail up
+118569:0::0:22:Must be on a sea-worthy ship to sail.
+118569:0::0:22:> train 12
+118511:0::0:22:> sail up
+118511:0::0:22:Must be on a sea-worthy ship to sail.
+118511:0::0:22:> train 12
+118594:0::0:22:> sail up
+118594:0::0:22:Must be on a sea-worthy ship to sail.
+118594:0::0:22:> train 12
+117496:0::0:22:> sail up
+117496:0::0:22:Must be on a sea-worthy ship to sail.
+117496:0::0:22:> train 12
+8803:0::0:22:> sail up
+8803:0::0:22:Must be on a sea-worthy ship to sail.
+8803:0::0:22:> train 12
+137416:0::0:22:> sail up
+137416:0::0:22:Must be on a sea-worthy ship to sail.
+137416:0::0:22:> train 12
+137028:0::0:22:> sail up
+137028:0::0:22:Must be on a sea-worthy ship to sail.
+137028:0::0:22:> train 12
+132783:0::0:22:> sail up
+132783:0::0:22:Must be on a sea-worthy ship to sail.
+132783:0::0:22:> train 12
+101093:0::0:22:> sail up
+101093:0::0:22:Must be on a sea-worthy ship to sail.
+101093:0::0:22:> train 12
+90474:0::0:22:> sail up
+90474:0::0:22:Must be on a sea-worthy ship to sail.
+90474:0::0:22:> train 12
+79153:0::0:22:> sail up
+79153:0::0:22:Must be on a sea-worthy ship to sail.
+79153:0::0:22:> train 12
+73569:0::0:22:> sail up
+73569:0::0:22:Must be on a sea-worthy ship to sail.
+73569:0::0:22:> train 12
+65126:0::0:22:> sail up
+65126:0::0:22:Must be on a sea-worthy ship to sail.
+65126:0::0:22:> train 12
+64499:0::0:22:> sail up
+64499:0::0:22:Must be on a sea-worthy ship to sail.
+64499:0::0:22:> train 12
+113826:0::0:22:> sail up
+113826:0::0:22:Must be on a sea-worthy ship to sail.
+113826:0::0:22:> train 12
+106638:0::0:22:> sail up
+106638:0::0:22:Must be on a sea-worthy ship to sail.
+106638:0::0:22:> train 12
+3764:0::0:30:Paid maintenance of 69~gold.
+8803:0::0:30:Paid maintenance of 69~gold.
+64499:0::0:30:Paid maintenance of 69~gold.
+65126:0::0:30:Paid maintenance of 69~gold.
+73569:0::0:30:Paid maintenance of 69~gold.
+79153:0::0:30:Paid maintenance of 69~gold.
+90474:0::0:30:Paid maintenance of 69~gold.
+91617:0::0:30:Paid maintenance of 69~gold.
+97334:0::0:30:Paid maintenance of 69~gold.
+101093:0::0:30:Paid maintenance of 69~gold.
+106638:0::0:30:Paid maintenance of 69~gold.
+113826:0::0:30:Paid maintenance of 69~gold.
+117496:0::0:30:Paid maintenance of 69~gold.
+118511:0::0:30:Paid maintenance of 69~gold.
+118569:0::0:30:Paid maintenance of 69~gold.
+118594:0::0:30:Paid maintenance of 69~gold.
+132783:0::0:30:Paid maintenance of 69~gold.
+137028:0::0:30:Paid maintenance of 69~gold.
+137416:0::0:30:Paid maintenance of 69~gold.
+51372:0::0:30:Wrongway Peachfuzz~[s120] has passed on.  Gained 1 NP.
+38048:0::0::
+38048:0::0::Routes leaving Hades: 
+38048:0::3::East, underground, to Hades~[pc89], hidden, 7~days
+38048:0::0::
+38048:0::0::Inner locations:
+38048:0::3::Barrows~[h434], graveyard, 1 day
+38048:0::0::
+38048:0::0::Seen here:
+38048:0::0/3::   Skeleton~[99167], skeleton, wielding magic dagger~[122608], wearing Armor of Cyllenedos~[91406], with 1,954~pikemen, 248~swordsmen, 96~elite archers, 58~winged horses, 13~oxen, 341~centaurs, 4,374~giant lizards, four~orcs, two~wolves, two~cyclops, 63~peasants, 90~archers, 15~knights, 34~elite guard, 29~crossbowmen, 15~nazgul, 25~catapults, two~giants, 142~soldiers, accompanied~by:
+38048:0::0/6::      New noble~[8259], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[124616], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[126846], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[102453], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[130482], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[6679], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[80581], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[102158], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[133664], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[85639], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[142656], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[100912], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[105397], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[103783], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[91617], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[3764], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[97334], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[118569], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[118511], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[118594], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[117496], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[8803], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[137416], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[137028], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[132783], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[101093], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[90474], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[79153], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[s569], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[h126], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[g499], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[113826], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6:: *    New noble~[106638], with 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      Alfie Newcombe~[r090], with four~winged horses, 13~soldiers, 14~pikemen, one~peasant
+38048:0::0/6::      New noble~[2278]
+38048:0::0/6::      New noble~[138287]
+38048:0::0/6::      New noble~[6532]
+38048:0::0/6::      New noble~[91599]
+38048:0::0/6::      New noble~[126290]
+38048:0::0/6::      New noble~[a684]
+38048:0::0/6::      New noble~[j548]
+38048:0::0/6::      New noble~[142187]
+38048:0::0/6::      New noble~[b590]
+38048:0::0/6::      New noble~[149190]
+38048:0::0/6::      New noble~[118896]
+38048:0::0/6::      New noble~[83981]
+38048:0::0/6::      New noble~[118696]
+38048:0::0/6::      Rolth~[5637], with three~soldiers, nine~pikemen, two~winged horses
+38048:0::0/3::   New noble~[109532], with four~winged horses, nine~ghost warriors
+38048:0::0/3::   Savage~[88263], savage, with two~winged horses
+38048:0::0/3::   Undead~[97181], undead, wielding Spear of Evinob~[k091], with six~riding horses, 24~winged horses, 98~oxen, accompanied~by:
+38048:0::0/6::      Samuel~[t610], wearing enchanted helm~[h149], with 12~winged horses
+38048:0::0/6::      New noble~[129139], with two~winged horses
+38048:0::0/6::      New noble~[120532], with three~winged horses
+38048:0::0/6::      New noble~[94648], with three~winged horses
+38048:0::0/6::      New noble~[140431], with three~winged horses
+38048:0::0/6::      Ekechi~[92963], with three~winged horses
+38048:0::0/6::      New noble~[145685], with three~winged horses
+38048:0::0/3::   Undead~[79289], undead, with two~riding horses
+5:0::0::
+5:0::0::begin fh2 "alice123"  # grull
+5:0::0::
+5:0::0::unit fh2  # grull
+5:0::0::
+5:0::0::unit 91617  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 3764  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 97334  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 118569  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 118511  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 118594  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 117496  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 8803  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 137416  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 137028  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 132783  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 101093  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 90474  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 79153  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit s569  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit h126  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit g499  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 113826  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::unit 106638  # New noble in Hades~[sa48]
+5:0::3::# > train 12 (still~executing)
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::wait item  10 1  item 12 1
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::sail up
+5:0::3::train 12
+5:0::3::train 16
+5:0::3::give 99167 16
+5:0::3::give 99167 12
+5:0::0::
+5:0::0::end
+51372:0::0::
+51372:0::0::Declared attitudes:
+51372:0::3::neutral  fh2
+51372:0::0::
+51372:0::0::Unclaimed items:
+51372:0::0::
+51372:0::0::      qty  name                              weight
+51372:0::0::      ---  ----                              ------
+51372:0::0::      775  gold~[1]                               0  
+51372:0::0::       50  wood~[77]                          1,500  
+51372:0::0::      100  stone~[78]                        10,000  
+3764:0::3::
+3764:0::3/16::Location:       Hades~[sa48], in Hades
+3764:0::3::Loyalty:        Fear-993
+3764:0::3/16::Stacked under:  New noble~[91617]
+3764:0::3::Health:         100%
+3764:0::3::Combat:         attack 80, defense 80, missile 0
+3764:0::3::                behind 3  (stay behind in combat)
+3764:0::3::Break point:    50%
+3764:0::3::
+3764:0::3::Skills known:
+3764:0::6::Combat~[610]
+3764:0::6::Beastmastery~[650]
+3764:0::12::Breed beasts~[654], master
+3764:0::3::
+3764:0::3::Inventory:
+3764:0::3::{<b>}      qty  name                              weight{</b>}
+3764:0::3::      ---  ----                              ------
+3764:0::3::       31  gold~[1]                               0  
+3764:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+3764:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+3764:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+3764:0::3::                                             ======
+3764:0::3::                                              2,800
+3764:0::3::
+3764:0::3/11::Capacity:  0/2,900 land (0%)
+3764:0::3::
+8803:0::3::
+8803:0::3/16::Location:       Hades~[sa48], in Hades
+8803:0::3::Loyalty:        Fear-993
+8803:0::3/16::Stacked under:  New noble~[91617]
+8803:0::3::Health:         100%
+8803:0::3::Combat:         attack 80, defense 80, missile 0
+8803:0::3::                behind 3  (stay behind in combat)
+8803:0::3::Break point:    50%
+8803:0::3::
+8803:0::3::Skills known:
+8803:0::6::Combat~[610]
+8803:0::6::Beastmastery~[650]
+8803:0::12::Breed beasts~[654], master
+8803:0::3::
+8803:0::3::Inventory:
+8803:0::3::{<b>}      qty  name                              weight{</b>}
+8803:0::3::      ---  ----                              ------
+8803:0::3::       31  gold~[1]                               0  
+8803:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+8803:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+8803:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+8803:0::3::                                             ======
+8803:0::3::                                              2,800
+8803:0::3::
+8803:0::3/11::Capacity:  0/2,900 land (0%)
+8803:0::3::
+64499:0::3::
+64499:0::3/16::Location:       Hades~[sa48], in Hades
+64499:0::3::Loyalty:        Fear-991
+64499:0::3/16::Stacked under:  New noble~[91617]
+64499:0::3::Health:         100%
+64499:0::3::Combat:         attack 80, defense 80, missile 0
+64499:0::3::                behind 3  (stay behind in combat)
+64499:0::3::Break point:    50%
+64499:0::3::
+64499:0::3::Skills known:
+64499:0::6::Combat~[610]
+64499:0::6::Beastmastery~[650]
+64499:0::12::Breed beasts~[654], journeyman
+64499:0::3::
+64499:0::3::Inventory:
+64499:0::3::{<b>}      qty  name                              weight{</b>}
+64499:0::3::      ---  ----                              ------
+64499:0::3::       31  gold~[1]                               0  
+64499:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+64499:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+64499:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+64499:0::3::                                             ======
+64499:0::3::                                              2,800
+64499:0::3::
+64499:0::3/11::Capacity:  0/2,900 land (0%)
+64499:0::3::
+65126:0::3::
+65126:0::3/16::Location:       Hades~[sa48], in Hades
+65126:0::3::Loyalty:        Fear-991
+65126:0::3/16::Stacked under:  New noble~[91617]
+65126:0::3::Health:         100%
+65126:0::3::Combat:         attack 80, defense 80, missile 0
+65126:0::3::                behind 3  (stay behind in combat)
+65126:0::3::Break point:    50%
+65126:0::3::
+65126:0::3::Skills known:
+65126:0::6::Combat~[610]
+65126:0::6::Beastmastery~[650]
+65126:0::12::Breed beasts~[654], journeyman
+65126:0::3::
+65126:0::3::Inventory:
+65126:0::3::{<b>}      qty  name                              weight{</b>}
+65126:0::3::      ---  ----                              ------
+65126:0::3::       31  gold~[1]                               0  
+65126:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+65126:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+65126:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+65126:0::3::                                             ======
+65126:0::3::                                              2,800
+65126:0::3::
+65126:0::3/11::Capacity:  0/2,900 land (0%)
+65126:0::3::
+65126:0::3::Pending trades:
+65126:0::3::
+65126:0::6::trade    price    qty   item
+65126:0::6::-----    -----    ---   ----
+65126:0::6:: sell        7    989   clay pot~[95]
+65126:0::3::
+73569:0::3::
+73569:0::3/16::Location:       Hades~[sa48], in Hades
+73569:0::3::Loyalty:        Fear-991
+73569:0::3/16::Stacked under:  New noble~[91617]
+73569:0::3::Health:         100%
+73569:0::3::Combat:         attack 80, defense 80, missile 0
+73569:0::3::                behind 3  (stay behind in combat)
+73569:0::3::Break point:    50%
+73569:0::3::
+73569:0::3::Skills known:
+73569:0::6::Combat~[610]
+73569:0::6::Beastmastery~[650]
+73569:0::12::Breed beasts~[654], journeyman
+73569:0::3::
+73569:0::3::Inventory:
+73569:0::3::{<b>}      qty  name                              weight{</b>}
+73569:0::3::      ---  ----                              ------
+73569:0::3::       31  gold~[1]                               0  
+73569:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+73569:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+73569:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+73569:0::3::                                             ======
+73569:0::3::                                              2,800
+73569:0::3::
+73569:0::3/11::Capacity:  0/2,900 land (0%)
+73569:0::3::
+79153:0::3::
+79153:0::3/16::Location:       Hades~[sa48], in Hades
+79153:0::3::Loyalty:        Fear-993
+79153:0::3/16::Stacked under:  New noble~[91617]
+79153:0::3::Health:         100%
+79153:0::3::Combat:         attack 80, defense 80, missile 0
+79153:0::3::                behind 3  (stay behind in combat)
+79153:0::3::Break point:    50%
+79153:0::3::
+79153:0::3::Skills known:
+79153:0::6::Combat~[610]
+79153:0::6::Beastmastery~[650]
+79153:0::12::Breed beasts~[654], master
+79153:0::3::
+79153:0::3::Inventory:
+79153:0::3::{<b>}      qty  name                              weight{</b>}
+79153:0::3::      ---  ----                              ------
+79153:0::3::       31  gold~[1]                               0  
+79153:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+79153:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+79153:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+79153:0::3::                                             ======
+79153:0::3::                                              2,800
+79153:0::3::
+79153:0::3/11::Capacity:  0/2,900 land (0%)
+79153:0::3::
+90474:0::3::
+90474:0::3/16::Location:       Hades~[sa48], in Hades
+90474:0::3::Loyalty:        Fear-83
+90474:0::3/16::Stacked under:  New noble~[91617]
+90474:0::3::Health:         100%
+90474:0::3::Combat:         attack 80, defense 80, missile 0
+90474:0::3::                behind 3  (stay behind in combat)
+90474:0::3::Break point:    50%
+90474:0::3::
+90474:0::3::Skills known:
+90474:0::6::Combat~[610]
+90474:0::6::Beastmastery~[650]
+90474:0::12::Breed beasts~[654], master
+90474:0::3::
+90474:0::3::Inventory:
+90474:0::3::{<b>}      qty  name                              weight{</b>}
+90474:0::3::      ---  ----                              ------
+90474:0::3::       31  gold~[1]                               0  
+90474:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+90474:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+90474:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+90474:0::3::                                             ======
+90474:0::3::                                              2,800
+90474:0::3::
+90474:0::3/11::Capacity:  0/2,900 land (0%)
+90474:0::3::
+91617:0::3::
+91617:0::3/16::Location:       Hades~[sa48], in Hades
+91617:0::3::Loyalty:        Oath-1
+91617:0::3/16::Stacked under:  Skeleton~[99167]
+91617:0::3::Stacked over:   New noble~[3764]
+91617:0::3::                New noble~[97334]
+91617:0::3::                New noble~[118569]
+91617:0::3::                New noble~[118511]
+91617:0::3::                New noble~[118594]
+91617:0::3::                New noble~[117496]
+91617:0::3::                New noble~[8803]
+91617:0::3::                New noble~[137416]
+91617:0::3::                New noble~[137028]
+91617:0::3::                New noble~[132783]
+91617:0::3::                New noble~[101093]
+91617:0::3::                New noble~[90474]
+91617:0::3::                New noble~[79153]
+91617:0::3::                New noble~[s569]
+91617:0::3::                New noble~[h126]
+91617:0::3::                New noble~[g499]
+91617:0::3::                New noble~[113826]
+91617:0::3::                New noble~[106638]
+91617:0::3::Health:         100%
+91617:0::3::Combat:         attack 80, defense 80, missile 0
+91617:0::3::                behind 0  (front line in combat)
+91617:0::3::Break point:    50%
+91617:0::3::
+91617:0::3::Skills known:
+91617:0::6::Combat~[610]
+91617:0::6::Beastmastery~[650]
+91617:0::12::Use beasts in battle~[653]
+91617:0::12::Breed beasts~[654], master
+91617:0::3::
+91617:0::3::Partially known skills:
+91617:0::6/6::Survive fatal wound~[611], 14/28
+91617:0::3::
+91617:0::3::Inventory:
+91617:0::3::{<b>}      qty  name                              weight{</b>}
+91617:0::3::      ---  ----                              ------
+91617:0::3::    1,031  gold~[1]                               0  
+91617:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+91617:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+91617:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+91617:0::3::                                             ======
+91617:0::3::                                              2,800
+91617:0::3::
+91617:0::3/11::Capacity:  0/2,900 land (0%)
+91617:0::3::
+97334:0::3::
+97334:0::3/16::Location:       Hades~[sa48], in Hades
+97334:0::3::Loyalty:        Fear-83
+97334:0::3/16::Stacked under:  New noble~[91617]
+97334:0::3::Health:         100%
+97334:0::3::Combat:         attack 80, defense 80, missile 0
+97334:0::3::                behind 3  (stay behind in combat)
+97334:0::3::Break point:    50%
+97334:0::3::
+97334:0::3::Skills known:
+97334:0::6::Combat~[610]
+97334:0::6::Beastmastery~[650]
+97334:0::12::Breed beasts~[654], master
+97334:0::3::
+97334:0::3::Inventory:
+97334:0::3::{<b>}      qty  name                              weight{</b>}
+97334:0::3::      ---  ----                              ------
+97334:0::3::       31  gold~[1]                               0  
+97334:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+97334:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+97334:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+97334:0::3::                                             ======
+97334:0::3::                                              2,800
+97334:0::3::
+97334:0::3/11::Capacity:  0/2,900 land (0%)
+97334:0::3::
+101093:0::3::
+101093:0::3/16::Location:       Hades~[sa48], in Hades
+101093:0::3::Loyalty:        Fear-83
+101093:0::3/16::Stacked under:  New noble~[91617]
+101093:0::3::Health:         100%
+101093:0::3::Combat:         attack 80, defense 80, missile 0
+101093:0::3::                behind 3  (stay behind in combat)
+101093:0::3::Break point:    50%
+101093:0::3::
+101093:0::3::Skills known:
+101093:0::6::Combat~[610]
+101093:0::6::Beastmastery~[650]
+101093:0::12::Breed beasts~[654], master
+101093:0::3::
+101093:0::3::Inventory:
+101093:0::3::{<b>}      qty  name                              weight{</b>}
+101093:0::3::      ---  ----                              ------
+101093:0::3::       31  gold~[1]                               0  
+101093:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+101093:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+101093:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+101093:0::3::                                             ======
+101093:0::3::                                              2,800
+101093:0::3::
+101093:0::3/11::Capacity:  0/2,900 land (0%)
+101093:0::3::
+106638:0::3::
+106638:0::3/16::Location:       Hades~[sa48], in Hades
+106638:0::3::Loyalty:        Fear-994
+106638:0::3/16::Stacked under:  New noble~[91617]
+106638:0::3::Health:         100%
+106638:0::3::Combat:         attack 80, defense 80, missile 0
+106638:0::3::                behind 3  (stay behind in combat)
+106638:0::3::Break point:    50%
+106638:0::3::
+106638:0::3::Skills known:
+106638:0::6::Combat~[610]
+106638:0::6::Beastmastery~[650]
+106638:0::12::Breed beasts~[654], journeyman
+106638:0::3::
+106638:0::3::Inventory:
+106638:0::3::{<b>}      qty  name                              weight{</b>}
+106638:0::3::      ---  ----                              ------
+106638:0::3::       31  gold~[1]                               0  
+106638:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+106638:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+106638:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+106638:0::3::                                             ======
+106638:0::3::                                              2,800
+106638:0::3::
+106638:0::3/11::Capacity:  0/2,900 land (0%)
+106638:0::3::
+113826:0::3::
+113826:0::3/16::Location:       Hades~[sa48], in Hades
+113826:0::3::Loyalty:        Fear-994
+113826:0::3/16::Stacked under:  New noble~[91617]
+113826:0::3::Health:         100%
+113826:0::3::Combat:         attack 80, defense 80, missile 0
+113826:0::3::                behind 3  (stay behind in combat)
+113826:0::3::Break point:    50%
+113826:0::3::
+113826:0::3::Skills known:
+113826:0::6::Combat~[610]
+113826:0::6::Beastmastery~[650]
+113826:0::12::Breed beasts~[654], journeyman
+113826:0::3::
+113826:0::3::Inventory:
+113826:0::3::{<b>}      qty  name                              weight{</b>}
+113826:0::3::      ---  ----                              ------
+113826:0::3::       31  gold~[1]                               0  
+113826:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+113826:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+113826:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+113826:0::3::                                             ======
+113826:0::3::                                              2,800
+113826:0::3::
+113826:0::3/11::Capacity:  0/2,900 land (0%)
+113826:0::3::
+117496:0::3::
+117496:0::3/16::Location:       Hades~[sa48], in Hades
+117496:0::3::Loyalty:        Fear-83
+117496:0::3/16::Stacked under:  New noble~[91617]
+117496:0::3::Health:         100%
+117496:0::3::Combat:         attack 80, defense 80, missile 0
+117496:0::3::                behind 3  (stay behind in combat)
+117496:0::3::Break point:    50%
+117496:0::3::
+117496:0::3::Skills known:
+117496:0::6::Combat~[610]
+117496:0::6::Beastmastery~[650]
+117496:0::12::Breed beasts~[654], master
+117496:0::3::
+117496:0::3::Inventory:
+117496:0::3::{<b>}      qty  name                              weight{</b>}
+117496:0::3::      ---  ----                              ------
+117496:0::3::       31  gold~[1]                               0  
+117496:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+117496:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+117496:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+117496:0::3::                                             ======
+117496:0::3::                                              2,800
+117496:0::3::
+117496:0::3/11::Capacity:  0/2,900 land (0%)
+117496:0::3::
+118511:0::3::
+118511:0::3/16::Location:       Hades~[sa48], in Hades
+118511:0::3::Loyalty:        Fear-83
+118511:0::3/16::Stacked under:  New noble~[91617]
+118511:0::3::Health:         100%
+118511:0::3::Combat:         attack 80, defense 80, missile 0
+118511:0::3::                behind 3  (stay behind in combat)
+118511:0::3::Break point:    50%
+118511:0::3::
+118511:0::3::Skills known:
+118511:0::6::Combat~[610]
+118511:0::6::Beastmastery~[650]
+118511:0::12::Breed beasts~[654], master
+118511:0::3::
+118511:0::3::Inventory:
+118511:0::3::{<b>}      qty  name                              weight{</b>}
+118511:0::3::      ---  ----                              ------
+118511:0::3::       31  gold~[1]                               0  
+118511:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+118511:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+118511:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+118511:0::3::                                             ======
+118511:0::3::                                              2,800
+118511:0::3::
+118511:0::3/11::Capacity:  0/2,900 land (0%)
+118511:0::3::
+118569:0::3::
+118569:0::3/16::Location:       Hades~[sa48], in Hades
+118569:0::3::Loyalty:        Fear-84
+118569:0::3/16::Stacked under:  New noble~[91617]
+118569:0::3::Health:         100%
+118569:0::3::Combat:         attack 80, defense 80, missile 0
+118569:0::3::                behind 3  (stay behind in combat)
+118569:0::3::Break point:    50%
+118569:0::3::
+118569:0::3::Skills known:
+118569:0::6::Combat~[610]
+118569:0::6::Beastmastery~[650]
+118569:0::12::Breed beasts~[654], master
+118569:0::3::
+118569:0::3::Inventory:
+118569:0::3::{<b>}      qty  name                              weight{</b>}
+118569:0::3::      ---  ----                              ------
+118569:0::3::       31  gold~[1]                               0  
+118569:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+118569:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+118569:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+118569:0::3::                                             ======
+118569:0::3::                                              2,800
+118569:0::3::
+118569:0::3/11::Capacity:  0/2,900 land (0%)
+118569:0::3::
+118594:0::3::
+118594:0::3/16::Location:       Hades~[sa48], in Hades
+118594:0::3::Loyalty:        Fear-84
+118594:0::3/16::Stacked under:  New noble~[91617]
+118594:0::3::Health:         100%
+118594:0::3::Combat:         attack 80, defense 80, missile 0
+118594:0::3::                behind 3  (stay behind in combat)
+118594:0::3::Break point:    50%
+118594:0::3::
+118594:0::3::Skills known:
+118594:0::6::Combat~[610]
+118594:0::6::Beastmastery~[650]
+118594:0::12::Breed beasts~[654], master
+118594:0::3::
+118594:0::3::Inventory:
+118594:0::3::{<b>}      qty  name                              weight{</b>}
+118594:0::3::      ---  ----                              ------
+118594:0::3::       31  gold~[1]                               0  
+118594:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+118594:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+118594:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+118594:0::3::                                             ======
+118594:0::3::                                              2,800
+118594:0::3::
+118594:0::3/11::Capacity:  0/2,900 land (0%)
+118594:0::3::
+132783:0::3::
+132783:0::3/16::Location:       Hades~[sa48], in Hades
+132783:0::3::Loyalty:        Fear-83
+132783:0::3/16::Stacked under:  New noble~[91617]
+132783:0::3::Health:         100%
+132783:0::3::Combat:         attack 80, defense 80, missile 0
+132783:0::3::                behind 3  (stay behind in combat)
+132783:0::3::Break point:    50%
+132783:0::3::
+132783:0::3::Skills known:
+132783:0::6::Combat~[610]
+132783:0::6::Beastmastery~[650]
+132783:0::12::Breed beasts~[654], master
+132783:0::3::
+132783:0::3::Inventory:
+132783:0::3::{<b>}      qty  name                              weight{</b>}
+132783:0::3::      ---  ----                              ------
+132783:0::3::       31  gold~[1]                               0  
+132783:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+132783:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+132783:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+132783:0::3::                                             ======
+132783:0::3::                                              2,800
+132783:0::3::
+132783:0::3/11::Capacity:  0/2,900 land (0%)
+132783:0::3::
+137028:0::3::
+137028:0::3/16::Location:       Hades~[sa48], in Hades
+137028:0::3::Loyalty:        Fear-83
+137028:0::3/16::Stacked under:  New noble~[91617]
+137028:0::3::Health:         100%
+137028:0::3::Combat:         attack 80, defense 80, missile 0
+137028:0::3::                behind 3  (stay behind in combat)
+137028:0::3::Break point:    50%
+137028:0::3::
+137028:0::3::Skills known:
+137028:0::6::Combat~[610]
+137028:0::6::Beastmastery~[650]
+137028:0::12::Breed beasts~[654], master
+137028:0::3::
+137028:0::3::Inventory:
+137028:0::3::{<b>}      qty  name                              weight{</b>}
+137028:0::3::      ---  ----                              ------
+137028:0::3::       31  gold~[1]                               0  
+137028:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+137028:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+137028:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+137028:0::3::                                             ======
+137028:0::3::                                              2,800
+137028:0::3::
+137028:0::3/11::Capacity:  0/2,900 land (0%)
+137028:0::3::
+137416:0::3::
+137416:0::3/16::Location:       Hades~[sa48], in Hades
+137416:0::3::Loyalty:        Fear-84
+137416:0::3/16::Stacked under:  New noble~[91617]
+137416:0::3::Health:         100%
+137416:0::3::Combat:         attack 80, defense 80, missile 0
+137416:0::3::                behind 3  (stay behind in combat)
+137416:0::3::Break point:    50%
+137416:0::3::
+137416:0::3::Skills known:
+137416:0::6::Combat~[610]
+137416:0::6::Beastmastery~[650]
+137416:0::12::Breed beasts~[654], master
+137416:0::3::
+137416:0::3::Inventory:
+137416:0::3::{<b>}      qty  name                              weight{</b>}
+137416:0::3::      ---  ----                              ------
+137416:0::3::       31  gold~[1]                               0  
+137416:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+137416:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+137416:0::3::       14  pikemen~[16]                       1,400  cap 1,400 (5,30,0)
+137416:0::3::                                             ======
+137416:0::3::                                              2,800
+137416:0::3::
+137416:0::3/11::Capacity:  0/2,900 land (0%)
+137416:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for grull~[fh2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/fh2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [fh2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        19  13th   
+0:0::3/41::Men:                              532  36th   
+0:0::3/41::Gold:                           1,589  95th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    4/74  117th  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:          26/31,919  112nd  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  3     (2 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  136733 87031 140562 121284 93913
+0:0::0::
+0:0::0::3 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::91617  sa48   o1    100  0    1031    1             27 99167  New noble
+0:0::0::3764   sa48   f993  100  3      31    1             27 91617  New noble
+0:0::0::97334  sa48   f83   100  3      31    1             27 91617  New noble
+0:0::0::118569 sa48   f84   100  3      31    1             27 91617  New noble
+0:0::0::118511 sa48   f83   100  3      31    1             27 91617  New noble
+0:0::0::118594 sa48   f84   100  3      31    1             27 91617  New noble
+0:0::0::117496 sa48   f83   100  3      31    1             27 91617  New noble
+0:0::0::8803   sa48   f993  100  3      31    1             27 91617  New noble
+0:0::0::137416 sa48   f84   100  3      31    1             27 91617  New noble
+0:0::0::137028 sa48   f83   100  3      31    1             27 91617  New noble
+0:0::0::132783 sa48   f83   100  3      31    1             27 91617  New noble
+0:0::0::101093 sa48   f83   100  3      31    1             27 91617  New noble
+0:0::0::90474  sa48   f83   100  3      31    1             27 91617  New noble
+0:0::0::79153  sa48   f993  100  3      31    1             27 91617  New noble
+0:0::0::s569   sa48   f991  100  3      31    1             27 91617  New noble
+0:0::0::h126   sa48   f991  100  3      31    1             27 91617  New noble
+0:0::0::g499   sa48   f991  100  3      31    1             27 91617  New noble
+0:0::0::113826 sa48   f994  100  3      31    1             27 91617  New noble
+0:0::0::106638 sa48   f994  100  3      31    1             27 91617  New noble
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              1589   19            513
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Hades
+0:0::0::  Hades~[sa48]                       New noble~[91617]
+0:0::0::                                     New noble~[3764]
+0:0::0::                                     New noble~[97334]
+0:0::0::                                     New noble~[118569]
+0:0::0::                                     New noble~[118511]
+0:0::0::                                     New noble~[118594]
+0:0::0::                                     New noble~[117496]
+0:0::0::                                     New noble~[8803]
+0:0::0::                                     New noble~[137416]
+0:0::0::                                     New noble~[137028]
+0:0::0::                                     New noble~[132783]
+0:0::0::                                     New noble~[101093]
+0:0::0::                                     New noble~[90474]
+0:0::0::                                     New noble~[79153]
+0:0::0::                                     New noble~[s569]
+0:0::0::                                     New noble~[h126]
+0:0::0::                                     New noble~[g499]
+0:0::0::                                     New noble~[113826]
+0:0::0::                                     New noble~[106638]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0:: 91617      55,100     55,100   0%                                
+0:0::0::  3764       2,900      2,900   0%                                
+0:0::0:: 97334       2,900      2,900   0%                                
+0:0::0::118569       2,900      2,900   0%                                
+0:0::0::118511       2,900      2,900   0%                                
+0:0::0::118594       2,900      2,900   0%                                
+0:0::0::117496       2,900      2,900   0%                                
+0:0::0::  8803       2,900      2,900   0%                                
+0:0::0::137416       2,900      2,900   0%                                
+0:0::0::137028       2,900      2,900   0%                                
+0:0::0::132783       2,900      2,900   0%                                
+0:0::0::101093       2,900      2,900   0%                                
+0:0::0:: 90474       2,900      2,900   0%                                
+0:0::0:: 79153       2,900      2,900   0%                                
+0:0::0::  s569       2,900      2,900   0%                                
+0:0::0::  h126       2,900      2,900   0%                                
+0:0::0::  g499       2,900      2,900   0%                                
+0:0::0::113826       2,900      2,900   0%                                
+0:0::0::106638       2,900      2,900   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="grull~[fh2]"><font size=+1><b>grull~[fh2]</b></font>
+1:2::0::<hr>
+1:1::0::grull~[fh2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51372
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[91617]"><font size=+1><b>New noble~[91617]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[91617]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 91617
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[3764]"><font size=+1><b>New noble~[3764]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[3764]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3764
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[97334]"><font size=+1><b>New noble~[97334]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[97334]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 97334
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[118569]"><font size=+1><b>New noble~[118569]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[118569]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 118569
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[118511]"><font size=+1><b>New noble~[118511]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[118511]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 118511
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[118594]"><font size=+1><b>New noble~[118594]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[118594]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 118594
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[117496]"><font size=+1><b>New noble~[117496]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[117496]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 117496
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[8803]"><font size=+1><b>New noble~[8803]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[8803]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 8803
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[137416]"><font size=+1><b>New noble~[137416]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[137416]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 137416
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[137028]"><font size=+1><b>New noble~[137028]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[137028]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 137028
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[132783]"><font size=+1><b>New noble~[132783]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[132783]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 132783
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[101093]"><font size=+1><b>New noble~[101093]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[101093]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 101093
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[90474]"><font size=+1><b>New noble~[90474]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[90474]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 90474
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[79153]"><font size=+1><b>New noble~[79153]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[79153]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 79153
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[s569]"><font size=+1><b>New noble~[s569]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[s569]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 73569
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[h126]"><font size=+1><b>New noble~[h126]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[h126]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 65126
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[g499]"><font size=+1><b>New noble~[g499]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[g499]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 64499
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[113826]"><font size=+1><b>New noble~[113826]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[113826]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 113826
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[106638]"><font size=+1><b>New noble~[106638]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[106638]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 106638
+1:2::0::
+1:2::0::<name="Hades~[sa48]"><font size=+1><b>Hades~[sa48]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[sa48], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38048
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

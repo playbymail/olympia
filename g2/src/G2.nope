@@ -1,0 +1,333 @@
+
+1.  Make ATTACK take three days, regardless of whether the
+    target is present or not.
+
+2.  Make RECRUIT a sub-skill of Persuasion.
+
+6.  Every non-safe-haven city has an initial default garrison
+    with 25-150 pikemen.  Each garrison is set to ADMIT ALL.
+    Each noble stacked with the garrison will earn 1gp/day
+    for aiding the city's defenses.
+
+8.  The size of a stack which can be used to ATTACK is limited
+    by the stack leader's Leadership skill.  Leadership is a
+    subskill of Combat.
+
+    Nobles without knowledge of Leadership are limited to attacking
+    with a maximum of 10 figures in their stack.  Knowledge of
+    Leadership raises this to 15 + the leadership level.
+
+    Leadership level starts at 0.  Each USE of Leadership takes
+    7 days and increases the leadership level by five.  Leadership
+    may be used at most twice per turn.
+
+    USE of leadership requires that the noble have issued an ATTACK
+    which resulted in combat during the previous two turns.
+
+
+x.  Trade seed alg
+
+	for every city
+
+	gen 1-3 tradegoods per city
+	gen trade good
+	seed 5 other cities 5 - 25 provinces away with good
+	base profit on distance
+
+
+
+
+Faery:
+	Faery hills (endpoints?) should move randomly
+
+
+13.  Require full term of study in a city, not just the first day.
+     (might be tricky w/ scrolls, etc.)
+
+14.  Books should be destroyed upon learning a skill
+     (replace books with scrolls?)  Or make Books magical relics
+     just like the others, that must be found in sublocs,
+     and get put back into the pile after 1 use.  Or perhaps
+     after N turns.  Hmmm.  We wouldn't want something that
+     important to be hordeable _at all_.
+
+15.  Skills needed to get started:
+
+	Combat, Shipcraft, Forestry, Stealth, Magic, and Gatecraft
+
+     Have these be taught in the starting cities.
+     Other cities teach ... ?
+
+
+16.  Hidden Trade order  "Fencing"....  to make opium viable.
+
+17.  Put back coastal routes?  Faster coastal waters?
+
+18.  Survive fatal wound is useless.  Move the char away somehow..
+     Perhaps get rid of the NP cost.
+
+20.  Limit Last Rites to your own nobles.
+
+
+21.  Carl Edman death system:
+
+	death creates body which is handed to stackmates
+	or hidden in the province
+
+	1 year after death body decomposes
+
+	priest in graveyard with body may lay it to
+	rest, recovering all invested NP's
+
+	priest in temple may resurrect, but costs priest's
+	faction an NP.  (?)  Hmmm.  Super-rare.
+
+	only the most rare and powerful nobles will be resurrected.
+	others will go away but their NP's will be recovered.
+
+	if we do NP conservation then up NP true death time
+	from 8 turns to something like 10-12-16-24 turns.
+
+22.  Can we set ADMIT to allow anyone in the friendly faction to enter?
+
+23.  Garrisons in Hades and Faery don't generate income.
+
+24.  Make Faery lots shuffle around.  Harder to get out of than in to.
+     Instead of making it super-huge.
+
+	alt:  players always exit Faery where they entered it
+	(else cast them into the IC)
+
+25.  Check where advanced magic & other skills are taught.
+     Don't just teach them in Hades/Clouds.  Use books or something.
+
+
+26.  Death before Dishonor.  Captured noble with skill would
+     commit suicide before being bribed or persuaded.
+
+28.  Revisit Eating Brains.
+
+
+------
+
+
+1.  NP conservation
+
+1.1	Potion of Slavery
+
+2.  New artifacts
+
+3.  existing faction id box on signup forms
+
+4.  Add more start cities, Make IC not be a start city (but perhaps
+    still a safe haven?)
+
+5.  Fix start city code in add.c
+
+6.  Hinder trance spell
+
+7.  Stats line for Times masthead
+
+8.  Faery hills (endpoints?) should move randomly
+
+9.  Get rid of diminishing STUDY returns.  Instead,
+    limit characters to two STUDY orders per month.
+
+10. Limit ships to being built in cities
+
+11.  Every non-safe-haven city has an initial default garrison
+     with 25-150 pikemen.  Each garrison is set to ADMIT ALL.
+     Each noble stacked with the garrison will earn 1gp/day
+     for aiding the city's defenses.
+
+12.  Wind & rain should halve the effectiveness of crossbows.
+
+13.  Require full term of study in a city, not just the first day.
+     (might be tricky w/ scrolls, etc.)
+
+14.  Books should be destroyed upon learning a skill
+     (replace books with scrolls?)  Or make Books magical relics
+     just like the others, that must be found in sublocs,
+     and get put back into the pile after 1 use.  Or perhaps
+     after N turns.  Hmmm.  We wouldn't want something that
+     important to be hordeable _at all_.
+
+15.  Skills needed to get started:
+
+	Combat, Shipcraft, Forestry, Stealth, Magic, and Gatecraft
+
+     Have these be taught in the starting cities.
+     Other cities teach ... ?
+
+
+16.  Hidden Trade order  "Fencing"....  to make opium viable.
+
+17.  Put back coastal routes?  Faster coastal waters?
+
+18.  Survive fatal wound is useless.  Move the char away somehow..
+     Perhaps get rid of the NP cost.
+
+19.  Charge per figure on Hades entrance, not per man
+
+20.  Limit Last Rites to your own nobles.
+
+
+21.  Carl Edman death system:
+
+	death creates body which is handed to stackmates
+	or hidden in the province
+
+	1 year after death body decomposes
+
+	priest in graveyard with body may lay it to
+	rest, recovering all invested NP's
+
+	priest in temple may resurrect, but costs priest's
+	faction an NP.  (?)  Hmmm.  Super-rare.
+
+	only the most rare and powerful nobles will be resurrected.
+	others will go away but their NP's will be recovered.
+
+	if we do NP conservation then up NP true death time
+	from 8 turns to something like 10-12-16-24 turns.
+
+22.  Can we set ADMIT to allow anyone in the friendly faction to enter?
+
+23.  Garrisons in Hades and Faery don't generate income.
+
+24.  Make Faery lots shuffle around.  Harder to get out of than in to.
+     Instead of making it super-huge.
+
+	alt:  players always exit Faery where they entered it
+	(else cast them into the IC)
+
+25.  Check where advanced magic & other skills are taught.
+     Don't just teach them in Hades/Clouds.  Use books or something.
+
+
+26.  Death before Dishonor.  Captured noble with skill would
+     commit suicide before being bribed or persuaded.
+
+
+27.  A few random size limits on various locations.  Limits size
+     of attacking stack?
+
+28.  Revisit Eating Brains.
+
+29.  Leadership skill limits size of stack which can be used to ATTACK.
+     Normally an attack is possible with up to 10 figures in a stack.
+     Leadership expands this to 15 + leadership level.
+
+     Leadership level starts at 0.  Each USE of Leadership takes
+     7 days and increases the leadership level by five.  Leadership
+     may be used at most twice per turn.
+
+	USE of leadership requires that the noble have issued an
+	ATTACK which resulted in combat during the previous two
+	turns.
+
+
+
+sell mercs as trade?
+
+GM relic owners
+
+
+Times:  add stats line from gm report
+
+   +----------------------------------------------------------------------+
+   | The Olympia Times                                       issue g1-123 |
+   | October 30, 1996                                                     |
+   |                                                                      |
+   | turn 123  123 players                  http://www.pbm.com/oly/times/ |
+   +----------------------------------------------------------------------+
+   |  nobles xxxx castles xxxx towers xxxx galleys xxxx roundships xxxx   |
+   +----------------------------------------------------------------------+
+
+   | 68 |
+
+
+
+   |  garrisons xxxx locs xxxx taxes xxxx combats xxxx auraculi xxxx      |
+   |  deaths xxxx prisoners xxxx                                          |
+   +----------------------------------------------------------------------+
+
+Add random view of a starting city to the Times each month
+
+Combat figures/men issue
+
+
+
+New unique artifacts:
+
+
+Dagger of Fire:
+	A gold and jewel encrusted blade which burns the minds
+	of nearby mages.  The Dagger inhibits the natural weekly
+	aura regeneration, as well as aura recovery via Meditation,
+	Advanced Meditation, and Trance, in the immediate and
+	adjacent provinces.
+
+Sceptre of Birth:
+	USE of the sceptre will yield a random treasure
+	to the noble holding it (gold, rare book, aura boost
+	for mages, etc.)
+
+	The Sceptre may only be used once per faction.
+
+	Giving the sceptre to a noble belonging to a faction
+	which has never held it before will yield 1 NP to
+	the giver.
+
+Orb of Darkness:
+	The Orb of Darkness is an aura sink.  It drains 2 aura per
+	week from every mage located in the same province, and 1
+	aura per week from every mage located in adjacent provinces.
+
+Horn of Fear
+	The Horn of Fear produces an unearthly, terrifying wail, which
+	frightens men and beasts.  When heard in foggy provinces, all
+	men and beasts suffer a 50% chance of desertion, either by
+	madness, fighting amongst themselves, or simply freeing in
+	terror.
+
+	The Horn may be heard throughout the province in which it is
+	blown, as well as in adjacent provinces.
+
+	The horn must be used in Hades to acquire its terrifying
+	power.  It may then be used once in the normal world, after
+	which is must be returned to Hades before it may be used
+	again.  The horn is ineffective in Faery.
+
+Imperial Throne
+	Long ago, the emperor of Olympia sat on his throne in the
+	emperor's palace, high amidst Mt. Olympus.  It is said that
+	whoever rebuilds the famed castle on Mt. Olympus, and sits
+	upon the throne, will be titled Emperor of Olympia.  It is
+	also believed that the Throne adds a powerful boost of aura
+	if the Emperor is also a mage.
+
+The ring
+	Grants invisibility to one who possesses it, and a 50%
+	bonus to vision and scry attempts.  Also helps to pierce
+	through scry and vision shields.  Yields 1 aura/week extra
+	aura recovery.
+
+	Loss of the ring (by either giving it or having it taken away)
+	causes the noble to immediately fall ill and lose half his
+	health.  If the noble is a mage, his permanent aura is halved.
+
+Artifacts may not be carried via teleportation.
+
+
+Stone to govern where the flying cloud city goes
+
+
+3.  Remove the random wilderness monster attacks.
+
+    It should be possible for the lone noble to move about
+    without being wasted by some game-generated rats, or
+    having to raise an army first before venturing out of 
+    a safe haven to explore.
+
+

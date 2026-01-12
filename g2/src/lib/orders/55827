@@ -1,0 +1,170 @@
+78019:breed 54 54
+78019:breed 54 54
+78019:breed 282 282
+78019:breed 282 282
+78019:breed 282 282
+78019:breed 282 282
+78019:breed 282 282
+78019:breed 282 282
+78019:breed 282 282
+78019:breed 282 282
+4826:sell 114647 1 74
+4826:breed 54 54
+4826:breed 54 54
+4826:breed 54 54
+4826:breed 54 54
+4826:breed 54 54
+3019:breed 54 54
+3019:breed 54 54
+3019:breed 54 54
+3019:breed 54 54
+3019:breed 54 54
+3019:breed 54 54
+3019:breed 54 54
+3019:breed 54 54
+81169:seek
+81169:seek
+81169:seek
+81169:seek
+128535:seek
+128535:seek
+128535:seek
+128535:seek
+149539:seek
+149539:seek
+149539:seek
+149539:seek
+128635:seek
+128635:seek
+128635:seek
+128635:seek
+6351:breed 282 282
+6351:breed 55 55
+6351:breed 55 55
+6351:breed 55 55
+8469:breed 54 54
+8469:breed 282 282
+8469:breed 54 54
+8469:breed 282 282
+3851:breed 55 55
+3851:breed 54 54
+3851:breed 54 54
+3851:breed 54 54
+3851:breed 54 54
+3851:breed 54 54
+2545:breed 54 54
+2545:breed 282 282
+2545:breed 54 54
+2545:breed 282 282
+2545:breed 54 54
+2545:breed 282 282
+2545:breed 54 54
+2545:breed 282 282
+2545:breed 54 54
+2545:breed 282 282
+5648:breed 54 54
+5648:breed 54 54
+5648:breed 282 282
+5648:breed 282 282
+5648:breed 282 282
+5648:breed 282 282
+5648:breed 282 282
+5648:breed 282 282
+5648:breed 282 282
+5648:breed 282 282
+5648:breed 282 282
+5648:breed 282 282
+1828:sail fs29 west
+1828:sail ft29 south
+1828:sail ft28 west
+1828:sail fv28 south
+1828:sail fw28 south
+1828:sail fw27 west
+1828:sail q48 in
+1828:move q48 out
+1828:stack garrison
+1828:use 733 89121
+1828:use 733 89304
+9024:use 807 8958 3
+9024:use 807 8958 3
+8958:breed 54 54
+8958:breed 54 54
+8958:breed 54 54
+8958:breed 54 54
+8958:breed 54 54
+8958:breed 54 54
+8958:breed 54 54
+8958:breed 54 54
+3797:fly fk20 north
+3797:fly fj20 north
+3797:fly m90 in
+3797:stack garrison
+3797:use 733 80861
+55827:accept jx8 0
+55827:accept mh8 0
+55827:accept rk7 0
+7212:use 844 842
+7212:use 844 843
+7212:use 844 845
+7212:use 844 846
+7212:use 844 847
+7212:use 844 848
+1482:give 8469 f783 1
+1482:take 7212 1 0
+1482:take 9024 1 0
+1482:take 8958 1 0
+1482:take 8469 1 0
+1482:take m230 1 3000
+1482:move 147620 in
+1482:take 4948 1 0
+1482:move v72 out
+1482:buy 80884 29 13
+1482:buy 95378 35 100
+1482:fly fq20 out
+1482:fly fq21 east
+1482:fly fr21 south
+1482:fly fs21 south
+1482:fly ft21 south
+1482:fly ft22 east
+1482:fly ft23 east
+1482:fly ft24 east
+1482:fly ft25 east
+1482:sell 80884 29 85
+1482:sell 95378 35 157
+1482:fly n3e in
+1755:breed 76 76
+1755:breed 282 282
+1755:breed 282 282
+1755:breed 282 282
+1755:breed 282 282
+1755:breed 282 282
+1755:breed 282 282
+1755:breed 282 282
+1755:breed 282 282
+2406:sell 80884 1 85
+3719:buy 108118 41 13
+3719:fly ft25 out
+3719:fly ft24 west
+3719:fly ft23 west
+3719:fly ft22 west
+3719:fly ft21 west
+3719:fly fs21 north
+3719:fly fr21 north
+3719:fly fq21 north
+3719:fly fp21 north
+3719:fly fn21 north
+3719:fly fm21 north
+3719:fly fk21 north
+3719:fly fj21 north
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54
+6348:breed 54 54

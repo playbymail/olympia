@@ -1,0 +1,14 @@
+#Spell:  Teleport [9112]
+#
+Usage:  USE @@@@ <location>
+
+Required aura:  one point for each 250 weight
+Required item:  gate crystal [83]
+Time to cast:   one day
+
+This skill allows a mage to teleport to the given location without
+a gate.  A gate crystal is required to fuel the jump.  The gate
+crystal is consumed by the jump.
+
+One point of aura is required for each 250 units of weight in the
+caster's stack to be transported.

@@ -1,0 +1,803 @@
+15928:0::0:0:Garrison~[f298], garrison, with 40~crossbowmen guards Forest~[cz28].
+15828:0::0:0:Garrison~[v987], garrison, with ten~peasants, 23~swordsmen guards Plain~[cx28].
+50353:0::0:0:> accept 0 0
+15828:0::0:2:Undead~[97181], undead, wielding Spear of Evinob~[k091], with 68~peasants, 512~soldiers, 90~archers, 15~knights, 34~elite guard, 671~pikemen, 128~swordsmen, 29~crossbowmen, 63~elite archers, six~riding horses, 26~winged horses, 15~nazgul, 25~catapults, 98~oxen, 254~centaurs, 1,962~giant lizards, one~orc, one~wolf, one~cyclops, two~giants, entered Barrows~[h434], accompanied~by:
+15828:0::3/3:2:Samuel~[t610], wearing enchanted helm~[h149], with 12~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[129139], with two~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[120532], with three~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[94648], with three~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[140431], with three~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:Ekechi~[92963], with three~winged horses, 22~soldiers, one~pikeman
+15828:0::3/3:2:New noble~[145685], with 22~soldiers, one~pikeman, three~winged horses
+15828:0::0:2:New noble~[2118] arrived from Barrows~[h434], accompanied~by:
+15828:0::3/3:2:New noble~[135481]
+15828:0::3/3:2:New noble~[102240]
+15828:0::3/3:2:New noble~[146625]
+15828:0::3/3:2:New noble~[114167]
+15828:0::3/3:2:New noble~[90916]
+15828:0::3/3:2:New noble~[126268]
+15828:0::3/3:2:New noble~[149340]
+15828:0::3/3:2:New noble~[2364]
+15828:0::3/3:2:New noble~[147856]
+15828:0::3/3:2:New noble~[94859]
+15828:0::3/3:2:New noble~[112671]
+15828:0::3/3:2:New noble~[99042]
+15828:0::3/3:2:New noble~[89970]
+15828:0::3/3:2:New noble~[9866]
+15828:0::3/3:2:New noble~[5890]
+15828:0::3/3:2:New noble~[139933]
+15828:0::3/3:2:New noble~[118925]
+15828:0::0:3:New noble~[2118] went south, accompanied~by:
+15828:0::3/3:3:New noble~[135481]
+15828:0::3/3:3:New noble~[102240]
+15828:0::3/3:3:New noble~[146625]
+15828:0::3/3:3:New noble~[114167]
+15828:0::3/3:3:New noble~[90916]
+15828:0::3/3:3:New noble~[126268]
+15828:0::3/3:3:New noble~[149340]
+15828:0::3/3:3:New noble~[2364]
+15828:0::3/3:3:New noble~[147856]
+15828:0::3/3:3:New noble~[94859]
+15828:0::3/3:3:New noble~[112671]
+15828:0::3/3:3:New noble~[99042]
+15828:0::3/3:3:New noble~[89970]
+15828:0::3/3:3:New noble~[9866]
+15828:0::3/3:3:New noble~[5890]
+15828:0::3/3:3:New noble~[139933]
+15828:0::3/3:3:New noble~[118925]
+15828:0::0:4:New noble~[109532], with four~winged horses, arrived from the south.
+15928:0::0:4:It has begun to rain.
+15828:0::0:5:New noble~[109532], with four~winged horses, entered Barrows~[h434].
+3059:0::0:6:Arrival at Forest~[cz28].
+7565:0::0:6:Arrival at Forest~[cz28].
+79347:0::0:6:Arrival at Forest~[cz28].
+81677:0::0:6:Arrival at Forest~[cz28].
+114782:0::0:6:Arrival at Forest~[cz28].
+126178:0::0:6:Arrival at Forest~[cz28].
+112678:0::0:6:Arrival at Forest~[cz28].
+87937:0::0:6:Arrival at Forest~[cz28].
+129849:0::0:6:Arrival at Forest~[cz28].
+91307:0::0:6:Arrival at Forest~[cz28].
+89041:0::0:6:Arrival at Forest~[cz28].
+105932:0::0:6:Arrival at Forest~[cz28].
+104620:0::0:6:Arrival at Forest~[cz28].
+3059:0::0:6:The province is blanketed in fog.
+7565:0::0:6:The province is blanketed in fog.
+79347:0::0:6:The province is blanketed in fog.
+81677:0::0:6:The province is blanketed in fog.
+114782:0::0:6:The province is blanketed in fog.
+126178:0::0:6:The province is blanketed in fog.
+112678:0::0:6:The province is blanketed in fog.
+87937:0::0:6:The province is blanketed in fog.
+129849:0::0:6:The province is blanketed in fog.
+91307:0::0:6:The province is blanketed in fog.
+89041:0::0:6:The province is blanketed in fog.
+105932:0::0:6:The province is blanketed in fog.
+104620:0::0:6:The province is blanketed in fog.
+3059:0::0:7:> get 100403 278 0 2
+3059:0::0:7:Took four~giant spiders from New noble~[100403].
+100403:0::0:7:New noble~[3059] took four~giant spiders~[278] from us.
+7565:0::0:7:> wait item 278 2
+79347:0::0:7:> wait item 278 2
+3059:0::0:7:> give 7565 278 2
+3059:0::0:7:Gave two~giant spiders to New noble~[7565].
+7565:0::0:7:Received two~giant spiders~[278] from New noble~[3059].
+7565:0::0:7:Wait finished: New noble has two~giant spiders.
+3059:0::0:7:> breed 278 278
+3059:0::0:7:Breed attempt will take 20 days.
+7565:0::0:7:> breed 278 278
+7565:0::0:7:Breed attempt will take 20 days.
+100403:0::0:15:One~giant spider~[278] was killed in the breeding attempt.
+100403:0::0:15:Produced one~giant spider~[278].
+108239:0::0:15:Produced one~giant spider~[278].
+108239:0::0:16:> give 100403 278
+108239:0::0:16:Gave three~giant spiders to New noble~[100403].
+100403:0::0:16:Received three~giant spiders~[278] from New noble~[108239].
+108239:0::0:16:> get 100403 278 2
+108239:0::0:16:Took two~giant spiders from New noble~[100403].
+100403:0::0:16:New noble~[108239] took two~giant spiders~[278] from us.
+108239:0::0:16:> breed 278 278
+108239:0::0:16:Breed attempt will take 20 days.
+100403:0::0:16:> sail up
+100403:0::0:16:Must be on a sea-worthy ship to sail.
+100403:0::0:16:> give 79347 278 0 2
+100403:0::0:16:Gave one~giant spider to New noble~[79347].
+79347:0::0:16:Received one~giant spider~[278] from New noble~[100403].
+100403:0::0:16:> breed 278 278
+100403:0::0:16:Breed attempt will take 20 days.
+89111:0::0:16:One~giant spider~[278] was killed in the breeding attempt.
+89111:0::0:16:No offspring was produced.
+89111:0::0:17:> give 100403 278
+89111:0::0:17:Gave one~giant spider to New noble~[100403].
+100403:0::0:17:Received one~giant spider~[278] from New noble~[89111].
+89111:0::0:17:> get 100403 278 2
+89111:0::0:17:Took two~giant spiders from New noble~[100403].
+100403:0::0:17:New noble~[89111] took two~giant spiders~[278] from us.
+89111:0::0:17:> breed 278 278
+89111:0::0:17:Breed attempt will take 20 days.
+15828:0::0:21:It has begun to rain.
+3059:0::0:26:Produced one~giant spider~[278].
+7565:0::0:26:Produced one~giant spider~[278].
+7565:0::0:27:> breed 278 278
+7565:0::0:27:Breed attempt will take 20 days.
+50353:0::0:30:Johnny Flash~[6541] has passed on.  Gained 1 NP.
+15828:0::0::
+15828:0::0::Province controlled by Abyss of Aras Nehem~[5253], castle, in Mountain~[ct14]
+15828:0::0::Ruled by Ysrthgrathe~[9509], duke
+15828:0::0::
+15828:0::0::Routes leaving Plain: 
+15828:0::3::North, to Forest~[cw28], 8~days
+15828:0::3::East, to Plain~[cx29], 7~days
+15828:0::3::South, to Forest~[cz28], 8~days
+15828:0::3::West, to Plain~[cx27], 7~days
+15828:0::0::
+15828:0::0::Inner locations:
+15828:0::3::Barrows~[h434], graveyard, 1 day
+15828:0::3::Pasture~[v924], pasture, 1 day
+15828:0::0::
+15828:0::0::It is raining.
+15828:0::0::
+15828:0::0::Seen here:
+15828:0::0/3::   Garrison~[v987], garrison, on guard, with ten~peasants
+15828:0::0/3::   Skeleton~[147058], skeleton, with four~winged horses
+15828:0::0/3::   Skeleton~[103900], skeleton, with one~riding horse, five~winged horses
+15828:0::0/3::   Savage~[105398], savage, with three~riding horses, six~winged horses
+15828:0::0/3::   Savage~[93937], savage, with 24~riding horses
+15828:0::0/3::   Orc~[136890], orc, with one~riding horse
+15928:0::0::
+15928:0::0::Province controlled by Silver Mountain Citadel~[8056], castle, in Silver Mountain~[cz27]
+15928:0::0::Ruled by Gopher~[2300], duke
+15928:0::0::
+15928:0::0::Routes leaving Forest: 
+15928:0::3::North, to Plain~[cx28], 7~days
+15928:0::3::East, to Plain~[cz29], 7~days
+15928:0::3::South, to Mountain~[da28], 10~days
+15928:0::3::West, mountain, to Silver Mountain~[cz27], 10~days
+15928:0::0::
+15928:0::0::It is raining.
+15928:0::0::The province is blanketed in fog.
+15928:0::0::
+15928:0::0::No one can be seen through the fog.
+5:0::0::
+5:0::0::begin bj3 "You da man"  # Thommie
+5:0::0::
+5:0::0::unit bj3  # Thommie
+5:0::0::
+5:0::0::unit 100403  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for five more days)
+5:0::3::breed 278 278
+5:0::3::breed 278 278
+5:0::0::
+5:0::0::unit 108239  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for five more days)
+5:0::3::give 100403 278
+5:0::3::get 100403 278 2
+5:0::3::breed 278 278
+5:0::3::give 100403 278
+5:0::0::
+5:0::0::unit 89111  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for six more days)
+5:0::3::give 100403 278
+5:0::3::get 100403 278 2
+5:0::3::breed 278 278
+5:0::3::give 100403 278
+5:0::0::
+5:0::0::unit 3059  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 7565  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 16 more days)
+5:0::0::
+5:0::0::unit 79347  # New noble in Forest~[cz28]
+5:0::3::# > wait item 278 2 (still~executing)
+5:0::3::breed 278 278
+5:0::3::breed 278 278
+5:0::0::
+5:0::0::unit 81677  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 114782  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 126178  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 112678  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 87937  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 129849  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 91307  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 89041  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 105932  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::unit 104620  # New noble in Forest~[cz28]
+5:0::0::
+5:0::0::end
+50353:0::0::
+50353:0::0::Declared attitudes:
+50353:0::3::neutral  bj3
+50353:0::0::
+50353:0::0::Unclaimed items:
+50353:0::0::
+50353:0::0::      qty  name                              weight
+50353:0::0::      ---  ----                              ------
+50353:0::0::      721  gold~[1]                               0  
+50353:0::0::       50  wood~[77]                          1,500  
+50353:0::0::      100  stone~[78]                        10,000  
+3059:0::3::
+3059:0::3/16::Location:       Forest~[cz28], in Provinia
+3059:0::3::Loyalty:        Oath-1
+3059:0::3::Stacked over:   New noble~[7565]
+3059:0::3::                New noble~[79347]
+3059:0::3::                New noble~[81677]
+3059:0::3::                New noble~[114782]
+3059:0::3::                New noble~[126178]
+3059:0::3::                New noble~[112678]
+3059:0::3::                New noble~[87937]
+3059:0::3::                New noble~[129849]
+3059:0::3::                New noble~[91307]
+3059:0::3::                New noble~[89041]
+3059:0::3::                New noble~[105932]
+3059:0::3::                New noble~[104620]
+3059:0::3::Health:         100%
+3059:0::3::Combat:         attack 80, defense 80, missile 0
+3059:0::3::                behind 0  (front line in combat)
+3059:0::3::Break point:    0% (fight to the death)
+3059:0::3::
+3059:0::3::Skills known:
+3059:0::6::Combat~[610]
+3059:0::12::Survive fatal wound~[611]
+3059:0::12::Fight to the death~[612]
+3059:0::6::Beastmastery~[650]
+3059:0::12::Use beasts in battle~[653]
+3059:0::12::Breed beasts~[654], master
+3059:0::3::
+3059:0::3::Inventory:
+3059:0::3::{<b>}      qty  name                              weight{</b>}
+3059:0::3::      ---  ----                              ------
+3059:0::3::      200  gold~[1]                               0  
+3059:0::3::        3  giant spiders~[278]                1,500   (150,100,0)
+3059:0::3::                                             ======
+3059:0::3::                                              1,500
+3059:0::3::
+3059:0::3/11::Capacity:  0/100 land (0%)
+3059:0::3::
+7565:0::3::
+7565:0::3/16::Location:       Forest~[cz28], in Provinia
+7565:0::3::Loyalty:        Fear-83
+7565:0::3/16::Stacked under:  New noble~[3059]
+7565:0::3::Health:         100%
+7565:0::3::Combat:         attack 80, defense 80, missile 0
+7565:0::3::                behind 5  (stay behind in combat)
+7565:0::3::Break point:    50%
+7565:0::3::
+7565:0::3::Skills known:
+7565:0::6::Combat~[610]
+7565:0::6::Beastmastery~[650]
+7565:0::12::Breed beasts~[654], master
+7565:0::3::
+7565:0::3::Inventory:
+7565:0::3::{<b>}      qty  name                              weight{</b>}
+7565:0::3::      ---  ----                              ------
+7565:0::3::        3  giant spiders~[278]                1,500   (150,100,0)
+7565:0::3::                                             ======
+7565:0::3::                                              1,500
+7565:0::3::
+7565:0::3/11::Capacity:  0/100 land (0%)
+7565:0::3::
+79347:0::3::
+79347:0::3/16::Location:       Forest~[cz28], in Provinia
+79347:0::3::Loyalty:        Fear-83
+79347:0::3/16::Stacked under:  New noble~[3059]
+79347:0::3::Health:         100%
+79347:0::3::Combat:         attack 80, defense 80, missile 0
+79347:0::3::                behind 5  (stay behind in combat)
+79347:0::3::Break point:    50%
+79347:0::3::
+79347:0::3::Skills known:
+79347:0::6::Combat~[610]
+79347:0::6::Beastmastery~[650]
+79347:0::12::Breed beasts~[654], master
+79347:0::3::
+79347:0::3::Inventory:
+79347:0::3::{<b>}      qty  name                              weight{</b>}
+79347:0::3::      ---  ----                              ------
+79347:0::3::        1  giant spider~[278]                   500   (150,100,0)
+79347:0::3::                                             ======
+79347:0::3::                                                500
+79347:0::3::
+79347:0::3/11::Capacity:  0/100 land (0%)
+79347:0::3::
+81677:0::3::
+81677:0::3/16::Location:       Forest~[cz28], in Provinia
+81677:0::3::Loyalty:        Fear-83
+81677:0::3/16::Stacked under:  New noble~[3059]
+81677:0::3::Health:         100%
+81677:0::3::Combat:         attack 80, defense 80, missile 0
+81677:0::3::                behind 5  (stay behind in combat)
+81677:0::3::Break point:    50%
+81677:0::3::
+81677:0::3::Skills known:
+81677:0::6::Combat~[610]
+81677:0::6::Beastmastery~[650]
+81677:0::12::Breed beasts~[654], master
+81677:0::3::
+81677:0::3::New noble~[81677] has no possessions.
+81677:0::3::
+81677:0::3/11::Capacity:  0/100 land (0%)
+81677:0::3::
+87937:0::3::
+87937:0::3/16::Location:       Forest~[cz28], in Provinia
+87937:0::3::Loyalty:        Fear-83
+87937:0::3/16::Stacked under:  New noble~[3059]
+87937:0::3::Health:         100%
+87937:0::3::Combat:         attack 80, defense 80, missile 0
+87937:0::3::                behind 5  (stay behind in combat)
+87937:0::3::Break point:    50%
+87937:0::3::
+87937:0::3::Skills known:
+87937:0::6::Combat~[610]
+87937:0::6::Beastmastery~[650]
+87937:0::12::Breed beasts~[654], master
+87937:0::3::
+87937:0::3::New noble~[87937] has no possessions.
+87937:0::3::
+87937:0::3/11::Capacity:  0/100 land (0%)
+87937:0::3::
+89041:0::3::
+89041:0::3/16::Location:       Forest~[cz28], in Provinia
+89041:0::3::Loyalty:        Fear-86
+89041:0::3/16::Stacked under:  New noble~[3059]
+89041:0::3::Health:         100%
+89041:0::3::Combat:         attack 80, defense 80, missile 0
+89041:0::3::                behind 5  (stay behind in combat)
+89041:0::3::Break point:    50%
+89041:0::3::
+89041:0::3::Skills known:
+89041:0::6::Combat~[610]
+89041:0::12::Survive fatal wound~[611]
+89041:0::6::Beastmastery~[650]
+89041:0::12::Breed beasts~[654], adept
+89041:0::3::
+89041:0::3::New noble~[89041] has no possessions.
+89041:0::3::
+89041:0::3/11::Capacity:  0/100 land (0%)
+89041:0::3::
+89111:0::3::
+89111:0::3/16::Location:       Forest~[cz28], in Provinia
+89111:0::3::Loyalty:        Fear-998
+89111:0::3/16::Stacked under:  New noble~[100403]
+89111:0::3::Health:         100%
+89111:0::3::Combat:         attack 80, defense 80, missile 0
+89111:0::3::                behind 9  (stay behind in combat)
+89111:0::3::Break point:    50%
+89111:0::3::
+89111:0::3::Skills known:
+89111:0::6::Combat~[610]
+89111:0::6::Beastmastery~[650]
+89111:0::12::Breed beasts~[654], journeyman
+89111:0::3::
+89111:0::3::Inventory:
+89111:0::3::{<b>}      qty  name                              weight{</b>}
+89111:0::3::      ---  ----                              ------
+89111:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+89111:0::3::                                             ======
+89111:0::3::                                              1,000
+89111:0::3::
+89111:0::3/11::Capacity:  0/100 land (0%)
+89111:0::3::
+91307:0::3::
+91307:0::3/16::Location:       Forest~[cz28], in Provinia
+91307:0::3::Loyalty:        Fear-83
+91307:0::3/16::Stacked under:  New noble~[3059]
+91307:0::3::Health:         100%
+91307:0::3::Combat:         attack 80, defense 80, missile 0
+91307:0::3::                behind 5  (stay behind in combat)
+91307:0::3::Break point:    50%
+91307:0::3::
+91307:0::3::Skills known:
+91307:0::6::Combat~[610]
+91307:0::12::Survive fatal wound~[611]
+91307:0::6::Beastmastery~[650]
+91307:0::12::Breed beasts~[654], master
+91307:0::3::
+91307:0::3::New noble~[91307] has no possessions.
+91307:0::3::
+91307:0::3/11::Capacity:  0/100 land (0%)
+91307:0::3::
+100403:0::3::
+100403:0::3/16::Location:       Forest~[cz28], in Provinia
+100403:0::3::Loyalty:        Contract-351
+100403:0::3::Stacked over:   New noble~[108239]
+100403:0::3::                New noble~[89111]
+100403:0::3::Health:         100%
+100403:0::3::Combat:         attack 80, defense 80, missile 0
+100403:0::3::                behind 5  (stay behind in combat)
+100403:0::3::Break point:    50%
+100403:0::3::
+100403:0::3::Skills known:
+100403:0::6::Combat~[610]
+100403:0::6::Beastmastery~[650]
+100403:0::12::Breed beasts~[654], master
+100403:0::3::
+100403:0::3::Inventory:
+100403:0::3::{<b>}      qty  name                              weight{</b>}
+100403:0::3::      ---  ----                              ------
+100403:0::3::        1  giant spider~[278]                   500   (150,100,0)
+100403:0::3::                                             ======
+100403:0::3::                                                500
+100403:0::3::
+100403:0::3/11::Capacity:  0/100 land (0%)
+100403:0::3::
+104620:0::3::
+104620:0::3/16::Location:       Forest~[cz28], in Provinia
+104620:0::3::Loyalty:        Fear-996
+104620:0::3/16::Stacked under:  New noble~[3059]
+104620:0::3::Health:         100%
+104620:0::3::Combat:         attack 80, defense 80, missile 0
+104620:0::3::                behind 5  (stay behind in combat)
+104620:0::3::Break point:    50%
+104620:0::3::
+104620:0::3::Skills known:
+104620:0::6::Combat~[610]
+104620:0::6::Beastmastery~[650]
+104620:0::12::Breed beasts~[654], journeyman
+104620:0::3::
+104620:0::3::New noble~[104620] has no possessions.
+104620:0::3::
+104620:0::3/11::Capacity:  0/100 land (0%)
+104620:0::3::
+105932:0::3::
+105932:0::3/16::Location:       Forest~[cz28], in Provinia
+105932:0::3::Loyalty:        Fear-996
+105932:0::3/16::Stacked under:  New noble~[3059]
+105932:0::3::Health:         100%
+105932:0::3::Combat:         attack 80, defense 80, missile 0
+105932:0::3::                behind 5  (stay behind in combat)
+105932:0::3::Break point:    50%
+105932:0::3::
+105932:0::3::Skills known:
+105932:0::6::Combat~[610]
+105932:0::6::Beastmastery~[650]
+105932:0::12::Breed beasts~[654], journeyman
+105932:0::3::
+105932:0::3::New noble~[105932] has no possessions.
+105932:0::3::
+105932:0::3/11::Capacity:  0/100 land (0%)
+105932:0::3::
+108239:0::3::
+108239:0::3/16::Location:       Forest~[cz28], in Provinia
+108239:0::3::Loyalty:        Fear-997
+108239:0::3/16::Stacked under:  New noble~[100403]
+108239:0::3::Health:         100%
+108239:0::3::Combat:         attack 80, defense 80, missile 0
+108239:0::3::                behind 9  (stay behind in combat)
+108239:0::3::Break point:    50%
+108239:0::3::
+108239:0::3::Skills known:
+108239:0::6::Combat~[610]
+108239:0::6::Beastmastery~[650]
+108239:0::12::Breed beasts~[654], journeyman
+108239:0::3::
+108239:0::3::Inventory:
+108239:0::3::{<b>}      qty  name                              weight{</b>}
+108239:0::3::      ---  ----                              ------
+108239:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+108239:0::3::                                             ======
+108239:0::3::                                              1,000
+108239:0::3::
+108239:0::3/11::Capacity:  0/100 land (0%)
+108239:0::3::
+112678:0::3::
+112678:0::3/16::Location:       Forest~[cz28], in Provinia
+112678:0::3::Loyalty:        Fear-83
+112678:0::3/16::Stacked under:  New noble~[3059]
+112678:0::3::Health:         100%
+112678:0::3::Combat:         attack 80, defense 80, missile 0
+112678:0::3::                behind 5  (stay behind in combat)
+112678:0::3::Break point:    50%
+112678:0::3::
+112678:0::3::Skills known:
+112678:0::6::Combat~[610]
+112678:0::6::Beastmastery~[650]
+112678:0::12::Breed beasts~[654], master
+112678:0::3::
+112678:0::3::New noble~[112678] has no possessions.
+112678:0::3::
+112678:0::3/11::Capacity:  0/100 land (0%)
+112678:0::3::
+114782:0::3::
+114782:0::3/16::Location:       Forest~[cz28], in Provinia
+114782:0::3::Loyalty:        Fear-83
+114782:0::3/16::Stacked under:  New noble~[3059]
+114782:0::3::Health:         100%
+114782:0::3::Combat:         attack 80, defense 80, missile 0
+114782:0::3::                behind 5  (stay behind in combat)
+114782:0::3::Break point:    50%
+114782:0::3::
+114782:0::3::Skills known:
+114782:0::6::Combat~[610]
+114782:0::6::Beastmastery~[650]
+114782:0::12::Breed beasts~[654], master
+114782:0::3::
+114782:0::3::New noble~[114782] has no possessions.
+114782:0::3::
+114782:0::3/11::Capacity:  0/100 land (0%)
+114782:0::3::
+126178:0::3::
+126178:0::3/16::Location:       Forest~[cz28], in Provinia
+126178:0::3::Loyalty:        Fear-83
+126178:0::3/16::Stacked under:  New noble~[3059]
+126178:0::3::Health:         100%
+126178:0::3::Combat:         attack 80, defense 80, missile 0
+126178:0::3::                behind 5  (stay behind in combat)
+126178:0::3::Break point:    50%
+126178:0::3::
+126178:0::3::Skills known:
+126178:0::6::Combat~[610]
+126178:0::6::Beastmastery~[650]
+126178:0::12::Breed beasts~[654], master
+126178:0::3::
+126178:0::3::New noble~[126178] has no possessions.
+126178:0::3::
+126178:0::3/11::Capacity:  0/100 land (0%)
+126178:0::3::
+129849:0::3::
+129849:0::3/16::Location:       Forest~[cz28], in Provinia
+129849:0::3::Loyalty:        Fear-86
+129849:0::3/16::Stacked under:  New noble~[3059]
+129849:0::3::Health:         100%
+129849:0::3::Combat:         attack 80, defense 80, missile 0
+129849:0::3::                behind 5  (stay behind in combat)
+129849:0::3::Break point:    50%
+129849:0::3::
+129849:0::3::Skills known:
+129849:0::6::Combat~[610]
+129849:0::6::Beastmastery~[650]
+129849:0::12::Breed beasts~[654], adept
+129849:0::3::
+129849:0::3::New noble~[129849] has no possessions.
+129849:0::3::
+129849:0::3/11::Capacity:  0/100 land (0%)
+129849:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Thommie~[bj3].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/bj3/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [bj3]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        16  26th   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                             200  104th  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    6/74  114th  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:          33/31,919  111st  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  9     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 266.
+0:0::0::
+0:0::0::The next five nobles formed will be:  122114 111498 97532 103230 124120
+0:0::0::
+0:0::0::90 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::100403 cz28   c351  100  5                                    New noble
+0:0::0::108239 cz28   f997  100  9                             100403 New noble
+0:0::0::89111  cz28   f998  100  9                             100403 New noble
+0:0::0::3059   cz28   o1    100  0     200                            New noble
+0:0::0::7565   cz28   f83   100  5                             3059   New noble
+0:0::0::79347  cz28   f83   100  5                             3059   New noble
+0:0::0::81677  cz28   f83   100  5                             3059   New noble
+0:0::0::114782 cz28   f83   100  5                             3059   New noble
+0:0::0::126178 cz28   f83   100  5                             3059   New noble
+0:0::0::112678 cz28   f83   100  5                             3059   New noble
+0:0::0::87937  cz28   f83   100  5                             3059   New noble
+0:0::0::129849 cz28   f86   100  5                             3059   New noble
+0:0::0::91307  cz28   f83   100  5                             3059   New noble
+0:0::0::89041  cz28   f86   100  5                             3059   New noble
+0:0::0::105932 cz28   f996  100  5                             3059   New noble
+0:0::0::104620 cz28   f996  100  5                             3059   New noble
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               200                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[cz28]                    New noble~[100403]
+0:0::0::                                     New noble~[108239]
+0:0::0::                                     New noble~[89111]
+0:0::0::                                   New noble~[3059]
+0:0::0::                                     New noble~[7565]
+0:0::0::                                     New noble~[79347]
+0:0::0::                                     New noble~[81677]
+0:0::0::                                     New noble~[114782]
+0:0::0::                                     New noble~[126178]
+0:0::0::                                     New noble~[112678]
+0:0::0::                                     New noble~[87937]
+0:0::0::                                     New noble~[129849]
+0:0::0::                                     New noble~[91307]
+0:0::0::                                     New noble~[89041]
+0:0::0::                                     New noble~[105932]
+0:0::0::                                     New noble~[104620]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::100403       2,800        300   0%                                
+0:0::0::108239       1,100        100   0%                                
+0:0::0:: 89111       1,100        100   0%                                
+0:0::0::  3059       4,800      1,300   0%                                
+0:0::0::  7565       1,600        100   0%                                
+0:0::0:: 79347         600        100   0%                                
+0:0::0:: 81677         100        100   0%                                
+0:0::0::114782         100        100   0%                                
+0:0::0::126178         100        100   0%                                
+0:0::0::112678         100        100   0%                                
+0:0::0:: 87937         100        100   0%                                
+0:0::0::129849         100        100   0%                                
+0:0::0:: 91307         100        100   0%                                
+0:0::0:: 89041         100        100   0%                                
+0:0::0::105932         100        100   0%                                
+0:0::0::104620         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Thommie~[bj3]"><font size=+1><b>Thommie~[bj3]</b></font>
+1:2::0::<hr>
+1:1::0::Thommie~[bj3]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50353
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[100403]"><font size=+1><b>New noble~[100403]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[100403]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 100403
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[108239]"><font size=+1><b>New noble~[108239]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[108239]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 108239
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[89111]"><font size=+1><b>New noble~[89111]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[89111]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 89111
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[3059]"><font size=+1><b>New noble~[3059]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[3059]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3059
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[7565]"><font size=+1><b>New noble~[7565]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[7565]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7565
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[79347]"><font size=+1><b>New noble~[79347]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[79347]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 79347
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[81677]"><font size=+1><b>New noble~[81677]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[81677]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 81677
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[114782]"><font size=+1><b>New noble~[114782]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[114782]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 114782
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[126178]"><font size=+1><b>New noble~[126178]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[126178]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 126178
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[112678]"><font size=+1><b>New noble~[112678]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[112678]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 112678
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[87937]"><font size=+1><b>New noble~[87937]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[87937]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 87937
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[129849]"><font size=+1><b>New noble~[129849]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[129849]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 129849
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[91307]"><font size=+1><b>New noble~[91307]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[91307]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 91307
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[89041]"><font size=+1><b>New noble~[89041]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[89041]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 89041
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[105932]"><font size=+1><b>New noble~[105932]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[105932]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 105932
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[104620]"><font size=+1><b>New noble~[104620]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[104620]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 104620
+1:2::0::
+1:2::0::<name="Plain~[cx28]"><font size=+1><b>Plain~[cx28]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[cx28], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15828
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cz28]"><font size=+1><b>Forest~[cz28]</b>, forest, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[cz28], forest, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15928
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

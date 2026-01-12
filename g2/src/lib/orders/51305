@@ -1,0 +1,289 @@
+1850:contact en6 
+1850:contact zz4 
+1850:contact ak6 
+1850:breed 55 55
+1850:breed 55 55
+1850:breed 55 55
+1850:breed 55 55
+1850:breed 55 55
+1850:breed 55 55
+1850:breed 55 55
+1850:breed 55 55
+1850:breed 55 55
+1850:breed 55 55
+1850:use 615
+1850:use 614
+1850:make 95 30
+6729:contact en6
+6729:contact zz4
+6729:contact ak6
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:breed 282 282
+6729:use 614
+6729:use 616
+6729:make 95 30
+1402:contact en6 
+1402:contact zz4 
+1402:contact ak6 
+1402:study 657
+1402:study 659
+1402:get 9601 1 200
+1402:breed 55 55
+1402:breed 55 55
+1402:study 657
+1402:study 659
+1402:breed 55 55
+1402:breed 55 55
+1402:study 657
+1402:study 659
+1402:breed 55 55
+1402:breed 55 55
+1402:study 657
+1402:study 659
+1402:breed 55 55
+1402:breed 55 55
+1402:use 614
+1402:use 614
+1402:use 616
+1402:use 615
+1402:use 614
+1402:use 614
+1402:use 616
+1402:use 615
+1402:make 95 30
+6780:contact en6 
+6780:contact zz4 
+6780:contact ak6 
+6780:get garrison 12 12
+6780:get garrison 12 6
+6780:get garrison 282 0 3
+6780:get garrison 55 0 3
+6780:attack 113067
+6780:attack 113067
+6780:attack 113067
+6780:execute
+6780:move 7341
+6780:attack 7341
+6780:attack 7341
+6780:attack 113067
+6780:attack 113067
+6780:attack 113067
+6780:execute
+6780:move out
+6780:attack 113067
+6780:attack 113067
+6780:attack 113067
+6780:execute
+6780:attack 82305
+6780:attack 82305
+6780:attack 82305
+6780:execute
+6780:move 7341
+6780:attack 7341
+6780:attack 7341
+6780:attack 113067
+6780:attack 82305
+6780:attack 82305
+6780:execute
+6780:move out
+6780:attack 82305
+6780:attack 113067
+6780:attack 82305
+6780:execute
+6780:get garrison 11 0
+6780:move 7341
+6780:repair
+6780:move out
+6780:give garrison 11 0
+6780:give garrison 282 0 5
+6780:give garrison 12 0 9
+6780:give garrison 10 0
+6780:give garrison 55 0 1
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:breed 282 282
+6780:use 614
+6780:use 615
+6780:use 614
+8226:contact en6 
+8226:contact zz4 
+8226:contact ak6 
+8226:breed 55 55
+8226:breed 55 55
+8226:breed 55 55
+8226:breed 55 55
+8226:breed 55 55
+8226:breed 55 55
+8226:breed 55 55
+8226:study 922
+8226:use 813
+8226:use 813
+8226:use 813
+8226:use 813
+8226:use 614
+8226:use 615
+8226:use 614
+8226:use 615
+4227:contact en6 
+4227:contact zz4 
+4227:contact ak6 
+4227:get 9601 1 100
+4227:breed 55 55
+4227:breed 55 55
+4227:breed 55 55
+4227:breed 55 55
+4227:breed 55 55
+4227:breed 55 55
+4227:breed 55 55
+4227:breed 54 54
+4227:breed 54 54
+4227:breed 54 54
+4227:breed 54 54
+4227:use 615
+4227:use 615
+4227:use 615
+4227:use 615
+4227:use 615
+4227:study 651
+4227:breed 54 54
+8934:study 661
+8934:study 659
+8934:move 9708
+8934:stack 9601 
+8934:breed 282 282
+8934:breed 282 282
+8934:breed 282 282
+8934:study 661
+8934:study 661
+8934:study 659
+8934:study 659
+8934:breed 282 282
+8934:breed 282 282
+8934:study 661
+8934:study 661
+8934:study 659
+8934:study 659
+8934:breed 282 282
+8934:breed 282 282
+8934:study 661
+8934:study 661
+8934:study 659
+8934:study 659
+8934:use 615
+8934:use 616
+8934:use 614
+8934:move r78
+8934:recruit
+8934:train 12 10
+8934:use 615
+8934:use 616
+8934:use 614
+5366:contact en6 
+5366:contact zz4 
+5366:contact ak6 
+5366:get 9601 1 1000
+5366:study 611
+5366:study 611
+5366:move r78
+5366:move 9708
+5366:get 9601 1 100
+5366:get 9601 11 0
+5366:unstack
+5366:move 9708
+5366:move r78
+5366:move 7941 
+5366:repair
+5366:move r78
+5366:move 1111 
+5366:repair
+5366:move r78
+5366:move 9708
+5366:stack 9601
+5366:give 9601 11 0
+5366:get 9601 55 2
+5366:give 9601 55 0 5
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:breed 55 55
+5366:use 661 
+5366:use 614
+5366:use 614
+5366:use 615
+5366:use 615
+5366:use 615
+7649:contact en6 
+7649:contact zz4 
+7649:contact ak6 
+7649:use 756 8226
+7649:use 756 8934 
+7649:use 756 1850
+7649:use 756 8226
+7649:use 756 8226
+7649:use 756 4227
+7649:use 756 7649
+7649:use 756 9601
+7649:use 756 7649
+7649:use 756 6780 
+7649:use 756 6729
+7649:use 756 5366
+7649:use 756 4227
+7649:use 756 7649
+7649:use 756 4227
+7649:use 756 5366
+7649:use 756 9601
+7649:use 756 9601
+7649:use 756 9601
+7649:use 756 9601
+7649:use 756 9601
+7649:use 756 9601
+7649:explore
+9601:contact en6 
+9601:contact zz4 
+9601:contact ak6 
+9601:make 18 24 
+9601:use 813
+9601:make 18 24 
+9601:use 813
+9601:make 18 90 
+51305:admit 8934 en6 zz4 ak6
+51305:accept 0 en6 
+51305:accept 0 zz4 
+51305:accept 0 ak6 
+51305:accept  en6 0 
+51305:accept  zz4 0 
+51305:accept  ak6 0 
+83060:contact en6 
+83060:contact zz4 
+83060:contact ak6 

@@ -1,0 +1,92 @@
+
+Skills
+------
+
+Skills represent knowledge that Olympian characters may know.
+They are divided into category skills and subskills within those
+categories.  The skill categories are:
+
+	120  Shipcraft
+	121  Combat
+	122  Stealth
+	123  Beastmastery
+	124  Persuasion
+	125  Construction
+	126  Alchemy
+	127  Weaponsmithing
+	128  Forestry
+	129  Mining
+
+There are also six schools of magic study available.  See the
+section on magic for more details on learning and casting magical
+spells.
+
+A category skill must first be learned before any of the subskills
+within that category can be known.
+
+With each skill learned, the player will receive a lore sheet
+describing background information about the skill and how it
+may be used.  The lore sheets for the skill categories usually
+list some of the skills available for study within the category.
+
+	For instance, a noble wishing to undertake the study of
+	Shipcraft would first learn the category skill with
+	the STUDY command:
+
+		STUDY 120
+
+	The Shipcraft lore sheet lists some of the subskills
+	available for building and sailing ships.  One of these is
+	Pilot ship [9502], the skill required to control a ship on
+	the ocean.  The aspiring sailor could then order:
+
+		STUDY 9502
+
+	Once Pilot ship [9502] is known, the lore sheet describing
+	its usuage will appear in the player's turn report.
+
+
+Study of Skills
+---------------
+
+A subskill may only be known once its category skill is known.
+For instance, one must know Shipcraft [120] before one can know
+Pilot ship [9502].
+
+Skills are taught by cities.  Port cities usually offer instruction
+in Shipcraft.  One is unlikely to be able to acquire shipbuilding
+knowledge in the desert, however.
+
+Not all subskills in an area may be mentioned by the category lore
+sheet.  Some skills are rare, and must be found through RESEARCH
+or by finding old books describing their use.  Sometimes a journey
+to a distant city may be required to learn a rare but useful skill.
+
+Most skills require two weeks of study to learn.
+
+STUDY may not be used for more than two weeks per turn.  Only so
+much knowledge can be assimilated at a time.
+
+If instruction in a skill is not offered by the location a character
+is in, the character may still attempt to learn the skill through
+RESEARCH.  Research, however, is a long, tedious process with no
+guarantees of success.  Learning Shipcraft in the desert is possible,
+but will probably take a long time.
+
+
+Limits to Knowledge
+-------------------
+
+A noble may only know as many category skills as his level rating
+allows.  For instance, a level 5 noble may know five category skills.
+A novice character at level 1 may only know one category skill.
+
+There is no limit to the number of subskills within a category that
+may be known.
+
+The very act of learning and using skills will increase a character's
+rating.  Thus, experienced characters tend to know more skills than
+new characters.
+
+-----------------------------
+

@@ -1,0 +1,201 @@
+16950:0::0:0:Garrison~[a758], garrison, with 100~pikemen guards Forest~[dm50].
+58335:0::0:1:Harn~[t75] bought six~woven baskets~[94] from Meriadoc Brandybuck~[84005] for 24~gold.
+58335:0::0:1:Meriadoc Brandybuck~[84005], with eight~sailors, three~winged horses, exited Harn~[t75].
+16950:0::0:1:Meriadoc Brandybuck~[84005], with eight~sailors, three~winged horses, arrived from Harn~[t75].
+16950:0::0:2:Meriadoc Brandybuck~[84005], with eight~sailors, entered Harn~[t75].
+58335:0::0:2:Meriadoc Brandybuck~[84005], with eight~sailors, arrived from Forest~[dm50].
+58335:0::0:3:Meriadoc Brandybuck~[84005], with eight~sailors, entered Kiga'rashu~[1212].
+58335:0::0:3:Kiga'rashu~[1212], roundship, 4% loaded, defense~4, 13%~damaged, departed for Ocean~[dn50].
+58335:0::0:7:Peregrin Took~[99866] recruited seven~peasants.
+58335:0::0:15:Peregrin Took~[99866], with eight~sailors, entered Sundered Seas~[5552].
+58335:0::0:15:Sundered Seas~[5552], roundship, 3% loaded, defense~10, 5%~damaged, departed for Ocean~[dn50].
+16950:0::0:21:It has begun to rain.
+16950:0::0::
+16950:0::0::Routes leaving Forest: 
+16950:0::3::North, plain, to Twilight zone~[dk50], 7~days
+16950:0::3::East, forest, to Twilight zone~[dm51], 8~days
+16950:0::3::South, to Ocean~[dn50], Great Sea, impassable
+16950:0::3::West, forest, to E. Druid Forest~[dm49], 8~days
+16950:0::0::
+16950:0::0::Inner locations:
+16950:0::3::Harn~[t75], port city, safe haven, 1 day
+16950:0::0::
+16950:0::0::It is raining.
+16950:0::0::
+16950:0::0::Seen here:
+16950:0::0/3::   Garrison~[a758], garrison, on guard, with 100~pikemen
+16950:0::0/3::   Rhao iye-Sama'an~[p803], wielding Javelin of Perendor~[85823], wearing Armor of Dirbrand~[145822], with five~workers, four~winged horses, one~orc, three~cyclops
+58335:0::0::
+58335:0::0::Routes leaving Harn: 
+58335:0::3::South, to Ocean~[dn50], Great Sea, 1~day
+58335:0::3::Out, to Forest~[dm50], 1~day
+58335:0::0::
+58335:0::0::Cities rumored to be nearby:
+58335:0::3::Sweetwood~[p73], in C. Druid Forest~[dm48]
+58335:0::0::
+58335:0::0::Skills taught here:
+58335:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58335:0::0::
+58335:0::0::Market report:
+58335:0::3::
+58335:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58335:0::3::-----    ---   -----    ---     -----   ----                     
+58335:0::3::  buy    t75     129      6        50   hides~[99]               
+58335:0::3::  buy    t75     106     42        23   cardamom~[t510]          
+58335:0::3::  buy    t75       2    100         2   fish~[87]                
+58335:0::3::  buy    t75      82     50        43   tea~[94759]              
+58335:0::3::  buy    t75     172     40        80   fine cloaks~[116110]     
+58335:0::3::  buy    t75       4     15         1   woven baskets~[94]       
+58335:0::3:: sell    t75      32     25       100   honey~[v247]             
+58335:0::3:: sell    t75      50     10       100   pitch~[261]              
+58335:0::3:: sell    t75      15     25        30   wood~[77]                
+58335:0::3:: sell    t75      15     29       100   oranges~[81938]          
+58335:0::3:: sell    t75      24     48        30   incense~[85013]          
+58335:0::0::
+58335:0::0::Inner locations:
+58335:0::3::Sesua-D'asu~[3831], tower, defense~40, "of the freemen"
+58335:0::3::Maddog Monument~[r152], tower, defense~40, "Beware The Dog"
+58335:0::0::
+58335:0::0::It is raining.
+58335:0::0::
+58335:0::0::Seen here:
+58335:0::0/3::   Colwyn Grey~[101872]
+58335:0::0/3::   Etennum~[118115], with ten~peasants
+58335:0::0/3::   Xanis~[146549]
+58335:0::0/3::   Sceeth~[119371]
+58335:0::0/3::   Wong Yin-Shon~[89671]
+58335:0::0/3::   Wu-Song~[106978]
+58335:0::0/3::   Kong-Ming~[81117]
+58335:0::0/3::   Lord Wolf~[98373]
+58335:0::0/3:: * Karl Franz~[w795]
+58335:0::0/3::   Dude~[k520]
+58335:0::0/3::   Malicur Standish~[h634]
+58335:0::0/3::   Otis~[8276]
+58335:0::0::
+58335:0::0::Ships docked at port:
+58335:0::3/3::The scared cat~[v979], galley-in-progress, 57% completed, 0% loaded
+5:0::0::
+5:0::0::begin ap7  # Sun Corp.
+5:0::0::
+5:0::0::unit ap7  # Sun Corp.
+5:0::0::
+5:0::0::unit w795  # Karl Franz in Harn~[t75]
+5:0::0::
+5:0::0::end
+50157:0::0::
+50157:0::0::Unclaimed items:
+50157:0::0::
+50157:0::0::      qty  name                              weight
+50157:0::0::      ---  ----                              ------
+50157:0::0::    7,650  gold~[1]                               0  
+50157:0::0::       50  wood~[77]                          1,500  
+50157:0::0::      100  stone~[78]                        10,000  
+76795:0::3::
+76795:0::3/16::Location:       Harn~[t75], in province Forest~[dm50], in Provinia
+76795:0::3::Loyalty:        Oath-2
+76795:0::3::Health:         100%
+76795:0::3::Combat:         attack 80, defense 80, missile 0
+76795:0::3::                behind 0  (front line in combat)
+76795:0::3::Break point:    50%
+76795:0::3::
+76795:0::3::Skills known:
+76795:0::6::none
+76795:0::3::
+76795:0::3::Partially known skills:
+76795:0::6/6::Shipcraft~[600], 7/21
+76795:0::6/6::Trade~[730], 7/21
+76795:0::3::
+76795:0::3::Karl Franz~[w795] has no possessions.
+76795:0::3::
+76795:0::3/11::Capacity:  0/100 land (0%)
+76795:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Sun Corp.~[ap7].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/ap7/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [ap7]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         1  121st  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    0/74  123rd  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:           0/31,919  120th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  35     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 262.
+0:0::0::
+0:0::0::The next five nobles formed will be:  q881 d815 a947 h103 s932
+0:0::0::
+0:0::0::100 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::w795   t75    o2    100  0                                    Karl Franz
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[dm50]
+0:0::0::    Harn~[t75]                     Karl Franz~[w795]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  w795         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Sun Corp.~[ap7]"><font size=+1><b>Sun Corp.~[ap7]</b></font>
+1:2::0::<hr>
+1:1::0::Sun Corp.~[ap7]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50157
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Karl Franz~[w795]"><font size=+1><b>Karl Franz~[w795]</b></font>
+1:2::0::<hr>
+1:1::0::Karl Franz~[w795]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 76795
+1:2::0::
+1:2::0::<name="Forest~[dm50]"><font size=+1><b>Forest~[dm50]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dm50], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16950
+1:0::0::
+1:2::0::
+1:2::0::<name="Harn~[t75]"><font size=+1><b>Harn~[t75]</b>, port city, in province Forest~[dm50], safe haven</font>
+1:2::0::<hr>
+1:1::0::Harn~[t75], port city, in province Forest~[dm50], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58335
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

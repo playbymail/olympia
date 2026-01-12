@@ -1,0 +1,221 @@
+64020:oath 2
+64020:name "Dark Overlord"
+64020:neutral 5681
+64020:give v650 12 0
+64020:give v650 14 0
+64020:give v650 15 0
+64020:give v650 16 0
+64020:give v650 18 0
+64020:give v650 60 0
+64020:give v650 271 0
+64020:get 5804 54 10
+64020:promote v650
+64020:unstack
+64020:move out
+64020:move out
+64020:fly e
+64020:fly e
+64020:fly e
+64020:fly e
+64020:fly e
+64020:fly e
+64020:fly e
+64020:fly e
+64020:fly e
+64020:fly e
+64020:fly s
+64020:move in
+64020:study 900
+64020:study 900
+5804:stop
+5804:give a434 54 10
+5804:breed 54 54
+5804:breed 54 54
+5804:breed 54 54
+5804:breed 54 54
+5804:breed 54 54
+5804:breed 54 54
+5804:breed 54 54
+5804:breed 54 54
+5804:breed 54 54
+5804:breed 54 54
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+5634:breed 10 51
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+75650:breed 282 282
+148444:give 83619 22 125
+148444:give 83619 1 1000
+148444:use 615
+148444:use 615
+148444:use 615
+148444:use 615
+144510:admit 4683 all
+144510:train 16 0
+144510:seek
+144510:seek
+144510:seek
+89476:give g020 271 0
+89476:get g020 271 2
+89476:breed 271 271
+89476:get g020 271 2
+89476:breed 271 271
+89476:give g020 271 0
+89476:get g020 271 2
+89476:breed 271 271
+89476:give g020 271 0
+89476:get g020 271 2
+89476:breed 271 271
+89476:give g020 271 0
+89476:get g020 271 2
+89476:breed 271 271
+89476:get g020 271 2
+89476:breed 271 271
+89476:give g020 271 0
+89476:get g020 271 2
+89476:breed 271 271
+89476:give g020 271 0
+89476:get g020 271 2
+89476:breed 271 271
+82967:accept 0 0
+82967:quarry
+82967:wait unit 132130
+82967:give 132130 78 0
+82967:explore
+82967:explore
+82967:explore
+82967:explore
+82967:explore
+95307:study 702
+95307:study 702
+95307:wood
+95307:explore
+95307:explore
+95307:explore
+1426:sell 128357 40 72
+1426:sell d378 39 173
+1426:buy s393 0
+1426:move x40
+1426:sail up
+1426:move v428
+1426:contact bh3 cb5 db7 df7 et5 fc3
+1426:contact gk5 hd3 mm9 nn3 ny7 ps4
+1426:contact qb2 qn5 qy4 rq7 rr7 sz5
+1426:contact ta8 tj7 tp2 tr5 ug3 uh5
+1426:contact vy5 xy3 yf7 Yg9 ym3 yv5
+1426:contact zy6
+1426:accept 0 0
+1426:contact 5943 z022
+1426:give z022 54 0 9
+1426:give z022 s393 0
+1426:give z022 c401 0
+1426:give z022 1 0 5000
+1426:give z022 128357 0
+1426:give z022 d378 0
+1426:give z022 109393 0
+1426:drop 116303 0
+1426:give 5943 54 0 9
+1426:give 5943 s393 0
+1426:give 5943 1 0 5000
+1426:breed 54 54
+1426:give z022 54 0 9
+1426:give z022 s393 0
+1426:give z022 c401 0
+1426:give z022 1 0 5000
+1426:give z022 128357 0
+1426:give z022 d378 0
+1426:give z022 109393 0
+1426:study 611
+1426:study 611
+1426:breed 54 54
+1426:breed 54 54
+1426:breed 54 54
+1426:give 5943 54 0 9
+1426:give 5943 s393 0
+1426:give 5943 1 0 5000
+1426:breed 54 54
+1426:breed 54 54
+1426:breed 54 54
+1426:breed 54 54
+1426:breed 54 54
+1426:breed 54 54
+1426:use 615
+51665:name gk5 "Dragon Knights"
+51665:accept bh3 0
+51665:accept cb5 0
+51665:accept db7 0
+51665:accept df7 0
+51665:accept et5 0
+51665:accept fc3 0
+51665:accept gk5 0
+51665:accept hd3 0
+51665:accept mm9 0
+51665:accept nn3 0
+51665:accept ny7 0
+51665:accept ps4 0
+51665:accept qb2 0
+51665:accept qn5 0
+51665:accept qy4 0
+51665:accept rq7 0
+51665:accept rr7 0
+51665:accept sz5 0
+51665:accept ta8 0
+51665:accept tj7 0
+51665:accept tp2 0
+51665:accept tr5 0
+51665:accept ug3 0
+51665:accept uh5 0
+51665:accept vy5 0
+51665:accept xy3 0
+51665:accept yf7 0
+51665:accept Yg9 0
+51665:accept ym3 0
+51665:accept yv5 0
+51665:accept zy6 0
+4342:use 922 116096 18 20 
+4342:use 922 8639 18 200 
+4342:use 922 116096 16 7 
+4342:trance
+4342:use 813
+4342:use 813
+4342:use 813
+122371:use 616
+122371:use 616
+122371:use 616
+122371:use 616
+122371:use 614
+122371:use 614
+8584:give 83619
+2881:accept 0 0
+2881:wood
+2881:recruit 10
+2881:train 11 0

@@ -1,0 +1,17 @@
+#Spell:  Perform common tasks for gold [9103]
+#
+Usage:  USE @@@@
+
+Required aura:  none
+Time to cast:   seven days
+
+Even powerful magicians sometimes require gold to further their plans.
+This skill allows the magician to perform trivial or common tasks for
+the local population of a city or province to earn gold.
+
+Examples of common tasks are curing runny noses, concocting love
+potions, dowsing for water, or performing conjuring tricks.
+
+The skill yields 100 gold, and may only be used by a magician once per
+month.  Also, only the first magician to perform @@@@ in a city or
+province each month receives any gold.

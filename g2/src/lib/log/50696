@@ -1,0 +1,3585 @@
+39158:0::0:0:Garrison~[1204], garrison, with 20~soldiers guards Forest~[sp58].
+21764:0::0:0:Garrison~[1579], garrison, with ten~soldiers guards Forest~[gw64].
+39552:0::0:0:Garrison~[1596], garrison, with ten~soldiers guards Forest~[st52].
+45439:0::0:0:Garrison~[1650], garrison, with ten~soldiers guards Forest~[ws39].
+28363:0::0:0:Garrison~[2281], garrison, with ten~soldiers guards Forest~[md63].
+25150:0::0:0:Garrison~[2625], garrison, with ten~soldiers guards Forest~[jp50].
+25060:0::0:0:Garrison~[2837], garrison, with ten~soldiers guards Forest~[jn60].
+35367:0::0:0:Garrison~[2900], garrison, with ten~soldiers guards Forest~[qr67].
+37957:0::0:0:Garrison~[2933], garrison, with ten~workers, ten~soldiers guards Forest~[rz57].
+24920:0::0:0:Garrison~[3183], garrison, with ten~soldiers guards Forest~[jm20].
+42769:0::0:0:Garrison~[3734], garrison, with ten~soldiers guards Forest~[vj69].
+49608:0::0:0:Garrison~[3808], garrison, with ten~soldiers guards Forest~[zv08].
+30268:0::0:0:Garrison~[4008], garrison, with ten~soldiers guards Forest~[nc68].
+30912:0::0:0:Garrison~[4172], garrison, with ten~peasants, 80~workers, two~hounds guards Forest~[nm12].
+26604:0::0:0:Garrison~[4222], garrison, with ten~soldiers guards Forest~[kh04].
+42376:0::0:0:Garrison~[4714], garrison, with ten~soldiers guards Forest~[vd76].
+46644:0::0:0:Garrison~[4911], garrison, with ten~soldiers guards Forest~[xh44].
+27739:0::0:0:Garrison~[5298], garrison, with ten~soldiers guards Forest~[kw39].
+45801:0::0:0:Garrison~[5539], garrison, with ten~soldiers guards Forest~[wx01].
+39177:0::0:0:Garrison~[5675], garrison, with ten~soldiers guards Forest~[sp77].
+43017:0::0:0:Garrison~[5812], garrison, with ten~soldiers guards Forest~[vn17].
+43462:0::0:0:Garrison~[5855], garrison, with ten~soldiers guards Forest~[vs62].
+36063:0::0:0:Garrison~[6246], garrison, with ten~soldiers guards Forest~[ra63].
+57204:0::0:0:Garrison~[6418], garrison, with 140~pikemen guards Ironplow~[f44].
+49045:0::0:0:Garrison~[6498], garrison, with ten~soldiers guards Forest~[zn45].
+42421:0::0:0:Garrison~[6753], garrison, with 25~workers, three~peasants guards Forest~[vf21].
+32813:0::0:0:Garrison~[6773], garrison, with ten~soldiers guards Forest~[pk13].
+26687:0::0:0:Garrison~[6832], garrison, with ten~soldiers guards Forest~[kh87].
+42182:0::0:0:Garrison~[6949], garrison, with ten~soldiers guards Forest~[vb82].
+31895:0::0:0:Garrison~[6965], garrison, with ten~soldiers guards Forest~[nx95].
+39876:0::0:0:Garrison~[7055], garrison, with ten~soldiers guards Forest~[sx76].
+20342:0::0:0:Garrison~[7241], garrison, with ten~soldiers guards Forest~[gd42].
+28543:0::0:0:Garrison~[7324], garrison, with ten~soldiers guards Forest~[mg43].
+42512:0::0:0:Garrison~[7584], garrison, with ten~soldiers guards Forest~[vg12].
+22989:0::0:0:Garrison~[7815], garrison, with ten~soldiers guards Forest~[hm89].
+49481:0::0:0:Garrison~[7912], garrison, with ten~soldiers guards Forest~[zs81].
+43061:0::0:0:Garrison~[8215], garrison, with 20~soldiers guards Forest~[vn61].
+24527:0::0:0:Garrison~[9128], garrison, with ten~soldiers guards Forest~[jg27].
+22197:0::0:0:Garrison~[9268], garrison, with ten~soldiers guards Forest~[hb97].
+23986:0::0:0:Garrison~[9466], garrison, with ten~soldiers guards Forest~[hz86].
+21545:0::0:0:Garrison~[9487], garrison, with ten~soldiers guards Forest~[gt45].
+27130:0::0:0:Garrison~[9868], garrison, with 14~soldiers, six~peasants guards Forest~[kp30].
+26903:0::0:0:Garrison~[9908], garrison, with ten~soldiers guards Forest~[km03].
+32632:0::0:0:Garrison~[9990], garrison, with ten~soldiers guards Forest~[ph32].
+23904:0::0:0:Garrison~[a813], garrison, with ten~soldiers guards Forest~[hz04].
+23474:0::0:0:Garrison~[b188], garrison, with ten~soldiers guards Forest~[hs74].
+22923:0::0:0:Garrison~[b236], garrison, with ten~soldiers guards Forest~[hm23].
+49912:0::0:0:Garrison~[b626], garrison, with ten~soldiers guards Forest~[zz12].
+23407:0::0:0:Garrison~[c627], garrison, with ten~soldiers guards Forest~[hs07].
+32149:0::0:0:Garrison~[d506], garrison, with ten~soldiers guards Forest~[pb49].
+21072:0::0:0:Garrison~[d618], garrison, with 18~soldiers guards Forest~[gn72].
+40855:0::0:0:Garrison~[f388], garrison, with ten~soldiers guards Forest~[tk55].
+24450:0::0:0:Garrison~[f471], garrison, with 14~soldiers, six~peasants guards Forest~[jf50].
+38097:0::0:0:Garrison~[g139], garrison, with ten~soldiers guards Forest~[sa97].
+21078:0::0:0:Garrison~[g203], garrison, with ten~soldiers guards Forest~[gn78].
+44806:0::0:0:Garrison~[g344], garrison, with ten~soldiers guards Forest~[wk06].
+22958:0::0:0:Garrison~[g374], garrison, with ten~soldiers guards Forest~[hm58].
+28166:0::0:0:Garrison~[g396], garrison, with ten~soldiers guards Forest~[mb66].
+22258:0::0:0:Garrison~[g558], garrison, with ten~soldiers guards Forest~[hc58].
+21608:0::0:0:Garrison~[j170], garrison, with ten~soldiers guards Forest~[gv08].
+33227:0::0:0:Garrison~[j767], garrison, with ten~soldiers guards Forest~[pq27].
+20033:0::0:0:Garrison~[j787], garrison, with ten~soldiers guards Forest~[ga33].
+41129:0::0:0:Garrison~[k035], garrison, with ten~soldiers guards Forest~[tp29].
+48502:0::0:0:Garrison~[k195], garrison, with ten~soldiers guards Forest~[zg02].
+29780:0::0:0:Garrison~[m851], garrison, with ten~soldiers guards Forest~[mw80].
+48432:0::0:0:Garrison~[n267], garrison, with ten~soldiers guards Forest~[zf32].
+29875:0::0:0:Garrison~[n856], garrison, with ten~soldiers guards Forest~[mx75].
+41493:0::0:0:Garrison~[n896], garrison, with ten~soldiers guards Forest~[ts93].
+44196:0::0:0:Garrison~[p136], garrison, with ten~soldiers guards Forest~[wb96].
+26314:0::0:0:Garrison~[p164], garrison, with ten~soldiers guards Forest~[kd14].
+41389:0::0:0:Garrison~[p541], garrison, with ten~soldiers guards Forest~[tr89].
+32439:0::0:0:Garrison~[p748], garrison, with ten~soldiers guards Forest~[pf39].
+23739:0::0:0:Garrison~[q867], garrison, with ten~soldiers guards Forest~[hw39].
+44525:0::0:0:Garrison~[r652], garrison, with ten~soldiers guards Forest~[wg25].
+43133:0::0:0:Garrison~[s226], garrison, with ten~soldiers guards Forest~[vp33].
+40425:0::0:0:Garrison~[s987], garrison, with ten~soldiers guards Forest~[tf25].
+38021:0::0:0:Garrison~[t290], garrison, with ten~soldiers guards Forest~[sa21].
+49459:0::0:0:Garrison~[t302], garrison, with ten~soldiers guards Forest~[zs59].
+46101:0::0:0:Garrison~[t303], garrison, with ten~soldiers guards Forest~[xb01].
+29449:0::0:0:Garrison~[v253], garrison, with ten~soldiers guards Forest~[ms49].
+43319:0::0:0:Garrison~[v254], garrison, with ten~soldiers guards Forest~[vr19].
+45938:0::0:0:Garrison~[v639], garrison, with ten~soldiers guards Forest~[wz38].
+45197:0::0:0:Garrison~[v916], garrison, with ten~soldiers guards Forest~[wp97].
+38354:0::0:0:Garrison~[w550], garrison, with ten~soldiers guards Forest~[sd54].
+31929:0::0:0:Garrison~[x581], garrison, with ten~soldiers guards Forest~[nz29].
+35070:0::0:0:Garrison~[79125], garrison, with ten~soldiers guards Forest~[qn70].
+31918:0::0:0:Garrison~[79724], garrison, with ten~soldiers guards Forest~[nz18].
+24053:0::0:0:Garrison~[79892], garrison, with ten~soldiers guards Forest~[ja53].
+29254:0::0:0:Garrison~[80125], garrison, with ten~soldiers guards Forest~[mq54].
+22980:0::0:0:Garrison~[80221], garrison, with ten~soldiers guards Forest~[hm80].
+38307:0::0:0:Garrison~[80434], garrison, with ten~soldiers guards Forest~[sd07].
+49637:0::0:0:Garrison~[80746], garrison, with ten~soldiers guards Forest~[zv37].
+23600:0::0:0:Garrison~[81308], garrison, with ten~soldiers guards Forest~[hv00].
+47457:0::0:0:Garrison~[82284], garrison, with ten~soldiers guards Forest~[xs57].
+25703:0::0:0:Garrison~[82909], garrison, with ten~soldiers guards Forest~[jw03].
+41816:0::0:0:Garrison~[83277], garrison, with ten~soldiers guards Forest~[tx16].
+42676:0::0:0:Garrison~[83921], garrison, with ten~soldiers guards Forest~[vh76].
+29400:0::0:0:Garrison~[84240], garrison, with ten~soldiers guards Forest~[ms00].
+34592:0::0:0:Garrison~[84300], garrison, with ten~soldiers guards Forest~[qg92].
+26566:0::0:0:Garrison~[84868], garrison, with ten~soldiers guards Forest~[kg66].
+45294:0::0:0:Garrison~[86085], garrison, with ten~soldiers guards Forest~[wq94].
+36321:0::0:0:Garrison~[86330], garrison, with ten~soldiers guards Forest~[rd21].
+42299:0::0:0:Garrison~[86975], garrison, with ten~soldiers guards Forest~[vc99].
+46609:0::0:0:Garrison~[87234], garrison, with 12~soldiers guards Forest~[xh09].
+33458:0::0:0:Garrison~[87365], garrison, with ten~soldiers guards Forest~[ps58].
+49246:0::0:0:Garrison~[87942], garrison, with ten~soldiers guards Forest~[zq46].
+49772:0::0:0:Garrison~[88718], garrison, with ten~soldiers guards Forest~[zw72].
+28285:0::0:0:Garrison~[89155], garrison, with ten~soldiers guards Forest~[mc85].
+33468:0::0:0:Garrison~[89456], garrison, with ten~soldiers guards Forest~[ps68].
+47293:0::0:0:Garrison~[89877], garrison, with ten~soldiers guards Forest~[xq93].
+46662:0::0:0:Garrison~[89905], garrison, with ten~soldiers guards Forest~[xh62].
+31546:0::0:0:Garrison~[89910], garrison, with ten~soldiers guards Forest~[nt46].
+20937:0::0:0:Garrison~[90250], garrison, with ten~soldiers guards Forest~[gm37].
+46779:0::0:0:Garrison~[90363], garrison, with 25~soldiers guards Forest~[xj79].
+20661:0::0:0:Garrison~[90661], garrison, with ten~soldiers guards Forest~[gh61].
+28855:0::0:0:Garrison~[90699], garrison, with ten~soldiers guards Forest~[mk55].
+47778:0::0:0:Garrison~[91533], garrison, with ten~soldiers guards Forest~[xw78].
+25531:0::0:0:Garrison~[92382], garrison, with ten~soldiers guards Forest~[jt31].
+35130:0::0:0:Garrison~[92458], garrison, with ten~soldiers guards Forest~[qp30].
+31903:0::0:0:Garrison~[92551], garrison, with ten~soldiers guards Forest~[nz03].
+46119:0::0:0:Garrison~[93145], garrison, with ten~soldiers guards Forest~[xb19].
+29091:0::0:0:Garrison~[93965], garrison, with ten~soldiers guards Forest~[mn91].
+46143:0::0:0:Garrison~[94438], garrison, with ten~soldiers guards Forest~[xb43].
+31497:0::0:0:Garrison~[95115], garrison, with ten~soldiers guards Forest~[ns97].
+46699:0::0:0:Garrison~[95566], garrison, with ten~soldiers guards Forest~[xh99].
+27604:0::0:0:Garrison~[96306], garrison, with ten~soldiers guards Forest~[kv04].
+33680:0::0:0:Garrison~[96410], garrison, with ten~soldiers, 14~workers, one~peasant guards Forest~[pv80].
+40340:0::0:0:Garrison~[96693], garrison, with 20~soldiers guards Forest~[td40].
+48184:0::0:0:Garrison~[96707], garrison, with ten~soldiers guards Forest~[zb84].
+39503:0::0:0:Garrison~[97528], garrison, with ten~soldiers guards Forest~[st03].
+25194:0::0:0:Garrison~[97767], garrison, with ten~soldiers guards Forest~[jp94].
+39205:0::0:0:Garrison~[99782], garrison, with 20~soldiers, 15~workers guards Forest~[sq05].
+36107:0::0:0:Garrison~[100244], garrison, with 20~soldiers guards Forest~[rb07].
+45491:0::0:0:Garrison~[100588], garrison, with ten~soldiers guards Forest~[ws91].
+47314:0::0:0:Garrison~[101045], garrison, with ten~soldiers guards Forest~[xr14].
+43442:0::0:0:Garrison~[101983], garrison, with 23~soldiers guards Forest~[vs42].
+22854:0::0:0:Garrison~[103348], garrison, with ten~soldiers guards Forest~[hk54].
+45465:0::0:0:Garrison~[103372], garrison, with ten~soldiers guards Forest~[ws65].
+22934:0::0:0:Garrison~[103478], garrison, with ten~soldiers guards Forest~[hm34].
+31577:0::0:0:Garrison~[103627], garrison, with ten~soldiers guards Forest~[nt77].
+22481:0::0:0:Garrison~[103748], garrison, with ten~soldiers guards Forest~[hf81].
+32365:0::0:0:Garrison~[104697], garrison, with 20~soldiers guards Forest~[pd65].
+46509:0::0:0:Garrison~[104764], garrison, with ten~soldiers guards Forest~[xg09].
+27842:0::0:0:Garrison~[105079], garrison, with ten~soldiers guards Forest~[kx42].
+27092:0::0:0:Garrison~[105360], garrison, with ten~soldiers, 15~workers guards Forest~[kn92].
+31627:0::0:0:Garrison~[106242], garrison, with ten~soldiers guards Forest~[nv27].
+30693:0::0:0:Garrison~[106555], garrison, with ten~soldiers guards Forest~[nh93].
+29615:0::0:0:Garrison~[107070], garrison, with 16~soldiers guards Forest~[mv15].
+34854:0::0:0:Garrison~[107148], garrison, with ten~soldiers guards Forest~[qk54].
+22552:0::0:0:Garrison~[107170], garrison, with ten~soldiers guards Forest~[hg52].
+20020:0::0:0:Garrison~[107523], garrison, with ten~soldiers guards Forest~[ga20].
+35282:0::0:0:Garrison~[107625], garrison, with ten~soldiers guards Forest~[qq82].
+48037:0::0:0:Garrison~[107879], garrison, with 12~soldiers guards Forest~[za37].
+21851:0::0:0:Garrison~[108234], garrison, with ten~soldiers guards Forest~[gx51].
+26264:0::0:0:Garrison~[109716], garrison, with 14~soldiers guards Forest~[kc64].
+49019:0::0:0:Garrison~[110389], garrison, with ten~soldiers guards Forest~[zn19].
+45796:0::0:0:Garrison~[110433], garrison, with ten~soldiers guards Forest~[ww96].
+37490:0::0:0:Garrison~[110659], garrison, with ten~soldiers guards Forest~[rs90].
+42278:0::0:0:Garrison~[111768], garrison, with ten~soldiers guards Forest~[vc78].
+34728:0::0:0:Garrison~[112504], garrison, with ten~soldiers guards Forest~[qj28].
+45567:0::0:0:Garrison~[112518], garrison, with ten~soldiers guards Forest~[wt67].
+32225:0::0:0:Garrison~[112757], garrison, with ten~soldiers guards Forest~[pc25].
+36751:0::0:0:Garrison~[113526], garrison, with ten~soldiers guards Forest~[rj51].
+27166:0::0:0:Garrison~[113548], garrison, with ten~soldiers guards Forest~[kp66].
+40054:0::0:0:Garrison~[113560], garrison, with ten~soldiers guards Forest~[ta54].
+24847:0::0:0:Garrison~[113725], garrison, with ten~soldiers guards Forest~[jk47].
+33559:0::0:0:Garrison~[113853], garrison, with ten~soldiers guards Forest~[pt59].
+31303:0::0:0:Garrison~[114103], garrison, with ten~soldiers guards Forest~[nr03].
+49253:0::0:0:Garrison~[114230], garrison, with ten~soldiers guards Forest~[zq53].
+26608:0::0:0:Garrison~[114758], garrison, with 20~soldiers guards Forest~[kh08].
+20615:0::0:0:Garrison~[114949], garrison, with ten~soldiers guards Forest~[gh15].
+47329:0::0:0:Garrison~[115221], garrison, with 11~soldiers guards Forest~[xr29].
+42012:0::0:0:Garrison~[116219], garrison, with ten~soldiers guards Forest~[va12].
+40752:0::0:0:Garrison~[116766], garrison, with ten~soldiers guards Forest~[tj52].
+40092:0::0:0:Garrison~[117356], garrison, with ten~soldiers guards Forest~[ta92].
+48590:0::0:0:Garrison~[117931], garrison, with ten~soldiers guards Forest~[zg90].
+20931:0::0:0:Garrison~[118104], garrison, with ten~soldiers guards Forest~[gm31].
+40127:0::0:0:Garrison~[118320], garrison, with ten~soldiers guards Forest~[tb27].
+37437:0::0:0:Garrison~[120420], garrison, with ten~soldiers guards Forest~[rs37].
+29489:0::0:0:Garrison~[120544], garrison, with ten~soldiers guards Forest~[ms89].
+26021:0::0:0:Garrison~[121256], garrison, with ten~soldiers guards Forest~[ka21].
+30845:0::0:0:Garrison~[122140], garrison, with ten~soldiers guards Forest~[nk45].
+26543:0::0:0:Garrison~[123765], garrison, with ten~soldiers guards Forest~[kg43].
+42358:0::0:0:Garrison~[124074], garrison, with ten~soldiers guards Forest~[vd58].
+22872:0::0:0:Garrison~[124082], garrison, with ten~soldiers guards Forest~[hk72].
+38513:0::0:0:Garrison~[124343], garrison, with ten~soldiers guards Forest~[sg13].
+40080:0::0:0:Garrison~[124816], garrison, with ten~soldiers guards Forest~[ta80].
+30538:0::0:0:Garrison~[124852], garrison, with ten~soldiers guards Forest~[ng38].
+30059:0::0:0:Garrison~[125167], garrison, with ten~soldiers guards Forest~[na59].
+48402:0::0:0:Garrison~[126137], garrison, with ten~soldiers guards Forest~[zf02].
+33890:0::0:0:Garrison~[126996], garrison, with ten~soldiers guards Forest~[px90].
+47041:0::0:0:Garrison~[127361], garrison, with ten~soldiers guards Forest~[xn41].
+33615:0::0:0:Garrison~[127625], garrison, with ten~soldiers guards Forest~[pv15].
+21866:0::0:0:Garrison~[127681], garrison, with ten~soldiers guards Forest~[gx66].
+25653:0::0:0:Garrison~[127817], garrison, with 15~soldiers guards Forest~[jv53].
+26186:0::0:0:Garrison~[128136], garrison, with ten~soldiers guards Forest~[kb86].
+24058:0::0:0:Garrison~[128437], garrison, with ten~soldiers guards Forest~[ja58].
+45403:0::0:0:Garrison~[128656], garrison, with 20~soldiers guards Forest~[ws03].
+46333:0::0:0:Garrison~[129145], garrison, with ten~soldiers guards Forest~[xd33].
+22222:0::0:0:Garrison~[129295], garrison, with ten~soldiers guards Forest~[hc22].
+30066:0::0:0:Garrison~[129329], garrison, with ten~soldiers guards Forest~[na66].
+30642:0::0:0:Garrison~[129587], garrison, with 18~soldiers guards Forest~[nh42].
+32719:0::0:0:Garrison~[129944], garrison, with ten~soldiers guards Forest~[pj19].
+33542:0::0:0:Garrison~[130075], garrison, with ten~soldiers guards Forest~[pt42].
+22416:0::0:0:Garrison~[130222], garrison, with 20~soldiers guards Forest~[hf16].
+38970:0::0:0:Garrison~[130604], garrison, with ten~soldiers guards Forest~[sm70].
+38347:0::0:0:Garrison~[131145], garrison, with ten~soldiers guards Forest~[sd47].
+37774:0::0:0:Garrison~[132401], garrison, with ten~soldiers guards Forest~[rw74].
+27789:0::0:0:Garrison~[132591], garrison, with ten~soldiers guards Forest~[kw89].
+49533:0::0:0:Garrison~[133389], garrison, with ten~soldiers guards Forest~[zt33].
+33652:0::0:0:Garrison~[133516], garrison, with ten~soldiers guards Forest~[pv52].
+41738:0::0:0:Garrison~[133792], garrison, with ten~soldiers guards Forest~[tw38].
+44659:0::0:0:Garrison~[134552], garrison, with ten~soldiers guards Forest~[wh59].
+38974:0::0:0:Garrison~[135197], garrison, with ten~soldiers guards Forest~[sm74].
+28589:0::0:0:Garrison~[135523], garrison, with 14~soldiers guards Forest~[mg89].
+36198:0::0:0:Garrison~[135569], garrison, with ten~soldiers guards Forest~[rb98].
+29926:0::0:0:Garrison~[135687], garrison, with ten~soldiers guards Forest~[mz26].
+31284:0::0:0:Garrison~[135956], garrison, with ten~soldiers guards Forest~[nq84].
+38091:0::0:0:Garrison~[136669], garrison, with ten~soldiers guards Forest~[sa91].
+40673:0::0:0:Garrison~[136762], garrison, with ten~soldiers guards Forest~[th73].
+42690:0::0:0:Garrison~[138132], garrison, with 20~soldiers guards Forest~[vh90].
+34063:0::0:0:Garrison~[138307], garrison, with ten~soldiers guards Forest~[qa63].
+31970:0::0:0:Garrison~[138310], garrison, with 20~soldiers guards Forest~[nz70].
+23175:0::0:0:Garrison~[138490], garrison, with ten~soldiers guards Forest~[hp75].
+44445:0::0:0:Garrison~[139323], garrison, with ten~soldiers guards Forest~[wf45].
+31568:0::0:0:Garrison~[139395], garrison, with ten~soldiers guards Forest~[nt68].
+44242:0::0:0:Garrison~[139559], garrison, with ten~soldiers guards Forest~[wc42].
+32366:0::0:0:Garrison~[140421], garrison, with ten~soldiers guards Forest~[pd66].
+25234:0::0:0:Garrison~[140524], garrison, with ten~soldiers guards Forest~[jq34].
+21071:0::0:0:Garrison~[140590], garrison, with ten~soldiers guards Forest~[gn71].
+44994:0::0:0:Garrison~[141698], garrison, with ten~soldiers guards Forest~[wm94].
+28505:0::0:0:Garrison~[141858], garrison, with 12~soldiers, four~peasants, 15~workers guards Forest~[mg05].
+45422:0::0:0:Garrison~[141859], garrison, with ten~soldiers guards Forest~[ws22].
+38850:0::0:0:Garrison~[142055], garrison, with 20~soldiers guards Forest~[sk50].
+21413:0::0:0:Garrison~[142106], garrison, with 17~soldiers guards Forest~[gs13].
+25555:0::0:0:Garrison~[142453], garrison, with ten~soldiers guards Forest~[jt55].
+17611:0::0:0:Garrison~[142612], garrison, wielding Lifetaker~[121297], with 20~soldiers, ten~blessed soldiers, 33~warmounts, 19~pikemen, six~peasants, five~riding horses, ten~workers, 19~elite guard, 23~swordsmen, eight~archers, 19~elite archers, 17~wild horses guards Horselands~[dv11].
+45146:0::0:0:Garrison~[142636], garrison, with ten~soldiers guards Forest~[wp46].
+29543:0::0:0:Garrison~[144428], garrison, with ten~soldiers guards Forest~[mt43].
+38889:0::0:0:Garrison~[144540], garrison, with ten~soldiers guards Forest~[sk89].
+29031:0::0:0:Garrison~[144548], garrison, with ten~soldiers guards Forest~[mn31].
+32026:0::0:0:Garrison~[144557], garrison, with ten~soldiers guards Forest~[pa26].
+38603:0::0:0:Garrison~[144729], garrison, with ten~soldiers guards Forest~[sh03].
+35539:0::0:0:Garrison~[144733], garrison, with ten~soldiers guards Forest~[qt39].
+27083:0::0:0:Garrison~[144893], garrison, with ten~soldiers, six~peasants guards Forest~[kn83].
+33924:0::0:0:Garrison~[144931], garrison, with ten~soldiers guards Forest~[pz24].
+24623:0::0:0:Garrison~[145394], garrison, with ten~soldiers guards Forest~[jh23].
+44850:0::0:0:Garrison~[145432], garrison, with ten~soldiers guards Forest~[wk50].
+45460:0::0:0:Garrison~[145535], garrison, with ten~soldiers guards Forest~[ws60].
+25835:0::0:0:Garrison~[145757], garrison, with ten~soldiers guards Forest~[jx35].
+29917:0::0:0:Garrison~[146119], garrison, with ten~soldiers guards Forest~[mz17].
+33842:0::0:0:Garrison~[147009], garrison, with 12~soldiers guards Forest~[px42].
+36162:0::0:0:Garrison~[147398], garrison, with ten~soldiers guards Forest~[rb62].
+25440:0::0:0:Garrison~[147896], garrison, with ten~soldiers guards Forest~[js40].
+35618:0::0:0:Garrison~[147956], garrison, with ten~soldiers guards Forest~[qv18].
+21795:0::0:0:Garrison~[148111], garrison, with ten~soldiers guards Forest~[gw95].
+30018:0::0:0:Garrison~[148474], garrison, with ten~soldiers guards Forest~[na18].
+23300:0::0:0:Garrison~[148478], garrison, with ten~soldiers guards Forest~[hr00].
+44014:0::0:0:Garrison~[149259], garrison, with ten~soldiers guards Forest~[wa14].
+34909:0::0:0:Garrison~[149462], garrison, with ten~soldiers guards Forest~[qm09].
+36751:0::0:1:Faery~[84704], faerie, number:~18, went south.
+28855:0::0:1:Elf~[108565], elves, number:~12, went north.
+17611:0::0:1:Taliesyn Trollslayer~[4307], 6th black circle, entered Ironplow~[f44].
+57204:0::0:1:Taliesyn Trollslayer~[4307], 6th black circle, arrived from Horselands~[dv11].
+59011:0::0:1:Received 1~gold from Garrison~[6418].
+113600:0::0:1:Received 1~gold from Garrison~[6418].
+59011:0::0:2:Received 1~gold from Garrison~[6418].
+113600:0::0:2:Received 1~gold from Garrison~[6418].
+59011:0::0:3:Received 1~gold from Garrison~[6418].
+113600:0::0:3:Received 1~gold from Garrison~[6418].
+59011:0::0:4:Received 1~gold from Garrison~[6418].
+113600:0::0:4:Received 1~gold from Garrison~[6418].
+17611:0::0:4:It has begun to rain.
+59011:0::0:5:Received 1~gold from Garrison~[6418].
+113600:0::0:5:Received 1~gold from Garrison~[6418].
+59011:0::0:6:Received 1~gold from Garrison~[6418].
+113600:0::0:6:Received 1~gold from Garrison~[6418].
+59011:0::0:7:Received 1~gold from Garrison~[6418].
+113600:0::0:7:Received 1~gold from Garrison~[6418].
+59011:0::0:8:Received 1~gold from Garrison~[6418].
+113600:0::0:8:Received 1~gold from Garrison~[6418].
+20615:0::0:9:Elf~[85689], elves, number:~11, arrived from the north.
+59011:0::0:9:Received 1~gold from Garrison~[6418].
+113600:0::0:9:Received 1~gold from Garrison~[6418].
+25150:0::0:10:Elf~[86506], elves, number:~25, with ten~winged horses, arrived from the south.
+59011:0::0:10:Received 1~gold from Garrison~[6418].
+113600:0::0:10:Received 1~gold from Garrison~[6418].
+59011:0::0:11:Received 1~gold from Garrison~[6418].
+113600:0::0:11:Received 1~gold from Garrison~[6418].
+59011:0::0:12:Received 1~gold from Garrison~[6418].
+113600:0::0:12:Received 1~gold from Garrison~[6418].
+59011:0::0:13:Received 1~gold from Garrison~[6418].
+113600:0::0:13:Received 1~gold from Garrison~[6418].
+59011:0::0:14:Received 1~gold from Garrison~[6418].
+113600:0::0:14:Received 1~gold from Garrison~[6418].
+59011:0::0:15:Received 1~gold from Garrison~[6418].
+113600:0::0:15:Received 1~gold from Garrison~[6418].
+59011:0::0:16:Received 1~gold from Garrison~[6418].
+113600:0::0:16:Received 1~gold from Garrison~[6418].
+59011:0::0:17:Received 1~gold from Garrison~[6418].
+113600:0::0:17:Received 1~gold from Garrison~[6418].
+59011:0::0:18:Received 1~gold from Garrison~[6418].
+113600:0::0:18:Received 1~gold from Garrison~[6418].
+59011:0::0:19:Received 1~gold from Garrison~[6418].
+113600:0::0:19:Received 1~gold from Garrison~[6418].
+59011:0::0:20:Received 1~gold from Garrison~[6418].
+113600:0::0:20:Received 1~gold from Garrison~[6418].
+59011:0::0:21:Received 1~gold from Garrison~[6418].
+113600:0::0:21:Received 1~gold from Garrison~[6418].
+59011:0::0:22:Received 1~gold from Garrison~[6418].
+113600:0::0:22:Received 1~gold from Garrison~[6418].
+59011:0::0:23:Received 1~gold from Garrison~[6418].
+113600:0::0:23:Received 1~gold from Garrison~[6418].
+59011:0::0:24:Received 1~gold from Garrison~[6418].
+113600:0::0:24:Received 1~gold from Garrison~[6418].
+59011:0::0:25:Received 1~gold from Garrison~[6418].
+113600:0::0:25:Received 1~gold from Garrison~[6418].
+59011:0::0:26:Received 1~gold from Garrison~[6418].
+113600:0::0:26:Received 1~gold from Garrison~[6418].
+59011:0::0:27:Received 1~gold from Garrison~[6418].
+113600:0::0:27:Received 1~gold from Garrison~[6418].
+59011:0::0:28:Received 1~gold from Garrison~[6418].
+113600:0::0:28:Received 1~gold from Garrison~[6418].
+59011:0::0:29:Received 1~gold from Garrison~[6418].
+113600:0::0:29:Received 1~gold from Garrison~[6418].
+59011:0::0:30:Received 1~gold from Garrison~[6418].
+113600:0::0:30:Received 1~gold from Garrison~[6418].
+6:0:1204:0:30:Paid maintenance of 40~gold.
+6:0:1579:0:30:Paid maintenance of 20~gold.
+6:0:1596:0:30:Paid maintenance of 20~gold.
+6:0:1650:0:30:Paid maintenance of 20~gold.
+6:0:2281:0:30:Paid maintenance of 20~gold.
+6:0:2625:0:30:Paid maintenance of 20~gold.
+6:0:2837:0:30:Paid maintenance of 20~gold.
+6:0:2900:0:30:Paid maintenance of 20~gold.
+6:0:2933:0:30:Paid maintenance of 40~gold.
+6:0:3183:0:30:Paid maintenance of 20~gold.
+6:0:3734:0:30:Paid maintenance of 20~gold.
+6:0:3808:0:30:Paid maintenance of 20~gold.
+6:0:4008:0:30:Paid maintenance of 20~gold.
+6:0:4172:0:30:Paid maintenance of 170~gold.
+6:0:4222:0:30:Paid maintenance of 20~gold.
+6:0:4714:0:30:Paid maintenance of 20~gold.
+6:0:4911:0:30:Paid maintenance of 20~gold.
+6:0:5298:0:30:Paid maintenance of 20~gold.
+6:0:5539:0:30:Paid maintenance of 20~gold.
+6:0:5675:0:30:Paid maintenance of 20~gold.
+6:0:5812:0:30:Paid maintenance of 20~gold.
+6:0:5855:0:30:Paid maintenance of 20~gold.
+6:0:6246:0:30:Paid maintenance of 20~gold.
+6:0:6498:0:30:Paid maintenance of 20~gold.
+6:0:6753:0:30:Paid maintenance of 53~gold.
+6:0:6773:0:30:Paid maintenance of 20~gold.
+6:0:6832:0:30:Paid maintenance of 20~gold.
+6:0:6949:0:30:Paid maintenance of 20~gold.
+6:0:6965:0:30:Paid maintenance of 20~gold.
+6:0:7055:0:30:Paid maintenance of 20~gold.
+6:0:7241:0:30:Paid maintenance of 20~gold.
+6:0:7324:0:30:Paid maintenance of 20~gold.
+6:0:7584:0:30:Paid maintenance of 20~gold.
+6:0:7815:0:30:Paid maintenance of 20~gold.
+6:0:7912:0:30:Paid maintenance of 20~gold.
+6:0:8215:0:30:Paid maintenance of 40~gold.
+6:0:9128:0:30:Paid maintenance of 20~gold.
+6:0:9268:0:30:Paid maintenance of 20~gold.
+6:0:9466:0:30:Paid maintenance of 20~gold.
+6:0:9487:0:30:Paid maintenance of 20~gold.
+6:0:9868:0:30:Paid maintenance of 34~gold.
+6:0:9908:0:30:Paid maintenance of 20~gold.
+6:0:9990:0:30:Paid maintenance of 20~gold.
+6:0:a813:0:30:Paid maintenance of 20~gold.
+6:0:b188:0:30:Paid maintenance of 20~gold.
+6:0:b236:0:30:Paid maintenance of 20~gold.
+6:0:b626:0:30:Paid maintenance of 20~gold.
+6:0:c627:0:30:Paid maintenance of 20~gold.
+6:0:d506:0:30:Paid maintenance of 20~gold.
+6:0:d618:0:30:Paid maintenance of 36~gold.
+6:0:f388:0:30:Paid maintenance of 20~gold.
+6:0:f471:0:30:Paid maintenance of 34~gold.
+6:0:g139:0:30:Paid maintenance of 20~gold.
+6:0:g203:0:30:Paid maintenance of 20~gold.
+6:0:g344:0:30:Paid maintenance of 20~gold.
+6:0:g374:0:30:Paid maintenance of 20~gold.
+6:0:g396:0:30:Paid maintenance of 20~gold.
+6:0:g558:0:30:Paid maintenance of 20~gold.
+6:0:j170:0:30:Paid maintenance of 20~gold.
+6:0:j767:0:30:Paid maintenance of 20~gold.
+6:0:j787:0:30:Paid maintenance of 20~gold.
+6:0:k035:0:30:Paid maintenance of 20~gold.
+6:0:k195:0:30:Paid maintenance of 20~gold.
+6:0:m851:0:30:Paid maintenance of 20~gold.
+6:0:n267:0:30:Paid maintenance of 20~gold.
+6:0:n856:0:30:Paid maintenance of 20~gold.
+6:0:n896:0:30:Paid maintenance of 20~gold.
+6:0:p136:0:30:Paid maintenance of 20~gold.
+6:0:p164:0:30:Paid maintenance of 20~gold.
+6:0:p541:0:30:Paid maintenance of 20~gold.
+6:0:p748:0:30:Paid maintenance of 20~gold.
+6:0:q867:0:30:Paid maintenance of 20~gold.
+6:0:r652:0:30:Paid maintenance of 20~gold.
+6:0:s226:0:30:Paid maintenance of 20~gold.
+6:0:s987:0:30:Paid maintenance of 20~gold.
+6:0:t290:0:30:Paid maintenance of 20~gold.
+6:0:t302:0:30:Paid maintenance of 20~gold.
+6:0:t303:0:30:Paid maintenance of 20~gold.
+6:0:v253:0:30:Paid maintenance of 20~gold.
+6:0:v254:0:30:Paid maintenance of 20~gold.
+6:0:v639:0:30:Paid maintenance of 20~gold.
+6:0:v916:0:30:Paid maintenance of 20~gold.
+6:0:w550:0:30:Paid maintenance of 20~gold.
+6:0:x581:0:30:Paid maintenance of 20~gold.
+6:0:79125:0:30:Paid maintenance of 20~gold.
+6:0:79724:0:30:Paid maintenance of 20~gold.
+6:0:79892:0:30:Paid maintenance of 20~gold.
+6:0:80125:0:30:Paid maintenance of 20~gold.
+6:0:80221:0:30:Paid maintenance of 20~gold.
+6:0:80434:0:30:Paid maintenance of 20~gold.
+6:0:80746:0:30:Paid maintenance of 20~gold.
+6:0:81308:0:30:Paid maintenance of 20~gold.
+6:0:82284:0:30:Paid maintenance of 20~gold.
+6:0:82909:0:30:Paid maintenance of 20~gold.
+6:0:83277:0:30:Paid maintenance of 20~gold.
+6:0:83921:0:30:Paid maintenance of 20~gold.
+6:0:84240:0:30:Paid maintenance of 20~gold.
+6:0:84300:0:30:Paid maintenance of 20~gold.
+6:0:84868:0:30:Paid maintenance of 20~gold.
+6:0:86085:0:30:Paid maintenance of 20~gold.
+6:0:86330:0:30:Paid maintenance of 20~gold.
+6:0:86975:0:30:Paid maintenance of 20~gold.
+6:0:87234:0:30:Paid maintenance of 24~gold.
+6:0:87365:0:30:Paid maintenance of 20~gold.
+6:0:87942:0:30:Paid maintenance of 20~gold.
+6:0:88718:0:30:Paid maintenance of 20~gold.
+6:0:89155:0:30:Paid maintenance of 20~gold.
+6:0:89456:0:30:Paid maintenance of 20~gold.
+6:0:89877:0:30:Paid maintenance of 20~gold.
+6:0:89905:0:30:Paid maintenance of 20~gold.
+6:0:89910:0:30:Paid maintenance of 20~gold.
+6:0:90250:0:30:Paid maintenance of 20~gold.
+6:0:90363:0:30:Paid maintenance of 50~gold.
+6:0:90661:0:30:Paid maintenance of 20~gold.
+6:0:90699:0:30:Paid maintenance of 20~gold.
+6:0:91533:0:30:Paid maintenance of 20~gold.
+6:0:92382:0:30:Paid maintenance of 20~gold.
+6:0:92458:0:30:Paid maintenance of 20~gold.
+6:0:92551:0:30:Paid maintenance of 20~gold.
+6:0:93145:0:30:Paid maintenance of 20~gold.
+6:0:93965:0:30:Paid maintenance of 20~gold.
+6:0:94438:0:30:Paid maintenance of 20~gold.
+6:0:95115:0:30:Paid maintenance of 20~gold.
+6:0:95566:0:30:Paid maintenance of 20~gold.
+6:0:96306:0:30:Paid maintenance of 20~gold.
+6:0:96410:0:30:Paid maintenance of 49~gold.
+6:0:96693:0:30:Paid maintenance of 40~gold.
+6:0:96707:0:30:Paid maintenance of 20~gold.
+6:0:97528:0:30:Paid maintenance of 20~gold.
+6:0:97767:0:30:Paid maintenance of 20~gold.
+6:0:99782:0:30:Paid maintenance of 70~gold.
+6:0:100244:0:30:Paid maintenance of 40~gold.
+6:0:100588:0:30:Paid maintenance of 20~gold.
+6:0:101045:0:30:Paid maintenance of 20~gold.
+6:0:101983:0:30:Paid maintenance of 46~gold.
+6:0:103348:0:30:Paid maintenance of 20~gold.
+6:0:103372:0:30:Paid maintenance of 20~gold.
+6:0:103478:0:30:Paid maintenance of 20~gold.
+6:0:103627:0:30:Paid maintenance of 20~gold.
+6:0:103748:0:30:Paid maintenance of 20~gold.
+6:0:104697:0:30:Paid maintenance of 40~gold.
+6:0:104764:0:30:Paid maintenance of 20~gold.
+6:0:105079:0:30:Paid maintenance of 20~gold.
+6:0:105360:0:30:Paid maintenance of 50~gold.
+6:0:106242:0:30:Paid maintenance of 20~gold.
+6:0:106555:0:30:Paid maintenance of 20~gold.
+6:0:107070:0:30:Paid maintenance of 32~gold.
+6:0:107148:0:30:Paid maintenance of 20~gold.
+6:0:107170:0:30:Paid maintenance of 20~gold.
+6:0:107523:0:30:Paid maintenance of 20~gold.
+6:0:107625:0:30:Paid maintenance of 20~gold.
+6:0:107879:0:30:Paid maintenance of 24~gold.
+6:0:108234:0:30:Paid maintenance of 20~gold.
+6:0:109716:0:30:Paid maintenance of 28~gold.
+6:0:110389:0:30:Paid maintenance of 20~gold.
+6:0:110433:0:30:Paid maintenance of 20~gold.
+6:0:110659:0:30:Paid maintenance of 20~gold.
+6:0:111768:0:30:Paid maintenance of 20~gold.
+6:0:112504:0:30:Paid maintenance of 20~gold.
+6:0:112518:0:30:Paid maintenance of 20~gold.
+6:0:112757:0:30:Paid maintenance of 20~gold.
+6:0:113526:0:30:Paid maintenance of 20~gold.
+6:0:113548:0:30:Paid maintenance of 20~gold.
+6:0:113560:0:30:Paid maintenance of 20~gold.
+6:0:113725:0:30:Paid maintenance of 20~gold.
+6:0:113853:0:30:Paid maintenance of 20~gold.
+6:0:114103:0:30:Paid maintenance of 20~gold.
+6:0:114230:0:30:Paid maintenance of 20~gold.
+6:0:114758:0:30:Paid maintenance of 40~gold.
+6:0:114949:0:30:Paid maintenance of 20~gold.
+6:0:115221:0:30:Paid maintenance of 22~gold.
+6:0:116219:0:30:Paid maintenance of 20~gold.
+6:0:116766:0:30:Paid maintenance of 20~gold.
+6:0:117356:0:30:Paid maintenance of 20~gold.
+6:0:117931:0:30:Paid maintenance of 20~gold.
+6:0:118104:0:30:Paid maintenance of 20~gold.
+6:0:118320:0:30:Paid maintenance of 20~gold.
+6:0:120420:0:30:Paid maintenance of 20~gold.
+6:0:120544:0:30:Paid maintenance of 20~gold.
+6:0:121256:0:30:Paid maintenance of 20~gold.
+6:0:122140:0:30:Paid maintenance of 20~gold.
+6:0:123765:0:30:Paid maintenance of 20~gold.
+6:0:124074:0:30:Paid maintenance of 20~gold.
+6:0:124082:0:30:Paid maintenance of 20~gold.
+6:0:124343:0:30:Paid maintenance of 20~gold.
+6:0:124816:0:30:Paid maintenance of 20~gold.
+6:0:124852:0:30:Paid maintenance of 20~gold.
+6:0:125167:0:30:Paid maintenance of 20~gold.
+6:0:126137:0:30:Paid maintenance of 20~gold.
+6:0:126996:0:30:Paid maintenance of 20~gold.
+6:0:127361:0:30:Paid maintenance of 20~gold.
+6:0:127625:0:30:Paid maintenance of 20~gold.
+6:0:127681:0:30:Paid maintenance of 20~gold.
+6:0:127817:0:30:Paid maintenance of 30~gold.
+6:0:128136:0:30:Paid maintenance of 20~gold.
+6:0:128437:0:30:Paid maintenance of 20~gold.
+6:0:128656:0:30:Paid maintenance of 40~gold.
+6:0:129145:0:30:Paid maintenance of 20~gold.
+6:0:129295:0:30:Paid maintenance of 20~gold.
+6:0:129329:0:30:Paid maintenance of 20~gold.
+6:0:129587:0:30:Paid maintenance of 36~gold.
+6:0:129944:0:30:Paid maintenance of 20~gold.
+6:0:130075:0:30:Paid maintenance of 20~gold.
+6:0:130222:0:30:Paid maintenance of 40~gold.
+6:0:130604:0:30:Paid maintenance of 20~gold.
+6:0:131145:0:30:Paid maintenance of 20~gold.
+6:0:132401:0:30:Paid maintenance of 20~gold.
+6:0:132591:0:30:Paid maintenance of 20~gold.
+6:0:133389:0:30:Paid maintenance of 20~gold.
+6:0:133516:0:30:Paid maintenance of 20~gold.
+6:0:133792:0:30:Paid maintenance of 20~gold.
+6:0:134552:0:30:Paid maintenance of 20~gold.
+6:0:135197:0:30:Paid maintenance of 20~gold.
+6:0:135523:0:30:Paid maintenance of 28~gold.
+6:0:135569:0:30:Paid maintenance of 20~gold.
+6:0:135687:0:30:Paid maintenance of 20~gold.
+6:0:135956:0:30:Paid maintenance of 20~gold.
+6:0:136669:0:30:Paid maintenance of 20~gold.
+6:0:136762:0:30:Paid maintenance of 20~gold.
+6:0:138132:0:30:Paid maintenance of 40~gold.
+6:0:138307:0:30:Paid maintenance of 20~gold.
+6:0:138310:0:30:Paid maintenance of 40~gold.
+6:0:138490:0:30:Paid maintenance of 20~gold.
+6:0:139323:0:30:Paid maintenance of 20~gold.
+6:0:139395:0:30:Paid maintenance of 20~gold.
+6:0:139559:0:30:Paid maintenance of 20~gold.
+6:0:140421:0:30:Paid maintenance of 20~gold.
+6:0:140524:0:30:Paid maintenance of 20~gold.
+6:0:140590:0:30:Paid maintenance of 20~gold.
+6:0:141698:0:30:Paid maintenance of 20~gold.
+6:0:141858:0:30:Paid maintenance of 58~gold.
+6:0:141859:0:30:Paid maintenance of 20~gold.
+6:0:142055:0:30:Paid maintenance of 40~gold.
+6:0:142106:0:30:Paid maintenance of 34~gold.
+6:0:142453:0:30:Paid maintenance of 20~gold.
+6:0:142636:0:30:Paid maintenance of 20~gold.
+6:0:144428:0:30:Paid maintenance of 20~gold.
+6:0:144540:0:30:Paid maintenance of 20~gold.
+6:0:144548:0:30:Paid maintenance of 20~gold.
+6:0:144557:0:30:Paid maintenance of 20~gold.
+6:0:144729:0:30:Paid maintenance of 20~gold.
+6:0:144733:0:30:Paid maintenance of 20~gold.
+6:0:144893:0:30:Paid maintenance of 26~gold.
+6:0:144931:0:30:Paid maintenance of 20~gold.
+6:0:145394:0:30:Paid maintenance of 20~gold.
+6:0:145432:0:30:Paid maintenance of 20~gold.
+6:0:145535:0:30:Paid maintenance of 20~gold.
+6:0:145757:0:30:Paid maintenance of 20~gold.
+6:0:146119:0:30:Paid maintenance of 20~gold.
+6:0:147009:0:30:Paid maintenance of 24~gold.
+6:0:147398:0:30:Paid maintenance of 20~gold.
+6:0:147896:0:30:Paid maintenance of 20~gold.
+6:0:147956:0:30:Paid maintenance of 20~gold.
+6:0:148111:0:30:Paid maintenance of 20~gold.
+6:0:148474:0:30:Paid maintenance of 20~gold.
+6:0:148478:0:30:Paid maintenance of 20~gold.
+6:0:149259:0:30:Paid maintenance of 20~gold.
+6:0:149462:0:30:Paid maintenance of 20~gold.
+71724:0::0:30:Collected 1,683~gold from owned provinces.
+71724:0::0:30:Collected 140~gold in taxes.
+68470:0::0:30:Shrine of the Sungod~[t780] collected offerings of 100~gold.
+68470:0::0:30:Paid maintenance of 114~gold.
+71168:0::0:30:Paid maintenance of 16~gold.
+71724:0::0:30:Paid maintenance of 1,017~gold.
+113600:0::0:30:Paid maintenance of 9~gold.
+71168:0::0:30:Three warmounts died.
+71168:0::0:30:One centaur died.
+113600:0::0:30:One winged horse died.
+17611:0::0::
+17611:0::0::Province controlled by Guardian Keep~[w639], castle, in Horselands~[dv11]
+17611:0::0::Ruled by Ashnak the Free~[92453], duke
+17611:0::0::
+17611:0::0::Routes leaving Horselands: 
+17611:0::3::North, forest, to Eternal Forest East~[dt11], 8~days
+17611:0::3::East, desert, to Zephyr Wasteland~[dv12], 8~days
+17611:0::3::South, plain, to Borderland Moors~[dw11], 7~days
+17611:0::3::West, forest, to Dunwood Deep~[dv10], 8~days
+17611:0::0::
+17611:0::0::Inner locations:
+17611:0::3::Ironplow~[f44], city, 1 day
+17611:0::0::
+17611:0::0::It is raining.
+17611:0::0::
+17611:0::0::Seen here:
+17611:0::0/3::   Garrison~[142612], garrison, wielding Lifetaker~[121297], on guard, with 20~soldiers, ten~blessed soldiers, 33~warmounts, 19~pikemen, six~peasants, five~riding horses, ten~workers, 19~elite guard, 23~swordsmen, eight~archers, 19~elite archers, 17~wild horses
+17611:0::0/3:: * Fafnir~[m100]
+30912:0::0::
+30912:0::0::Province controlled by Sylvan Spires~[93004], castle, in Forest~[nm12]
+30912:0::0::Ruled by Draco~[q724], duke
+30912:0::0::
+30912:0::0::Routes leaving Forest: 
+30912:0::3::North, to Forest~[vf21], 8~days
+30912:0::3::East, to Forest~[mg05], 8~days
+30912:0::3::South, to Forest~[pv80], 8~days
+30912:0::3::West, to Forest~[sq36], 8~days
+30912:0::0::
+30912:0::0::Inner locations:
+30912:0::3::Faery city~[w96], city, 1 day
+30912:0::0::
+30912:0::0::Seen here:
+30912:0::0/3::   Garrison~[4172], garrison, on guard, with ten~peasants, 80~workers, two~hounds
+32428:0::0::
+32428:0::0::Routes leaving Forest: 
+32428:0::3::North, to Forest~[tq27], 8~days
+32428:0::3::East, to Forest~[hm58], 8~days
+32428:0::3::South, to Forest~[hh12], 8~days
+32428:0::3::West, to Forest~[vj27], 8~days
+57204:0::0::
+57204:0::0::Routes leaving Ironplow: 
+57204:0::3::Out, plain, to Horselands~[dv11], 1~day
+57204:0::0::
+57204:0::0::Cities rumored to be nearby:
+57204:0::3::Nassic~[h10], in The Black Forest~[dx08]
+57204:0::3::Haven~[j20], in Sidhe Forest~[ds09]
+57204:0::3::Ankh~[w05], in The Ramtop Mountains~[dw07]
+57204:0::3::Gandar~[w87], in Whitesands~[dr07]
+57204:0::3::Arkaune~[z70], in Dragonmage Woods~[dt07]
+57204:0::0::
+57204:0::0::Skills taught here:
+57204:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Construction~[680], Trade~[730], Magic~[800], Artifact construction~[880]
+57204:0::0::
+57204:0::0::Market report:
+57204:0::3::
+57204:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57204:0::3::-----    ---   -----    ---     -----   ----                     
+57204:0::3::  buy    f44       4     15         1   woven baskets~[94]       
+57204:0::3:: sell   a011       7     10         5   clay pots~[95]           
+57204:0::3:: sell    f44      35     48        50   licorice~[p270]          
+57204:0::3:: sell    f44      24     26        55   cinnabar~[n518]          
+57204:0::3:: sell    f44      10     44       100   cassava~[93020]          
+57204:0::3:: sell    f44     125      3     1,000   riding horses~[52]       
+57204:0::3:: sell    f44     100      5     2,000   oxen~[76]                
+57204:0::0::
+57204:0::0::Inner locations:
+57204:0::3::Carnak's Spire~[a948], tower, defense~40
+57204:0::3::Shrine of the Sungod~[t780], temple, defense~10, owner:
+57204:0::0/6:: *    Nimanaur~[m470], priest, with 57~soldiers, three~winged horses
+57204:0::3::Guardian Keep~[w639], castle, defense~80, level~6, owner:
+57204:0::0/6::      Ashnak the Free~[92453], orc, duke, with one~centaur, 57~lions, 44~giant lizards
+57204:0::3::Flagon of the Dragon~[3490], inn, defense~10, 86%~damaged
+57204:0::0::
+57204:0::0::It is raining.
+57204:0::0::
+57204:0::0::Seen here:
+57204:0::0/3::   Garrison~[6418], garrison, on guard, with 140~pikemen, accompanied~by:
+57204:0::0/6:: *    Bairanax~[a011], with 42~hounds
+57204:0::0/6:: *    Bahamut~[113600], mage, with three~blessed soldiers, three~winged horses
+57204:0::0/3:: * Tiamat~[q168], with eight~workers, four~riding horses, 47~warmounts, 26~winged horses, 52~centaurs
+57204:0::0/3::   Taliesyn Trollslayer~[4307], 6th black circle
+58556:0::0::
+58556:0::0::Routes leaving Faery city: 
+58556:0::3::Out, to Forest~[nm12], 1~day
+58556:0::0::
+58556:0::0::Skills taught here:
+58556:0::3::Scrying~[840]
+58556:0::0::
+58556:0::0::Market report:
+58556:0::3::
+58556:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58556:0::3::-----    ---   -----    ---     -----   ----                     
+58556:0::3::  buy    w96   1,000      2         1   gate crystals~[83]       
+58556:0::3::  buy    w96     500     10         5   mithril~[82]             
+58556:0::3:: sell    w96   1,000      1     1,000   winged horse~[54]        
+58556:0::3:: sell    w96      50      3         1   lana bark~[64]           
+58556:0::3:: sell    w96     200      5        30   mallorn wood~[70]        
+58556:0::3:: sell    w96     600      1         1   Golden ring~[96911]      
+58556:0::0::
+58556:0::0::Inner locations:
+58556:0::3::Sylvan Spires~[93004], castle, defense~80, level~6, owner:
+58556:0::0/6:: *    Draco~[q724], duke, 5th black circle, with 171~pikemen, 152~crossbowmen, 50~elite archers, two~winged horses, two~hounds
+58556:0::3::Elvan Spire of Mysteries~[8785], tower, defense~40
+58556:0::3::Eldritch Light~[f812], temple, defense~10
+5:0::0::
+5:0::0::begin cr6 "Smaug"  # Wyvernesse
+5:0::0::
+5:0::0::unit cr6  # Wyvernesse
+5:0::0::
+5:0::0::unit a011  # Bairanax in Ironplow~[f44]
+5:0::0::
+5:0::0::unit 113600  # Bahamut in Ironplow~[f44]
+5:0::3::# > collect 277 0 0 (still~executing)
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 614
+5:0::0::
+5:0::0::unit q168  # Tiamat in Ironplow~[f44]
+5:0::0::
+5:0::0::unit m470  # Nimanaur in Shrine of the Sungod~[t780]
+5:0::0::
+5:0::0::unit m100  # Fafnir in Horselands~[dv11]
+5:0::0::
+5:0::0::unit m468  # Jabberwock in Forest~[pf28]
+5:0::3::#
+5:0::3::# m468 has loyalty fear-0 and will renounce
+5:0::3::# loyalty at the end of this turn.
+5:0::3::#
+5:0::0::
+5:0::0::unit q724  # Draco in Sylvan Spires~[93004]
+5:0::0::
+5:0::0::#
+5:0::0::# Orders for units you do not control as of now
+5:0::0::#
+5:0::0::unit z035
+5:0::3::fly e
+5:0::3::claim 1 50
+5:0::3::honor 50
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly e
+5:0::3::fly n
+5:0::3::fly n
+5:0::3::fly n
+5:0::3::use 615
+5:0::3::use 615
+5:0::0::
+5:0::0::end
+50696:0::0::
+50696:0::0::Unclaimed items:
+50696:0::0::
+50696:0::0::      qty  name                              weight
+50696:0::0::      ---  ----                              ------
+50696:0::0::    2,080  gold~[1]                               0  
+50696:0::0::       50  wood~[77]                          1,500  
+59011:0::3::
+59011:0::3/16::Location:       Ironplow~[f44], in province Horselands~[dv11], in Ossicus
+59011:0::3::Loyalty:        Fear-5
+59011:0::3/16::Stacked under:  Garrison~[6418]
+59011:0::3::Health:         100%
+59011:0::3::Combat:         attack 80, defense 80, missile 0
+59011:0::3::                behind 0  (front line in combat)
+59011:0::3::Break point:    50%
+59011:0::3::use  641 0      (not concealing self)
+59011:0::3::Receive Vision: 17 protection
+59011:0::3::
+59011:0::3::Skills known:
+59011:0::6::Shipcraft~[600]
+59011:0::12::Sailing~[601], apprentice
+59011:0::12::Shipbuilding~[602], apprentice
+59011:0::12::Fishing~[603], apprentice
+59011:0::6::Combat~[610]
+59011:0::12::Survive fatal wound~[611]
+59011:0::12::Fight to the death~[612]
+59011:0::12::Defense~[614], apprentice
+59011:0::12::Swordplay~[616], apprentice
+59011:0::12::Weaponsmithing~[617], apprentice
+59011:0::6::Stealth~[630]
+59011:0::12::Petty thievery~[631], grand master
+59011:0::12::Determine inventory of character~[632], apprentice
+59011:0::12::Determine skills of character~[633], apprentice
+59011:0::12::Determine character's lord~[634], apprentice
+59011:0::12::Conceal faction~[635], apprentice
+59011:0::12::Conceal self~[641], apprentice
+59011:0::6::Beastmastery~[650]
+59011:0::12::Bird spy~[651], apprentice
+59011:0::12::Capture beasts in battle~[652]
+59011:0::12::Use beasts in battle~[653]
+59011:0::12::Breed beasts~[654], grand master
+59011:0::12::Catch wild horses~[655], apprentice
+59011:0::12::Train wild horse to riding horse~[656], apprentice
+59011:0::12::Breed hound~[661], grand master
+59011:0::6::Alchemy~[690]
+59011:0::12::Extract venom from ratspider~[691], apprentice
+59011:0::12::Make potion of slavery~[692], apprentice
+59011:0::12::Brew healing potion~[693], apprentice
+59011:0::3::
+59011:0::3::Inventory:
+59011:0::3::{<b>}      qty  name                              weight{</b>}
+59011:0::3::      ---  ----                              ------
+59011:0::3::    3,355  gold~[1]                               0  
+59011:0::3::       15  wood~[77]                            450  
+59011:0::3::       58  blank scrolls~[84]                   116  
+59011:0::3::       88  woven baskets~[94]                    88  
+59011:0::3::       10  clay pots~[95]                        50  
+59011:0::3::       42  hounds~[295]                       2,730   (1,1,0)
+59011:0::3::        1  Scroll~[90890]                         1  
+59011:0::3::                                             ======
+59011:0::3::                                              3,435
+59011:0::3::
+59011:0::3/11::Capacity:  705/100 land (705%)
+59011:0::3::
+59011:0::3::Scroll~[90890] permits study of the following skills:
+59011:0::6/3::??? (requires Gatecraft)
+59011:0::3::
+59011:0::3::Pending trades:
+59011:0::3::
+59011:0::6::trade    price    qty   item
+59011:0::6::-----    -----    ---   ----
+59011:0::6:: sell        7     73   clay pot~[95]
+59011:0::3::
+68100:0::3::
+68100:0::3/16::Location:       Horselands~[dv11], in Ossicus
+68100:0::3::Loyalty:        Fear-67
+68100:0::3::Health:         100%
+68100:0::3::Combat:         attack 80, defense 107, missile 68
+68100:0::3::                behind 0  (front line in combat)
+68100:0::3::Break point:    50%
+68100:0::3::Receive Vision: 8 protection
+68100:0::3::
+68100:0::3::Skills known:
+68100:0::6::Combat~[610]
+68100:0::12::Survive fatal wound~[611]
+68100:0::12::Fight to the death~[612]
+68100:0::12::Defense~[614], adept
+68100:0::12::Archery~[615], apprentice
+68100:0::12::Weaponsmithing~[617], grand master
+68100:0::6::Forestry~[700]
+68100:0::12::Harvest lumber~[702], grand master
+68100:0::12::Harvest yew~[703], grand master
+68100:0::12::Collect rare foliage~[704], grand master
+68100:0::12::Harvest mallorn wood~[705], apprentice
+68100:0::3::
+68100:0::3::Inventory:
+68100:0::3::{<b>}      qty  name                              weight{</b>}
+68100:0::3::      ---  ----                              ------
+68100:0::3::        1  gold~[1]                               0  
+68100:0::3::       60  pikes~[75]                           300  
+68100:0::3::       14  crossbows~[85]                       140  
+68100:0::3::                                             ======
+68100:0::3::                                                440
+68100:0::3::
+68100:0::3/11::Capacity:  440/100 land (440%)
+68100:0::3::
+68100:0::3::Pending trades:
+68100:0::3::
+68100:0::6::trade    price    qty   item
+68100:0::6::-----    -----    ---   ----
+68100:0::6:: sell        4     71   woven basket~[94]
+68100:0::6:: sell        7    100   clay pot~[95]
+68100:0::3::
+68468:0::3::
+68468:0::3/16::Location:       Forest~[pf28], in Faery
+68468:0::3::Loyalty:        Fear-0
+68468:0::3::Health:         100%
+68468:0::3::Combat:         attack 119, defense 170, missile 203
+68468:0::3::                behind 0  (front line in combat)
+68468:0::3::Break point:    50%
+68468:0::3::use  641 1      (concealing self)
+68468:0::3::Receive Vision: 2 protection
+68468:0::3::
+68468:0::3::Skills known:
+68468:0::6::Combat~[610]
+68468:0::12::Survive fatal wound~[611]
+68468:0::12::Fight to the death~[612]
+68468:0::12::Construct catapult~[613], apprentice
+68468:0::12::Defense~[614], adept
+68468:0::12::Archery~[615], grand master
+68468:0::12::Swordplay~[616], apprentice
+68468:0::12::Weaponsmithing~[617], apprentice
+68468:0::6::Stealth~[630]
+68468:0::12::Petty thievery~[631], journeyman
+68468:0::12::Determine inventory of character~[632], apprentice
+68468:0::12::Determine skills of character~[633], apprentice
+68468:0::12::Determine character's lord~[634], apprentice
+68468:0::12::Conceal faction~[635], apprentice
+68468:0::12::Conceal self~[641], apprentice
+68468:0::3::
+68468:0::3::Inventory:
+68468:0::3::{<b>}      qty  name                              weight{</b>}
+68468:0::3::      ---  ----                              ------
+68468:0::3::       21  gold~[1]                               0  
+68468:0::3::        1  winged horse~[54]                  1,000  fly 150
+68468:0::3::        4  woven baskets~[94]                     4  
+68468:0::3::                                             ======
+68468:0::3::                                              1,004
+68468:0::3::
+68468:0::3/11::Capacity:  4/250 land (1%), 104/150 ride (69%), 104/150 fly (69%)
+68468:0::3::
+68468:0::3::Pending trades:
+68468:0::3::
+68468:0::6::trade    price    qty   item
+68468:0::6::-----    -----    ---   ----
+68468:0::6:: sell        4     13   woven basket~[94]
+68468:0::6::  buy      100      2   ox~[76]
+68468:0::3::
+68470:0::3::
+68470:0::3/16::Location:       Shrine of the Sungod~[t780], in Ironplow~[f44], in province Horselands~[dv11], in Ossicus
+68470:0::3::Loyalty:        Fear-17
+68470:0::3::Health:         100%
+68470:0::3::Combat:         attack 80, defense 163, missile 136
+68470:0::3::                behind 0  (front line in combat)
+68470:0::3::Break point:    50%
+68470:0::3::use  641 1      (concealing self, but not alone)
+68470:0::3::Receive Vision: 15 protection
+68470:0::3::
+68470:0::3::Skills known:
+68470:0::6::Combat~[610]
+68470:0::12::Survive fatal wound~[611]
+68470:0::12::Fight to the death~[612]
+68470:0::12::Defense~[614], master
+68470:0::12::Archery~[615], master
+68470:0::12::Swordplay~[616], apprentice
+68470:0::12::Weaponsmithing~[617], apprentice
+68470:0::6::Stealth~[630]
+68470:0::12::Petty thievery~[631], adept
+68470:0::12::Determine inventory of character~[632], apprentice
+68470:0::12::Determine skills of character~[633], apprentice
+68470:0::12::Conceal self~[641], apprentice
+68470:0::6::Religion~[750]
+68470:0::12::Receive vision~[751], apprentice
+68470:0::12::Resurrect dead noble~[752], apprentice
+68470:0::12::Preparatory ritual~[753], journeyman
+68470:0::12::Lay to rest~[754], apprentice
+68470:0::12::Remove blessing from soldiers~[755], apprentice
+68470:0::12::Immunity from Vision~[756], grand master
+68470:0::3::
+68470:0::3::Inventory:
+68470:0::3::{<b>}      qty  name                              weight{</b>}
+68470:0::3::      ---  ----                              ------
+68470:0::3::    1,935  gold~[1]                               0  
+68470:0::3::       57  soldiers~[12]                      5,700  cap 5,700 (5,5,0)
+68470:0::3::        3  winged horses~[54]                 3,000  fly 450
+68470:0::3::       39  woven baskets~[94]                    39  
+68470:0::3::        3  drums~[98]                             6  
+68470:0::3::                                             ======
+68470:0::3::                                              8,745
+68470:0::3::
+68470:0::3/11::Capacity:  45/6,250 land (0%), 5,845/450 ride (1298%), 5,845/450 fly (1298%)
+68470:0::3::
+71168:0::3::
+71168:0::3/16::Location:       Ironplow~[f44], in province Horselands~[dv11], in Ossicus
+71168:0::3::Loyalty:        Fear-72
+71168:0::3::Health:         100%
+71168:0::3::Combat:         attack 80, defense 80, missile 0
+71168:0::3::                behind 0  (front line in combat)
+71168:0::3::Break point:    50%
+71168:0::3::use  641 0      (not concealing self)
+71168:0::3::Receive Vision: 14 protection
+71168:0::3::
+71168:0::3::Skills known:
+71168:0::6::Combat~[610]
+71168:0::12::Survive fatal wound~[611]
+71168:0::12::Fight to the death~[612]
+71168:0::12::Defense~[614], apprentice
+71168:0::12::Weaponsmithing~[617], apprentice
+71168:0::6::Stealth~[630]
+71168:0::12::Petty thievery~[631], master
+71168:0::12::Conceal self~[641], apprentice
+71168:0::6::Beastmastery~[650]
+71168:0::12::Bird spy~[651], apprentice
+71168:0::12::Capture beasts in battle~[652]
+71168:0::12::Use beasts in battle~[653]
+71168:0::12::Breed beasts~[654], grand master
+71168:0::12::Catch wild horses~[655], master
+71168:0::12::Train wild horse to riding horse~[656], journeyman
+71168:0::12::Train wild horse to warmount~[657], grand master
+71168:0::6::Persuasion~[670]
+71168:0::12::Bribe noble~[671], apprentice
+71168:0::3::
+71168:0::3::Partially known skills:
+71168:0::6/6::Conceal faction~[635], 20/28
+71168:0::3::
+71168:0::3::Inventory:
+71168:0::3::{<b>}      qty  name                              weight{</b>}
+71168:0::3::      ---  ----                              ------
+71168:0::3::      213  gold~[1]                               0  
+71168:0::3::        8  workers~[11]                         800  cap 800 (1,1,0)
+71168:0::3::        4  riding horses~[52]                 4,000  ride 600
+71168:0::3::       47  warmounts~[53]                    47,000  ride 7,050
+71168:0::3::       26  winged horses~[54]                26,000  fly 3,900
+71168:0::3::       13  lana bark~[64]                        13  
+71168:0::3::        4  yew~[68]                              12  
+71168:0::3::       54  longbows~[72]                        162  
+71168:0::3::       52  centaurs~[271]                    52,000  ride 7,800 (30,30,0)
+71168:0::3::                                             ======
+71168:0::3::                                            129,987
+71168:0::3::
+71168:0::3/11::Capacity:  187/20,250 land (0%), 1,087/19,350 ride (5%), 104,087/3,900 fly (2668%)
+71168:0::3::
+71168:0::3::Pending trades:
+71168:0::3::
+71168:0::6::trade    price    qty   item
+71168:0::6::-----    -----    ---   ----
+71168:0::6:: sell        4     12   woven basket~[94]
+71168:0::6:: sell        7     65   clay pot~[95]
+71168:0::3::
+71724:0::3::
+71724:0::3/16::Location:       Sylvan Spires~[93004], in Faery city~[w96], in province Forest~[nm12], in Faery
+71724:0::3::Loyalty:        Oath-2
+71724:0::3::Health:         100%
+71724:0::3::Combat:         attack 80, defense 210, missile 0
+71724:0::3::                behind 0  (front line in combat)
+71724:0::3::Break point:    50%
+71724:0::3::use  641 0      (not concealing self)
+71724:0::3::Receive Vision: 4 protection
+71724:0::3::Pledged to us:  White Thorn~[2114]
+71724:0::3::
+71724:0::3::Current aura:   41
+71724:0::3::Maximum aura:   41
+71724:0::3::
+71724:0::3::Skills known:
+71724:0::6::Combat~[610]
+71724:0::12::Survive fatal wound~[611]
+71724:0::12::Defense~[614], master
+71724:0::6::Stealth~[630]
+71724:0::12::Conceal self~[641], apprentice
+71724:0::6::Magic~[800]
+71724:0::12::Meditate~[801], apprentice
+71724:0::12::Perform common tasks for gold~[802], master
+71724:0::12::Appear common~[803], apprentice
+71724:0::12::View current aura level of others~[804], apprentice
+71724:0::12::Reveal abilities of another mage~[805], apprentice
+71724:0::12::Tap health for aura~[806], apprentice
+71724:0::12::Heal~[807], apprentice
+71724:0::12::Modern magic script~[808], journeyman
+71724:0::12::Shroud abilities from scry~[809], apprentice
+71724:0::12::Detect ability scry~[811], apprentice
+71724:0::12::Dispel ability shroud~[812], apprentice
+71724:0::12::Advanced meditation~[813], apprentice
+71724:0::12::Hinder meditation~[814], apprentice
+71724:0::6::Weather magic~[820]
+71724:0::12::Bind storm to ship~[822], apprentice
+71724:0::12::Scribe weather symbols~[823], adept
+71724:0::12::Summon rain~[824], apprentice
+71724:0::12::Summon wind~[825], apprentice
+71724:0::12::Summon fog~[826], apprentice
+71724:0::12::Direct storm~[827], apprentice
+71724:0::12::Dissipate storm~[828], apprentice
+71724:0::12::Renew storm strength~[829], apprentice
+71724:0::12::Lightning bolt~[831], apprentice
+71724:0::12::Seize control of storm~[832], apprentice
+71724:0::12::Fog of death~[833], apprentice
+71724:0::6::Scrying~[840]
+71724:0::12::Shroud location from magical scry~[842], apprentice
+71724:0::12::Dispel location shroud~[843], apprentice
+71724:0::12::Ciphered writing of Areth-Pirn~[844], journeyman
+71724:0::12::Create magical barrier~[845], apprentice
+71724:0::12::Remove magical barrier~[846], apprentice
+71724:0::12::Locate character~[847], apprentice
+71724:0::12::Farcasting~[849], apprentice
+71724:0::12::Save farcast state~[851], apprentice
+71724:0::6::Artifact construction~[880]
+71724:0::12::Arcane symbols~[892], apprentice
+71724:0::6::Necromancy~[900]
+71724:0::12::Eating of the dead~[908], apprentice
+71724:0::12::Aura blast~[909], apprentice
+71724:0::12::Absorb aura blast~[911], apprentice
+71724:0::3::
+71724:0::3::Partially known skills:
+71724:0::6/6::Detect location scry~[848], 14/21
+71724:0::6/6::Banish undead~[852], 0/21
+71724:0::6/6::Reveal creator of artifact~[882], 10/14
+71724:0::6/6::Cloak creator of artifact~[884], 0/28
+71724:0::6/6::Cloak region of artifact creation~[885], 0/14
+71724:0::6/6::Curse noncreator loyalty~[886], 0/14
+71724:0::6/6::Forge magical weapon~[887], 0/21
+71724:0::6/6::Forge magical armor~[888], 0/21
+71724:0::6/6::Forge magical bow~[889], 0/21
+71724:0::6/6::Dispel cloaking from artifact~[891], 0/21
+71724:0::6/6::Destroy artifact~[893], 0/21
+71724:0::6/6::Forge palantir~[894], 0/21
+71724:0::6/6::Raise undead~[904], 1/21
+71724:0::6/6::Summon demon lord~[905], 1/21
+71724:0::6/6::Renew demon bond~[906], 1/21
+71724:0::6/6::Banish demon lord~[907], 1/21
+71724:0::3::
+71724:0::3::Inventory:
+71724:0::3::{<b>}      qty  name                              weight{</b>}
+71724:0::3::      ---  ----                              ------
+71724:0::3::   37,980  gold~[1]                               0  
+71724:0::3::      171  pikemen~[16]                      17,100  cap 17,100 (5,30,0)
+71724:0::3::      152  crossbowmen~[21]                  15,200  cap 15,200 (1,1,25)
+71724:0::3::       50  elite archers~[22]                 5,000  cap 5,000 (10,10,75)
+71724:0::3::        2  winged horses~[54]                 2,000  fly 300
+71724:0::3::      237  pikes~[75]                         1,185  
+71724:0::3::       28  blank scrolls~[84]                    56  
+71724:0::3::        8  crossbows~[85]                        80  
+71724:0::3::      113  woven baskets~[94]                   113  
+71724:0::3::       96  clay pots~[95]                       480  
+71724:0::3::        2  hounds~[295]                         130   (1,1,0)
+71724:0::3::        1  Scroll~[a010]                          1  
+71724:0::3::        1  Scroll~[b494]                          1  
+71724:0::3::        1  Scroll~[d299]                          1  
+71724:0::3::        1  Scroll~[f209]                          1  
+71724:0::3::        1  Scroll~[f572]                          1  
+71724:0::3::        1  Scroll~[h588]                          1  
+71724:0::3::        1  Scroll~[h664]                          1  
+71724:0::3::        1  Scroll~[h686]                          1  
+71724:0::3::        1  Scroll~[k825]                          1  
+71724:0::3::        1  Scroll~[m765]                          1  
+71724:0::3::        1  Scroll~[n233]                          1  
+71724:0::3::        1  Scroll~[p973]                          1  
+71724:0::3::        1  Scroll~[r621]                          1  
+71724:0::3::        1  Scroll~[t083]                          1  
+71724:0::3::        1  Scroll~[t261]                          1  
+71724:0::3::        1  Scroll~[v786]                          1  
+71724:0::3::        1  Scroll~[w523]                          1  
+71724:0::3::        1  Scroll~[w859]                          1  
+71724:0::3::        1  Scroll~[x336]                          1  
+71724:0::3::        1  Scroll~[89690]                         1  
+71724:0::3::        1  Scroll~[91867]                         1  
+71724:0::3::        1  Scroll~[95579]                         1  
+71724:0::3::        1  Scroll~[99475]                         1  
+71724:0::3::        1  Scroll~[101887]                        1  
+71724:0::3::        1  Scroll~[112552]                        1  
+71724:0::3::        1  Scroll~[116454]                        1  
+71724:0::3::        1  Scroll~[123753]                        1  
+71724:0::3::        1  Scroll~[124743]                        1  
+71724:0::3::        1  Scroll~[126779]                        1  
+71724:0::3::        1  Scroll~[132727]                        1  
+71724:0::3::        1  Scroll~[148712]                        1  
+71724:0::3::        1  Scroll~[149678]                        1  
+71724:0::3::                                             ======
+71724:0::3::                                             41,376
+71724:0::3::
+71724:0::3/11::Capacity:  1,946/37,700 land (5%), 39,476/300 ride (13158%), 39,476/300 fly (13158%)
+71724:0::3::
+71724:0::3::Scroll~[a010] permits study of the following skills:
+71724:0::6/3::Locate character~[847] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[b494] permits study of the following skills:
+71724:0::6/3::Shroud abilities from scry~[809] (requires Magic)
+71724:0::3::
+71724:0::3::Scroll~[d299] permits study of the following skills:
+71724:0::6/3::Scribe weather symbols~[823] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[f209] permits study of the following skills:
+71724:0::6/3::Lightning bolt~[831] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[f572] permits study of the following skills:
+71724:0::6/3::Direct storm~[827] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[h588] permits study of the following skills:
+71724:0::6/3::Renew storm strength~[829] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[h664] permits study of the following skills:
+71724:0::6/3::Summon fog~[826] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[h686] permits study of the following skills:
+71724:0::6/3::Tap health for aura~[806] (requires Magic)
+71724:0::3::
+71724:0::3::Scroll~[k825] permits study of the following skills:
+71724:0::6/3::Dispel ability shroud~[812] (requires Magic)
+71724:0::3::
+71724:0::3::Scroll~[m765] permits study of the following skills:
+71724:0::6/3::Fog of death~[833] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[n233] permits study of the following skills:
+71724:0::6/3::Seize control of storm~[832] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[p973] permits study of the following skills:
+71724:0::6/3::Heal~[807] (requires Magic)
+71724:0::3::
+71724:0::3::Scroll~[r621] permits study of the following skills:
+71724:0::6/3::Farcasting~[849] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[t083] permits study of the following skills:
+71724:0::6/3::Direct storm~[827] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[t261] permits study of the following skills:
+71724:0::6/3::Locate character~[847] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[v786] permits study of the following skills:
+71724:0::6/3::Summon wind~[825] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[w523] permits study of the following skills:
+71724:0::6/3::Modern magic script~[808] (requires Magic)
+71724:0::3::
+71724:0::3::Scroll~[w859] permits study of the following skills:
+71724:0::6/3::Remove magical barrier~[846] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[x336] permits study of the following skills:
+71724:0::6/3::Detect ability scry~[811] (requires Magic)
+71724:0::3::
+71724:0::3::Scroll~[89690] permits study of the following skills:
+71724:0::6/3::Summon rain~[824] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[91867] permits study of the following skills:
+71724:0::6/3::Farcasting~[849] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[95579] permits study of the following skills:
+71724:0::6/3::Advanced meditation~[813] (requires Magic)
+71724:0::3::
+71724:0::3::Scroll~[99475] permits study of the following skills:
+71724:0::6/3::Hinder meditation~[814] (requires Magic)
+71724:0::3::
+71724:0::3::Scroll~[101887] permits study of the following skills:
+71724:0::6/3::Farcasting~[849] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[112552] permits study of the following skills:
+71724:0::6/3::Renew storm strength~[829] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[116454] permits study of the following skills:
+71724:0::6/3::Summon rain~[824] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[123753] permits study of the following skills:
+71724:0::6/3::Farcasting~[849] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[124743] permits study of the following skills:
+71724:0::6/3::Summon rain~[824] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[126779] permits study of the following skills:
+71724:0::6/3::Create magical barrier~[845] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[132727] permits study of the following skills:
+71724:0::6/3::Lightning bolt~[831] (requires Weather magic)
+71724:0::3::
+71724:0::3::Scroll~[148712] permits study of the following skills:
+71724:0::6/3::Ciphered writing of Areth-Pirn~[844] (requires Scrying)
+71724:0::3::
+71724:0::3::Scroll~[149678] permits study of the following skills:
+71724:0::6/3::Dissipate storm~[828] (requires Weather magic)
+71724:0::3::
+71724:0::3::Pending trades:
+71724:0::3::
+71724:0::6::trade    price    qty   item
+71724:0::6::-----    -----    ---   ----
+71724:0::6:: sell        4     84   woven basket~[94]
+71724:0::6:: sell        7     87   clay pot~[95]
+71724:0::3::
+113600:0::3::
+113600:0::3/16::Location:       Ironplow~[f44], in province Horselands~[dv11], in Ossicus
+113600:0::3::Loyalty:        Oath-1
+113600:0::3/16::Stacked under:  Garrison~[6418]
+113600:0::3::Health:         100%
+113600:0::3::Combat:         attack 140, defense 229, missile 50
+113600:0::3::                behind 0  (front line in combat)
+113600:0::3::Break point:    50%
+113600:0::3::Receive Vision: 16 protection
+113600:0::3::
+113600:0::3::Current aura:   15
+113600:0::3::Maximum aura:   15
+113600:0::3::
+113600:0::3::Skills known:
+113600:0::6::Combat~[610]
+113600:0::12::Survive fatal wound~[611]
+113600:0::12::Fight to the death~[612]
+113600:0::12::Defense~[614], master
+113600:0::12::Archery~[615], apprentice
+113600:0::12::Swordplay~[616], journeyman
+113600:0::6::Stealth~[630]
+113600:0::12::Petty thievery~[631], journeyman
+113600:0::6::Magic~[800]
+113600:0::12::Meditate~[801], apprentice
+113600:0::12::Perform common tasks for gold~[802], journeyman
+113600:0::12::Appear common~[803], apprentice
+113600:0::12::View current aura level of others~[804], apprentice
+113600:0::6::Necromancy~[900]
+113600:0::12::Runes of Evil~[902], journeyman
+113600:0::12::Summon ghost warriors~[903], apprentice
+113600:0::12::Raise undead~[904], apprentice
+113600:0::12::Summon demon lord~[905], apprentice
+113600:0::12::Renew demon bond~[906], apprentice
+113600:0::12::Banish demon lord~[907], apprentice
+113600:0::12::Eating of the dead~[908], apprentice
+113600:0::12::Aura blast~[909], apprentice
+113600:0::12::Absorb aura blast~[911], apprentice
+113600:0::3::
+113600:0::3::Inventory:
+113600:0::3::{<b>}      qty  name                              weight{</b>}
+113600:0::3::      ---  ----                              ------
+113600:0::3::    8,519  gold~[1]                               0  
+113600:0::3::        3  blessed soldiers~[17]                300  cap 300 (5,5,0)
+113600:0::3::        3  winged horses~[54]                 3,000  fly 450
+113600:0::3::        5  blank scrolls~[84]                    10  
+113600:0::3::        1  Scroll~[b182]                          1  
+113600:0::3::        1  Scroll~[b844]                          1  
+113600:0::3::        1  Scroll~[g961]                          1  
+113600:0::3::        1  Scroll~[s935]                          1  
+113600:0::3::        1  Scroll~[z193]                          1  
+113600:0::3::        1  Scroll~[93069]                         1  
+113600:0::3::        1  Scroll~[97752]                         1  
+113600:0::3::        1  Scroll~[105349]                        1  
+113600:0::3::        1  Scroll~[106804]                        1  
+113600:0::3::        1  Scroll~[109606]                        1  
+113600:0::3::                                             ======
+113600:0::3::                                              3,320
+113600:0::3::
+113600:0::3/11::Capacity:  20/850 land (2%), 420/450 ride (93%), 420/450 fly (93%)
+113600:0::3::
+113600:0::3::Scroll~[b182] permits study of the following skills:
+113600:0::6/3::Raise undead~[904] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[b844] permits study of the following skills:
+113600:0::6/3::Banish demon lord~[907] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[g961] permits study of the following skills:
+113600:0::6/3::Absorb aura blast~[911] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[s935] permits study of the following skills:
+113600:0::6/3::Aura blast~[909] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[z193] permits study of the following skills:
+113600:0::6/3::Absorb aura blast~[911] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[93069] permits study of the following skills:
+113600:0::6/3::Raise undead~[904] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[97752] permits study of the following skills:
+113600:0::6/3::Summon demon lord~[905] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[105349] permits study of the following skills:
+113600:0::6/3::Eating of the dead~[908] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[106804] permits study of the following skills:
+113600:0::6/3::Renew demon bond~[906] (requires Necromancy)
+113600:0::3::
+113600:0::3::Scroll~[109606] permits study of the following skills:
+113600:0::6/3::Aura blast~[909] (requires Necromancy)
+113600:0::3::
+113600:0::3::Pending trades:
+113600:0::3::
+113600:0::6::trade    price    qty   item
+113600:0::6::-----    -----    ---   ----
+113600:0::6:: sell        4     17   woven basket~[94]
+113600:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Wyvernesse~[cr6].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/cr6/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [cr6]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         7  81st   
+0:0::3/41::Men:                              441  42nd   
+0:0::3/41::Gold:                          52,024  37th   
+0:0::3/41::Land controlled:                  258  46th   
+0:0::3/41::Skills known:                   46/74  48th   
+0:0::3/41::Spells known:                   47/79  58th   
+0:0::3/41::Provinces visited:         479/31,919  67th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  4     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 262.
+0:0::0::
+0:0::0::The next five nobles formed will be:  125670 117523 103568 127899 129449
+0:0::0::
+0:0::0::57 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::a011   f44    f5    100  0    3355                     6418   Bairanax
+0:0::0::113600 f44    o1    100  0 15 8519                   3 6418   Bahamut
+0:0::0::q168   f44    f72   100  0     213         8                  Tiamat
+0:0::0::m470   t780   f17   100  0    1935                  57        Nimanaur
+0:0::0::m100   dv11   f67   100  0       1                            Fafnir
+0:0::0::m468   pf28   f0    100  0      21                            Jabberwock
+0:0::0::q724   93004  o2    100  0 41  37k                 373        Draco
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               52k         8       433
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Ossicus
+0:0::0::  Horselands~[dv11]                Fafnir~[m100]
+0:0::0::    Ironplow~[f44]                   Bairanax~[a011]
+0:0::0::                                     Bahamut~[113600]
+0:0::0::                                   Tiamat~[q168]
+0:0::0::      Shrine of the Sungod~[t780]  Nimanaur~[m470]
+0:0::0::Faery
+0:0::0::  Forest~[pf28]                    Jabberwock~[m468]
+0:0::0::  Forest~[nm12]
+0:0::0::    Faery city~[w96]
+0:0::0::      Sylvan Spires~[93004]        Draco~[q724]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  a011       3,535      (605) 705%                                
+0:0::0::113600       3,420        830   2%         30  93%         30  93%
+0:0::0::  q168     130,087     20,063   0%     18,263   5%  (100,187)  -- 
+0:0::0::  m470       8,845      6,205   0%    (5,395)  --     (5,395)  -- 
+0:0::0::  m100         540      (340) 440%                                
+0:0::0::  m468       1,104        246   1%         46  69%         46  69%
+0:0::0::  q724      41,476     35,754   5%   (39,176)  --    (39,176)  -- 
+0:0::0::
+0:0::0::garr where  men cost  tax forw castle rulers
+0:0::0::---- -----  --- ----  --- ---- ------ ------
+0:0::0::96306  kv04   10   20   50    6 93004  q724
+0:0::0::142106  gs13   17   34  100   13 93004  q724
+0:0::0::148478  hr00   10   20   50    6 93004  q724
+0:0::0::146119  mz17   10   20   50    6 93004  q724
+0:0::0::90363  xj79   25   50   50    0 93004  q724
+0:0::0::107879  za37   12   24   50    5 93004  q724
+0:0::0::101983  vs42   23   46   50    0 93004  q724
+0:0::0::n856  mx75   10   20   50    6 93004  q724
+0:0::0::132401  rw74   10   20   50    6 93004  q724
+0:0::0::1204  sp58   20   40   50    2 93004  q724
+0:0::0::129145  xd33   10   20   50    6 93004  q724
+0:0::0::104697  pd65   20   40   50    2 93004  q724
+0:0::0::114758  kh08   20   40   50    2 93004  q724
+0:0::0::130222  hf16   20   40   50    2 93004  q724
+0:0::0::9868  kp30   20   34   50    3 93004  q724
+0:0::0::4008  nc68   10   20   50    6 93004  q724
+0:0::0::91533  xw78   10   20   50    6 93004  q724
+0:0::0::127681  gx66   10   20   50    6 93004  q724
+0:0::0::139323  wf45   10   20   50    6 93004  q724
+0:0::0::x581  nz29   10   20   50    6 93004  q724
+0:0::0::6773  pk13   10   20   50    6 93004  q724
+0:0::0::1650  ws39   10   20   50    6 93004  q724
+0:0::0::q867  hw39   10   20   50    6 93004  q724
+0:0::0::96707  zb84   10   20   50    6 93004  q724
+0:0::0::141698  wm94   10   20   50    6 93004  q724
+0:0::0::141859  ws22   10   20   50    6 93004  q724
+0:0::0::j787  ga33   10   20   50    6 93004  q724
+0:0::0::3183  jm20   10   20   50    6 93004  q724
+0:0::0::107625  qq82   10   20   50    6 93004  q724
+0:0::0::b188  hs74   10   20   50    6 93004  q724
+0:0::0::1579  gw64   10   20   50    6 93004  q724
+0:0::0::6965  nx95   10   20   50    6 93004  q724
+0:0::0::2837  jn60   10   20   50    6 93004  q724
+0:0::0::3734  vj69   10   20   50    6 93004  q724
+0:0::0::81308  hv00   10   20   50    6 93004  q724
+0:0::0::144557  pa26   10   20   50    6 93004  q724
+0:0::0::v916  wp97   10   20   50    6 93004  q724
+0:0::0::7324  mg43   10   20   50    6 93004  q724
+0:0::0::2281  md63   10   20   50    6 93004  q724
+0:0::0::9268  hb97   10   20   50    6 93004  q724
+0:0::0::8215  vn61   20   40   50    2 93004  q724
+0:0::0::9908  km03   10   20   50    6 93004  q724
+0:0::0::6753  vf21   28   53  200   29 93004  q724
+0:0::0::105360  kn92   25   50  100   10 93004  q724
+0:0::0::127817  jv53   15   30   50    4 93004  q724
+0:0::0::110389  zn19   10   20   50    6 93004  q724
+0:0::0::93145  xb19   10   20   50    6 93004  q724
+0:0::0::107070  mv15   16   32   50    3 93004  q724
+0:0::0::105079  kx42   10   20   50    6 93004  q724
+0:0::0::135523  mg89   14   28   50    4 93004  q724
+0:0::0::80221  hm80   10   20   50    6 93004  q724
+0:0::0::p164  kd14   10   20   50    6 93004  q724
+0:0::0::1596  st52   10   20   50    6 93004  q724
+0:0::0::7241  gd42   10   20   50    6 93004  q724
+0:0::0::89155  mc85   10   20   50    6 93004  q724
+0:0::0::84300  qg92   10   20  200   36 93004  q724
+0:0::0::t303  xb01   10   20   50    6 93004  q724
+0:0::0::147009  px42   12   24   50    5 93004  q724
+0:0::0::g374  hm58   10   20   50    6 93004  q724
+0:0::0::145432  wk50   10   20   50    6 93004  q724
+0:0::0::148111  gw95   10   20   50    6 93004  q724
+0:0::0::118320  tb27   10   20   50    6 93004  q724
+0:0::0::140590  gn71   10   20   50    6 93004  q724
+0:0::0::92382  jt31   10   20   50    6 93004  q724
+0:0::0::123765  kg43   10   20   50    6 93004  q724
+0:0::0::101045  xr14   10   20   50    6 93004  q724
+0:0::0::103372  ws65   10   20   50    6 93004  q724
+0:0::0::144733  qt39   10   20   50    6 93004  q724
+0:0::0::9128  jg27   10   20   50    6 93004  q724
+0:0::0::v639  wz38   10   20   50    6 93004  q724
+0:0::0::86330  rd21   10   20   50    6 93004  q724
+0:0::0::107148  qk54   10   20   50    6 93004  q724
+0:0::0::87942  zq46   10   20   50    6 93004  q724
+0:0::0::t302  zs59   10   20   50    6 93004  q724
+0:0::0::126137  zf02   10   20   50    6 93004  q724
+0:0::0::130604  sm70   10   20   50    6 93004  q724
+0:0::0::97528  st03   10   20   50    6 93004  q724
+0:0::0::136669  sa91   10   20   50    6 93004  q724
+0:0::0::127625  pv15   10   20   50    6 93004  q724
+0:0::0::s987  tf25   10   20   50    6 93004  q724
+0:0::0::94438  xb43   10   20   50    6 93004  q724
+0:0::0::6498  zn45   10   20  200   36 93004  q724
+0:0::0::145394  jh23   10   20   50    6 93004  q724
+0:0::0::86085  wq94   10   20   50    6 93004  q724
+0:0::0::138490  hp75   10   20   50    6 93004  q724
+0:0::0::r652  wg25   10   20   50    6 93004  q724
+0:0::0::90699  mk55   10   20   50    6 93004  q724
+0:0::0::130075  pt42   10   20   50    6 93004  q724
+0:0::0::114230  zq53   10   20   50    6 93004  q724
+0:0::0::9466  hz86   10   20   50    6 93004  q724
+0:0::0::144931  pz24   10   20   50    6 93004  q724
+0:0::0::116219  va12   10   20   50    6 93004  q724
+0:0::0::114949  gh15   10   20   50    6 93004  q724
+0:0::0::90250  gm37   10   20   50    6 93004  q724
+0:0::0::134552  wh59   10   20   50    6 93004  q724
+0:0::0::135569  rb98   10   20   50    6 93004  q724
+0:0::0::140524  jq34   10   20   50    6 93004  q724
+0:0::0::117356  ta92   10   20   50    6 93004  q724
+0:0::0::110659  rs90   10   20   50    6 93004  q724
+0:0::0::t290  sa21   10   20   50    6 93004  q724
+0:0::0::132591  kw89   10   20   50    6 93004  q724
+0:0::0::135197  sm74   10   20   50    6 93004  q724
+0:0::0::147398  rb62   10   20   50    6 93004  q724
+0:0::0::142453  jt55   10   20   50    6 93004  q724
+0:0::0::95115  ns97   10   20   50    6 93004  q724
+0:0::0::5539  wx01   10   20   50    6 93004  q724
+0:0::0::2625  jp50   10   20   50    6 93004  q724
+0:0::0::138310  nz70   20   40   50    2 93004  q724
+0:0::0::120420  rs37   10   20   50    6 93004  q724
+0:0::0::4714  vd76   10   20   50    6 93004  q724
+0:0::0::7815  hm89   10   20   50    6 93004  q724
+0:0::0::5298  kw39   10   20   50    6 93004  q724
+0:0::0::113526  rj51   10   20   50    6 93004  q724
+0:0::0::112757  pc25   10   20   50    6 93004  q724
+0:0::0::128656  ws03   20   40   50    2 93004  q724
+0:0::0::4172  nm12   92  170  450    - 93004  q724
+0:0::0::141858  mg05   31   58  200   28 93004  q724
+0:0::0::f471  jf50   20   34  100   13 93004  q724
+0:0::0::112518  wt67   10   20   50    6 93004  q724
+0:0::0::5675  sp77   10   20   50    6 93004  q724
+0:0::0::v254  vr19   10   20   50    6 93004  q724
+0:0::0::v253  ms49   10   20   50    6 93004  q724
+0:0::0::84868  kg66   10   20   50    6 93004  q724
+0:0::0::124074  vd58   10   20   50    6 93004  q724
+0:0::0::104764  xg09   10   20   50    6 93004  q724
+0:0::0::89905  xh62   10   20   50    6 93004  q724
+0:0::0::138132  vh90   20   40   50    2 93004  q724
+0:0::0::129944  pj19   10   20  100   16 93004  q724
+0:0::0::96410  pv80   25   49  200   30 93004  q724
+0:0::0::99782  sq05   35   70  100    6 93004  q724
+0:0::0::p136  wb96   10   20   50    6 93004  q724
+0:0::0::j767  pq27   10   20   50    6 93004  q724
+0:0::0::86975  vc99   10   20   50    6 93004  q724
+0:0::0::135956  nq84   10   20   50    6 93004  q724
+0:0::0::g139  sa97   10   20   50    6 93004  q724
+0:0::0::145757  jx35   10   20   50    6 93004  q724
+0:0::0::g396  mb66   10   20   50    6 93004  q724
+0:0::0::4911  xh44   10   20   50    6 93004  q724
+0:0::0::89910  nt46   10   20   50    6 93004  q724
+0:0::0::87234  xh09   12   24   50    5 93004  q724
+0:0::0::100244  rb07   20   40   50    2 93004  q724
+0:0::0::6832  kh87   10   20   50    6 93004  q724
+0:0::0::144540  sk89   10   20   50    6 93004  q724
+0:0::0::95566  xh99   10   20   50    6 93004  q724
+0:0::0::k035  tp29   10   20   50    6 93004  q724
+0:0::0::b236  hm23   10   20   50    6 93004  q724
+0:0::0::79724  nz18   10   20  100   16 93004  q724
+0:0::0::3808  zv08   10   20   50    6 93004  q724
+0:0::0::4222  kh04   10   20   50    6 93004  q724
+0:0::0::142055  sk50   20   40   50    2 93004  q724
+0:0::0::149462  qm09   10   20   50    6 93004  q724
+0:0::0::96693  td40   20   40   50    2 93004  q724
+0:0::0::m851  mw80   10   20   50    6 93004  q724
+0:0::0::124816  ta80   10   20  200   36 93004  q724
+0:0::0::108234  gx51   10   20   50    6 93004  q724
+0:0::0::92458  qp30   10   20   50    6 93004  q724
+0:0::0::5855  vs62   10   20   50    6 93004  q724
+0:0::0::92551  nz03   10   20   50    6 93004  q724
+0:0::0::2900  qr67   10   20  200   36 93004  q724
+0:0::0::128136  kb86   10   20   50    6 93004  q724
+0:0::0::113548  kp66   10   20   50    6 93004  q724
+0:0::0::7055  sx76   10   20   50    6 93004  q724
+0:0::0::2933  rz57   20   40   50    2 93004  q724
+0:0::0::a813  hz04   10   20   50    6 93004  q724
+0:0::0::j170  gv08   10   20   50    6 93004  q724
+0:0::0::c627  hs07   10   20   50    6 93004  q724
+0:0::0::9990  ph32   10   20   50    6 93004  q724
+0:0::0::133792  tw38   10   20   50    6 93004  q724
+0:0::0::7584  vg12   10   20   50    6 93004  q724
+0:0::0::p541  tr89   10   20   50    6 93004  q724
+0:0::0::79125  qn70   10   20   50    6 93004  q724
+0:0::0::113853  pt59   10   20   50    6 93004  q724
+0:0::0::89877  xq93   10   20   50    6 93004  q724
+0:0::0::117931  zg90   10   20   50    6 93004  q724
+0:0::0::124343  sg13   10   20   50    6 93004  q724
+0:0::0::144893  kn83   16   26   50    4 93004  q724
+0:0::0::125167  na59   10   20   50    6 93004  q724
+0:0::0::115221  xr29   11   22   50    5 93004  q724
+0:0::0::84240  ms00   10   20   50    6 93004  q724
+0:0::0::97767  jp94   10   20   50    6 93004  q724
+0:0::0::n896  ts93   10   20   50    6 93004  q724
+0:0::0::93965  mn91   10   20   50    6 93004  q724
+0:0::0::107170  hg52   10   20   50    6 93004  q724
+0:0::0::124852  ng38   10   20   50    6 93004  q724
+0:0::0::133389  zt33   10   20   50    6 93004  q724
+0:0::0::80746  zv37   10   20   50    6 93004  q724
+0:0::0::116766  tj52   10   20   50    6 93004  q724
+0:0::0::83277  tx16   10   20   50    6 93004  q724
+0:0::0::144729  sh03   10   20   50    6 93004  q724
+0:0::0::n267  zf32   10   20   50    6 93004  q724
+0:0::0::122140  nk45   10   20   50    6 93004  q724
+0:0::0::82284  xs57   10   20   50    6 93004  q724
+0:0::0::88718  zw72   10   20   50    6 93004  q724
+0:0::0::100588  ws91   10   20   50    6 93004  q724
+0:0::0::w550  sd54   10   20   50    6 93004  q724
+0:0::0::6246  ra63   10   20   50    6 93004  q724
+0:0::0::k195  zg02   10   20   50    6 93004  q724
+0:0::0::g344  wk06   10   20   50    6 93004  q724
+0:0::0::128437  ja58   10   20   50    6 93004  q724
+0:0::0::139395  nt68   10   20   50    6 93004  q724
+0:0::0::112504  qj28   10   20   50    6 93004  q724
+0:0::0::138307  qa63   10   20   50    6 93004  q724
+0:0::0::9487  gt45   10   20   50    6 93004  q724
+0:0::0::147956  qv18   10   20   50    6 93004  q724
+0:0::0::106555  nh93   10   20   50    6 93004  q724
+0:0::0::131145  sd47   10   20   50    6 93004  q724
+0:0::0::129329  na66   10   20   50    6 93004  q724
+0:0::0::79892  ja53   10   20   50    6 93004  q724
+0:0::0::103627  nt77   10   20   50    6 93004  q724
+0:0::0::f388  tk55   10   20   50    6 93004  q724
+0:0::0::129587  nh42   18   36   50    2 93004  q724
+0:0::0::b626  zz12   10   20   50    6 93004  q724
+0:0::0::d618  gn72   18   36   50    2 93004  q724
+0:0::0::5812  vn17   10   20   50    6 93004  q724
+0:0::0::83921  vh76   10   20   50    6 93004  q724
+0:0::0::107523  ga20   10   20   50    6 93004  q724
+0:0::0::109716  kc64   14   28   50    4 93004  q724
+0:0::0::114103  nr03   10   20   50    6 93004  q724
+0:0::0::7912  zs81   10   20   50    6 93004  q724
+0:0::0::126996  px90   10   20   50    6 93004  q724
+0:0::0::g203  gn78   10   20   50    6 93004  q724
+0:0::0::129295  hc22   10   20   50    6 93004  q724
+0:0::0::124082  hk72   10   20   50    6 93004  q724
+0:0::0::147896  js40   10   20   50    6 93004  q724
+0:0::0::148474  na18   10   20   50    6 93004  q724
+0:0::0::121256  ka21   10   20   50    6 93004  q724
+0:0::0::89456  ps68   10   20   50    6 93004  q724
+0:0::0::136762  th73   10   20   50    6 93004  q724
+0:0::0::133516  pv52   10   20   50    6 93004  q724
+0:0::0::80434  sd07   10   20   50    6 93004  q724
+0:0::0::120544  ms89   10   20   50    6 93004  q724
+0:0::0::80125  mq54   10   20   50    6 93004  q724
+0:0::0::145535  ws60   10   20   50    6 93004  q724
+0:0::0::139559  wc42   10   20   50    6 93004  q724
+0:0::0::149259  wa14   10   20   50    6 93004  q724
+0:0::0::110433  ww96   10   20   50    6 93004  q724
+0:0::0::6949  vb82   10   20   50    6 93004  q724
+0:0::0::103748  hf81   10   20   50    6 93004  q724
+0:0::0::113725  jk47   10   20   50    6 93004  q724
+0:0::0::103348  hk54   10   20   50    6 93004  q724
+0:0::0::90661  gh61   10   20   50    6 93004  q724
+0:0::0::103478  hm34   10   20   50    6 93004  q724
+0:0::0::p748  pf39   10   20   50    6 93004  q724
+0:0::0::118104  gm31   10   20   50    6 93004  q724
+0:0::0::144428  mt43   10   20   50    6 93004  q724
+0:0::0::111768  vc78   10   20   50    6 93004  q724
+0:0::0::113560  ta54   10   20   50    6 93004  q724
+0:0::0::s226  vp33   10   20   50    6 93004  q724
+0:0::0::106242  nv27   10   20   50    6 93004  q724
+0:0::0::127361  xn41   10   20   50    6 93004  q724
+0:0::0::g558  hc58   10   20   50    6 93004  q724
+0:0::0::87365  ps58   10   20   50    6 93004  q724
+0:0::0::144548  mn31   10   20   50    6 93004  q724
+0:0::0::135687  mz26   10   20   50    6 93004  q724
+0:0::0::142636  wp46   10   20   50    6 93004  q724
+0:0::0::140421  pd66   10   20   50    6 93004  q724
+0:0::0::82909  jw03   10   20   50    6 93004  q724
+0:0::0::d506  pb49   10   20   50    6 93004  q724
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Wyvernesse~[cr6]"><font size=+1><b>Wyvernesse~[cr6]</b></font>
+1:2::0::<hr>
+1:1::0::Wyvernesse~[cr6]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50696
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison log"><font size=+1><b>Garrison log</b></font>
+1:2::0::<hr>
+1:1::0::Garrison log
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Bairanax~[a011]"><font size=+1><b>Bairanax~[a011]</b></font>
+1:2::0::<hr>
+1:1::0::Bairanax~[a011]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 59011
+1:0::0::
+1:2::0::
+1:2::0::<name="Bahamut~[113600]"><font size=+1><b>Bahamut~[113600]</b></font>
+1:2::0::<hr>
+1:1::0::Bahamut~[113600]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 113600
+1:0::0::
+1:2::0::
+1:2::0::<name="Tiamat~[q168]"><font size=+1><b>Tiamat~[q168]</b></font>
+1:2::0::<hr>
+1:1::0::Tiamat~[q168]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 71168
+1:0::0::
+1:2::0::
+1:2::0::<name="Nimanaur~[m470]"><font size=+1><b>Nimanaur~[m470]</b></font>
+1:2::0::<hr>
+1:1::0::Nimanaur~[m470]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 68470
+1:0::0::
+1:2::0::
+1:2::0::<name="Fafnir~[m100]"><font size=+1><b>Fafnir~[m100]</b></font>
+1:2::0::<hr>
+1:1::0::Fafnir~[m100]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 68100
+1:0::0::
+1:2::0::
+1:2::0::<name="Jabberwock~[m468]"><font size=+1><b>Jabberwock~[m468]</b></font>
+1:2::0::<hr>
+1:1::0::Jabberwock~[m468]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 68468
+1:0::0::
+1:2::0::
+1:2::0::<name="Draco~[q724]"><font size=+1><b>Draco~[q724]</b></font>
+1:2::0::<hr>
+1:1::0::Draco~[q724]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 71724
+1:2::0::
+1:2::0::<name="Horselands~[dv11]"><font size=+1><b>Horselands~[dv11]</b>, plain, in Ossicus, civ-7</font>
+1:2::0::<hr>
+1:1::0::Horselands~[dv11], plain, in Ossicus, civ-7
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17611
+1:0::0::
+1:2::0::
+1:2::0::<name="Ironplow~[f44]"><font size=+1><b>Ironplow~[f44]</b>, city, in province Horselands~[dv11]</font>
+1:2::0::<hr>
+1:1::0::Ironplow~[f44], city, in province Horselands~[dv11]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57204
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kv04]"><font size=+1><b>Forest~[kv04]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kv04], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27604
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gs13]"><font size=+1><b>Forest~[gs13]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gs13], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21413
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hr00]"><font size=+1><b>Forest~[hr00]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hr00], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23300
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mz17]"><font size=+1><b>Forest~[mz17]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mz17], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29917
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xj79]"><font size=+1><b>Forest~[xj79]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xj79], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46779
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[za37]"><font size=+1><b>Forest~[za37]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[za37], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 48037
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vs42]"><font size=+1><b>Forest~[vs42]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vs42], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 43442
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mx75]"><font size=+1><b>Forest~[mx75]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mx75], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29875
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rw74]"><font size=+1><b>Forest~[rw74]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rw74], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 37774
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sp58]"><font size=+1><b>Forest~[sp58]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sp58], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39158
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xd33]"><font size=+1><b>Forest~[xd33]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xd33], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46333
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pd65]"><font size=+1><b>Forest~[pd65]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pd65], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32365
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kh08]"><font size=+1><b>Forest~[kh08]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kh08], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26608
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hf16]"><font size=+1><b>Forest~[hf16]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hf16], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22416
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kp30]"><font size=+1><b>Forest~[kp30]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kp30], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27130
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nc68]"><font size=+1><b>Forest~[nc68]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nc68], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30268
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xw78]"><font size=+1><b>Forest~[xw78]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xw78], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47778
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gx66]"><font size=+1><b>Forest~[gx66]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gx66], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21866
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wf45]"><font size=+1><b>Forest~[wf45]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wf45], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44445
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nz29]"><font size=+1><b>Forest~[nz29]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nz29], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31929
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pk13]"><font size=+1><b>Forest~[pk13]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pk13], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32813
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ws39]"><font size=+1><b>Forest~[ws39]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ws39], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45439
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hw39]"><font size=+1><b>Forest~[hw39]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hw39], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23739
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zb84]"><font size=+1><b>Forest~[zb84]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zb84], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 48184
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wm94]"><font size=+1><b>Forest~[wm94]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wm94], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44994
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ws22]"><font size=+1><b>Forest~[ws22]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ws22], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45422
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ga33]"><font size=+1><b>Forest~[ga33]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ga33], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20033
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jm20]"><font size=+1><b>Forest~[jm20]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jm20], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 24920
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qq82]"><font size=+1><b>Forest~[qq82]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qq82], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 35282
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hs74]"><font size=+1><b>Forest~[hs74]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hs74], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23474
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gw64]"><font size=+1><b>Forest~[gw64]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gw64], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21764
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nx95]"><font size=+1><b>Forest~[nx95]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nx95], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31895
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jn60]"><font size=+1><b>Forest~[jn60]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jn60], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25060
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vj69]"><font size=+1><b>Forest~[vj69]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vj69], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42769
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hv00]"><font size=+1><b>Forest~[hv00]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hv00], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23600
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pa26]"><font size=+1><b>Forest~[pa26]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pa26], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32026
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wp97]"><font size=+1><b>Forest~[wp97]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wp97], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45197
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mg43]"><font size=+1><b>Forest~[mg43]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mg43], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28543
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[md63]"><font size=+1><b>Forest~[md63]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[md63], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28363
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hb97]"><font size=+1><b>Forest~[hb97]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hb97], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22197
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vn61]"><font size=+1><b>Forest~[vn61]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vn61], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 43061
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[km03]"><font size=+1><b>Forest~[km03]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[km03], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26903
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vf21]"><font size=+1><b>Forest~[vf21]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vf21], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42421
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kn92]"><font size=+1><b>Forest~[kn92]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kn92], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27092
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jv53]"><font size=+1><b>Forest~[jv53]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jv53], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25653
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zn19]"><font size=+1><b>Forest~[zn19]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zn19], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49019
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xb19]"><font size=+1><b>Forest~[xb19]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xb19], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46119
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mv15]"><font size=+1><b>Forest~[mv15]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mv15], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29615
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kx42]"><font size=+1><b>Forest~[kx42]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kx42], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27842
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mg89]"><font size=+1><b>Forest~[mg89]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mg89], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28589
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hm80]"><font size=+1><b>Forest~[hm80]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hm80], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22980
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kd14]"><font size=+1><b>Forest~[kd14]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kd14], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26314
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[st52]"><font size=+1><b>Forest~[st52]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[st52], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39552
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gd42]"><font size=+1><b>Forest~[gd42]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gd42], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20342
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mc85]"><font size=+1><b>Forest~[mc85]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mc85], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28285
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qg92]"><font size=+1><b>Forest~[qg92]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qg92], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 34592
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xb01]"><font size=+1><b>Forest~[xb01]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xb01], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46101
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[px42]"><font size=+1><b>Forest~[px42]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[px42], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33842
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pf28]"><font size=+1><b>Forest~[pf28]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pf28], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32428
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hm58]"><font size=+1><b>Forest~[hm58]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hm58], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22958
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wk50]"><font size=+1><b>Forest~[wk50]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wk50], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44850
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gw95]"><font size=+1><b>Forest~[gw95]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gw95], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21795
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tb27]"><font size=+1><b>Forest~[tb27]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tb27], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40127
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gn71]"><font size=+1><b>Forest~[gn71]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gn71], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21071
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jt31]"><font size=+1><b>Forest~[jt31]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jt31], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25531
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kg43]"><font size=+1><b>Forest~[kg43]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kg43], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26543
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xr14]"><font size=+1><b>Forest~[xr14]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xr14], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47314
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ws65]"><font size=+1><b>Forest~[ws65]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ws65], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45465
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qt39]"><font size=+1><b>Forest~[qt39]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qt39], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 35539
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jg27]"><font size=+1><b>Forest~[jg27]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jg27], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 24527
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wz38]"><font size=+1><b>Forest~[wz38]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wz38], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45938
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rd21]"><font size=+1><b>Forest~[rd21]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rd21], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36321
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qk54]"><font size=+1><b>Forest~[qk54]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qk54], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 34854
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zq46]"><font size=+1><b>Forest~[zq46]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zq46], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49246
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zs59]"><font size=+1><b>Forest~[zs59]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zs59], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49459
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zf02]"><font size=+1><b>Forest~[zf02]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zf02], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 48402
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sm70]"><font size=+1><b>Forest~[sm70]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sm70], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38970
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[st03]"><font size=+1><b>Forest~[st03]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[st03], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39503
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sa91]"><font size=+1><b>Forest~[sa91]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sa91], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38091
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pv15]"><font size=+1><b>Forest~[pv15]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pv15], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33615
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tf25]"><font size=+1><b>Forest~[tf25]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tf25], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40425
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xb43]"><font size=+1><b>Forest~[xb43]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xb43], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46143
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zn45]"><font size=+1><b>Forest~[zn45]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zn45], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49045
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jh23]"><font size=+1><b>Forest~[jh23]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jh23], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 24623
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wq94]"><font size=+1><b>Forest~[wq94]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wq94], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45294
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hp75]"><font size=+1><b>Forest~[hp75]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hp75], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23175
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wg25]"><font size=+1><b>Forest~[wg25]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wg25], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44525
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mk55]"><font size=+1><b>Forest~[mk55]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mk55], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28855
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pt42]"><font size=+1><b>Forest~[pt42]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pt42], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33542
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zq53]"><font size=+1><b>Forest~[zq53]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zq53], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49253
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hz86]"><font size=+1><b>Forest~[hz86]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hz86], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23986
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pz24]"><font size=+1><b>Forest~[pz24]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pz24], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33924
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[va12]"><font size=+1><b>Forest~[va12]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[va12], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42012
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gh15]"><font size=+1><b>Forest~[gh15]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gh15], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20615
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gm37]"><font size=+1><b>Forest~[gm37]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gm37], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20937
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wh59]"><font size=+1><b>Forest~[wh59]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wh59], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44659
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rb98]"><font size=+1><b>Forest~[rb98]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rb98], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36198
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jq34]"><font size=+1><b>Forest~[jq34]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jq34], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25234
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ta92]"><font size=+1><b>Forest~[ta92]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ta92], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40092
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rs90]"><font size=+1><b>Forest~[rs90]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rs90], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 37490
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sa21]"><font size=+1><b>Forest~[sa21]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sa21], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38021
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kw89]"><font size=+1><b>Forest~[kw89]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kw89], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27789
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sm74]"><font size=+1><b>Forest~[sm74]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sm74], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38974
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rb62]"><font size=+1><b>Forest~[rb62]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rb62], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36162
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jt55]"><font size=+1><b>Forest~[jt55]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jt55], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25555
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ns97]"><font size=+1><b>Forest~[ns97]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ns97], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31497
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wx01]"><font size=+1><b>Forest~[wx01]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wx01], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45801
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jp50]"><font size=+1><b>Forest~[jp50]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jp50], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25150
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nz70]"><font size=+1><b>Forest~[nz70]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nz70], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31970
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rs37]"><font size=+1><b>Forest~[rs37]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rs37], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 37437
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vd76]"><font size=+1><b>Forest~[vd76]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vd76], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42376
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hm89]"><font size=+1><b>Forest~[hm89]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hm89], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22989
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kw39]"><font size=+1><b>Forest~[kw39]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kw39], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27739
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rj51]"><font size=+1><b>Forest~[rj51]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rj51], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36751
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pc25]"><font size=+1><b>Forest~[pc25]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pc25], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32225
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ws03]"><font size=+1><b>Forest~[ws03]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ws03], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45403
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nm12]"><font size=+1><b>Forest~[nm12]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nm12], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30912
+1:0::0::
+1:2::0::
+1:2::0::<name="Faery city~[w96]"><font size=+1><b>Faery city~[w96]</b>, city, in province Forest~[nm12]</font>
+1:2::0::<hr>
+1:1::0::Faery city~[w96], city, in province Forest~[nm12]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58556
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mg05]"><font size=+1><b>Forest~[mg05]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mg05], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28505
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jf50]"><font size=+1><b>Forest~[jf50]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jf50], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 24450
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wt67]"><font size=+1><b>Forest~[wt67]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wt67], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45567
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sp77]"><font size=+1><b>Forest~[sp77]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sp77], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39177
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vr19]"><font size=+1><b>Forest~[vr19]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vr19], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 43319
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ms49]"><font size=+1><b>Forest~[ms49]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ms49], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29449
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kg66]"><font size=+1><b>Forest~[kg66]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kg66], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26566
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vd58]"><font size=+1><b>Forest~[vd58]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vd58], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42358
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xg09]"><font size=+1><b>Forest~[xg09]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xg09], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46509
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xh62]"><font size=+1><b>Forest~[xh62]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xh62], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46662
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vh90]"><font size=+1><b>Forest~[vh90]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vh90], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42690
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pj19]"><font size=+1><b>Forest~[pj19]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pj19], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32719
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pv80]"><font size=+1><b>Forest~[pv80]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pv80], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33680
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sq05]"><font size=+1><b>Forest~[sq05]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sq05], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39205
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wb96]"><font size=+1><b>Forest~[wb96]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wb96], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44196
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pq27]"><font size=+1><b>Forest~[pq27]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pq27], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33227
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vc99]"><font size=+1><b>Forest~[vc99]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vc99], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42299
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nq84]"><font size=+1><b>Forest~[nq84]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nq84], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31284
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sa97]"><font size=+1><b>Forest~[sa97]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sa97], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38097
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jx35]"><font size=+1><b>Forest~[jx35]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jx35], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25835
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mb66]"><font size=+1><b>Forest~[mb66]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mb66], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28166
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xh44]"><font size=+1><b>Forest~[xh44]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xh44], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46644
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nt46]"><font size=+1><b>Forest~[nt46]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nt46], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31546
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xh09]"><font size=+1><b>Forest~[xh09]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xh09], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46609
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rb07]"><font size=+1><b>Forest~[rb07]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rb07], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36107
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kh87]"><font size=+1><b>Forest~[kh87]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kh87], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26687
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sk89]"><font size=+1><b>Forest~[sk89]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sk89], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38889
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xh99]"><font size=+1><b>Forest~[xh99]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xh99], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46699
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tp29]"><font size=+1><b>Forest~[tp29]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tp29], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41129
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hm23]"><font size=+1><b>Forest~[hm23]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hm23], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22923
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nz18]"><font size=+1><b>Forest~[nz18]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nz18], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31918
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zv08]"><font size=+1><b>Forest~[zv08]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zv08], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49608
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kh04]"><font size=+1><b>Forest~[kh04]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kh04], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26604
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sk50]"><font size=+1><b>Forest~[sk50]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sk50], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38850
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qm09]"><font size=+1><b>Forest~[qm09]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qm09], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 34909
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[td40]"><font size=+1><b>Forest~[td40]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[td40], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40340
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mw80]"><font size=+1><b>Forest~[mw80]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mw80], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29780
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ta80]"><font size=+1><b>Forest~[ta80]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ta80], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40080
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gx51]"><font size=+1><b>Forest~[gx51]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gx51], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21851
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qp30]"><font size=+1><b>Forest~[qp30]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qp30], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 35130
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vs62]"><font size=+1><b>Forest~[vs62]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vs62], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 43462
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nz03]"><font size=+1><b>Forest~[nz03]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nz03], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31903
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qr67]"><font size=+1><b>Forest~[qr67]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qr67], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 35367
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kb86]"><font size=+1><b>Forest~[kb86]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kb86], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26186
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kp66]"><font size=+1><b>Forest~[kp66]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kp66], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27166
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sx76]"><font size=+1><b>Forest~[sx76]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sx76], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39876
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rz57]"><font size=+1><b>Forest~[rz57]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rz57], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 37957
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hz04]"><font size=+1><b>Forest~[hz04]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hz04], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23904
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gv08]"><font size=+1><b>Forest~[gv08]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gv08], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21608
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hs07]"><font size=+1><b>Forest~[hs07]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hs07], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23407
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ph32]"><font size=+1><b>Forest~[ph32]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ph32], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32632
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tw38]"><font size=+1><b>Forest~[tw38]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tw38], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41738
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vg12]"><font size=+1><b>Forest~[vg12]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vg12], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42512
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tr89]"><font size=+1><b>Forest~[tr89]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tr89], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41389
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qn70]"><font size=+1><b>Forest~[qn70]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qn70], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 35070
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pt59]"><font size=+1><b>Forest~[pt59]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pt59], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33559
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xq93]"><font size=+1><b>Forest~[xq93]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xq93], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47293
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zg90]"><font size=+1><b>Forest~[zg90]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zg90], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 48590
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sg13]"><font size=+1><b>Forest~[sg13]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sg13], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38513
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kn83]"><font size=+1><b>Forest~[kn83]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kn83], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27083
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[na59]"><font size=+1><b>Forest~[na59]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[na59], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30059
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xr29]"><font size=+1><b>Forest~[xr29]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xr29], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47329
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ms00]"><font size=+1><b>Forest~[ms00]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ms00], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29400
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jp94]"><font size=+1><b>Forest~[jp94]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jp94], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25194
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ts93]"><font size=+1><b>Forest~[ts93]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ts93], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41493
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mn91]"><font size=+1><b>Forest~[mn91]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mn91], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29091
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hg52]"><font size=+1><b>Forest~[hg52]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hg52], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22552
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ng38]"><font size=+1><b>Forest~[ng38]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ng38], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30538
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zt33]"><font size=+1><b>Forest~[zt33]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zt33], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49533
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zv37]"><font size=+1><b>Forest~[zv37]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zv37], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49637
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tj52]"><font size=+1><b>Forest~[tj52]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tj52], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40752
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tx16]"><font size=+1><b>Forest~[tx16]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tx16], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41816
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sh03]"><font size=+1><b>Forest~[sh03]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sh03], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38603
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zf32]"><font size=+1><b>Forest~[zf32]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zf32], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 48432
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nk45]"><font size=+1><b>Forest~[nk45]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nk45], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30845
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xs57]"><font size=+1><b>Forest~[xs57]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xs57], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47457
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zw72]"><font size=+1><b>Forest~[zw72]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zw72], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49772
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ws91]"><font size=+1><b>Forest~[ws91]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ws91], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45491
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sd54]"><font size=+1><b>Forest~[sd54]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sd54], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38354
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ra63]"><font size=+1><b>Forest~[ra63]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ra63], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36063
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zg02]"><font size=+1><b>Forest~[zg02]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zg02], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 48502
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wk06]"><font size=+1><b>Forest~[wk06]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wk06], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44806
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ja58]"><font size=+1><b>Forest~[ja58]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ja58], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 24058
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nt68]"><font size=+1><b>Forest~[nt68]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nt68], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31568
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qj28]"><font size=+1><b>Forest~[qj28]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qj28], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 34728
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qa63]"><font size=+1><b>Forest~[qa63]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qa63], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 34063
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gt45]"><font size=+1><b>Forest~[gt45]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gt45], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21545
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qv18]"><font size=+1><b>Forest~[qv18]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qv18], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 35618
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nh93]"><font size=+1><b>Forest~[nh93]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nh93], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30693
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sd47]"><font size=+1><b>Forest~[sd47]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sd47], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38347
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[na66]"><font size=+1><b>Forest~[na66]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[na66], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30066
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ja53]"><font size=+1><b>Forest~[ja53]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ja53], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 24053
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nt77]"><font size=+1><b>Forest~[nt77]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nt77], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31577
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tk55]"><font size=+1><b>Forest~[tk55]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tk55], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40855
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nh42]"><font size=+1><b>Forest~[nh42]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nh42], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30642
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zz12]"><font size=+1><b>Forest~[zz12]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zz12], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49912
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gn72]"><font size=+1><b>Forest~[gn72]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gn72], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21072
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vn17]"><font size=+1><b>Forest~[vn17]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vn17], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 43017
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vh76]"><font size=+1><b>Forest~[vh76]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vh76], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42676
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ga20]"><font size=+1><b>Forest~[ga20]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ga20], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20020
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kc64]"><font size=+1><b>Forest~[kc64]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kc64], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26264
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nr03]"><font size=+1><b>Forest~[nr03]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nr03], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31303
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zs81]"><font size=+1><b>Forest~[zs81]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zs81], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49481
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[px90]"><font size=+1><b>Forest~[px90]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[px90], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33890
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gn78]"><font size=+1><b>Forest~[gn78]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gn78], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21078
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hc22]"><font size=+1><b>Forest~[hc22]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hc22], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22222
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hk72]"><font size=+1><b>Forest~[hk72]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hk72], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22872
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[js40]"><font size=+1><b>Forest~[js40]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[js40], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25440
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[na18]"><font size=+1><b>Forest~[na18]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[na18], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30018
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ka21]"><font size=+1><b>Forest~[ka21]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ka21], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26021
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ps68]"><font size=+1><b>Forest~[ps68]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ps68], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33468
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[th73]"><font size=+1><b>Forest~[th73]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[th73], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40673
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pv52]"><font size=+1><b>Forest~[pv52]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pv52], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33652
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sd07]"><font size=+1><b>Forest~[sd07]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sd07], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38307
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ms89]"><font size=+1><b>Forest~[ms89]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ms89], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29489
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mq54]"><font size=+1><b>Forest~[mq54]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mq54], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29254
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ws60]"><font size=+1><b>Forest~[ws60]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ws60], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45460
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wc42]"><font size=+1><b>Forest~[wc42]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wc42], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44242
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wa14]"><font size=+1><b>Forest~[wa14]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wa14], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44014
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ww96]"><font size=+1><b>Forest~[ww96]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ww96], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45796
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vb82]"><font size=+1><b>Forest~[vb82]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vb82], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42182
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hf81]"><font size=+1><b>Forest~[hf81]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hf81], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22481
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jk47]"><font size=+1><b>Forest~[jk47]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jk47], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 24847
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hk54]"><font size=+1><b>Forest~[hk54]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hk54], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22854
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gh61]"><font size=+1><b>Forest~[gh61]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gh61], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20661
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hm34]"><font size=+1><b>Forest~[hm34]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hm34], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22934
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pf39]"><font size=+1><b>Forest~[pf39]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pf39], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32439
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gm31]"><font size=+1><b>Forest~[gm31]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gm31], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20931
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mt43]"><font size=+1><b>Forest~[mt43]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mt43], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29543
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vc78]"><font size=+1><b>Forest~[vc78]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vc78], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42278
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ta54]"><font size=+1><b>Forest~[ta54]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ta54], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40054
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vp33]"><font size=+1><b>Forest~[vp33]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vp33], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 43133
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nv27]"><font size=+1><b>Forest~[nv27]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nv27], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31627
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xn41]"><font size=+1><b>Forest~[xn41]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xn41], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47041
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hc58]"><font size=+1><b>Forest~[hc58]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hc58], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22258
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ps58]"><font size=+1><b>Forest~[ps58]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ps58], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33458
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mn31]"><font size=+1><b>Forest~[mn31]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mn31], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29031
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mz26]"><font size=+1><b>Forest~[mz26]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mz26], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29926
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wp46]"><font size=+1><b>Forest~[wp46]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wp46], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45146
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pd66]"><font size=+1><b>Forest~[pd66]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pd66], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32366
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jw03]"><font size=+1><b>Forest~[jw03]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jw03], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25703
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pb49]"><font size=+1><b>Forest~[pb49]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pb49], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 32149
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

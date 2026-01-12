@@ -1,0 +1,266 @@
+go through mail and eliminate all g2 comments
+
+1. Where will the new Trade skill be offered?
+
+docs:
+	add g2changes list
+	include fast start guides in rules
+
+> And if so, would the noble retain the oathed
+> rating once control is converted?
+
+
+perhaps raise 0-2 beast rate to something a little higher
+
+doc:
+	build raft
+	survive fatal wound helps if you fall into the ocean
+	put route travel times chart in the rules
+
+text signup form, autoresponse server
+
+npc token unit:  one unit, not replaced if dies, fix lore sheets
+
+
+
+
+> a corallary for combat, Refuse Booty, which allows you to automatically
+> drop things like stone and wood, rather than be attacked by a lone noble
+> with 500 stone, just to pin you down for the turn.
+
+
+x.
+	Passing a faction whole to a new player seems okay to me,
+	so long as the recipient ends up playing only one faction.
+	Playing multiple positions is definitely against the rules,
+	but as you point out it is nearly impossible to enforce,
+	and there are grey areas, such as playing a friend's position
+	while they are away.
+	 
+	Perhaps I could include a new stern warning regarding
+	playing multiple positions, to make my position more clear
+	on this point.
+
+
+1.  $2.50 signup fee
+
+
+3.  Golden City
+	cost to enter
+	seed for sale items
+	teach list
+	or remove it
+
+4.  Check magic numbers in add.c and display.c
+
+
+html'ify turn report?
+
+Give Cloudlands a 3-D configuration
+
+GM relic owners
+
+Add random view of a starting city to the Times each month
+
+New unique artifacts:
+
+
+Helmet of Victory
+	provides a +1 attack bonus to every figure in a combat stack
+
+Sceptre of Birth:
+	USE of the sceptre will yield a random treasure
+	to the noble holding it (gold, rare book, aura boost
+	for mages, etc.)
+
+	The Sceptre may only be used once per faction.
+
+	Giving the sceptre to a noble belonging to a faction
+	which has never held it before will yield 1 NP to
+	the giver.
+
+The ring
+	Grants invisibility to one who possesses it, and a 50%
+	bonus to vision and scry attempts.  Also helps to pierce
+	through scry and vision shields.  Yields 1 aura/week extra
+	aura recovery.
+
+	Loss of the ring (by either giving it or having it taken away)
+	causes the noble to immediately fall ill and lose half his
+	health.  If the noble is a mage, his permanent aura is halved.
+
+Artifacts may not be carried via teleportation.
+
+
+Stone to govern where the flying cloud city goes
+
+
+Cloudstone:
+	makes the route up to the Cloudlands solid for the turn
+
+Golden City
+	huge cost in gold to enter, per head
+	special market there or something, with really
+	expensive stuff for sale
+
+	figure inflation by averaging the wealth of
+	the top 5 factions
+
+	the fee to enter the Golden City should be a percentage
+
+	min 5000
+
+	must put some good stuff up for sale there though
+
+	fee decays 5%/turn if no one enters
+	fee rises 50% * num to enter per turn
+
+
+o  Weapons that kill a single type of monster each time they are used.
+   Make only one for each monster type.  Make some of them ranged weapons.
+   A noble can only carry one such weapon at once (your "trade up" idea).
+ 
+o  Red slippers that return the noble -- and just the noble -- to the
+   location where he or she was formed ("There's no place like home...").
+   Any troops or other items carried by the noble will be given to the
+   noble's stack leader or the first noble stacked under the noble or
+   they will be dropped if there is no one to give the items to.  
+ 
+o  Items that allow all the available resources of one kind in a location 
+   (e.g. wood, stone, etc.) to be taken in one day by one noble (e.g.
+   a magic axe, a magic pick, a magic shovel, a magic rope, etc.).  Do a
+   sanity check on this one first but it shouldn't be too harmful for
+   the basic resources since most determined factions can all but do
+   this, anyway, with workers.
+ 
+o  Some sort of device that allows a certain weight to walk across water
+   without a boat.  Perhaps a magic raft.
+ 
+o  A magical hound that works like the real ones -- perhaps a little
+   bit better.
+
+
+
+Comments
+--------
+	Don't allow mage menial in safe havens?
+
+
+>  Relics; Nice idea, but the Throne (and others) should wiegh more.  The
+> Throne would be a nice 500 unit item, to my mind.  For inspiration for
+> other items, you might look to g1, where the factions, particularly the
+> early ones, did remarkable things worth memorializing.
+
+
+> Another notion might be a ship that moved faster than
+> normal, or flew, and was repairable but indestructible (at 0% it no
+> longer moved until repaired.  An automaton of 500,500,0 wieghing 5000, and
+> acting as an NPC might also be useful, and appropriate to Olympia.  A
+> stationary Oracle, prehaps set on an island, which had the same powers and
+> limitations as a priest's vision might also be nice.
+
+
+
+Orb of Darkness:
+	The Orb of Darkness is an aura sink.  It drains 2 aura per
+	week from every mage located in the same province, and 1
+	aura per week from every mage located in adjacent provinces.
+
+
+Dagger of Fire:
+	A gold and jewel encrusted blade which burns the minds
+	of nearby mages.  The Dagger inhibits the natural weekly
+	aura regeneration, as well as aura recovery via Meditation,
+	Advanced Meditation, and Trance, in the immediate and
+	adjacent provinces.
+
+Horn of Fear
+	The Horn of Fear produces an unearthly, terrifying wail, which
+	frightens men and beasts.  When heard in foggy provinces, all
+	men and beasts suffer a 50% chance of desertion, either by
+	madness, fighting amongst themselves, or simply freeing in
+	terror.
+
+	The Horn may be heard throughout the province in which it is
+	blown, as well as in adjacent provinces.
+
+	The horn must be used in Hades to acquire its terrifying
+	power.  It may then be used once in the normal world, after
+	which is must be returned to Hades before it may be used
+	again.  The horn is ineffective in Faery.
+
+capture winged horses subskill of beastmastery?
+
+Crooked staff of Oleg the Peasant
+
+	60%	25-125 peasants appear
+	20%	it starts to rain
+	20%	it starts to rain, and the noble
+		is struck by lightning (25-100 hit to health)
+
+Sceptre of Continuance
+
+	Increases decay rating time
+	requires gold as an offering to make work
+
+
+
+o  Every city teaches Combat (since you need combat to build troops)
+   and Construction (needed to build towers and such -- how a city
+   gets built up so it makes sense).
+ 
+o  Each city teaches a regional skill (Beastmastery in plains and
+   swamps [I suspect it will still be a much desired skill], Mining in
+   mountains, Forestry in forests, and Trading in deserts [how do you
+   think they maintain cities in the desert, huh? :->].  Any port
+   city will also teach Shipcraft in addition to any regional skill
+   indicated by the terrain outside of the city.  The six starting
+   safe havens should be divided between all five terrains with the
+   last city also being a forest city (basically, 2 Beastmastery, 
+   1 Trading, 1 Mining, and 2 Forestry cities). 
+ 
+o  Each city teaches a dark or subversive skill -- either Stealth
+   (50%), Persuasion (45%), or Necromancy (5%).  Exactly which of these
+   skills a city teaches will remain hidden until discovered by an
+   EXPLORE that turns it up.  This will allow for quests to find
+   Necromancy.  Safe havens will only have Stealth.  The idea is that
+   the underground of each city operates by one of these means and
+   you need to find it get get training in it.  Vary the percentages
+   to suit your tastes.  
+ 
+o  Each city will teach one magic skill -- Magic, Alchemy, Gatecraft,
+   Weather Magic, Scrying, or Artifact Construction.  Since that is
+   6 magics, you divide them between the six starting safe havens,
+   one each, and then randomly everywhere else.  This will add some
+   flavor the the starting selections.
+ 
+Where this differs from your plan is that Shipcraft is an extra and
+Forestry isn't guaranteed to starting players.  Magic is just another
+Magic and players can pick which magic they might want to start with
+by picking their starting city.  Finally, I think that obscuring Stealth,
+Persuasion, and Necromancy might add some flavor and hint that these
+are potentially troubling skills.  It makes people have to really work
+to find them.
+
+
+skew art distribution so a unique artifact comes out of the tunnels
+
+
+use max(men, beasts) for movement delay
+increase to 20 or more.  Hmmm.
+
+
+make the flying city & the keystone
+random movement at turn end if keystone hasn't been used
+
+
+
+Take auraculum notification.  No doubt the players who auraculated
+later in the game complained that notification put them at an unfair
+advantage.  Strictly speaking, that's of course true.  But doesn't
+that add some spice and interest to the game, knowing that if you do
+this thing you'll be challenging a power structure?  Doesn't it make
+it interesting to rush to be the first to auraculate?  It makes the
+decision on when to auraculate interesting as well.  Wait, and be more
+powerful?  Or auraculate sooner and get the drop on others who follow?
+

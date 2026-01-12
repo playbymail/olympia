@@ -1,0 +1,65 @@
+64999:Banner "Kiss my ass"
+64999:die
+64999:die
+64999:die
+64999:move north
+64999:move up
+64999:move north
+65789:die
+65789:die
+65789:die
+65789:move north
+65789:move north
+70532:decree hostile 108915
+70532:study 832
+70532:study 903
+70532:make 53
+70532:make 53
+70532:train 14
+70532:train 15
+70532:make 85
+76206:fly north
+76206:fly west
+76206:fly west
+76206:fly west
+76206:fly west
+76206:fly west
+76206:fly west
+76206:fly west
+76206:fly west
+76206:fly west
+50557:accept 0 0
+63664:stop
+63664:move out
+63664:attack 120247
+63664:give garrison 14
+63664:give garrison 61
+63664:give garrison 78
+63664:move east
+63664:give garrison 16
+63664:move north
+63664:give garrison 20
+63664:give garrison 21 3
+63664:move east
+63664:move east
+67736:get w196 15
+67736:give w196 22
+67736:give w196 54
+67736:give garrison 10
+67736:get garrison 12
+67736:move south
+67736:attack garrison
+67736:garrison p009
+67736:recruit 5
+67736:give w196 10
+67736:move west
+67736:recruit
+67736:train 12
+76196:behind 5
+76196:recruit 1
+76196:train 21
+76196:wait loc ak64
+76196:wood 5
+76196:make 85 1
+76196:train 21
+76196:make 85

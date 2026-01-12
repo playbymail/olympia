@@ -1,0 +1,603 @@
+10759:0::0:0:Garrison~[v386], garrison, with ten~peasants, ten~swordsmen guards Mountain~[aj59].
+56183:0::0:0:> accept 0 0
+74014:0::0:1:Arrival at Ocean~[bp49].
+74014:0::0:2:> fly s
+74014:0::0:2:Flying to Ocean~[bq49] will take three days.
+76867:0::0:2:The next religious act will surely succeed.
+76867:0::0:3:> pledge 0
+76867:0::0:3:Pledge cleared.  Lands will be claimed for ourselves.
+76867:0::0:3:> fly out
+76867:0::0:3:Flying to Mountain~[aj59] will take one day.
+76867:0::0:3:Arrival at Mountain~[aj59].
+76867:0::0:4:> fly w
+76867:0::0:4:Flying to Plain~[aj58] will take three days.
+74014:0::0:4:Arrival at Ocean~[bq49].
+74014:0::0:5:> fly s
+74014:0::0:5:Flying to Point-No-Point~[br49] will take two days.
+74014:0::0:6:Arrival at Point-No-Point~[br49].
+76867:0::0:6:Arrival at Plain~[aj58].
+74014:0::0:7:> fly w
+74014:0::0:7:Flying to Sith River Gap~[br48] will take three days.
+76867:0::0:7:> use 751 6835
+74014:0::0:9:Arrival at Sith River Gap~[br48].
+59168:0::0:10:Major Sinnlos~[131313], priest, with 12~winged horses, exited Graveyard~[a168].
+74014:0::0:10:> fly s
+74014:0::0:10:Flying to Sith River Gap~[bs48] will take three days.
+10759:0::0:10:Major Sinnlos~[131313], priest, with 12~winged horses, arrived from Graveyard~[a168].
+74014:0::0:12:Arrival at Sith River Gap~[bs48].
+74014:0::0:13:> fly w
+74014:0::0:13:Flying to Sith River Gap~[bs47] will take three days.
+74014:0::0:15:Arrival at Sith River Gap~[bs47].
+74014:0::0:16:> fly s
+74014:0::0:16:Flying to Sith River Gap~[bt47] will take three days.
+76867:0::0:16:Bishop of Bath and Welles~[w867] receives a vision of Tuberculosis~[6835]:
+76867:0::0:16:
+76867:0::0/16:16:Location:       Othkar~[a41], in province Phoenix Western Border~[cm23], in Provinia
+76867:0::0:16:Loyalty:        Unsworn-0
+76867:0::0:16:Health:         100%
+76867:0::0:16:Combat:         attack 101, defense 104, missile 86
+76867:0::0:16:                behind 0  (front line in combat)
+76867:0::0:16:Break point:    0% (fight to the death)
+76867:0::0:16:use  641 0      (not concealing self)
+76867:0::0:16:
+76867:0::0:16:Skills known:
+76867:0::3:16:Shipcraft~[600]
+76867:0::9:16:Sailing~[601], apprentice
+76867:0::9:16:Shipbuilding~[602], apprentice
+76867:0::3:16:Combat~[610]
+76867:0::9:16:Survive fatal wound~[611]
+76867:0::9:16:Fight to the death~[612]
+76867:0::9:16:Construct catapult~[613], apprentice
+76867:0::9:16:Defense~[614], journeyman
+76867:0::9:16:Archery~[615], journeyman
+76867:0::9:16:Swordplay~[616], journeyman
+76867:0::9:16:Weaponsmithing~[617], master
+76867:0::3:16:Stealth~[630]
+76867:0::9:16:Petty thievery~[631], apprentice
+76867:0::9:16:Determine inventory of character~[632], apprentice
+76867:0::9:16:Determine skills of character~[633], apprentice
+76867:0::9:16:Determine character's lord~[634], apprentice
+76867:0::9:16:Conceal self~[641], apprentice
+76867:0::3:16:Forestry~[700]
+76867:0::9:16:Harvest lumber~[702], grand master
+76867:0::9:16:Harvest yew~[703], apprentice
+76867:0::9:16:Collect rare foliage~[704], apprentice
+76867:0::3:16:Trade~[730]
+76867:0::9:16:Conceal identity of trader~[731], apprentice
+76867:0::9:16:Find tradegood for sale~[732], apprentice
+76867:0::9:16:Find market for tradegood~[733], apprentice
+76867:0::0:16:
+76867:0::0:16:Tuberculosis~[6835] has no possessions.
+76867:0::0:16:
+76867:0::0/11:16:Capacity:  0/100 land (0%)
+76867:0::0:16:
+76867:0::0:17:> use 753
+74014:0::0:18:Arrival at Sith River Gap~[bt47].
+74014:0::0:19:> fly w
+74014:0::0:19:Flying to Black Forest~[bt46] will take four days.
+76867:0::0:19:The next religious act will surely succeed.
+76867:0::0:20:> use 751 5681
+10759:0::0:20:Eirinn Banba~[6200], priest, with three~winged horses, 60~pikemen, arrived from the north.
+56183:0::0:20:Captain Laney~[c233] has passed on.  Gained 3 NPs.
+10759:0::0:21:Eirinn Banba~[6200], priest, with three~winged horses, ten~peasants, ten~swordsmen, went south.
+13448:0::0:21:It has begun to rain.
+10758:0::0:21:It has begun to rain.
+74014:0::0:22:Arrival at Black Forest~[bt46].
+74014:0::0:23:> fly w
+74014:0::0:23:Flying to Plain~[bt45] will take three days.
+74014:0::0:25:Arrival at Plain~[bt45].
+74014:0::0:26:> fly w
+74014:0::0:26:Flying to Plain~[bt44] will take three days.
+13348:0::0:26:It has begun to rain.
+13547:0::0:26:It has begun to rain.
+74014:0::0:28:Arrival at Plain~[bt44].
+74014:0::0:29:> fly w
+74014:0::0:29:Flying to Plain~[bt43] will take three days.
+76867:0::0:29:Failed to receive a vision.
+76867:0::0:30:> use 753
+13544:0::0:30:It has stopped raining.
+13447:0::0:30:It has stopped raining.
+10758:0::0::
+10758:0::0::Province controlled by Home~[p009], castle, in Mountain~[ah59]
+10758:0::0::Ruled by [8116], duke
+10758:0::0::
+10758:0::0::Routes leaving Plain: 
+10758:0::3::North, to Forest~[ah58], 8~days
+10758:0::3::East, to Mountain~[aj59], 10~days
+10758:0::3::South, to Desert~[ak58], 8~days
+10758:0::3::West, to Desert~[aj57], 8~days
+10758:0::0::
+10758:0::0::It is raining.
+10758:0::0::
+10758:0::0::Seen here:
+10758:0::0/3::   Garrison~[9027], garrison, on guard, with ten~peasants
+10759:0::0::
+10759:0::0::Province controlled by Home~[p009], castle, in Mountain~[ah59]
+10759:0::0::Ruled by [8116], duke
+10759:0::0::
+10759:0::0::Routes leaving Mountain: 
+10759:0::3::North, to Mountain~[ah59], 10~days
+10759:0::3::East, to Swamp~[aj60], 14~days
+10759:0::3::South, to Forest~[ak59], 8~days
+10759:0::3::West, to Plain~[aj58], 7~days
+10759:0::0::
+10759:0::0::Inner locations:
+10759:0::3::Graveyard~[a168], graveyard, 1 day
+10759:0::0::
+10759:0::0::It is raining.
+10759:0::0::
+10759:0::0::Seen here:
+10759:0::0/3::   Garrison~[v386], garrison, on guard, with 60~pikemen
+10759:0::0/3::   Major Sinnlos~[131313], priest, with 12~winged horses
+13049:0::0::
+13049:0::0::Routes leaving Ocean: 
+13049:0::3::North, to Mountain~[bm49], Krussos, impassable
+13049:0::3::East, to Ocean~[bn50], 3~days
+13049:0::3::South, to Ocean~[bp49], 3~days
+13049:0::3::West, to Ocean~[bn48], 3~days
+13049:0::0::
+13049:0::0::It is raining.
+13149:0::0::
+13149:0::0::Routes leaving Ocean: 
+13149:0::3::North, to Ocean~[bn49], 3~days
+13149:0::3::East, to Ocean~[bp50], 3~days
+13149:0::3::South, to Ocean~[bq49], 3~days
+13149:0::3::West, to Ocean~[bp48], 3~days
+13149:0::0::
+13149:0::0::It is raining.
+13249:0::0::
+13249:0::0::Routes leaving Ocean: 
+13249:0::3::North, to Ocean~[bp49], 3~days
+13249:0::3::East, to Ocean~[bq50], 3~days
+13249:0::3::South, mountain, to Point-No-Point~[br49], Provinia, impassable
+13249:0::3::West, to Ocean~[bq48], 3~days
+13249:0::0::
+13249:0::0::It is raining.
+13348:0::0::
+13348:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13348:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13348:0::0::
+13348:0::0::Routes leaving Sith River Gap: 
+13348:0::3::North, to Ocean~[bq48], Great Sea, 2~days
+13348:0::3::East, mountain, to Point-No-Point~[br49], 10~days
+13348:0::3::South, plain, to Sith River Gap~[bs48], 7~days
+13348:0::3::West, forest, to Black Forest~[br47], 8~days
+13348:0::0::
+13348:0::0::It is raining.
+13348:0::0::
+13348:0::0::Seen here:
+13348:0::0/3::   Garrison~[83453], garrison, on guard, with ten~soldiers
+13349:0::0::
+13349:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13349:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13349:0::0::
+13349:0::0::Routes leaving Point-No-Point: 
+13349:0::3::North, to Ocean~[bq49], Great Sea, impassable
+13349:0::3::East, to Ocean~[br50], Great Sea, impassable
+13349:0::3::South, to Forest~[bs49], 8~days
+13349:0::3::West, plain, to Sith River Gap~[br48], 7~days
+13349:0::0::
+13349:0::0::Inner locations:
+13349:0::3::Graveyard~[a916], graveyard, 1 day, owner:
+13349:0::0/6::      Polbert~[119109], with three~winged horses
+13349:0::0::
+13349:0::0::It is raining.
+13349:0::0::
+13349:0::0::Seen here:
+13349:0::0/3::   Garrison~[1300], garrison, on guard, with ten~soldiers
+13447:0::0::
+13447:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13447:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13447:0::0::
+13447:0::0::Routes leaving Sith River Gap: 
+13447:0::3::North, forest, to Black Forest~[br47], 8~days
+13447:0::3::East, plain, to Sith River Gap~[bs48], 7~days
+13447:0::3::South, plain, to Sith River Gap~[bt47], 7~days
+13447:0::3::West, forest, to Black Forest~[bs46], 8~days
+13447:0::0::
+13447:0::0::Inner locations:
+13447:0::3::Graveyard~[b092], graveyard, 1 day
+13447:0::0::
+13447:0::0::Seen here:
+13447:0::0/3::   Garrison~[119215], garrison, on guard, with ten~soldiers
+13448:0::0::
+13448:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13448:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13448:0::0::
+13448:0::0::Routes leaving Sith River Gap: 
+13448:0::3::North, plain, to Sith River Gap~[br48], 7~days
+13448:0::3::East, to Forest~[bs49], 8~days
+13448:0::3::South, to Forest~[bt48], 8~days
+13448:0::3::West, plain, to Sith River Gap~[bs47], 7~days
+13448:0::0::
+13448:0::0::It is raining.
+13448:0::0::
+13448:0::0::Seen here:
+13448:0::0/3::   Garrison~[5481], garrison, on guard, with ten~soldiers
+13544:0::0::
+13544:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13544:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13544:0::0::
+13544:0::0::Routes leaving Plain: 
+13544:0::3::North, to Plain~[bs44], 7~days
+13544:0::3::East, to Plain~[bt45], 7~days
+13544:0::3::South, mountain, to Mount Spirit~[bv44], 10~days
+13544:0::3::West, to Plain~[bt43], 7~days
+13544:0::0::
+13544:0::0::Inner locations:
+13544:0::3::Pasture~[f140], pasture, 1 day
+13544:0::3::Poppy field~[g504], poppy field, 1 day
+13544:0::0::
+13544:0::0::Seen here:
+13544:0::0/3::   Garrison~[4526], garrison, on guard, with ten~soldiers
+13545:0::0::
+13545:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13545:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13545:0::0::
+13545:0::0::Routes leaving Plain: 
+13545:0::3::North, forest, to Black Forest~[bs45], 8~days
+13545:0::3::East, forest, to Black Forest~[bt46], 8~days
+13545:0::3::South, to Desert~[bv45], 8~days
+13545:0::3::West, to Plain~[bt44], 7~days
+13545:0::0::
+13545:0::0::Inner locations:
+13545:0::3::Sacred grove~[f360], sacred grove, 1 day
+13545:0::0::
+13545:0::0::It is raining.
+13545:0::0::
+13545:0::0::Seen here:
+13545:0::0/3::   Garrison~[100444], garrison, on guard, with ten~soldiers
+13546:0::0::
+13546:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13546:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13546:0::0::
+13546:0::0::Routes leaving Black Forest: 
+13546:0::3::North, forest, to Black Forest~[bs46], 8~days
+13546:0::3::East, plain, to Sith River Gap~[bt47], 7~days
+13546:0::3::South, to Desert~[bv46], 8~days
+13546:0::3::West, to Plain~[bt45], 7~days
+13546:0::0::
+13546:0::0::It is raining.
+13546:0::0::
+13546:0::0::Seen here:
+13546:0::0/3::   Garrison~[97586], garrison, on guard, with ten~soldiers
+13547:0::0::
+13547:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13547:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13547:0::0::
+13547:0::0::Routes leaving Sith River Gap: 
+13547:0::3::North, plain, to Sith River Gap~[bs47], 7~days
+13547:0::3::East, to Forest~[bt48], 8~days
+13547:0::3::South, mountain, to Llangollen Mountain Ridge~[bv47], 10~days
+13547:0::3::West, forest, to Black Forest~[bt46], 8~days
+13547:0::0::
+13547:0::0::It is raining.
+13547:0::0::
+13547:0::0::Seen here:
+13547:0::0/3::   Garrison~[s884], garrison, on guard, with ten~soldiers
+59168:0::0::
+59168:0::0::Routes leaving Graveyard: 
+59168:0::3::Out, to Mountain~[aj59], 1~day
+59168:0::0::
+59168:0::0::It is raining.
+5:0::0::
+5:0::0::begin xu3 "zehnmaSS"  # Streams
+5:0::0::
+5:0::0::unit xu3  # Streams
+5:0::0::
+5:0::0::unit t014  # Major Lathan in Plain~[bt44]
+5:0::3::# > fly w (executing for one more day)
+5:0::3::fly w
+5:0::3::fly w
+5:0::0::
+5:0::0::unit w867  # Bishop of Bath and Welles in Plain~[aj58]
+5:0::3::# > use 753 (executing for two more days)
+5:0::0::
+5:0::0::end
+56183:0::0::
+56183:0::0::Admit permissions:
+56183:0::0::
+56183:0::3::admit 3575  yq6
+56183:0::3::admit 5277  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  wc9  xu3
+56183:0::3::            ze2  yq6  xp6
+56183:0::3::admit 6242  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  wc9  xu3
+56183:0::3::            ze2  yq6  xp6
+56183:0::3::admit  xu3  yq6  ak6  en6  wz6  zz4  em7
+56183:0::3::admit t014  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  wc9  xu3
+56183:0::3::            ze2  yq6  xp6
+56183:0::3::admit w932  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  wc9  xu3
+56183:0::3::            ze2  yq6  xp6
+56183:0::0::
+56183:0::0::Unclaimed items:
+56183:0::0::
+56183:0::0::      qty  name                              weight
+56183:0::0::      ---  ----                              ------
+56183:0::0::    1,680  gold~[1]                               0  
+56183:0::0::      100  stone~[78]                        10,000  
+74014:0::3::
+74014:0::3/16::Location:       Plain~[bt44], in Provinia
+74014:0::3::Loyalty:        Oath-1
+74014:0::3::Health:         100%
+74014:0::3::Combat:         attack 80, defense 110, missile 50
+74014:0::3::                behind 0  (front line in combat)
+74014:0::3::Break point:    0% (fight to the death)
+74014:0::3::use  641 1      (concealing self)
+74014:0::3::
+74014:0::3::Current aura:   15
+74014:0::3::Maximum aura:   15
+74014:0::3::
+74014:0::3::Skills known:
+74014:0::6::Combat~[610]
+74014:0::12::Fight to the death~[612]
+74014:0::12::Defense~[614], adept
+74014:0::12::Archery~[615], apprentice
+74014:0::6::Stealth~[630]
+74014:0::12::Learn of richest nearby noble~[636], apprentice
+74014:0::12::Sneak into structure~[639], apprentice
+74014:0::12::Conceal self~[641], apprentice
+74014:0::6::Construction~[680]
+74014:0::12::Construct siege tower~[681], apprentice
+74014:0::6::Alchemy~[690]
+74014:0::12::Extract venom from ratspider~[691], apprentice
+74014:0::12::Make potion of slavery~[692], apprentice
+74014:0::12::Brew healing potion~[693], apprentice
+74014:0::12::Brew potion of death~[694], apprentice
+74014:0::12::Collect rare elements~[696], apprentice
+74014:0::6::Magic~[800]
+74014:0::12::Meditate~[801], apprentice
+74014:0::12::Perform common tasks for gold~[802], master
+74014:0::12::Appear common~[803], apprentice
+74014:0::12::View current aura level of others~[804], apprentice
+74014:0::12::Reveal abilities of another mage~[805], apprentice
+74014:0::12::Tap health for aura~[806], apprentice
+74014:0::12::Heal~[807], journeyman
+74014:0::12::Modern magic script~[808], apprentice
+74014:0::12::Shroud abilities from scry~[809], apprentice
+74014:0::12::Detect ability scry~[811], apprentice
+74014:0::12::Dispel ability shroud~[812], apprentice
+74014:0::12::Hinder meditation~[814], apprentice
+74014:0::6::Scrying~[840]
+74014:0::12::Scry location~[841], apprentice
+74014:0::3::
+74014:0::3::Inventory:
+74014:0::3::{<b>}      qty  name                              weight{</b>}
+74014:0::3::      ---  ----                              ------
+74014:0::3::      622  gold~[1]                               0  
+74014:0::3::        2  winged horses~[54]                 2,000  fly 300
+74014:0::3::                                             ======
+74014:0::3::                                              2,000
+74014:0::3::
+74014:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%), 100/300 fly (33%)
+74014:0::3::
+76867:0::3::
+76867:0::3/16::Location:       Plain~[aj58], in Atala
+76867:0::3::Loyalty:        Oath-1
+76867:0::3::Health:         100%
+76867:0::3::Combat:         attack 80, defense 30, missile 0
+76867:0::3::                behind 1  (stay behind in combat)
+76867:0::3::Break point:    0% (fight to the death)
+76867:0::3::use  641 1      (concealing self)
+76867:0::3::Receive Vision: 5 protection
+76867:0::3::Banner:         The terrible baby-eating bishop.
+76867:0::3::
+76867:0::3::Skills known:
+76867:0::6::Combat~[610]
+76867:0::12::Fight to the death~[612]
+76867:0::12::Swordplay~[616], apprentice
+76867:0::6::Stealth~[630]
+76867:0::12::Determine skills of character~[633], apprentice
+76867:0::12::Conceal faction~[635], apprentice
+76867:0::12::Conceal self~[641], apprentice
+76867:0::6::Beastmastery~[650]
+76867:0::12::Breed beasts~[654], master
+76867:0::6::Persuasion~[670]
+76867:0::12::Bribe noble~[671], apprentice
+76867:0::12::Persuade oathbound noble~[672], apprentice
+76867:0::6::Trade~[730]
+76867:0::12::Find tradegood for sale~[732], apprentice
+76867:0::12::Find market for tradegood~[733], apprentice
+76867:0::6::Religion~[750]
+76867:0::12::Receive vision~[751], apprentice
+76867:0::12::Resurrect dead noble~[752], apprentice
+76867:0::12::Preparatory ritual~[753], journeyman
+76867:0::12::Lay to rest~[754], apprentice
+76867:0::12::Immunity from Vision~[756], apprentice
+76867:0::3::
+76867:0::3::Partially known skills:
+76867:0::6/6::Torture prisoner~[637], 17/21
+76867:0::6/6::Incite mob violence~[675], 3/21
+76867:0::3::
+76867:0::3::Inventory:
+76867:0::3::{<b>}      qty  name                              weight{</b>}
+76867:0::3::      ---  ----                              ------
+76867:0::3::    1,717  gold~[1]                               0  
+76867:0::3::        6  winged horses~[54]                 6,000  fly 900
+76867:0::3::                                             ======
+76867:0::3::                                              6,000
+76867:0::3::
+76867:0::3/11::Capacity:  0/1,000 land (0%), 100/900 ride (11%), 100/900 fly (11%)
+76867:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Streams~[xu3].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/xu3/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [xu3]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         2  116th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           2,339  91st   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   33/74  73rd   
+0:0::3/41::Spells known:                   15/79  81st   
+0:0::3/41::Provinces visited:         321/31,919  87th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  25     (4 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  105910 127846 97427 138943 119492
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::t014   bt44   o1    100  0 15  622                            Major Lathan
+0:0::0::w867   aj58   o1    100  1    1717                            Bishop of Bath
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              2339                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Plain~[bt44]                     Major Lathan~[t014]
+0:0::0::Atala
+0:0::0::  Plain~[aj58]                     Bishop of Bath and Welles~[w867]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  t014       2,100        400   0%        200  33%        200  33%
+0:0::0::  w867       6,100      1,000   0%        800  11%        800  11%
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Streams~[xu3]"><font size=+1><b>Streams~[xu3]</b></font>
+1:2::0::<hr>
+1:1::0::Streams~[xu3]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 56183
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Major Lathan~[t014]"><font size=+1><b>Major Lathan~[t014]</b></font>
+1:2::0::<hr>
+1:1::0::Major Lathan~[t014]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 74014
+1:0::0::
+1:2::0::
+1:2::0::<name="Bishop of Bath and Welles~[w867]"><font size=+1><b>Bishop of Bath and Welles~[w867]</b></font>
+1:2::0::<hr>
+1:1::0::Bishop of Bath and Welles~[w867]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 76867
+1:2::0::
+1:2::0::<name="Ocean~[bn49]"><font size=+1><b>Ocean~[bn49]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bn49], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13049
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bp49]"><font size=+1><b>Ocean~[bp49]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bp49], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13149
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[bq49]"><font size=+1><b>Ocean~[bq49]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[bq49], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13249
+1:0::0::
+1:2::0::
+1:2::0::<name="Sith River Gap~[br48]"><font size=+1><b>Sith River Gap~[br48]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Sith River Gap~[br48], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13348
+1:0::0::
+1:2::0::
+1:2::0::<name="Point-No-Point~[br49]"><font size=+1><b>Point-No-Point~[br49]</b>, mountain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Point-No-Point~[br49], mountain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13349
+1:0::0::
+1:2::0::
+1:2::0::<name="Sith River Gap~[bs47]"><font size=+1><b>Sith River Gap~[bs47]</b>, plain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Sith River Gap~[bs47], plain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13447
+1:0::0::
+1:2::0::
+1:2::0::<name="Sith River Gap~[bs48]"><font size=+1><b>Sith River Gap~[bs48]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Sith River Gap~[bs48], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13448
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bt44]"><font size=+1><b>Plain~[bt44]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bt44], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13544
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bt45]"><font size=+1><b>Plain~[bt45]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[bt45], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13545
+1:0::0::
+1:2::0::
+1:2::0::<name="Black Forest~[bt46]"><font size=+1><b>Black Forest~[bt46]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Black Forest~[bt46], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13546
+1:0::0::
+1:2::0::
+1:2::0::<name="Sith River Gap~[bt47]"><font size=+1><b>Sith River Gap~[bt47]</b>, plain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Sith River Gap~[bt47], plain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13547
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[aj58]"><font size=+1><b>Plain~[aj58]</b>, plain, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[aj58], plain, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10758
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[aj59]"><font size=+1><b>Mountain~[aj59]</b>, mountain, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Mountain~[aj59], mountain, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10759
+1:0::0::
+1:2::0::
+1:2::0::<name="Graveyard~[a168]"><font size=+1><b>Graveyard~[a168]</b>, graveyard, in province Mountain~[aj59]</font>
+1:2::0::<hr>
+1:1::0::Graveyard~[a168], graveyard, in province Mountain~[aj59]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 59168
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

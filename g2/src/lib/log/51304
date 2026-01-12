@@ -1,0 +1,433 @@
+13645:0::0:0:Garrison~[h701], garrison, with ten~soldiers guards Desert~[bv45].
+13451:0::0:0:Garrison~[139084], garrison, with ten~soldiers, eight~workers guards Forest~[bs51].
+57081:0::0:1:Greyfell~[d21] sold 25~flax~[116012] for 375~gold.
+13645:0::0:4:Bound ToDie~[89629], with 33~winged horses, arrived from the west.
+57081:0::0:5:Greyfell~[d21] sold 47~beans~[95161] for 611~gold.
+57081:0::0:5:Greyfell~[d21] sold 13~flax~[116012] for 195~gold.
+13645:0::0:5:Bound ToDie~[89629], with 33~winged horses, went east.
+13645:0::0:15:Iaropolk~[a116], priest, with four~catapults, 13~oxen, went west.
+13645:0::0:17:Brastynbold Elphaendim~[w083], with 52~winged horses, arrived from the west.
+13645:0::0:18:Brastynbold Elphaendim~[w083], with 52~winged horses, went east.
+13645:0::0:19:Morgan Thalasi~[7897], with five~workers, five~soldiers, six~wild horses, two~winged horses, three~oxen, arrived from the north.
+13645:0::0:20:Morgan Thalasi~[7897], with five~workers, five~soldiers, six~wild horses, two~winged horses, three~oxen, went east.
+10101:0::0:21:It has begun to rain.
+13645:0::0:22:Bound ToDie~[89629], with 33~winged horses, arrived from the east.
+13645:0::0:23:Bound ToDie~[89629], with 33~winged horses, went west.
+10101:0::0::
+10101:0::0::Routes leaving Ocean: 
+10101:0::3::North, to Ocean~[aa01], 3~days
+10101:0::3::East, to Ocean~[ab02], 3~days
+10101:0::3::South, to Ocean~[ac01], 3~days
+10101:0::3::West, to Ocean~[ab00], 3~days
+10101:0::0::
+10101:0::0::Inner locations:
+10101:0::3::Island~[p600], island, hidden, 1 day, owner:
+10101:0::0/6:: *    Sir Alexander~[x352]
+10101:0::0::
+10101:0::0::It is raining.
+13451:0::0::
+13451:0::0::Routes leaving Forest: 
+13451:0::3::North, to Ocean~[br51], Great Sea, impassable
+13451:0::3::East, to Ocean~[bs52], Great Sea, impassable
+13451:0::3::South, plain, to Dencedian Plains~[bt51], 7~days
+13451:0::3::West, plain, to Greyfell Downs~[bs50], 7~days
+13451:0::0::
+13451:0::0::Inner locations:
+13451:0::3::Greyfell~[d21], port city, safe haven, 1 day
+13451:0::0::
+13451:0::0::It is raining.
+13451:0::0::
+13451:0::0::Seen here:
+13451:0::0/3::   Garrison~[139084], garrison, on guard, with ten~soldiers, eight~workers
+13645:0::0::
+13645:0::0::Province controlled by Joyous Guard~[2042], castle, in Llangollen Mountain Ridge~[bv47]
+13645:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+13645:0::0::
+13645:0::0::Routes leaving Desert: 
+13645:0::3::North, to Plain~[bt45], 7~days
+13645:0::3::East, to Desert~[bv46], 8~days
+13645:0::3::South, to Swamp~[bw45], 14~days
+13645:0::3::West, mountain, to Mount Spirit~[bv44], 10~days
+13645:0::0::
+13645:0::0::Inner locations:
+13645:0::3::Sand pit~[f390], sand pit, 1 day
+13645:0::0::
+13645:0::0::It is raining.
+13645:0::0::
+13645:0::0::Seen here:
+13645:0::0/3::   Garrison~[h701], garrison, on guard, with ten~soldiers
+13645:0::0/3:: * Lord Demosthenes~[m621]
+57081:0::0::
+57081:0::0::Routes leaving Greyfell: 
+57081:0::3::North, to Ocean~[br51], Great Sea, 1~day
+57081:0::3::East, to Ocean~[bs52], Great Sea, 1~day
+57081:0::3::Out, to Forest~[bs51], 1~day
+57081:0::0::
+57081:0::0::Cities rumored to be nearby:
+57081:0::3::Adalgar~[k65], in Darklord Mountain~[bz51]
+57081:0::3::Alaris~[p05], in Mountain~[bk51]
+57081:0::3::Port Royal~[t65], in Buzzard Bay~[bt55]
+57081:0::3::Dencede~[z47], in Dencedian Woods~[bv51]
+57081:0::0::
+57081:0::0::Skills taught here:
+57081:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+57081:0::0::
+57081:0::0::Market report:
+57081:0::3::
+57081:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57081:0::3::-----    ---   -----    ---     -----   ----                     
+57081:0::3::  buy   j231      10     11        65   plum wine~[a606]         
+57081:0::3::  buy   j231       4     29     1,000   winged horses~[54]       
+57081:0::3::  buy      ?      15     25       100   flax~[116012]            
+57081:0::3::  buy    d21     155     45        45   silk~[92764]             
+57081:0::3::  buy    d21       2    100         2   fish~[87]                
+57081:0::3::  buy    d21     196     32        15   rose perfume~[95676]     
+57081:0::3::  buy    d21       7      9         5   clay pots~[95]           
+57081:0::3::  buy    d21     144     28        28   myrrh~[92839]            
+57081:0::3::  buy    d21      71     49        55   cinnabar~[104269]        
+57081:0::3:: sell   7524       3    100         1   woven baskets~[94]       
+57081:0::3:: sell   j231     100      5        65   plum wine~[a836]         
+57081:0::3:: sell   7524     300      1         2   drum~[98]                
+57081:0::3:: sell    d21     110     34       100   jade~[q787]              
+57081:0::3:: sell    d21      50     10       100   pitch~[261]              
+57081:0::3:: sell    d21     120     29       100   ivory~[x371]             
+57081:0::3:: sell    d21      11     25        30   wood~[77]                
+57081:0::3:: sell    d21      13     47       100   beans~[95161]            
+57081:0::3:: sell    d21      15     38       100   flax~[116012]            
+57081:0::0::
+57081:0::0::Inner locations:
+57081:0::3::The Tower~[5334], tower, defense~40, owner:
+57081:0::0/6::      Spud~[1193], with eight~peasants, one~worker, four~swordsmen, two~riding horses
+57081:0::3::Greyfell Lords Retreat~[q910], tower, defense~40
+57081:0::3::Palazzo di Bicci~[2977], tower, defense~40
+57081:0::3::Sunken Refuge~[80786], tower, defense~40
+57081:0::0::
+57081:0::0::It is raining.
+57081:0::0::
+57081:0::0::Seen here:
+57081:0::0/3::   Mortimor~[132213]
+57081:0::0/3::   CH_HAVIC~[102267]
+57081:0::0/3::   Damon~[144730]
+57081:0::0/3::   Aravor Dunedin~[126607], accompanied~by:
+57081:0::0/6::      Grogan~[129226]
+57081:0::0/6::      Kron~[107428]
+57081:0::0/6::      Festar~[86099]
+57081:0::0/3::   Shadow~[m839]
+57081:0::0/3::   AcidDragon~[h083]
+57081:0::0/3::   morfix~[1970]
+57081:0::0/3::   Traveling Man~[3392], with one~wild horse, four~centaurs
+57081:0::0/3::   Red Phoenix~[7524], mage, "{<i>}Items for sale until day 14 of next round{</i>}", with one~riding horse, two~centaurs
+57081:0::0/3::   O Great Relief~[6098], with three~workers, one~battering ram
+57081:0::0/3::   Lady Adina~[120795]
+57081:0::0/3:: * Moe~[j231]
+57081:0::0::
+57081:0::0::Ships docked at port:
+57081:0::3/3::Boca Junket~[1864], roundship, 42% loaded, defense~10, owner:
+57081:0::0/6:: *    Scurvy  Joe~[d601], with six~riding horses, two~winged horses
+57081:0::3/3::Hound of Ulster~[1127], galley, 4% loaded, defense~20, owner:
+57081:0::0/6::      Medb Feidlech~[5615]
+57081:0::0/6::      New noble~[z655]
+57081:0::3/3::Falcon I~[81498], roundship-in-progress, 39% completed, 0% loaded
+5:0::0::
+5:0::0::begin fa4 "Alzugaray"  # The Watchers
+5:0::0::
+5:0::0::unit fa4  # The Watchers
+5:0::0::
+5:0::0::unit x352  # Sir Alexander in Island~[p600]
+5:0::0::
+5:0::0::unit d601  # Scurvy  Joe in Boca Junket~[1864]
+5:0::0::
+5:0::0::unit j231  # Moe in Greyfell~[d21]
+5:0::0::
+5:0::0::unit m621  # Lord Demosthenes in Desert~[bv45]
+5:0::0::
+5:0::0::end
+51304:0::0::
+51304:0::0::Unclaimed items:
+51304:0::0::
+51304:0::0::      qty  name                              weight
+51304:0::0::      ---  ----                              ------
+51304:0::0::    3,575  gold~[1]                               0  
+62601:0::3::
+62601:0::3/16::Location:       Boca Junket~[1864], in Greyfell~[d21], in province Forest~[bs51], in Provinia
+62601:0::3::Loyalty:        Oath-1
+62601:0::3::Health:         100%
+62601:0::3::Combat:         attack 80, defense 80, missile 0
+62601:0::3::                behind 0  (front line in combat)
+62601:0::3::Break point:    50%
+62601:0::3::
+62601:0::3::Skills known:
+62601:0::6::Shipcraft~[600]
+62601:0::12::Sailing~[601], apprentice
+62601:0::12::Fishing~[603], apprentice
+62601:0::6::Forestry~[700]
+62601:0::12::Harvest lumber~[702], journeyman
+62601:0::3::
+62601:0::3::Inventory:
+62601:0::3::{<b>}      qty  name                              weight{</b>}
+62601:0::3::      ---  ----                              ------
+62601:0::3::        1  gold~[1]                               0  
+62601:0::3::        6  riding horses~[52]                 6,000  ride 900
+62601:0::3::        2  winged horses~[54]                 2,000  fly 300
+62601:0::3::       65  wood~[77]                          1,950  
+62601:0::3::       67  woven baskets~[94]                    67  
+62601:0::3::      110  clay pots~[95]                       550  
+62601:0::3::                                             ======
+62601:0::3::                                             10,567
+62601:0::3::
+62601:0::3/11::Capacity:  2,567/1,300 land (197%), 2,667/1,200 ride (222%), 8,667/300 fly (2889%)
+62601:0::3::
+62601:0::3::Pending trades:
+62601:0::3::
+62601:0::6::trade    price    qty   item
+62601:0::6::-----    -----    ---   ----
+62601:0::6:: sell        2    110   clay pot~[95]
+62601:0::6:: sell        2     67   woven basket~[94]
+62601:0::6::  buy        2     50   wood~[77]
+62601:0::6:: sell        5     30   wood~[77]
+62601:0::3::
+66231:0::3::
+66231:0::3/16::Location:       Greyfell~[d21], in province Forest~[bs51], in Provinia
+66231:0::3::Loyalty:        Oath-1
+66231:0::3::Health:         100%
+66231:0::3::Combat:         attack 80, defense 80, missile 0
+66231:0::3::                behind 0  (front line in combat)
+66231:0::3::Break point:    50%
+66231:0::3::
+66231:0::3::Skills known:
+66231:0::6::Shipcraft~[600]
+66231:0::6::Combat~[610]
+66231:0::12::Survive fatal wound~[611]
+66231:0::12::Fight to the death~[612]
+66231:0::6::Forestry~[700]
+66231:0::12::Harvest yew~[703], apprentice
+66231:0::6::Trade~[730]
+66231:0::3::
+66231:0::3::Inventory:
+66231:0::3::{<b>}      qty  name                              weight{</b>}
+66231:0::3::      ---  ----                              ------
+66231:0::3::      116  gold~[1]                               0  
+66231:0::3::        7  woven baskets~[94]                     7  
+66231:0::3::        5  plum wine~[a836]                     325  
+66231:0::3::                                             ======
+66231:0::3::                                                332
+66231:0::3::
+66231:0::3/11::Capacity:  332/100 land (332%)
+66231:0::3::
+66231:0::3::Pending trades:
+66231:0::3::
+66231:0::6::trade    price    qty   item
+66231:0::6::-----    -----    ---   ----
+66231:0::6:: sell        5     14   opium~[93]
+66231:0::6:: sell      100      5   plum wine~[a836]
+66231:0::6::  buy       10     45   plum wine~[a606]
+66231:0::6::  buy        4     75   winged horse~[54]
+66231:0::3::
+68621:0::3::
+68621:0::3/16::Location:       Desert~[bv45], in Provinia
+68621:0::3::Loyalty:        Oath-1
+68621:0::3::Health:         100%
+68621:0::3::Combat:         attack 80, defense 80, missile 0
+68621:0::3::                behind 0  (front line in combat)
+68621:0::3::Break point:    50%
+68621:0::3::
+68621:0::3::Skills known:
+68621:0::6::Combat~[610]
+68621:0::6::Beastmastery~[650]
+68621:0::12::Capture beasts in battle~[652]
+68621:0::12::Use beasts in battle~[653]
+68621:0::12::Breed beasts~[654], apprentice
+68621:0::12::Catch wild horses~[655], journeyman
+68621:0::12::Train wild horse to riding horse~[656], adept
+68621:0::6::Trade~[730]
+68621:0::12::Find tradegood for sale~[732], apprentice
+68621:0::3::
+68621:0::3::Lord Demosthenes~[m621] has no possessions.
+68621:0::3::
+68621:0::3/11::Capacity:  0/100 land (0%)
+68621:0::3::
+68621:0::3::Pending trades:
+68621:0::3::
+68621:0::6::trade    price    qty   item
+68621:0::6::-----    -----    ---   ----
+68621:0::6:: sell        2      5   woven basket~[94]
+68621:0::6:: sell       80      5   riding horse~[52]
+68621:0::3::
+77352:0::3::
+77352:0::3/16::Location:       Island~[p600], in Ocean~[ab01], in Great Sea
+77352:0::3::Loyalty:        Oath-2
+77352:0::3::Health:         100%
+77352:0::3::Combat:         attack 113, defense 117, missile 64
+77352:0::3::                behind 0  (front line in combat)
+77352:0::3::Break point:    50%
+77352:0::3::
+77352:0::3::Current aura:   2
+77352:0::3::Maximum aura:   2
+77352:0::3::
+77352:0::3::Skills known:
+77352:0::6::Combat~[610]
+77352:0::12::Fight to the death~[612]
+77352:0::12::Defense~[614], journeyman
+77352:0::12::Archery~[615], apprentice
+77352:0::12::Swordplay~[616], journeyman
+77352:0::12::Weaponsmithing~[617], apprentice
+77352:0::6::Stealth~[630]
+77352:0::6::Beastmastery~[650]
+77352:0::6::Forestry~[700]
+77352:0::12::Harvest opium~[706], apprentice
+77352:0::6::Trade~[730]
+77352:0::6::Magic~[800]
+77352:0::12::Perform common tasks for gold~[802], apprentice
+77352:0::3::
+77352:0::3::Partially known skills:
+77352:0::6/6::Capture beasts in battle~[652], 21/28
+77352:0::3::
+77352:0::3::Sir Alexander~[x352] has no possessions.
+77352:0::3::
+77352:0::3/11::Capacity:  0/100 land (0%)
+77352:0::3::
+77352:0::3::Pending trades:
+77352:0::3::
+77352:0::6::trade    price    qty   item
+77352:0::6::-----    -----    ---   ----
+77352:0::6:: sell        3     33   woven basket~[94]
+77352:0::6:: sell        2     50   wood~[77]
+77352:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Watchers~[fa4].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/fa4/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [fa4]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         4  93rd   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                             117  107th  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   23/74  89th   
+0:0::3/41::Spells known:                    2/79  94th   
+0:0::3/41::Provinces visited:         146/31,919  99th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  26     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 265.
+0:0::0::
+0:0::0::The next five nobles formed will be:  t519 q630 p781 k014 f623
+0:0::0::
+0:0::0::2 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::x352   p600   o2    100  0  2                                 Sir Alexander
+0:0::0::d601   1864   o1    100  0       1                            Scurvy  Joe
+0:0::0::j231   d21    o1    100  0     116                            Moe
+0:0::0::m621   bv45   o1    100  0                                    Lord
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               117                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Great Sea
+0:0::0::  Ocean~[ab01]
+0:0::0::    Island~[p600]                  Sir Alexander~[x352]
+0:0::0::Provinia
+0:0::0::  Forest~[bs51]
+0:0::0::    Greyfell~[d21]                 Moe~[j231]
+0:0::0::      Boca Junket~[1864]           Scurvy  Joe~[d601]
+0:0::0::  Desert~[bv45]                    Lord Demosthenes~[m621]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  x352         100        100   0%                                
+0:0::0::  d601      10,667    (1,267) 197%    (1,467) 222%    (8,367)  -- 
+0:0::0::  j231         432      (232) 332%                                
+0:0::0::  m621         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Watchers~[fa4]"><font size=+1><b>The Watchers~[fa4]</b></font>
+1:2::0::<hr>
+1:1::0::The Watchers~[fa4]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51304
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Sir Alexander~[x352]"><font size=+1><b>Sir Alexander~[x352]</b></font>
+1:2::0::<hr>
+1:1::0::Sir Alexander~[x352]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 77352
+1:0::0::
+1:2::0::
+1:2::0::<name="Scurvy  Joe~[d601]"><font size=+1><b>Scurvy  Joe~[d601]</b></font>
+1:2::0::<hr>
+1:1::0::Scurvy  Joe~[d601]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 62601
+1:0::0::
+1:2::0::
+1:2::0::<name="Moe~[j231]"><font size=+1><b>Moe~[j231]</b></font>
+1:2::0::<hr>
+1:1::0::Moe~[j231]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 66231
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Demosthenes~[m621]"><font size=+1><b>Lord Demosthenes~[m621]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Demosthenes~[m621]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 68621
+1:2::0::
+1:2::0::<name="Ocean~[ab01]"><font size=+1><b>Ocean~[ab01]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[ab01], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10101
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[bs51]"><font size=+1><b>Forest~[bs51]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[bs51], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13451
+1:0::0::
+1:2::0::
+1:2::0::<name="Greyfell~[d21]"><font size=+1><b>Greyfell~[d21]</b>, port city, in province Forest~[bs51], safe haven</font>
+1:2::0::<hr>
+1:1::0::Greyfell~[d21], port city, in province Forest~[bs51], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57081
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[bv45]"><font size=+1><b>Desert~[bv45]</b>, desert, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Desert~[bv45], desert, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13645
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

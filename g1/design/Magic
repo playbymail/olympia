@@ -1,0 +1,2360 @@
+
+Magic
+-----
+
+Magic is the dark art by which events are influenced outside of the
+normal boundaries of cause-and-effect.  Rather than the glamorous
+ideal of shining wizards casting powerful fireballs at wicked foes,
+the reality of magic instead tends to be base, tedious work which
+earns few friends.
+
+Hated and feared, the magician pursues his craft out of the sight of
+men.  Like wisps of smoke rising from an ember cast into dry straw,
+so the mage's spells slowly take hold, woven with secret knowledge
+and foul ingredients.
+
+The casting of a magical spell is accomplished with three ingredients:
+Knowledge of the spell, possession of any items necessary to fuel the
+spell, and a sufficient level of magical aura to perform the ritual or
+ceremony.
+
+
+Aura
+----
+
+Aura is a mystical force necessary to cast spells.  Powerful mages will
+have a high aura rating, while apprentice sorcerers may only command a
+few points worth of aura.
+
+Characters are rated for their current aura level and their maximum aura
+level.  Maximum aura will automatically increase as the magician studies
+spells and practices their use.  Current aura is depleted by casting
+spells.  It is naturally replenished at a rate not less than one point
+per turn.  Other ways of gaining current aura may be found as the mage
+researches his craft.
+
+Spells are rated on the amount of aura which the casting mage must
+possess.  Minor spells may demand only one point of aura to cast.
+Powerful spells may require a current aura level of ten or higher.
+
+
+Required Items
+--------------
+
+Many spells will require the magician to possess a rare or obscure item
+in order for the cast to succeed.  Many of these items exist, of interest
+chiefly to sorcerers.  Roots from plants found only in dense forests,
+bat's wings, and a dark blue powder which produces a brilliant cobalt
+flame when burned are only a few.  Usually the required item is consumed
+by the attempt to cast the spell.
+
+
+Study of Spells
+---------------
+
+Magic is divided into six main schools of study:
+
+	160  Magic
+	161  Weather magic
+	162  Scrying
+	163  Gatecraft
+	164  Artifact construction
+	165  Necromancy
+
+An aspiring mage will issue the STUDY order to learn the basics of a
+particular school of magic, known as the category skill.  For example,
+one wishing to pursue knowledge of Magic [160] would order:
+
+	STUDY 160
+
+Once the category skill has been learned, the mage will receive a lore
+sheet listing some of the known spells of that school.  The magician may
+then attempt to learn these spells through study.
+
+A character must know the category skill for a school of magic before a
+spell in that school can be known.
+
+Only some of the spells in the each school are commonly known.  The more
+rare, obscure or powerful spells will need to be discovered via RESEARCH
+or by finding magic scrolls describing them.
+
+Knowledge of individual spells in a school of magic is not possible
+without having learned the category skill.
+
+
+Schools of Magic
+----------------
+
+Magic [106]
+
+    The most common and well-known of the magical schools, Magic
+    nonetheless has many useful and powerful spells.
+
+    Since many cities offer instruction in Magic, and several useful
+    spells may be learned quickly, apprentice mages often begin their
+    studies here.
+
+Weather magic [161]
+
+    The study of spells to control the elements.  Advanced weather
+    magicians are said to research forgotten elf-lore in the hopes of
+    finding tools to battle evil.
+
+Scrying [162]
+
+    Scrying is the study of magical far-seeing, the ability to view
+    images or learn information at a distance.
+
+Gatecraft [163]
+
+    The study of ancient portals of teleportation which long ago connected
+    distant regions of the land.  Knowledge of this lost art tends to be
+    difficult to acquire and jealously guarded when found.
+
+Artifact construction [164]
+ 
+    The realm of very advanced sorcerers, artifact construction concerns
+    the making of physical items to focus, amplify or otherwise enhance
+    a mage's power.  Most spells in this school require the magician to
+    possess high levels of aura.
+
+Necromancy [165]
+
+    The darkest of the Dark Arts, necromancy involves trafficking with
+    undead or demon spirits to gain knowledge.  Hated by civilized men,
+    feared by other magicians, the necromancer seeks power and domination
+    over the physical world.
+
+-----------------------------
+
+Magic [160]
+
+No apprentice magician can rightfully don the robes of his order without
+some knowledge of Magic [160].  Magic contains many spells useful on
+their own, as well as in conjunction with spells from the other schools 
+of sorcery.
+
+Knowledge of Magic [160] permits the study of the following spells:
+
+	spell						required study
+	-----						--------------
+	Meditate [9101]					   2 weeks
+	View current aura level of others [9105]	   3 weeks
+	Quicken casting of next spell [9106]		   3 weeks
+	Heal [9146]					   4 weeks
+	Modern script of magic lore [9147]		   4 weeks
+
+Further spells must be discovered through research or other means.
+
+	Cloak magical aura [9112]			   2 weeks
+	Reveal abilities of another mage [9123]		   4 weeks
+	Haste [9158]					   4 weeks
+	Slow [9159]					   4 weeks
+	Shroud abilities from scry [9169]
+	Detect ability scry [9170]
+
+-----------------------------
+
+Weather magic [161]
+
+The school of weather magic is based on ancient elven spells
+used to bend control of the elements to the will of the mage.
+
+Not strictly limited to weather control, these spells are tools
+the powerful Elf-wizards used long ago to make their world more
+pleasant and to battle the forces of evil.
+
+Simple weather spells may summon or predict various kinds of
+weather.  More advanced spells deal with the reading and
+transcription of elf-scrolls, and elimination of the products
+of foul magic from regions.
+
+Knowledge of Weather magic [161] permits the study of the
+following spells:
+
+	Summon fog [9132]
+	Summon rain [9135]
+	Summon wind [9136]
+	Fog of death [9134]
+	Predict future weather [9133]
+	Script of the Elf-wizards [9148]
+
+Further spells must be discovered through research or other means.
+
+	Finger of god [9137]
+	Project next weather spell [9138]
+	Reveal source of last month's weather [9139]
+	Conceal source of weather influence [9140]
+	Script of the Elf-wizards [9148]
+	Banish undead from region [9157]
+
+-----------------------------
+
+Scrying [162]
+
+Scrying concerns the gathering of information by means of magical
+spells.  Simple spells may allow the mage to learn information
+about other characters nearby, or to view distant regions.
+
+Advanced study delves into spells wrought long ago in by the men of
+Areth-Pirn as tools to rule their land, including the erection of
+magical barriers to travel as well as additional spells of far-seeing.
+
+Knowledge of Scrying [162] permits the study of the
+following spells:
+
+	Scry region [9141]
+	Ciphered writing of Areth-Pirn [9151]
+	Conceal identity [9163]
+	Locate nearest city that teaches skill [9168]
+
+Further spells must be discovered through research or other means.
+
+	Shroud region from magical scry [9142]
+	Dispel location shroud [9143]
+	Dispel cloaking from artifact [9144]
+	Create magical barrier [9160]
+	Remove magical barrier [9161]
+	Locate artifact [9166]
+	Locate character [9167]
+
+-----------------------------
+
+Gatecraft [163]
+
+Long ago the Ancients, a race of wise men who ruled the land with
+the aid of powerful magic, constructed a network of teleportation
+gateways to connect distant cities.  As the reach of their magical
+portals grew, so grew the reach of their armies and knowledge.  At
+their height the rule of the Ancients extended to every corner of
+the known world, and beyond.
+
+With the passing of the Ancients, the system of gates fell into
+disuse and decay, and now retains only a hint of its former majesty.
+Gatecraft, once practiced by the most common among the Ancients, has
+since been forgotten by nearly all men.
+
+The school of Gatecraft retains the only knowledge of the use of
+these mystical portals.  Because knowledge of Gates can be a powerful
+tool or weapon, Gatecraft spells are jealously guarded even within
+the school.  Some aspects of Gatecraft, such as the secret of their
+construction, have been completely lost.
+
+Knowledge of Gatecraft [163] permits the study of the
+following spells:
+
+	Detect gates [9115]
+	Jump through gate [9116]
+
+Further spells must be discovered through research or other means.
+
+	Seal gate [9117]
+	Unseal gate with key [9118]
+	Notify if gate unsealed [9119]
+	Forcefully unseal gate [9120]
+	Reveal gate key [9121]
+	Notify of gate jumps [9122]
+	Forge gate [9125]
+	Destroy gate [9126]
+	Language of the Ancients [9152]
+	Reverse jump through gate [9165]
+
+-----------------------------
+
+Artifact construction [164]
+
+The domain of high level wizards, artifact construction concerns
+the creation and manipulation of items which may focus and store
+aura, contain spells, or have other magical properties.
+
+Knowledge of Artifact construction [164] permits the study of the
+following spells:
+
+	Reveal creator of magical artifact [9108]
+	Reveal spells in artifact [9150]
+	Destroy magical artifact [9164]
+
+Further spells must be discovered through research or other means.
+
+	Forge magical artifact [9102]
+	Expand power of magical artifact [9103]
+	Reveal region of artifact creation [9109]
+	Cloak creator of artifact [9110]
+	Cloak region of artifact creation [9111]
+	Trap spell in magical artifact [9149]
+	Arcane symbols of the Nether demons [9153]
+	Cloak spells in artifact [9162]
+
+-----------------------------
+
+Necromancy [165]
+
+The way of the necromancer leads to fresh graves, the pits of Hades,
+and unspeakable horrors found only in dark corners of men's souls.
+
+Power is gained through animation and enslavement of the dead, both
+followers as well as nobles.  A necromancer looks upon a bloody
+battlefield strewn with the dead as a potential army waiting to be
+trained.
+
+Advanced necromancers wield fierce powers, manipulating evil Runes
+to effect their will upon the world, and making pacts with demons
+to obtain power in return for souls.
+
+With great power also comes great danger, and necromancy is the most
+dangerous of the magical arts.  Only those willing to risk death at
+the hands of civilized men, or worse fates meted out by demons sent
+from the underworld, should even consider its study.
+
+Knowledge of Necromancy [165] permits the study of the
+following spells:
+
+	Sacrifice noble [9104]
+	Animate corpses into undead [9114]
+	Exhume dead bodies [9130]
+	Exhume dead noble [9131]
+	Execute noble [????]
+
+Further spells must be discovered through research or other means.
+
+	Transform undead into skeleton warriors [9127]
+	Contract of power [9128]
+	Eating of the dead [9129]
+	Animate dead noble into undead follower [9145]
+	Runes of Evil [9154]
+	Construct cursed death-scroll [9155]
+	Teleport Self [9156]
+
+-----------------------------
+
+160  Magic
+	Meditate [9101]						x
+	View current aura level of others [9105]		x
+	Quicken casting of next spell [9106]
+	Cloak magical aura [9112]
+	Reveal abilities of another mage [9123]			x
+	Heal [9146]						x
+	Modern magic script [9147]				x
+	Haste [9158]
+	Slow [9159]
+	Shroud abilities from scry [9169]			x
+	Detect ability scry [9170]				x
+	Dispel ability shroud [9173]				x
+	Advanced meditation [9174]				x
+	Hinder meditation [9175]				x
+
+161  Weather magic
+	Summon fog [9132]
+	Predict future weather [9133]
+	Fog of death [9134]
+	Summon rain [9135]
+	Summon wind [9136]
+	Finger of god [9137]
+	Project next weather spell [9138]  DELETE
+	Reveal source of last month's weather [9139]
+	Conceal source of weather influence [9140]
+	Script of the Elf-wizards [9148]			x
+	Banish undead from region [9157]
+
+162  Scrying
+	Scry location [9141]					x
+	Shroud location from magical scry [9142]		x
+	Detect location scry [9171]				x
+	Dispel location shroud [9143]				x
+	Dispel cloaking from artifact [9144]			x
+	Ciphered writing of Areth-Pirn [9151]
+	Create magical barrier [9160]				x
+	Remove magical barrier [9161]				x
+	Conceal identity [9163]
+	Locate artifact [9166]
+	Locate character [9167]					x
+	Locate nearest city that teaches skill [9168]
+	Project next magic cast [9172]				x
+	Save projected cast [9177]				x
+
+163  Gatecraft
+	Detect gates [9115]					x
+	Jump through gate [9116]				x
+	Seal gate [9117]					x
+	Unseal gate with key [9118]				x
+	Notify if gate unsealed [9119]				x
+	Forcefully unseal gate [9120]				x
+	Reveal gate key [9121]					x
+	Notify of gate jumps [9122]				x
+	Forge gate [9125]
+	Destroy gate [9126]
+	Language of the Ancients [9152]				x
+	Reverse jump through gate [9165]			x
+
+164  Artifact construction
+	Forge auraculum [9102]					x
+	Expand auraculum power [9103]
+	Reveal creator of magical artifact [9108]		x
+	Reveal where artifact was created [9109]		x
+	Cloak creator of artifact [9110]
+	Cloak region of artifact creation [9111]
+	Curse noncreator loyalty [9113]				x
+	Trap spell in magical artifact [9149]
+	Reveal spells in artifact [9150]
+	Arcane symbols [9153]					x
+	Cloak spells in artifact [9162]
+	Destroy magical artifact [9164]				x
+	Forge palantir [9176]					x
+
+165  Necromancy
+	Sacrifice noble [9104]
+	Animate corpses into undead [9114]
+	Transform undead into skeleton warriors [9127]
+	Contract of power [9128]
+	Eating of the dead [9129]
+	Exhume dead bodies [9130]
+	Exhume dead noble [9131]
+	Execute noble [????]
+	Animate dead noble into undead follower [9145]
+	Runes of Evil [9154]					x
+	Construct cursed death-scroll [9155]
+	Teleport Self [9156]
+
+-----------------------------
+
+Spell:  Meditate [9101]
+
+Usage:  USE 9101
+
+Required aura:  none
+Required item:
+Time to cast:   seven days
+
+The magician enters a restful trance which regenerates body, mind
+and current aura level.  Current aura level will rise by one point.
+Meditation may allow current aura to rise above maximum aura by one
+point.
+
+-----------------------------
+
+Spell:  Forge auraculum [9102]
+
+Usage:  USE 9102 <aura-level> "Name"
+
+Required aura:   as specified by caster
+Required items:  100 gold, 5 mithril
+Time to cast:    fourteen days
+
+Forge a magical auraculum, giving it the specified name.
+
+   An auraculum is a magical artifact which concentrates and amplifies
+   a mage's power.  A permanent investment of maximum aura is made when
+   constructing the auraculum.  The artifact doubles the invested aura.
+   However, since a portion of the mage's pneuma has been bound in the
+   auraculum, it is important to safeguard it from being lost or stolen.
+
+In addition to depleting the caster's current aura level, the specified
+aura amount will be permanently removed from the magician's maximum aura
+rating.  The new object, while possessed by its maker, will augment the
+mage's maximum aura rating by twice the amount of aura invested in its
+creation.
+
+Creation of an auraculum also grants knowledge of the Advanced sorcery
+magical skill category.  Advanced sorcery may not be learned in any
+other way.
+
+Example:
+
+   A mage of current aura level 10, maximum aura 10 who issues
+   USE @@@@ 5 "Ring of power" will be reduced to current aura level 5,
+   maximum aura level 5.  However, the new artifact will add 10 points
+   to the maximum aura rating of its creator, but only while it is in
+   his possession.
+
+    1: > use @@@@ 5 "Ring of power"
+    1: Attempt to forge an auraculum.
+       ...
+   14: Created Ring of power [js80].
+   14: Learned Advanced sorcery [166].
+
+       Current aura:   5
+       Maximum aura:   15 (5+10)
+ 
+Characters other than the auraculum's creator do not receive an aura
+bonus from possession of the object.
+
+Since the mage has bound a portion of his aura into the artifact, its
+destruction would deal him an instant, fatal blow.  Thus, the creator
+of such an object should use all means to prevent it from being lost
+or stolen.  However, magical items of such power are hard to destroy.
+An auraculum may only be destroyed in the province in which it was
+created.
+
+This spell may only be used once.  A magician may only create one
+auraculum during his lifetime.
+
+The creator of the artifact may change its name later with the
+NAME order.  The object must be possessed in order to rename it.
+
+   > name js80 "Wooden staff"
+   Ring of power [js80] will now be known as Wooden staff [js80].
+
+-----------------------------
+
+
+
+
+
+It is unlikely that the item could be harmed
+outside of the region in which it was created.
+
+Since the mage has bound a portion of his aura into the artifact,
+its destruction would cause him to instantly perish.  Thus, the
+creator of such an object should take all means to prevent it from
+being lost or stolen.  However, magical items of such power are
+hard to destroy.  It is unlikely that the item could be harmed
+outside of the region in which it was created.
+
+
+   In other words, the cast removes 5 points of the mage's maximum
+   aura rating.  The artifact expands it by 10, to 15.  However, if 
+   the artifact is lost or stolen, the mage will be reduced again to
+   a maximum aura level of 5.
+
+
+
+   For example, successful cast of USE @@@@ 5 "Ring of power" will
+   create an artifact which adds 10 points to the effective maximum
+   aura rating of its creator, while it is in his possession.
+
+
+Creates a magical artifact, giving it the specified name.
+
+In addition to depleting the caster's current aura level,
+the specified aura amount will be permanently removed from
+the magician's maximum aura rating.
+
+	For example, a mage of current aura level 10, maximum aura
+	level 10 who issues USE 9102 5 "Ring of power" will be
+	reduced to current aura level 5, maximum aura level 5.
+
+The new magical artifact will be unique, and uniquely useful to its
+creator.  While possessed, the artifact will augment its creator's
+maximum aura rating by an amount twice as much as the amount invested
+in its creation.
+
+	Continuing the above example, a successful cast of
+	USE 9102 5 "Ring of power" will create an artifact which
+	will add 10 points to the effective maximum aura rating
+	of its creator, while possessed.
+
+	Note that cast permanently diminishes the mage's maximum
+	aura level by 5.  The artifact expands it by 10, to 15.
+	However, if the artifact is lost or stolen, the mage
+	will be reduced again to a maximum aura rating of 5.
+
+Other characters will not receive as much benefit from the item,
+perhaps gaining an aura boost of only one point, regardless of
+the object's power in the hands of its creator.
+
+Since the mage has bound a portion of his aura into the artifact,
+its destruction would cause him to instantly perish.  Thus, the
+creator of such an object should take all means to prevent it from
+being lost or stolen.  However, magical items of such power are
+hard to destroy.  It is unlikely that the item could be harmed
+outside of the region in which it was created.
+
+This spell may only be used once.  A magician may only create one
+auraculum during his lifetime.
+
+The creator of the artifact may change its name later with the
+NAME order.  The object must be possessed in order to rename it.
+
+-----------------------------
+
+Spell:  Expand auraculum power [9103]
+
+Usage:  USE 9103 <artifact> <item>
+
+Required aura:  10
+Required item:  another magician's auraculum
+Time to cast:   fourteen days
+
+Used by a mage who has constructed an artifact with [9102], this
+spell will increase the artifact's power.  The artifact from another
+mage must be obtained and specified in the usage of the spell.
+
+The other mage's artifact will be destroyed, and its trapped aural
+power will be added to the caster's artifact.  The creator of the
+destroyed artifact will be killed by this spell.
+
+	For example, a mage who has constructed an artifact [781]
+	for himself obtains another magician's artifact [929].
+	The spell USE 9103 781 929 would destroy object [929] (and
+	kill its creator), and add [929]'s power to [781].
+
+Any spells trapped in the destroyed artifact will be lost.  They
+will not be transferred to the mage's artifact.
+
+-----------------------------
+
+Spell:  Sacrifice noble [9104]
+
+Usage:  USE 9104 <character>
+
+Required aura:  none
+Required item:  Specify a prisoner to be killed
+Time to cast:   seven days
+
+The necromancer will conduct a ritual in which the designated
+prisoner is sacrificed.  The ritual will trap the unfortunate
+victim's life force, which will serve to infuse the caster with
+aura.  The mage's current aura level will increase by 10 points
+upon the noble's death.
+
+The body of the noble is consumed by fire during the ritual.
+
+-----------------------------
+
+Spell:  View current aura level of others [9105]
+
+Usage:  USE 9105
+
+Required aura:  2
+Required item:
+Time to cast:   seven days
+
+The current aura level of other mages present in the same location
+as the caster will be shown.
+
+-----------------------------
+
+Spell:  Speed casting of next spell [9106]
+
+Usage: USE 9106 <amount>
+
+Required aura:  amount as specified above
+Required item:
+Time to cast:   four days
+
+The mage trades aura for time.  The time necessary to cast
+the next spell will be reduced by the amount of aura invested
+in the cast of [9106].
+
+For example, a mage who issued USE 9106 5 would lose five current
+aura points.  Whatever spell the mage casts next will take five days
+less than it normally would.
+
+-----------------------------
+
+Spell: Reveal creator of magical artifact [9108]
+
+Usage: USE 9108 <artifact> [aura]
+
+Required aura:  one or more points of aura
+Required item:
+Time to cast:   seven days
+
+Reveal who forged a magical artifact.  The artifact in
+question must be possessed by the caster.
+
+The artifact may be shrouded against magical inspection.
+If so, a greater amount of aura must be specified with
+@@@@ than was used to apply the shroud.
+
+-----------------------------
+
+Spell:  Reveal where artifact was created [9109]
+
+Usage:  USE 9109 <artifact> [aura]
+
+Required aura:  one or more points
+Required item:
+Time to cast:   seven days
+
+Reveal the location in which a magical magical artifact was forged.
+The artifact in question must be possessed by the caster.
+
+Some magical artifacts may only be destroyed in the location where
+they were constructed.
+
+The artifact may be shrouded against magical inspection.  If so,
+a greater amount of aura must be specified with @@@@ than was
+used to apply the shroud.
+
+-----------------------------
+
+Spell:  Cloak creator of artifact [9110]
+
+Usage:  USE @@@@ <artifact> [aura]
+
+Required aura:  one or more points
+Required item:
+Time to cast:   seven days
+
+Inhibit the ability of another mage to learn the identity of the
+creator of the specified magical artifact.  The artifact must be
+in the inventory of the caster.
+
+The more aura used, the more difficult it will be for another
+mage to overcome the magical cloaking.
+
+The default aura to use is one point.
+Multiple casts of @@@@ on the same artifact are additive.
+
+-----------------------------
+
+Spell: Cloak region of artifact creation [9111]
+
+Usage: USE @@@@ <artifact> [aura]
+
+Required aura:  one or more points
+Required item:
+Time to cast:   seven days
+
+Inhibit the ability of another mage to learn the region in which
+the specified magical artifact was created.  The artifact must
+be in the inventory of the caster.
+
+The more aura used, the more difficult it will be for another
+mage to overcome the magical cloaking.
+
+The default aura to use is one point.
+Multiple casts of @@@@ on the same artifact are additive.
+
+-----------------------------
+
+Spell:  Cloak magical aura [9112]
+
+Usage:  USE 9112
+
+Required aura:  three points
+Required item:
+Time to cast:   seven days
+Duration:       thirty-seven days
+
+Prevents other mages from sensing the caster's current
+aura level for the duration of the spell.
+
+	or should it just work always
+
+	or should it be of the form: creates concealment until
+	dispelled by other magician?  ++
+
+-----------------------------
+
+Spell:  Curse noncreator loyalty [9113]
+
+Usage:  USE @@@@ <artifact> [aura]
+
+Required aura:  one or more points, as given
+Required item:
+Time to cast:   fourteen days
+
+Curses a forged magical artifact such that possession by any
+character other than the creator will cause that character's
+loyalty to erode.  The amount of loyalty lost is proportional
+to the aura invested with @@@@.
+
+For example, USE @@@@ 8192 10 would place a ten aura noncreator
+curse on artifact [8192].  Anyone except the artifact's creator
+would lose ten points of loyalty each turn that they held the
+object.
+
+Multiple uses of @@@@ on the same artifact are additive.
+
+Aura defaults to one.
+
+-----------------------------
+
+Spell:  Animate corpses [9114]
+
+Usage:  USE 9114 <number>
+
+Required aura:  number as specified above
+Required item:  dead bodies in inventory
+Time to cast:   seven days
+
+Converts the number of dead bodies specified into undead
+followers.  One point of aura is consumed for each dead body
+which to be converted.
+
+Undead followers are not useful as workers.  As soldiers, they
+have rather poor physical fighting ability, but often successfully
+intimidate foes with their foul stench and horrific appearance.
+
+-----------------------------
+
+Spell:  Detect gates [9115]
+
+Usage:  USE 9115
+
+Required aura:  one point
+Required item:  none
+Time to cast:   seven days
+
+Identify any gates present in the current location.
+
+-----------------------------
+
+Spell:  Jump through gate [9116]
+
+Usage:  USE 9116 <gate> [key]
+
+Required aura:  one point for each character
+Required item:  none
+Time to cast:   three days
+
+The caster will teleport through the specified gate.  The gate
+must be present in the current location.  If the gate is sealed
+with a key, the key must be supplied for the jump to succeed.
+
+One point of aura is required for each figure jumping through
+the gate.  For example, a magician stacked over a follower who
+is accompanied by two peasants would require four aura points
+to jump through a gate.
+
+-----------------------------
+
+Spell:  Seal gate [9117]
+
+Usage:  USE 9117 <gate> <key>
+
+Required aura:  six points
+Required item:
+Time to cast:   seven days
+
+Seal the gate with the given key.  The gate must be present in
+the current location, and must not already be sealed.
+
+The key is a numeric password which will be required for further
+access to the gate for jumps or other manipulations.  Only those
+who supply the key number will be granted access.
+
+    For example, if Gate [8192] is sealed with USE 9117 8192 123
+    then the key "123" must be supplied as a parameter to the
+    jump spell, or the jump will fail.
+
+-----------------------------
+
+Spell:  Unseal gate with key [9118]
+
+Usage:  USE 9118 <gate> <key>
+
+Required aura:  three points
+Required item:
+Time to cast:   seven days.
+
+Remove the seal from a gate by supplying the key.  The key will
+no longer be required for jumps through the gate.
+
+    For example, if Gate [8192] were sealed with key "123",
+    the spell USE 9118 8192 123 would unseal the gate.
+    Jumps through the gate could proceed without supplying
+    the key.
+
+-----------------------------
+
+Spell:  Notify if gate unsealed [9119]
+
+Usage:  USE 9119 <gate> <key>
+
+Required aura:  five points
+Required item:
+Time to cast:   seven days
+
+Inform the sealer of the gate if the seal is broken, and of the
+identity of the mage who removes the seal.  The gate must be
+present in the current location to apply this spell.  However,
+notification will occur wherever the caster happens to be.
+
+-----------------------------
+
+Spell:  Forcefully unseal gate [9120]
+
+Usage:  USE 9120 <gate>
+
+Required aura:  eight points
+Required item:
+Time to cast:   seven days
+
+Forcefully remove a seal from a gate without specifying the key.
+The key will no longer be required to perform jumps through the gate.
+The gate must be present in the current location.
+
+-----------------------------
+
+Spell:  Reveal gate key [9121]
+
+Usage:  USE 9121 <gate>
+
+Required aura:  ten points
+Required item:
+Time to cast:   seven days
+
+Reveal the numeric key necessary to make use of a sealed gate.
+The gate must be present in the current location.
+
+-----------------------------
+
+Spell:  Notify of gate jumps [9122]
+
+Usage:  USE 9122 <gate>
+
+Required aura:  six points
+Required item:
+Time to cast:   seven days
+
+Notify the caster of the identity of any mages jumping through the
+specified gate.  The gate must be present in the current location
+to apply this spell.  However, the caster will be notified if the
+gate is used, wherever he may be at the time.
+
+Only one [9122] spell may be active on a gate at a time.  Casting
+this spell on a gate already notifying another mage of jumps will
+displace the previous mage's spell.
+
+-----------------------------
+
+Spell:  Reveal abilities of another mage [9123]
+
+Usage:  USE 9123 <target>
+
+Required aura:  four points
+Required item:
+Time to cast:   seven days
+
+Used against another magician, this spell will reveal
+all spells known by the other mage, as well as his
+current and maximum aura levels.
+
+The presence of magical artifacts that the other mage
+may possess is not shown.
+
+-----------------------------
+
+Spell:  Conceal abilities from other magicians [9124]
+
+
+	always, or have to use?
+
+-----------------------------
+
+Spell:  Forge gate [9125]
+
+Usage:  USE 9125 <destination>
+
+Required aura:  twelve points
+Required item:  gate crystal
+Time to cast:   seven days
+
+Create a gate from the current location to the specified destination.
+The mage must have visisted the destination at some point; a gate to
+a location which the mage has never been to cannot be constructed.
+
+The gate crystal is consumed by the spell.  It becomes bound in
+in the newly forged magic portal.
+
+-----------------------------
+
+Spell:  Destroy gate [9126]
+
+Usage:  USE 9126 <gate>
+
+Required aura:  eleven points
+Required item:
+Time to cast:   seven days
+
+Destroys the specified gate.  The gate must be present in the
+current location.  The caster will receive the gate crystal freed
+the destroyed portal.
+
+Any magician caught jumping through the gate when it is destroyed
+will be killed.
+
+-----------------------------
+
+Spell:  Transform undead into skeleton warriors [9127]
+
+Usage:  USE 9127 <number>
+
+Required aura:  number as specified above
+Required item:  undead followers
+Time to cast:   seven days
+
+Converts the specified number of undead followers into skeleton
+warriors.  One point of aura is consumed for each undead corpse
+to be transformed.
+
+Skeleton warriors are better fighters than the slow-moving undead.
+Stripped of the burden of half-flesh, these fierce spirits are the
+equal of elite soldiers.
+
+-----------------------------
+
+Spell:  Contract of power [9128]
+
+Usage:  USE 9128
+
+Required aura:  4
+Required item:
+Time to cast:   seven days
+
+The mage summons a demon and proposes an oath:  vast power over
+the physical world for a year's time, in return for certain death
+at the year's end.
+
+The caster's maximum aura level will be multiplied five-fold.
+The mage will perish on the last day of the month, eight turns
+in the future.
+
+-----------------------------
+
+Spell:  Eating of the dead [9129]
+
+Usage:  USE 9129 <dead noble>
+
+Required aura:  3
+Required item:  ratspider venom
+Time to cast:   seven days
+
+The mage executes a complex ritual where the ratspider venom is
+ingested and the brains of the dead noble are consumed.  The mage
+will acquire skills and any secret knowledge from the noble's
+memories.
+
+This ritual poses great danger to the mage.  The toxic venom of the
+ratspider may cause insanity or death.  Furthermore, civilized men
+look with horror on this practice, and will go to great lengths to
+seek out and kill necromancers who make use of it.
+
+-----------------------------
+
+Spell:  Exhume dead bodies [9130]
+
+Usage:  USE 9130
+
+Required aura:  none
+Required item:  none
+Time to cast:   seven days
+
+The necromancer steals out under cover of darkness to raid fresh graves
+in search of bodies.  A dead body is a deceased peasant, worker, sailor
+or soldier.  If any corpses are found, they will be added to the
+necromancer's inventory.
+
+Citizens usually become enraged when the graves of their family
+or neighbors are violated.  As such, this order carries some risk
+of physical harm.
+
+-----------------------------
+
+Spell:  Exhume dead noble [9131]
+
+Usage:  USE 9131
+
+Required aura:  none
+Required item:  none
+Time to cast:   seven days
+
+The necromancer steals out under cover of darkness to raid fresh graves
+in search of nobles.  A dead noble is a character than has perished
+from disease or combat.  If a noble is found, his body will be added
+to the necromancer's inventory.
+
+Citizens usually become enraged when the graves of their family
+or neighbors are violated.  As such, this order carries some risk
+of physical harm.
+
+-----------------------------
+
+Spell:  Summon fog [9132]
+
+Usage:  USE 9132
+
+Required aura:  one points
+Required item:
+Time to cast:   seven days
+
+Cause the weather in the caster's region to be fog at some
+point in the future.  The fog may appear as early as the
+next turn, or its arrival may be delayed in some cases,
+such as when other magicians have also summoned weather to
+appear.
+
+-----------------------------
+
+Spell:  Predict future weather [9133]
+
+Usage:  USE 9133 <turn number>
+
+Required aura:  two points
+Required item:  
+Time to cast:   seven days
+
+Predict what the weather will be in the caster's region at some
+point in the future.  The turn argument defaults to next month.
+
+Predictions made with this spell rarely, if ever, are wrong.
+
+-----------------------------
+
+Spell:  Fog of death [9134]
+
+Required aura:  three points
+Required item:  
+Time to cast:   seven days
+
+Usage:  USE 9134 <target>
+
+Attempts to animate any fog currently laying over the region,
+imbuing it with a menacing, choking nature.  If the target is
+present, the fog will attempt to cause it harm.
+
+Fog's wispy nature makes it a weak weapon.  Its ability to hurt
+rests mainly in the victim's terror of the supernatural.
+
+[ In other words, not effective against magicians ]
+
+-----------------------------
+
+Spell:  Summon rain [9135]
+
+Usage:  USE 9135
+
+Required aura:  one points
+Required item:
+Time to cast:   seven days
+
+Cause the weather in the caster's region to be rain at some
+point in the future.  The rain may appear as early as the
+next turn, or its arrival may be delayed in some cases,
+such as when other magicians have also summoned weather to
+appear.
+
+-----------------------------
+
+Spell:  Summon wind [9136]
+
+Usage:  USE 9136
+
+Required aura:  one points
+Required item:
+Time to cast:   seven days
+
+Cause the weather in the caster's region to be wind at some
+point in the future.  The wind may appear as early as the
+next turn, or its arrival may be delayed in some cases,
+such as when other magicians have also summoned weather to
+appear.
+
+-----------------------------
+
+Spell:  Finger of god [9137]
+
+Usage:  USE 9137 <target>
+
+Required aura:  four points
+Required item:
+Time to cast:   seven days
+
+If there is a rain storm over the current region, attempt to
+draw from it a bolt of lightning and direct it at the specified
+target.
+
+Lightning is a violent, hard to control elemental force.
+The chance of inaccurate direction is high.  However, successful
+lightning bolt strikes cause great damage.
+
+-----------------------------
+
+Spell:  Project next weather spell [9138]
+
+Usage:  USE 9138 <region>
+
+Required aura:  one point
+Required item:
+Time to cast:   three days
+
+Causes the next weather spell issued by the mage to take
+effect in the designation region instead of the mage's
+current region.
+
+Works with all weather magic spells.
+
+-----------------------------
+
+Spell:  Reveal source of last month's weather [9139]
+
+Usage:  USE 9139
+
+Required aura:  one point
+Required item:
+Time to cast:   seven days
+
+Reveals the cause of last month's weather in the region,
+whether natural or by some magical force.  If magical,
+the responsible mage's identity will be shown.
+
+-----------------------------
+
+Spell:  Conceal source of weather influence [9140]
+
+Usage:  USE 9140
+
+Required aura:  two points
+Required item:
+Time to cast:   three days
+
+Will shroud the source of any unnatural weather in the region
+from magical inspection.
+
+-----------------------------
+
+Spell:  Scry region [9141]
+
+Usage:  USE 9141 <region> [aura]
+
+Required aura:  one or more points, as given
+Required item:
+Time to cast:   seven days
+
+Grants the mage a vision of the specified region, no matter
+how far away he might be.
+
+If the target region is magically shrouded from scry attempts,
+sufficient aura must be used for 9141 to pierce the shroud.
+For example, a region shroud of three aura would require
+USE 9141 <region> 4 to overcome (costing four aura to cast).
+
+The default aura to use is one point.
+
+-----------------------------
+
+Spell:  Shroud region from magical scry [9142]
+
+Usage:  USE 9142 [aura]
+
+Required aura:  one or more points, as given
+Required item:
+Time to cast:   three days
+
+Creates a magical shroud over the mage's current location.  The
+shroud hinders attempts by distant mages to view the region by
+magical scrying.
+
+The shroud is invested with magical aura.  A mage attempting to
+view the region from a distance with a scry spell must expend a
+greater amount of aura than the shroud possess to succeed.
+
+The shroud loses one point of aura at the end of each month.
+Successive uses of 9142 are additive; USE 9142 1 followed by
+USE 9142 3 will result in a region shroud with an aura of
+four points.
+
+The default aura to use is one point.
+
+-----------------------------
+
+Spell:  Dispel location shroud [9143]
+
+Usage:  USE 9143 <location>
+
+Required aura:  three points
+Required item:
+Time to cast:   three days
+
+Dispels any magical shroud inhibiting scrying of the specified
+location.
+
+-----------------------------
+
+Spell:  Dispel cloaking from artifact [9144]
+
+Usage:  USE 9144 <artifact>
+
+Required aura:  eight points
+Required item:
+Time to cast:   ten days
+
+Remove any cloaking spells from the specified artifact.
+The artifact must the in the caster's inventory.
+
+-----------------------------
+
+Spell:  Execute noble [????]
+
+Usage:  USE ???? <character>
+
+Required aura:  none
+Required item:  Specify a prisoner to be killed
+Time to cast:   seven days
+
+The specified prisoner is executed.  However, the body
+will be added to the necromancer's inventory instead of
+being buried.
+
+[perhaps just an option to the EXECUTE command]
+
+-----------------------------
+
+Spell:  Animate dead noble into undead follower [9145]
+
+Usage:  USE 9145 <dead noble>
+
+Required aura:  ten points
+Required item:
+Time to cast:   seven days
+
+Transform a dead noble in the necromancer's inventory into
+an undead follower.  The new follower will become a member of
+the necromancer's faction, sworn to obey him, and may given
+orders like other characters.
+
+Undead followers share many of the abilities of live characters.
+However, they may not learn or make use of any skills or spells.
+
+-----------------------------
+
+Spell:  Heal [9146]
+
+Usage:  USE 9146 <target>
+
+Required aura:  one point
+Required item:
+Time to cast:   seven days
+
+Cures all wounds and fatigue from the specified target.  The caster
+must be in the same location as the character to be cured.
+
+-----------------------------
+
+Spell:  Modern magic script [9147]
+
+Usage:  USE @@@@ <spell>
+
+Required aura:  two points
+Required item:  blank scroll [84]
+Time to cast:   seven days
+
+Transcribe the given spell onto a blank scroll.  The blank scroll
+will be consumed, and a new unique scroll will be produced which
+permits one use of the spell.
+
+Only Magic [160] spells may be scribed with this skill.
+
+The mage must know the spell to be written to the scroll.  The mage
+will still know the spell after scribing it.
+
+-----------------------------
+
+Spell:  Script of the Elf-wizards [9148]
+
+Usage:  USE @@@@ <spell>
+
+Required aura:  two points
+Required item:  blank scroll [84]
+Time to cast:   seven days
+
+Transcribe the given spell onto a blank scroll.  The blank scroll
+will be consumed, and a new unique scroll will be produced which
+permits one use of the spell.
+
+Only Weather magic [161] spells may be scribed with this skill.
+
+The mage must know the spell to be written to the scroll.  The mage
+will still know the spell after scribing it.
+
+-----------------------------
+
+Spell:  Trap spell in magical artifact [9149]
+
+Usage:  USE 9149 <artifact> <spell>
+
+Required aura:  one point, taken from the artifact
+Required item:  a magical artifact
+Time to cast:   seven days
+
+The mage transfers a spell from memory into a magical artifact.
+If successful, the spell will be available for use within the
+artifact, but the mage will no longer know the spell himself.
+
+One point will be deducted from the artifact's aura level when
+the spell is transferred.  Artifacts empty of aural power may not
+receive spells.
+
+Scrolls are the only item that spells may be learned from.  A mage
+cannot study a spell via an artifact.
+
+-----------------------------
+
+Spell:  Reveal spells in artifact [9150]
+
+Usage:  USE 9150 <artifact>
+
+Required aura:  two points
+Required item:  a magical artifact
+Time to cast:   seven days
+
+Reveal the names of any spells trapped within the magical artifact.
+Any such spells may be cast, but spells may not be studied via an
+artifact.  Scrolls are the only items from which spells may be studied.
+
+The artifact must be in the inventory of the caster.
+
+-----------------------------
+
+Spell:  Ciphered writing of Areth-Pirn [9151]
+
+Usage:  USE @@@@ <spell>
+
+Required aura:  two points
+Required item:  blank scroll [84]
+Time to cast:   seven days
+
+Transcribe the given spell onto a blank scroll.  The blank scroll
+will be consumed, and a new unique scroll will be produced which
+permits one use of the spell.
+
+Only Scrying [162] spells may be scribed with this skill.
+
+The mage must know the spell to be written to the scroll.  The mage
+will still know the spell after scribing it.
+
+-----------------------------
+
+Spell:  Language of the Ancients [9152]
+
+Usage:  USE @@@@ <spell>
+
+Required aura:  two points
+Required item:  blank scroll [84]
+Time to cast:   seven days
+
+The Ancients were a race of wise, powerful men who walked the lands
+long before the modern inhabitants had arrived.  Their language is
+heavy and descriptive, well suited to expressing their detailed and
+complex thoughts.
+
+Use of @@@@ will transcribe the specified spell onto a blank scroll.
+The blank scroll will be consumed, and a new unique scroll will be
+produced which permits one use of the spell.
+
+Only Gatecraft [163] spells may be scribed with this skill.
+
+The mage must know the spell to be written to the scroll.  The mage
+will still know the spell after scribing it.
+
+-----------------------------
+
+Spell:  Arcane symbols of the Nether demons [9153]
+
+Usage:  USE @@@@ <spell>
+
+Required aura:  two points
+Required item:  blank scroll [84]
+Time to cast:   seven days
+
+Transcribe the given spell onto a blank scroll.  The blank scroll
+will be consumed, and a new unique scroll will be produced which
+permits one use of the spell.
+
+Only Artifact construction [164] spells may be scribed with this skill.
+
+The mage must know the spell to be written to the scroll.  The mage
+will still know the spell after scribing it.
+
+-----------------------------
+
+Spell:  Runes of Evil [9154]
+
+Usage:  USE @@@@ <spell>
+
+Required aura:  two points
+Required item:  blank scroll [84]
+Time to cast:   seven days
+
+The most basic and powerful of the magical languages, Runes of Evil
+may represent vast power.  Descended from neither man or spirit,
+they represent the fundamental Commands which shape the world and
+its events.  They may represent concepts which men are incapable of
+speaking, or even thinking.
+
+Use of @@@@ will transcribe the specified spell onto a blank scroll.
+The blank scroll will be consumed, and a new unique scroll will be
+produced which permits one use of the spell.
+
+Only Necromancy [165] spells may be scribed with this skill.
+
+The mage must know the spell to be written to the scroll.  The mage
+will still know the spell after scribing it.
+
+-----------------------------
+
+Knowledge of Runes of Evil [9154] allows the study of the following
+additional spells which are based on powers granted by the Runes:
+
+	Construct cursed death-scroll [9155]
+	Teleport self [9156]
+
+-----------------------------
+
+Spell:  Construct cursed death-scroll [9155]
+
+Usage:  USE 9155 <scroll>
+
+Required aura:  five points
+Required item:  blank magical scroll
+Time to cast:   seven days
+
+Constructs a scroll, written with the Runes of Evil, which will kill
+any magician attempting to read it.  Knowledge of Runes of Evil [9154]
+may be some defense against the effects of the scroll.
+
+The scroll will be destroyed when read.
+
+-----------------------------
+
+Spell:  Teleport Self [9156]
+
+Usage:  USE 9156 <location>
+
+Required aura:  five points
+Required item:
+Time to cast:   seven days
+
+Teleports the magician from one location to another.  The magician
+must travel alone; any stacked characters or other followers will
+remain behind.
+
+Manipulations of Runes to effect teleportation is extremely difficult.
+The spell may simply fail, or in some cases may teleport the mage to a
+random location.
+
+-----------------------------
+
+Spell:  Banish undead from region [9157]
+
+Usage:  USE 9157
+
+Required aura:  nine points
+Required item:
+Time to cast:   seven days
+
+An ancient elvish spell designed as a tool to use against the
+forces of evil.  Causes all undead characters in the current
+location to be destroyed.
+
+-----------------------------
+
+Spell:  Haste [9158]
+
+Usage:  USE 9158 <target>
+
+Required aura:  one point
+Required item:  ground ox teeth
+Time to cast:   seven days
+Duration:       fourteen days
+
+Causes a character to move and work at twice the normal speed.
+If Haste is cast on a unit under the effects of the Slow spell,
+Haste will cancel Slow, and the unit will return to normal speed.
+
+-----------------------------
+
+Spell:  Slow [9159]
+
+Usage:  USE 9159 <target>
+
+Required aura:  one point
+Required item:  thross root
+Time to cast:   seven days
+Duration:       fourteen days
+
+Causes a character to move and work at half the normal speed.
+If Slow is cast on a unit under the effects of the Haste spell,
+Slow will cancel Haste, and the unit will return to normal speed.
+
+-----------------------------
+
+Spell:  Create magical barrier [9160]
+
+Usage:  USE 9160 [aura]
+
+Required aura:  one to eight points
+Required item:
+Time to cast:   ten days
+
+Erects a magical barrier which prevents anyone from entering the
+location.  The barrier will lose one point of aura at the end of
+each turn, and will dissipate when it has no aura remaining.
+
+For example, USE 9160 1 will create a barrier over the location
+which lasts until the end of the turn.  USE 9160 2 will create
+a barrier which lasts until the end of the next turn.
+
+Multiple casts of 9160 are additive.
+
+A barrier which achieves eight points of aura becomes permanent.
+Permanent barriers do not decay at the end of each month.  They
+may only be removed by a magician.
+
+Aura defaults to one.
+
+-----------------------------
+
+Spell:  Remove magical barrier [9161]
+
+Usage:  USE 9161 <direction> [aura]
+
+Required aura:  one to four points, as given
+Required item:
+Time to cast:   seven days
+
+Attempt to remove a magical barrier from the location in the
+given direction.  If direction "0" is given, a barrier over
+the current location will be removed.
+
+The chance that the barrier will be successfully removed is
+proportional to the aura invested in the attempt:
+
+	aura	chance of success
+	----	-----------------
+	 1             10%
+	 2             25%
+	 3	       50%
+	 4	       75%
+
+-----------------------------
+
+Spell:  Cloak spells in artifact [9162]
+
+Usage:  USE 9162 <artifact>
+
+Required aura:  one point
+Required item:  a magical artifact
+Time to cast:   seven days
+
+Inhibit the ability of another mage to learn the names of any spells
+trapped within the magical artifact.  The artifact must be in the
+inventory of the caster.
+
+-----------------------------
+
+Spell:  Conceal identity [9163]
+
+Usage:  USE 9163 <target>
+
+Required aura:  two points
+Required item:
+Time to cast:   seven days
+Duration:       thirty-seven days
+
+This spell will cause the target's entity number to be concealed
+from view by others.
+
+	For example, other characters viewing Osswid [501] after
+	[9163] has been cast on him would see:
+
+		Osswid [?]
+
+The target must be in the same location as the caster.  The default
+target is the mage himself.
+	
+-----------------------------
+
+Spell:  Destroy magical artifact [9164]
+
+Usage:  USE 9164 <artifact>
+
+Required aura:  two points
+Required item:  a magical artifact
+Time to cast:   seven days
+
+Attempt to destroy a magical artifact.  The artifact must be in the
+caster's possession.  Some artifacts can only be destroyed in the
+location in which they were created.
+
+Any spells contained in the artifact will be lost when it is destroyed.
+Any aura trapped in the artifact will be released into the caster's
+current aura rating.
+
+-----------------------------
+
+Spell:  Reverse jump through gate [9165]
+
+Usage:  USE 9165 <gate> [key]
+
+Required aura:  two points for each character
+Required item:  none
+Time to cast:   three days
+
+Gates were long thought to be one way portals through space.
+Most mages believed that returning to the starting location
+required a second gate or a conventional journey.
+
+However, it is possible to jump back to a gate from the gate's
+destination.  Reversing the direction of teleportation is
+difficult, so the jump requires twice as much aura as a
+forward jump.
+
+As with a conventional jump, the mage must know the gate's
+entity number as well as the key, if necessary.
+
+-----------------------------
+
+Spell:  Locate artifact [9166]
+
+Usage:  USE 9166 <artifact>
+
+Required aura:  two points
+Required item:
+Time to cast:   seven days
+
+Attempt to locate the specified artifact.  If successful, the
+mage will be informed of the region the artifact is currently
+located in.
+
+[ location shroud ]
+
+-----------------------------
+
+Spell:  Locate character [9167]
+
+Usage:  USE 9167 <character> [aura]
+
+Required aura:  one to three points, as given
+Required item:
+Time to cast:   seven days
+
+Attempt to locate the specified character.  If successful, the
+mage will learn the region in which the character is currently
+located.
+
+The more aura expended, the greater the chance that the character
+will be located.
+
+	aura	chance of success
+	----	-----------------
+	 1            50%
+	 2            75%
+	 3            90%
+
+-----------------------------
+
+Spell:  Locate nearest city that teaches skill [9168]
+
+Usage:  USE 9168 <skill>
+
+Required aura:  one point
+Required item:
+Time to cast:   seven days
+
+Find the nearest city which offers instruction in the given skill.
+Either a category skill or a subskill may be specified.
+
+This skill may not always succeed.
+
+-----------------------------
+
+Spell:  Shroud abilities from scry [9169]
+
+Usage:  USE 9169 [aura]
+
+Required aura:  one or more points, as given
+Required item:
+Time to cast:   three days
+
+Attempt to prevent other mages from successfully scrying
+the caster to learn magical abilities.  Creates an ability
+shroud with the given amount of aura.  A greater amount
+of aura must be spent by another mage to pierce the shroud.
+
+The shroud loses one point of aura at the end of each month.
+Successive uses of 9169 are additive; USE 9169 1 followed by
+USE 9169 3 will result in an ability shroud with an aura of
+four points.
+
+The shroud lasts 60 days from the time it is created.  If 9169
+is cast while a previous shroud is still active, the old shroud
+will be removed and replaced with the new one.
+
+-----------------------------
+
+Spell:  Detect ability scry [9170]
+
+Usage:  Automatic
+
+Required aura:  none
+Required item:  none
+Time to cast:    -
+
+Knowledge of 9170 will inform the mage of attempts made by other
+magicians to scry his abilities.  No USE action exists for this
+skill; it is automatically employed whenever the mage is a target
+of an ability scry spell.
+
+-----------------------------
+
+Spell:  Detect location scry [9171]
+
+Usage:  USE 9171
+
+Required aura:  one point
+Required item:  none
+Time to cast:   seven days
+
+Knowledge of 9171 will inform the mage of attempts made by other
+magicians to scry the mage's current location.  No USE is required
+in order for scry attempts to be detected.  The skill is used
+automatically whenever the mage's location is the target of an
+location scry spell.
+
+USE of the skill will cause the magician to practice scry detection.
+Practice should improve the experience rating with this skill over
+time, and cause the mage to become more adept at discovering scry
+attempts and identifying their source.
+
+Aura is only consumed by this spell when it is used for practice.
+No aura is depleted when a scry is detected.
+
+-----------------------------
+
+Spell:  Project next magic cast [9172]
+
+Usage:  USE 9172 <location> [aura]
+
+Required aura:  one or more points, as given
+Required item:
+Time to cast:   seven days
+
+Location checks for the next spell cast within the Magic [160]
+category will be made from the given location, instead of the
+location the mage is in.  This effectively allows the mage to
+cast a Magic spell anywhere in the Olympian world.
+
+Sufficient aura must be specified at the time 9172 is cast to
+overcome any magical shrouds in effect at the target location.
+A location shroud check is not made when the projected spell
+is actually cast.
+
+-----------------------------
+
+Spell:  Dispel ability shroud [9173]
+
+Usage:  USE 9173 <target>
+
+Required aura:  three points
+Required item:
+Time to cast:   three days
+
+Dispels any magical shroud inhibiting scrying of the specified
+character's abilities.
+
+-----------------------------
+
+Spell:  Advanced meditation [9174]
+
+Usage:  USE 9174
+
+Required aura:  none
+Required item:
+Time to cast:   seven days
+
+The mage is able to quickly enter a deep meditative state, even
+during aura disturbances or attacks from other magicians.
+
+Current aura level will rise by two points.  Current aura may rise
+above maximum aura by two points.
+
+-----------------------------
+
+Spell:  Hinder meditation [9175]
+
+Usage:  USE 9175 <target> [aura]
+
+Required aura:  one to three points, as given
+Required item:
+Time to cast:   ten days
+
+Clouds the target's mind with disturbing images and incoherent
+thoughts.  The target mage will have difficulty achieving the
+proper mental state during his next attempt at meditation.
+
+The next meditate spell issued by the target may fail, resulting
+in the mage not acquiring a point of current aura. The more aura
+invested in 9175, the greater the chance the target mage will fail:
+
+	aura	chance of failure
+	----	-----------------
+	 1	      50%
+	 2	      75%
+	 3	      90%
+
+If the target does not meditate, the spell will lose one point
+of aura at the end of each month until it has dissipated.  Casts
+by multiple mages accumulate on the target, although the spell may
+not accumulate more than three points of aura.
+
+For example, if two mages each cast USE 9175 501 2, character [501]
+will have a 90% chance of failure in his next attempt to meditate.
+(One aura point has been wasted, since only three may accumulate on
+the target).  At the end of the month, the strength of the 9175
+spell against [501] will diminish to two points, and [501] will
+have a 50% chance of failure during his next meditation.
+
+A mage may cast multiple 9175 spells; they accumulate on the targets,
+not on the casting magician.
+
+9175 has no effect on non-magicians.
+
+The default amount of aura is one point.
+
+-----------------------------
+
+Spell:  Forge palantir [9176]
+
+Usage:  USE 9176
+
+Required aura:   eight
+Required items:  one mithril [82]
+                 one gate crystal [83]
+Time to cast:    ten days
+
+A palantir, or stone of far-seeing, is a crystal orb used to
+view images from a great distance.  Once created, the palantir
+may be used to view a distant location:
+
+	use <palantir> <location>
+
+For example, if a USE 9176 creates Palantir [6289], then one may
+view City of Drassa [cx61] with the palantir by issuing the order:
+
+	use 6289 cx61
+
+Use of the palantir takes seven days.  Any character may use the
+palantir; no magical abilities are required.  However, a palantir
+may only be used once each turn.
+
+-----------------------------
+
+Spell:  Save projected cast [9177]
+
+Usage:  USE @@@@
+
+Required aura:   three
+Required item:
+Time to cast:    seven days
+
+The state where a mage's next cast will be projected to a different
+location may be saved with this spell.  A potion will be created
+which, upon use, will revive the projected cast state.
+
+For example, a mage establishes that his next spell cast will be based
+from Drassa [cx59].  He then issues USE @@@@ to preserve this state.
+Magical potion [8764] is created.  He later issues USE 8764 to drink
+the potion.  His next spell will be based from Drassa.
+
+The mage will no longer have a projected cast state after use of this
+spell.
+
+-----------------------------
+
+Spell:  Save speeded cast [9178]
+
+Usage:  USE @@@@
+
+Required aura:   three
+Required item:
+Time to cast:    seven days
+
+The state where the mage's next cast will be speeded may be saved
+with this spell.  A potion will be created which, upon use, will
+revive the accelerated cast state.
+
+For example, a mage establishes that his next spell cast will be
+speeded by five days.  He then issues USE @@@@ to preserve this state.
+Magical potion [8765] is created.  He later issues USE 8765 to drink
+the potion.  He will gain a five day speedup for his next cast.
+
+The mage will no longer have a speeded cast state after use of this
+spell.
+
+-----------------------------
+
+Spell:  Teach spell [9179]
+
+Usage:  USE @@@@ spell fee
+
+Required aura:  none
+Required item:  none
+Time to cast:   zero days
+
+-----------------------------
+
+
+Illusion:
+	Spell:  Conceal followers
+	Spell:  Conceal route from view
+	Spell:  Dispel concealment from route
+	Spell:  Dispel illusion
+
+	Spell:  appear to be non-descript character
+	Spell:  take form of beast
+	Spell:  become invisible
+
+	Spell:  Construct palantir / seeing-stone / crystal orb of sight
+		(use lets anyone see an entity far away; use loc|char|item)
+
+		requires mithril, gate crystal, 1 NP
+
+		use <palantir> <where>
+		can't pierce shrouded regions
+
+	Notify of palantir use (who, where, what they saw)
+	Notify of remote sighting
+	Only one use per turn
+
+Spell: locate {item, character, ship}
+	vague:
+		nearby
+		above ground
+		to the west
+		below ground
+		at sea
+	or specific..
+
+Only way to learn Runes of Evil is via a book written in the
+	Language of the Ancients.
+
+Weather magic:
+	banish rain
+	banish fog
+	banish wind
+	prevent earthquake
+		-- banishment can't succeed if weather has been predicted
+	earthquake
+
+Gatecraft: lock gate in current state
+Gatecraft: unlock gate
+Gatecraft:  List all gates (too powerful)
+
+	Spell: Protect artifact from destruction
+ 
+Curses:  impose use key to avoid curse?
+Curses:  seal against use unless have key
+
+Spell: defeat curse in object
+Spell: reveal curse in object
+
+Spell: polarize magic field (suppress unaligned aura) ??
+
+Spell: create required item
+	consumes aura to produce a minor
+	required item, such as a bit of flora, a toad's ear, etc.
+	Can only be used once?
+
+	Perhaps have a wheel of items, such that an item may be
+	transformed into another req item:
+
+		lotus leaves		x root, toad's ear
+		toad's ear		foo powder, bat's eye
+		...
+
+	similar to the chinese placemat wheels
+
+	Leave a few holes, and let the players extrapolate
+
+Item: drink potion to gain magical skill
+	ex: drink blood potion for necromancy skill
+
+Research school: learn new spells
+Research spell: learn similar spell that requires a different key item
+
+Spell: cause disease outbreak
+
+Spell:  Breathe underwater
+
+
+Magic:
+	teleport item ?
+	freeze entity
+	predict arrivals to this location
+
+Artifacts:
+	banish undead
+	all cloaking spells -- object of the shadow
+	crystal ball -- locator spells
+	all suppression spells -- anti magic object
+	ring of invisibility
+	gate jumping wand
+	cursed items
+
+Old:
+	change men to orcs
+	create dragon men
+
+Necromancy:
+	summon undead army
+	become undead upon death (implicit?)
+
+	demonic summoning:
+		summon demon follower
+		summon demon army
+
+Curse:
+	impose use key to avoid curse?
+	seal item against use unless have key
+	defeat curse in object
+	reveal curse in object
+
+learn character's true name
+learn location's true name
+
+based on Runes:  (?)
+	learn character's true name
+	learn location's true name
+	all requiring true name
+	teleport to location
+	forcefully summon character (to prisoner)
+	kill character
+
+Spell: polarize magic field (suppresses unaligned aura) ??
+
+Spell: create required item
+	consumes aura to produce a minor
+	required item, such as a bit of flora, a toad's ear, etc.
+	Can only be used once?
+
+Item: drink potion to gain magical skill
+	ex: drink blood potion for necromancy skill
+
+Items:
+	bat wing
+	cobalt fire powder
+	thross root
+	ground ox teeth
+	brain of a horse
+	horse blood
+	beard of a saint
+	gate crystal
+	ratspider venom
+	dragon teeth
+
+
+-----------------------------
+
+Notes:
+======
+
+Chars have max & current aura ratings.
+Items may increase magical aura.
+Max aura is increased along with knowledge level while studying.
+Current aura rises to max aura at 1 pt/turn.
+Actual effective aura rating may be augmented by a magical device.
+
+Forge magical auracle / auracon / auraculum
+
+perhaps a particular spell can only be cast once a month by *anyone*
+who else knows this spell, spell
+spells could wear out if used too often
+who else knows this skill, dependent on:
+how many other people know this skill
+
+Disrupt magician's study
+Disrupt magician's research
+Cause zone of peace / mind rest / tranquility
+
+spells can only be cast every N days...spell can't be cast on the same
+twice on the same day...
+
+Disrupt magic in region (too powerful?)
+Disrupt cast <target>  -- region, much aura ; char, less aura
+Enable cast no matter what
+
+Perhaps casts fail without giving a reason if too many or disrupted
+or wrong ingredients.
+
+Sendings?
+Resurrection?
+
+Precast spell -- pay spell preparation time upfront (see Quicken ...)
+Later spell will take zero time to actually cast (or one day)
+
+Require mithril to construct a magical artifact?
+
+Make subspell -- a copy of an existing spell, but one which
+	- enslaves the caster
+	- notifies the subspell's creator
+	- doesn't work against the creator
+	- can only be one copy of each spell
+Reveal nature of spell
+	- true spell
+		whether a subspell has been created for it
+	- subspell
+		creator of subspell
+	- days to regenerate
+	- required knowledge
+	- what magicians last attempted to cast it
+	- how many magicians know it
+
+
+Another possible rule:  once N magicians know a spell, it relocates
+to a different entity number.  Problematic.
+
+
+Make slave subspell
+	doesn't work against creator
+	notifies creator for each use
+	limited pool -- don't allow continual growth
+
+Reveal last use of spell	1 NP
+	must know spell
+
+	who (char *)
+	when	teacher
+	where	master
+
+
+
+Spell Casting Limitations
+-------------------------
+
+Spells may only be cast n times per turn
+	simpler
+	but collision problem at beginning of month
+
+Spells may only be cast within n days of one another
+	more complex
+	more random -- hard to tell when it's safe to cast a spell
+
+Why?
+
+1.
+spell's power to cause effect in physical world comes from their
+innate patters in the aural plane.  Casting a spell depeletes the
+pattern of energy.  The stronger the spell, the longer it takes to
+regenerate.
+
+2.
+All spells are fundamentally based on expressing the true name of
+the desired effect in the aural plane.
+
+No two magicians can cast the same spell at the same time.
+(fail after one day for fairness?)
+(phys: cast-attempt list in spell entity)
+
+Basic:  Prevail over contesters / competitors for next cast
+
+Once cast, a spell requires an amount of time to regenerate.
+Each spell lists how many days it takes to regenerate.
+
+
+Illusion:  Prophecy arrivals to this location
+Gatecraft:  Inhibit jumps to region
+Gatecraft:  Inhibit jumps from region
+
+Spell:  Reflect cast (given who and spell, reflects cast back on them)
+
+Knowledge of Runes of Evil [9154] allows the study of the following
+additional spells which are based on powers granted by the Runes:
+
+	Construct cursed death-scroll [9155]
+	Teleport self [9156]
+
+
+Inspect gate
+	created by
+	on
+	Notify jump:
+	Notify unseal:
+	Seal key: ???
+	Last jump:
+	on:
+
+Curse of the fives:  causes any spell with a '5' in the number
+			to mysteriously fail
+
+			implement via d_use, eh?
+
+New magic ideas:
+
+	Inspect gate
+	Detect aura interference
+	Sense aura ?
+
+Very powerful:
+
+	Dissipate mage's aura
+	Sap mage's aura
+
+Sacrifice nobles for NP's
+	two nobles for one NP
+	three nobles for two NP's
+
+
+Artifacts:
+	artifact which inhibits gate jumps if it's in the region
+
+Locate shrouded regions
+
+Scry:  Are there hidden features here?
+
+	maybe
+	yes
+	no
+
+Curse scroll use
+
+Test magic potion (alchemy, magic?)
+	1/3 chance that purpose will be revealed
+	but repeated attempts do not change the answer
+
+
+Forge auraculum
+	requires lots of stuff: gold, gate crystal, cobalt fire powder, etc.
+	notify other auraculum creators
+
+	auraculum contains three spells you can't get anywhere else
+		siphon mage's aura
+		???
+		???
+
+
+Advanced sorcery
+	Aura blast
+	Drain aura
+	Sacrifice nobles for NP's
+
+Can noncreators use an auraculum's spells?
+
+forge auraculum adds AS
+	that is the one-time marker
+	lore sheet
+	auraculum possess gives req critical hit
+	critical hit -- execute -- 50% fail chance
+
+aura blast
+	ineffective against non-magicians
+	causes wounds after CA consumed
+
+Dispel artifact curse
+	no way to do this
+	only way is if creator dies
+
+Make FA take three turns?  Two turns?
+
+Sap loyalty - aura points deducted
+	but only against magicians, unless they
+		use some other spell first
+		have some other spell
+
+Use health to meet current aura requirements
+Perhaps CA depletion also depletes health, normally
+
+bad Interaction between dip into health and Heal.
+
+Instead of having some spells work directly, instead
+have forge spells to construct an item which performs
+the spell.
+
+
+battle magic
+	defensive spells require CA
+	or just put in other categories
+

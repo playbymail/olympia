@@ -1,0 +1,52 @@
+
+
+---------------------------------------------------------------------------
+CACHE      <item> <qty> [...]                   time: 1 day     priority: 3
+---------------------------------------------------------------------------
+
+Create a hidden cache containing the specified items.
+
+
+---------------------------------------------------------------------------
+GARRISON   <item> <qty> [...]                   time: 1 day     priority: 3
+---------------------------------------------------------------------------
+
+	Install a garrision of men in the location.
+	Must be the first unit in the location.
+	Cannot be used if there is already a garrison.
+
+	Garrison is by default on guard.
+	Garrison's attitudes with respect to HOSTILE and DEFEND
+	are those of the unit which created it.
+
+	Garrison [3465], lord Feasel the Great [2311], with 10 soldiers
+
+	UNGARRISON [who] command.
+
+
+---------------------------------------------------------------------------
+GET        <who> <item> [qty] [have-left]       time: 0 days    priority: 1
+---------------------------------------------------------------------------
+
+Get the given quantity of item from the specified target.
+
+Characters may GET items from other units in their faction, garrisons they
+control, or hidden caches of items.  GET may not be used to take items from
+another faction's units; the other faction's units must issue GIVE orders.
+
+Specifying zero for the quantity will cause the unit to attempt to take
+all of the target's inventory of the item.  If have-left is given, at
+least that many will not be taken.
+
+For example, if Feasel [5499] had 100 gold[1]:
+
+        GET 5499 1 50          #  Get 50 gold from Feasel
+        GET 5499 1 0           #  Get all 100 gold from Feasel
+        GET 5499 1 100         #  Get all 100 gold from Feasel
+        GET 5499 1 100 25      #  Get 75 gold from Feasel
+        GET 5499 1 0 25        #  Get 75 gold from Feasel
+
+Prisoners may also be transferred with the GET order.
+
+        GET 5499 4569          #  Transfer prisoner [4569] from [5499]
+

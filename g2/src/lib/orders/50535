@@ -1,0 +1,265 @@
+6971:contact bh3 cb5 db7 df7 et5 fc3
+6971:contact gk5 hd3 mm9 nn3 ny7 ps4
+6971:contact qb2 qn5 qy4 rq7 rr7 sz5
+6971:contact ta8 tj7 tp2 tr5 ug3 uh5
+6971:contact vy5 xy3 yf7 Yg9 ym3 yv5
+6971:contact zy6
+6971:accept 0 0
+6971:behind 0
+6971:promote 6686
+6971:promote 3282
+6971:give 3282 18 0
+6971:give 3282 21 0
+6971:give 3282 22 0
+6971:give 3282 10 0
+6971:give 3282 12 0
+6971:give 6686 1 0 500
+6971:give 4181 54 0 9
+6971:get 3282 282 2
+6971:breed 282 282
+6971:give 3282 282 0
+6971:get 3282 282 2
+6971:breed 282 282
+6971:give 3282 282 0
+6971:get 3282 282 2
+6971:breed 282 282
+6971:give 3282 282 0
+6971:get 3282 282 2
+6971:breed 282 282
+6971:give 3282 282 0
+6971:get 3282 282 2
+6971:breed 282 282
+6971:give 3282 282 0
+6971:get 3282 282 2
+6971:breed 282 282
+6971:give 3282 282 0
+6971:train 20 0
+6971:train 21 0
+6971:train 12 0
+6971:train 16 0
+6048:contact bh3 cb5 db7 df7 et5 fc3
+6048:contact gk5 hd3 mm9 nn3 ny7 ps4
+6048:contact qb2 qn5 qy4 rq7 rr7 sz5
+6048:contact ta8 tj7 tp2 tr5 ug3 uh5
+6048:contact vy5 xy3 yf7 Yg9 ym3 yv5
+6048:contact zy6
+6048:accept 0 0
+6048:sail up
+6048:give 8083 22 0
+6048:give 8083 16 0
+6048:give 8083 21 0
+6048:give 8083 18 0
+6048:make 18 18
+6048:give 8083 18 0
+6048:use 813
+6048:use 813
+6048:use 813
+6048:use 813
+6048:use 813
+6048:give 8083 22 0
+6048:give 8083 16 0
+6048:give 8083 21 0
+6048:use 813
+6048:use 813
+6048:use 813
+6048:use 813
+6048:use 615
+6048:use 615
+6048:use 614
+6048:seek
+3282:stop
+3282:contact cb5 df7  et5
+3282:contact fc3 mm9 mv9  ps4 qn5
+3282:contact qb2 qy4  rq7 rr7 sz5 tj7 tp2  ug3 uh5
+3282:contact yf7 yg9 yv5 zy6
+3282:accept 0 0
+3282:behind 0
+3282:sail up
+3282:breed 282 282
+3282:make 18 16
+3282:use 813
+3282:breed 282 282
+3282:breed 282 282
+3282:breed 282 282
+3282:breed 282 282
+3282:breed 282 282
+3282:use 813
+3282:use 813
+3282:use 813
+3282:use 813
+3282:use 813
+3282:use 813
+5461:contact bh3 cb5 db7 df7 et5 fc3
+5461:contact gk5 hd3 mm9 nn3 ny7 ps4
+5461:contact qb2 qn5 qy4 rq7 rr7 sz5
+5461:contact ta8 tj7 tp2 tr5 ug3 uh5
+5461:contact vy5 xy3 yf7 Yg9 ym3 yv5
+5461:contact zy6
+5461:accept 0 0
+5461:collect 31
+5461:study 840
+5461:study 840
+5461:study 841
+5461:study 841
+5461:study 841
+5461:study 841
+5461:study 842
+5461:study 843
+5461:study 844
+5461:study 845
+5461:study 846
+5461:study 847
+5461:study 848
+5461:study 849
+5461:study 851
+5461:study 852
+5461:study 851
+5461:study 852
+5461:study 611
+5461:study 611
+5461:study 652
+5461:study 652
+5461:study 900
+5461:study 900 
+5461:study 903
+5461:study 903
+5461:study 911
+5461:study 911
+5461:study 908
+5461:study 908
+5461:study 904
+5461:study 904
+5461:study 909
+5461:study 909
+5461:study 907
+5461:study 907
+5461:study 906
+5461:study 906
+5461:study 905
+5461:study 905
+5461:study 902
+5461:study 902
+5461:use 614
+5461:use 614
+5461:use 615
+5461:use 615
+5461:use 615
+6686:stop
+6686:contact bh3 cb5 db7 df7 et5 fc3
+6686:contact gk5 hd3 mm9 nn3 ny7 ps4
+6686:contact qb2 qn5 qy4 rq7 rr7 sz5
+6686:contact ta8 tj7 tp2 tr5 ug3 uh5
+6686:contact vy5 xy3 yf7 Yg9 ym3 yv5
+6686:contact zy6
+6686:accept 0 0
+6686:give 3282 18 0
+6686:give 3282 1 0 1000
+6686:make 18 18
+6686:give 3282 18 0
+6686:use 813
+6686:use 813
+6686:use 813
+6686:use 813
+6686:use 615
+6686:use 614
+6686:use 813
+6686:use 813
+6686:use 813
+6686:use 802
+6686:seek
+66144:study 611
+66144:study 611
+66144:study 652
+66144:study 652
+66144:study 612
+66144:study 612
+66144:use 612 0
+66144:get 3282 282 2
+66144:breed 282 282
+66144:give 3282 282 0
+66144:get 3282 282 2
+66144:breed 282 282
+66144:give 3282 282 0
+66144:get 3282 282 2
+66144:breed 282 282
+66144:give 3282 282 0
+66144:get 3282 282 2
+66144:breed 282 282
+66144:give 3282 282 0
+66144:get 3282 282 2
+66144:breed 282 282
+66144:give 3282 282 0
+1321:stop
+1321:move s
+1321:move s
+1321:move s
+1321:move w
+1321:explore
+1321:explore
+1321:explore
+1321:explore
+1321:explore
+77262:study 611
+77262:study 611
+77262:study 652
+77262:study 652
+77262:study 612
+77262:study 612
+77262:use 612 0
+77262:get 3282 282 2
+77262:breed 282 282
+77262:give 3282 282 0
+77262:get 3282 282 2
+77262:breed 282 282
+77262:give 3282 282 0
+77262:get 3282 282 2
+77262:breed 282 282
+77262:give 3282 282 0
+77262:get 3282 282 2
+77262:breed 282 282
+77262:give 3282 282 0
+77262:get 3282 282 2
+77262:breed 282 282
+77262:give 3282 282 0
+9856:move s
+9856:move w
+9856:move s
+9856:move s
+9856:move s
+9856:move w
+9856:explore
+9856:explore
+9856:explore
+9856:explore
+9856:explore
+50535:accept bh3 0
+50535:accept cb5 0
+50535:accept db7 0
+50535:accept df7 0
+50535:accept et5 0
+50535:accept fc3 0
+50535:accept gk5 0
+50535:accept hd3 0
+50535:accept mm9 0
+50535:accept nn3 0
+50535:accept ny7 0
+50535:accept ps4 0
+50535:accept qb2 0
+50535:accept qn5 0
+50535:accept qy4 0
+50535:accept rq7 0
+50535:accept rr7 0
+50535:accept sz5 0
+50535:accept ta8 0
+50535:accept tj7 0
+50535:accept tp2 0
+50535:accept tr5 0
+50535:accept ug3 0
+50535:accept uh5 0
+50535:accept vy5 0
+50535:accept xy3 0
+50535:accept yf7 0
+50535:accept Yg9 0
+50535:accept ym3 0
+50535:accept yv5 0
+50535:accept zy6 0

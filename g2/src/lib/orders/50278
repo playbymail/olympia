@@ -1,0 +1,240 @@
+100713:use 881 75 "Strange potion"
+8259:wait item  10 1  item 12 1
+8259:sail up
+8259:train 12
+8259:train 16
+8259:sail up
+8259:train 12
+8259:train 16
+8259:give 99167 16
+8259:wait item  10 1  item 12 1
+8259:sail up
+8259:train 12
+8259:train 16
+8259:sail up
+8259:train 12
+8259:train 16
+8259:give 99167 16
+8259:give 99167 12
+124616:wait item  10 1  item 12 1
+124616:sail up
+124616:train 12
+124616:train 16
+124616:sail up
+124616:train 12
+124616:train 16
+124616:give 99167 16
+124616:wait item  10 1  item 12 1
+124616:sail up
+124616:train 12
+124616:train 16
+124616:sail up
+124616:train 12
+124616:train 16
+124616:give 99167 16
+124616:give 99167 12
+126846:wait item  10 1  item 12 1
+126846:sail up
+126846:train 12
+126846:train 16
+126846:sail up
+126846:train 12
+126846:train 16
+126846:give 99167 16
+126846:wait item  10 1  item 12 1
+126846:sail up
+126846:train 12
+126846:train 16
+126846:sail up
+126846:train 12
+126846:train 16
+126846:give 99167 16
+126846:give 99167 12
+102453:wait item  10 1  item 12 1
+102453:sail up
+102453:train 12
+102453:train 16
+102453:sail up
+102453:train 12
+102453:train 16
+102453:give 99167 16
+102453:wait item  10 1  item 12 1
+102453:sail up
+102453:train 12
+102453:train 16
+102453:sail up
+102453:train 12
+102453:train 16
+102453:give 99167 16
+102453:give 99167 12
+130482:wait item  10 1  item 12 1
+130482:sail up
+130482:train 12
+130482:train 16
+130482:sail up
+130482:train 12
+130482:train 16
+130482:give 99167 16
+130482:wait item  10 1  item 12 1
+130482:sail up
+130482:train 12
+130482:train 16
+130482:sail up
+130482:train 12
+130482:train 16
+130482:give 99167 16
+130482:give 99167 12
+6679:wait item  10 1  item 12 1
+6679:sail up
+6679:train 12
+6679:train 16
+6679:sail up
+6679:train 12
+6679:train 16
+6679:give 99167 16
+6679:wait item  10 1  item 12 1
+6679:sail up
+6679:train 12
+6679:train 16
+6679:sail up
+6679:train 12
+6679:train 16
+6679:give 99167 16
+6679:give 99167 12
+80581:wait item  10 1  item 12 1
+80581:sail up
+80581:train 12
+80581:train 16
+80581:sail up
+80581:train 12
+80581:train 16
+80581:give 99167 16
+80581:wait item  10 1  item 12 1
+80581:sail up
+80581:train 12
+80581:train 16
+80581:sail up
+80581:train 12
+80581:train 16
+80581:give 99167 16
+80581:give 99167 12
+102158:wait item  10 1  item 12 1
+102158:sail up
+102158:train 12
+102158:train 16
+102158:sail up
+102158:train 12
+102158:train 16
+102158:give 99167 16
+102158:wait item  10 1  item 12 1
+102158:sail up
+102158:train 12
+102158:train 16
+102158:sail up
+102158:train 12
+102158:train 16
+102158:give 99167 16
+102158:give 99167 12
+133664:wait item  10 1  item 12 1
+133664:sail up
+133664:train 12
+133664:train 16
+133664:sail up
+133664:train 12
+133664:train 16
+133664:give 99167 16
+133664:wait item  10 1  item 12 1
+133664:sail up
+133664:train 12
+133664:train 16
+133664:sail up
+133664:train 12
+133664:train 16
+133664:give 99167 16
+133664:give 99167 12
+85639:wait item  10 1  item 12 1
+85639:sail up
+85639:train 12
+85639:train 16
+85639:sail up
+85639:train 12
+85639:train 16
+85639:give 99167 16
+85639:wait item  10 1  item 12 1
+85639:sail up
+85639:train 12
+85639:train 16
+85639:sail up
+85639:train 12
+85639:train 16
+85639:give 99167 16
+85639:give 99167 12
+142656:wait item  10 1  item 12 1
+142656:sail up
+142656:train 12
+142656:train 16
+142656:sail up
+142656:train 12
+142656:train 16
+142656:give 99167 16
+142656:wait item  10 1  item 12 1
+142656:sail up
+142656:train 12
+142656:train 16
+142656:sail up
+142656:train 12
+142656:train 16
+142656:give 99167 16
+142656:give 99167 12
+100912:wait item  10 1  item 12 1
+100912:sail up
+100912:train 12
+100912:train 16
+100912:sail up
+100912:train 12
+100912:train 16
+100912:give 99167 16
+100912:wait item  10 1  item 12 1
+100912:sail up
+100912:train 12
+100912:train 16
+100912:sail up
+100912:train 12
+100912:train 16
+100912:give 99167 16
+100912:give 99167 12
+105397:wait item  10 1  item 12 1
+105397:sail up
+105397:train 12
+105397:train 16
+105397:sail up
+105397:train 12
+105397:train 16
+105397:give 99167 16
+105397:wait item  10 1  item 12 1
+105397:sail up
+105397:train 12
+105397:train 16
+105397:sail up
+105397:train 12
+105397:train 16
+105397:give 99167 16
+105397:give 99167 12
+103783:wait item  10 1  item 12 1
+103783:sail up
+103783:train 12
+103783:train 16
+103783:sail up
+103783:train 12
+103783:train 16
+103783:give 99167 16
+103783:wait item  10 1  item 12 1
+103783:sail up
+103783:train 12
+103783:train 16
+103783:sail up
+103783:train 12
+103783:train 16
+103783:give 99167 16
+103783:give 99167 12
+50278:accept 0 0

@@ -1,0 +1,426 @@
+14638:0::0:0:Garrison~[6493], garrison, with ten~soldiers guards Plain~[ch38].
+14234:0::0:0:Garrison~[8528], garrison, with ten~soldiers guards Phoenix Eastern Border~[cc34].
+14135:0::0:0:Garrison~[d821], garrison, with ten~soldiers guards Swamp~[cb35].
+14335:0::0:0:Garrison~[x621], garrison, with ten~soldiers guards Swamp~[cd35].
+14436:0::0:0:Garrison~[98147], garrison, with ten~soldiers guards Mountain~[cf36].
+14537:0::0:0:Garrison~[146850], garrison, with ten~soldiers guards Forest~[cg37].
+14537:0::0:4:It has begun to rain.
+14638:0::0:21:It has begun to rain.
+14234:0::0:21:It has begun to rain.
+14135:0::0::
+14135:0::0::Province controlled by Castle Gorka~[2578], castle, in Forest of Szczek~[cc39]
+14135:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+14135:0::0::
+14135:0::0::Routes leaving Swamp: 
+14135:0::3::North, forest, to Greyfellords Border~[ca35], 8~days
+14135:0::3::East, to Desert~[cb36], 8~days
+14135:0::3::South, plain, to Greyfellords Border~[cc35], 7~days
+14135:0::3::West, forest, to Phoenix Eastern Border~[cb34], 8~days
+14135:0::0::
+14135:0::0::It is raining.
+14135:0::0::
+14135:0::0::Seen here:
+14135:0::0/3::   Garrison~[d821], garrison, on guard, with ten~soldiers
+14135:0::0/3:: * Arpa~[1474]
+14234:0::0::
+14234:0::0::Province controlled by Illumine Keep~[g359], castle, in Judecca ~[cg31]
+14234:0::0::Ruled by Sheik Arrarah~[92640], duke
+14234:0::0::
+14234:0::0::Routes leaving Phoenix Eastern Border: 
+14234:0::3::North, forest, to Phoenix Eastern Border~[cb34], 8~days
+14234:0::3::East, plain, to Greyfellords Border~[cc35], 7~days
+14234:0::3::South, plain, to Phoenix Eastern Border~[cd34], 7~days
+14234:0::3::West, to Desert~[cc33], 8~days
+14234:0::0::
+14234:0::0::It is raining.
+14234:0::0::
+14234:0::0::Seen here:
+14234:0::0/3::   Garrison~[8528], garrison, on guard, with ten~soldiers
+14234:0::0/3:: * Brodus~[3898]
+14335:0::0::
+14335:0::0::Province controlled by Castle Gorka~[2578], castle, in Forest of Szczek~[cc39]
+14335:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+14335:0::0::
+14335:0::0::Routes leaving Swamp: 
+14335:0::3::North, plain, to Greyfellords Border~[cc35], 7~days
+14335:0::3::East, to Forest~[cd36], 8~days
+14335:0::3::South, to Mountain~[cf35], 10~days
+14335:0::3::West, plain, to Phoenix Eastern Border~[cd34], 7~days
+14335:0::0::
+14335:0::0::It is raining.
+14335:0::0::
+14335:0::0::Seen here:
+14335:0::0/3::   Garrison~[x621], garrison, on guard, with ten~soldiers
+14335:0::0/3:: * Denelda~[7532]
+14436:0::0::
+14436:0::0::Province controlled by Castle Gorka~[2578], castle, in Forest of Szczek~[cc39]
+14436:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+14436:0::0::
+14436:0::0::Routes leaving Mountain: 
+14436:0::3::North, to Forest~[cd36], 8~days
+14436:0::3::East, to Desert~[cf37], 8~days
+14436:0::3::South, to Forest~[cg36], 8~days
+14436:0::3::West, to Mountain~[cf35], 10~days
+14436:0::0::
+14436:0::0::It is raining.
+14436:0::0::
+14436:0::0::Seen here:
+14436:0::0/3::   Garrison~[98147], garrison, on guard, with ten~soldiers
+14436:0::0/3:: * Camar~[4730]
+14537:0::0::
+14537:0::0::Province controlled by Castle Gorka~[2578], castle, in Forest of Szczek~[cc39]
+14537:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+14537:0::0::
+14537:0::0::Routes leaving Forest: 
+14537:0::3::North, to Desert~[cf37], 8~days
+14537:0::3::East, to Swamp~[cg38], 14~days
+14537:0::3::South, to Plain~[ch37], 7~days
+14537:0::3::West, to Forest~[cg36], 8~days
+14537:0::0::
+14537:0::0::It is raining.
+14537:0::0::
+14537:0::0::Seen here:
+14537:0::0/3::   Garrison~[146850], garrison, on guard, with ten~soldiers
+14537:0::0/3:: * Erlend~[4620]
+14638:0::0::
+14638:0::0::Province controlled by Castle Gorka~[2578], castle, in Forest of Szczek~[cc39]
+14638:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+14638:0::0::
+14638:0::0::Routes leaving Plain: 
+14638:0::3::North, to Swamp~[cg38], 14~days
+14638:0::3::East, to Plain~[ch39], 7~days
+14638:0::3::South, to Plain~[cj38], 7~days
+14638:0::3::West, to Plain~[ch37], 7~days
+14638:0::0::
+14638:0::0::Inner locations:
+14638:0::3::Old battlefield~[v300], battlefield, 1 day
+14638:0::3::Poppy field~[h299], poppy field, 1 day
+14638:0::0::
+14638:0::0::It is raining.
+14638:0::0::
+14638:0::0::Seen here:
+14638:0::0/3::   Garrison~[6493], garrison, on guard, with ten~soldiers
+14638:0::0/3:: * Fodder~[2941]
+5:0::0::
+5:0::0::begin wj9 "j1j1j1"  # Errant Knights
+5:0::0::
+5:0::0::unit wj9  # Errant Knights
+5:0::0::
+5:0::0::unit 1474  # Arpa in Swamp~[cb35]
+5:0::0::
+5:0::0::unit 3898  # Brodus in Phoenix Eastern Border~[cc34]
+5:0::0::
+5:0::0::unit 7532  # Denelda in Swamp~[cd35]
+5:0::0::
+5:0::0::unit 4730  # Camar in Mountain~[cf36]
+5:0::0::
+5:0::0::unit 4620  # Erlend in Forest~[cg37]
+5:0::0::
+5:0::0::unit 2941  # Fodder in Plain~[ch38]
+5:0::0::
+5:0::0::end
+55819:0::0::
+55819:0::0::Unclaimed items:
+55819:0::0::
+55819:0::0::      qty  name                              weight
+55819:0::0::      ---  ----                              ------
+55819:0::0::    5,445  gold~[1]                               0  
+55819:0::0::       50  wood~[77]                          1,500  
+55819:0::0::      100  stone~[78]                        10,000  
+1474:0::3::
+1474:0::3/16::Location:       Swamp~[cb35], in Provinia
+1474:0::3::Loyalty:        Oath-2
+1474:0::3::Health:         100%
+1474:0::3::Combat:         attack 80, defense 80, missile 0
+1474:0::3::                behind 0  (front line in combat)
+1474:0::3::Break point:    50%
+1474:0::3::
+1474:0::3::Current aura:   2
+1474:0::3::Maximum aura:   2
+1474:0::3::
+1474:0::3::Skills known:
+1474:0::6::Combat~[610]
+1474:0::6::Magic~[800]
+1474:0::12::Perform common tasks for gold~[802], apprentice
+1474:0::3::
+1474:0::3::Arpa~[1474] has no possessions.
+1474:0::3::
+1474:0::3/11::Capacity:  0/100 land (0%)
+1474:0::3::
+2941:0::3::
+2941:0::3/16::Location:       Plain~[ch38], in Provinia
+2941:0::3::Loyalty:        Oath-1
+2941:0::3::Health:         100%
+2941:0::3::Combat:         attack 80, defense 80, missile 0
+2941:0::3::                behind 0  (front line in combat)
+2941:0::3::Break point:    50%
+2941:0::3::
+2941:0::3::Skills known:
+2941:0::6::Combat~[610]
+2941:0::12::Weaponsmithing~[617], apprentice
+2941:0::3::
+2941:0::3::Inventory:
+2941:0::3::{<b>}      qty  name                              weight{</b>}
+2941:0::3::      ---  ----                              ------
+2941:0::3::      200  gold~[1]                               0  
+2941:0::3::                                             ======
+2941:0::3::                                                  0
+2941:0::3::
+2941:0::3/11::Capacity:  0/100 land (0%)
+2941:0::3::
+3898:0::3::
+3898:0::3/16::Location:       Phoenix Eastern Border~[cc34], in Provinia
+3898:0::3::Loyalty:        Oath-1
+3898:0::3::Health:         100%
+3898:0::3::Combat:         attack 80, defense 80, missile 0
+3898:0::3::                behind 0  (front line in combat)
+3898:0::3::Break point:    50%
+3898:0::3::
+3898:0::3::Skills known:
+3898:0::6::Combat~[610]
+3898:0::12::Swordplay~[616], apprentice
+3898:0::6::Beastmastery~[650]
+3898:0::3::
+3898:0::3::Inventory:
+3898:0::3::{<b>}      qty  name                              weight{</b>}
+3898:0::3::      ---  ----                              ------
+3898:0::3::      200  gold~[1]                               0  
+3898:0::3::                                             ======
+3898:0::3::                                                  0
+3898:0::3::
+3898:0::3/11::Capacity:  0/100 land (0%)
+3898:0::3::
+4620:0::3::
+4620:0::3/16::Location:       Forest~[cg37], in Provinia
+4620:0::3::Loyalty:        Oath-1
+4620:0::3::Health:         100%
+4620:0::3::Combat:         attack 80, defense 80, missile 0
+4620:0::3::                behind 0  (front line in combat)
+4620:0::3::Break point:    50%
+4620:0::3::
+4620:0::3::Skills known:
+4620:0::6::Combat~[610]
+4620:0::6::Construction~[680]
+4620:0::3::
+4620:0::3::Inventory:
+4620:0::3::{<b>}      qty  name                              weight{</b>}
+4620:0::3::      ---  ----                              ------
+4620:0::3::      200  gold~[1]                               0  
+4620:0::3::                                             ======
+4620:0::3::                                                  0
+4620:0::3::
+4620:0::3/11::Capacity:  0/100 land (0%)
+4620:0::3::
+4730:0::3::
+4730:0::3/16::Location:       Mountain~[cf36], in Provinia
+4730:0::3::Loyalty:        Oath-1
+4730:0::3::Health:         100%
+4730:0::3::Combat:         attack 80, defense 80, missile 0
+4730:0::3::                behind 0  (front line in combat)
+4730:0::3::Break point:    50%
+4730:0::3::
+4730:0::3::Skills known:
+4730:0::6::Combat~[610]
+4730:0::6::Beastmastery~[650]
+4730:0::6::Forestry~[700]
+4730:0::3::
+4730:0::3::Inventory:
+4730:0::3::{<b>}      qty  name                              weight{</b>}
+4730:0::3::      ---  ----                              ------
+4730:0::3::      200  gold~[1]                               0  
+4730:0::3::                                             ======
+4730:0::3::                                                  0
+4730:0::3::
+4730:0::3/11::Capacity:  0/100 land (0%)
+4730:0::3::
+7532:0::3::
+7532:0::3/16::Location:       Swamp~[cd35], in Provinia
+7532:0::3::Loyalty:        Oath-1
+7532:0::3::Health:         100%
+7532:0::3::Combat:         attack 80, defense 80, missile 0
+7532:0::3::                behind 0  (front line in combat)
+7532:0::3::Break point:    50%
+7532:0::3::
+7532:0::3::Skills known:
+7532:0::6::Combat~[610]
+7532:0::6::Stealth~[630]
+7532:0::12::Determine skills of character~[633], apprentice
+7532:0::3::
+7532:0::3::Inventory:
+7532:0::3::{<b>}      qty  name                              weight{</b>}
+7532:0::3::      ---  ----                              ------
+7532:0::3::      200  gold~[1]                               0  
+7532:0::3::                                             ======
+7532:0::3::                                                  0
+7532:0::3::
+7532:0::3/11::Capacity:  0/100 land (0%)
+7532:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Errant Knights~[wj9].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/wj9/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [wj9]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         6  87th   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           1,000  98th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    8/74  110th  
+0:0::3/41::Spells known:                    2/79  94th   
+0:0::3/41::Provinces visited:          85/31,919  105th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  26     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 265.
+0:0::0::
+0:0::0::The next five nobles formed will be:  2358 6281 5229 6824 8675
+0:0::0::
+0:0::0::16 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::1474   cb35   o2    100  0  2                                 Arpa
+0:0::0::3898   cc34   o1    100  0     200                            Brodus
+0:0::0::7532   cd35   o1    100  0     200                            Denelda
+0:0::0::4730   cf36   o1    100  0     200                            Camar
+0:0::0::4620   cg37   o1    100  0     200                            Erlend
+0:0::0::2941   ch38   o1    100  0     200                            Fodder
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              1000                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Swamp~[cb35]                     Arpa~[1474]
+0:0::0::  Phoenix Eastern Border~[cc34]    Brodus~[3898]
+0:0::0::  Swamp~[cd35]                     Denelda~[7532]
+0:0::0::  Mountain~[cf36]                  Camar~[4730]
+0:0::0::  Forest~[cg37]                    Erlend~[4620]
+0:0::0::  Plain~[ch38]                     Fodder~[2941]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  1474         100        100   0%                                
+0:0::0::  3898         100        100   0%                                
+0:0::0::  7532         100        100   0%                                
+0:0::0::  4730         100        100   0%                                
+0:0::0::  4620         100        100   0%                                
+0:0::0::  2941         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Errant Knights~[wj9]"><font size=+1><b>Errant Knights~[wj9]</b></font>
+1:2::0::<hr>
+1:1::0::Errant Knights~[wj9]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55819
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Arpa~[1474]"><font size=+1><b>Arpa~[1474]</b></font>
+1:2::0::<hr>
+1:1::0::Arpa~[1474]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1474
+1:0::0::
+1:2::0::
+1:2::0::<name="Brodus~[3898]"><font size=+1><b>Brodus~[3898]</b></font>
+1:2::0::<hr>
+1:1::0::Brodus~[3898]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3898
+1:0::0::
+1:2::0::
+1:2::0::<name="Denelda~[7532]"><font size=+1><b>Denelda~[7532]</b></font>
+1:2::0::<hr>
+1:1::0::Denelda~[7532]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7532
+1:0::0::
+1:2::0::
+1:2::0::<name="Camar~[4730]"><font size=+1><b>Camar~[4730]</b></font>
+1:2::0::<hr>
+1:1::0::Camar~[4730]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4730
+1:0::0::
+1:2::0::
+1:2::0::<name="Erlend~[4620]"><font size=+1><b>Erlend~[4620]</b></font>
+1:2::0::<hr>
+1:1::0::Erlend~[4620]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4620
+1:0::0::
+1:2::0::
+1:2::0::<name="Fodder~[2941]"><font size=+1><b>Fodder~[2941]</b></font>
+1:2::0::<hr>
+1:1::0::Fodder~[2941]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2941
+1:2::0::
+1:2::0::<name="Swamp~[cb35]"><font size=+1><b>Swamp~[cb35]</b>, swamp, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Swamp~[cb35], swamp, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14135
+1:0::0::
+1:2::0::
+1:2::0::<name="Phoenix Eastern Border~[cc34]"><font size=+1><b>Phoenix Eastern Border~[cc34]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Phoenix Eastern Border~[cc34], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14234
+1:0::0::
+1:2::0::
+1:2::0::<name="Swamp~[cd35]"><font size=+1><b>Swamp~[cd35]</b>, swamp, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Swamp~[cd35], swamp, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14335
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[cf36]"><font size=+1><b>Mountain~[cf36]</b>, mountain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[cf36], mountain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14436
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[cg37]"><font size=+1><b>Forest~[cg37]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[cg37], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14537
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[ch38]"><font size=+1><b>Plain~[ch38]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[ch38], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14638
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

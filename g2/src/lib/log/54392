@@ -1,0 +1,1127 @@
+17707:0::0:0:Garrison~[5852], garrison, with 50~pikemen, five~ghost warriors, 58~lions, four~chimera, two~cyclops, two~centaurs, one~crossbowman, four~minotaurs, 65~giant lizards, four~wild horses, one~wolf, 13~riding horses, 14~warmounts guards The Ramtop Mountains~[dw07].
+54392:0::0:0:> accept jy6 0
+54392:0::0:0:> admit h11 jy6
+2396:0::0:1:> stop
+2747:0::0:1:> give 4238 r849
+2747:0::0:1:Rosie~[2747] does not have any [r849].
+2747:0::0:1:> give 4238 v056
+2747:0::0:1:Rosie~[2747] does not have any [v056].
+2747:0::0:1:> give 4238 54 0 6
+2747:0::0:1:Gave two~winged horses to Rincewind the Red Rogue~[4238].
+58465:0::0:1:Purna Raukter~[8216], duke, wizard, wielding Rod of Smiting~[89769] and Magic Bow~[118781], wearing Bracers of Defense~[104328], with 54~peasants, ten~workers, 107~soldiers, 49~pikemen, 16~riding horses, 13~winged horses, 111~catapults, 20~oxen, two~hounds, exited Fate's Bluff~[s050], accompanied~by:
+58465:0::3/3:1:Rincewind the Red Rogue~[4238], master of the black arts, wielding old pitted sword~[g465] and Magic Bow~[a669], wearing Old worn cloak~[f497], with five~workers, 25~archers, 16~sailors, 17~swordsmen, 175~crossbowmen, five~elite archers, four~riding horses, 57~winged horses, four~centaurs, two~lions
+58465:0::0:1:Ankh~[w05] bought nine~clay pots~[95] from Purna Raukter~[8216] for 63~gold.
+2396:0::0:1:> move w05
+58465:0::0:1:Baelrath~[2396], priest, exited Fate's Bluff~[s050].
+2396:0::0:1:Arrival at Ankh~[w05].
+2396:0::0:1:> move h811
+58465:0::0:1:Baelrath~[2396], priest, entered Temple 1~[h811].
+2396:0::0:1:Arrival at Temple 1~[h811].
+2396:0::0:1:Received one~dead body~[83294] from hobo~[116190].
+2396:0::0:1:Received one~dead body~[8586] from hobo~[116190].
+58465:0::0:1:hobo~[116190], with three~winged horses, exited Temple 1~[h811].
+2396:0::0:1:> research 750
+2396:0::0:1:Research Religion~[750].
+2747:0::0:1:> breed 54 54
+2747:0::0:1:Breed attempt will take 6 days.
+9596:0::0:2:Current aura is now 123.
+9596:0::0:3:> use 813
+9596:0::0:3:Meditate for six~days.
+17707:0::0:4:It has begun to rain.
+7090:0::0:6:> move w05
+2747:0::0:6:Gus~[7090] unstacks from us.
+7090:0::0:6:Gus~[7090] unstacks from Rosie~[2747].
+7090:0::0:6:Arrival at Ankh~[w05].
+7090:0::0:6:> use 671 1117 500 1
+7090:0::0:6:Attempt to bribe Fornax~[1117] with a gift of 500~gold.
+2747:0::0:6:Produced one~winged horse~[54].
+2747:0::0:7:> breed 54 54
+2747:0::0:7:Breed attempt will take 6 days.
+2396:0::0:7:Research uncovers a new skill:  Resurrect dead noble~[752]
+2396:0::0:7:To begin learning this skill, order 'study 752'.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> research 750
+2396:0::0:8:No unknown researchable skills exist for Religion.
+2396:0::0:8:> study 752
+2396:0::0:8:Paid 100~gold to begin study.
+2396:0::0:8:Study Resurrect dead noble for seven days.
+9596:0::0:8:Current aura is now 123.
+9596:0::0:9:> use 813
+9596:0::0:9:Meditate for six~days.
+2747:0::0:12:Produced one~winged horse~[54].
+7090:0::0:12:Fornax~[1117] pockets the gold.
+2747:0::0:13:> breed 54 54
+2747:0::0:13:Breed attempt will take 6 days.
+7090:0::0:13:> use 671 1117 500 1
+7090:0::0:13:Attempt to bribe Fornax~[1117] with a gift of 500~gold.
+9596:0::0:14:Another auraculum has come into existence.
+9596:0::0:14:Current aura is now 123.
+2396:0::0:15:> study 752
+2396:0::0:15:Study Resurrect dead noble for seven days.
+9596:0::0:15:> use 813
+9596:0::0:15:Meditate for six~days.
+2747:0::0:18:Produced one~winged horse~[54].
+2747:0::0:19:> breed 54 54
+2747:0::0:19:Breed attempt will take 6 days.
+7090:0::0:19:Fornax~[1117] thanks us for the gift.
+7090:0::0:20:> use 671 1117 500 1
+7090:0::0:20:Attempt to bribe Fornax~[1117] with a gift of 500~gold.
+9596:0::0:20:Current aura is now 123.
+9596:0::0:21:> use 813
+9596:0::0:21:Meditate for six~days.
+2396:0::0:22:> research 750
+2396:0::0:22:No unknown researchable skills exist for Religion.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> research 750
+2396:0::0:22:No unknown researchable skills exist for Religion.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> research 750
+2396:0::0:22:No unknown researchable skills exist for Religion.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> research 750
+2396:0::0:22:No unknown researchable skills exist for Religion.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> research 750
+2396:0::0:22:No unknown researchable skills exist for Religion.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> study 752
+2396:0::0:22:Maximum 14 days studied this month.
+2396:0::0:22:> use 753
+2396:0::0:22:Have already completed a preparatory ritual.
+2396:0::0:22:> use 752 83294
+2396:0::0:22:Baelrath does not know [752].
+2396:0::0:22:> use 753
+2396:0::0:22:Have already completed a preparatory ritual.
+2396:0::0:22:> use 752 8586
+2396:0::0:22:Baelrath does not know [752].
+2396:0::0:22:> wait day 30
+2747:0::0:24:One~winged horse~[54] was killed in the breeding attempt.
+2747:0::0:24:No offspring was produced.
+2747:0::0:25:> breed 54 54
+2747:0::0:25:Breed attempt will take 6 days.
+7090:0::0:26:Fornax~[1117] pockets the gold.
+9596:0::0:26:Current aura is now 123.
+7090:0::0:27:> use 671 1117 500 1
+7090:0::0:27:Attempt to bribe Fornax~[1117] with a gift of 500~gold.
+9596:0::0:27:> use 813
+9596:0::0:27:Meditate for six~days.
+2396:0::0:30:Wait finished: today is day 30.
+2396:0::0:30:> wait time 2
+2747:0::0:30:Produced one~winged horse~[54].
+2396:0::0:30:Temple 1~[h811] collected offerings of 100~gold.
+17707:0::0::
+17707:0::0::Province controlled by Fate's Bluff~[s050], castle, in The Ramtop Mountains~[dw07]
+17707:0::0::Ruled by Billy~[t688], duke
+17707:0::0::
+17707:0::0::Routes leaving The Ramtop Mountains: 
+17707:0::3::North, to Desert~[dv07], 8~days
+17707:0::3::East, plain, to The Grasslands~[dw08], 7~days
+17707:0::3::South, plain, to The Grasslands~[dx07], 7~days
+17707:0::3::West, plain, to The Grasslands~[dw06], 7~days
+17707:0::0::
+17707:0::0::Inner locations:
+17707:0::3::Ankh~[w05], city, "Twin city of Morpork of Provinia", 1 day
+17707:0::0::
+17707:0::0::It is raining.
+17707:0::3::Rain~[90468], storm, strength~1
+17707:0::0::
+17707:0::0::Seen here:
+17707:0::0/3::   Garrison~[5852], garrison, on guard, with 50~pikemen, five~ghost warriors, 58~lions, four~chimera, two~cyclops, two~centaurs, one~crossbowman, four~minotaurs, 65~giant lizards, four~wild horses, one~wolf, 13~riding horses, 14~warmounts
+58465:0::0::
+58465:0::0::Routes leaving Ankh: 
+58465:0::3::Out, mountain, to The Ramtop Mountains~[dw07], 1~day
+58465:0::0::
+58465:0::0::Cities rumored to be nearby:
+58465:0::3::Ironplow~[f44], in Horselands~[dv11]
+58465:0::3::Nassic~[h10], in The Black Forest~[dx08]
+58465:0::3::Haven~[j20], in Sidhe Forest~[ds09]
+58465:0::3::Chaos City~[q30], in Forest Gate~[fa08]
+58465:0::3::Gandar~[w87], in Whitesands~[dr07]
+58465:0::3::Arkaune~[z70], in Dragonmage Woods~[dt07]
+58465:0::0::
+58465:0::0::Skills taught here:
+58465:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Mining~[720], Magic~[800], Weather magic~[820]
+58465:0::0::
+58465:0::0::Market report:
+58465:0::3::
+58465:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58465:0::3::-----    ---   -----    ---     -----   ----                     
+58465:0::3::  buy   4238      11    815        50   soap~[k401]              
+58465:0::3::  buy    w05     125      6        50   hides~[99]               
+58465:0::3::  buy    w05      87     37        50   ale~[88977]              
+58465:0::3::  buy    w05       7      9         5   clay pots~[95]           
+58465:0::3:: sell   8216       7    149         5   clay pots~[95]           
+58465:0::3:: sell   7090       7     12         5   clay pots~[95]           
+58465:0::3:: sell    w05      30      1        10   iron~[79]                
+58465:0::3:: sell    w05     120     34        15   rose perfume~[v931]      
+58465:0::3:: sell    w05      15     23       100   salt~[c249]              
+58465:0::3:: sell    w05      30     40        65   plum wine~[79887]        
+58465:0::3:: sell    w05      96     44        15   rose perfume~[139707]    
+58465:0::0::
+58465:0::0::Inner locations:
+58465:0::3::Temple of Blind Io~[9756], temple, 7%~damaged
+58465:0::3::Temple 1~[h811], temple, defense~10, owner:
+58465:0::0/6:: *    Baelrath~[2396], priest
+58465:0::3::Temple 2~[x552], temple, defense~10
+58465:0::3::Hidden Garden~[x058], tower, defense~40
+58465:0::3::Unseen University~[9301], tower, defense~40
+58465:0::3::East tower~[c269], tower, defense~40
+58465:0::3::Fate's Bluff~[s050], castle, defense~80, level~6, owner:
+58465:0::0/6::      Billy~[t688], duke, with 14~pikemen, one~riding horse
+58465:0::0/6:: *    Rosie~[2747], with nine~winged horses, accompanied~by:
+58465:0::0/9:: *       Katherine~[1056]
+58465:0::0/9:: *       Skorch~[9596], master of the black arts
+58465:0::0/9:: *       Samson~[4846]
+58465:0::0/9:: *       Fletch~[8320]
+58465:0::0/9:: *       Ash~[6212]
+58465:0::0/9:: *       Ramtha~[2325]
+58465:0::0/6::      Scotty~[1288]
+58465:0::0/6::      Silevran~[8314], wielding Staff of striking~[126957] and figaro~[91977], wearing Shield of defence~[81356], with eight~peasants, three~winged horses, two~lions, 11~harpies, nine~dragons
+58465:0::6::Inspirational Spire~[9919], tower, defense~40
+58465:0::0::
+58465:0::0::It is raining.
+58465:0::0::
+58465:0::0::Seen here:
+58465:0::0/3::   Fornax~[1117]
+58465:0::0/3::   Howler~[a919]
+58465:0::0/3::   Purna Raukter~[8216], wizard, wielding Rod of Smiting~[89769] and Magic Bow~[118781], wearing Bracers of Defense~[104328], with 52~peasants, ten~workers, 104~soldiers, 49~pikemen, 16~riding horses, 13~winged horses, 111~catapults, 20~oxen, two~hounds, five~archers, accompanied~by:
+58465:0::0/6::      Rincewind the Red Rogue~[4238], master of the black arts, wielding old pitted sword~[g465] and Magic Bow~[a669], wearing Old worn cloak~[f497], "{<i>}Has anyone seen my Luggage???{</i>}", with five~workers, 25~archers, 16~sailors, 17~swordsmen, 175~crossbowmen, five~elite archers, four~riding horses, 56~winged horses, four~centaurs, two~lions
+58465:0::0/3::   hobo~[116190], with three~winged horses
+5:0::0::
+5:0::0::begin qx2 "screed"  # Trinity
+5:0::0::
+5:0::0::unit qx2  # Trinity
+5:0::0::
+5:0::0::unit 2396  # Baelrath in Temple 1~[h811]
+5:0::3::# > wait time 2 (still~executing)
+5:0::3::move w05
+5:0::3::move s050
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::3::use 756 8216
+5:0::3::use 756 4238
+5:0::0::
+5:0::0::unit 2747  # Rosie in Fate's Bluff~[s050]
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::give 4238 54 0 6
+5:0::0::
+5:0::0::unit 1056  # Katherine in Fate's Bluff~[s050]
+5:0::0::
+5:0::0::unit 9596  # Skorch in Fate's Bluff~[s050]
+5:0::3::# > use 813 (executing for two more days)
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::3::use 813
+5:0::0::
+5:0::0::unit 4846  # Samson in Fate's Bluff~[s050]
+5:0::0::
+5:0::0::unit 8320  # Fletch in Fate's Bluff~[s050]
+5:0::0::
+5:0::0::unit 6212  # Ash in Fate's Bluff~[s050]
+5:0::0::
+5:0::0::unit 2325  # Ramtha in Fate's Bluff~[s050]
+5:0::0::
+5:0::0::unit 7090  # Gus in Ankh~[w05]
+5:0::3::# > use 671 1117 500 1 (executing for three more days)
+5:0::3::wait flag comein
+5:0::3::move s050
+5:0::3::stack 2747
+5:0::3::use 671 1117 500 1
+5:0::3::use 671 1117 500 1
+5:0::3::use 671 1117 500 1
+5:0::3::use 671 1117 500 1
+5:0::3::wait flag comein
+5:0::3::wait day 30
+5:0::3::wait time 2
+5:0::3::use 671 8586 500 1
+5:0::3::use 671 8586 500 1
+5:0::3::use 671 8586 500 1
+5:0::3::use 671 8586 500 1
+5:0::3::use 671 1288 500 1
+5:0::3::use 671 1288 500 1
+5:0::3::use 671 1288 500 1
+5:0::3::use 671 1288 500 1
+5:0::0::
+5:0::0::#
+5:0::0::# Orders for units you do not control as of now
+5:0::0::#
+5:0::0::unit 1117
+5:0::3::oath 1
+5:0::3::move s050
+5:0::3::stack 2747
+5:0::3::flag Comein
+5:0::0::
+5:0::0::end
+54392:0::0::
+54392:0::0::Admit permissions:
+54392:0::0::
+54392:0::3::admit 1056  jy6
+54392:0::3::admit 2325  jy6
+54392:0::3::admit 2396  jy6
+54392:0::3::admit 2747  jy6
+54392:0::3::admit 4846  jy6
+54392:0::3::admit 6212  jy6
+54392:0::3::admit 7090  jy6
+54392:0::3::admit 8056  jy6
+54392:0::3::admit 8320  jy6
+54392:0::3::admit 8586  jy6
+54392:0::3::admit 9596  jy6
+54392:0::3::admit  h11  jy6
+54392:0::3::admit h862  jy6
+54392:0::0::
+54392:0::0::Unclaimed items:
+54392:0::0::
+54392:0::0::      qty  name                              weight
+54392:0::0::      ---  ----                              ------
+54392:0::0::    4,239  gold~[1]                               0  
+1056:0::3::
+1056:0::3/16::Location:       Fate's Bluff~[s050], in Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+1056:0::3::Loyalty:        Oath-1
+1056:0::3/16::Stacked under:  Rosie~[2747]
+1056:0::3::Health:         100%
+1056:0::3::Combat:         attack 80, defense 80, missile 0
+1056:0::3::                behind 0  (front line in combat)
+1056:0::3::Break point:    0% (fight to the death)
+1056:0::3::Receive Vision: 3 protection
+1056:0::3::
+1056:0::3::Current aura:   4
+1056:0::3::Maximum aura:   4
+1056:0::3::
+1056:0::3::Skills known:
+1056:0::6::Combat~[610]
+1056:0::12::Survive fatal wound~[611]
+1056:0::12::Fight to the death~[612]
+1056:0::6::Stealth~[630]
+1056:0::12::Petty thievery~[631], adept
+1056:0::12::Conceal faction~[635], apprentice
+1056:0::6::Beastmastery~[650]
+1056:0::12::Capture beasts in battle~[652]
+1056:0::12::Use beasts in battle~[653]
+1056:0::12::Breed beasts~[654], grand master
+1056:0::12::Catch wild horses~[655], adept
+1056:0::12::Train wild horse to riding horse~[656], master
+1056:0::12::Train wild horse to warmount~[657], adept
+1056:0::6::Trade~[730]
+1056:0::12::Conceal identity of trader~[731], apprentice
+1056:0::12::Find tradegood for sale~[732], apprentice
+1056:0::12::Find market for tradegood~[733], apprentice
+1056:0::6::Necromancy~[900]
+1056:0::12::Summon demon lord~[905], apprentice
+1056:0::12::Renew demon bond~[906], apprentice
+1056:0::12::Absorb aura blast~[911], apprentice
+1056:0::3::
+1056:0::3::Inventory:
+1056:0::3::{<b>}      qty  name                              weight{</b>}
+1056:0::3::      ---  ----                              ------
+1056:0::3::        1  heal~[g725]                            1  
+1056:0::3::        1  heal~[h015]                            1  
+1056:0::3::                                             ======
+1056:0::3::                                                  2
+1056:0::3::
+1056:0::3/11::Capacity:  2/100 land (2%)
+1056:0::3::
+1056:0::3::Pending trades:
+1056:0::3::
+1056:0::6::trade    price    qty   item
+1056:0::6::-----    -----    ---   ----
+1056:0::6:: sell        4  9,990   woven basket~[94]
+1056:0::6:: sell        7  9,983   clay pot~[95]
+1056:0::3::
+2325:0::3::
+2325:0::3/16::Location:       Fate's Bluff~[s050], in Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+2325:0::3::Loyalty:        Oath-1
+2325:0::3/16::Stacked under:  Rosie~[2747]
+2325:0::3::Health:         100%
+2325:0::3::Combat:         attack 80, defense 80, missile 0
+2325:0::3::                behind 0  (front line in combat)
+2325:0::3::Break point:    0% (fight to the death)
+2325:0::3::
+2325:0::3::Skills known:
+2325:0::6::Shipcraft~[600]
+2325:0::12::Sailing~[601], journeyman
+2325:0::6::Combat~[610]
+2325:0::12::Survive fatal wound~[611]
+2325:0::12::Fight to the death~[612]
+2325:0::12::Swordplay~[616], apprentice
+2325:0::12::Weaponsmithing~[617], apprentice
+2325:0::6::Beastmastery~[650]
+2325:0::12::Capture beasts in battle~[652]
+2325:0::12::Use beasts in battle~[653]
+2325:0::12::Breed beasts~[654], grand master
+2325:0::12::Catch wild horses~[655], master
+2325:0::12::Train wild horse to riding horse~[656], master
+2325:0::12::Train wild horse to warmount~[657], grand master
+2325:0::12::Summon wild men~[658], apprentice
+2325:0::12::Persuade wild men to remain~[659], apprentice
+2325:0::12::Breed hound~[661], apprentice
+2325:0::6::Alchemy~[690]
+2325:0::12::Record skill on scroll~[695], apprentice
+2325:0::3::
+2325:0::3::Inventory:
+2325:0::3::{<b>}      qty  name                              weight{</b>}
+2325:0::3::      ---  ----                              ------
+2325:0::3::        1  Strange potion~[p415]                  1  
+2325:0::3::        1  Magic potion~[s594]                    1  
+2325:0::3::        1  Strange potion~[s909]                  1  
+2325:0::3::        1  Strange potion~[t552]                  1  
+2325:0::3::        1  Strange potion~[t710]                  1  
+2325:0::3::        1  Strange potion~[v398]                  1  
+2325:0::3::        1  Magic potion~[138752]                  1  
+2325:0::3::                                             ======
+2325:0::3::                                                  7
+2325:0::3::
+2325:0::3/11::Capacity:  7/100 land (7%)
+2325:0::3::
+2325:0::3::Pending trades:
+2325:0::3::
+2325:0::6::trade    price    qty   item
+2325:0::6::-----    -----    ---   ----
+2325:0::6:: sell        4  9,974   woven basket~[94]
+2325:0::3::
+2396:0::3::
+2396:0::3/16::Location:       Temple 1~[h811], in Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+2396:0::3::Loyalty:        Oath-1
+2396:0::3::Health:         100%
+2396:0::3::Combat:         attack 175, defense 130, missile 0
+2396:0::3::                behind 0  (front line in combat)
+2396:0::3::Break point:    0% (fight to the death)
+2396:0::3::use  641 0      (not concealing self)
+2396:0::3::Receive Vision: 3 protection
+2396:0::3::Pledged to us:  Rev. Jesse James~[1874]
+2396:0::3::
+2396:0::3::Skills known:
+2396:0::6::Combat~[610]
+2396:0::12::Survive fatal wound~[611]
+2396:0::12::Fight to the death~[612]
+2396:0::12::Construct catapult~[613], journeyman
+2396:0::12::Defense~[614], adept
+2396:0::12::Swordplay~[616], grand master
+2396:0::12::Weaponsmithing~[617], master
+2396:0::6::Stealth~[630]
+2396:0::12::Conceal self~[641], apprentice
+2396:0::6::Alchemy~[690]
+2396:0::12::Extract venom from ratspider~[691], apprentice
+2396:0::12::Brew healing potion~[693], journeyman
+2396:0::12::Collect rare elements~[696], apprentice
+2396:0::6::Forestry~[700]
+2396:0::12::Harvest lumber~[702], apprentice
+2396:0::12::Harvest yew~[703], apprentice
+2396:0::6::Mining~[720]
+2396:0::12::Mine iron~[721], journeyman
+2396:0::12::Mine gold~[722], grand master
+2396:0::12::Mine mithril~[723], journeyman
+2396:0::6::Religion~[750]
+2396:0::12::Receive vision~[751], apprentice
+2396:0::12::Preparatory ritual~[753], apprentice
+2396:0::12::Lay to rest~[754], apprentice
+2396:0::12::Immunity from Vision~[756], master
+2396:0::3::
+2396:0::3::Partially known skills:
+2396:0::6/6::Resurrect dead noble~[752], 14/28
+2396:0::6/6::Remove blessing from soldiers~[755], 0/28
+2396:0::3::
+2396:0::3::Inventory:
+2396:0::3::{<b>}      qty  name                              weight{</b>}
+2396:0::3::      ---  ----                              ------
+2396:0::3::    1,875  gold~[1]                               0  
+2396:0::3::        1  dead body~[8586]                     100  
+2396:0::3::        1  Heal Potion 3~[n861]                   1  
+2396:0::3::        1  Strange potion~[p561]                  1  
+2396:0::3::        1  Heal Potion 5~[p571]                   1  
+2396:0::3::        1  Heal Potion 6~[z805]                   1  
+2396:0::3::        1  dead body~[83294]                    100  
+2396:0::3::                                             ======
+2396:0::3::                                                204
+2396:0::3::
+2396:0::3/11::Capacity:  204/100 land (204%)
+2396:0::3::
+2747:0::3::
+2747:0::3/16::Location:       Fate's Bluff~[s050], in Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+2747:0::3::Loyalty:        Fear-818
+2747:0::3::Stacked over:   Katherine~[1056]
+2747:0::3::                Skorch~[9596]
+2747:0::3::                Samson~[4846]
+2747:0::3::                Fletch~[8320]
+2747:0::3::                Ash~[6212]
+2747:0::3::                Ramtha~[2325]
+2747:0::3::Health:         100%
+2747:0::3::Combat:         attack 80, defense 80, missile 0
+2747:0::3::                behind 5  (stay behind in combat)
+2747:0::3::Break point:    0% (fight to the death)
+2747:0::3::Receive Vision: 3 protection
+2747:0::3::
+2747:0::3::Skills known:
+2747:0::6::Combat~[610]
+2747:0::12::Survive fatal wound~[611]
+2747:0::12::Fight to the death~[612]
+2747:0::6::Beastmastery~[650]
+2747:0::12::Capture beasts in battle~[652]
+2747:0::12::Use beasts in battle~[653]
+2747:0::12::Breed beasts~[654], grand master
+2747:0::12::Catch wild horses~[655], adept
+2747:0::12::Train wild horse to warmount~[657], adept
+2747:0::3::
+2747:0::3::Inventory:
+2747:0::3::{<b>}      qty  name                              weight{</b>}
+2747:0::3::      ---  ----                              ------
+2747:0::3::        9  winged horses~[54]                 9,000  fly 1,350
+2747:0::3::        1  d319~[a117]                            1  
+2747:0::3::        1  unknown~[b466]                         1  
+2747:0::3::        1  Magic potion~[b539]                    1  
+2747:0::3::        1  Strange potion~[b743]                  1  
+2747:0::3::        1  Magic potion~[c231]                    1  
+2747:0::3::        1  Magic potion~[d060]                    1  
+2747:0::3::        1  Ankh Farcast~[f402]                    1  
+2747:0::3::        1  Strange potion~[g774]                  1  
+2747:0::3::        1  N. Roundship Farcast~[h915]            1  
+2747:0::3::        1  Strange potion~[k496]                  1  
+2747:0::3::        1  dd15~[k549]                            1  
+2747:0::3::        1  dr12~[k564]                            1  
+2747:0::3::        1  Strange potion~[m422]                  1  
+2747:0::3::        1  Magic potion~[m424]                    1  
+2747:0::3::        1  Strange potion~[m637]                  1  
+2747:0::3::        1  heal~[n431]                            1  
+2747:0::3::        1  heal~[p055]                            1  
+2747:0::3::        1  Magic potion~[q331]                    1  
+2747:0::3::        1  x23~[q473]                             1  
+2747:0::3::        1  da39~[q494]                            1  
+2747:0::3::        1  N. Roundship Farcast~[q804]            1  
+2747:0::3::        1  heal~[q965]                            1  
+2747:0::3::        1  DB12 Farcast~[v116]                    1  
+2747:0::3::        1  Magic potion~[w370]                    1  
+2747:0::3::        1  Angry Demon~[w831]                     2  
+2747:0::3::        1  Magic potion~[z637]                    1  
+2747:0::3::        1  heal~[z945]                            1  
+2747:0::3::        1  Magic potion~[81861]                   1  
+2747:0::3::        1  Magic potion~[82548]                   1  
+2747:0::3::        1  Strange potion~[84441]                 1  
+2747:0::3::        1  Strange potion~[87422]                 1  
+2747:0::3::        1  Magic potion~[89061]                   1  
+2747:0::3::        1  Strange potion~[124264]                1  
+2747:0::3::        1  Magic potion~[132675]                  1  
+2747:0::3::        1  dc23~[142022]                          1  
+2747:0::3::        1  Magic potion~[144074]                  1  
+2747:0::3::        1  Strange potion~[144402]                1  
+2747:0::3::        1  Magic potion~[144480]                  1  
+2747:0::3::        1  Magic potion~[149077]                  1  
+2747:0::3::                                             ======
+2747:0::3::                                              9,040
+2747:0::3::
+2747:0::3/11::Capacity:  40/1,450 land (2%), 140/1,350 ride (10%), 140/1,350 fly (10%)
+2747:0::3::
+2747:0::3::Pending trades:
+2747:0::3::
+2747:0::6::trade    price    qty   item
+2747:0::6::-----    -----    ---   ----
+2747:0::6:: sell        7  9,980   clay pot~[95]
+2747:0::3::
+4846:0::3::
+4846:0::3/16::Location:       Fate's Bluff~[s050], in Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+4846:0::3::Loyalty:        Oath-1
+4846:0::3/16::Stacked under:  Rosie~[2747]
+4846:0::3::Health:         100%
+4846:0::3::Combat:         attack 80, defense 80, missile 290
+4846:0::3::                behind 3  (stay behind in combat)
+4846:0::3::Break point:    0% (fight to the death)
+4846:0::3::use  641 1      (concealing self, but not alone)
+4846:0::3::Receive Vision: 3 protection
+4846:0::3::
+4846:0::3::Declared attitudes:
+4846:0::6::hostile 6789 8056
+4846:0::3::
+4846:0::3::Skills known:
+4846:0::6::Combat~[610]
+4846:0::12::Survive fatal wound~[611]
+4846:0::12::Fight to the death~[612]
+4846:0::12::Construct catapult~[613], apprentice
+4846:0::12::Archery~[615], grand master
+4846:0::12::Swordplay~[616], adept
+4846:0::12::Weaponsmithing~[617], master
+4846:0::6::Stealth~[630]
+4846:0::12::Conceal self~[641], apprentice
+4846:0::3::
+4846:0::3::Samson~[4846] has no possessions.
+4846:0::3::
+4846:0::3/11::Capacity:  0/100 land (0%)
+4846:0::3::
+4846:0::3::Pending trades:
+4846:0::3::
+4846:0::6::trade    price    qty   item
+4846:0::6::-----    -----    ---   ----
+4846:0::6:: sell        4  9,989   woven basket~[94]
+4846:0::6:: sell        7  9,888   clay pot~[95]
+4846:0::3::
+6212:0::3::
+6212:0::3/16::Location:       Fate's Bluff~[s050], in Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+6212:0::3::Loyalty:        Fear-813
+6212:0::3/16::Stacked under:  Rosie~[2747]
+6212:0::3::Health:         100%
+6212:0::3::Combat:         attack 186, defense 100, missile 0
+6212:0::3::                behind 4  (stay behind in combat)
+6212:0::3::Break point:    0% (fight to the death)
+6212:0::3::use  641 1      (concealing self, but not alone)
+6212:0::3::
+6212:0::3::Skills known:
+6212:0::6::Combat~[610]
+6212:0::12::Survive fatal wound~[611]
+6212:0::12::Fight to the death~[612]
+6212:0::12::Defense~[614], apprentice
+6212:0::12::Swordplay~[616], adept
+6212:0::12::Weaponsmithing~[617], adept
+6212:0::6::Stealth~[630]
+6212:0::12::Learn of richest nearby noble~[636], apprentice
+6212:0::12::Torture prisoner~[637], apprentice
+6212:0::12::Sneak into structure~[639], apprentice
+6212:0::12::Conceal self~[641], apprentice
+6212:0::6::Construction~[680]
+6212:0::12::Stone quarrying~[682], apprentice
+6212:0::6::Forestry~[700]
+6212:0::12::Construct battering ram~[701], apprentice
+6212:0::12::Harvest lumber~[702], master
+6212:0::12::Harvest yew~[703], grand master
+6212:0::6::Mining~[720]
+6212:0::12::Mine iron~[721], adept
+6212:0::12::Mine gold~[722], grand master
+6212:0::3::
+6212:0::3::Ash~[6212] has no possessions.
+6212:0::3::
+6212:0::3/11::Capacity:  0/100 land (0%)
+6212:0::3::
+6212:0::3::Pending trades:
+6212:0::3::
+6212:0::6::trade    price    qty   item
+6212:0::6::-----    -----    ---   ----
+6212:0::6:: sell        4  10,000   woven basket~[94]
+6212:0::6:: sell        7  9,907   clay pot~[95]
+6212:0::6::  buy      135      1   riding horse~[52]
+6212:0::3::
+7090:0::3::
+7090:0::3/16::Location:       Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+7090:0::3::Loyalty:        Fear-821
+7090:0::3::Health:         100%
+7090:0::3::Combat:         attack 235, defense 80, missile 80
+7090:0::3::                behind 0  (front line in combat)
+7090:0::3::Break point:    0% (fight to the death)
+7090:0::3::use  641 1      (concealing self)
+7090:0::3::
+7090:0::3::Skills known:
+7090:0::6::Combat~[610]
+7090:0::12::Survive fatal wound~[611]
+7090:0::12::Fight to the death~[612]
+7090:0::12::Archery~[615], journeyman
+7090:0::12::Swordplay~[616], adept
+7090:0::12::Weaponsmithing~[617], adept
+7090:0::6::Stealth~[630]
+7090:0::12::Conceal self~[641], apprentice
+7090:0::6::Persuasion~[670]
+7090:0::12::Bribe noble~[671], apprentice
+7090:0::6::Construction~[680]
+7090:0::12::Stone quarrying~[682], adept
+7090:0::6::Forestry~[700]
+7090:0::12::Harvest lumber~[702], apprentice
+7090:0::12::Harvest yew~[703], apprentice
+7090:0::3::
+7090:0::3::Inventory:
+7090:0::3::{<b>}      qty  name                              weight{</b>}
+7090:0::3::      ---  ----                              ------
+7090:0::3::    3,550  gold~[1]                               0  
+7090:0::3::       12  clay pots~[95]                        60  
+7090:0::3::                                             ======
+7090:0::3::                                                 60
+7090:0::3::
+7090:0::3/11::Capacity:  60/100 land (60%)
+7090:0::3::
+7090:0::3::Pending trades:
+7090:0::3::
+7090:0::6::trade    price    qty   item
+7090:0::6::-----    -----    ---   ----
+7090:0::6:: sell        7     63   clay pot~[95]
+7090:0::3::
+8320:0::3::
+8320:0::3/16::Location:       Fate's Bluff~[s050], in Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+8320:0::3::Loyalty:        Oath-1
+8320:0::3/16::Stacked under:  Rosie~[2747]
+8320:0::3::Health:         100%
+8320:0::3::Combat:         attack 80, defense 80, missile 243
+8320:0::3::                behind 9  (stay behind in combat)
+8320:0::3::Break point:    0% (fight to the death)
+8320:0::3::use  641 1      (concealing self, but not alone)
+8320:0::3::
+8320:0::3::Declared attitudes:
+8320:0::6::hostile 1117
+8320:0::3::
+8320:0::3::Skills known:
+8320:0::6::Shipcraft~[600]
+8320:0::12::Sailing~[601], master
+8320:0::6::Combat~[610]
+8320:0::12::Survive fatal wound~[611]
+8320:0::12::Fight to the death~[612]
+8320:0::12::Archery~[615], master
+8320:0::12::Weaponsmithing~[617], apprentice
+8320:0::6::Stealth~[630]
+8320:0::12::Conceal self~[641], apprentice
+8320:0::6::Construction~[680]
+8320:0::12::Stone quarrying~[682], master
+8320:0::6::Forestry~[700]
+8320:0::12::Harvest lumber~[702], adept
+8320:0::6::Trade~[730]
+8320:0::12::Find tradegood for sale~[732], apprentice
+8320:0::12::Find market for tradegood~[733], apprentice
+8320:0::3::
+8320:0::3::Fletch~[8320] has no possessions.
+8320:0::3::
+8320:0::3/11::Capacity:  0/100 land (0%)
+8320:0::3::
+8320:0::3::Pending trades:
+8320:0::3::
+8320:0::6::trade    price    qty   item
+8320:0::6::-----    -----    ---   ----
+8320:0::6:: sell        7  9,879   clay pot~[95]
+8320:0::6::  buy       45     44   myrrh~[p898]
+8320:0::3::
+9596:0::3::
+9596:0::3/16::Location:       Fate's Bluff~[s050], in Ankh~[w05], in province The Ramtop Mountains~[dw07], in Ossicus
+9596:0::3::Loyalty:        Oath-1
+9596:0::3/16::Stacked under:  Rosie~[2747]
+9596:0::3::Health:         100%
+9596:0::3::Combat:         attack 80, defense 80, missile 0
+9596:0::3::                behind 9  (stay behind in combat)
+9596:0::3::Break point:    0% (fight to the death)
+9596:0::3::use  641 1      (concealing self, but not alone)
+9596:0::3::
+9596:0::3::Current aura:   123
+9596:0::3::Maximum aura:   121 (19+102)
+9596:0::3::
+9596:0::3::Declared attitudes:
+9596:0::6::neutral  qx2
+9596:0::3::
+9596:0::3::Skills known:
+9596:0::6::Combat~[610]
+9596:0::12::Survive fatal wound~[611]
+9596:0::12::Fight to the death~[612]
+9596:0::6::Stealth~[630]
+9596:0::12::Determine inventory of character~[632], apprentice
+9596:0::12::Determine skills of character~[633], apprentice
+9596:0::12::Conceal self~[641], apprentice
+9596:0::6::Forestry~[700]
+9596:0::12::Collect rare foliage~[704], apprentice
+9596:0::6::Magic~[800]
+9596:0::12::Meditate~[801], journeyman
+9596:0::12::Perform common tasks for gold~[802], grand master
+9596:0::12::Appear common~[803], journeyman
+9596:0::12::View current aura level of others~[804], apprentice
+9596:0::12::Reveal abilities of another mage~[805], apprentice
+9596:0::12::Tap health for aura~[806], apprentice
+9596:0::12::Heal~[807], apprentice
+9596:0::12::Modern magic script~[808], apprentice
+9596:0::12::Shroud abilities from scry~[809], apprentice
+9596:0::12::Detect ability scry~[811], apprentice
+9596:0::12::Dispel ability shroud~[812], apprentice
+9596:0::12::Advanced meditation~[813], master
+9596:0::12::Hinder meditation~[814], apprentice
+9596:0::6::Weather magic~[820]
+9596:0::12::Fierce wind~[821], apprentice
+9596:0::12::Bind storm to ship~[822], apprentice
+9596:0::12::Scribe weather symbols~[823], apprentice
+9596:0::12::Summon rain~[824], apprentice
+9596:0::12::Summon wind~[825], apprentice
+9596:0::12::Summon fog~[826], apprentice
+9596:0::12::Direct storm~[827], apprentice
+9596:0::12::Dissipate storm~[828], apprentice
+9596:0::12::Renew storm strength~[829], apprentice
+9596:0::12::Lightning bolt~[831], apprentice
+9596:0::12::Seize control of storm~[832], apprentice
+9596:0::12::Fog of death~[833], apprentice
+9596:0::6::Scrying~[840]
+9596:0::12::Scry location~[841], apprentice
+9596:0::12::Shroud location from magical scry~[842], apprentice
+9596:0::12::Dispel location shroud~[843], apprentice
+9596:0::12::Ciphered writing of Areth-Pirn~[844], apprentice
+9596:0::12::Create magical barrier~[845], apprentice
+9596:0::12::Remove magical barrier~[846], apprentice
+9596:0::12::Locate character~[847], apprentice
+9596:0::12::Detect location scry~[848], apprentice
+9596:0::12::Farcasting~[849], apprentice
+9596:0::12::Save farcast state~[851], apprentice
+9596:0::12::Banish undead~[852], apprentice
+9596:0::6::Gatecraft~[860]
+9596:0::12::Teleport~[861], apprentice
+9596:0::12::Detect gates~[862], apprentice
+9596:0::6::Artifact construction~[880]
+9596:0::12::Forge auraculum~[881], apprentice
+9596:0::12::Reveal creator of artifact~[882], apprentice
+9596:0::12::Reveal where artifact was created~[883], apprentice
+9596:0::12::Cloak creator of artifact~[884]
+9596:0::12::Cloak region of artifact creation~[885], apprentice
+9596:0::12::Curse noncreator loyalty~[886], apprentice
+9596:0::12::Forge magical weapon~[887], apprentice
+9596:0::12::Forge magical armor~[888], apprentice
+9596:0::12::Forge magical bow~[889], apprentice
+9596:0::12::Dispel cloaking from artifact~[891], apprentice
+9596:0::12::Arcane symbols~[892], apprentice
+9596:0::12::Destroy artifact~[893], apprentice
+9596:0::12::Forge palantir~[894], apprentice
+9596:0::6::Necromancy~[900]
+9596:0::12::Transcend death~[901], apprentice
+9596:0::12::Runes of Evil~[902], apprentice
+9596:0::12::Summon ghost warriors~[903], apprentice
+9596:0::12::Raise undead~[904], apprentice
+9596:0::12::Summon demon lord~[905], apprentice
+9596:0::12::Renew demon bond~[906], apprentice
+9596:0::12::Banish demon lord~[907], apprentice
+9596:0::12::Eating of the dead~[908], apprentice
+9596:0::12::Aura blast~[909], apprentice
+9596:0::12::Absorb aura blast~[911], apprentice
+9596:0::6::Advanced sorcery~[920]
+9596:0::12::Trance~[921], apprentice
+9596:0::12::Teleport items~[922], adept
+9596:0::3::
+9596:0::3::Partially known skills:
+9596:0::6/6::Shipcraft~[600], 0/21
+9596:0::3::
+9596:0::3::Inventory:
+9596:0::3::{<b>}      qty  name                              weight{</b>}
+9596:0::3::      ---  ----                              ------
+9596:0::3::        1  Heart's Flame~[c624]                   1  
+9596:0::3::        1  Heal Potion 4~[p141]                   1  
+9596:0::3::        1  Heal Potion 1~[131366]                 1  
+9596:0::3::                                             ======
+9596:0::3::                                                  3
+9596:0::3::
+9596:0::3/11::Capacity:  3/100 land (3%)
+9596:0::3::
+9596:0::3::Pending trades:
+9596:0::3::
+9596:0::6::trade    price    qty   item
+9596:0::6::-----    -----    ---   ----
+9596:0::6:: sell        7      6   clay pot~[95]
+9596:0::6:: sell        4  9,974   woven basket~[94]
+9596:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Trinity~[qx2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/qx2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [qx2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         9  72nd   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           5,425  79th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   56/74  29th   
+0:0::3/41::Spells known:                   70/79  37th   
+0:0::3/41::Provinces visited:         797/31,919  40th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  13     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  6277 1485 8861 7734 c187
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::2396   h811   o1    100  0    1875                            Baelrath
+0:0::0::2747   s050   f818  100  5                                    Rosie
+0:0::0::1056   s050   o1    100  0  4                          2747   Katherine
+0:0::0::9596   s050   o1    100  9123                          2747   Skorch
+0:0::0::4846   s050   o1    100  3                             2747   Samson
+0:0::0::8320   s050   o1    100  9                             2747   Fletch
+0:0::0::6212   s050   f813  100  4                             2747   Ash
+0:0::0::2325   s050   o1    100  0                             2747   Ramtha
+0:0::0::7090   w05    f821  100  0    3550                            Gus
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              5425                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Ossicus
+0:0::0::  The Ramtop Mountains~[dw07]
+0:0::0::    Ankh~[w05]                     Gus~[7090]
+0:0::0::      Temple 1~[h811]              Baelrath~[2396]
+0:0::0::      Fate's Bluff~[s050]          Rosie~[2747]
+0:0::0::                                     Katherine~[1056]
+0:0::0::                                     Skorch~[9596]
+0:0::0::                                     Samson~[4846]
+0:0::0::                                     Fletch~[8320]
+0:0::0::                                     Ash~[6212]
+0:0::0::                                     Ramtha~[2325]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  2396         304      (104) 204%                                
+0:0::0::  2747       9,752      1,998   2%        598  55%        598  55%
+0:0::0::  1056         102         98   2%                                
+0:0::0::  9596         103         97   3%                                
+0:0::0::  4846         100        100   0%                                
+0:0::0::  8320         100        100   0%                                
+0:0::0::  6212         100        100   0%                                
+0:0::0::  2325         107         93   7%                                
+0:0::0::  7090         160         40  60%                                
+0:0::0::
+2:0::0::
+2:0::0::Resurrect dead noble~[752]
+2:0::0::--------------------------
+2:0::0::Usage:  USE 752 <body>
+2:0::0::Time:   ten days
+2:0::0::
+2:0::0::Resurrect dead noble [752] must be performed by a priest
+2:0::0::in a temple.  The priest must be holding the body of the
+2:0::0::dead noble.  There is a 50% chance of success for each
+2:0::0::attempt.
+2:0::0::
+2:0::0::If successful, the priest will be charged 1 NP for the
+2:0::0::resurrection.  The character will be restored to full
+2:0::0::health in the priest's location, and be under the
+2:0::0::command of the original owner.
+2:0::0::
+2:0::0::The defense rating of the resurrected noble will be
+2:0::0::lowered by 25 points.  If the noble would have a new
+2:0::0::defense rating lower than 1, resurrection is not
+2:0::0::possible.
+2:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Trinity~[qx2]"><font size=+1><b>Trinity~[qx2]</b></font>
+1:2::0::<hr>
+1:1::0::Trinity~[qx2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54392
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Baelrath~[2396]"><font size=+1><b>Baelrath~[2396]</b></font>
+1:2::0::<hr>
+1:1::0::Baelrath~[2396]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2396
+1:0::0::
+1:2::0::
+1:2::0::<name="Rosie~[2747]"><font size=+1><b>Rosie~[2747]</b></font>
+1:2::0::<hr>
+1:1::0::Rosie~[2747]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2747
+1:0::0::
+1:2::0::
+1:2::0::<name="Katherine~[1056]"><font size=+1><b>Katherine~[1056]</b></font>
+1:2::0::<hr>
+1:1::0::Katherine~[1056]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1056
+1:0::0::
+1:2::0::
+1:2::0::<name="Skorch~[9596]"><font size=+1><b>Skorch~[9596]</b></font>
+1:2::0::<hr>
+1:1::0::Skorch~[9596]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9596
+1:0::0::
+1:2::0::
+1:2::0::<name="Samson~[4846]"><font size=+1><b>Samson~[4846]</b></font>
+1:2::0::<hr>
+1:1::0::Samson~[4846]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4846
+1:0::0::
+1:2::0::
+1:2::0::<name="Fletch~[8320]"><font size=+1><b>Fletch~[8320]</b></font>
+1:2::0::<hr>
+1:1::0::Fletch~[8320]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 8320
+1:0::0::
+1:2::0::
+1:2::0::<name="Ash~[6212]"><font size=+1><b>Ash~[6212]</b></font>
+1:2::0::<hr>
+1:1::0::Ash~[6212]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6212
+1:0::0::
+1:2::0::
+1:2::0::<name="Ramtha~[2325]"><font size=+1><b>Ramtha~[2325]</b></font>
+1:2::0::<hr>
+1:1::0::Ramtha~[2325]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2325
+1:0::0::
+1:2::0::
+1:2::0::<name="Gus~[7090]"><font size=+1><b>Gus~[7090]</b></font>
+1:2::0::<hr>
+1:1::0::Gus~[7090]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7090
+1:2::0::
+1:2::0::<name="The Ramtop Mountains~[dw07]"><font size=+1><b>The Ramtop Mountains~[dw07]</b>, mountain, in Ossicus, civ-6</font>
+1:2::0::<hr>
+1:1::0::The Ramtop Mountains~[dw07], mountain, in Ossicus, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17707
+1:0::0::
+1:2::0::
+1:2::0::<name="Ankh~[w05]"><font size=+1><b>Ankh~[w05]</b>, city, in province The Ramtop Mountains~[dw07]</font>
+1:2::0::<hr>
+1:1::0::Ankh~[w05], city, in province The Ramtop Mountains~[dw07]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58465
+1:0::0::
+1:2::0::
+1:2::0::<name="Lore sheets"><font size=+1><b>Lore sheets</b></font>
+1:2::0::<hr>
+1:1::0::Lore sheets
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

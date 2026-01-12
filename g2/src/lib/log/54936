@@ -1,0 +1,1591 @@
+14508:0::0:0:Garrison~[1213], garrison, with ten~soldiers guards Somerset~[cg08].
+17946:0::0:0:Garrison~[3875], garrison, with ten~soldiers, 24~workers guards West Dragon Reach~[dz46].
+57061:0::0:0:Garrison~[4114], garrison, with 144~pikemen guards Dragons Light~[d01].
+14609:0::0:0:Garrison~[4218], garrison, with ten~soldiers guards Arden~[ch09].
+16210:0::0:0:Garrison~[4272], garrison, with four~oxen, 16~sailors guards Forest~[dc10].
+14708:0::0:0:Garrison~[149128], garrison, with ten~soldiers guards Ganis~[cj08].
+97797:0::0:0:> stop
+97797:0::0:0:Interrupt current order.
+54936:0::0:0:> accept 0 0
+83619:0::0:1:> accept 0 0
+83619:0::0:1:> give 104673 54 0
+83619:0::0:1:Gave six~winged horses to Green Knight~[104673].
+104673:0::0:1:Received six~winged horses~[54] from Blue Dragon~[83619].
+83619:0::0:1:> wait item 22 10
+147109:0::0:1:> give 146596 54 0
+147109:0::0:1:Gave four~winged horses to Black queen~[146596].
+146596:0::0:1:Received four~winged horses~[54] from White Knight~[147109].
+147109:0::0:1:> stack 83619
+147109:0::0:1:White Knight~[147109] stacks beneath Blue Dragon~[83619].
+83619:0::0:1:White Knight~[147109] stacks beneath us.
+82992:0::0:1:> get 96859 1 500
+82992:0::0:1:Took 500~gold from Black Dragon~[96859].
+96859:0::0:1:Red Dragon~[82992] took 500~gold~[1] from us.
+83619:0::0:1:Received 125~elite archers~[22] from Lady Aria~[148444].
+83619:0::0:1:Wait finished: Blue Dragon has 125~elite archers.
+147109:0::0:1:> get 146596 1 200
+147109:0::0:1:Took 100~gold from Black queen~[146596].
+146596:0::0:1:White Knight~[147109] took 100~gold~[1] from us.
+83619:0::0:1:Received 1,000~gold~[1] from Lady Aria~[148444].
+57061:0::0:1:Silent Fox~[f291], wielding Dragon Blade~[h474], wearing Crimson Armor~[146799], with 26~ghost warriors, three~winged horses, exited CDS Iron Fist~[3961].
+14708:0::0:1:Scarn~[88463], with ten~peasants, 60~soldiers, eight~sailors, went west.
+97797:0::0:1:> move w
+97797:0::0:1:One noble, 49 men: travel will take an extra 4 days.
+97797:0::0:1:Travel to Border Peak~[dz45] will take 14 days.
+17946:0::0:1:Samantha~[97797], with 34~peasants, 15~soldiers, went west.
+83619:0::0:1:> move p124
+14609:0::0:1:Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, entered Kazimir's Palace~[p124], accompanied~by:
+14609:0::3/3:1:White Knight~[147109]
+83619:0::0:1:Arrival at Kazimir's Palace~[p124].
+147109:0::0:1:Arrival at Kazimir's Palace~[p124].
+132130:0::0:1:> move d01
+132130:0::0:1:One noble, 21 men: travel will take an extra 2 days.
+132130:0::0:1:Travel to Dragons Light~[d01] will take three days.
+17846:0::0:1:Sex Slave~[132130], with 20~soldiers, 44~winged horses, entered Dragons Light~[d01], accompanied~by:
+17846:0::3/3:1:Aurora~[4646], prisoner
+57061:0::0:1:Silent Fox~[f291], wielding Dragon Blade~[h474], wearing Crimson Armor~[146799], with 26~ghost warriors, three~winged horses, exited Dragons Light~[d01].
+82291:0::0:1:> move h37
+82291:0::0:1:One noble, 19 men: travel will take an extra day.
+82291:0::0:1:Travel to Calais~[h37] will take two days.
+14708:0::0:1:Yellow Jacket~[82291], with nine~workers, ten~sailors, five~winged horses, entered Calais~[h37].
+146596:0::0:1:> breed 54 54
+146596:0::0:1:Breed attempt will take 6 days.
+82992:0::0:1:> study 700
+82992:0::0:1:Paid 100~gold to begin study.
+82992:0::0:1:Study Forestry for seven days.
+147109:0::0:1:> study 616
+147109:0::0:1:Paid 100~gold to begin study.
+147109:0::0:1:Study Swordplay for seven days.
+83619:0::0:1:> sail s
+147109:0::0:1:Sailing to Ocean~[cj09] will take two days.
+83619:0::0:1:Sailing to Ocean~[cj09] will take two days.
+14609:0::0:1:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cj09].
+14708:0::0:1:Mr. Hyde~[98450], wielding Longsword of Kuneack~[88014], with eight~peasants, 26~winged horses, arrived from Calais~[h37].
+86175:0::0:1:One~winged horse~[54] was killed in the breeding attempt.
+86175:0::0:1:Produced one~winged horse~[54].
+118123:0::0:1:Produced one~winged horse~[54].
+149031:0::0:1:Received 1~gold from Garrison~[4114].
+118123:0::0:2:> give 146596 54 0
+118123:0::0:2:Gave four~winged horses to Black queen~[146596].
+146596:0::0:2:Received four~winged horses~[54] from White Dragon~[118123].
+118123:0::0:2:> stack 83619
+118123:0::0:2:[83619] can not be seen here.
+118123:0::0:2:> get 146596 1 200
+118123:0::0:2:Black queen~[146596] does not have any [1].
+86175:0::0:2:> fly e
+86175:0::0:2:Flying to Dubglas~[cg09] will take four days.
+14708:0::0:2:Mr. Hyde~[98450], wielding Longsword of Kuneack~[88014], with eight~peasants, 26~winged horses, went north.
+118123:0::0:2:> study 616
+118123:0::0:2:Cannot afford 100~gold to begin study.
+118123:0::0:2:> study 612
+118123:0::0:2:Cannot afford 100~gold to begin study.
+82291:0::0:2:Arrival at Calais~[h37].
+57397:0::0:2:Yellow Jacket~[82291], with nine~workers, ten~sailors, five~winged horses, arrived from Ganis~[cj08].
+83619:0::0:2:Arrival at Ocean~[cj09].
+147109:0::0:2:Arrival at Ocean~[cj09].
+14709:0::0:2:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Arden~[ch09], owner:
+14709:0::0/3:2:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+14709:0::0/6:2:      White Knight~[147109]
+149031:0::0:2:Received 1~gold from Garrison~[4114].
+82291:0::0:3:> move 120152
+57397:0::0:3:Yellow Jacket~[82291], with nine~workers, ten~sailors, five~winged horses, entered The Wyrm~[120152].
+82291:0::0:3:Arrival at The Wyrm~[120152].
+83619:0::0:3:> sail s
+147109:0::0:3:Sailing to Ocean~[ck09] will take three days.
+83619:0::0:3:Sailing to Ocean~[ck09] will take three days.
+14709:0::0:3:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[ck09].
+82291:0::0:3:> sail e
+82291:0::0:3:Sailing to Ocean~[cj09] will take one day.
+57397:0::0:3:The Wyrm~[120152], roundship, 32% loaded, defense~10, departed for Ocean~[cj09].
+132130:0::0:3:Arrival at Dragons Light~[d01].
+57061:0::0:3:Sex Slave~[132130], with 20~soldiers, 44~winged horses, arrived from Dragon Coast~[dx46], accompanied~by:
+57061:0::3/3:3:Aurora~[4646], prisoner
+17846:0::0:3:Silent Fox~[f291], wielding Dragon Blade~[h474], wearing Crimson Armor~[146799], with 26~ghost warriors, three~winged horses, arrived from Dragons Light~[d01].
+96859:0::0:3:Produced one~winged horse~[54].
+131218:0::0:3:Produced one~winged horse~[54].
+82291:0::0:3:Arrival at Ocean~[cj09].
+14709:0::0:3:The Wyrm~[120152], roundship, 32% loaded, defense~10, arrived from Calais~[h37], owner:
+14709:0::0/3:3:   Yellow Jacket~[82291], with nine~workers, ten~sailors, five~winged horses
+149031:0::0:3:Received 1~gold from Garrison~[4114].
+132130:0::0:4:> give 149031 12 0
+132130:0::0:4:Gave 20~soldiers to Lilith~[149031].
+149031:0::0:4:Received 20~soldiers~[12] from Sex Slave~[132130].
+131218:0::0:4:> get 96859 1 300
+131218:0::0:4:Took 300~gold from Black Dragon~[96859].
+96859:0::0:4:Red Knight~[131218] took 300~gold~[1] from us.
+17846:0::0:4:Elvira, Mistress of Dark~[9711], 3rd black circle, wielding Fire Blade~[m597], with seven~peasants, 60~soldiers, 25~pikemen, 357~ghost warriors, 40~elite archers, 71~winged horses, went west.
+132130:0::0:4:> move out
+132130:0::0:4:Travel to Dragon Coast~[dx46] will take one day.
+57061:0::0:4:Sex Slave~[132130], with 44~winged horses, exited Dragons Light~[d01], accompanied~by:
+57061:0::3/3:4:Aurora~[4646], prisoner
+17846:0::0:4:Silent Fox~[f291], wielding Dragon Blade~[h474], wearing Crimson Armor~[146799], with 26~ghost warriors, three~winged horses, entered Dragons Light~[d01].
+96859:0::0:4:> study 601
+96859:0::0:4:Paid 100~gold to begin study.
+96859:0::0:4:Study Sailing for seven days.
+131218:0::0:4:> study 601
+131218:0::0:4:Study Sailing for seven days.
+82291:0::0:4:> sail n
+82291:0::0:4:Sailing to Arden~[ch09] will take two days.
+14709:0::0:4:The Wyrm~[120152], roundship, 32% loaded, defense~10, departed for Arden~[ch09].
+132130:0::0:4:Arrival at Dragon Coast~[dx46].
+17846:0::0:4:Sex Slave~[132130], with 44~winged horses, arrived from Dragons Light~[d01], accompanied~by:
+17846:0::3/3:4:Aurora~[4646], prisoner
+149031:0::0:4:Received 1~gold from Garrison~[4114].
+16210:0::0:4:It has begun to rain.
+14708:0::0:4:It has begun to rain.
+14508:0::0:4:It has begun to rain.
+132130:0::0:5:> accept 0 0
+132130:0::0:5:> fly s
+132130:0::0:5:Flying to West Dragon Reach~[dz46] will take three days.
+17846:0::0:5:Sex Slave~[132130], with 44~winged horses, went south, accompanied~by:
+17846:0::3/3:5:Aurora~[4646], prisoner
+149031:0::0:5:> study 600
+149031:0::0:5:Study Shipcraft for seven days.
+86175:0::0:5:Arrival at Dubglas~[cg09].
+104673:0::0:5:One~winged horse~[54] was killed in the breeding attempt.
+104673:0::0:5:Produced one~winged horse~[54].
+83619:0::0:5:Arrival at Ocean~[ck09].
+147109:0::0:5:Arrival at Ocean~[ck09].
+14809:0::0:5:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[cj09], owner:
+14809:0::0/3:5:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+14809:0::0/6:5:      White Knight~[147109]
+82291:0::0:5:Arrival at Arden~[ch09].
+14609:0::0:5:The Wyrm~[120152], roundship, 32% loaded, defense~10, arrived from Ocean~[cj09], owner:
+14609:0::0/3:5:   Yellow Jacket~[82291], with nine~workers, ten~sailors, five~winged horses
+149031:0::0:5:Received 1~gold from Garrison~[4114].
+104673:0::0:6:> give 146596 54 0
+104673:0::0:6:Gave 25~winged horses to Black queen~[146596].
+146596:0::0:6:Received 25~winged horses~[54] from Green Knight~[104673].
+104673:0::0:6:> stack 83619
+104673:0::0:6:[83619] can not be seen here.
+104673:0::0:6:> get 146596 1 200
+104673:0::0:6:Black queen~[146596] does not have any [1].
+82291:0::0:6:> move out
+14609:0::0:6:Yellow Jacket~[82291], with nine~workers, ten~sailors, five~winged horses, exited The Wyrm~[120152].
+82291:0::0:6:Arrival at Arden~[ch09].
+82291:0::0:6:> accept 0 0
+86175:0::0:6:> fly s
+86175:0::0:6:Flying to Arden~[ch09] will take three days.
+104673:0::0:6:> study 616
+104673:0::0:6:Cannot afford 100~gold to begin study.
+104673:0::0:6:> study 612
+104673:0::0:6:Cannot afford 100~gold to begin study.
+83619:0::0:6:> sail s
+147109:0::0:6:Sailing to Ocean~[cm09] will take three days.
+83619:0::0:6:Sailing to Ocean~[cm09] will take three days.
+14809:0::0:6:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cm09].
+57061:0::0:6:Silent Fox~[f291], wielding Dragon Blade~[h474], wearing Crimson Armor~[146799], with 26~ghost warriors, three~winged horses, arrived from Dragon Coast~[dx46].
+146596:0::0:6:Produced one~winged horse~[54].
+149031:0::0:6:Received 1~gold from Garrison~[4114].
+57061:0::0:7:Silent Fox~[f291], wielding Dragon Blade~[h474], wearing Crimson Armor~[146799], with 26~ghost warriors, three~winged horses, entered CDS Iron Fist~[3961].
+146596:0::0:7:> breed 54 54
+146596:0::0:7:Breed attempt will take 6 days.
+57061:0::0:7:CDS Iron Fist~[3961], galley, 62% loaded, defense~20, departed for Ocean~[dw46].
+14508:0::0:7:Mr. Hyde~[98450], wielding Longsword of Kuneack~[88014], with eight~peasants, 26~winged horses, arrived from the south.
+132130:0::0:7:Arrival at West Dragon Reach~[dz46].
+17946:0::0:7:Sex Slave~[132130], with 44~winged horses, arrived from the north, accompanied~by:
+17946:0::3/3:7:Aurora~[4646], prisoner
+149031:0::0:7:Received 1~gold from Garrison~[4114].
+14508:0::0:8:Mr. Hyde~[98450], wielding Longsword of Kuneack~[88014], with eight~peasants, 26~winged horses, went north.
+132130:0::0:8:> fly w
+132130:0::0:8:Flying to Border Peak~[dz45] will take four days.
+17946:0::0:8:Sex Slave~[132130], with 44~winged horses, went west, accompanied~by:
+17946:0::3/3:8:Aurora~[4646], prisoner
+82992:0::0:8:> study 700
+82992:0::0:8:Study Forestry for seven days.
+147109:0::0:8:> study 612
+147109:0::0:8:Cannot afford 100~gold to begin study.
+86175:0::0:8:Arrival at Arden~[ch09].
+83619:0::0:8:Arrival at Ocean~[cm09].
+147109:0::0:8:Arrival at Ocean~[cm09].
+14909:0::0:8:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[ck09], owner:
+14909:0::0/3:8:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+14909:0::0/6:8:      White Knight~[147109]
+149031:0::0:8:Received 1~gold from Garrison~[4114].
+86175:0::0:9:> breed 54 54
+86175:0::0:9:Breed attempt will take 6 days.
+83619:0::0:9:> sail s
+147109:0::0:9:Sailing to Ocean~[cn09] will take three days.
+83619:0::0:9:Sailing to Ocean~[cn09] will take three days.
+14909:0::0:9:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cn09].
+149031:0::0:9:Received 1~gold from Garrison~[4114].
+149031:0::0:10:Received 1~gold from Garrison~[4114].
+96859:0::0:11:> study 602
+96859:0::0:11:Paid 100~gold to begin study.
+96859:0::0:11:Study Shipbuilding for seven days.
+131218:0::0:11:> study 601
+131218:0::0:11:Study Sailing for seven days.
+132130:0::0:11:Arrival at Border Peak~[dz45].
+17945:0::0:11:Sex Slave~[132130], with 44~winged horses, arrived from the east, accompanied~by:
+17945:0::3/3:11:Aurora~[4646], prisoner
+149031:0::0:11:Learned Shipcraft~[600].
+83619:0::0:11:Arrival at Ocean~[cn09].
+147109:0::0:11:Arrival at Ocean~[cn09].
+15009:0::0:11:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[cm09], owner:
+15009:0::0/3:11:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+15009:0::0/6:11:      White Knight~[147109]
+149031:0::0:11:Received 1~gold from Garrison~[4114].
+132130:0::0:12:Received 100~stone~[78] from Arthur~[82967].
+132130:0::0:12:> wait item 78 1
+132130:0::0:12:Wait finished: Sex Slave has 100~stone.
+132130:0::0:12:> fly w
+132130:0::0:12:Sex Slave~[132130] is too overloaded to fly.
+132130:0::0:12:> fly w
+132130:0::0:12:Sex Slave~[132130] is too overloaded to fly.
+132130:0::0:12:> move m99
+132130:0::0:12:No visible route from Border Peak~[dz45] to m99.
+132130:0::0:12:> explore
+149031:0::0:12:> study 600
+149031:0::0:12:Already know Shipcraft~[600].
+149031:0::0:12:> recruit 10
+83619:0::0:12:> sail w
+147109:0::0:12:Sailing to Ocean~[cn08] will take three days.
+83619:0::0:12:Sailing to Ocean~[cn08] will take three days.
+15009:0::0:12:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cn08].
+146596:0::0:12:Produced one~winged horse~[54].
+149031:0::0:12:Received 1~gold from Garrison~[4114].
+146596:0::0:13:> breed 54 54
+146596:0::0:13:Breed attempt will take 6 days.
+149031:0::0:13:Received 1~gold from Garrison~[4114].
+97797:0::0:14:Arrival at Border Peak~[dz45].
+17945:0::0:14:Samantha~[97797], with 34~peasants, 15~soldiers, arrived from the east.
+86175:0::0:14:One~winged horse~[54] was killed in the breeding attempt.
+86175:0::0:14:Produced one~winged horse~[54].
+131218:0::0:14:Learned Sailing~[601].
+83619:0::0:14:Arrival at Ocean~[cn08].
+147109:0::0:14:Arrival at Ocean~[cn08].
+15008:0::0:14:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[cn09], owner:
+15008:0::0/3:14:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+15008:0::0/6:14:      White Knight~[147109]
+149031:0::0:14:Received 1~gold from Garrison~[4114].
+82992:0::0:15:> move out
+82992:0::0:15:Travel to Forest~[dc10] will take one day.
+58423:0::0:15:Red Dragon~[82992], with 16~winged horses, exited Port Aurnos~[v63].
+97797:0::0:15:> recruit 10
+86175:0::0:15:> breed 54 54
+86175:0::0:15:Breed attempt will take 6 days.
+131218:0::0:15:> study 602
+131218:0::0:15:Paid 100~gold to begin study.
+131218:0::0:15:Study Shipbuilding for seven days.
+83619:0::0:15:> sail w
+147109:0::0:15:Sailing to Ocean~[cn07] will take three days.
+83619:0::0:15:Sailing to Ocean~[cn07] will take three days.
+15008:0::0:15:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cn07].
+82992:0::0:15:Arrival at Forest~[dc10].
+16210:0::0:15:Red Dragon~[82992], with 16~winged horses, arrived from Port Aurnos~[v63].
+149031:0::0:15:Received 1~gold from Garrison~[4114].
+58423:0::0:16:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, exited Port Aurnos~[v63].
+82992:0::0:16:> recruit 10
+16210:0::0:16:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, arrived from Port Aurnos~[v63].
+149031:0::0:16:Received 1~gold from Garrison~[4114].
+16210:0::0:17:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, went east.
+131218:0::0:17:Maximum 14 days studied this month.
+83619:0::0:17:Arrival at Ocean~[cn07].
+147109:0::0:17:Arrival at Ocean~[cn07].
+15007:0::0:17:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[cn08], owner:
+15007:0::0/3:17:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+15007:0::0/6:17:      White Knight~[147109]
+149031:0::0:17:Received 1~gold from Garrison~[4114].
+96859:0::0:18:> breed 54 54
+96859:0::0:18:Breed attempt will take 6 days.
+131218:0::0:18:> breed 54 54
+131218:0::0:18:Breed attempt will take 6 days.
+83619:0::0:18:> sail s
+147109:0::0:18:Sailing to Ocean~[cp07] will take three days.
+83619:0::0:18:Sailing to Ocean~[cp07] will take three days.
+15007:0::0:18:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cp07].
+132130:0::0:18:A hidden inner location has been found in Border Peak~[dz45]!
+132130:0::0:18:
+132130:0::3:18:Ruins~[q088], ruins, hidden, 1 day
+132130:0::0:18:
+146596:0::0:18:Produced one~winged horse~[54].
+149031:0::0:18:Received 1~gold from Garrison~[4114].
+132130:0::0:19:> explore
+146596:0::0:19:> breed 54 54
+146596:0::0:19:Breed attempt will take 6 days.
+16210:0::0:19:Zygmunt~[95307] cut 30~wood.
+149031:0::0:19:Received 1~gold from Garrison~[4114].
+86175:0::0:20:Produced one~winged horse~[54].
+83619:0::0:20:Arrival at Ocean~[cp07].
+147109:0::0:20:Arrival at Ocean~[cp07].
+15107:0::0:20:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[cn07], owner:
+15107:0::0/3:20:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+15107:0::0/6:20:      White Knight~[147109]
+149031:0::0:20:Received 1~gold from Garrison~[4114].
+86175:0::0:21:> breed 54 54
+86175:0::0:21:Breed attempt will take 6 days.
+83619:0::0:21:> sail s
+147109:0::0:21:Sailing to Ocean~[cq07] will take three days.
+83619:0::0:21:Sailing to Ocean~[cq07] will take three days.
+15107:0::0:21:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cq07].
+149031:0::0:21:Recruited ten~peasants.
+57061:0::0:21:Lilith~[149031] recruited ten~peasants.
+149031:0::0:21:Received 1~gold from Garrison~[4114].
+15007:0::0:21:It has begun to rain.
+14709:0::0:21:It has begun to rain.
+149031:0::0:22:> train 12 0
+149031:0::0:22:Received 1~gold from Garrison~[4114].
+96859:0::0:23:Produced one~winged horse~[54].
+131218:0::0:23:Produced one~winged horse~[54].
+83619:0::0:23:Arrival at Ocean~[cq07].
+147109:0::0:23:Arrival at Ocean~[cq07].
+15207:0::0:23:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[cp07], owner:
+15207:0::0/3:23:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+15207:0::0/6:23:      White Knight~[147109]
+149031:0::0:23:Received 1~gold from Garrison~[4114].
+96859:0::0:24:> breed 54 54
+96859:0::0:24:Breed attempt will take 6 days.
+131218:0::0:24:> breed 54 54
+131218:0::0:24:Breed attempt will take 6 days.
+83619:0::0:24:> sail s
+147109:0::0:24:Sailing to Ocean~[cr07] will take three days.
+83619:0::0:24:Sailing to Ocean~[cr07] will take three days.
+15207:0::0:24:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cr07].
+97797:0::0:24:Recruited ten~peasants.
+17945:0::0:24:Samantha~[97797] recruited ten~peasants.
+146596:0::0:24:Produced one~winged horse~[54].
+149031:0::0:24:Received 1~gold from Garrison~[4114].
+97797:0::0:25:> move w
+97797:0::0:25:One noble, 59 men: travel will take an extra 5 days.
+97797:0::0:25:Travel to Legion Wood~[dz44] will take 13 days.
+17945:0::0:25:Samantha~[97797], with 44~peasants, 15~soldiers, went west.
+146596:0::0:25:> breed 54 54
+146596:0::0:25:Breed attempt will take 6 days.
+82992:0::0:25:Recruited ten~peasants.
+16210:0::0:25:Red Dragon~[82992] recruited ten~peasants.
+132130:0::0:25:Exploration of [dz45] uncovers no new features.
+149031:0::0:25:Received 1~gold from Garrison~[4114].
+82992:0::0:26:> explore
+132130:0::0:26:> explore
+86175:0::0:26:One~winged horse~[54] was killed in the breeding attempt.
+86175:0::0:26:Produced one~winged horse~[54].
+83619:0::0:26:Arrival at Ocean~[cr07].
+147109:0::0:26:Arrival at Ocean~[cr07].
+15307:0::0:26:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[cq07], owner:
+15307:0::0/3:26:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+15307:0::0/6:26:      White Knight~[147109]
+57061:0::0:26:Kiga'rashu~[1212], roundship, 4% loaded, defense~4, 13%~damaged, arrived from Ocean~[dw46], owner:
+57061:0::0/3:26:   Meriadoc Brandybuck~[84005], with eight~sailors
+149031:0::0:26:Received 1~gold from Garrison~[4114].
+17945:0::0:26:It has begun to rain.
+15107:0::0:26:It has begun to rain.
+15009:0::0:26:It has begun to rain.
+14509:0::0:26:It has begun to rain.
+17846:0::0:26:It has begun to rain.
+86175:0::0:27:> breed 54 54
+86175:0::0:27:Breed attempt will take 6 days.
+83619:0::0:27:> sail s
+147109:0::0:27:Sailing to Ocean~[cs07] will take three days.
+83619:0::0:27:Sailing to Ocean~[cs07] will take three days.
+15307:0::0:27:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Ocean~[cs07].
+149031:0::0:27:Received 1~gold from Garrison~[4114].
+149031:0::0:28:Received 1~gold from Garrison~[4114].
+96859:0::0:29:One~winged horse~[54] was killed in the breeding attempt.
+96859:0::0:29:Produced one~winged horse~[54].
+131218:0::0:29:Produced one~winged horse~[54].
+83619:0::0:29:Arrival at Ocean~[cs07].
+147109:0::0:29:Arrival at Ocean~[cs07].
+15407:0::0:29:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, arrived from Ocean~[cr07], owner:
+15407:0::0/3:29:   Blue Dragon~[83619], with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+15407:0::0/6:29:      White Knight~[147109]
+149031:0::0:29:Received 1~gold from Garrison~[4114].
+96859:0::0:30:> breed 54 54
+96859:0::0:30:Breed attempt will take 6 days.
+131218:0::0:30:> breed 54 54
+131218:0::0:30:Breed attempt will take 6 days.
+83619:0::0:30:> sail s
+147109:0::0:30:Sailing to Swamp~[ct07] will take two days.
+83619:0::0:30:Sailing to Swamp~[ct07] will take two days.
+15407:0::0:30:Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, departed for Swamp~[ct07].
+146596:0::0:30:Produced one~winged horse~[54].
+149031:0::0:30:Received 1~gold from Garrison~[4114].
+82291:0::0:30:Paid maintenance of 38~gold.
+82992:0::0:30:Paid maintenance of 10~gold.
+83619:0::0:30:Paid maintenance of 600~gold.
+97797:0::0:30:Paid maintenance of 74~gold.
+149031:0::0:30:Paid maintenance of 79~gold.
+146596:0::0:30:One winged horse died.
+15307:0::0:30:It has stopped raining.
+14609:0::0:30:It has stopped raining.
+14508:0::0::
+14508:0::0::Province controlled by Dragon Shire~[5498], castle, in Somerset~[cg08]
+14508:0::0::Ruled by Hammet~[z279], lord
+14508:0::0::
+14508:0::0::Routes leaving Somerset: 
+14508:0::3::North, swamp, to Grouchy~[cf08], 14~days
+14508:0::3::East, mountain, to Dubglas~[cg09], 10~days
+14508:0::3::South, plain, to Peterborough~[ch08], 7~days
+14508:0::3::West, plain, to Essex~[cg07], 7~days
+14508:0::0::
+14508:0::0::Inner locations:
+14508:0::3::Darkhaven~[t28], city, "Kingdom of Cragstan", 1 day
+14508:0::0::
+14508:0::0::It is raining.
+14508:0::0::
+14508:0::0::Seen here:
+14508:0::0/3::   Garrison~[1213], garrison, on guard, with ten~soldiers
+14508:0::0/3::   Lord Jagiellon~[4342], 5th black circle, "{<i>}Greyfell Lord{</i>}", with 68~pikemen, 544~ghost warriors, ten~sailors, two~winged horses
+14509:0::0::
+14509:0::0::Routes leaving Dubglas: 
+14509:0::3::North, plain, to Devises~[cf09], 7~days
+14509:0::3::East, mountain, to Mont Blanc~[cg10], 10~days
+14509:0::3::South, plain, to Arden~[ch09], 7~days
+14509:0::3::West, plain, to Somerset~[cg08], 7~days
+14509:0::0::
+14509:0::0::It is raining.
+14509:0::0::
+14509:0::0::Seen here:
+14509:0::0/3::   Garrison~[7321], garrison, on guard, with ten~workers
+14509:0::0/3::   Sir Ywaine~[5192], "{<i>}Kingdom of Cragstan{</i>}"
+14609:0::0::
+14609:0::0::Routes leaving Arden: 
+14609:0::3::North, mountain, to Dubglas~[cg09], 10~days
+14609:0::3::East, to Ocean~[ch10], Great Sea, 2~days
+14609:0::3::South, to Ocean~[cj09], Great Sea, 2~days
+14609:0::3::West, plain, to Peterborough~[ch08], 7~days
+14609:0::0::
+14609:0::0::Seen here:
+14609:0::0/3::   Garrison~[4218], garrison, on guard, with ten~soldiers
+14609:0::0/3::   Beowulf~[122371], "{<i>}Greyfell Lord{</i>}", with four~soldiers, one~winged horse, accompanied~by:
+14609:0::0/6::      Sir William of Dorset~[m509], "{<i>}Kingdom of Cragstan{</i>}", prisoner
+14609:0::0/3:: * Green Knight~[104673], "{<i>}Greyfell Lord{</i>}"
+14609:0::0/3::   Lord Kazimir~[m477], "{<i>}Greyfell Lord{</i>}", with five~peasants, 39~soldiers, ten~sailors
+14609:0::0/3:: * White Dragon~[118123], "{<i>}Greyfell Dragons{</i>}"
+14609:0::0/3::   Uther Pendragon~[8584], duke, 4th black circle, wielding magic longsword~[b014], "{<i>}Greyfell Lord{</i>}", with four~elite guard, 254~pikemen, 12~ghost warriors, 39~swordsmen, accompanied~by:
+14609:0::0/6::      Lady Aria~[148444], "{<i>}Greyfell Lady{</i>}", with 20~elite archers
+14609:0::0/3:: * Black queen~[146596], with 76~winged horses
+14609:0::0/3:: * Yellow Jacket~[82291], "{<i>}Even A Bee can Sting a Bear{</i>}", with nine~workers, ten~sailors, five~winged horses
+14609:0::0::
+14609:0::0::Ships docked at port:
+14609:0::3/3::Mages Rage~[d573], roundship, 0% loaded, defense~10, "{<i>}Dark Galley{</i>}"
+14609:0::3/3::The Wyrm~[120152], roundship, 0% loaded, defense~10
+14708:0::0::
+14708:0::0::Province controlled by Dragon Shire~[5498], castle, in Somerset~[cg08]
+14708:0::0::Ruled by Hammet~[z279], lord
+14708:0::0::
+14708:0::0::Routes leaving Ganis: 
+14708:0::3::North, plain, to Peterborough~[ch08], 7~days
+14708:0::3::East, to Ocean~[cj09], Great Sea, impassable
+14708:0::3::South, to Ocean~[ck08], Great Sea, impassable
+14708:0::3::West, desert, to Quinqueroi~[cj07], 8~days
+14708:0::0::
+14708:0::0::Inner locations:
+14708:0::3::Cemetary Hill~[t206], graveyard, hidden, 1 day
+14708:0::3::Calais~[h37], port city, "Kingdom of Cragstan", 1 day
+14708:0::0::
+14708:0::0::It is raining.
+14708:0::0::It is windy.
+14708:0::0::
+14708:0::0::Seen here:
+14708:0::0/3::   Garrison~[149128], garrison, on guard, with ten~soldiers
+14709:0::0::
+14709:0::0::Routes leaving Ocean: 
+14709:0::3::North, plain, to Arden~[ch09], Cragstan, 2~days
+14709:0::3::East, to Ocean~[cj10], 3~days
+14709:0::3::South, to Ocean~[ck09], 3~days
+14709:0::3::West, city, to Calais~[h37], Cragstan, 1~day
+14709:0::3::West, plain, to Ganis~[cj08], Cragstan, impassable
+14709:0::0::
+14709:0::0::Inner locations:
+14709:0::3::Island~[x184], island, 1 day
+14709:0::0::
+14709:0::0::It is raining.
+14809:0::0::
+14809:0::0::Routes leaving Ocean: 
+14809:0::3::North, to Ocean~[cj09], 3~days
+14809:0::3::East, to Ocean~[ck10], 3~days
+14809:0::3::South, to Ocean~[cm09], 3~days
+14809:0::3::West, to Ocean~[ck08], 3~days
+14809:0::0::
+14809:0::0::It is raining.
+14909:0::0::
+14909:0::0::Routes leaving Ocean: 
+14909:0::3::North, to Ocean~[ck09], 3~days
+14909:0::3::East, to Ocean~[cm10], 3~days
+14909:0::3::South, to Ocean~[cn09], 3~days
+14909:0::3::West, to Ocean~[cm08], 3~days
+14909:0::0::
+14909:0::0::It is raining.
+15007:0::0::
+15007:0::0::Routes leaving Ocean: 
+15007:0::3::North, to Ocean~[cm07], 3~days
+15007:0::3::East, to Ocean~[cn08], 3~days
+15007:0::3::South, to Ocean~[cp07], 3~days
+15007:0::3::West, to Ocean~[cn06], 3~days
+15007:0::0::
+15007:0::0::It is raining.
+15008:0::0::
+15008:0::0::Routes leaving Ocean: 
+15008:0::3::North, to Ocean~[cm08], 3~days
+15008:0::3::East, to Ocean~[cn09], 3~days
+15008:0::3::South, to Ocean~[cp08], 3~days
+15008:0::3::West, to Ocean~[cn07], 3~days
+15008:0::0::
+15008:0::0::It is raining.
+15009:0::0::
+15009:0::0::Routes leaving Ocean: 
+15009:0::3::North, to Ocean~[cm09], 3~days
+15009:0::3::East, to Ocean~[cn10], 3~days
+15009:0::3::South, to Ocean~[cp09], 3~days
+15009:0::3::West, to Ocean~[cn08], 3~days
+15009:0::0::
+15009:0::0::It is raining.
+15107:0::0::
+15107:0::0::Routes leaving Ocean: 
+15107:0::3::North, to Ocean~[cn07], 3~days
+15107:0::3::East, to Ocean~[cp08], 3~days
+15107:0::3::South, to Ocean~[cq07], 3~days
+15107:0::3::West, to Ocean~[cp06], 3~days
+15107:0::0::
+15107:0::0::Inner locations:
+15107:0::3::Island~[p480], island, 1 day
+15107:0::0::
+15107:0::0::It is raining.
+15207:0::0::
+15207:0::0::Routes leaving Ocean: 
+15207:0::3::North, to Ocean~[cp07], 3~days
+15207:0::3::East, to Ocean~[cq08], 3~days
+15207:0::3::South, to Ocean~[cr07], 3~days
+15207:0::3::West, to Ocean~[cq06], 3~days
+15207:0::0::
+15207:0::0::It is raining.
+15307:0::0::
+15307:0::0::Routes leaving Ocean: 
+15307:0::3::North, to Ocean~[cq07], 3~days
+15307:0::3::East, to Mountain~[cr08], Provinia, impassable
+15307:0::3::South, to Ocean~[cs07], 3~days
+15307:0::3::West, to Ocean~[cr06], 3~days
+15407:0::0::
+15407:0::0::Routes leaving Ocean: 
+15407:0::3::North, to Ocean~[cr07], 3~days
+15407:0::3::East, to Swamp~[cs08], Provinia, 2~days
+15407:0::3::South, to Swamp~[ct07], Provinia, 2~days
+15407:0::3::West, to Ocean~[cs06], 3~days
+15407:0::0::
+15407:0::0::It is raining.
+15407:0::0::
+15407:0::0::Ships sighted:
+15407:0::3/3::Kazimir's Palace~[p124], roundship, 66% loaded, defense~10, "{<i>}Explorer's Guild{</i>}", owner:
+15407:0::0/6:: *    Blue Dragon~[83619], "{<i>}Greyfell Dragon{</i>}", with five~peasants, ten~sailors, 25~swordsmen, 125~elite archers, accompanied~by:
+15407:0::0/9:: *       White Knight~[147109]
+16210:0::0::
+16210:0::0::Province controlled by Castle Silence~[h862], castle, in Plain~[db13]
+16210:0::0::Ruled by Kitla~[3462], marquess
+16210:0::0::
+16210:0::0::Routes leaving Forest: 
+16210:0::3::North, to Forest~[db10], 8~days
+16210:0::3::East, to Forest~[dc11], 8~days
+16210:0::3::South, to Ocean~[dd10], Great Sea, impassable
+16210:0::3::West, to Ocean~[dc09], Great Sea, impassable
+16210:0::0::
+16210:0::0::Inner locations:
+16210:0::3::Port Aurnos~[v63], port city, safe haven, 1 day
+16210:0::0::
+16210:0::0::It is raining.
+16210:0::0::
+16210:0::0::Seen here:
+16210:0::0/3::   Garrison~[4272], garrison, on guard, with four~oxen, 16~sailors
+16210:0::0/3::   Zygmunt~[95307], with four~peasants, ten~workers, five~winged horses
+16210:0::0/3:: * Red Dragon~[82992], "{<i>}Greyfell Dragons{</i>}", with 16~winged horses, ten~peasants
+17846:0::0::
+17846:0::0::Routes leaving Dragon Coast: 
+17846:0::3::North, to Ocean~[dw46], Great Sea, impassable
+17846:0::3::East, forest, to Dragon Coast~[dx47], 8~days
+17846:0::3::South, plain, to West Dragon Reach~[dz46], 7~days
+17846:0::3::West, forest, to Dragon Coast~[dx45], 8~days
+17846:0::0::
+17846:0::0::Inner locations:
+17846:0::3::Dragons Light~[d01], port city, 1 day
+17846:0::0::
+17846:0::0::It is raining.
+17945:0::0::
+17945:0::0::Routes leaving Border Peak: 
+17945:0::3::North, forest, to Dragon Coast~[dx45], 8~days
+17945:0::3::East, plain, to West Dragon Reach~[dz46], 7~days
+17945:0::3::South, plain, to Ivory Plains~[fa45], 7~days
+17945:0::3::West, forest, to Legion Wood~[dz44], 8~days
+17945:0::0::
+17945:0::0::Inner locations:
+17945:0::3::Ruins~[q088], ruins, hidden, 1 day
+17945:0::6::Pyke's Peak~[w888], tower, defense~40
+17945:0::6::Temple of Apshai~[f534], temple, defense~10
+17945:0::0::
+17945:0::0::It is raining.
+17945:0::0::
+17945:0::0::Seen here:
+17945:0::0/3::   Garrison~[2239], garrison, on guard, with ten~soldiers
+17945:0::0/3::   Arthur~[82967], "{<i>}Greyfell Dragon{</i>}", with 30~workers, ten~soldiers, six~swordsmen, two~winged horses
+17945:0::0/3::   John~[9910], 6th black circle
+17945:0::0/3:: * Sex Slave~[132130], "{<i>}Dragon Lady in Leather{</i>}", with 44~winged horses, accompanied~by:
+17945:0::0/6::      Aurora~[4646], prisoner
+17945:0::0/3:: * Samantha~[97797], "{<i>}Dragon Lady in Leather{</i>}", with 44~peasants, 15~soldiers
+17946:0::0::
+17946:0::0::Routes leaving West Dragon Reach: 
+17946:0::3::North, forest, to Dragon Coast~[dx46], 8~days
+17946:0::3::East, plain, to Dragon's Head Mountains~[dz47], 7~days
+17946:0::3::South, plain, to West Dragon Reach~[fa46], 7~days
+17946:0::3::West, mountain, to Border Peak~[dz45], 10~days
+17946:0::0::
+17946:0::0::Inner locations:
+17946:0::3::Pasture~[n298], pasture, 1 day
+17946:0::0::
+17946:0::0::It is raining.
+17946:0::0::
+17946:0::0::Seen here:
+17946:0::0/3::   Garrison~[3875], garrison, on guard, with ten~soldiers, 24~workers
+57061:0::0::
+57061:0::0::Routes leaving Dragons Light: 
+57061:0::3::North, to Ocean~[dw46], Great Sea, 1~day
+57061:0::3::Out, forest, to Dragon Coast~[dx46], 1~day
+57061:0::0::
+57061:0::0::Cities rumored to be nearby:
+57061:0::3::Northmold~[v10], in Legion Wood~[dz44]
+57061:0::3::Dragon Gate~[x41], in Dragon Coast~[dx50]
+57061:0::0::
+57061:0::0::Skills taught here:
+57061:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Weather magic~[820]
+57061:0::0::
+57061:0::0::Market report:
+57061:0::3::
+57061:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57061:0::3::-----    ---   -----    ---     -----   ----                     
+57061:0::3::  buy    d01       2    100         2   fish~[87]                
+57061:0::3::  buy    d01     158     41        45   silk~[w371]              
+57061:0::3::  buy    d01     204     45       100   ivory~[c731]             
+57061:0::3::  buy    d01       4     15         1   woven baskets~[94]       
+57061:0::3:: sell    d01      50     10       100   pitch~[261]              
+57061:0::3:: sell    d01      13     25        30   wood~[77]                
+57061:0::3:: sell    d01      11     34       100   flax~[q189]              
+57061:0::3:: sell    d01      30     33        50   licorice~[h650]          
+57061:0::3:: sell    d01     150     47       100   jade~[c224]              
+57061:0::3:: sell    d01      14     33        50   soap~[115399]            
+57061:0::3:: sell    d01      50     42        72   chocolate~[t360]         
+57061:0::0::
+57061:0::0::Inner locations:
+57061:0::3::Tower of Light~[6007], tower, defense~40
+57061:0::3::Enlightenment~[5255], temple, defense~10
+57061:0::0::
+57061:0::0::It is raining.
+57061:0::0::
+57061:0::0::Seen here:
+57061:0::0/3::   Garrison~[4114], garrison, on guard, with 144~pikemen, accompanied~by:
+57061:0::0/6:: *    Lilith~[149031], "{<i>}Dragon Lady in Leather{</i>}", with 39~soldiers, one~peasant
+57061:0::0::
+57061:0::0::Ships docked at port:
+57061:0::3/3::Kiga'rashu~[1212], roundship, 4% loaded, defense~4, 13%~damaged, owner:
+57061:0::0/6::      Meriadoc Brandybuck~[84005], with eight~sailors
+57397:0::0::
+57397:0::0::Routes leaving Calais: 
+57397:0::3::East, to Ocean~[cj09], Great Sea, 1~day
+57397:0::3::South, to Ocean~[ck08], Great Sea, 1~day
+57397:0::3::Out, plain, to Ganis~[cj08], 1~day
+57397:0::0::
+57397:0::0::Cities rumored to be nearby:
+57397:0::3::Darkhaven~[t28], in Somerset~[cg08]
+57397:0::0::
+57397:0::0::Skills taught here:
+57397:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Beastmastery~[650], Construction~[680], Alchemy~[690], Trade~[730], Magic~[800]
+57397:0::0::
+57397:0::0::Market report:
+57397:0::3::
+57397:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57397:0::3::-----    ---   -----    ---     -----   ----                     
+57397:0::3::  buy    h37      73     48       100   walnuts~[j187]           
+57397:0::3::  buy    h37     125     28        65   plum wine~[n305]         
+57397:0::3::  buy    h37     129     48        15   rose perfume~[h535]      
+57397:0::3::  buy    h37       2    100         2   fish~[87]                
+57397:0::3::  buy    h37       4     15         1   woven baskets~[94]       
+57397:0::3:: sell    h37       1     50        10   lead~[102]               
+57397:0::3:: sell    h37     140     29       100   jade~[a280]              
+57397:0::3:: sell    h37      10     30        50   soap~[m873]              
+57397:0::3:: sell    h37     145      2     1,000   riding horses~[52]       
+57397:0::3:: sell    h37      50     10       100   pitch~[261]              
+57397:0::3:: sell    h37     100      5     2,000   oxen~[76]                
+57397:0::3:: sell    h37     104     40        45   silk~[b123]              
+57397:0::0::
+57397:0::0::Inner locations:
+57397:0::3::Sewer~[k725], sewer, hidden
+57397:0::3::Crimson Watch~[2841], tower, defense~40, "Greyfell Lords Outpost", owner:
+57397:0::0/6::      Sagger Mord~[w087], wizard, "{<i>}Snowmans Hammer{</i>}", accompanied~by:
+57397:0::0/9::         Jean Paul of Avignon~[6968], priest, "{<i>}Kingdom of Cragstan{</i>}", prisoner
+57397:0::3::Humanis Policlub~[d230], temple, defense~8, "Greyfell Lords Temple"
+57397:0::0::
+57397:0::0::It is raining.
+57397:0::0::It is windy.
+57397:0::0::
+57397:0::0::Seen here:
+57397:0::0/3::   Lord Belmondo~[5634], "{<i>}Greyfell Lord{</i>}", with three~peasants, 44~centaurs
+57397:0::0::
+57397:0::0::Ships docked at port:
+57397:0::3/3::Distant Drummer~[w983], galley, 0% loaded, defense~20, 21%~damaged, "{<i>}A jester painted on the bow{</i>}"
+57397:0::3/3::Ghost~[5674], roundship, 0% loaded, defense~10, 15%~damaged, "{<i>}A jester painted on the bow{</i>}"
+57397:0::3/3::Sea Dragon~[1572], roundship-in-progress, 39% completed, 0% loaded
+58423:0::0::
+58423:0::0::Routes leaving Port Aurnos: 
+58423:0::3::South, to Ocean~[dd10], Great Sea, 1~day
+58423:0::3::West, to Ocean~[dc09], Great Sea, 1~day
+58423:0::3::Out, to Forest~[dc10], 1~day
+58423:0::0::
+58423:0::0::Cities rumored to be nearby:
+58423:0::3::Sigil~[f82], in Plain~[db13]
+58423:0::0::
+58423:0::0::Skills taught here:
+58423:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58423:0::0::
+58423:0::0::Market report:
+58423:0::3::
+58423:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58423:0::3::-----    ---   -----    ---     -----   ----                     
+58423:0::3::  buy 104748       5     10        10   iron~[79]                
+58423:0::3::  buy    v63     137     47        72   chocolate~[m585]         
+58423:0::3::  buy    v63     128      5        50   hides~[99]               
+58423:0::3::  buy    v63     199     42        30   jeweled eggs~[w973]      
+58423:0::3::  buy    v63       2    100         2   fish~[87]                
+58423:0::3::  buy    v63       4     15         1   woven baskets~[94]       
+58423:0::3:: sell    v63      50     10       100   pitch~[261]              
+58423:0::3:: sell    v63     140      2       100   ivory~[k845]             
+58423:0::3:: sell    v63      11     48       100   salt~[z752]              
+58423:0::3:: sell    v63      30     46        43   tea~[q556]               
+58423:0::3:: sell    v63      12     40       100   salt~[h526]              
+58423:0::3:: sell    v63      12     25        30   wood~[77]                
+58423:0::0::
+58423:0::0::Inner locations:
+58423:0::3::Sewer~[c112], sewer, hidden
+58423:0::3::L.S.E~[9108], tower, defense~40
+58423:0::3::Empty Coffers~[w698], tower, defense~40, "MT"
+58423:0::0::
+58423:0::0::It is raining.
+58423:0::0::
+58423:0::0::Seen here:
+58423:0::0/3::   Thorleik~[131616]
+58423:0::0/3::   Gerabaldi~[131891]
+58423:0::0/3::   Londo Mollari~[n631], accompanied~by:
+58423:0::0/6::      Vir~[n611]
+58423:0::0/3::   Qunix~[8231]
+58423:0::0/3::   Docken~[106928], with 22~winged horses
+58423:0::0/3::   Narf~[136313], with 20~workers
+58423:0::0/3::   Bertain~[104748], with ten~workers
+58423:0::0/3:: * Black Dragon~[96859], "{<i>}Greyfell Dragons{</i>}", with 19~winged horses
+58423:0::0/3:: * Red Knight~[131218], "{<i>}Greyfell Dragons{</i>}", with 14~winged horses
+58423:0::0::
+58423:0::0::Ships docked at port:
+58423:0::3/3::Runtings warrior~[4330], galley-in-progress, 38% completed, 0% loaded
+58423:0::3/3::Sword of the Sea~[7851], galley, 0% loaded, defense~20
+58423:0::3/3::Trinity~[9198], galley, 0% loaded, defense~20
+58423:0::3/3::Glory Hunter~[6102], roundship-in-progress, 38% completed, 0% loaded
+58423:0::3/3::The Seagull~[4997], roundship, 0% loaded, defense~10
+5:0::0::
+5:0::0::begin sz6 "navy01"  # Color Guard
+5:0::0::
+5:0::0::unit sz6  # Color Guard
+5:0::0::
+5:0::0::unit 83619  # Blue Dragon in Kazimir's Palace~[p124]
+5:0::3::# > sail s (executing for one more day)
+5:0::3::sail s
+5:0::3::sail s
+5:0::3::sail s
+5:0::3::sail s
+5:0::0::
+5:0::0::unit 147109  # White Knight in Kazimir's Palace~[p124]
+5:0::0::
+5:0::0::unit 96859  # Black Dragon in Port Aurnos~[v63]
+5:0::3::# > breed 54 54 (executing for five more days)
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit 131218  # Red Knight in Port Aurnos~[v63]
+5:0::3::# > breed 54 54 (executing for five more days)
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit 82992  # Red Dragon in Forest~[dc10]
+5:0::3::# > explore (executing for two more days)
+5:0::3::explore
+5:0::3::explore
+5:0::0::
+5:0::0::unit 104673  # Green Knight in Arden~[ch09]
+5:0::0::
+5:0::0::unit 118123  # White Dragon in Arden~[ch09]
+5:0::0::
+5:0::0::unit 146596  # Black queen in Arden~[ch09]
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit 82291  # Yellow Jacket in Arden~[ch09]
+5:0::0::
+5:0::0::unit 86175  # Black Bart in Arden~[ch09]
+5:0::3::# > breed 54 54 (executing for two more days)
+5:0::3::breed 54 54
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit 149031  # Lilith in Dragons Light~[d01]
+5:0::3::# > train 12 0 (still~executing)
+5:0::3::explore
+5:0::3::explore
+5:0::3::explore
+5:0::0::
+5:0::0::unit 132130  # Sex Slave in Border Peak~[dz45]
+5:0::3::# > explore (executing for two more days)
+5:0::3::explore
+5:0::0::
+5:0::0::unit 97797  # Samantha in Border Peak~[dz45]
+5:0::3::# > move w (executing for seven more days)
+5:0::3::recruit 10
+5:0::0::
+5:0::0::end
+54936:0::0::
+54936:0::0::Admit permissions:
+54936:0::0::
+54936:0::3::admit 6625  all
+54936:0::0::
+54936:0::0::Unclaimed items:
+54936:0::0::
+54936:0::0::      qty  name                              weight
+54936:0::0::      ---  ----                              ------
+54936:0::0::      125  gold~[1]                               0  
+82291:0::3::
+82291:0::3/16::Location:       Arden~[ch09], in Cragstan
+82291:0::3::Loyalty:        Fear-70
+82291:0::3::Health:         100%
+82291:0::3::Combat:         attack 80, defense 80, missile 0
+82291:0::3::                behind 0  (front line in combat)
+82291:0::3::Break point:    50%
+82291:0::3::Banner:         Even A Bee can Sting a Bear
+82291:0::3::
+82291:0::3::Skills known:
+82291:0::6::Shipcraft~[600]
+82291:0::12::Sailing~[601], apprentice
+82291:0::12::Shipbuilding~[602], apprentice
+82291:0::6::Combat~[610]
+82291:0::6::Stealth~[630]
+82291:0::6::Forestry~[700]
+82291:0::12::Harvest lumber~[702], apprentice
+82291:0::3::
+82291:0::3::Partially known skills:
+82291:0::6/6::Fishing~[603], 7/14
+82291:0::3::
+82291:0::3::Inventory:
+82291:0::3::{<b>}      qty  name                              weight{</b>}
+82291:0::3::      ---  ----                              ------
+82291:0::3::       93  gold~[1]                               0  
+82291:0::3::        9  workers~[11]                         900  cap 900 (1,1,0)
+82291:0::3::       10  sailors~[19]                       1,000  cap 1,000 (1,1,0)
+82291:0::3::        5  winged horses~[54]                 5,000  fly 750
+82291:0::3::       37  wood~[77]                          1,110  
+82291:0::3::                                             ======
+82291:0::3::                                              8,010
+82291:0::3::
+82291:0::3/11::Capacity:  1,110/2,750 land (40%), 3,110/750 ride (414%), 3,110/750 fly (414%)
+82291:0::3::
+82992:0::3::
+82992:0::3/16::Location:       Forest~[dc10], in Provinia
+82992:0::3::Loyalty:        Oath-1
+82992:0::3::Health:         100%
+82992:0::3::Combat:         attack 80, defense 105, missile 0
+82992:0::3::                behind 0  (front line in combat)
+82992:0::3::Break point:    50%
+82992:0::3::use  641 0      (not concealing self)
+82992:0::3::Banner:         Greyfell Dragons
+82992:0::3::
+82992:0::3::Skills known:
+82992:0::6::Shipcraft~[600]
+82992:0::12::Sailing~[601], apprentice
+82992:0::12::Shipbuilding~[602], apprentice
+82992:0::6::Combat~[610]
+82992:0::12::Survive fatal wound~[611]
+82992:0::12::Fight to the death~[612]
+82992:0::12::Defense~[614], apprentice
+82992:0::6::Stealth~[630]
+82992:0::12::Conceal self~[641], apprentice
+82992:0::6::Beastmastery~[650]
+82992:0::12::Capture beasts in battle~[652]
+82992:0::12::Use beasts in battle~[653]
+82992:0::12::Breed beasts~[654], journeyman
+82992:0::12::Catch wild horses~[655], apprentice
+82992:0::12::Train wild horse to warmount~[657], apprentice
+82992:0::6::Trade~[730]
+82992:0::12::Find tradegood for sale~[732], apprentice
+82992:0::12::Find market for tradegood~[733], apprentice
+82992:0::3::
+82992:0::3::Partially known skills:
+82992:0::6/6::Forestry~[700], 14/21
+82992:0::3::
+82992:0::3::Inventory:
+82992:0::3::{<b>}      qty  name                              weight{</b>}
+82992:0::3::      ---  ----                              ------
+82992:0::3::      390  gold~[1]                               0  
+82992:0::3::       10  peasants~[10]                      1,000  cap 1,000 (1,1,0)
+82992:0::3::       16  winged horses~[54]                16,000  fly 2,400
+82992:0::3::                                             ======
+82992:0::3::                                             17,000
+82992:0::3::
+82992:0::3/11::Capacity:  0/3,500 land (0%), 1,100/2,400 ride (45%), 1,100/2,400 fly (45%)
+82992:0::3::
+83619:0::3::
+83619:0::3/16::Location:       Kazimir's Palace~[p124], in Ocean~[cs07], in Great Sea
+83619:0::3::Loyalty:        Fear-70
+83619:0::3::Stacked over:   White Knight~[147109]
+83619:0::3::Health:         100%
+83619:0::3::Combat:         attack 80, defense 80, missile 0
+83619:0::3::                behind 0  (front line in combat)
+83619:0::3::Break point:    50%
+83619:0::3::Banner:         Greyfell Dragon
+83619:0::3::
+83619:0::3::Skills known:
+83619:0::6::Shipcraft~[600]
+83619:0::12::Sailing~[601], apprentice
+83619:0::12::Shipbuilding~[602], apprentice
+83619:0::6::Combat~[610]
+83619:0::12::Survive fatal wound~[611]
+83619:0::6::Stealth~[630]
+83619:0::6::Forestry~[700]
+83619:0::12::Construct battering ram~[701], apprentice
+83619:0::12::Harvest lumber~[702], apprentice
+83619:0::6::Trade~[730]
+83619:0::12::Conceal identity of trader~[731], apprentice
+83619:0::12::Find tradegood for sale~[732], apprentice
+83619:0::3::
+83619:0::3::Inventory:
+83619:0::3::{<b>}      qty  name                              weight{</b>}
+83619:0::3::      ---  ----                              ------
+83619:0::3::    4,520  gold~[1]                               0  
+83619:0::3::        5  peasants~[10]                        500  cap 500 (1,1,0)
+83619:0::3::       10  sailors~[19]                       1,000  cap 1,000 (1,1,0)
+83619:0::3::       25  swordsmen~[20]                     2,500  cap 2,500 (15,15,0)
+83619:0::3::      125  elite archers~[22]                12,500  cap 12,500 (10,10,75)
+83619:0::3::                                             ======
+83619:0::3::                                             16,500
+83619:0::3::
+83619:0::3/11::Capacity:  0/16,600 land (0%)
+83619:0::3::
+86175:0::3::
+86175:0::3/16::Location:       Arden~[ch09], in Cragstan
+86175:0::3::Loyalty:        Oath-1
+86175:0::3::Health:         100%
+86175:0::3::Combat:         attack 80, defense 80, missile 0
+86175:0::3::                behind 0  (front line in combat)
+86175:0::3::Break point:    50%
+86175:0::3::use  641 1      (concealing self)
+86175:0::3::Banner:         wearing a grim smile
+86175:0::3::
+86175:0::3::Skills known:
+86175:0::6::Shipcraft~[600]
+86175:0::12::Sailing~[601], apprentice
+86175:0::12::Shipbuilding~[602], apprentice
+86175:0::6::Combat~[610]
+86175:0::12::Survive fatal wound~[611]
+86175:0::12::Fight to the death~[612]
+86175:0::12::Weaponsmithing~[617], apprentice
+86175:0::6::Stealth~[630]
+86175:0::12::Conceal self~[641], apprentice
+86175:0::6::Beastmastery~[650]
+86175:0::12::Bird spy~[651], apprentice
+86175:0::12::Capture beasts in battle~[652]
+86175:0::12::Use beasts in battle~[653]
+86175:0::12::Breed beasts~[654], grand master
+86175:0::3::
+86175:0::3::Inventory:
+86175:0::3::{<b>}      qty  name                              weight{</b>}
+86175:0::3::      ---  ----                              ------
+86175:0::3::       61  winged horses~[54]                61,000  fly 9,150
+86175:0::3::                                             ======
+86175:0::3::                                             61,000
+86175:0::3::
+86175:0::3/11::Capacity:  0/9,250 land (0%), 100/9,150 ride (1%), 100/9,150 fly (1%)
+86175:0::3::
+96859:0::3::
+96859:0::3/16::Location:       Port Aurnos~[v63], in province Forest~[dc10], in Provinia
+96859:0::3::Loyalty:        Fear-86
+96859:0::3::Health:         100%
+96859:0::3::Combat:         attack 80, defense 80, missile 0
+96859:0::3::                behind 0  (front line in combat)
+96859:0::3::Break point:    50%
+96859:0::3::Banner:         Greyfell Dragons
+96859:0::3::
+96859:0::3::Skills known:
+96859:0::6::Shipcraft~[600]
+96859:0::6::Combat~[610]
+96859:0::6::Beastmastery~[650]
+96859:0::12::Breed beasts~[654], journeyman
+96859:0::3::
+96859:0::3::Partially known skills:
+96859:0::6/6::Sailing~[601], 7/14
+96859:0::6/6::Shipbuilding~[602], 7/14
+96859:0::3::
+96859:0::3::Inventory:
+96859:0::3::{<b>}      qty  name                              weight{</b>}
+96859:0::3::      ---  ----                              ------
+96859:0::3::      500  gold~[1]                               0  
+96859:0::3::       19  winged horses~[54]                19,000  fly 2,850
+96859:0::3::                                             ======
+96859:0::3::                                             19,000
+96859:0::3::
+96859:0::3/11::Capacity:  0/2,950 land (0%), 100/2,850 ride (3%), 100/2,850 fly (3%)
+96859:0::3::
+97797:0::3::
+97797:0::3/16::Location:       Border Peak~[dz45], in Camaris
+97797:0::3::Loyalty:        Fear-84
+97797:0::3::Health:         100%
+97797:0::3::Combat:         attack 80, defense 30, missile 0
+97797:0::3::                behind 0  (front line in combat)
+97797:0::3::Break point:    50%
+97797:0::3::Banner:         Dragon Lady in Leather
+97797:0::3::
+97797:0::3::Skills known:
+97797:0::6::Combat~[610]
+97797:0::12::Survive fatal wound~[611]
+97797:0::6::Trade~[730]
+97797:0::12::Find tradegood for sale~[732], apprentice
+97797:0::12::Find market for tradegood~[733], apprentice
+97797:0::3::
+97797:0::3::Partially known skills:
+97797:0::6/6::Conceal identity of trader~[731], 8/14
+97797:0::3::
+97797:0::3::Inventory:
+97797:0::3::{<b>}      qty  name                              weight{</b>}
+97797:0::3::      ---  ----                              ------
+97797:0::3::       64  gold~[1]                               0  
+97797:0::3::       44  peasants~[10]                      4,400  cap 4,400 (1,1,0)
+97797:0::3::       15  soldiers~[12]                      1,500  cap 1,500 (5,5,0)
+97797:0::3::                                             ======
+97797:0::3::                                              5,900
+97797:0::3::
+97797:0::3/11::Capacity:  0/6,000 land (0%)
+97797:0::3::
+104673:0::3::
+104673:0::3/16::Location:       Arden~[ch09], in Cragstan
+104673:0::3::Loyalty:        Fear-87
+104673:0::3::Health:         100%
+104673:0::3::Combat:         attack 80, defense 80, missile 0
+104673:0::3::                behind 0  (front line in combat)
+104673:0::3::Break point:    50%
+104673:0::3::Banner:         Greyfell Lord
+104673:0::3::
+104673:0::3::Skills known:
+104673:0::6::Combat~[610]
+104673:0::12::Survive fatal wound~[611]
+104673:0::6::Beastmastery~[650]
+104673:0::12::Use beasts in battle~[653]
+104673:0::12::Breed beasts~[654], journeyman
+104673:0::3::
+104673:0::3::Green Knight~[104673] has no possessions.
+104673:0::3::
+104673:0::3/11::Capacity:  0/100 land (0%)
+104673:0::3::
+118123:0::3::
+118123:0::3/16::Location:       Arden~[ch09], in Cragstan
+118123:0::3::Loyalty:        Fear-90
+118123:0::3::Health:         100%
+118123:0::3::Combat:         attack 80, defense 80, missile 0
+118123:0::3::                behind 0  (front line in combat)
+118123:0::3::Break point:    50%
+118123:0::3::Banner:         Greyfell Dragons
+118123:0::3::
+118123:0::3::Skills known:
+118123:0::6::Combat~[610]
+118123:0::12::Survive fatal wound~[611]
+118123:0::6::Beastmastery~[650]
+118123:0::12::Breed beasts~[654], journeyman
+118123:0::3::
+118123:0::3::White Dragon~[118123] has no possessions.
+118123:0::3::
+118123:0::3/11::Capacity:  0/100 land (0%)
+118123:0::3::
+131218:0::3::
+131218:0::3/16::Location:       Port Aurnos~[v63], in province Forest~[dc10], in Provinia
+131218:0::3::Loyalty:        Fear-88
+131218:0::3::Health:         100%
+131218:0::3::Combat:         attack 80, defense 80, missile 0
+131218:0::3::                behind 0  (front line in combat)
+131218:0::3::Break point:    50%
+131218:0::3::Banner:         Greyfell Dragons
+131218:0::3::
+131218:0::3::Skills known:
+131218:0::6::Shipcraft~[600]
+131218:0::12::Sailing~[601], apprentice
+131218:0::6::Combat~[610]
+131218:0::12::Survive fatal wound~[611]
+131218:0::6::Beastmastery~[650]
+131218:0::12::Breed beasts~[654], journeyman
+131218:0::3::
+131218:0::3::Partially known skills:
+131218:0::6/6::Shipbuilding~[602], 3/14
+131218:0::3::
+131218:0::3::Inventory:
+131218:0::3::{<b>}      qty  name                              weight{</b>}
+131218:0::3::      ---  ----                              ------
+131218:0::3::      200  gold~[1]                               0  
+131218:0::3::       14  winged horses~[54]                14,000  fly 2,100
+131218:0::3::                                             ======
+131218:0::3::                                             14,000
+131218:0::3::
+131218:0::3/11::Capacity:  0/2,200 land (0%), 100/2,100 ride (4%), 100/2,100 fly (4%)
+131218:0::3::
+132130:0::3::
+132130:0::3/16::Location:       Border Peak~[dz45], in Camaris
+132130:0::3::Loyalty:        Oath-1
+132130:0::3::Health:         100%
+132130:0::3::Combat:         attack 80, defense 80, missile 0
+132130:0::3::                behind 0  (front line in combat)
+132130:0::3::Break point:    50%
+132130:0::3::Banner:         Dragon Lady in Leather
+132130:0::3::Prisoners:      Aurora~[4646], health 100
+132130:0::3::
+132130:0::3::Declared attitudes:
+132130:0::6::hostile 4646 84005 99866
+132130:0::3::
+132130:0::3::Skills known:
+132130:0::6::Combat~[610]
+132130:0::12::Survive fatal wound~[611]
+132130:0::12::Swordplay~[616], apprentice
+132130:0::12::Weaponsmithing~[617], apprentice
+132130:0::6::Beastmastery~[650]
+132130:0::12::Capture beasts in battle~[652]
+132130:0::12::Use beasts in battle~[653]
+132130:0::12::Breed beasts~[654], master
+132130:0::3::
+132130:0::3::Inventory:
+132130:0::3::{<b>}      qty  name                              weight{</b>}
+132130:0::3::      ---  ----                              ------
+132130:0::3::    5,944  gold~[1]                               0  
+132130:0::3::       44  winged horses~[54]                44,000  fly 6,600
+132130:0::3::      100  stone~[78]                        10,000  
+132130:0::3::                                             ======
+132130:0::3::                                             54,000
+132130:0::3::
+132130:0::3/11::Capacity:  10,000/6,700 land (149%), 10,100/6,600 ride (153%), 10,100/6,600 fly (153%)
+132130:0::3::
+146596:0::3::
+146596:0::3/16::Location:       Arden~[ch09], in Cragstan
+146596:0::3::Loyalty:        Fear-88
+146596:0::3::Health:         100%
+146596:0::3::Combat:         attack 80, defense 89, missile 0
+146596:0::3::                behind 0  (front line in combat)
+146596:0::3::Break point:    50%
+146596:0::3::
+146596:0::3::Skills known:
+146596:0::6::Combat~[610]
+146596:0::12::Survive fatal wound~[611]
+146596:0::12::Defense~[614], apprentice
+146596:0::6::Beastmastery~[650]
+146596:0::12::Use beasts in battle~[653]
+146596:0::12::Breed beasts~[654], journeyman
+146596:0::3::
+146596:0::3::Inventory:
+146596:0::3::{<b>}      qty  name                              weight{</b>}
+146596:0::3::      ---  ----                              ------
+146596:0::3::       76  winged horses~[54]                76,000  fly 11,400
+146596:0::3::                                             ======
+146596:0::3::                                             76,000
+146596:0::3::
+146596:0::3/11::Capacity:  0/11,500 land (0%), 100/11,400 ride (0%), 100/11,400 fly (0%)
+146596:0::3::
+147109:0::3::
+147109:0::3/16::Location:       Kazimir's Palace~[p124], in Ocean~[cs07], in Great Sea
+147109:0::3::Loyalty:        Fear-90
+147109:0::3/16::Stacked under:  Blue Dragon~[83619]
+147109:0::3::Health:         100%
+147109:0::3::Combat:         attack 80, defense 80, missile 0
+147109:0::3::                behind 0  (front line in combat)
+147109:0::3::Break point:    50%
+147109:0::3::
+147109:0::3::Skills known:
+147109:0::6::Shipcraft~[600]
+147109:0::6::Combat~[610]
+147109:0::12::Survive fatal wound~[611]
+147109:0::6::Beastmastery~[650]
+147109:0::12::Breed beasts~[654], journeyman
+147109:0::3::
+147109:0::3::Partially known skills:
+147109:0::6/6::Swordplay~[616], 7/14
+147109:0::3::
+147109:0::3::White Knight~[147109] has no possessions.
+147109:0::3::
+147109:0::3/11::Capacity:  0/100 land (0%)
+147109:0::3::
+149031:0::3::
+149031:0::3/16::Location:       Dragons Light~[d01], in province Dragon Coast~[dx46], in Camaris
+149031:0::3::Loyalty:        Fear-85
+149031:0::3/16::Stacked under:  Garrison~[4114]
+149031:0::3::Health:         100%
+149031:0::3::Combat:         attack 80, defense 30, missile 0
+149031:0::3::                behind 0  (front line in combat)
+149031:0::3::Break point:    50%
+149031:0::3::Banner:         Dragon Lady in Leather
+149031:0::3::
+149031:0::3::Skills known:
+149031:0::6::Shipcraft~[600]
+149031:0::6::Combat~[610]
+149031:0::12::Survive fatal wound~[611]
+149031:0::6::Trade~[730]
+149031:0::3::
+149031:0::3::Partially known skills:
+149031:0::6/6::Find tradegood for sale~[732], 7/14
+149031:0::3::
+149031:0::3::Inventory:
+149031:0::3::{<b>}      qty  name                              weight{</b>}
+149031:0::3::      ---  ----                              ------
+149031:0::3::      128  gold~[1]                               0  
+149031:0::3::        1  peasant~[10]                         100  cap 100 (1,1,0)
+149031:0::3::       39  soldiers~[12]                      3,900  cap 3,900 (5,5,0)
+149031:0::3::                                             ======
+149031:0::3::                                              4,000
+149031:0::3::
+149031:0::3/11::Capacity:  0/4,100 land (0%)
+149031:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Color Guard~[sz6].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/sz6/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [sz6]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        13  45th   
+0:0::3/41::Men:                              293  50th   
+0:0::3/41::Gold:                          11,839  69th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   25/74  83rd   
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         392/31,919  80th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  3     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  132325 110627 114467 104529 123102
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::83619  p124   f70   100  0    4520    5        10  150        Blue Dragon
+0:0::0::147109 p124   f90   100  0                             83619  White Knight
+0:0::0::96859  v63    f86   100  0     500                            Black Dragon
+0:0::0::131218 v63    f88   100  0     200                            Red Knight
+0:0::0::82992  dc10   o1    100  0     390   10                       Red Dragon
+0:0::0::104673 ch09   f87   100  0                                    Green Knight
+0:0::0::118123 ch09   f90   100  0                                    White Dragon
+0:0::0::146596 ch09   f88   100  0                                    Black queen
+0:0::0::82291  ch09   f70   100  0      93         9   10             Yellow Jacket
+0:0::0::86175  ch09   o1    100  0                                    Black Bart
+0:0::0::149031 d01    f85   100  0     128    1             39 4114   Lilith
+0:0::0::132130 dz45   o1    100  0    5944                            Sex Slave
+0:0::0::97797  dz45   f84   100  0      64   44             15        Samantha
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               11k   60    9   20  204
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Great Sea
+0:0::0::  Ocean~[cs07]
+0:0::0::      Kazimir's Palace~[p124]      Blue Dragon~[83619]
+0:0::0::                                     White Knight~[147109]
+0:0::0::Provinia
+0:0::0::  Forest~[dc10]                    Red Dragon~[82992]
+0:0::0::    Port Aurnos~[v63]              Black Dragon~[96859]
+0:0::0::                                   Red Knight~[131218]
+0:0::0::Cragstan
+0:0::0::  Arden~[ch09]                     Green Knight~[104673]
+0:0::0::                                   White Dragon~[118123]
+0:0::0::                                   Black queen~[146596]
+0:0::0::                                   Yellow Jacket~[82291]
+0:0::0::                                   Black Bart~[86175]
+0:0::0::Camaris
+0:0::0::  Dragon Coast~[dx46]
+0:0::0::    Dragons Light~[d01]              Lilith~[149031]
+0:0::0::  Border Peak~[dz45]               Sex Slave~[132130]
+0:0::0::                                   Samantha~[97797]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0:: 83619      16,700     16,700   0%                                
+0:0::0::147109         100        100   0%                                
+0:0::0:: 96859      19,100      2,950   0%      2,750   3%      2,750   3%
+0:0::0::131218      14,100      2,200   0%      2,000   4%      2,000   4%
+0:0::0:: 82992      17,100      3,500   0%      1,300  45%      1,300  45%
+0:0::0::104673         100        100   0%                                
+0:0::0::118123         100        100   0%                                
+0:0::0::146596      76,100     11,500   0%     11,300   0%     11,300   0%
+0:0::0:: 82291       8,110      1,640  40%    (2,360) 414%    (2,360) 414%
+0:0::0:: 86175      61,100      9,250   0%      9,050   1%      9,050   1%
+0:0::0::149031       4,100      4,100   0%                                
+0:0::0::132130      54,200    (3,200) 147%    (3,600) 154%    (3,600) 154%
+0:0::0:: 97797       6,000      6,000   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Color Guard~[sz6]"><font size=+1><b>Color Guard~[sz6]</b></font>
+1:2::0::<hr>
+1:1::0::Color Guard~[sz6]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54936
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Blue Dragon~[83619]"><font size=+1><b>Blue Dragon~[83619]</b></font>
+1:2::0::<hr>
+1:1::0::Blue Dragon~[83619]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 83619
+1:0::0::
+1:2::0::
+1:2::0::<name="White Knight~[147109]"><font size=+1><b>White Knight~[147109]</b></font>
+1:2::0::<hr>
+1:1::0::White Knight~[147109]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 147109
+1:0::0::
+1:2::0::
+1:2::0::<name="Black Dragon~[96859]"><font size=+1><b>Black Dragon~[96859]</b></font>
+1:2::0::<hr>
+1:1::0::Black Dragon~[96859]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 96859
+1:0::0::
+1:2::0::
+1:2::0::<name="Red Knight~[131218]"><font size=+1><b>Red Knight~[131218]</b></font>
+1:2::0::<hr>
+1:1::0::Red Knight~[131218]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 131218
+1:0::0::
+1:2::0::
+1:2::0::<name="Red Dragon~[82992]"><font size=+1><b>Red Dragon~[82992]</b></font>
+1:2::0::<hr>
+1:1::0::Red Dragon~[82992]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 82992
+1:0::0::
+1:2::0::
+1:2::0::<name="Green Knight~[104673]"><font size=+1><b>Green Knight~[104673]</b></font>
+1:2::0::<hr>
+1:1::0::Green Knight~[104673]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 104673
+1:0::0::
+1:2::0::
+1:2::0::<name="White Dragon~[118123]"><font size=+1><b>White Dragon~[118123]</b></font>
+1:2::0::<hr>
+1:1::0::White Dragon~[118123]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 118123
+1:0::0::
+1:2::0::
+1:2::0::<name="Black queen~[146596]"><font size=+1><b>Black queen~[146596]</b></font>
+1:2::0::<hr>
+1:1::0::Black queen~[146596]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 146596
+1:0::0::
+1:2::0::
+1:2::0::<name="Yellow Jacket~[82291]"><font size=+1><b>Yellow Jacket~[82291]</b></font>
+1:2::0::<hr>
+1:1::0::Yellow Jacket~[82291]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 82291
+1:0::0::
+1:2::0::
+1:2::0::<name="Black Bart~[86175]"><font size=+1><b>Black Bart~[86175]</b></font>
+1:2::0::<hr>
+1:1::0::Black Bart~[86175]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 86175
+1:0::0::
+1:2::0::
+1:2::0::<name="Lilith~[149031]"><font size=+1><b>Lilith~[149031]</b></font>
+1:2::0::<hr>
+1:1::0::Lilith~[149031]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 149031
+1:0::0::
+1:2::0::
+1:2::0::<name="Sex Slave~[132130]"><font size=+1><b>Sex Slave~[132130]</b></font>
+1:2::0::<hr>
+1:1::0::Sex Slave~[132130]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 132130
+1:0::0::
+1:2::0::
+1:2::0::<name="Samantha~[97797]"><font size=+1><b>Samantha~[97797]</b></font>
+1:2::0::<hr>
+1:1::0::Samantha~[97797]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 97797
+1:2::0::
+1:2::0::<name="Ocean~[cj09]"><font size=+1><b>Ocean~[cj09]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cj09], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14709
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[ck09]"><font size=+1><b>Ocean~[ck09]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[ck09], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14809
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[cm09]"><font size=+1><b>Ocean~[cm09]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cm09], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14909
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[cn07]"><font size=+1><b>Ocean~[cn07]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cn07], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15007
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[cn08]"><font size=+1><b>Ocean~[cn08]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cn08], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15008
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[cn09]"><font size=+1><b>Ocean~[cn09]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cn09], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15009
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[cp07]"><font size=+1><b>Ocean~[cp07]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cp07], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15107
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[cq07]"><font size=+1><b>Ocean~[cq07]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cq07], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15207
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[cr07]"><font size=+1><b>Ocean~[cr07]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cr07], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15307
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[cs07]"><font size=+1><b>Ocean~[cs07]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[cs07], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15407
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dc10]"><font size=+1><b>Forest~[dc10]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dc10], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16210
+1:0::0::
+1:2::0::
+1:2::0::<name="Port Aurnos~[v63]"><font size=+1><b>Port Aurnos~[v63]</b>, port city, in province Forest~[dc10], safe haven</font>
+1:2::0::<hr>
+1:1::0::Port Aurnos~[v63], port city, in province Forest~[dc10], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58423
+1:0::0::
+1:2::0::
+1:2::0::<name="Somerset~[cg08]"><font size=+1><b>Somerset~[cg08]</b>, plain, in Cragstan, civ-3</font>
+1:2::0::<hr>
+1:1::0::Somerset~[cg08], plain, in Cragstan, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14508
+1:0::0::
+1:2::0::
+1:2::0::<name="Dubglas~[cg09]"><font size=+1><b>Dubglas~[cg09]</b>, mountain, in Cragstan, civ-1</font>
+1:2::0::<hr>
+1:1::0::Dubglas~[cg09], mountain, in Cragstan, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14509
+1:0::0::
+1:2::0::
+1:2::0::<name="Arden~[ch09]"><font size=+1><b>Arden~[ch09]</b>, plain, in Cragstan, wilderness</font>
+1:2::0::<hr>
+1:1::0::Arden~[ch09], plain, in Cragstan, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14609
+1:0::0::
+1:2::0::
+1:2::0::<name="Ganis~[cj08]"><font size=+1><b>Ganis~[cj08]</b>, plain, in Cragstan, civ-3</font>
+1:2::0::<hr>
+1:1::0::Ganis~[cj08], plain, in Cragstan, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14708
+1:0::0::
+1:2::0::
+1:2::0::<name="Calais~[h37]"><font size=+1><b>Calais~[h37]</b>, port city, in province Ganis~[cj08]</font>
+1:2::0::<hr>
+1:1::0::Calais~[h37], port city, in province Ganis~[cj08]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57397
+1:0::0::
+1:2::0::
+1:2::0::<name="Dragon Coast~[dx46]"><font size=+1><b>Dragon Coast~[dx46]</b>, forest, in Camaris, civ-4</font>
+1:2::0::<hr>
+1:1::0::Dragon Coast~[dx46], forest, in Camaris, civ-4
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17846
+1:0::0::
+1:2::0::
+1:2::0::<name="Dragons Light~[d01]"><font size=+1><b>Dragons Light~[d01]</b>, port city, in province Dragon Coast~[dx46]</font>
+1:2::0::<hr>
+1:1::0::Dragons Light~[d01], port city, in province Dragon Coast~[dx46]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57061
+1:0::0::
+1:2::0::
+1:2::0::<name="Border Peak~[dz45]"><font size=+1><b>Border Peak~[dz45]</b>, mountain, in Camaris, civ-2</font>
+1:2::0::<hr>
+1:1::0::Border Peak~[dz45], mountain, in Camaris, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17945
+1:0::0::
+1:2::0::
+1:2::0::<name="West Dragon Reach~[dz46]"><font size=+1><b>West Dragon Reach~[dz46]</b>, plain, in Camaris, civ-2</font>
+1:2::0::<hr>
+1:1::0::West Dragon Reach~[dz46], plain, in Camaris, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 17946
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

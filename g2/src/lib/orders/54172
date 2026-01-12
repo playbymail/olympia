@@ -1,0 +1,441 @@
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+8547:breed 280 280
+3644:stop
+3644:get garrison 72
+3644:give garrison 72
+3644:get garrison 75
+3644:give garrison 75
+3644:give garrison 77
+3644:get garrison 11 5
+3644:move h387
+3644:yew
+3644:move out
+3644:get garrison 11
+3644:wood
+3644:give garrison 11
+3644:make 72
+3644:make 75
+3644:get garrison 72
+3644:give garrison 72
+3644:get garrison 75
+3644:give garrison 75
+3644:give garrison 77
+3644:get garrison 11 5
+3644:move h387
+3644:yew
+3644:move out
+3644:get garrison 11
+3644:wood
+3644:give garrison 11
+3644:make 72
+3644:make 75
+3644:get garrison 72
+3644:give garrison 72
+3644:get garrison 75
+3644:give garrison 75
+3644:give garrison 77
+3644:get garrison 11 5
+3644:move h387
+3644:yew
+3644:move out
+3644:get garrison 11
+3644:wood
+3644:give garrison 11
+3644:make 72
+3644:make 75
+6181:stop
+6181:give 8030 12 0
+6181:give 8030 10 0
+6181:move out
+6181:move out
+6181:recruit
+6181:move t89
+6181:recruit
+6181:move 2468
+6181:stack 8030
+6181:train 12
+6181:give 8030 12 0
+6181:give 8030 10 0
+6181:use 616
+6181:use 615
+6181:use 616
+6181:use 615
+6181:use 614
+6181:move out
+6181:move out
+6181:recruit
+6181:move t89
+6181:recruit
+6181:move 2468
+6181:stack 8030
+6181:train 12
+6181:give 8030 12 0
+6181:give 8030 10 0
+6181:use 616
+6181:use 615
+6181:use 616
+6181:use 615
+6181:use 614
+8030:use 616
+8030:make 18 6
+8030:breed 282 282
+8030:use 813
+8030:use 615
+8030:make 18 6
+8030:breed 282 282
+8030:use 813
+8030:use 614
+8030:make 18 6
+8030:breed 282 282
+8030:use 813
+8030:use 616
+8030:make 18 6
+8030:breed 282 282
+8030:use 813
+8030:use 615
+8030:make 18 6
+8030:breed 282 282
+8030:use 813
+8030:use 616
+8030:make 18 6
+8030:breed 282 282
+8030:use 813
+8030:use 615
+8030:make 18 6
+8030:breed 282 282
+8030:use 813
+8030:use 614
+65250:fly bz75
+65250:fly bz76
+65250:get garrison 78 26
+65250:fly bz75
+65250:fly bz74
+65250:fly bz73
+65250:fly bz72
+65250:give garrison 78
+65250:fly ca72
+65250:fly ca73
+65250:get garrison 77 30
+65250:make 75
+65250:get garrison 72
+65250:get garrison 75
+65250:get garrison 77 10
+65250:fly ca72
+65250:fly bz72
+65250:give garrison 77
+65250:move t89
+65250:move 2468
+65250:give 8030 72
+65250:give 8030 75
+65250:use 614
+65250:use 616
+65250:use 615
+65250:use 616
+65250:use 615
+65250:use 614
+65250:use 616
+65250:use 615
+143508:explore
+143508:use 616
+143508:fly cg89
+143508:seek
+143508:explore
+143508:use 616
+143508:fly cg90
+143508:seek
+143508:explore
+143508:use 615
+143508:fly cg91
+143508:seek
+143508:explore
+143508:use 616
+143508:use 615
+143508:use 614
+143508:use 616
+143508:use 615
+143761:fly e
+143761:fly out
+143761:fly e
+143761:fly n
+143761:fly cf87
+143761:explore
+143761:seek
+143761:use 616
+143761:fly cf88
+143761:explore
+143761:seek
+143761:use 615
+143761:fly cf89
+143761:explore
+143761:seek
+143761:use 616
+143761:fly cf90
+143761:explore
+143761:seek
+143761:use 615
+143761:fly cf91
+143761:explore
+143761:seek
+143761:use 614
+7735:breed 51 51
+7735:make 18 1
+7735:use 616
+7735:breed 51 51
+7735:breed 54 54
+7735:breed 51 51
+7735:use 657
+7735:make 18 1
+7735:breed 51 51
+7735:use 657
+7735:make 18 1
+7735:breed 51 51
+7735:breed 54 54
+7735:breed 51 51
+7735:make 18 1
+7735:use 616
+7735:breed 51 51
+7735:breed 54 54
+7735:breed 51 51
+7735:use 657
+7735:make 18 1
+62878:stop
+62878:get garrison 12
+62878:get garrison 16
+62878:attack 140512
+62878:execute 140512
+62878:attack 4866
+62878:execute 140512
+62878:move out
+62878:attack 140512
+62878:execute 140512
+62878:give garrison 12
+62878:give garrison 16
+62878:get garrison 11
+62878:move 4866
+62878:use 722
+62878:repair
+62878:move out
+62878:give garrison 11
+62878:make 74
+62878:give garrison 74
+62878:use 616
+62878:use 615
+62878:use 614
+62878:use 616
+62878:use 615
+62878:use 616
+62878:use 615
+62878:use 614
+62878:get garrison 11
+62878:move 4866
+62878:use 722
+62878:repair
+62878:move out
+62878:give garrison 11
+62878:make 74
+62878:give garrison 74
+62878:use 616
+62878:use 615
+62878:use 616
+62878:use 615
+62878:use 614
+7691:use 615
+7691:get garrison 11
+7691:quarry
+7691:give garrison 78
+7691:give garrison 11
+7691:use 614
+7691:use 616
+7691:use 615
+7691:use 616
+7691:use 615
+7691:get garrison 11
+7691:quarry
+7691:give garrison 78
+7691:give garrison 11
+7691:use 614
+7691:use 616
+7691:use 615
+7691:use 616
+7691:use 615
+7691:get garrison 11
+7691:quarry
+7691:give garrison 78
+7691:give garrison 11
+7691:use 614
+7691:use 616
+7691:use 615
+7691:use 616
+7691:use 615
+66659:breed 282 282
+66659:breed 54 54
+66659:breed 282 282
+66659:breed 282 282
+66659:breed 54 54
+66659:breed 282 282
+66659:breed 282 282
+66659:breed 54 54
+66659:breed 282 282
+66659:breed 282 282
+66659:breed 54 54
+66659:breed 282 282
+66659:breed 282 282
+66659:breed 54 54
+66659:breed 282 282
+66659:breed 282 282
+66659:breed 54 54
+66659:breed 282 282
+66659:breed 282 282
+66659:breed 54 54
+66659:breed 282 282
+66659:breed 282 282
+66659:breed 54 54
+66659:breed 282 282
+66659:breed 282 282
+8635:use 616
+8635:collect 51
+8635:make 53
+8635:make 53
+8635:use 615
+8635:make 53
+8635:use 614
+8635:make 53
+8635:collect 51
+8635:make 53
+8635:use 616
+8635:make 53
+8635:use 615
+8635:make 53
+8635:collect 51
+8635:make 53
+8635:use 616
+8635:make 53
+8635:use 615
+8635:make 53
+8635:use 614
+8635:collect 51
+8635:make 53
+1618:use 614
+1618:get garrison 11
+1618:move 91139
+1618:repair
+1618:use 723
+1618:repair
+1618:move out
+1618:give garrison 11
+1618:use 616
+1618:use 615
+1618:use 616
+1618:use 615
+1618:use 614
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 281 2
+147004:breed 281 281
+147004:give 8030 281 0
+147004:breed 54 54
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 281 2
+147004:breed 281 281
+147004:give 8030 281 0
+147004:breed 54 54
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 282 2
+147004:breed 282 282
+147004:give 8030 282 0
+147004:breed 54 54
+147004:get 8030 281 2
+147004:breed 281 281
+147004:give 8030 281 0
+147004:breed 54 54
+69562:use 615
+69562:use 614
+69562:get 8030 282 2
+69562:breed 282 282
+69562:give 8030 282 0
+69562:make 18 1
+69562:use 813
+69562:use 616
+69562:use 615
+69562:use 614
+69562:get 8030 282 2
+69562:breed 282 282
+69562:give 8030 282 0
+69562:make 18 1
+69562:use 813
+69562:use 616
+69562:use 615
+69562:use 614
+54172:accept bh3 0
+54172:accept cb5 0
+54172:accept db7 0
+54172:accept df7 0
+54172:accept et5 0
+54172:accept fc3 0
+54172:accept gk5 0
+54172:accept hd3 0
+54172:accept mm9 0
+54172:accept nn3 0
+54172:accept ny7 0
+54172:accept ps4 0
+54172:accept qb2 0
+54172:accept qn5 0
+54172:accept qy4 0
+54172:accept rq7 0
+54172:accept rr7 0
+54172:accept sz5 0
+54172:accept ta8 0
+54172:accept tj7 0
+54172:accept tp2 0
+54172:accept tr5 0
+54172:accept ug3 0
+54172:accept uh5 0
+54172:accept vy5 0
+54172:accept xy3 0
+54172:accept yf7 0
+54172:accept Yg9 0
+54172:accept ym3 0
+54172:accept yv5 0
+54172:accept zy6 0

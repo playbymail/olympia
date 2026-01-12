@@ -1,0 +1,11 @@
+
+BURY  item  qty
+
+Used to dispose of dead bodies.  Specify the item number and number
+of corpses to be buried.  Quantity defaults to all.
+
+
+TELL <who> <what>
+
+Tell another character about a hidden route or location.
+

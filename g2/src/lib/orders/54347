@@ -1,0 +1,136 @@
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+85702:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+135373:breed 282 282
+4075:stop
+4075:move d754
+4075:move w63
+4075:move s
+4075:move e
+4075:move e
+4075:move e
+4075:breed 282 282
+4075:breed 282 282
+4075:breed 282 282
+4075:breed 282 282
+4075:breed 282 282
+117728:fly w
+117728:fly w
+117728:fly w
+117728:fly w
+117728:fly w
+117728:fly w
+117728:fly w
+117728:fly w
+117728:fly w
+117728:fly n
+117728:fly n
+117728:fly n
+117728:fly r99
+117728:study 610
+117728:study 610
+5884:sail w
+5884:sail n
+5884:sail w
+5884:sail n
+5884:sail n
+5884:sail c845
+5884:move c845
+5884:explore
+5884:explore
+5884:explore
+5884:explore
+1006:study 641
+1006:study 637
+1006:research 670
+1006:research 670
+1006:research 670
+1006:research 670
+54347:accept 0 0
+54347:admit qs7 cv9
+89213:study 732
+89213:study 732
+89213:make 94
+89665:move out
+89665:stack garrison
+89665:study 639
+89665:study 639
+89665:post 2
+89665:All done with the tower.
+89665:Thanks Jeff!
+89665:use 802
+97190:move w607
+97190:get 1006 1 2000
+97190:move out
+97190:study 630
+97190:study 630
+8721:move p44
+8721:give 1143 285 0
+8721:give m067 52 0
+8721:wait item 54
+8721:fly out
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+8721:fly w
+1562:stop
+1562:attack 1699
+1562:use 722
+1562:use 723
+1562:repair
+1562:move out
+1562:execute
+1562:make 73
+7743:move s584
+7743:move cg25
+7743:use 641 0
+7743:wait stack 5681
+7743:use 641 1
+7743:move s584
+7743:move vf08
+7743:move n
+7743:move e
+7743:move b579
+7743:move ap27
+7743:move e
+7743:move s
+7743:move s
+7743:move s
+7743:move s
+7743:move e
+7743:move e
+7743:move e
+7743:move e

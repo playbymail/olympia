@@ -1,0 +1,406 @@
+13183:0::0:0:Garrison~[4541], garrison, with one~soldier, nine~peasants guards Nd E'riu~[bp83].
+10772:0::0:0:Garrison~[m694], garrison, with ten~peasants, one~giant lizard, four~catapults guards Forest~[aj72].
+13282:0::0:0:Garrison~[x237], garrison, with ten~soldiers guards Nd E'riu~[bq82].
+10250:0::0:0:Garrison~[103936], garrison, with ten~peasants guards Forest~[ac50].
+13282:0::0:4:It has begun to rain.
+11898:0::0:4:It has begun to rain.
+10772:0::0:30:It has stopped raining.
+13183:0::0:30:It has stopped raining.
+10250:0::0::
+10250:0::0::Province controlled by Home~[p009], castle, in Mountain~[ah59]
+10250:0::0::Ruled by [8116], duke
+10250:0::0::
+10250:0::0::Routes leaving Forest: 
+10250:0::3::North, to Ocean~[ab50], Great Sea, 2~days
+10250:0::3::East, to Ocean~[ac51], Great Sea, 2~days
+10250:0::3::South, to Swamp~[ad50], 14~days
+10250:0::3::West, to Swamp~[ac49], 14~days
+10250:0::0::
+10250:0::0::Inner locations:
+10250:0::3::Yew grove~[x051], yew grove, 1 day
+10250:0::0::
+10250:0::0::It is raining.
+10250:0::0::
+10250:0::0::Seen here:
+10250:0::0/3::   Garrison~[103936], garrison, on guard, with ten~peasants
+10250:0::0::
+10250:0::0::Ships docked at port:
+10250:0::3/3::TGOMS Braveheart~[x895], roundship, 7% loaded, defense~10, 13%~damaged, owner:
+10250:0::0/6:: *    Hugh O'Neil The Guild Of Merchants~[6510]
+10772:0::0::
+10772:0::0::Province controlled by Home~[p009], castle, in Mountain~[ah59]
+10772:0::0::Ruled by [8116], duke
+10772:0::0::
+10772:0::0::Routes leaving Forest: 
+10772:0::3::North, to Ocean~[ah72], Great Sea, 2~days
+10772:0::3::East, to Forest~[aj73], 8~days
+10772:0::3::South, to Plain~[ak72], 7~days
+10772:0::3::West, to Plain~[aj71], 7~days
+10772:0::0::
+10772:0::0::Inner locations:
+10772:0::3::Yew grove~[g804], yew grove, 1 day
+10772:0::0::
+10772:0::0::Seen here:
+10772:0::0/3::   Garrison~[m694], garrison, on guard, with ten~peasants, one~giant lizard, four~catapults
+10772:0::0/3:: * Sean O'Neil~[1606]
+11898:0::0::
+11898:0::0::Routes leaving Ocean: 
+11898:0::3::North, to Ocean~[aw98], 3~days
+11898:0::3::East, to Ocean~[ax99], 3~days
+11898:0::3::South, to Ocean~[az98], 3~days
+11898:0::3::West, to Ocean~[ax97], 3~days
+11898:0::0::
+11898:0::0::Inner locations:
+11898:0::3::Island~[n707], island, 1 day, owner:
+11898:0::0/6:: *    Micheal O'Neil~[5295], with 30~catapults, 21~oxen
+11898:0::0::
+11898:0::0::It is raining.
+13183:0::0::
+13183:0::0::Province controlled by Eldead Castle~[9708], castle, in Mountain~[bf91]
+13183:0::0::Ruled by Claud Badly~[4029], king
+13183:0::0::
+13183:0::0::Routes leaving Nd E'riu: 
+13183:0::3::North, to Mountain~[bn83], 10~days
+13183:0::3::East, to Desert~[bp84], 8~days
+13183:0::3::South, swamp, to Nd E'riu~[bq83], 14~days
+13183:0::3::West, to Plain~[bp82], 7~days
+13183:0::0::
+13183:0::0::Inner locations:
+13183:0::3::Bend E'tair~[r14], city, 1 day
+13183:0::0::
+13183:0::0::Seen here:
+13183:0::0/3::   Garrison~[4541], garrison, on guard, with one~soldier, nine~peasants
+13183:0::0/3:: * Dermot O'Neil, Bishop Of Ulster~[5859], priest
+13282:0::0::
+13282:0::0::Province controlled by Eldead Castle~[9708], castle, in Mountain~[bf91]
+13282:0::0::Ruled by Claud Badly~[4029], king
+13282:0::0::
+13282:0::0::Routes leaving Nd E'riu: 
+13282:0::3::North, to Plain~[bp82], 7~days
+13282:0::3::East, swamp, to Nd E'riu~[bq83], 14~days
+13282:0::3::South, forest, to Nd E'riu~[br82], 8~days
+13282:0::3::West, forest, to Nd E'riu~[bq81], 8~days
+13282:0::0::
+13282:0::0::It is raining.
+13282:0::0::
+13282:0::0::Seen here:
+13282:0::0/3::   Garrison~[x237], garrison, on guard, with ten~soldiers
+13282:0::0/3:: * Patrick O'Neil~[7080]
+5:0::0::
+5:0::0::begin tw6 "Wallace"  # The Celts
+5:0::0::
+5:0::0::unit tw6  # The Celts
+5:0::0::
+5:0::0::unit 5295  # Micheal O'Neil in Island~[n707]
+5:0::0::
+5:0::0::unit 6510  # Hugh O'Neil The Guild Of Merchants in TGOMS Braveheart~[x895]
+5:0::0::
+5:0::0::unit 1606  # Sean O'Neil in Forest~[aj72]
+5:0::0::
+5:0::0::unit 5859  # Dermot O'Neil, Bishop Of Ulster in Nd E'riu~[bp83]
+5:0::0::
+5:0::0::unit 7080  # Patrick O'Neil in Nd E'riu~[bq82]
+5:0::0::
+5:0::0::end
+55166:0::0::
+55166:0::0::Admit permissions:
+55166:0::0::
+55166:0::3::admit 1127 4648
+55166:0::3::admit 5295  ge6
+55166:0::3::admit 6510  ge6
+55166:0::3::admit  tw6  ge6
+55166:0::3::admit n707  ge6
+55166:0::3::admit q541  ge6
+55166:0::0::
+55166:0::0::Unclaimed items:
+55166:0::0::
+55166:0::0::      qty  name                              weight
+55166:0::0::      ---  ----                              ------
+55166:0::0::    3,825  gold~[1]                               0  
+1606:0::3::
+1606:0::3/16::Location:       Forest~[aj72], in Atala
+1606:0::3::Loyalty:        Oath-1
+1606:0::3::Health:         100%
+1606:0::3::Combat:         attack 129, defense 136, missile 0
+1606:0::3::                behind 0  (front line in combat)
+1606:0::3::Break point:    50%
+1606:0::3::
+1606:0::3::Skills known:
+1606:0::6::Combat~[610]
+1606:0::12::Defense~[614], journeyman
+1606:0::12::Swordplay~[616], adept
+1606:0::3::
+1606:0::3::Sean O'Neil~[1606] has no possessions.
+1606:0::3::
+1606:0::3/11::Capacity:  0/100 land (0%)
+1606:0::3::
+5295:0::3::
+5295:0::3/16::Location:       Island~[n707], in Ocean~[ax98], in Great Sea
+5295:0::3::Loyalty:        Oath-1
+5295:0::3::Health:         100%
+5295:0::3::Combat:         attack 255, defense 285, missile 184
+5295:0::3::                behind 0  (front line in combat)
+5295:0::3::Break point:    50%
+5295:0::3::
+5295:0::3::Skills known:
+5295:0::6::Combat~[610]
+5295:0::12::Construct catapult~[613], adept
+5295:0::12::Defense~[614], grand master
+5295:0::12::Archery~[615], master
+5295:0::12::Swordplay~[616], master
+5295:0::12::Weaponsmithing~[617], apprentice
+5295:0::6::Beastmastery~[650]
+5295:0::12::Capture beasts in battle~[652]
+5295:0::12::Breed beasts~[654], master
+5295:0::3::
+5295:0::3::Inventory:
+5295:0::3::{<b>}      qty  name                              weight{</b>}
+5295:0::3::      ---  ----                              ------
+5295:0::3::        1  gold~[1]                               0  
+5295:0::3::       30  catapults~[61]                     9,000   (25,200,25)
+5295:0::3::       21  oxen~[76]                         42,000  cap 31,500
+5295:0::3::                                             ======
+5295:0::3::                                             51,000
+5295:0::3::
+5295:0::3/11::Capacity:  9,000/31,600 land (28%)
+5295:0::3::
+5295:0::3::Pending trades:
+5295:0::3::
+5295:0::6::trade    price    qty   item
+5295:0::6::-----    -----    ---   ----
+5295:0::6:: sell        3     20   clay pot~[95]
+5295:0::3::
+5859:0::3::
+5859:0::3/16::Location:       Nd E'riu~[bp83], in Krussos
+5859:0::3::Loyalty:        Oath-1
+5859:0::3::Health:         100%
+5859:0::3::Combat:         attack 167, defense 246, missile 0
+5859:0::3::                behind 0  (front line in combat)
+5859:0::3::Break point:    50%
+5859:0::3::
+5859:0::3::Skills known:
+5859:0::6::Combat~[610]
+5859:0::12::Construct catapult~[613], master
+5859:0::12::Defense~[614], grand master
+5859:0::12::Swordplay~[616], master
+5859:0::6::Religion~[750]
+5859:0::12::Receive vision~[751], grand master
+5859:0::12::Resurrect dead noble~[752], apprentice
+5859:0::12::Preparatory ritual~[753], grand master
+5859:0::12::Lay to rest~[754], apprentice
+5859:0::12::Remove blessing from soldiers~[755], apprentice
+5859:0::12::Immunity from Vision~[756], apprentice
+5859:0::3::
+5859:0::3::Dermot O'Neil, Bishop Of Ulster~[5859] has no possessions.
+5859:0::3::
+5859:0::3/11::Capacity:  0/100 land (0%)
+5859:0::3::
+6510:0::3::
+6510:0::3/16::Location:       TGOMS Braveheart~[x895], in province Forest~[ac50], in Atala
+6510:0::3::Loyalty:        Oath-2
+6510:0::3::Health:         100%
+6510:0::3::Combat:         attack 80, defense 80, missile 0
+6510:0::3::                behind 0  (front line in combat)
+6510:0::3::Break point:    50%
+6510:0::3::
+6510:0::3::Skills known:
+6510:0::6::Shipcraft~[600]
+6510:0::12::Sailing~[601], grand master
+6510:0::6::Trade~[730]
+6510:0::12::Find tradegood for sale~[732], journeyman
+6510:0::12::Find market for tradegood~[733], apprentice
+6510:0::3::
+6510:0::3::Inventory:
+6510:0::3::{<b>}      qty  name                              weight{</b>}
+6510:0::3::      ---  ----                              ------
+6510:0::3::       10  jade~[q787]                        1,000  
+6510:0::3::        5  obsidian~[s495]                      500  
+6510:0::3::                                             ======
+6510:0::3::                                              1,500
+6510:0::3::
+6510:0::3/11::Capacity:  1,500/100 land (1500%)
+6510:0::3::
+6510:0::3::Pending trades:
+6510:0::3::
+6510:0::6::trade    price    qty   item
+6510:0::6::-----    -----    ---   ----
+6510:0::6::  buy       22      7   sugar~[d944]
+6510:0::3::
+7080:0::3::
+7080:0::3/16::Location:       Nd E'riu~[bq82], in Krussos
+7080:0::3::Loyalty:        Oath-1
+7080:0::3::Health:         100%
+7080:0::3::Combat:         attack 80, defense 80, missile 0
+7080:0::3::                behind 0  (front line in combat)
+7080:0::3::Break point:    50%
+7080:0::3::
+7080:0::3::Skills known:
+7080:0::6::Construction~[680]
+7080:0::6::Forestry~[700]
+7080:0::12::Harvest lumber~[702], master
+7080:0::12::Harvest yew~[703], apprentice
+7080:0::12::Harvest mallorn wood~[705], apprentice
+7080:0::12::Harvest opium~[706], adept
+7080:0::12::Improve opium production~[707], adept
+7080:0::6::Trade~[730]
+7080:0::12::Find tradegood for sale~[732], apprentice
+7080:0::12::Find market for tradegood~[733], apprentice
+7080:0::3::
+7080:0::3::Patrick O'Neil~[7080] has no possessions.
+7080:0::3::
+7080:0::3/11::Capacity:  0/100 land (0%)
+7080:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Celts~[tw6].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/tw6/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [tw6]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         5  89th   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               1  110th  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   28/74  77th   
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         647/31,919  52nd   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  34     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  a032 x523 a082 90565 147358
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::5295   n707   o1    100  0       1                            Micheal O'Neil
+0:0::0::6510   x895   o2    100  0                                    Hugh O'Neil
+0:0::0::1606   aj72   o1    100  0                                    Sean O'Neil
+0:0::0::5859   bp83   o1    100  0                                    Dermot O'Neil,
+0:0::0::7080   bq82   o1    100  0                                    Patrick O'Neil
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                                 1                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Great Sea
+0:0::0::  Ocean~[ax98]
+0:0::0::    Island~[n707]                  Micheal O'Neil~[5295]
+0:0::0::Atala
+0:0::0::  Forest~[ac50]
+0:0::0::      TGOMS Braveheart~[x895]      Hugh O'Neil The Guild Of Merchants~[6510]
+0:0::0::  Forest~[aj72]                    Sean O'Neil~[1606]
+0:0::0::Krussos
+0:0::0::  Nd E'riu~[bp83]                  Dermot O'Neil, Bishop Of Ulster~[5859]
+0:0::0::  Nd E'riu~[bq82]                  Patrick O'Neil~[7080]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  5295      51,100     22,600  28%                                
+0:0::0::  6510       1,600    (1,400)  --                                 
+0:0::0::  1606         100        100   0%                                
+0:0::0::  5859         100        100   0%                                
+0:0::0::  7080         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Celts~[tw6]"><font size=+1><b>The Celts~[tw6]</b></font>
+1:2::0::<hr>
+1:1::0::The Celts~[tw6]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55166
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Micheal O'Neil~[5295]"><font size=+1><b>Micheal O'Neil~[5295]</b></font>
+1:2::0::<hr>
+1:1::0::Micheal O'Neil~[5295]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5295
+1:0::0::
+1:2::0::
+1:2::0::<name="Hugh O'Neil The Guild Of Merchants~[6510]"><font size=+1><b>Hugh O'Neil The Guild Of Merchants~[6510]</b></font>
+1:2::0::<hr>
+1:1::0::Hugh O'Neil The Guild Of Merchants~[6510]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6510
+1:0::0::
+1:2::0::
+1:2::0::<name="Sean O'Neil~[1606]"><font size=+1><b>Sean O'Neil~[1606]</b></font>
+1:2::0::<hr>
+1:1::0::Sean O'Neil~[1606]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1606
+1:0::0::
+1:2::0::
+1:2::0::<name="Dermot O'Neil"><font size=+1><b>Dermot O'Neil</b>, Bishop Of Ulster~[5859]</font>
+1:2::0::<hr>
+1:1::0::Dermot O'Neil, Bishop Of Ulster~[5859]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5859
+1:0::0::
+1:2::0::
+1:2::0::<name="Patrick O'Neil~[7080]"><font size=+1><b>Patrick O'Neil~[7080]</b></font>
+1:2::0::<hr>
+1:1::0::Patrick O'Neil~[7080]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7080
+1:2::0::
+1:2::0::<name="Ocean~[ax98]"><font size=+1><b>Ocean~[ax98]</b>, ocean, in Great Sea</font>
+1:2::0::<hr>
+1:1::0::Ocean~[ax98], ocean, in Great Sea
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11898
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ac50]"><font size=+1><b>Forest~[ac50]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[ac50], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10250
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[aj72]"><font size=+1><b>Forest~[aj72]</b>, forest, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[aj72], forest, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10772
+1:0::0::
+1:2::0::
+1:2::0::<name="Nd E'riu~[bp83]"><font size=+1><b>Nd E'riu~[bp83]</b>, plain, in Krussos, civ-1</font>
+1:2::0::<hr>
+1:1::0::Nd E'riu~[bp83], plain, in Krussos, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13183
+1:0::0::
+1:2::0::
+1:2::0::<name="Nd E'riu~[bq82]"><font size=+1><b>Nd E'riu~[bq82]</b>, forest, in Krussos, civ-1</font>
+1:2::0::<hr>
+1:1::0::Nd E'riu~[bq82], forest, in Krussos, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13282
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

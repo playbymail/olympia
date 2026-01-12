@@ -1,0 +1,544 @@
+9509:sail up
+9509:move out
+9509:sail up
+9509:move 5253
+9509:attack 5253
+9509:make 75 30
+9509:sail up
+9509:move out
+9509:sail up
+9509:move 5253
+9509:attack 5253
+9509:make 75 30
+9509:sail up
+9509:move out
+9509:sail up
+9509:move 5253
+9509:attack 5253
+9509:make 75 30
+9509:sail up
+9509:move out
+9509:sail up
+9509:move 5253
+9509:attack 5253
+9509:make 75 30
+9509:sail up
+9509:move out
+9509:sail up
+9509:move 5253
+9509:attack 5253
+9509:make 75 30
+2300:train 13
+2300:train 22
+9540:breed 54 54
+9540:breed 54 54
+9540:breed 54 54
+9540:breed 54 54
+9540:breed 54 54
+9540:breed 54 54
+9540:breed 54 54
+9540:breed 54 54
+9540:breed 54 54
+145685:stop
+145685:sail up
+145685:stack 97181
+145685:give 97181 12
+145685:give 97181 16
+145685:give 97181 75
+145685:sail up
+145685:get 97181 12 23
+145685:get 97181 75 23
+145685:train 16
+145685:give 99167 16
+145685:give 97181 16
+93772:move e n
+93772:move e n
+84081:move ac77
+84081:wait stack 119121
+84081:move m315
+84081:move za46
+84081:move ka49
+5637:give 99167 12
+5637:give 99167 75
+5637:give 99167 16
+5637:get 99167 10 12
+5637:train 12
+5637:give 99167 12
+5637:get 99167 12 12
+5637:get 99167 75 12
+5637:train 16
+5637:give 99167 16
+3276:stop
+3276:use 753
+3276:use 751 b193
+3276:use 753
+3276:use 751 b193
+3276:use 753
+3276:use 751 b193
+3276:use 753
+3276:use 756 3276
+3276:use 756 3276
+3276:use 756 3276
+3276:use 756 3276
+3276:use 756 3276
+3276:use 756 3276
+7116:breed 54 54
+7116:breed 54 54
+7116:breed 54 54
+7116:breed 54 54
+7116:breed 54 54
+7116:breed 54 54
+7116:breed 54 54
+77322:stop
+77322:sail up
+77322:get 97181 54 70
+77322:move h434
+77322:move sa48
+77322:wait loc sa48
+77322:move jk07 s
+77322:move nw87 w
+77322:wait loc nw87
+77322:move n526
+77322:move af74 out
+77322:move out
+77322:move out
+56754:accept 0 0
+56754:rumor 0
+56754:
+56754:  From the war diaries of Keldar, Commander 1st Air Corps:
+56754:
+56754:
+56754:  The Early Years
+56754:  ---------------
+56754:
+56754:  First landfall was made on Atnos, soon after setting sail.  Despite
+56754:  a serious sentimental attachment to the place, we decided to press
+56754:  on.  When we struck Krussos, we knew we had found a home.  Scouts
+56754:  were dispatched, and an expedition to circumnavigate the island
+56754:  was launched.  At the time, we had no idea how huge Krussos would
+56754:  prove to be.
+56754:
+56754:  Other factions in the alliance settled into the castle routine,
+56754:  but we chose to remain largely unencumbered.  A small castle
+56754:  was eventually built as a base of operations, but this was later
+56754:  razed.  It was during this period that we made a significant
+56754:  decision that would later prove to be a serious mistake: upon
+56754:  our arrival, we had pored over the available texts on Noble Lineage
+56754:  and Inheritance, and concluded that the only way to expand our scope
+56754:  and reach was to quest extensively for control artifacts, since the
+56754:  natural laws limited our body of nobles.  In retrospect, seeking
+56754:  loopholes in the Inheritance laws would have been a more productive
+56754:  undertaking.
+56754:
+56754:  Much knowledge and experience was gained during these years, and
+56754:  the War College graduated a number of fine cadets.
+56754:
+56754:  The eastern portion of Krussos was secured at a fairly leisurely
+56754:  pace.  A border with the Northern Lights Alliance was set up near the
+56754:  middle of Krussos, and a small enclave in the southeast held by another
+56754:  group was tolerated for some time, until repeated border violations
+56754:  lead to their demise.  The sudden and unexpected collapse of the
+56754:  Northern Lights Alliance, and some adroit diplomacy by others in our
+56754:  own alliance, left us in control of the entire continent.  We were in
+56754:  no particular hurry to proclaim a king however, and indeed this did
+56754:  not occur during the period when we were still part of Krussos.
+56754:
+56754:  A few of the factions decided to resign from the Krussos alliance
+56754:  and join with the groups on Atala.  We toyed with the notion, but
+56754:  eventually the Grand Council decided that there was just too much
+56754:  peace in the area, and while leaving Krussos did indeed seem indicated,
+56754:  joining Atala would not further our own goals.  By this time we had
+56754:  wide ranging scouts reporting on the world, and many possible avenues
+56754:  for growth.  It seemed an ideal time to leave the cradle and set forth
+56754:  on our own path.
+56754:
+56754:  We parted ways with Krussos under friendly circumstances, handing
+56754:  over our lands and resigning our commissions.  The Nagus even managed
+56754:  to get one of his people into the distribution list for the monthly
+56754:  Atala garrison reports (even rising to become head of the chain!),
+56754:  despite never having any actual presence on Atala at all.
+56754:
+56754:  We had spent nearly three Great Cycles learning and preparing, and
+56754:  allowing the Great Wars on Provinia to play themselves out.  It
+56754:  was now time to enter the fray.
+56754:
+56754:end
+74610:sail up
+74610:stack 97181
+74610:get 97181 12 23
+74610:get 97181 75 23
+74610:train 16
+74610:give 99167 16
+74610:give 97181 16
+97181:stop
+97181:get garrison 20
+97181:wait time 1
+97181:move h434
+97181:move sa48
+97181:wait loc sa48
+97181:give 8259 75 10
+97181:give 124616 75 10
+97181:give 126846 75 10
+97181:give 102453 75 10
+97181:give 130482 75 10
+97181:give 6679 75 10
+97181:give 80581 75 10
+97181:give 102158 75 10
+97181:give 133664 75 10
+97181:give 85639 75 10
+97181:give 142656 75 10
+97181:give 100912 75 10
+97181:give 105397 75 10
+97181:give 103783 75 10
+97181:give 91617 75 10
+97181:give 3764 75 10
+97181:give 97334 75 10
+97181:give 118569 75 10
+97181:give 118511 75 10
+97181:give 118594 75 10
+97181:give 117496 75 10
+97181:give 8803 75 10
+97181:give 137416 75 10
+97181:give 137028 75 10
+97181:give 132783 75 10
+97181:give 101093 75 10
+97181:give 90474 75 10
+97181:give 79153 75 10
+97181:give s569 75 10
+97181:give h126 75 10
+97181:give g499 75 10
+97181:give 113826 75 10
+97181:give 106638 75 10
+97181:give r090 75 10
+97181:give 2278 75 10
+97181:give 138287 75 10
+97181:give 6532 75 10
+97181:give 91599 75 10
+97181:give 126290 75 10
+97181:give a684 75 10
+97181:give j548 75 10
+97181:give 142187 75 10
+97181:give b590 75 10
+97181:give 149190 75 10
+97181:give 118896 75 10
+97181:give 83981 75 10
+97181:give 118696 75 10
+97181:give 8259 12 14
+97181:give 124616 12 14
+97181:give 126846 12 14
+97181:give 102453 12 14
+97181:give 130482 12 14
+97181:give 6679 12 14
+97181:give 80581 12 14
+97181:give 102158 12 14
+97181:give 133664 12 14
+97181:give 85639 12 14
+97181:give 142656 12 14
+97181:give 100912 12 14
+97181:give 105397 12 14
+97181:give 103783 12 14
+97181:give 91617 12 14
+97181:give 3764 12 14
+97181:give 97334 12 14
+97181:give 118569 12 14
+97181:give 118511 12 14
+97181:give 118594 12 14
+97181:give 117496 12 14
+97181:give 8803 12 14
+97181:give 137416 12 14
+97181:give 137028 12 14
+97181:give 132783 12 14
+97181:give 101093 12 14
+97181:give 90474 12 14
+97181:give 79153 12 14
+97181:give s569 12 14
+97181:give h126 12 14
+97181:give g499 12 14
+97181:give 113826 12 14
+97181:give 106638 12 14
+97181:give r090 12 14
+97181:give 2278 12 14
+97181:give 138287 12 14
+97181:give 6532 12 14
+97181:give 91599 12 14
+97181:give 126290 12 14
+97181:give a684 12 14
+97181:give j548 12 14
+97181:give 142187 12 14
+97181:give b590 12 14
+97181:give 149190 12 14
+97181:give 118896 12 14
+97181:give 83981 12 14
+97181:give 118696 12 14
+97181:give 8259 1 100
+97181:give 124616 1 100
+97181:give 126846 1 100
+97181:give 102453 1 100
+97181:give 130482 1 100
+97181:give 6679 1 100
+97181:give 80581 1 100
+97181:give 102158 1 100
+97181:give 133664 1 100
+97181:give 85639 1 100
+97181:give 142656 1 100
+97181:give 100912 1 100
+97181:give 105397 1 100
+97181:give 103783 1 100
+97181:give 91617 1 100
+97181:give 3764 1 100
+97181:give 97334 1 100
+97181:give 118569 1 100
+97181:give 118511 1 100
+97181:give 118594 1 100
+97181:give 117496 1 100
+97181:give 8803 1 100
+97181:give 137416 1 100
+97181:give 137028 1 100
+97181:give 132783 1 100
+97181:give 101093 1 100
+97181:give 90474 1 100
+97181:give 79153 1 100
+97181:give s569 1 100
+97181:give h126 1 100
+97181:give g499 1 100
+97181:give 113826 1 100
+97181:give 106638 1 100
+97181:give r090 1 100
+97181:give 2278 1 100
+97181:give 138287 1 100
+97181:give 6532 1 100
+97181:give 91599 1 100
+97181:give 126290 1 100
+97181:give a684 1 100
+97181:give j548 1 100
+97181:give 142187 1 100
+97181:give b590 1 100
+97181:give 149190 1 100
+97181:give 118896 1 100
+97181:give 83981 1 100
+97181:give 118696 1 100
+97181:wait time 1
+97181:give 99167 1 0 5000
+97181:give 99167 10
+97181:give 99167 12
+97181:give 99167 13
+97181:give 99167 14
+97181:give 99167 15
+97181:give 99167 16
+97181:give 99167 20
+97181:give 99167 21
+97181:give 99167 22
+97181:give 99167 55
+97181:give 99167 61
+97181:give 99167 271
+97181:give 99167 282
+97181:give 99167 287
+97181:give 99167 289
+97181:give 99167 291
+97181:give 99167 292
+97181:give 99167 a345
+97181:give 99167 g022
+97181:give 99167 k117
+97181:give 99167 129285
+97181:give 99167 129415
+97181:give 99167 143088
+129139:sail up
+129139:stack 97181
+129139:get 97181 12 23
+129139:get 97181 75 23
+129139:train 16
+129139:give 99167 16
+129139:give 97181 16
+120532:sail up
+120532:stack 97181
+120532:get 97181 12 23
+120532:get 97181 75 23
+120532:train 16
+120532:give 99167 16
+120532:give 97181 16
+94648:sail up
+94648:stack 97181
+94648:get 97181 12 23
+94648:get 97181 75 23
+94648:train 16
+94648:give 99167 16
+94648:give 97181 16
+140431:sail up
+140431:stack 97181
+140431:get 97181 12 23
+140431:get 97181 75 23
+140431:train 16
+140431:give 99167 16
+140431:give 97181 16
+92963:sail up
+92963:stack 97181
+92963:get 97181 12 23
+92963:get 97181 75 23
+92963:train 16
+92963:give 99167 16
+92963:give 97181 16
+60193:move cz28
+60193:contact bj3 bb8 gn5 fr8 fh2 ue5 aw9 ua7
+60193:make 18
+109532:move n
+109532:move h434
+109532:move sa48
+109532:stack 99167
+109532:study 611
+109532:study 654
+109532:study 654
+109532:oath 1
+109532:make 18
+109532:wait day 30
+109532:unstack
+79289:give 8259 10 10
+79289:give 8259 12 4
+79289:give 124616 10 10
+79289:give 124616 12 4
+79289:give 126846 10 10
+79289:give 126846 12 4
+79289:give 102453 10 10
+79289:give 102453 12 4
+79289:give 130482 10 10
+79289:give 130482 12 4
+79289:give 6679 10 10
+79289:give 6679 12 4
+79289:give 80581 10 10
+79289:give 80581 12 4
+79289:give 102158 10 10
+79289:give 102158 12 4
+79289:give 133664 10 10
+79289:give 133664 12 4
+79289:give 85639 10 10
+79289:give 85639 12 4
+79289:give 142656 10 10
+79289:give 142656 12 4
+79289:give 100912 10 10
+79289:give 100912 12 4
+79289:give 105397 10 10
+79289:give 105397 12 4
+79289:give 103783 10 10
+79289:give 103783 12 4
+79289:give 91617 10 10
+79289:give 91617 12 4
+79289:give 3764 10 10
+79289:give 3764 12 4
+79289:give 97334 10 10
+79289:give 97334 12 4
+79289:give 118569 10 10
+79289:give 118569 12 4
+79289:give 118511 10 10
+79289:give 118511 12 4
+79289:give 118594 10 10
+79289:give 118594 12 4
+79289:give 117496 10 10
+79289:give 117496 12 4
+79289:give 8803 10 10
+79289:give 8803 12 4
+79289:give 137416 10 10
+79289:give 137416 12 4
+79289:give 137028 10 10
+79289:give 137028 12 4
+79289:give 132783 10 10
+79289:give 132783 12 4
+79289:give 101093 10 10
+79289:give 101093 12 4
+79289:give 90474 10 10
+79289:give 90474 12 4
+79289:give 79153 10 10
+79289:give 79153 12 4
+79289:give s569 10 10
+79289:give s569 12 4
+79289:give h126 10 10
+79289:give h126 12 4
+79289:give g499 10 10
+79289:give g499 12 4
+79289:give 113826 10 10
+79289:give 113826 12 4
+79289:give 106638 10 10
+79289:give 106638 12 4
+79289:give r090 10 10
+79289:give r090 12 4
+79289:give 2278 10 10
+79289:give 2278 12 4
+79289:give 138287 10 10
+79289:give 138287 12 4
+79289:give 6532 10 10
+79289:give 6532 12 4
+79289:give 91599 10 10
+79289:give 91599 12 4
+79289:give 126290 10 10
+79289:give 126290 12 4
+79289:give a684 10 10
+79289:give a684 12 4
+79289:give j548 10 10
+79289:give j548 12 4
+79289:give 142187 10 10
+79289:give 142187 12 4
+79289:give b590 10 10
+79289:give b590 12 4
+79289:give 149190 10 10
+79289:give 149190 12 4
+79289:give 118896 10 10
+79289:give 118896 12 4
+79289:give 83981 10 10
+79289:give 83981 12 4
+79289:give 118696 10 10
+79289:give 118696 12 4
+79289:give 99167 1 0 1000
+79289:give 99167 10
+79289:give 99167 12
+79289:give 99167 75
+99167:give 8259 75 4
+99167:give 124616 75 4
+99167:give 126846 75 4
+99167:give 102453 75 4
+99167:give 130482 75 4
+99167:give 6679 75 4
+99167:give 80581 75 4
+99167:give 102158 75 4
+99167:give 133664 75 4
+99167:give 85639 75 4
+99167:give 142656 75 4
+99167:give 100912 75 4
+99167:give 105397 75 4
+99167:give 103783 75 4
+99167:give 91617 75 4
+99167:give 3764 75 4
+99167:give 97334 75 4
+99167:give 118569 75 4
+99167:give 118511 75 4
+99167:give 118594 75 4
+99167:give 117496 75 4
+99167:give 8803 75 4
+99167:give 137416 75 4
+99167:give 137028 75 4
+99167:give 132783 75 4
+99167:give 101093 75 4
+99167:give 90474 75 4
+99167:give 79153 75 4
+99167:give s569 75 4
+99167:give h126 75 4
+99167:give g499 75 4
+99167:give 113826 75 4
+99167:give 106638 75 4
+99167:give r090 75 4
+99167:give 2278 75 4
+99167:give 138287 75 4
+99167:give 6532 75 4
+99167:give 91599 75 4
+99167:give 126290 75 4
+99167:give a684 75 4
+99167:give j548 75 4
+99167:give 142187 75 4
+99167:give b590 75 4
+99167:give 149190 75 4
+99167:give 118896 75 4
+99167:give 83981 75 4
+99167:give 118696 75 4
+88263:move sa48
+67050:move n
+67050:explore
+67050:explore
+67050:explore
+67050:explore

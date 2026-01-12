@@ -1,0 +1,157 @@
+65989:stop
+65989:accept 0 0
+65989:move in
+65989:move out
+65989:use 615
+65989:use 615
+65989:use 615
+65989:use 615
+65989:use 615
+65989:make 94
+66305:accept 0 0
+66305:move in
+66305:move out
+66305:move n
+66305:move w
+66305:move in
+66305:move out
+66305:move s
+66305:move s
+66305:move in
+66305:move out
+66305:move w
+66305:move w
+66305:move w
+66305:move in
+66305:move out
+66305:explore
+66305:explore
+66305:explore
+66305:explore
+66305:explore
+66305:make 94
+77416:stop
+77416:accept 0 0
+77416:move in
+77416:move out
+77416:move s
+77416:move w
+77416:move w
+77416:move w
+77416:move w
+77416:move s
+77416:move in
+77416:move out
+77416:move s
+77416:move in
+77416:move out
+77416:explore
+77416:explore
+77416:explore
+77416:explore
+77416:explore
+77416:make 94
+78990:stop
+78990:accept 0 0
+78990:use 806 20
+78990:claim 1 100
+78990:study 611
+78990:study 611
+78990:use 614
+78990:use 614
+78990:use 614
+78990:use 614
+78990:use 614
+78990:make 94
+72584:accept 0 0
+72584:contact vg6 ka6 xp6 ur4
+72584:breed 271 271
+72584:breed 271 271
+72584:breed 271 271
+72584:breed 271 271
+72584:breed 271 271
+72584:make 94
+64315:accept 0 0
+64315:contact vg6 ka6 xp6 ur4
+64315:breed 282 282
+64315:breed 282 282
+64315:breed 282 282
+64315:breed 282 282
+64315:breed 282 282
+64315:make 94
+61923:accept 0 0
+61923:contact vg6 ka6 xp6 ur4
+61923:breed 282 282
+61923:breed 282 282
+61923:breed 282 282
+61923:breed 282 282
+61923:breed 282 282
+61923:make 94
+52606:accept 0 0
+124832:stop
+124832:accept 0 0
+124832:seek
+124832:seek
+124832:seek
+124832:seek
+124832:seek
+143361:stop
+143361:accept 0 0
+143361:seek
+143361:seek
+143361:seek
+143361:seek
+143361:seek
+104545:stop
+104545:accept 0 0
+104545:study 883
+104545:study 883
+104545:use 802
+104545:sell 94 15 4
+104545:make 94
+84005:stop
+84005:accept 0 0
+84005:sell 94 6 4
+84005:drop t360 0
+84005:drop 115399 0
+84005:give 99866 1 15000
+84005:give 99866 19 1
+84005:unstack 99866
+84005:move out
+84005:contact vg6 ka6 xp6 ur4
+84005:give p803 1 0 15000
+84005:give p803 54 3
+84005:give p803 75 10
+84005:give p803 94 6
+84005:give p803 95 29
+84005:move t75
+84005:move 1212
+84005:sail s
+84005:sail s
+84005:sail s
+84005:sail s
+84005:sail w
+84005:sail s
+84005:sail w
+84005:sail s
+84005:sail w
+84005:sail s
+84005:sail w
+84005:sail s
+84005:sail d01
+84005:make 94
+99866:stop
+99866:accept 0 0
+99866:recruit 7
+99866:train 19 7
+99866:wait item 19 7
+99866:wait top
+99866:move 5552
+99866:sail s
+99866:sail w
+99866:sail w
+99866:sail w
+99866:sail w
+99866:sail w
+99866:sail f30
+99866:make 94

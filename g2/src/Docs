@@ -1,0 +1,64 @@
+From rsavoie@lsil.com  Fri Apr 25 09:23:19 1997
+Received: (from smtp@localhost) by xkey.com
+	id JAA08415 for <skrenta@pbm.com>; Fri, 25 Apr 1997 09:23:19 -0700
+Received: from lsi.lsil.com(147.145.40.2) by xkey.com via smtp (V1.3)
+	id sma008413; Fri Apr 25 09:23:16 1997
+Received: from mhost.lsil.com (mhost.lsil.com [147.145.69.84]) by lsi.lsil.com with SMTP id JAA01440
+  (8.6.12/IDA-1.6 for <skrenta@pbm.com>); Fri, 25 Apr 1997 09:04:31 -0700
+Received: from kansys02 by mhost.lsil.com id AA09265
+  (4.1/SMI-4.1 for skrenta@pbm.com); Fri, 25 Apr 97 09:03:51 PDT
+Received: from kanstn20 by kansys02 (4.1/SMI-4.1)
+	id AA06835; Fri, 25 Apr 97 12:03:45 EDT
+Sender: rsavoie@lsil.com
+Message-Id: <3360D5E0.3C2E@lsil.com>
+Date: Fri, 25 Apr 1997 12:03:44 -0400
+From: Raymond Savoie <rsavoie@lsil.com>
+Organization: LSI Logic Corp of Canada
+X-Mailer: Mozilla 3.01Gold (X11; I; SunOS 5.5 sun4m)
+Mime-Version: 1.0
+To: Rich Skrenta <skrenta@pbm.com>
+Subject: Problem with accept order in G2, last turn
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: OR
+
+Hi Rich,
+
+I had a problem with the 'accept' order last turn, or at least
+with the documentation of that order.  I tried to allow a
+faction to give me anything, but all transfers were refused.
+
+wg8, I believe, is the correct player entity.  What went wrong?
+
+Selah Tennant [2611]
+ 0: > stop
+ 0: Interrupt current order.
+ 1: > accept 0 wg8  
+ 1: > accept 0 gz5
+ 1: > accept 0 wa5
+ 1: > accept 0 ah7
+ 1: > accept 0 hm7
+ 1: > accept 0 xv6
+ 1: Refused two oxen from Tonka [3880].
+ 1: > wait item 78 1 day 5
+ 1: Refused ten stone from Tonka [3880].
+ 5: Wait finished: today is day 5.
+ 5: > move dg77
+
+
+
+Also please note that the 'Train' order description on the
+web page has old (G1) skill numbers in the table. 
+  ( http://www.pbm.com/oly/g2rules/train.html )
+
+Thanks,
+  Ray
+
+-- 
+____________________________________________________________________
+Raymond Savoie, P.Eng.      -------  LSI Logic Corp. of Canada, Inc.
+Tel:   (613) 592-1263    LSI|LOGIC|  Suite 400, 260 Hearst Way
+Fax:   (613) 592-3253       |     |  Kanata, Ontario, Canada
+email: rsavoie@lsil.com     -------  K2L 3H1
+http://kanwww/~rsavoie/              http://www.lsilogic.com/
+

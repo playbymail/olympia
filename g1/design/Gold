@@ -1,0 +1,244 @@
+Scarred by my experience with the economy in Oly I, I have avoided
+using gold as a primary limit for any important resource:
+
+			main limit
+			----------
+	units		NP's
+	men		time and units
+	skills		time and units
+
+All other products in the game are derived from these inputs, limited
+also by province resources.  There are no supermarkets where goods can
+be bought at artificially low prices.
+
+If I don't assign a gold cost to these activities, gold loses its
+meaning.  What's the point of money if you can't buy anything with it?
+
+Do I need gold at all, then?  Maybe I don't.  But here are some things
+it would be good for:
+
+	o  Gold as an additional limit on activities makes the game
+	   more interesting.
+
+	o  I can use gold as a prize when monsters are killed or
+	   old ruins are found.
+
+	o  Activities such as work, entertainment, "work crowd for
+	   silvers", etc. need to generate gold.
+
+	o  Taxing needs gold.
+
+	o  Entrance fees.
+
+	o  Players like gold [sjc]
+
+Missing from this list are maintenance costs, which I would like
+to leave out of the game because they are annoying.
+
+So to work gold into the system, I must fix some prices.  The important
+ones are the cost of men, and the output of work and tax.
+
+	RECRUIT costs 100 gold per peasant
+	WORK yields 25 gold/week + 2 gold per peasant
+
+There are many suggestions for a taxation system.  The primary choice
+seems to be between one where taxes are levied against real player
+activities, and one which makes taxation a return on economic investment
+in the location.
+
+Plan 1:
+	A ruler invests money in his province through Administration skill.
+	The ruler may obtain a return on his investment through TAX.
+	Warlords may PILLAGE a location, siezing money for themselves
+		and harming the ruler's investment.
+	The ruler may over-tax, thus hurting his investment.
+
+	Concerns:
+		I'm not sure if this would be difficult to tune or not.
+		It seems like it could be made equivalent to the
+		work/recruit cycle.  Yield would be set a 8%, capped for
+		some maximum level of economic development.
+
+		Thus a maxed-out location would be equivalent to n
+		peasants working.
+
+Plan 2:
+	A ruler may impose additional fees to be paid for WORK,
+	RECRUIT, STUDY, etc.
+
+		tax recruit 5	# charge five more for each recruit
+				# extra gold goes to ruler
+
+		tax hire 100
+		tax work 1
+
+	Concerns:
+		Might not be enough players in a location to make this
+		system useful.
+
+
+ *  *  *
+
+This is an examination of the economic balance between maintenance costs
+for men-as-inventory and what they may produce.
+
+	What limits how many men your nobles can recruit?
+	How much does it cost to support your men?
+	How may your men earn money?
+
+Here are the men-as-inventory:
+
+	peasant
+	soldiers (many kinds: soldier archer swordsman knight etc.)
+	worker
+	sailor
+
+Background:
+
+	Peasants are the raw material, harvested through RECRUIT.
+	Locations will have a number of peasants which can be recruited
+	each month by paying them a hiring bonus, say 50 gold/man.  [1]
+
+	As with other kinds of region resources, only so many peasants
+	will be stuffed into locations each month to be recruited.
+
+	Peasants may be processed into the other kinds of men by the
+	use of various training skills.
+
+	The game supplies no other way to get finished men besides
+	peasants.  Players must produce all the sailors, soldiers
+	and workers.
+
+Maintenance costs and production:
+
+	Soldiers, workers and sailors have obvious primary uses.
+	Peasants have no primary use except as a raw material for
+	the other kinds of men.
+
+	We must decide how much to charge each man for maintenance
+	cost, and how much each man may produce with a WORK-like
+	command.  Here are some ideas:
+
+	1.  WORK only makes money for the noble, there is no way
+	    for men-as-inventory to earn gold with a simple command.
+
+	2.  WORK may earn additional money if accompanied by peasants.
+	    Say: peasant maint = 1 gold/month, WORK = 1 gold/week/peasant.
+
+	3.  A sailing skill Fishing may be used by sailors to earn gold
+	    from the sea.  It is tempting to have a token fish item
+	    that the sailors would get from the ocean (resource limited,
+	    of course) and sell in port cities.
+
+	    However, we can ignore that when deciding how much gold this
+	    activity earns:  say, each man earns 1 fish/week, fish can be
+	    sold for 1-2 gold.
+
+	4.  Soldiers TAX or PILLAGE a location.  Say, each soldier would earn
+	    1/2 gold per week.
+
+	    However, there must be a negative consequence of this activity.
+	    Say, each soldier who PILLAGES reduces the recruitable peasants
+	    by one.  Or the demand for fish in port cities.
+
+	    Perhaps one must be the location owner in order to TAX?
+	    But anyone could PILLAGE... ?  Should there even be a TAX command?
+
+	5.  No unique work-like activity suggests itself for workers.
+	    Perhaps they can be used like peasants for the WORK command.
+
+	Simplifying, we get:
+
+	man		maint cost	earn
+	---		----------	----
+	peasant		   1 gold	1 gold/week
+	worker		   1 gold	1 gold/week
+	sailor		   1 gold	1 gold/week
+	soldier		  2+ gold*	1 gold/week
+
+* base soldier; higher trained soldiers cost more, but earn the same pillaging:
+
+	soldier		2 gold
+	archer		3 gold
+	swordsman	3 gold
+	knight		5 gold
+	elite guard	7 gold
+
+
+Exponential growth
+------------------
+
+We want to plug any holes in growth limits for the men-as-inventory.
+Since we have a firm hand on the number of units, however, we can
+simply use number-of-men caps as a last resort:
+
+	WORK		up to 20 men
+	fishing		resource limited
+	tax/pillage	resource limited (depletes peasants from RECRUIT base)
+
+
+Note [1] on RECRUIT
+-------------------
+
+The pool of recruitable peasants is finite each turn.  How do we
+deal with excess demand?  There are several possible strategies:
+
+	1.  As with the harvesting of other resources in Olympia,
+	    the first unit in the location gets first shot at
+	    taking them, then we go down the list.
+
+	    This is consistent with the other harvesting systems.
+
+	    This favors land owners, who can monopolize recruitment.
+
+	2.  Allow the bonus to be varied.  Recruitment happens
+	    in a phase at the end of the month, with men joining
+	    for the highest bonus.  Choosing between equal bonuses
+	    is made randomly.
+
+	    This favors rich players.
+
+	3.  Don't vary the bonus, but choose randomly between all
+	    the units recruiting.  Everyone gets a fair chance.
+
+A wrinkle is that there are some skill uses which also perform recruitment.
+Whipping up a religious fervor in a crowd and getting them to follow you,
+using that silver tongue to convince peasants to join your cause, etc.
+For #2 and #3, I would have these skill uses take peasant out of the pool
+before the general RECRUIT phase occurred at the end of the turn.
+
+
+
+
+Provinces are rated on their economic development on a 1-100 scale.
+
+Economic development determines:
+
+	Number of WORK jobs available		= n (/ 5 ?)
+	Number of recruitable peasants		= n / 10
+	Amount produced from taxation
+	Entertainment jobs available		= n / 10
+
+
+TAX <level>
+
+Where level = 1 to 5
+
+Lowers econ development by ...
+
+
+PILLAGE
+
+Lowers econ development.
+
+
+DEPUTIZE
+	Allow designated unit to tax, make attacks.
+
+
+Ways to invest:
+	Hold a festival, costs x
+	Improve city administration
+	Hold king's court
+	Improve city sewers
+

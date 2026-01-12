@@ -1,0 +1,190 @@
+76024:stop
+76024:accept 0 0
+76024:buy r607 1 22
+76024:buy h415 1 22
+76024:buy f176 1 30
+76024:buy a470 1 27
+76024:buy 100107 1 97
+76024:buy 81811 1 22
+76024:buy 136641 1 10
+76024:move g352
+76024:sail s
+76024:sail s
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail w
+76024:sail n
+76024:sail w
+76024:sail w
+76024:sail p73
+76024:move out
+61373:accept 0 0
+61373:collect 31
+61373:use 616
+61373:use 614
+61373:use 615
+61373:use 616
+61373:use 614
+61373:use 615
+61373:make 94
+75407:accept 0 0
+75407:move e
+75407:explore
+75407:explore
+75407:explore
+75407:explore
+75407:explore
+75407:make 94
+67531:stop
+67531:accept 0 0
+67531:move s
+67531:explore
+67531:explore
+67531:explore
+67531:explore
+67531:explore
+67531:make 94
+71078:accept 0 0
+71078:collect 31
+71078:use 616
+71078:use 614
+71078:use 615
+71078:use 616
+71078:use 614
+71078:use 615
+71078:make 94
+69671:stop
+69671:accept 0 0
+69671:name g819 "842"
+69671:study 611
+69671:study 611
+69671:move w
+69671:contact vg6
+69671:give p803 84 15
+69671:fly e
+69671:fly e
+69671:fly e
+69671:fly e
+69671:fly e
+69671:fly e
+69671:fly n
+69671:fly n
+69671:fly n
+69671:move in
+69671:stack garrison
+69671:explore
+69671:explore
+69671:explore
+69671:explore
+69671:explore
+69671:make 94
+67103:stop
+67103:accept 0 0
+67103:name 133466 "906"
+67103:study 611
+67103:study 611
+67103:use 902 905
+67103:use 902 904
+67103:explore
+67103:explore
+67103:explore
+67103:explore
+67103:explore
+67103:make 94
+70803:stop
+70803:accept 0 0
+70803:contact vg6 xp6 ka6 ur4
+70803:explore
+70803:explore
+70803:explore
+70803:explore
+70803:explore
+70803:make 94
+61575:accept 0 0
+61575:move s
+61575:move s
+61575:move s
+61575:move s
+61575:move e
+61575:move e
+72559:accept 0 0
+72559:contact vg6 ka6 xp6 ur4
+72559:breed 282 282
+72559:breed 282 282
+72559:breed 282 282
+72559:breed 282 282
+72559:breed 282 282
+72559:make 94
+65418:stop
+65418:accept 0 0
+65418:collect 64
+65418:move out
+65418:move w
+65418:move f843
+65418:collect 65
+65418:make 84
+55526:accept 0 0
+63764:stop
+63764:accept 0 0
+63764:seek
+63764:seek
+63764:seek
+63764:seek
+63764:seek
+130236:stop
+130236:accept 0 0
+130236:seek
+130236:seek
+130236:seek
+130236:seek
+130236:seek
+70991:stop
+70991:accept 0 0
+70991:move 108989
+70991:use 721
+70991:use 722
+70991:repair
+70991:move out
+70991:make 74
+70991:move out
+70991:give garrison 74 0
+70991:move g174
+74304:stop
+74304:accept 0 0
+74304:buy f516 1 13
+74304:buy w003 1 11
+74304:buy 146446 1 36
+74304:buy 110533 1 14
+74304:buy 81552 1 56
+74304:buy 87914 1 150
+74304:move 1486
+74304:sail s
+74304:sail s
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail w
+74304:sail n
+74304:sail w
+74304:sail w
+74304:sail p73
+74304:move out

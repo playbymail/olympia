@@ -1,0 +1,734 @@
+2234:stop
+2234:move out
+2234:recruit 10
+2234:use 756
+2234:train 12 7
+2234:move 1893
+2234:train 17 30
+2234:move out
+2234:move 1893
+2234:train 17
+2234:use 756
+9624:move zh30
+9624:move mc94
+9624:move x819
+9624:quest
+9624:quest
+9624:explore
+9624:explore
+9477:stop
+9477:give garrison 10 0
+9477:take garrison 12 0
+9477:take garrison 16 0
+9477:take garrison 13 0
+9477:attack 4166 1
+9477:give garrison 13 0
+9477:attack 109954
+9477:execute
+9477:give garrison 12 0
+9477:give garrison 16 0
+9477:give garrison 15 0 4
+9477:take garrison 11 5
+9477:move f767
+9477:yew
+9477:move out
+9477:take garrison 11 10
+9477:wood
+9477:give garrison 77 0
+9477:move 4166
+9477:repair
+9477:move out
+9477:give garrison 68 0 5
+9477:give garrison 72 0
+9477:give garrison 11 0
+9477:take garrison 15 0
+9477:move s
+9477:move s
+9477:take garrison 12 0
+9477:take garrison 16 0
+9477:attack 84935 1
+9477:attack 79447
+9477:execute
+9477:give garrison 12 0
+9477:give garrison 16 0
+9477:give garrison 15 0 4
+9477:take garrison 11 5
+9477:move p251
+9477:yew
+9477:move out
+9477:give garrison 11 0
+9477:take garrison 15 0
+9477:take garrison 12 6
+9477:recruit 4
+9477:move 84935
+9477:make 72 1
+9477:train 13
+9477:train 12
+9477:make 72
+9477:train 13
+9477:explore
+9477:explore
+9477:explore
+81003:take garrison 16 0
+81003:train 16
+81003:attack 1229967 1
+81003:attack 132766
+81003:attack 90610
+81003:execute
+81003:give garrison 16 0 9
+81003:take garrison 11 15
+81003:wood
+81003:give garrison 77 0
+81003:move 1229967
+81003:repair
+81003:move out
+81003:give garrison 11 0
+81003:move fm10 n
+81003:honor 300
+81003:take garrison 11 15
+81003:wood
+81003:give garrison 77 0 10
+81003:give garrison 11 0
+81003:take garrison 10 0
+81003:train 12
+81003:train 16
+81003:make 75 6
+81003:train 16
+81003:recruit
+81003:train 12
+81003:recruit
+81003:train 12
+81003:take garrison 11 15
+81003:wood
+81003:give garrison 11 0
+81003:make 75
+81003:train 16
+81003:make 72
+81003:train 13
+81003:move out
+81003:recruit 10
+81003:train 11
+81003:study 670
+81003:study 670
+81003:make 75
+4313:move fg19 e
+4313:move p79
+4313:give 6542 136719 0
+4313:give 6542 79 0
+4313:move out
+4313:move fh19 s
+4313:move fj19 s
+4313:move fk19 s
+4313:move fm19 s
+4313:move k67 
+4313:give z198 100012 0
+4313:stack garrison
+4313:honor 200 
+4313:take z198 112454 0
+4313:take z198 136719 0
+4313:take z198 105712 0
+4313:recruit 3
+4313:give z198 10 0
+4313:take z198 112454 0
+4313:take z198 136719 0
+4313:take z198 54 0 4
+4313:take z198 52 0
+4313:move out
+4313:move w
+4313:move w
+4313:move w
+4313:move n
+4313:move n
+4313:move n
+4313:move w
+4313:move n
+4313:move f86
+4313:stack garrison
+4313:explore
+4313:explore
+4313:explore
+9898:use 922 1383 x656 2
+9898:use 922 136660 86397 32
+9898:use 813
+9898:use 813
+9898:use 813
+9898:use 813
+9898:use 813
+9898:use 813
+9898:use 813
+2314:fly fn12 w
+2314:fly fn11 w
+2314:fly fn10 w
+2314:fly fn09 w
+2314:fly fn08 w
+2314:fly fn07 w
+2314:sell x656 2 201
+2314:move j15
+2314:stack garrison
+2314:use 733 112454
+1695:wait unit m031 day 5
+1695:give m031 136719 0
+1695:give 9898 136719 0
+1695:take m031 103719 0
+1695:move out
+1695:fly s
+1695:fly w
+1695:fly s
+1695:fly fj13 w
+1695:move v43 
+1695:take 122997 103719 0
+1695:take 122997 93972 0
+1695:take 122997 82358 40
+1695:move out
+1695:fly fk13 s 
+1695:fly fk12 w 
+1695:fly fm12 s 
+1695:fly fn12 s 
+1695:fly fp12 w
+1695:fly fp11 w
+1695:fly fp10 w
+1695:fly fp09 w
+1695:move r38
+1695:give 136660 93972 0
+1695:move out
+1695:fly s
+1695:fly w
+1695:fly w
+1695:move f10
+1695:wait unit z102
+1695:give z102 82358 0
+1695:give z102 103719 0
+1695:stack garrison
+1695:use 732
+1695:explore
+1695:explore
+1695:explore
+1695:explore
+78198:use 733 142820
+78198:honor 350
+78198:make 85 1
+78198:train 21 1
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+78198:breed 54 54
+130331:move w
+130331:move w
+130331:move c33
+130331:give 2234 g958 0
+130331:give 2234 v526 0
+130331:take 2234 86397 0
+130331:move out
+130331:move n
+130331:move n
+130331:move n
+130331:move e
+130331:move e
+130331:move n
+130331:move e
+130331:move n
+130331:give garrison x656 0
+130331:move e
+130331:move n
+130331:move e
+130331:move fp09
+130331:move r38
+130331:give 136660 86397 0
+130331:study 700
+130331:study 700
+130331:study 700
+130331:study 680
+136660:breed 54 54
+136660:breed 54 54
+136660:breed 54 54
+136660:study 658
+136660:honor 400
+136660:study 658
+136660:study 658
+136660:breed 54 54
+136660:breed 54 54
+136660:breed 54 54
+136660:breed 54 54
+136660:breed 54 54
+136660:breed 54 54
+136660:breed 54 54
+78102:stop
+78102:buy 145770 0 0
+78102:sell 103719 999 77
+78102:move out
+78102:stack garrison
+78102:use 732
+78102:honor 400
+78102:recruit 7
+78102:move 1484
+78102:train 22
+78102:train 13 14
+78102:train 22 14
+78102:move out
+78102:move 1484
+78102:train 13 15
+78102:train 22 15
+78102:move out
+78102:move 1484
+78102:train 13 15
+78102:train 22 15
+78102:train 16
+78102:move out
+78102:move 1484
+78102:train 12 10
+78102:move out
+78102:move 1484
+78102:train 13
+78102:train 22
+78102:train 12
+119199:give 3466 12 0
+119199:explore
+119199:wait top
+119199:explore
+119199:explore
+1937:use 615
+1937:use 615
+1937:explore
+1937:explore
+1937:explore
+1937:use 615
+1937:use 615
+1937:use 615
+1937:use 615
+1937:use 615
+1937:explore
+74774:move fq07 n 
+74774:move f10 
+74774:wait unit z102
+74774:give z102 82358 0
+74774:take z102 1 2000
+74774:take z102 17 19
+74774:give z102 16 0
+74774:take z102 22 10
+74774:give z102 m193 1
+74774:give z102 n204 1
+74774:give z102 128090 1
+74774:move out 
+74774:give garrison 17 0
+74774:give garrison 22 4
+74774:move fq08 e
+74774:move fp08 n
+74774:recruit 10
+74774:train 12
+74774:train 16
+74774:recruit
+74774:train 12
+74774:train 16
+75259:fly n
+75259:move g49 
+75259:give 82264 105712 0
+75259:give 82264 110481 0
+75259:stack garrison
+75259:study 720
+75259:move out
+75259:fly s
+75259:fly s 
+75259:move v43
+75259:stack garrison
+75259:study 700
+75259:take 122997 82358 0
+75259:take 122997 121780 0
+75259:move out
+75259:fly e
+75259:fly e
+75259:fly e
+75259:fly e
+75259:fly e
+75259:fly n
+75259:fly n
+75259:fly e
+75259:fly n
+75259:move p79
+75259:explore
+75259:explore
+4567:fly fv04 s
+4567:fly fw04 s
+4567:move c33 
+4567:give 2234 g958 0
+4567:take 2234 89035 67
+4567:take 2234 100012 0
+4567:take 2234 125698 0
+4567:move out
+4567:fly fw05 e
+4567:fly fw06 e 
+4567:fly fw07 e 
+4567:fly fw08 e 
+4567:recruit 1
+4567:move m48
+4567:give 5764 125698 0
+4567:give 5764 123837 0
+4567:take 5764 100012 0
+4567:train 12
+4567:take 5764 x656 0
+4567:take 5764 105712 45
+4567:give 5764 12 0
+4567:move out
+4567:fly n
+4567:fly n
+4567:fly w
+4567:fly n
+4567:fly n
+4567:fly n
+4567:fly n
+4567:fly n
+4567:sell x656 999 201
+4567:move j15
+4567:stack garrison
+4567:recruit 10
+4567:train 12
+62460:move rg44 s
+62460:explore
+62460:explore
+62460:move s w n
+62460:explore
+62460:explore
+62460:move s w n
+62460:explore
+62460:explore
+62460:explore
+89557:move w
+89557:move v43
+89557:stack garrison
+89557:give 122997 85034 0
+89557:give 122997 93972 0
+89557:take 122997 82358 107
+89557:take 122997 121780 0
+89557:take 122997 52 0
+89557:take 122997 100012 0
+89557:move out
+89557:move e
+89557:move n
+89557:move e
+89557:take garrison 82358 0
+89557:move n
+89557:move e
+89557:move e
+89557:move e
+89557:move e
+89557:move fg19
+89557:move p79
+89557:seek
+68031:stop
+68031:move out
+68031:stack garrison
+68031:recruit 10
+68031:make 72 1
+68031:train 13 1
+68031:move 3918
+68031:train 22 20
+68031:move out
+68031:stack garrison
+68031:recruit 10
+68031:make 72 11
+68031:train 13 1
+68031:move 3918
+68031:train 13
+68031:train 22
+68031:train 13
+68031:move out
+68031:move 3918
+6542:stop
+6542:recruit 10
+6542:study 670
+6542:study 670
+6542:make 85 1
+6542:train 16 1
+6542:make 72 2
+6542:train 13
+6542:recruit 10
+6542:make 85 5
+6542:make 75 5
+6542:train 16
+6542:train 21
+6542:train 12
+6542:make 75
+6542:train 16
+6754:fly fj15 e
+6754:take garrison 16 16
+6754:take garrison 12 3
+6754:fly fh15 n
+6754:fly fh14 w
+6754:attack 143772 1
+6754:execute
+6754:attack 119863
+6754:execute 
+6754:give garrison 12 0
+6754:give garrison 16 0 9
+6754:take garrison 11 15
+6754:wood 
+6754:give garrison 11 0
+6754:fly fh15 e
+6754:fly fg15 n
+6754:fly fg16 e
+6754:take garrison 10 0
+6754:train 12 0
+6754:recruit 10
+6754:train 12
+6754:make 75 15
+6754:train 16
+6754:recruit 10
+6754:train 12
+122997:stop
+122997:recruit 10
+122997:study 630
+122997:make 75 5
+122997:make 85 3
+122997:train 21
+122997:train 16
+122997:recruit 10
+122997:make 75 10
+122997:train 16
+122997:make 85 10
+122997:recruit 10
+122997:make 75
+122997:train 16
+5764:recruit 10
+5764:train 12
+5764:use 615
+5764:recruit 10
+5764:train 12
+5764:use 615
+5764:use 615
+5764:use 615
+5764:explore
+5764:explore
+82264:stop
+82264:make 75 5
+82264:train 16
+82264:recruit 10
+82264:study 680
+82264:study 680
+82264:train 12 10
+82264:make 75 10
+82264:train 16
+82264:study 680
+82264:study 680
+82264:explore
+82264:recruit
+82264:train 12
+5127:use 655
+5127:breed 54 54
+5127:breed 54 54
+5127:breed 54 54
+5127:breed 54 54
+5127:breed 54 54
+5127:breed 54 54
+5127:use 655
+5127:breed 54 54
+5127:breed 54 54
+5127:breed 54 54
+5127:breed 54 54
+5127:breed 54 54
+5127:breed 54 54
+122761:move n 
+122761:take garrison 22 0
+122761:take garrison 17 0
+122761:move e
+122761:move n
+122761:seek
+101536:use 721
+101536:move out
+101536:take garrison 77 0
+101536:give garrison 77 0
+101536:give garrison 11 0 5
+101536:take garrison 1 0
+101536:give garrison 1 200
+101536:take garrison 74 0
+101536:move fg10
+101536:take garrison 11 0
+101536:wood
+101536:give garrison 11 0
+101536:honor 350
+101536:make 74 1
+101536:recruit
+101536:train 11 5
+101536:train 12 5
+101536:train 20
+101536:make 74
+101536:train 20
+101536:recruit 10
+101536:study 722
+101536:study 722
+101536:recruit
+101536:train 12
+3466:give garrison 11 0
+3466:take garrison 12 3
+3466:move g577
+3466:quest
+3466:move out
+3466:move fs13 s
+3466:move r592
+3466:quest
+3466:move out
+3466:give 119199 15 0
+3466:give 119199 12 0
+3466:unstack 119199
+3466:fly n
+3466:fly n
+3466:fly w
+3466:fly w
+3466:fly w
+3466:move f10
+3466:wait unit z102
+3466:give z102 103719 0
+1383:make 53
+1383:move out
+1383:move 6307
+1383:breed 54 54
+1383:breed 54 54
+1383:move out
+1383:move 6307
+1383:breed 54 54
+1383:breed 54 54
+1383:make 53
+1383:breed 54 54
+1383:breed 54 54
+1383:breed 54 54
+1383:breed 54 54
+1383:make 53
+1383:breed 54 54
+1383:move out
+1383:move 6307
+1383:breed 54 54
+1383:breed 54 54
+1383:breed 54 54
+78619:honor 400
+78619:explore
+78619:explore
+78619:explore
+78619:explore
+78619:explore
+78619:explore
+2166:stop
+2166:give garrison 10 0
+2166:take garrison 20 0
+2166:take garrison 12 0
+2166:attack 9453 1
+2166:attack 88640
+2166:execute
+2166:give garrison 12 0
+2166:give garrison 20 0
+2166:take garrison 11 0
+2166:move 9453
+2166:use 721
+2166:repair
+2166:move out
+2166:give garrison 11 0
+2166:move fh16
+2166:take garrison 12 0
+2166:attack 140580 1
+2166:hostile 101930 134840 125749
+2166:recruit 10
+2166:train 11 5
+2166:give garrison 12 0
+2166:give garrison 10 0
+2166:move 140580
+2166:repair
+2166:use 721
+2166:move out
+2166:give garrison 11 0
+2166:take garrison 10 0
+2166:train 11
+2166:recruit
+2166:make 74
+2166:recruit
+2166:train 11
+2166:honor 250
+9839:stop
+9839:give garrison 12 5
+9839:take garrison 11 0
+9839:wood 
+9839:give garrison 11 0
+9839:give garrison 77 0
+9839:give garrison 82358 0
+9839:move fh16 e
+9839:move fg15 n
+9839:take garrison 12 0
+9839:take garrison 20 0
+9839:attack 143583
+9839:execute
+9839:attack 100072 1
+9839:give garrison 12 0
+9839:give garrison 20 0
+9839:take garrison 11 0
+9839:move 100072
+9839:repair
+9839:move out
+9839:give garrison 11 0
+9839:move fg17
+9839:take garrison 11 0
+9839:wood
+9839:give garrison 11 0 3
+9839:give garrison 15 0 6
+9839:move g153
+9839:collect 64
+9839:make 75
+9839:collect 64
+9839:move out
+9839:recruit 10
+9839:train 12
+9839:train 16
+9839:study 671
+9839:use 615
+96469:move fq07 n
+96469:move fp07 n
+96469:move fn07 n
+96469:move j15 
+96469:sell x656 999 201
+96469:move 6307
+96469:give 1383 x656 0
+96469:move out
+96469:stack garrison
+96469:study 730
+96469:study 610
+96469:recruit
+96469:explore
+96469:explore
+89211:stop
+89211:wait unit m031
+89211:give m031 136719 0
+89211:give m031 13 0
+89211:move out
+89211:move fg14 w
+89211:move fg13 w 
+89211:take garrison 12 0
+89211:take garrison 20 0
+89211:take garrison 16 0
+89211:attack 132246
+89211:attack 3745 1
+89211:execute
+89211:give garrison 12 0
+89211:give garrison 20 0
+89211:give garrison 16 0
+89211:move g49
+89211:take 82264 100012 0
+89211:take 82264 125698 0
+89211:move out
+89211:move fg14 e
+89211:move fg15 e 
+89211:move g49
+89211:give 9898 125698 0
+89211:give 9898 100012 0
+89211:move 3918
+89211:stack m031
+89211:seek

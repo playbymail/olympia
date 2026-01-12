@@ -1,0 +1,270 @@
+8563:move w
+8563:move s
+8563:move s
+8563:move s
+8563:move s
+8563:move s
+8563:move s
+8563:move w
+8563:move s
+8563:move s
+8563:move s
+8563:move s
+8563:move s
+8563:move s
+8563:move w
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 10 280
+8314:breed 286 286
+77907:move e
+77907:explore
+77907:move e
+77907:explore
+77907:move e
+77907:explore
+77907:move e
+77907:explore
+77907:move e
+77907:explore
+77907:move e
+77907:explore
+77907:move e
+77907:explore
+77907:move e
+77907:explore
+77907:move e
+77907:explore
+77907:move e
+8492:move n
+8492:explore
+8492:move n
+8492:explore
+8492:move n
+8492:explore
+8492:move n
+8492:explore
+8492:move n
+8492:explore
+8492:move n
+8492:explore
+8492:move n
+8492:explore
+8492:move n
+8492:explore
+8492:move n
+121282:move n
+121282:explore
+121282:move n
+121282:explore
+121282:move n
+121282:explore
+121282:move n
+121282:explore
+121282:move n
+121282:explore
+121282:move n
+121282:explore
+121282:move n
+121282:explore
+121282:move n
+121282:explore
+121282:move n
+121282:explore
+7058:move n
+7058:explore
+7058:move n
+7058:explore
+7058:move n
+7058:explore
+7058:move n
+7058:explore
+7058:move n
+7058:explore
+7058:move n
+7058:explore
+7058:move n
+7058:explore
+7058:move n
+7058:explore
+7058:move n
+7058:explore
+7568:move n
+7568:explore
+7568:move n
+7568:explore
+7568:move n
+7568:explore
+7568:move n
+7568:explore
+7568:move n
+7568:explore
+7568:move n
+7568:explore
+7568:move n
+7568:explore
+3072:move s
+3072:move s
+3072:move s
+3072:move s
+3072:move s
+3072:move s
+3072:move e
+3072:move e
+3072:move s
+3072:move s
+3072:move s
+3072:move s
+3072:move s
+3072:move s
+3072:move e
+2169:stop
+2169:move s
+2169:move s
+2169:move s
+2169:move s
+2169:move s
+2169:move s
+2169:move e
+2169:move s
+2169:move s
+2169:move s
+2169:move s
+2169:move s
+2169:move s
+2169:move e
+8216:move out
+8216:study 828
+8216:study 828
+8216:make 72 5
+8216:train 13 5
+8216:train 22 5
+8216:give 4238 22
+8216:train 12 1
+8216:study 828
+8216:study 826
+8216:make 72 5
+8216:train 13 5
+8216:train 22 5
+8216:give 4238 22
+8216:train 12 1
+4238:use 813
+4238:use 813
+4238:use 813
+4238:use 813
+4238:use 829 97930 60
+4238:use 813
+4238:use 813
+4238:use 813
+4238:use 813
+4238:use 829 97930 44
+4238:use 813
+4238:use 813
+4238:use 813
+4238:use 813
+4238:use 829 97930 44
+3304:use 922 99167 75
+3304:use 813
+3304:use 813
+3304:use 813
+3304:use 813
+3304:use 922 99167 20
+3304:use 813
+3304:wait item 20
+3304:use 922 99167 20
+3304:use 813
+3304:wait item 20
+3304:use 922 99167 20
+3304:use 813
+3304:wait item 20
+3304:use 922 99167 20
+3304:use 813
+3304:wait item 20
+3304:use 922 99167 20
+84953:stop
+84953:recruit
+84953:move 82880
+84953:train 12 9
+84953:train 20 10
+84953:give 3304 20
+84953:give 3304 10
+84953:move x30
+84953:train 20
+84953:recruit
+84953:move 82880
+84953:train 12 9
+84953:train 20 10
+84953:give 3304 20
+84953:give 3304 10
+84953:move x30
+84953:train 20
+84953:recruit
+84953:move 82880
+84953:train 12 9
+84953:train 20 10
+84953:give 3304 20
+84953:give 3304 10
+84953:move x30
+84953:train 20
+116190:give 2396 83294
+116190:give 2396 8586
+116190:move w05
+52586:accept ak6 0   
+52586:accept em7 0   
+52586:accept en6 0   
+52586:accept fa5 0   
+52586:accept fp4 0   
+52586:accept fr8 0   
+52586:accept fv6 0   
+52586:accept gh2 0   
+52586:accept gn5 0
+52586:accept hh6 0   
+52586:accept jm8 0   
+52586:accept nf6 0   
+52586:accept ps2 0
+52586:accept qx2 0   
+52586:accept rk4 0
+52586:accept rv6 0   
+52586:accept ty4 0   
+52586:accept ua7 0
+52586:accept ug8 0
+52586:accept wb7 0   
+52586:accept wc9 0   
+52586:accept xu3 0   
+52586:accept yq6 0   
+52586:accept zz4 0   
+52586:admit s050 ak6 em7 en6 fa5 fp4 fr8 fv6 gh2 gn5 hh6 jm8 nf6
+52586:admit s050 ps2 qx2 rk4 rv6 ty4 ua7 ug8 wb7 wc9 xu3 yq6 zz4
+52586:admit 82880 ak6 em7 en6 fa5 fp4 fr8 fv6 gh2 gn5 hh6 jm8 nf6
+52586:admit 82880 ps2 qx2 rk4 rv6 ty4 ua7 ug8 wb7 wc9 xu3 yq6 zz4
+52586:admit h811 ak6 em7 en6 fa5 fp4 fr8 fv6 gh2 gn5 hh6 jm8 nf6
+52586:admit h811 ps2 qx2 rk4 rv6 ty4 ua7 ug8 wb7 wc9 xu3 yq6 zz4
+112785:explore
+112785:move n
+112785:explore
+112785:move n
+112785:explore
+112785:move n
+112785:explore
+112785:move n
+112785:explore
+112785:move n
+112785:explore
+112785:move n
+112785:explore
+112785:move n
+112785:explore
+112785:move n
+112785:explore
+112785:move n
+112785:explore
+112785:move n

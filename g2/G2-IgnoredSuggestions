@@ -1,0 +1,1689 @@
+From ferpo@netdex.netdex.com  Fri Jan 24 15:37:44 1997
+Received: (from smtp@localhost) by rt.com
+	id PAA18525 for <skrenta@pbm.com>; Fri, 24 Jan 1997 15:37:44 -0800
+Received: from netdex.netdex.com(165.113.171.2) by rt.com via smtp (V1.3)
+	id sma018520; Fri Jan 24 15:37:35 1997
+Received: from LOCALNAME (host35.netdex.com) by netdex.netdex.com (5.x/SMI-SVR4)
+	id AA03111; Fri, 24 Jan 1997 15:35:44 -0800
+Message-Id: <32E90814.3474@netdex.com>
+Date: Fri, 24 Jan 1997 11:05:56 -0800
+From: Jim Frediani <ferpo@netdex.netdex.com>
+X-Mailer: Mozilla 2.01 (Win16; U)
+Mime-Version: 1.0
+To: skrenta@pbm.com
+Subject: another idea for g2
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: OR
+
+A GET ALL order and a GET EVERY order. And a GIVE ALL and GIVE EVERY 
+order.  ALL means all animate and inanimate objects other than the
+actual unit or garrison of 10 soldiers (or 10 peasants).  Every means 
+every inanimate object in possession.
+
+For example, I'm in the same location as my noble g2r.  I want to leave 
+all my ITEMs and some of my troops.  Instead of imputting 100 lines of 
+GIVE orders, I can
+GIVE g2r EVERY
+GIVE g2r 12 10
+GIVE g2r 286 5
+get g2r 77 75	[ie:  I am taking back the specific amount of wood I 
+		wanted to keep, but all my iron, elfstone, pikes, etc
+		are now in his possession.
+
+You might also write into the code that Ungarrison automatically has the
+garrison GIVE [the ungarrisoning unit's id code] ALL.
+
+Just a thought
+
+Jim
+
+
+From tpt2@BBN.COM  Thu Jan 23 08:10:00 1997
+Received: (from smtp@localhost) by rt.com
+	id IAA05977 for <skrenta@rt.com>; Thu, 23 Jan 1997 08:10:00 -0800
+From: tpt2@BBN.COM
+Message-Id: <199701231610.IAA05977@rt.com>
+Received: from medea.bbn.com(128.89.5.128) by rt.com via smtp (V1.3)
+	id sma005975; Thu Jan 23 08:10:00 1997
+To: skrenta@rt.com
+Subject: G2 Question -Important-
+Date: Thu, 23 Jan 97 11:07:36 -0500
+Status: OR
+
+
+	Is there anything in G2 to prevent defensive abuses of the
+BUILD command? We talked about the problems of people walking around
+with workers and wood, able to insulate themselves from any attack on
+a day's notice by building a structure around them.
+
+	Tom	:-)
+
+
+From aa@astro.keele.ac.uk  Tue Jan 21 15:35:01 1997
+Received: (from smtp@localhost) by rt.com
+	id PAA08180 for <support@pbm.com>; Tue, 21 Jan 1997 15:35:01 -0800
+Received: from aurora.cc.keele.ac.uk(160.5.20.2) by rt.com via smtp (V1.3)
+	id sma008175; Tue Jan 21 15:34:58 1997
+Received: from sumer.astro.keele.ac.uk by gabriel with SMTP (PP); Tue, 21 Jan 1997 23:35:49 +0000
+Received: from kish.astro.keele.ac.uk by sumer.astro.keele.ac.uk; (5.65v3.2/1.1.8.2/09Aug95-0428PM)
+	id AA23564; Tue, 21 Jan 1997 23:31:51 GMT
+Received: by kish.astro.keele.ac.uk; (5.65v3.2/1.1.8.2/25Jul95-0425PM)
+	id AA30637; Tue, 21 Jan 1997 23:31:50 GMT
+Date: Tue, 21 Jan 1997 23:31:50 GMT
+From: Alasdair Allan <aa@astro.keele.ac.uk>
+Message-Id: <9701212331.AA30637@kish.astro.keele.ac.uk>
+To: support@pbm.com
+Subject: Olympia G2
+Status: O
+
+Rich,
+
+Quick question after looking at the "Changes in Olympia G2" page. You give
+the following list for places where skills are taught...
+
+>5.Where skills are taught: 
+> Combat, Construction, Stealth, and Magic are taught in all cities. 
+>
+> Beastmastery is taught in cities in plains provinces. 
+> Mining is taught in cities in mountain provinces. 
+> Forestry is taught in cities in forest provinces. 
+> Shipcraft is taught in all port cities. 
+>
+> Persuasion is taught in 50% of all cities, except safe havens. 
+>
+> Gatecraft is taught only in safe havens. 
+>
+>Non safe haven cities each offer one of the following skills,chosen at random:
+>Alchemy, Weather magic, Scrying, Artifact Construction, or Necromancy. 
+
+You don't seem to mention where you can pick up the new "Trade" catagory
+skill. Is this intentional?
+
+...and of course the question I'm sure you hate by now, any idea on a
+start date yet?
+
+Alasdair.
+-- 
+Alasdair Allan, Dept. of Physics, Keele University, Keele, Staffs, ST5 5BG
+Email: aa@astro.keele.ac.uk,  Web Page: http://www.astro.keele.ac.uk/~aa/  
+Work: +44-(0)1782-621111 ext. 7948,  Mobile: +44-(0)973-793-139 (SMS welcome)	
+PGP key fingerprint: AE A4 88 9B D1 8E 30 EC 4C 11 88 60 9C D4 E4 C8
+
+From lindahl@rt.com  Fri Jan 17 13:49:41 1997
+Received: (from lindahl@localhost) by rt.com
+	id NAA05152 for skrenta; Fri, 17 Jan 1997 13:49:41 -0500
+Message-Id: <199701171849.NAA05152@rt.com>
+Subject: speaking of game 2
+To: skrenta (Rich Skrenta)
+Date: Fri, 17 Jan 1997 13:49:41 -0500 (EST)
+From: "Greg Lindahl" <lindahl@pbm.com>
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Content-Length: 186       
+Status: OR
+
+Movement while concealed should take longer than normal. That's always
+bugged me about Olympia. I'd suggest twice as long. Then people will
+have to think about what they're doing.
+
+- g
+
+
+From ferpo@netdex.netdex.com  Thu Jan 16 09:57:39 1997
+Received: (from smtp@localhost) by rt.com
+	id JAA24320 for <skrenta@pbm.com>; Thu, 16 Jan 1997 09:57:39 -0800
+Received: from netdex.netdex.com(165.113.171.2) by rt.com via smtp (V1.3)
+	id sma024317; Thu Jan 16 09:57:32 1997
+Received: from LOCALNAME (host36.netdex.com) by netdex.netdex.com (5.x/SMI-SVR4)
+	id AA00974; Thu, 16 Jan 1997 09:55:37 -0800
+Message-Id: <32DE6185.7998@netdex.com>
+Date: Thu, 16 Jan 1997 09:12:37 -0800
+From: Jim Frediani <ferpo@netdex.netdex.com>
+X-Mailer: Mozilla 2.01 (Win16; U)
+Mime-Version: 1.0
+To: skrenta@pbm.com
+Cc: Walt@solgrp.chi.il.us
+Subject: suggestions g2 and question
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: O
+
+Garrison reports
+
+I've picked up garrisons along the way, but I don't know if the former 
+owner stockpiled anything in them.  The current report looks like:
+
+garr where  men cost  tax forw castle rulers
+---- -----  --- ----  --- ---- ------ ------
+fo2p  ah76   10   20   50    6   e56  w8l t0j
+dn7h  ah79   10   20   50    6   e56  w8l t0j
+hl8f  ah80   10   20   50    6   e56  w8l t0j
+in8l  ah81   10   20   50    6   e56  w8l t0j
+co0p  ah83   10   20   50    6   e56  w8l t0j
+jd9p  ah84   10   20   50    6   e56  w8l t0j
+ek8b  ah89   10   20   50    6   e56  w8l t0j
+ca7b  ai80   10   20   50    6   e56  w8l t0j
+ek2t  ai81   10   20   50    6   e56  w8l t0j
+cf2y  aj80   10   20   50    6   e56  w8l t0j
+jr2h  aj81   10   20   50    6   e56  w8l t0j
+ee4e  aj82   10   20   50    6   e56  w8l t0j
+es6v  aj85   10   20  200   36   e56  w8l t0j
+bf5d  aj86   10   20  250   46   e56  w8l t0j
+jg6b  aj89   10   20  200   36   e56  w8l t0j
+eo9c  aj90   10   20  200   36   e56  w8l t0j
+bo1g  aj91   10   20   50    6   e56  w8l t0j
+ju6s  am86   10   10   50    8   u56  o1g
+bg7f  am87   10   20  200   36   u56  o1g
+
+I suggest another column called "pos" for possessions...if the garrison 
+has none, it shows a "-"    If it has anything, it shows a "yes".  Then a 
+NEW ORDER, the castle owner may issue a "SHOW" order 
+
+Example:  Garrison bo1g and bg7f have "yes" under the Pos column, all 
+other garrisons do not.
+
+w8l could issue:
+SHOW bo1g (taking 1 day) and get a report:
+garrison bo1g in aj91 reports it possesses 27 wood [77] and 33 stone [52]
+	(whatever the numbers are for those items, you get the point)
+
+note that although t0j has access to the garrisons because w8l is pledged 
+to him, only w8l, the owner of the castle the garrison belongs to, can
+request a report.  
+
+Likewise, o1g has access to the bo1g garrison because it is the same 
+faction as w8l, but he can only issue SHOW orders for his own garrison.
+
+
+Questions:
+
+What is the forw column in the garrison report?
+
+Next...Many moon ago, Walt and I killed a noble who belonged to (we 
+believe) a player who dropped.  After the players' nobles "disappeared",
+we exhumed a body.  Its the Oath-1 noble that we killed.
+I don't KNOW for a fact who this guy is now oathed to.  I have to connect
+up with someone who can determin this guy's "lord".  And I don't have the
+skill to do whatever it takes to get this guy to switch allegiance to me.
+My question is:
+a)  If I unstack him, will he merely fade away as his former faction is
+	(I presume) no longer in play?
+b)  Will he by like a npc-noble and join my faction in gratitude (in 
+	which case I have wasted a _lot_ of time packing him around)?
+			or
+c)  The only way I can "convert" him is to get the skill required to do 
+	it?
+
+I am leaving off specifics because you really shouldn't tell me if this 
+noble is "clanless" or not...if I asked that question, and you did not
+answer it, I would have to presume you did not answer it because another
+player owns it.  
+
+Thanks for your time
+
+Jim
+
+(PS..its not _just_ the four noble points this guy accounts for, this guy 
+is half-way decently skilled in skills I have a need for in a place where 
+I can use him)
+
+
+
+From DOUGLASM@fri.cri.nz  Mon Dec  9 14:10:06 1996
+Received: (from smtp@localhost) by rt.com
+	id OAA20965 for <skrenta@rt.com>; Mon, 9 Dec 1996 14:10:06 -0800
+From: DOUGLASM@fri.cri.nz
+Received: from proxy-dmz.fri.cri.nz(163.7.2.29) by rt.com via smtp (V1.3)
+	id sma020961; Mon Dec  9 14:10:03 1996
+Received: (from mail@localhost) by proxy-dmz.fri.cri.nz (8.6.12/8.6.14) id LAA07363 for <skrenta@rt.com>; Tue, 10 Dec 1996 11:10:13 +1300
+Received: from tawa.fri.cri.nz(163.7.7.40) by proxy-perim.fri.cri.nz via smap (V2.0alpha)
+	id xma007358; Tue, 10 Dec 96 11:09:48 +1300
+Received: from ccMail by tawa.fri.cri.nz
+  (IMA Internet Exchange 1.04b) id 2ac9d5a0; Tue, 10 Dec 96 11:14:34 +1200
+Mime-Version: 1.0
+Date: Tue, 10 Dec 1996 11:05:27 +1200
+Message-ID: <2ac9d5a0@fri.cri.nz>
+Subject: Re: Olympia proposed G2 ...
+To: Rich Skrenta <skrenta@rt.com>
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-Description: cc:Mail note part
+Status: OR
+
+          Hi Rich,
+
+          After thinking about the changes for a while, the only thing
+          I have been able to come up with that may need adjustment is
+          the building of castles. It appears from the changes you
+          want to slow down the ramp up. For some reason I get an
+          intuitive feel that castles should be harder to make (I
+          never built one in g1 though), especially when compared to a
+          tower.
+
+          Max
+
+From bfw@icpsr.umich.edu  Mon Dec  2 14:39:06 1996
+Received: (from smtp@localhost) by rt.com
+	id OAA01623 for <skrenta@pbm.com>; Mon, 2 Dec 1996 14:39:06 -0800
+Received: from wolf.icpsr.umich.edu(141.211.192.19) by rt.com via smtp (V1.3)
+	id sma001621; Mon Dec  2 14:39:02 1996
+Received: by icpsr.umich.edu (8.8.3/2.2)
+	id RAA08316; Mon, 2 Dec 1996 17:39:00 -0500 (EST)
+Message-Id: <199612022239.RAA08316@icpsr.umich.edu>
+Date: Mon, 2 Dec 1996 17:39:00 -0500 (EST)
+From: "Benjamin Wu" <bfw@icpsr.umich.edu>
+To: skrenta@pbm.com
+Subject: trade- g2 comment
+Status: OR
+
+Hello Rich,
+
+Where will Trade be taught?  You've listed where all other skills
+might be taught (type of cities), but nothing on trade.
+
+Ben
+
+From bill@rses.vuw.ac.nz  Sun Dec  1 18:25:49 1996
+Received: (from smtp@localhost) by rt.com
+	id SAA08871 for <skrenta@rt.com>; Sun, 1 Dec 1996 18:25:49 -0800
+Received: from rata.vuw.ac.nz(130.195.2.11) by rt.com via smtp (V1.3)
+	id sma008866; Sun Dec  1 18:25:45 1996
+Received: from tartarus.gphs.vuw.ac.nz (tartarus.gphs.vuw.ac.nz [130.195.43.9]) by rata.vuw.ac.nz (8.6.12/8.6.12) with SMTP id PAA22207 for <skrenta@rt.com>; Mon, 2 Dec 1996 15:25:39 +1300
+Received: by tartarus.gphs.vuw.ac.nz (4.1/SMI-4.1)
+	id AA08496; Mon, 2 Dec 96 15:24:54 NZD
+Date: Mon, 2 Dec 96 15:24:54 NZD
+From: bill@rses.vuw.ac.nz (Bill Viggers)
+Message-Id: <9612020224.AA08496@tartarus.gphs.vuw.ac.nz>
+To: skrenta@rt.com
+Subject: Re: proposed g2 changes- rambling thoughts
+In-Reply-To: Mail from 'Rich Skrenta <skrenta@rt.com>'
+      dated: Wed, 27 Nov 1996 18:41:50 -0800 (PST)
+Status: OR
+
+
+I like most of your changes for g2, though I question why you have nobles
+that surrender dropping a portion of their items?  if they Surrender they
+can always do a manual drop if they want to get rid of something.
+
+I especially like the increases in Archery/Defence/Swordplay.
+
+
+Will mages who know Transcend Death, and characters with avoid fatal
+blow lose from their defence when that skill is used?  Or just characters
+who are resurrected?
+
+I think garrisons should be forced to be ten fighters not just men the
+same as the change in pillage rules.
+
+In the castle table, is the stone and worker days for the next level a
+cumulative total, or an additional amount needed?
+
+Do cities add their 100 gold to the tax base in addition to their civilisation
+level contribution?
+
+It seems kind of strange that the more experienced magi need to do research
+in cities.  Why not have something like, at most three researchable skills
+in any category can be discovered outside of cities?
+Or is that too complicated?
+
+I'm also curious about Quest, do the monsters appear in the quest location
+or does one travel from the quest location to somewhere else in order
+to kill them?
+
+Factions still gain NP over time I take it?  I read someone say something
+that made me think otherwise but I can't find it in your posts anywhere.
+
+B.
+
+
+From desj@CS.Princeton.EDU  Fri Nov 29 15:14:41 1996
+Received: (from smtp@localhost) by rt.com
+	id PAA19990 for <skrenta@rt.com>; Fri, 29 Nov 1996 15:14:41 -0800
+Received: from cs.princeton.edu(128.112.136.10) by rt.com via smtp (V1.3)
+	id sma019986; Fri Nov 29 15:14:31 1996
+Received: from aleph.CS.Princeton.EDU (aleph [128.112.136.67]) by CS.Princeton.EDU (8.7.6/8.7.3) with SMTP id SAA16132 for <skrenta@rt.com>; Fri, 29 Nov 1996 18:14:30 -0500 (EST)
+Received: by aleph.CS.Princeton.EDU (8.6.12/CS-Client)
+        id SAA26392; Fri, 29 Nov 1996 18:14:29 -0500
+Date: Fri, 29 Nov 1996 18:14:29 -0500
+Message-Id: <199611292314.SAA26392@aleph.CS.Princeton.EDU>
+From: David desJardins <desj@CS.Princeton.EDU>
+To: skrenta@rt.com
+In-reply-to: <199611292127.NAA18573@rt.com> (skrenta@rt.com)
+Subject: Re: oly g2 stuff
+Status: OR
+
+> Allowing a castle to be independent of a city is something I wasn't
+> considering; I was picturing cities being the center of economic
+> and military development.  I suppose historically a city might have
+> grown up around a military fortification, but I don't want players
+> generating cities in the game.  Is it important that castles be
+> able to be independent of cities?
+
+No, I don't think it's very important.  I think that effectively in my
+model everyone would end up wanting to build their castles in cities
+anyway, precisely because that would give the most direct control over
+the economic and military resources that the city provides.  Making it a
+requirement wouldn't really make much difference at all, I think.
+
+Most of my family is leaving this weekend, but I'm not leaving until
+Tuesday.  Monday evening might be a good time for us to get together?
+
+                                        David desJardins
+
+
+From desj@CS.Princeton.EDU  Fri Nov 29 13:11:49 1996
+Received: (from smtp@localhost) by rt.com
+	id NAA18305 for <skrenta@rt.com>; Fri, 29 Nov 1996 13:11:49 -0800
+Received: from cs.princeton.edu(128.112.136.10) by rt.com via smtp (V1.3)
+	id sma018299; Fri Nov 29 13:11:45 1996
+Received: from hart.CS.Princeton.EDU (hart [128.112.168.6]) by CS.Princeton.EDU (8.7.6/8.7.3) with SMTP id QAA15018; Fri, 29 Nov 1996 16:11:44 -0500 (EST)
+Received: by hart.CS.Princeton.EDU (8.6.12/CS-Client)
+        id QAA13051; Fri, 29 Nov 1996 16:11:42 -0500
+Date: Fri, 29 Nov 1996 16:11:42 -0500
+Message-Id: <199611292111.QAA13051@hart.CS.Princeton.EDU>
+From: David desJardins <desj@CS.Princeton.EDU>
+To: skrenta@rt.com
+In-reply-to: <199611292033.MAA17771@rt.com> (skrenta@rt.com)
+Subject: Re: oly g2 stuff
+Status: OR
+
+> Yes, that is what I was thinking of too, except "city" instead of
+> "castle".  You had mentioned a concept about "increasing the amount of
+> land controlled", which in some sense worried me.  If by that you mean
+> something along the lines of "City X has 130 farms, walls made of
+> stone 10 feet high and 3 feet thick, a well-paid & high morale
+> garrison manning the walls & gate, a new sewer system, and 10
+> storehouses full of grain", then I know how to implement that.  But if
+> you mean that squares next to the city on the map become associated
+> with the city somehow...  well then say a bit more about how that
+> would work.
+
+Sure.  The model in my head is that as you improve your castle, grow and
+train your army, and perhaps "civilize" the surrounding countryside, you
+could expand the area around your castle that you effectively "control."
+What control means is that people in those areas consider you their
+ruler, more or less.  You would get a certain amount of tax and tithe
+income from provinces within your area of control; also the available
+troops for your army would be limited to a fraction of the population
+under your control (and you would have to pay them as well); you would
+get reports on activities in such areas; you could employ the workforce
+in such areas to exploit locally occurring natural resources; etc.
+
+You could have a simpler or a more complex model.  A simple model would
+perhaps be something like Oly g2 castle "levels": improving your castle
+to the next level would increase the area around it that you could
+control.  There could also be other necessary conditions: e.g., no
+unfriendly forces in those areas, an army of a certain size and strength
+to project power over such an area.
+
+A more complex model might have "loyalty" ratings for individual
+provinces: provinces nearer to your castle would have higher natural
+loyalty; loyalty could be raised by investment in the province
+infrastructure, giving out food and so forth, stationing troops to
+impose martial law.  Loyalty would fall with unfavorable economic
+events; excessive taxation; enemy action.  So your ability to draw
+resources from the area would depend on your investment in its loyalty.
+This would be a more complex economic game than the previous.
+
+> Actually having both would be good.  The more dimensions it's possible
+> to improve in, the better.  And having squares around a city that could
+> be picked off would be good, since there will be a natural tendency to
+> run into the land of your neighbor as you expand.  But I wouldn't want
+> that to be the only vector of growth for cities.  I think there should be
+> lots of internal stats that a city king can raise.
+
+It seems to me you can have both.  You can try to develop a city into an
+economic or military powerhouse, but you might be dependent on outside
+sources of food and raw materials, or you could try to control a large
+agrarian economy but you might be lacking in skilled tradesmen and the
+like.  Also, all economies might depend to some extent on outside trade
+(plains communities need metal from mountain mines, etc.).
+
+I see castles (the player-controlled or npc-controlled pov's that
+control territory) as independent from cities, as in Oly.  Although
+there would be obvious advantages to putting your castle in a city.
+
+I think of the game as initially starting with a small civilized area
+and a large (infinite?) uncivilized wilderness which might not have any
+cities.  In order to develop such a wilderness you would have to
+civilize it (wipe out the "orcs"); then the human population
+("citizens") would gradually grow and develop the land.
+
+> What would happen if you tried to subjugate a nearby square that contained
+> a separate city?  I think that a player POV should be required to run
+> each city, so one player can't glob all the cities on the map together
+> and run them as one big empire.
+
+In my model there is an increasing difficulty of controlling a larger
+and larger area from a single location/pov.  The effective maximum
+radius depends on scale but perhaps a radius of 6 Oly provinces or so.
+Past that point effective control would either be impossible (in the
+simple model) or extremely expensive to maintain (in the complex
+"loyalty" model).
+
+> I was thinking about the issue you raised about being able to see
+> an army coming in enough time to do something about it.   I was
+> thinking that the map could be constructed so that a cities would
+> appear spaced 3-6 squares apart.  Lone nobles could travel up to
+> 3 or so squares in a single hop per update.  Armies could move 1
+> square per update.
+
+> This give city owners at least N updates to see armies coming (where
+> N is the number of non-city squares between them and the nearest
+> city) to see armies coming, but lets nobles travel about the map
+> quickly.  Some noble activity may be heavily city oriented, such
+> as trade, and I don't think traders should have to spend 3/4 of
+> their time stuck in the wilderness just moving between trade
+> opportunities.
+
+This all seems ok.  I'm not so worried about speed of movement in this
+model, because most of your  power comes from your "castle", and that's
+where most really significant combat will occur.  There won't be a whole
+lot of maneuvering to intercept armies in the plains (which is good).
+
+No time now to comment on the map stuff.  Later.
+
+                                        David desJardins
+
+From desj@CS.Princeton.EDU  Thu Nov 28 16:37:32 1996
+Received: (from smtp@localhost) by rt.com
+	id QAA22815 for <skrenta@rt.com>; Thu, 28 Nov 1996 16:37:32 -0800
+Received: from cs.princeton.edu(128.112.136.10) by rt.com via smtp (V1.3)
+	id sma022810; Thu Nov 28 16:37:23 1996
+Received: from aleph.CS.Princeton.EDU (aleph [128.112.136.67]) by CS.Princeton.EDU (8.7.6/8.7.3) with SMTP id TAA05065 for <skrenta@rt.com>; Thu, 28 Nov 1996 19:37:23 -0500 (EST)
+Received: by aleph.CS.Princeton.EDU (8.6.12/CS-Client)
+        id TAA15060; Thu, 28 Nov 1996 19:37:22 -0500
+Date: Thu, 28 Nov 1996 19:37:22 -0500
+Message-Id: <199611290037.TAA15060@aleph.CS.Princeton.EDU>
+From: David desJardins <desj@CS.Princeton.EDU>
+To: skrenta@rt.com
+Subject: Re: oly g2 stuff
+Status: OR
+
+Some more "ideas":
+
+Short of making garrisons invulnerable, if it took longer to eliminate
+garrisons (instead of 21 days to install one and 1 day to wipe it out)
+that would make castles worth more.
+
+Garrisons should report on everything that happens in their provinces.
+Perhaps also have a chance of detecting stealth nobles (can "hounds" be
+installed in garrisons?).
+
+I suppose one could try to defend one's garrisons by putting more,
+better trained men in them.  But I think that's a losing battle.  It's
+always going to be too easy to concentrate force and take them out one
+by one.
+
+                                        David desJardins
+
+From smtp@rt.com  Sun Nov 24 17:38:46 1996
+Received: (from smtp@localhost) by rt.com
+	id RAA23195 for <skrenta@pbm.com>; Sun, 24 Nov 1996 17:38:46 -0800
+Received: from glandon.ece.utexas.edu(128.83.50.183) by rt.com via smtp (V1.3)
+	id sma023191; Sun Nov 24 17:38:40 1996
+Received: from glandon.ece.utexas.edu (localhost [127.0.0.1]) by glandon.ece.utexas.edu (8.7.1/8.7.1) with SMTP id TAA30372 for <skrenta@pbm.com>; Sun, 24 Nov 1996 19:37:44 -0600
+Sender: iphitus@glandon.ece.utexas.edu
+Message-ID: <3298F867.1C6913EB@no.one.com>
+Date: Sun, 24 Nov 1996 19:37:43 -0600
+From: Tham <tham@no.one.com>
+Organization: Yeah, right
+X-Mailer: Mozilla 2.01 (X11; I; Linux 1.3.73 i586)
+MIME-Version: 1.0
+To: skrenta@pbm.com
+Subject: thoughts about g2
+X-URL: http://www.pbm.com/skrenta/
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: OR
+
+Greetings,
+
+I liked the balances/changes. I do have a few concerns:
+
+*Immunity from Vision -- While this is a great idea, I think there is a
+potential problem. 1) I don't think the user of this spell should
+_always_ receive the identity of the priesty using Vision. Maybe a
+precentage would be better? If the % fails, the IfV user would still
+notice the point total is decreased, indicating someone is attempting a
+vision. If the IfV user always receives the identity, using vision
+against other priests would never occur, for fear of retribution.
+
+2) There should probably be a maximum of points from IfV. Priests, like
+mages with aura, don't need to be walking about with an IfV value of 100
+(though this might be _very_ difficult, given the casting time).
+
+*I didn't recognize any problems with the free first tower, though maybe
+as GM you did. It helps to establish the noble, and allows research
+immediately.
+
+*Will roaming mobs still attack buildings? It was unclear -- you wrote
+the game wouldn't attack a wandering noble. I'm thinking of mobs
+damaging an unoccupied inn by attacking. This is a Good Thing, IMO, and
+should remain.
+
+
+
+--jon
+Eridanus
+gabriel@ece.utexas.edu
+
+[Don't reply to this address. It's deliberately bogus to avoid receiving
+unsolicited emails.]
+
+From Jeremy.Maiden@isltd.insignia.com  Sun Nov 24 17:16:54 1996
+Received: (from smtp@localhost) by rt.com
+	id RAA22902 for <skrenta@rt.com>; Sun, 24 Nov 1996 17:16:54 -0800
+Received: from mailgate.isltd.insignia.com(193.112.16.21) by rt.com via smtp (V1.3)
+	id sma022900; Sun Nov 24 17:16:53 1996
+X-Address: Insignia Solutions plc., High Wycombe, Bucks, HP11 1JU, UK
+X-Telephone: +44 1494 459426
+X-Fax: +44 1494 459720
+Received: from candy.isltd.insignia.com by mailgate.isltd.insignia.com (5.65c8/UK-2.1.ISL) with SMTP
+	id AA12200; Mon, 25 Nov 1996 01:16:44 GMT
+From: Jeremy Maiden <Jeremy.Maiden@isltd.insignia.com>
+Message-Id: <1537.9611250116@candy.isltd.insignia.com>
+Subject: Re: Olympia proposed G2 changes, for review (long)
+To: skrenta@rt.com (Rich Skrenta)
+Date: Mon, 25 Nov 96 1:16:40 GMT
+In-Reply-To: <199611242113.NAA17751@rt.com>; from "Rich Skrenta" at Nov 24, 96 1:13 pm
+Mailer: Elm [revision: 70.85]
+Status: OR
+
+Rich,
+
+> > That cap isn't in the mark 2 changes, did you change your mind?
+> 
+> View the g2-changes web page, it always has the latest revision.
+> 
+
+Right, though I notice the weights of knightoids are still wrong.
+
+> I agree that self-balancing systems are great, but I don't have
+> much experience implementing them, and they're of course considerably
+> more complicated to implement.  I'll give it some thought though.
+> Any suggestions for specific parameter modification algorithms?
+
+Maybe more complicated in a coding sense, but often easier from the
+design point of view than working out the correct constants once and
+for all before starting the game.
+
+On the breeding example, it would be too fiddly to change the time to
+breed each species adaptively, but the 20% risk could easily be wobbled
+up by, say, 0.01% for each breeding attempt, with the risks for all
+species then reduced by an equal amount to bring the average back to
+about 20%. The numbers could be published each turn or hidden according
+to taste, but either would tend to lead to more mixed armies than the
+constant numbers that inevitably get "solved".
+
+The trade example is harder because of all the hyperspace options making
+it hard to distinguish a long route from a short route. It may be that
+trade would have a better feel if it was somehow encouraged or forced to
+stay in the normal world rather than being another advantage of controlling
+the weird places. Would it be good to populate Faerie and Hades with
+mischievous leprechauns and imps that steal some proportion of trade
+goods passing through? It might help preserve their fantasy feel rather
+than making them commercial highways.
+
+If you did that, it would be practical to relate trade good price
+differentials to real-world distance, though proper floating markets
+would be the only way to get perfect results...
+
+				Jeremy
+
+
+
+From ferpo@netdex.com  Sun Nov 24 14:05:14 1996
+Received: (from smtp@localhost) by rt.com
+	id OAA19587 for <skrenta@rt.com>; Sun, 24 Nov 1996 14:05:14 -0800
+Received: from netdex.netdex.com(165.113.171.2) by rt.com via smtp (V1.3)
+	id sma019580; Sun Nov 24 14:05:04 1996
+Received: from LOCALNAME (host22.netdex.com) by netdex (5.x/SMI-SVR4)
+	id AA29684; Sun, 24 Nov 1996 14:03:38 -0800
+Message-Id: <3298C66E.71FE@netdex.com>
+Date: Sun, 24 Nov 1996 14:04:30 -0800
+From: Jim Frediani <ferpo@netdex.com>
+X-Mailer: Mozilla 2.01 (Win16; U)
+Mime-Version: 1.0
+To: Rich Skrenta <skrenta@rt.com>
+Cc: Walt Pesch <walt@solgrp.chi.il.us>, JordanBP@aol.com
+Subject: Re: g2 rule changes
+References: <199611242137.NAA18640@rt.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: OR
+
+My turn :)
+
+I waited for all of you to finish speaking, such a polite boy I am.
+
+1.  I do NOT want to see priest visions eliminated.  For 1 NP, what's
+	the purpose of having one?  Ressurect Dead Nobles who come back
+	at reduced strength?  Last Rites (new version, of course) to get
+	the NPs back faster?  The Olympian Gods are not very powerful.
+	Why cannot a Priest Bless a region like a Mage can do common
+	works for $100?  Or curse regions?  Whatever.
+
+Rich Skrenta wrote:
+> 
+> To add a bit more to the topic...
+> 
+> Some of the responses I've received have said that I haven't gone
+> far enough.  That beast armies are still too powerful with their
+> high combat values and 0 maintenance cost.  I am trying to steer
+> a middle course through the possible changes; I want to leave some
+> spunk in the game, but the consensus seems to be that it should be
+> much harder to grow in power than in G1.
+
+I concur that beast armies should be harder to expand than game 1.  I 
+think the addition of lengthened breeding times does this.  So tell me,
+how many turns will it be before someone can afford to try and CAPTURE
+one?  Its going to take several turns to build up enough troops to try
+and take on quest in the proper type of liar to get combat vs a dragon.
+Assuming you capture 1, it will be 5 turns before you can try another
+quest in the same location.  And then there's a % chance you get 
+dragons.  So to capture 3 dragons, it will take, what, 75 turns?  That's
+if there is only one type of sub-location where dragons can be found in
+the area the player is working.  16 breeding attempts between then and
+turn 100, with 5 failing, 5 causing the death of a breeder, all that
+effort so by turn 100 you have 9 dragons....
+unless you breed Giant Birds and Giant Lizards or whatever that combo is
+to make dragons from lesser beasts...
+
+Hard to say.
+ 
+> Remember also that everyone will be playing with the same limits.
+> Perhaps the changes seem daunting if you imagine yourself coming
+> up against G1 adversaries, but in G2, the slower growth will apply
+> equally to all players.
+> 
+> And finally, we already have a G1 with G1 rules.  If players want
+> something bloodier than G2, perhaps a reset G1 with a few changes,
+> or perhaps an even bloodier game with some closed-ended victory
+> conditions, that's always a possibility.  (Actually I was toying
+> with the idea of repackaging Olympia I as a closed-ended wargame;
+> it's a disaster in terms of open-ended balance, but it's got a
+> great exponetial ramp-up, and the mechanics are sufficiently
+> different that Olympia II to make it seem like another game entirely.)
+
+I would not play a closed-ended "victory is possible" Olympia.  I play 
+these games to meet new people, explore, fight NPCs, and occasionally,
+kick some deserving player's butt.  Let game 1 continue while game 2
+goes on.  People who want more "bloodiness" can play game 1.  My only
+concern is if g2 becomes too much a politically correct game...war is
+unprofitable.  Also, without gatecraft, large armies will have a terrible 
+time moving..6 days per hex for flying armies.  Hmm...ship travel just 
+became faster.  Not as bad as I thought :)
+ 
+> Probably better for me to spend my time writing a web-pbem or
+> something though.
+
+Olympia is not a web-pbem?  What _is_ a web-pbem?
+
+Jim
+
+
+From walt@solgrp.chi.il.us  Sun Nov 24 13:34:01 1996
+Received: (from smtp@localhost) by rt.com
+	id NAA18499 for <skrenta@rt.com>; Sun, 24 Nov 1996 13:34:01 -0800
+Received: from oxywhite.interaccess.com(198.80.0.100) by rt.com via smtp (V1.3)
+	id sma018493; Sun Nov 24 13:33:51 1996
+Received: from [206.183.68.215] (d168.loop.interaccess.com [206.183.68.168]) by oxywhite.interaccess.com (8.8.3/8.8.3) with ESMTP id PAA23033; Sun, 24 Nov 1996 15:33:46 -0600 (CST)
+X-Sender: walt@pop.interaccess.com
+Message-Id: <v03007809aebe6e1b7c8f@[206.183.68.215]>
+In-Reply-To: <199611242122.NAA18139@rt.com>
+References: <v03007808aebe691c4f80@[206.183.68.215]> from "Walt Pesch" at
+ Nov 24, 96 03:13:43 pm
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Sun, 24 Nov 1996 15:33:26 -0600
+To: Rich Skrenta <skrenta@rt.com>
+From: Walt Pesch <walt@solgrp.chi.il.us>
+Subject: Re: g2 rule changes
+Cc: ferpo@netdex.com, JordanBP@aol.com
+Status: OR
+
+At 3:22 PM -0600 11/24/96, Rich Skrenta wrote:
+>> I wasn't that far off either two years, was I?
+>
+>Yes, your note to the design list from way back on turn 13 stuck
+>out in my mind, and has been quite influential.
+
+Cool then.
+
+>> I'm wondering though whether the pendulum has gone too far the other way.
+>> Especially in terms of the costs of NPs.   The scale is going to be a lot
+>> smaller.  I'm still mulling.  As I said, that was my first opinion.
+>>
+>> Realize of course that me and the rest of your g1 players are used to the
+>> larger scale...
+>
+>With few exceptions, most players have asked for the game to ramp up
+>slower, and for limits to be placed on the more aggressive mechanics.
+>Specifically, beast armies, NP acquisition, and runaway magic power.
+
+I agree on beasts, my opinion is that dragons should cost peasants to
+maintain ;-)  NPs work EXCEPT when players don't pass them on to other
+players.  Is there a way to stop this without stopping honest
+terrorization/eating of brains?
+
+One problem is that movement will still slow human armies, especially since
+it will take NP to move them.  Perhaps you should steal from Atlantis and
+allow military units to be formed that will take movement, guard, and
+attack orders.  But then all of a sudden turns get much longer to write.
+
+I do think that random monsters should be out there.
+
+Magic power isn't runaway.  I think that priest's visions should be
+eliminated.  But I think that some form of saved speedcast should be
+present, perhaps a single SC should be associated to a mage that knows Save
+SC rather than making a potion.
+
+>If some of these alterations prove to be too limiting, it is always
+>easier to ease up on them than to clamp down with new limits.  So
+>it's better to err on the side of caution.
+
+This is true.
+
+
+
+   Walt
+
+
+
+From Jeremy.Maiden@isltd.insignia.com  Fri Nov 22 09:30:47 1996
+Received: (from smtp@localhost) by rt.com
+	id JAA13481 for <skrenta@rt.com>; Fri, 22 Nov 1996 09:30:47 -0800
+Received: from mailgate.isltd.insignia.com(193.112.16.21) by rt.com via smtp (V1.3)
+	id sma013460; Fri Nov 22 09:30:39 1996
+X-Address: Insignia Solutions plc., High Wycombe, Bucks, HP11 1JU, UK
+X-Telephone: +44 1494 459426
+X-Fax: +44 1494 459720
+Received: from candy.isltd.insignia.com by mailgate.isltd.insignia.com (5.65c8/UK-2.1.ISL) with SMTP
+	id AA00942; Fri, 22 Nov 1996 17:30:29 GMT
+From: Jeremy Maiden <Jeremy.Maiden@isltd.insignia.com>
+Message-Id: <11160.9611221730@candy.isltd.insignia.com>
+Subject: Re: Olympia proposed G2 changes, for review (long)
+To: skrenta@rt.com (Rich Skrenta)
+Date: Fri, 22 Nov 96 17:30:31 GMT
+In-Reply-To: <199611221705.JAA12846@rt.com>; from "Rich Skrenta" at Nov 22, 96 9:05 am
+Mailer: Elm [revision: 70.85]
+Status: OR
+
+Rich,
+
+> Interesting idea.  Hmmm.  Thanks.
+
+Well, if you're in the market for ideas, you could make nobles' attack and
+defence levels meaningful enough to encourage people to raise them, eg:
+
+Limit the number of men/beasts a noble can lead to their attack rating, and
+relate the aura cost of blasting a character to their defence rating. (It
+would be kinda neat to be able to build up a non-magical Conan to the point
+where he can resist magical attacks.)
+
+				Jeremy
+
+From tpt2@BBN.COM  Fri Nov 22 04:51:22 1996
+Received: (from smtp@localhost) by rt.com
+	id EAA07606 for <skrenta@rt.com>; Fri, 22 Nov 1996 04:51:22 -0800
+From: tpt2@BBN.COM
+Message-Id: <199611221251.EAA07606@rt.com>
+Received: from medea.bbn.com(128.89.5.128) by rt.com via smtp (V1.3)
+	id sma007604; Fri Nov 22 04:51:20 1996
+To: skrenta@rt.com
+Subject: *Important* G2 Accept
+Date: Fri, 22 Nov 96 07:53:13 -0500
+Status: OR
+
+
+	The ACCEPT order is good but I think it could be a lot better
+without too much work. The problem is that it still doesn't cover
+ATTACKs and SURRENDERs which can dump tons of unwanted goods into your
+inventory. Smart players will still find they need to do tons of drops
+to get rid of things they never wanted.
+	So...try any of these parameters for ACCEPT, and have the
+implicit GIVEs done after ATTACKs and SURRENDERs go through the checks
+as well. The special parameters should be cumulative with each other,
+(ANDed together.) It's an issue whether you need to reset them every
+turn or not.
+
+	ACCEPT	<long integer>		# Accept as many of the offered
+					  goods as possible without
+					  exceeding <long integer>
+					  weight. Rejects all GIVEs
+					  if noble already carries
+					  <long integer> weight or more.
+
+	ACCEPT	stealth			# Accept any goods that don't
+					  inhibit Conceal Self.
+
+	ACCEPT	fly			# Accept any goods that don't
+					  inhibit the flying movement
+					  rate.
+
+	ACCEPT	ride			# Accept any goods that don't
+					  inhibit the riding movement
+					  rate.
+
+	ACCEPT  walk			# Accept any goods that don't
+					  inhibit the walking movement
+					  rate.
+
+	Also, something that will prevent TONS of blown orders. How
+many times I've needed this when I've wanted to change rulers in a
+castle...
+
+	GIVE <unit> all			# Dump entire inventory into
+					  target unit's inventory.
+
+	Tom	:-)
+
+From morrow@newton.crisp.net  Thu Nov 21 18:17:10 1996
+Received: (from smtp@localhost) by rt.com
+	id SAA27423 for <skrenta@rt.com>; Thu, 21 Nov 1996 18:17:10 -0800
+Received: from newton.crisp.net(199.224.12.2) by rt.com via smtp (V1.3)
+	id sma027421; Thu Nov 21 18:17:07 1996
+Received: from localhost (morrow@localhost) by newton.crisp.net (8.6.5/8.6.6) id VAA25001; Thu, 21 Nov 1996 21:15:58 -0500
+Date: Thu, 21 Nov 1996 21:15:58 -0500
+From: John Morrow <morrow@newton.crisp.net>
+Message-Id: <199611220215.VAA25001@newton.crisp.net>
+To: morrow@newton.crisp.net, skrenta@rt.com
+Subject: Re: Olympia proposed G2 changes, for review (long)
+Status: OR
+
+>> Both good.  The disappearing bit is helpful.  You could call an
+>> artifact that allows you to attack into safe havens "The
+>> Sceptor of Pain" that allows a single turn's worth of attacks
+>> lead by the holder into a safe haven in memory of Pain's all-out
+>> assault on Pesbrand in the first playtest.  After that, it
+>> vanishes.
+
+>Sounds dangerous...
+
+Yeah, it could be but it shouldn't be too bad if one-use.  But there
+is nothing like a good threat to scare people into action.  You have
+to give people some way to be "the bad guy".  Some warning in the safe
+havens when it is found should be warning enough -- "Player X [1234]
+has found the Sceptor of Pain [8972] and can now attack safe havens"
+or some such.  I'm sure it will be more of a cursed item for most
+than anything... :-)
+
+John Morrow
+
+From morrow@newton.crisp.net  Thu Nov 21 18:14:10 1996
+Received: (from smtp@localhost) by rt.com
+	id SAA27398 for <skrenta@rt.com>; Thu, 21 Nov 1996 18:14:10 -0800
+Received: from newton.crisp.net(199.224.12.2) by rt.com via smtp (V1.3)
+	id sma027396; Thu Nov 21 18:14:07 1996
+Received: from localhost (morrow@localhost) by newton.crisp.net (8.6.5/8.6.6) id VAA24989; Thu, 21 Nov 1996 21:12:58 -0500
+Date: Thu, 21 Nov 1996 21:12:58 -0500
+From: John Morrow <morrow@newton.crisp.net>
+Message-Id: <199611220212.VAA24989@newton.crisp.net>
+To: morrow@newton.crisp.net, skrenta@rt.com
+Subject: Re: Olympia proposed G2 changes, for review (long)
+Status: OR
+
+>I stuck a modem in the co-location here and became my own ISP.  :-)
+>I exported an 8 address space to myself from the rt.com server
+>which the wine people pay for.
+
+Yeah, yeah.  If I ever get a second source of income I'll look at 
+something like that... :-)
+
+>> Similarly, this is a reason to reconsider buildings in a safe haven.
+>> If someone accidentally leaves a tower, a person higher in the
+>> location than they are can jump in and take it from them and there is
+>> nothing that can be done about it, unlike anyplace else where
+>> attacking is an option.
+
+>That's a good point.  Hmmm.  I suppose that nicely balances the
+>pro of not being attackable though.  (?)
+
+Yeah, maybe.  But I'm just warning you because I can see frustrated
+players ahead.
+
+>Okay, done.  Maybe it should be a random position?  Hmmm.  I don't
+>want to encourage drops/restarts just to get to the top of this
+>list.  Actually, what I could do is randomize the ordering of the
+>location list each turn.  That's pretty psycho though.  Hmmm.
+
+The advantage isn't *so* huge as to make restarts desirable.  And the
+next turn, if more people enter, you'll just get pushed down again.
+It would be pretty silly to keep restarting. 
+
+>> BTW, I'd change the loss from Defense (recoverable via a skill) to
+>> Health -- perhaps 20 or 25 points -- and consider the character as
+>> having been wounded by the resurrection with respect to the healing or
+>> dying check if that is still in there.
+
+>Health is far easier to recover than defense.
+
+Not if you make the reduction to the maximum it isn't.  Is there
+any way to raise your health over 100?  If not, lowering the 
+maximum is a good penalty because it would be unrecoverable and
+make the character more vulnerable to dying again.  Perhaps 10
+points per resurrection?  Defense just seems too easy to get back.
+
+John Morrow
+
+
+
+
+
+
+From morrow@newton.crisp.net  Thu Nov 21 12:36:21 1996
+Received: (from smtp@localhost) by rt.com
+	id MAA21051 for <skrenta@rt.com>; Thu, 21 Nov 1996 12:36:21 -0800
+Received: from newton.crisp.net(199.224.12.2) by rt.com via smtp (V1.3)
+	id sma021047; Thu Nov 21 12:36:15 1996
+Received: from localhost (morrow@localhost) by newton.crisp.net (8.6.5/8.6.6) id PAA22413; Thu, 21 Nov 1996 15:35:03 -0500
+Date: Thu, 21 Nov 1996 15:35:03 -0500
+From: John Morrow <morrow@newton.crisp.net>
+Message-Id: <199611212035.PAA22413@newton.crisp.net>
+To: morrow@newton.crisp.net, skrenta@rt.com
+Subject: Re: Olympia proposed G2 changes, for review (long)
+Status: OR
+
+I tried to reply to this yesterday but my provider seems to be sliding
+down hill.  I'm starting to hunt around for another ISP.  Looks like I
+might be able to find full-time dial-up for under $100 per month.
+
+>> I like this.  You may want to have the initial price seperated by a
+>> certain margin and then have that margin close and the tradegood
+>> ends its lifespan.
+
+>Originally I planned to do that but I ran out of steam.
+
+>The real question is whether 3000 gold is too little or too much
+>incentive to be a trader.  This can easily be adjusted as the game
+>proceeds without undue disruption however if it proves to require
+>change.
+
+Well, I'd make it a random range between, say, 2000 and 4000.  This
+would give you more breathing room to quietly adjust things later
+since changes would be less noticable than with a fixed value.  I
+think you need to run a few sanity checks where you compare a bunch
+of activities with respect to how much gold can be made in a given
+time doing it moderately and optimally and shoot for balance.
+
+>The change is CBIB with respect to combat, i.e. it applies to all
+>combat, not just certain combats.
+
+Well, I'll trust that you've fixed the problem since I didn't deal
+with beasts much beyond getting eliminated by the.  See Jeremy Maiden's
+comments about simulating breeding scenarios.
+
+>Size limits are a fine idea, but 1) it would be exceptionally difficult
+>to add them to the Olympia mechanics, there are all sorts of ways to
+>travel which would need ugly patches or else they would present holes,
+>and 2) I don't know what to make the size limits; choosing wise limits
+>which are neither too large so as to be useless, or too small so as to
+>make the monsters invincleable.  The slower movement and other restrictions
+>on large stacks will in part address this problem; it is in general a bit
+>harder to drag around a huge stack in G2.
+
+You might want to ultimately increase it so that a single noble can
+move more than 20 troops before there is a penalty but I think you are
+better off starting with a lower number and raising it.  People will
+complain less that way if changes are necessary.
+
+>I also changed the configuration of Faery, it should be impossible to
+>do what the AOO did with it now.
+
+Again, I'll trust you here.  My main concern is that a faction use it
+as a quick way to jump around the world, unfairly cutting off people
+who travelled there conventionally.  If you feel that's been addressed,
+then that's fine.
+
+>> I'd personally limit the skills to Combat, Shipcraft, and Forestry --
+>> enough to get people moving.  Maybe one other skill each for flavor.
+>> I'll comment more on this below.
+
+>Actually the list is your suggestion, verbatim, from a mail you sent
+>some time ago.  :-)
+
+OK.  This made me think about why I would have made such a suggestion.
+I believe it had to do with allowing units trapped in IC ways to excape
+(Stealth) and the ability to get a good start on other game activities
+(Construction, etc.).  This is a little less necessary now that there
+are 6 starting cities but I suppose the idea is still valid for safe
+havens.
+
+>Well, when coastal crawl was originally discovered, I got all kinds of
+>gripes about how stupid it was.  Thus was lodged in my head the idea to
+>fix it, which persisted on various to-do lists for 2.5 years.  Now people
+>say they like it.  Well, you can go find the sea lanes.
+
+OK.  No problem.  
+
+[Performing common tasks for gold]
+>> I would again suggest not allowing this in safe havens.
+
+>Why?
+
+Because the new players wind up at the bottom of the execution queue
+for the city and will never be able to use it if other players have a
+lock on it for whatever reason.  We went over this with G1 when I
+suggested adding new players to the top of the list when they start
+the game.  Remember that being first matters quite a bit for a lot of
+things and, in safe havens, there is no way to push someone off.
+Similarly, this is a reason to reconsider buildings in a safe haven.
+If someone accidentally leaves a tower, a person higher in the
+location than they are can jump in and take it from them and there is
+nothing that can be done about it, unlike anyplace else where
+attacking is an option.  Again, I'd suggest placing new players at the
+top of the list for safe locations to give them a jump on resources
+such as peasants (can you recruit in safe havens?) because they need
+it the most.  This also gives old players less incentive to stick
+around and constantly be pushed down the list.  It will also give new
+players a comodity to deal with when allying with older players (list
+position).
+
+Another artifact you might want is some sort of scepter that allows
+the holder (and only the holder) to attack in safe-havens.  Since
+there are six and I suspect that they are some distance apart, this
+wouldn't shut out new players if a single city is dangerous.  It might
+help shake things up if they get stagnant.  You'd just have to make
+sure that the holder would have to walk from city to city and couldn't
+jump around to all the save havens in a turn or two.  Perhaps an
+automatic announcement in the safe havens of the artifact, it's holder,
+and it's holder's location would help, too, when it is discovered.
+
+>> I can see good reasons why a faction with no chance of recovering the
+>> body (e.g. a noble lost exploring though Faery or such) might want the
+>> wait to be *less*.
+
+>Yes, that's why it's longer.
+
+Then the player will undergo sufficient punishment for the death of an
+unrecovered body and you should consider dropping the 1 NP penalty for
+resurrections since (A) the player will already have wasted time and
+effort on it and (B) the noble suffers some loses in the process.
+BTW, I'd change the loss from Defense (recoverable via a skill) to
+Health -- perhaps 20 or 25 points -- and consider the character as
+having been wounded by the resurrection with respect to the healing or
+dying check if that is still in there.  Make the reduced number the
+new maximum.  This would give all nobles 4 or 5 resurrections before
+they are dead-dead.  Perhaps an artifact could restore a noble's youth
+once per game year or something.
+
+[Restocking monsters]
+>> I'd adjust the wait from 3-5 to 3-8 turns -- mabye longer.
+
+>Okay.
+
+My fear is that a player will be able to predict the restocking
+and revisit a series of nearby lairs in sequence, constantly finding
+something there.  Adjust accordingly.
+
+>> I think that only Combat should be a given since it is needed to train
+>> protection.  Stealth and Magic should be optional.
+
+>Again, this was based heavily on your suggestions.  Please be
+>consistent.  :-)
+
+Well, bear in mind that my original suggestions were made in the context
+of a single starting city and one can change their mind.  :-)
+
+In retrospect, there are reasons why I would have suggested
+well-stocked safe havens -- specifically for later in the game when
+all the surrounding areas will be well colonized. 
+
+>> The key things that this plan tries to achieve is to differentiate
+>> the cities, to encourage travel to learn new skills, and to add some
+>> flavor, in general, the learning proces.
+
+>I'm not going to solve the lack-of-flavor problem in Olympia easily.
+
+Yes, but every little bit helps.
+
+>Skill distribution for regional skills is already regional.  Given that
+>one needs to spend exactly 1 day in a city to pick up a skill, I don't
+>think much atmosphere will be gained from spreading skills around.
+
+I disagree.  It makes it more important if you are in city X than city
+Y if X teaches something that you want and Y doesn't.  If they are both
+the same, they are interchangable.  Anything that makes it important 
+that you be in a particular place adds flavor to the geography.
+
+>> I'm interested in why you feel that cities should have so many skills.
+>> The only reason I can see for having so many skills is to cater to the
+>> "I don't want to work to do that" crowd.  Is there another reason?
+
+>To prevent powerful factions from hording lone cities which supply skills.
+
+OK.  Here is a revised formula plus some reasoning where it differs
+from your plan.
+
+o  Every city teaches Combat (since you need combat to build troops)
+   and Construction (needed to build towers and such -- how a city
+   gets built up so it makes sense).
+
+o  Each city teaches a regional skill (Beastmastery in plains and
+   swamps [I suspect it will still be a much desired skill], Mining in
+   mountains, Forestry in forests, and Trading in deserts [how do you
+   think they maintain cities in the desert, huh? :->].  Any port
+   city will also teach Shipcraft in addition to any regional skill
+   indicated by the terrain outside of the city.  The six starting
+   safe havens should be divided between all five terrains with the
+   last city also being a forest city (basically, 2 Beastmastery, 
+   1 Trading, 1 Mining, and 2 Forestry cities). 
+
+o  Each city teaches a dark or subversive skill -- either Stealth
+   (50%), Persuasion (45%), or Necromancy (5%).  Exactly which of these
+   skills a city teaches will remain hidden until discovered by an
+   EXPLORE that turns it up.  This will allow for quests to find
+   Necromancy.  Safe havens will only have Stealth.  The idea is that
+   the underground of each city operates by one of these means and
+   you need to find it get get training in it.  Vary the percentages
+   to suit your tastes.  
+
+o  Each city will teach one magic skill -- Magic, Alchemy, Gatecraft,
+   Weather Magic, Scrying, or Artifact Construction.  Since that is
+   6 magics, you divide them between the six starting safe havens,
+   one each, and then randomly everywhere else.  This will add some
+   flavor the the starting selections.
+
+Where this differs from your plan is that Shipcraft is an extra and
+Forestry isn't guaranteed to starting players.  Magic is just another
+Magic and players can pick which magic they might want to start with
+by picking their starting city.  Finally, I think that obscuring Stealth,
+Persuasion, and Necromancy might add some flavor and hint that these
+are potentially troubling skills.  It makes people have to really work
+to find them.
+
+>> I can probably think up more if you think I'm on the right track.
+
+>Some of these are cool, I will see what I have time to implement.
+
+What other types of things are you looking for?  To use the board-game
+_Cosmic Encounters_ as an example, special abilities are good if they
+let you break or bend one game rule.  Alternately, they could provide
+an easier to use version of an existing game item.  Keeping that in
+mind, you should be able to think of quite a few of these things.
+
+>The primary limit are the beastmastery changes, no one will have big
+>dragon armies in g2, it takes almost three turns to make a single
+>dragon.
+
+I wasn't a beast person so I'll trust that those who were will sanity
+check this.
+
+>> Is this really a good thing?  I can see the safe havens becomming 
+>> shanty towns of towers.  I really think you should encourage people
+>> to move around.  What is the reason behind this?
+
+>To add color to cities.  :-)
+
+OK.  But see my above comments.
+
+John Morrow
+
+
+
+
+From tpt2@BBN.COM  Thu Nov 21 11:51:05 1996
+Received: (from smtp@localhost) by rt.com
+	id LAA19596 for <skrenta@rt.com>; Thu, 21 Nov 1996 11:51:05 -0800
+From: tpt2@BBN.COM
+Message-Id: <199611211951.LAA19596@rt.com>
+Received: from medea.bbn.com(128.89.5.128) by rt.com via smtp (V1.3)
+	id sma019569; Thu Nov 21 11:50:51 1996
+To: skrenta@rt.com
+Subject: Additional G2 Comments
+Date: Thu, 21 Nov 96 14:53:09 -0500
+Status: OR
+
+
+	After reading the WWW page, these issues still appear
+unaddressed.
+
+	1.  No 'hostile all' command. This combines with...
+	2.  No check against anonymity privileges of newly
+	    formed nobles and newly built structures.
+	3.  Sublocations are still ATTACKable as structures.
+
+	Barring exceptionally long order queues, a newly formed noble
+can get up to 29 days of travel, fighting, etc. with no attacks made
+against him.
+	The newly built structure gives one turn's grace against any
+attacker, so long as the builder starts day 1 with Construction and
+enough wood or stone.
+	IDEA: Have new nobles and structures appear on day 30 of
+the month in which they are created. If a building noble doesn't
+move all turn, he's placed inside the structure.
+	The AOO are currently using item 3 to detect whenever any
+sublocation in their vicinity becomes occupied and then immediately
+attacking via a pre-queued HOSTILE order. I don't know if it works,
+but they're trying. :-)
+
+	Tom	:-)
+
+
+From mgreek@Jupiter.Mcs.Net  Thu Nov 21 10:00:52 1996
+Received: (from smtp@localhost) by rt.com
+	id KAA16881 for <skrenta@rt.com>; Thu, 21 Nov 1996 10:00:52 -0800
+Received: from kitten.mcs.com(192.160.127.90) by rt.com via smtp (V1.3)
+	id sma016876; Thu Nov 21 10:00:48 1996
+Received: from Mailbox.mcs.com (Mailbox.mcs.com [192.160.127.87]) by Kitten.mcs.com (8.8.2/8.8.2) with ESMTP id MAA26997 for <skrenta@rt.com>; Thu, 21 Nov 1996 12:00:44 -0600 (CST)
+Received: from Jupiter.Mcs.Net (mgreek@Jupiter.mcs.net [192.160.127.88]) by Mailbox.mcs.com (8.8.2/8.8.2) with ESMTP id MAA22943 for <skrenta@rt.com>; Thu, 21 Nov 1996 12:00:31 -0600 (CST)
+Received: from localhost (mgreek@localhost) by Jupiter.Mcs.Net (8.8.2/8.8.2) with SMTP id MAA29140 for <skrenta@rt.com>; Thu, 21 Nov 1996 12:00:24 -0600 (CST)
+Date: Thu, 21 Nov 1996 12:00:23 -0600 (CST)
+From: "Marcus R. Greek" <mgreek@Mcs.Net>
+To: Rich Skrenta <skrenta@rt.com>
+Subject: Re: g2 changes
+In-Reply-To: <199611211701.JAA15651@rt.com>
+Message-ID: <Pine.BSF.3.95.961121115051.28878A-100000@Jupiter.Mcs.Net>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: OR
+
+  Greetings,
+
+On Thu, 21 Nov 1996, Rich Skrenta wrote:
+
+> >  I agree, but here's a strategy I'll likely pursue which could be
+> > destablizing.
+> 
+> Interesting:  this started by you suggesting that I remove the
+> NP cost to beastmastery; but now you suggest that beastmastery
+> may yet be too strong!  The NP stays...
+
+ Well, Beastmastery in combination with Questing and other strategies, I
+still think that you need just a bit more for the NP to be worth it,
+although that also depends on what a grandmaster gets as benefit... I
+should go check the current rules I guess.
+
+> > I get control of several areas, with special inner
+> > locations, build an army likely to win, give it a beastmaster, and go
+> > Quest mining.  If I can hit 3 locations per turn, I'll capture 1-2 beasts
+> > every turn, while I can have another noble churning out replacements for
+> > my army.
+> 
+> 3 locations per turn.... Is this optimistic?  The time for a subloc
+> to regenerate is 3-8 turns now.  But QUEST has only a 50% chance
+> of success.  I think you could count on hitting one location for
+> sure each turn, perhaps more than that if you had set things up
+> very well.  Hmmm.  Perhaps I should make beast capture 0-2 beasts.  ;-)
+
+ The right place for this would be hard to find, but I can think of a few
+on the old map that could have worked, assumming riding speed and garrison
+access.  You could be right about 0-2, but don't forget that I'm mining
+gold and items as well, at the cost of very replaceable soldiers.
+
+> >  I'd suggest making Quest a 14 day thing, or even a month, rather than
+> > allowing this sort of factory approach.
+> 
+> Effectively it is given the 50% success.
+> 
+
+ I was thinking of 50% success when I speced three locations/turn, I'd
+like to see it be an effective month+ endeavor.  Another aspect to Quest,
+is there any way to know that others have used the location lately?  Will
+the order fail in 0 time, or is there a distinctive message, eg "Orc bones
+litter the ground here."?
+
+ I'll check the files over the weekend before I continue on with this line
+of thought, I'm doubtless missing things.
+
+				-Marcus Greek
+
+
+From MMoore2070@aol.com  Thu Nov 21 09:33:52 1996
+Received: (from smtp@localhost) by rt.com
+	id JAA16258 for <skrenta@pbm.com>; Thu, 21 Nov 1996 09:33:52 -0800
+From: MMoore2070@aol.com
+Received: from emout10.mx.aol.com(198.81.11.25) by rt.com via smtp (V1.3)
+	id sma016250; Thu Nov 21 09:33:43 1996
+Received: by emout10.mail.aol.com (8.6.12/8.6.12) id MAA28727 for skrenta@pbm.com; Thu, 21 Nov 1996 12:33:41 -0500
+Date: Thu, 21 Nov 1996 12:33:41 -0500
+Message-ID: <961121123341_229553007@emout10.mail.aol.com>
+To: skrenta@pbm.com
+Subject: olympia G2 changes
+Status: OR
+
+Here are my comments on the Olympia 2 changes, So you know where I'm coming
+from I'm part of the 'Empire' that used to be headed  by Jeremy Maiden. I
+consider out alliance one of the strongest and oldest but I still oppose some
+of your changes as they favor the old guard over newbies.
+
+Beastmastery
+What I particularly like: change # 2
+
+I did not like #3, It would give you only 1 or 2 monsters when you fight a
+group and have capture beast in combat. It will give older more established
+alliances an edge over the newer alliances. It should remain as is
+
+Combat
+What I particularly liked was changes 2,4,5,6,7
+
+number 3 was that you'd only get half of a nobles stuff if you captured him.
+This didn't make any sense. when you capture someone you should get all their
+stuff. 
+
+number 6: this is not enough. I never used the defence, swordplay, etc.
+because they were too little gain for too much time. 2 points over one is
+still not enough. How about a sliding scale? 4 or 5 points for each until
+your at 100, 3 or 4 til 125, etc.
+
+Castle
+What I particularly like was change # 3
+ 
+Change 2, making castles weaker in the beginning and able to be built up as
+time goes on. I like the idea but the defence values don't go high enough.
+Castles play little part in many of our wars because they are just too weak.
+They should start at atleast value 50 and go up drastically from there.
+
+Changes 8 and 10 I oppose because I like  the system as is. Money was always
+short and if you want to get your money from taxing your fiefs then you
+should be able to. You shouldn't have to be a trader and a taxing noble.
+
+Tunnells- I love this Idea! it's the best change yet, I love the quest too.
+
+Religion
+I hate change number 6! Who's going to blow a noble point to resurect my
+mage? Characters die all the time from stupid accidents, If my ten point mage
+dies because I flew over water at the end of my turn then I would most likely
+drop out. No ones going to resurect him and I'm not going to spend that much
+time learning stuff again.
+I hate change number 6.
+
+Magic
+I particularly like change number 7
+
+4) trance should be left as is, there should be some way to get all of your
+mana points back
+
+8) I also like this as is
+
+Sincerely,
+Mike Moore
+ps. how long roughly before G2? Are we talking weeks, months, or years?
+
+From Jeremy.Maiden@isltd.insignia.com  Wed Nov 20 16:07:00 1996
+Received: (from smtp@localhost) by rt.com
+	id QAA20594 for <skrenta@rt.com>; Wed, 20 Nov 1996 16:07:00 -0800
+Received: from mailgate.isltd.insignia.com(193.112.16.21) by rt.com via smtp (V1.3)
+	id sma020587; Wed Nov 20 16:06:56 1996
+X-Address: Insignia Solutions plc., High Wycombe, Bucks, HP11 1JU, UK
+X-Telephone: +44 1494 459426
+X-Fax: +44 1494 459720
+Received: from candy.isltd.insignia.com by mailgate.isltd.insignia.com (5.65c8/UK-2.1.ISL) with SMTP
+	id AA12099; Thu, 21 Nov 1996 00:06:50 GMT
+From: Jeremy Maiden <Jeremy.Maiden@isltd.insignia.com>
+Message-Id: <3826.9611210006@candy.isltd.insignia.com>
+Subject: Re: Olympia proposed G2 changes, for review (long)
+To: skrenta@rt.com (Rich Skrenta)
+Date: Thu, 21 Nov 96 0:06:48 GMT
+In-Reply-To: <199611202314.PAA19299@rt.com>; from "Rich Skrenta" at Nov 20, 96 3:14 pm
+Mailer: Elm [revision: 70.85]
+Status: OR
+
+Rich,
+
+> > On sea-land movement: it now costs 8 days to land in forest? This
+> > makes exploring by sea drastically less appealing than before, assuming
+> > the map is still secret. (I agree the one day coastal crawl business
+> > was daft, but this seems an extreme reaction)
+> 
+> Many people seem to have come out in defense of "coastal crawl", perhaps
+> I will simply put it back in.
+> 
+
+But it's horrid! The 8 days to land in forest would be OK if it was on
+purpose, ie the facilities at a port allow a 1 day landing in a city but
+finding a beach and debarquing is difficult. How about different commands
+to sail to sea and land? Ie you could explore the sea by writing
+
+sail n e s w
+
+and if there's land in one of those directions the sail fails because
+you should have written
+
+land n e s w
+
+to get ashore. People who really want to get the old random landings and
+launchings could alternate SAIL and LAND.
+
+> > Only allowing 10 men per noble prevents any
+> > mobile stack being big enough to take on even modest beast armies,
+> > maybe not even the NPC monsters. It would be _really_ nice to have
+> > viable human armies   :-)
+> 
+> The penalty is not a strict limit at 1:10, but a gradual penalty
+> designed to make it hard to move big armies around.
+> 
+
+Yes, but it becomes a blocking hard limit very quickly, eg moving a workforce
+of 150 into a mountain for castle building takes 29 days. It's worse for
+armies: even if you used the new cheap horses to make your army entirely
+riding speed it would be down to less than one square per turn movement at
+300 men. OK, multiple nobles would help, but it's hard to see people using
+human armies that take up lots of nobles and even then can't keep up with
+land-based beast armies.
+
+If the gradual penalty is a good thing, why not apply it to beasts as well?
+
+				Jeremy
+
+From lindahl@rt.com  Sun Nov 10 17:38:08 1996
+Received: (from lindahl@localhost) by rt.com
+	id RAA20858 for skrenta@rt.com; Sun, 10 Nov 1996 17:38:08 -0500
+Message-Id: <199611102238.RAA20858@rt.com>
+Subject: Re: More g2 ideas from the archives
+To: skrenta@rt.com (Rich Skrenta)
+Date: Sun, 10 Nov 1996 17:38:08 -0500 (EST)
+From: "Greg Lindahl" <lindahl@pbm.com>
+In-Reply-To: <199611092123.NAA02964@rt.com> from "Rich Skrenta" at Nov 9, 96 01:23:15 pm
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Content-Length: 1374      
+Status: OR
+
+> > But it takes too long to overcome the limit by training a single
+> > leader. You're completely changing the bias of the entire system over
+> > to quality, and you're restricting the ability of people to
+> > maneuver.
+> > 
+> > What's going to happen is that people are going to break this rule by
+> > issuing multiple attack orders from multiple stacks in the same
+> > place. It will totally destroy the effect of this rule but it will be
+> > horribly complex.
+> 
+> Two half-sized stacks don't have the same combat profile as a full
+> sized stack.
+
+Eh? They can be very similar, depending on how smart the owners are...
+
+>  I like the feel of distguishing troop leaders from
+> regular nobles, as well as providing another time sink for players
+> to invest in.
+
+I agree with the motive. I just don't want these good results to also
+have the bad result of making certain styles of combat bad.
+
+>  What if the limit weren't so onerous?  Say, every
+> gets 25, Leadership gets you another 25, and you can raise it 10-25
+> at a time with week USE's, no combat required.
+
+Why not let every noble in the stack contribute to the overall
+leadership? That's how movement works.
+
+At 25/week twice a month, I don't think this is an onerous limit. But
+I can still imagine weird and bad situations that would be removed if
+you let all the nobles contribute their leaderships...
+
+-- g
+
+
+
+From lindahl@rt.com  Fri Nov  8 13:52:58 1996
+Received: (from lindahl@localhost) by rt.com
+	id NAA00428 for skrenta@rt.com; Fri, 8 Nov 1996 13:52:58 -0500
+Message-Id: <199611081852.NAA00428@rt.com>
+Subject: Re: More g2 ideas from the archives
+To: skrenta@rt.com (Rich Skrenta)
+Date: Fri, 8 Nov 1996 13:52:58 -0500 (EST)
+From: "Greg Lindahl" <lindahl@pbm.com>
+In-Reply-To: <199611081017.CAA00530@rt.com> from "Rich Skrenta" at Nov 8, 96 02:17:55 am
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Content-Length: 747       
+Status: OR
+
+> 1.  Every non-safe-haven city has an initial default garrison
+>     with 25-150 pikemen.  Each garrison is set to ADMIT ALL.
+>     Each noble stacked with the garrison will earn 1gp/day
+>     for aiding the city's defenses.
+
+OK for flavor, OK for game balance. Not as nice as Atlantis' city
+guards which also have a DEFEND ALL order.
+
+> 2.  The size of a stack which can be used to ATTACK is limited
+>     by the stack leader's Leadership skill.  Leadership is a
+>     subskill of Combat.
+
+Bad. Basically if you go for the strategy of building many humans for
+your army, you have a huge hurdle of training to go through. And if
+you combine 2 huge armies into one, there's no way the top leader can
+lead the stack. Ick. Yech. Blech. Bogus.
+
+-- g
+
+From lindahl@rt.com  Thu Oct 31 14:51:21 1996
+Received: (from lindahl@localhost) by rt.com
+	id OAA05597 for skrenta@rt.com; Thu, 31 Oct 1996 14:51:21 -0500
+Message-Id: <199610311951.OAA05597@rt.com>
+Subject: Re: G2 changes
+To: skrenta@rt.com (Rich Skrenta)
+Date: Thu, 31 Oct 1996 14:51:21 -0500 (EST)
+From: "Greg Lindahl" <lindahl@pbm.com>
+In-Reply-To: <199610311924.LAA05056@rt.com> from "Rich Skrenta" at Oct 31, 96 11:24:57 am
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Content-Length: 1210      
+Status: OR
+
+> > 10) I'm not so sure about Trances. A mage without auraculum takes
+> > forever to recharge. That's a bit too slow, and trances (28 days) are
+> > a bit fast. You can do this by tweaking the numbers in Meditation and
+> > Trances.
+> 
+> How about 40 days for a trance?
+
+Yes, and/or you could make a trance restore only up to 1/2 or 2/3 of
+your max aura. I think I like 28 days up to a max of 2/3 of your aura
+(i.e. no matter where you are when you start the trance, you end at
+2/3 max).
+
+And in case I wasn't clear I think that mages without Advanced Sorcery
+should also have Trance available. It's too important and too good to
+be limited to super mages only.  You could fix this by making
+meditation and advanced meditation better. For example, meditation
+could give you 1 aura point or 5% of your max aura, whichever is
+larger. Advanced meditation would be 2 aura points or 10% of your max
+aura, whichever is larger. I have a mage with 40 max aura who could
+auraculate now... advanced meditation would get her 4 points/week, or
+she could spend 28 days on a trance and get back 26 points (2/3),
+which is just over 6 points a week. Yes, that's a nice gradual
+increase in capability as you get stronger.
+
+-- g
+
+
+From lindahl@rt.com  Tue Oct 29 01:28:57 1996
+Received: (from lindahl@localhost) by rt.com
+	id BAA22036 for skrenta; Tue, 29 Oct 1996 01:28:57 -0500
+Message-Id: <199610290628.BAA22036@rt.com>
+Subject: speaking of g2
+To: skrenta (Rich Skrenta)
+Date: Tue, 29 Oct 1996 01:28:57 -0500 (EST)
+From: "Greg Lindahl" <lindahl@pbm.com>
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Content-Length: 882       
+Status: OR
+
+After talking to Steve Chapin a bit, I'm convinced that Noble Points
+should be strictly conserved: never destroyed, never created except 1
+per 8 turns. He convinced me by pointing out that the AOO players are
+all giving Barry their NPs as they drop, and with the scheme I
+proposed to you a while back, he could do the same thing and simply go
+way negative on NPs.
+
+Of course, you didn't respond to that scheme, which is generally a bad
+sign ;-) Making NPs strictly conserved means a little extra code when
+a body decays; you would also want a DISCARD id command if you want to
+kill off a noble to recover the NPs. So after you terrorize the
+prisoner, you have to have NPs available or they won't swear to
+you. When you decide that they're a waste of NPs, you just discard
+them. Contract nobles are still bad because they eat your gold and the
+enemy can capture their skills.
+
+-- g
+
+
+From lindahl@rt.com  Tue Oct 29 01:35:18 1996
+Received: (from lindahl@localhost) by rt.com
+	id BAA22152 for skrenta@rt.com; Tue, 29 Oct 1996 01:35:18 -0500
+Message-Id: <199610290635.BAA22152@rt.com>
+Subject: Re: speaking of g2
+To: skrenta@rt.com (Rich Skrenta)
+Date: Tue, 29 Oct 1996 01:35:18 -0500 (EST)
+From: "Greg Lindahl" <lindahl@pbm.com>
+In-Reply-To: <199610290631.WAA22095@rt.com> from "Rich Skrenta" at Oct 28, 96 10:31:29 pm
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Content-Length: 493       
+Status: OR
+
+> Just as soon
+> as I spray this sound absorbing foam into my electrical outlets.
+
+Hey, Scott Adams signed a $19,000,000 book contract recently.
+
+The nice thing about NP conservation is that it removes any worries
+about potions of slavery, etc. Although I still think potions of
+slavery should have a % chance of killing the noble that drinks it,
+maybe 33%. After all, the purpose of them was supposed to mostly be
+unfriendly use, right? Yet almost all usages have been friendly
+ones.
+
+-- g
+
+
+
+From lindahl@rt.com  Tue Oct 29 01:28:57 1996
+Received: (from lindahl@localhost) by rt.com
+	id BAA22036 for skrenta; Tue, 29 Oct 1996 01:28:57 -0500
+Message-Id: <199610290628.BAA22036@rt.com>
+Subject: speaking of g2
+To: skrenta (Rich Skrenta)
+Date: Tue, 29 Oct 1996 01:28:57 -0500 (EST)
+From: "Greg Lindahl" <lindahl@pbm.com>
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Content-Length: 882       
+Status: OR
+
+After talking to Steve Chapin a bit, I'm convinced that Noble Points
+should be strictly conserved: never destroyed, never created except 1
+per 8 turns. He convinced me by pointing out that the AOO players are
+all giving Barry their NPs as they drop, and with the scheme I
+proposed to you a while back, he could do the same thing and simply go
+way negative on NPs.
+
+Of course, you didn't respond to that scheme, which is generally a bad
+sign ;-) Making NPs strictly conserved means a little extra code when
+a body decays; you would also want a DISCARD id command if you want to
+kill off a noble to recover the NPs. So after you terrorize the
+prisoner, you have to have NPs available or they won't swear to
+you. When you decide that they're a waste of NPs, you just discard
+them. Contract nobles are still bad because they eat your gold and the
+enemy can capture their skills.
+
+-- g
+
+

@@ -1,0 +1,215 @@
+
+This is an examination of the economic balance between maintenance costs
+for men-as-inventory and what they may produce.
+
+	What limits how many men your nobles can recruit?
+	How much does it cost to support your men?
+	How may your men earn money?
+
+Here are the men-as-inventory:
+
+	peasant
+	soldiers (many kinds: soldier archer swordsman knight etc.)
+	worker
+	sailor
+
+Background:
+
+	Peasants are the raw material, harvested through RECRUIT.
+	Locations will have a number of peasants which can be recruited
+	each month by paying them a hiring bonus, say 50 gold/man.  [1]
+
+	As with other kinds of region resources, only so many peasants
+	will be stuffed into locations each month to be recruited.
+
+	Peasants may be processed into the other kinds of men by the
+	use of various training skills.
+
+	The game supplies no other way to get finished men besides
+	peasants.  Players must produce all the sailors, soldiers
+	and workers.
+
+Maintenance costs and production:
+
+	Soldiers, workers and sailors have obvious primary uses.
+	Peasants have no primary use except as a raw material for
+	the other kinds of men.
+
+	We must decide how much to charge each man for maintenance
+	cost, and how much each man may produce with a WORK-like
+	command.  Here are some ideas:
+
+	1.  WORK only makes money for the noble, there is no way
+	    for men-as-inventory to earn gold with a simple command.
+
+	2.  WORK may earn additional money if accompanied by peasants.
+	    Say: peasant maint = 1 gold/month, WORK = 1 gold/week/peasant.
+
+	3.  A sailing skill Fishing may be used by sailors to earn gold
+	    from the sea.  It is tempting to have a token fish item
+	    that the sailors would get from the ocean (resource limited,
+	    of course) and sell in port cities.
+
+	    However, we can ignore that when deciding how much gold this
+	    activity earns:  say, each man earns 1 fish/week, fish can be
+	    sold for 1-2 gold.
+
+	4.  Soldiers TAX or PILLAGE a location.  Say, each soldier would earn
+	    1/2 gold per week.
+
+	    However, there must be a negative consequence of this activity.
+	    Say, each soldier who PILLAGES reduces the recruitable peasants
+	    by one.  Or the demand for fish in port cities.
+
+	    Perhaps one must be the location owner in order to TAX?
+	    But anyone could PILLAGE... ?  Should there even be a TAX command?
+
+	5.  No unique work-like activity suggests itself for workers.
+	    Perhaps they can be used like peasants for the WORK command.
+
+	Simplifying, we get:
+
+	man		maint cost	earn
+	---		----------	----
+	peasant		   1 gold	1 gold/week
+	worker		   1 gold	1 gold/week
+	sailor		   1 gold	1 gold/week
+	soldier		  2+ gold*	1 gold/week
+
+* base soldier; higher trained soldiers cost more, but earn the same pillaging:
+
+	soldier		2 gold
+	archer		3 gold
+	swordsman	3 gold
+	knight		5 gold
+	elite guard	7 gold
+
+
+Exponential growth
+------------------
+
+We want to plug any holes in growth limits for the men-as-inventory.
+Since we have a firm hand on the number of units, however, we can
+simply use number-of-men caps as a last resort:
+
+	WORK		up to 20 men
+	fishing		resource limited
+	tax/pillage	resource limited (depletes peasants from RECRUIT base)
+
+
+Note [1] on RECRUIT
+-------------------
+
+The pool of recruitable peasants is finite each turn.  How do we
+deal with excess demand?  There are several possible strategies:
+
+	1.  As with the harvesting of other resources in Olympia,
+	    the first unit in the location gets first shot at
+	    taking them, then we go down the list.
+
+	    This is consistent with the other harvesting systems.
+
+	    This favors land owners, who can monopolize recruitment.
+
+	2.  Allow the bonus to be varied.  Recruitment happens
+	    in a phase at the end of the month, with men joining
+	    for the highest bonus.  Choosing between equal bonuses
+	    is made randomly.
+
+	    This favors rich players.
+
+	3.  Don't vary the bonus, but choose randomly between all
+	    the units recruiting.  Everyone gets a fair chance.
+
+A wrinkle is that there are some skill uses which also perform recruitment.
+Whipping up a religious fervor in a crowd and getting them to follow you,
+using that silver tongue to convince peasants to join your cause, etc.
+For #2 and #3, I would have these skill uses take peasant out of the pool
+before the general RECRUIT phase occurred at the end of the turn.
+
+--
+Rich Skrenta <skrenta@rt.com>
+
+From skrenta Mon Jul  5 19:59:43 1993
+Subject: Re: A thought
+To: sjc@cs.purdue.edu (Steve Chapin)
+Date: Mon, 5 Jul 93 19:59:43 EDT
+Cc: srt@aero.org (Scott Turner)
+In-Reply-To: <199307052311.AA08695@bredbeddle.cs.purdue.edu>; from "Steve Chapin" at Jul 05, 93 6:11 pm
+X-Mailer: ELM [version 2.2 PL16]
+Status: RO
+
+> This is where an "ON" condition would be great, to stop pillaging.
+> What is the current Oly II mechanism for guarding a location?
+
+Still undecided.  We do know who the owner of the location is,
+essentially the first unit there.  He may be in a castle and all that.
+
+> Hmm.  Still not quite right.  Comments?
+
+I like this flavor of TAX/PILLAGE.  We need to come up with some
+specific rule ideas.
+
+"Commerce" is a vague term, since most economic transactions in Oly
+are up to the players.  Things we can control are:
+
+	a)  The amount of peasants available to recruit
+	b)  The number of fish a port city will buy
+	c)  The number of menial jobs available for work
+
+Ahh, too many ideas I can't tie together.  I will simply number them.
+
+1.  I don't currently have a population stat, but it seems that all of
+    these could be based on one.
+
+2.  A population statistic is often troublesome because it has so many
+    "real world" connotations, i.e. "it says pop is zero but I did X",
+    or "how can this little city have 50k people in it?"  So if pop is
+    too icky, we could use a general "economic health" rating instead.
+
+3.  We would need to come up with:
+	max and min pop for cities and the different kinds of provinces
+	formulas to base a/b/c on.
+	How TAX changed pop, specifically
+
+4.  Perhaps the argument to tax can be the amount of gold which will
+    be confiscated from each citizen.  TAX 3 would rake in 3 * pop.
+
+    PILLAGE likely wouldn't be symmetrical to TAX then, but that's
+    probably okay.
+
+5.  Ways to increase economic health/pop:
+
+	Some sort of administration skill use
+	Declaring a festival ?
+
+	Perhaps there could be an Administration category with
+	various subskills:
+
+		1. Hold city festival (requires three turns of planning,
+			payment of gold)
+		2. Improve judicial system
+		3. Streamline beaurocracy
+		4. Weed out corruption
+		5. Hold public meeting*
+
+	*  Perhaps the citizens would suggest one of 1-4.
+
+	Seems a bit weak.  Let me know.
+
+6.  The distinction between TAX and PILLAGE is unclear, but we can worry
+    about that later.
+
+7.  What causes the citizens concern?
+
+	Pillaging
+	High taxes
+	Wild animal attacks
+	Necromancy research  :-)
+
+    Perhaps any of these things would lower economic health.
+    Do economies left alone thrive, or does the rule need to do something?
+
+--
+Rich Skrenta <skrenta@rt.com>
+

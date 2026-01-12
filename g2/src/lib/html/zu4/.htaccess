@@ -1,0 +1,8 @@
+AuthUserFile /u/oly/g2/lib/ht-passwords
+AuthGroupFile /dev/null
+AuthName ByPassword
+AuthType Basic
+
+<Limit GET>
+require user zu4 admin
+</Limit>

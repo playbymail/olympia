@@ -1,0 +1,410 @@
+74358:attack garrison
+74358:garrison 4851
+74358:recruit
+74358:train 12 0
+74358:use 614
+74358:use 616
+74358:use 615
+74358:use 614
+64528:research 900
+64528:research 900
+64528:study 909 1
+64528:study 909
+64528:study 909
+64528:research 900
+64528:study 909 1
+64528:study 909
+64528:study 909
+64528:research 900
+64528:research 900
+64528:study 661
+64528:study 661
+64528:use 615
+64528:use 616
+64528:use 614
+64528:use 616
+64528:use 614
+64528:use 615
+64528:use 616
+64528:use 614
+64116:sail n
+64116:sail n
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail n
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail n
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail n
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail n
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail s
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail w
+64116:sail s
+64116:use 616
+64116:use 616
+64116:use 614
+64116:use 616
+64116:use 616
+64116:use 614
+64116:use 616
+64116:use 616
+147473:move s
+147473:attack garrison
+147473:train 12 0
+147473:garrison 4851
+147473:move dw75
+147473:ungarrison
+147473:garrison 4851
+147473:give garrison 16 20
+147473:move dw76
+147473:ungarrison
+147473:garrison 4851
+147473:move n
+147473:move e
+147473:use 614
+147473:use 615
+147473:use 616
+147473:use 614
+147473:use 615
+147473:use 616
+147473:use 614
+147473:use 615
+147473:use 616
+74023:use 863 w819
+74023:use 862
+74023:use 813
+74023:use 813
+74023:use 813
+74023:use 811
+74023:use 811
+74023:use 811
+74023:use 615
+74023:use 615
+74023:use 615
+74023:use 615
+74023:use 615
+74796:move dv75
+74796:move n
+74796:move e
+74796:move n
+74796:move p161
+74796:quest
+74796:quest
+74796:quest
+74796:study 671
+74796:use 615
+74796:use 616
+74796:use 614
+74796:use 615
+74796:use 616
+74796:use 616
+74796:use 614
+74796:use 615
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+104878:seek
+124668:stop
+124668:recruit
+124668:fly dv68
+124668:attack garrison
+124668:train 12 0
+124668:garrison 4851
+124668:fly dw68
+124668:attack garrison
+124668:recruit
+124668:train 12 0
+124668:study 615
+124668:study 614
+124668:use 615
+124668:use 616
+124668:use 615
+124668:use 616
+124668:use 615
+124668:use 616
+100631:stop
+100631:give garrison 10 0
+100631:get garrison 81 0
+100631:move z33
+100631:move g995
+100631:give n061 81 0
+100631:move z33
+100631:move dm82
+100631:get garrison 278 2
+100631:get garrison 279 2
+100631:breed 278 279
+100631:breed 278 279
+100631:breed 278 279
+100631:give garrison 81 0
+100631:give garrison 278 0
+100631:give garrison 279 0
+100631:use 616
+100631:use 616
+100631:use 614
+100631:use 616
+100631:use 614
+100631:use 616
+69061:study 691
+69061:use 691
+69061:use 691
+69061:use 691
+69061:use 691
+69061:breed 55 55
+69061:use 616
+69061:use 615
+69061:use 616
+69061:use 615
+69061:use 616
+69061:use 615
+69061:use 616
+69061:use 615
+78903:sail dw60
+78903:sail dx60
+78903:sail dw60
+78903:sail n
+78903:sail n
+78903:sail e
+78903:sail e
+78903:sail n
+78903:sail n
+78903:sail e
+78903:sail e
+78903:sail e
+78903:sail ds65
+78903:move ds65
+78903:attack garrison
+78903:move 105085
+78903:sail dr65
+78903:sail e
+78903:sail ds66
+78903:move ds66
+78903:attack garrison
+78903:move 105085
+78903:sail dr66
+78903:sail e
+78903:use 616
+78903:use 614
+78903:use 615
+78903:use 616
+78903:use 615
+78903:use 616
+78903:use 614
+78903:use 615
+78903:use 616
+64123:stop
+64123:garrison 122452
+64123:give garrison 31 0
+64123:give garrison 94 0
+64123:give garrison 98 0
+64123:give garrison 271 0
+64123:give garrison 287 0
+64123:give garrison 289 0
+64123:move dp79
+64123:ungarrison
+64123:garrison 4851
+64123:give garrison 16 0
+64123:give garrison 21 0
+64123:give garrison 22 0
+64123:move dp80
+64123:ungarrison
+64123:garrison 4851
+64123:give garrison 12 0 10
+64123:give garrison 22 0
+64123:move dq80
+64123:ungarrison
+64123:garrison 4851
+64123:move dr80
+64123:ungarrison
+64123:garrison 4851
+64123:give garrison 10 0
+64123:get garrison 12 0
+64123:move ds80
+64123:ungarrison
+64123:garrison 4851
+64123:move ds79
+64123:study 697
+64123:study 636
+64123:study 636
+64123:use 614
+64123:use 615
+64123:use 616
+64123:use 614
+64123:use 615
+101132:stop
+101132:move dm87
+101132:get garrison 10 3
+101132:get garrison 12 0
+101132:attack p351 1
+101132:attack n845 1
+101132:attack p351 1
+101132:attack n845 1
+101132:execute
+101132:move x43
+101132:attack p351 1
+101132:attack n845 1
+101132:attack p351 1
+101132:attack n845 1
+101132:execute
+101132:move dm87
+101132:attack p351 1
+101132:attack n845 1
+101132:attack p351 1
+101132:attack n845 1
+101132:execute
+101132:explore
+101132:explore
+101132:explore
+101132:explore
+101132:use 615
+101132:use 615
+101132:use 615
+52412:accept cj5 0

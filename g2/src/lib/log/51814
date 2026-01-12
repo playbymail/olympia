@@ -1,0 +1,264 @@
+16848:0::0:0:Garrison~[9450], garrison, with ten~soldiers guards N. Druid Forest~[dk48].
+16848:0::0::
+16848:0::0::Province controlled by Mystic Manor~[138370], castle, in Mountain~[dh42]
+16848:0::0::Ruled by Angus MacKenzie~[95098], duke
+16848:0::0::
+16848:0::0::Routes leaving N. Druid Forest: 
+16848:0::3::North, to Swamp~[dj48], 14~days
+16848:0::3::East, plain, to Celtic Plain~[dk49], 7~days
+16848:0::3::South, forest, to C. Druid Forest~[dm48], 8~days
+16848:0::3::West, plain, to Celtic Plain~[dk47], 7~days
+16848:0::0::
+16848:0::0::It is raining.
+16848:0::0::
+16848:0::0::Seen here:
+16848:0::0/3::   Garrison~[9450], garrison, on guard, with ten~soldiers
+16848:0::0/3:: * Yarl~[119764], conjurer, accompanied~by:
+16848:0::0/6:: *    Rhun Ap Gwyneth~[90303]
+16848:0::0/6:: *    Bridei Ap Gwyneth~[117321]
+16848:0::0/6:: *    Rhudri Ap Morgan~[147937]
+5:0::0::
+5:0::0::begin gz4 "borrin"  # Dark Ruinations
+5:0::0::
+5:0::0::unit gz4  # Dark Ruinations
+5:0::0::
+5:0::0::unit 119764  # Yarl in N. Druid Forest~[dk48]
+5:0::0::
+5:0::0::unit 90303  # Rhun Ap Gwyneth in N. Druid Forest~[dk48]
+5:0::0::
+5:0::0::unit 117321  # Bridei Ap Gwyneth in N. Druid Forest~[dk48]
+5:0::0::
+5:0::0::unit 147937  # Rhudri Ap Morgan in N. Druid Forest~[dk48]
+5:0::0::
+5:0::0::end
+51814:0::0::
+51814:0::0::Unclaimed items:
+51814:0::0::
+51814:0::0::      qty  name                              weight
+51814:0::0::      ---  ----                              ------
+51814:0::0::    1,825  gold~[1]                               0  
+51814:0::0::       50  wood~[77]                          1,500  
+51814:0::0::      100  stone~[78]                        10,000  
+90303:0::3::
+90303:0::3/16::Location:       N. Druid Forest~[dk48], in Provinia
+90303:0::3::Loyalty:        Oath-1
+90303:0::3/16::Stacked under:  Yarl~[119764]
+90303:0::3::Stacked over:   Bridei Ap Gwyneth~[117321]
+90303:0::3::Health:         100%
+90303:0::3::Combat:         attack 103, defense 115, missile 57
+90303:0::3::                behind 0  (front line in combat)
+90303:0::3::Break point:    50%
+90303:0::3::
+90303:0::3::Skills known:
+90303:0::6::Combat~[610]
+90303:0::12::Survive fatal wound~[611]
+90303:0::12::Defense~[614], journeyman
+90303:0::12::Archery~[615], apprentice
+90303:0::12::Swordplay~[616], apprentice
+90303:0::12::Weaponsmithing~[617], apprentice
+90303:0::6::Stealth~[630]
+90303:0::12::Petty thievery~[631], apprentice
+90303:0::6::Persuasion~[670]
+90303:0::3::
+90303:0::3::Rhun Ap Gwyneth~[90303] has no possessions.
+90303:0::3::
+90303:0::3/11::Capacity:  0/100 land (0%)
+90303:0::3::
+117321:0::3::
+117321:0::3/16::Location:       N. Druid Forest~[dk48], in Provinia
+117321:0::3::Loyalty:        Oath-1
+117321:0::3/16::Stacked under:  Rhun Ap Gwyneth~[90303]
+117321:0::3::Health:         100%
+117321:0::3::Combat:         attack 80, defense 80, missile 0
+117321:0::3::                behind 0  (front line in combat)
+117321:0::3::Break point:    50%
+117321:0::3::
+117321:0::3::Current aura:   3
+117321:0::3::Maximum aura:   3
+117321:0::3::
+117321:0::3::Skills known:
+117321:0::6::Shipcraft~[600]
+117321:0::12::Sailing~[601], apprentice
+117321:0::12::Shipbuilding~[602], apprentice
+117321:0::12::Fishing~[603], apprentice
+117321:0::6::Forestry~[700]
+117321:0::12::Collect rare foliage~[704], apprentice
+117321:0::6::Magic~[800]
+117321:0::12::Meditate~[801], apprentice
+117321:0::12::Perform common tasks for gold~[802], apprentice
+117321:0::3::
+117321:0::3::Partially known skills:
+117321:0::6/6::Appear common~[803], 7/14
+117321:0::3::
+117321:0::3::Bridei Ap Gwyneth~[117321] has no possessions.
+117321:0::3::
+117321:0::3/11::Capacity:  0/100 land (0%)
+117321:0::3::
+119764:0::3::
+119764:0::3/16::Location:       N. Druid Forest~[dk48], in Provinia
+119764:0::3::Loyalty:        Oath-2
+119764:0::3::Stacked over:   Rhun Ap Gwyneth~[90303]
+119764:0::3::                Rhudri Ap Morgan~[147937]
+119764:0::3::Health:         100%
+119764:0::3::Combat:         attack 80, defense 80, missile 50
+119764:0::3::                behind 0  (front line in combat)
+119764:0::3::Break point:    50%
+119764:0::3::
+119764:0::3::Current aura:   6
+119764:0::3::Maximum aura:   6
+119764:0::3::
+119764:0::3::Skills known:
+119764:0::6::Combat~[610]
+119764:0::12::Survive fatal wound~[611]
+119764:0::12::Archery~[615], apprentice
+119764:0::6::Magic~[800]
+119764:0::12::Meditate~[801], apprentice
+119764:0::12::Perform common tasks for gold~[802], journeyman
+119764:0::12::Appear common~[803], apprentice
+119764:0::12::Reveal abilities of another mage~[805], apprentice
+119764:0::6::Necromancy~[900]
+119764:0::3::
+119764:0::3::Partially known skills:
+119764:0::6/6::Defense~[614], 7/14
+119764:0::3::
+119764:0::3::Yarl~[119764] has no possessions.
+119764:0::3::
+119764:0::3/11::Capacity:  0/100 land (0%)
+119764:0::3::
+147937:0::3::
+147937:0::3/16::Location:       N. Druid Forest~[dk48], in Provinia
+147937:0::3::Loyalty:        Oath-1
+147937:0::3/16::Stacked under:  Yarl~[119764]
+147937:0::3::Health:         100%
+147937:0::3::Combat:         attack 80, defense 80, missile 53
+147937:0::3::                behind 0  (front line in combat)
+147937:0::3::Break point:    50%
+147937:0::3::
+147937:0::3::Skills known:
+147937:0::6::Combat~[610]
+147937:0::12::Survive fatal wound~[611]
+147937:0::12::Archery~[615], apprentice
+147937:0::6::Stealth~[630]
+147937:0::12::Petty thievery~[631], apprentice
+147937:0::6::Construction~[680]
+147937:0::12::Construct siege tower~[681], apprentice
+147937:0::12::Stone quarrying~[682], apprentice
+147937:0::3::
+147937:0::3::Rhudri Ap Morgan~[147937] has no possessions.
+147937:0::3::
+147937:0::3/11::Capacity:  0/100 land (0%)
+147937:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Dark Ruinations~[gz4].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/gz4/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [gz4]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         4  93rd   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   18/74  95th   
+0:0::3/41::Spells known:                    6/79  88th   
+0:0::3/41::Provinces visited:           4/31,919  118th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  8     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 263.
+0:0::0::
+0:0::0::The next five nobles formed will be:  129464 92523 142295 96134 97333
+0:0::0::
+0:0::0::58 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::119764 dk48   o2    100  0  6                                 Yarl
+0:0::0::90303  dk48   o1    100  0                             119764 Rhun Ap Gwyneth
+0:0::0::117321 dk48   o1    100  0  3                          90303  Bridei Ap
+0:0::0::147937 dk48   o1    100  0                             119764 Rhudri Ap
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                                                      
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  N. Druid Forest~[dk48]           Yarl~[119764]
+0:0::0::                                     Rhun Ap Gwyneth~[90303]
+0:0::0::                                     Bridei Ap Gwyneth~[117321]
+0:0::0::                                     Rhudri Ap Morgan~[147937]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::119764         400        400   0%                                
+0:0::0:: 90303         200        200   0%                                
+0:0::0::117321         100        100   0%                                
+0:0::0::147937         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Dark Ruinations~[gz4]"><font size=+1><b>Dark Ruinations~[gz4]</b></font>
+1:2::0::<hr>
+1:1::0::Dark Ruinations~[gz4]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51814
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Yarl~[119764]"><font size=+1><b>Yarl~[119764]</b></font>
+1:2::0::<hr>
+1:1::0::Yarl~[119764]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 119764
+1:0::0::
+1:2::0::
+1:2::0::<name="Rhun Ap Gwyneth~[90303]"><font size=+1><b>Rhun Ap Gwyneth~[90303]</b></font>
+1:2::0::<hr>
+1:1::0::Rhun Ap Gwyneth~[90303]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 90303
+1:0::0::
+1:2::0::
+1:2::0::<name="Bridei Ap Gwyneth~[117321]"><font size=+1><b>Bridei Ap Gwyneth~[117321]</b></font>
+1:2::0::<hr>
+1:1::0::Bridei Ap Gwyneth~[117321]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 117321
+1:0::0::
+1:2::0::
+1:2::0::<name="Rhudri Ap Morgan~[147937]"><font size=+1><b>Rhudri Ap Morgan~[147937]</b></font>
+1:2::0::<hr>
+1:1::0::Rhudri Ap Morgan~[147937]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 147937
+1:2::0::
+1:2::0::<name="N. Druid Forest~[dk48]"><font size=+1><b>N. Druid Forest~[dk48]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::N. Druid Forest~[dk48], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16848
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,125 @@
+
+quest yields generation 1 reward item
+
+quest by a character with a generation n cookie:
+	look for 2 other generation n cookies
+	require them for next level
+
+curse city with nearby castle
+	no market trades
+	reduce tax income
+	no recruit?
+
+Quest [for]
+
+	ring of invisibility
+	cloak of invisibility
+	ring of horse catching
+	fogstone
+	staff of rain
+	king aeolus's ring
+	ring of the four winds
+	sword of allegiance
+	golden lamb
+	divining wand
+	ring of terror - maintain fear loyalty at current levels?
+	gate jump facilitator
+	faerie stone - use summons faerie location -- protects from elven hunt
+	storm crystal - lists every storm in region
+	ship locator - lists every ship in nearby ocean region
+	Scepter of the Dead - shows graveyard views
+	Book of Gold - lists 10 richest factions (character?) in region
+	Shield of Achilles - +50 defense
+	Sword of Death - +50 attack
+	Javelin - +50 missile
+	Crown of the Barbarians -- allows TELL for barbarian hordes
+
+Make nasty monster
+"So-and-so may only be killed by one who bears X"
+(need a take-no-hits flag in combat)
+(plus, noble takes no hits if holding the special item)
+	magic-kill-only-special-item
+
+Vision about beast reveals this knowledge
+
+
+Create nasty monster guarding subloc
+Reward is a level n+1 cookie
+Require that killer have weapons A, B [, C]
+A, B, C vanish
+
+Bring items A, B, C to place X
+issue command XYZZY
+New subloc appears with monster, Z in it
+A, B, C vanish
+
+Collect items A, B, C
+issue command XYZZY
+Noble appears, has item Z, joins player
+A, B, C vanish
+
+Collect items A, B, C
+Travel to port city X
+issue command XYZZY
+Ship appears with noble
+Noble has item Z, joins player
+A, B, C vanish
+
+Find the Y
+Use the elven stone to summon a faerie hill in X
+Take Y to city [xx] in Faerie and {...issue the command XYZZY}
+{give it to Elven King [q8]}
+(set a can't die, can't be taken prisoner, no hits flag on him)
+
+
+City quests
+	announce in city banner
+
+Challenges
+Local quests
+
+	Whomever can free Lady Questar [xx88] from the Dread Beast [q9]
+	will win her hand in marriage.  The Dread Beast is said to be
+	holding her <vague loc desc>
+
+	A princely reward is offered for whoever can free X from Y.
+	Y is in ...
+
+	City X is under a terrible curse:  tax income is halved,
+	no peasants can be recruited, the market is closed, no buildings
+	can be built here, access to the port has been made impassable,
+	It is said that only the holder of Y has the power to lift the curse.
+
+	The X has been lost
+
+---------------
+
+QUEST command
+	So-and-so of such-and-such place requests that you visit.
+	When they get there, give them special ability to see home.
+	Send on a quest.
+
+	You consult with the seer foo, who says:
+
+	A vision comes to you in the night, of:
+
+	o  Go to a far away place (specific).  Retrieve a special object.
+
+	o  So-and-so has been given the quest of finding the %s.
+	   Find it first.
+
+	o  The terrible lion/wolf/whatever has been plaguing the town
+	   of foo.  You must kill it. [only give to heroic combat people
+	   or beastmasters].
+
+
+Go to city X.  There you will learn of your quest.
+Go to the province X.  There you will find subloc Y.  Its owner
+will admit you, and tell you of your quest.
+
+You must go to X and kill the Y.
+
+First go to city G.  There you may buy a Z which will allow you to succeed.
+
+Go to province X.  There a ship Y will be waiting for you.  Board it.
+

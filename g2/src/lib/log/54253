@@ -1,0 +1,388 @@
+16678:0::0:0:Garrison~[2610], garrison, with ten~peasants guards Forest~[dh78].
+16950:0::0:0:Garrison~[a758], garrison, with 100~pikemen guards Forest~[dm50].
+13451:0::0:0:Garrison~[139084], garrison, with ten~soldiers, eight~workers guards Forest~[bs51].
+57081:0::0:1:Greyfell~[d21] sold 25~flax~[116012] for 375~gold.
+58335:0::0:1:Harn~[t75] bought six~woven baskets~[94] from Meriadoc Brandybuck~[84005] for 24~gold.
+58335:0::0:1:Meriadoc Brandybuck~[84005], with eight~sailors, three~winged horses, exited Harn~[t75].
+16950:0::0:1:Meriadoc Brandybuck~[84005], with eight~sailors, three~winged horses, arrived from Harn~[t75].
+16950:0::0:2:Meriadoc Brandybuck~[84005], with eight~sailors, entered Harn~[t75].
+58335:0::0:2:Meriadoc Brandybuck~[84005], with eight~sailors, arrived from Forest~[dm50].
+58335:0::0:3:Meriadoc Brandybuck~[84005], with eight~sailors, entered Kiga'rashu~[1212].
+58335:0::0:3:Kiga'rashu~[1212], roundship, 4% loaded, defense~4, 13%~damaged, departed for Ocean~[dn50].
+57081:0::0:5:Greyfell~[d21] sold 47~beans~[95161] for 611~gold.
+57081:0::0:5:Greyfell~[d21] sold 13~flax~[116012] for 195~gold.
+58335:0::0:7:Peregrin Took~[99866] recruited seven~peasants.
+58335:0::0:15:Peregrin Took~[99866], with eight~sailors, entered Sundered Seas~[5552].
+58335:0::0:15:Sundered Seas~[5552], roundship, 3% loaded, defense~10, 5%~damaged, departed for Ocean~[dn50].
+16950:0::0:21:It has begun to rain.
+98373:0::0:30:One winged horse died.
+13451:0::0::
+13451:0::0::Routes leaving Forest: 
+13451:0::3::North, to Ocean~[br51], Great Sea, impassable
+13451:0::3::East, to Ocean~[bs52], Great Sea, impassable
+13451:0::3::South, plain, to Dencedian Plains~[bt51], 7~days
+13451:0::3::West, plain, to Greyfell Downs~[bs50], 7~days
+13451:0::0::
+13451:0::0::Inner locations:
+13451:0::3::Greyfell~[d21], port city, safe haven, 1 day
+13451:0::0::
+13451:0::0::It is raining.
+13451:0::0::
+13451:0::0::Seen here:
+13451:0::0/3::   Garrison~[139084], garrison, on guard, with ten~soldiers, eight~workers
+16678:0::0::
+16678:0::0::Routes leaving Forest: 
+16678:0::3::North, desert, to The Shadowlands~[dg78], 8~days
+16678:0::3::East, to Ocean~[dh79], Great Sea, impassable
+16678:0::3::South, to Ocean~[dj78], Great Sea, impassable
+16678:0::3::West, forest, to The Shadowlands~[dh77], 8~days
+16678:0::0::
+16678:0::0::Inner locations:
+16678:0::3::Yellowleaf~[r52], port city, safe haven, 1 day
+16678:0::0::
+16678:0::0::It is raining.
+16678:0::0::
+16678:0::0::Seen here:
+16678:0::0/3::   Garrison~[2610], garrison, on guard, with ten~peasants
+16678:0::0/3:: * Lord Gary~[103357]
+16950:0::0::
+16950:0::0::Routes leaving Forest: 
+16950:0::3::North, plain, to Twilight zone~[dk50], 7~days
+16950:0::3::East, forest, to Twilight zone~[dm51], 8~days
+16950:0::3::South, to Ocean~[dn50], Great Sea, impassable
+16950:0::3::West, forest, to E. Druid Forest~[dm49], 8~days
+16950:0::0::
+16950:0::0::Inner locations:
+16950:0::3::Harn~[t75], port city, safe haven, 1 day
+16950:0::0::
+16950:0::0::It is raining.
+16950:0::0::
+16950:0::0::Seen here:
+16950:0::0/3::   Garrison~[a758], garrison, on guard, with 100~pikemen
+16950:0::0/3::   Rhao iye-Sama'an~[p803], wielding Javelin of Perendor~[85823], wearing Armor of Dirbrand~[145822], with five~workers, four~winged horses, one~orc, three~cyclops
+57081:0::0::
+57081:0::0::Routes leaving Greyfell: 
+57081:0::3::North, to Ocean~[br51], Great Sea, 1~day
+57081:0::3::East, to Ocean~[bs52], Great Sea, 1~day
+57081:0::3::Out, to Forest~[bs51], 1~day
+57081:0::0::
+57081:0::0::Cities rumored to be nearby:
+57081:0::3::Adalgar~[k65], in Darklord Mountain~[bz51]
+57081:0::3::Alaris~[p05], in Mountain~[bk51]
+57081:0::3::Port Royal~[t65], in Buzzard Bay~[bt55]
+57081:0::3::Dencede~[z47], in Dencedian Woods~[bv51]
+57081:0::0::
+57081:0::0::Skills taught here:
+57081:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+57081:0::0::
+57081:0::0::Market report:
+57081:0::3::
+57081:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57081:0::3::-----    ---   -----    ---     -----   ----                     
+57081:0::3::  buy   j231      10     11        65   plum wine~[a606]         
+57081:0::3::  buy   j231       4     29     1,000   winged horses~[54]       
+57081:0::3::  buy      ?      15     25       100   flax~[116012]            
+57081:0::3::  buy    d21     155     45        45   silk~[92764]             
+57081:0::3::  buy    d21       2    100         2   fish~[87]                
+57081:0::3::  buy    d21     196     32        15   rose perfume~[95676]     
+57081:0::3::  buy    d21       7      9         5   clay pots~[95]           
+57081:0::3::  buy    d21     144     28        28   myrrh~[92839]            
+57081:0::3::  buy    d21      71     49        55   cinnabar~[104269]        
+57081:0::3:: sell   7524       3    100         1   woven baskets~[94]       
+57081:0::3:: sell   j231     100      5        65   plum wine~[a836]         
+57081:0::3:: sell   7524     300      1         2   drum~[98]                
+57081:0::3:: sell    d21     110     34       100   jade~[q787]              
+57081:0::3:: sell    d21      50     10       100   pitch~[261]              
+57081:0::3:: sell    d21     120     29       100   ivory~[x371]             
+57081:0::3:: sell    d21      11     25        30   wood~[77]                
+57081:0::3:: sell    d21      13     47       100   beans~[95161]            
+57081:0::3:: sell    d21      15     38       100   flax~[116012]            
+57081:0::0::
+57081:0::0::Inner locations:
+57081:0::3::The Tower~[5334], tower, defense~40, owner:
+57081:0::0/6::      Spud~[1193], with eight~peasants, one~worker, four~swordsmen, two~riding horses
+57081:0::3::Greyfell Lords Retreat~[q910], tower, defense~40
+57081:0::3::Palazzo di Bicci~[2977], tower, defense~40
+57081:0::3::Sunken Refuge~[80786], tower, defense~40
+57081:0::0::
+57081:0::0::It is raining.
+57081:0::0::
+57081:0::0::Seen here:
+57081:0::0/3::   Mortimor~[132213]
+57081:0::0/3::   CH_HAVIC~[102267]
+57081:0::0/3::   Damon~[144730]
+57081:0::0/3::   Aravor Dunedin~[126607], accompanied~by:
+57081:0::0/6::      Grogan~[129226]
+57081:0::0/6::      Kron~[107428]
+57081:0::0/6::      Festar~[86099]
+57081:0::0/3::   Shadow~[m839]
+57081:0::0/3::   AcidDragon~[h083]
+57081:0::0/3::   morfix~[1970]
+57081:0::0/3::   Traveling Man~[3392], with one~wild horse, four~centaurs
+57081:0::0/3::   Red Phoenix~[7524], mage, "{<i>}Items for sale until day 14 of next round{</i>}", with one~riding horse, two~centaurs
+57081:0::0/3::   O Great Relief~[6098], with three~workers, one~battering ram
+57081:0::0/3:: * Lady Adina~[120795]
+57081:0::0/3::   Moe~[j231]
+57081:0::0::
+57081:0::0::Ships docked at port:
+57081:0::3/3::Boca Junket~[1864], roundship, 42% loaded, defense~10, owner:
+57081:0::0/6::      Scurvy  Joe~[d601], with six~riding horses, two~winged horses
+57081:0::3/3::Hound of Ulster~[1127], galley, 4% loaded, defense~20, owner:
+57081:0::0/6::      Medb Feidlech~[5615]
+57081:0::0/6::      New noble~[z655]
+57081:0::3/3::Falcon I~[81498], roundship-in-progress, 39% completed, 0% loaded
+58335:0::0::
+58335:0::0::Routes leaving Harn: 
+58335:0::3::South, to Ocean~[dn50], Great Sea, 1~day
+58335:0::3::Out, to Forest~[dm50], 1~day
+58335:0::0::
+58335:0::0::Cities rumored to be nearby:
+58335:0::3::Sweetwood~[p73], in C. Druid Forest~[dm48]
+58335:0::0::
+58335:0::0::Skills taught here:
+58335:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58335:0::0::
+58335:0::0::Market report:
+58335:0::3::
+58335:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58335:0::3::-----    ---   -----    ---     -----   ----                     
+58335:0::3::  buy    t75     129      6        50   hides~[99]               
+58335:0::3::  buy    t75     106     42        23   cardamom~[t510]          
+58335:0::3::  buy    t75       2    100         2   fish~[87]                
+58335:0::3::  buy    t75      82     50        43   tea~[94759]              
+58335:0::3::  buy    t75     172     40        80   fine cloaks~[116110]     
+58335:0::3::  buy    t75       4     15         1   woven baskets~[94]       
+58335:0::3:: sell    t75      32     25       100   honey~[v247]             
+58335:0::3:: sell    t75      50     10       100   pitch~[261]              
+58335:0::3:: sell    t75      15     25        30   wood~[77]                
+58335:0::3:: sell    t75      15     29       100   oranges~[81938]          
+58335:0::3:: sell    t75      24     48        30   incense~[85013]          
+58335:0::0::
+58335:0::0::Inner locations:
+58335:0::3::Sesua-D'asu~[3831], tower, defense~40, "of the freemen"
+58335:0::3::Maddog Monument~[r152], tower, defense~40, "Beware The Dog"
+58335:0::0::
+58335:0::0::It is raining.
+58335:0::0::
+58335:0::0::Seen here:
+58335:0::0/3::   Colwyn Grey~[101872]
+58335:0::0/3::   Etennum~[118115], with ten~peasants
+58335:0::0/3::   Xanis~[146549]
+58335:0::0/3::   Sceeth~[119371]
+58335:0::0/3::   Wong Yin-Shon~[89671]
+58335:0::0/3::   Wu-Song~[106978]
+58335:0::0/3::   Kong-Ming~[81117]
+58335:0::0/3:: * Lord Wolf~[98373]
+58335:0::0/3::   Karl Franz~[w795]
+58335:0::0/3::   Dude~[k520]
+58335:0::0/3::   Malicur Standish~[h634]
+58335:0::0/3::   Otis~[8276]
+58335:0::0::
+58335:0::0::Ships docked at port:
+58335:0::3/3::The scared cat~[v979], galley-in-progress, 57% completed, 0% loaded
+5:0::0::
+5:0::0::begin qj3  # The  Wolfs
+5:0::0::
+5:0::0::unit qj3  # The  Wolfs
+5:0::0::
+5:0::0::unit 120795  # Lady Adina in Greyfell~[d21]
+5:0::0::
+5:0::0::unit 103357  # Lord Gary in Forest~[dh78]
+5:0::0::
+5:0::0::unit 98373  # Lord Wolf in Harn~[t75]
+5:0::0::
+5:0::0::end
+54253:0::0::
+54253:0::0::Unclaimed items:
+54253:0::0::
+54253:0::0::      qty  name                              weight
+54253:0::0::      ---  ----                              ------
+54253:0::0::    4,300  gold~[1]                               0  
+54253:0::0::       50  wood~[77]                          1,500  
+54253:0::0::      100  stone~[78]                        10,000  
+98373:0::3::
+98373:0::3/16::Location:       Harn~[t75], in province Forest~[dm50], in Provinia
+98373:0::3::Loyalty:        Oath-2
+98373:0::3::Health:         100%
+98373:0::3::Combat:         attack 124, defense 115, missile 0
+98373:0::3::                behind 0  (front line in combat)
+98373:0::3::Break point:    50%
+98373:0::3::
+98373:0::3::Skills known:
+98373:0::6::Combat~[610]
+98373:0::12::Defense~[614], journeyman
+98373:0::12::Swordplay~[616], journeyman
+98373:0::6::Stealth~[630]
+98373:0::3::
+98373:0::3::Lord Wolf~[98373] has no possessions.
+98373:0::3::
+98373:0::3/11::Capacity:  0/100 land (0%)
+98373:0::3::
+103357:0::3::
+103357:0::3/16::Location:       Forest~[dh78], in Provinia
+103357:0::3::Loyalty:        Oath-1
+103357:0::3::Health:         100%
+103357:0::3::Combat:         attack 80, defense 80, missile 0
+103357:0::3::                behind 0  (front line in combat)
+103357:0::3::Break point:    50%
+103357:0::3::
+103357:0::3::Skills known:
+103357:0::6::none
+103357:0::3::
+103357:0::3::Partially known skills:
+103357:0::6/6::Shipcraft~[600], 14/21
+103357:0::3::
+103357:0::3::Lord Gary~[103357] has no possessions.
+103357:0::3::
+103357:0::3/11::Capacity:  0/100 land (0%)
+103357:0::3::
+120795:0::3::
+120795:0::3/16::Location:       Greyfell~[d21], in province Forest~[bs51], in Provinia
+120795:0::3::Loyalty:        Oath-1
+120795:0::3::Health:         100%
+120795:0::3::Combat:         attack 88, defense 80, missile 0
+120795:0::3::                behind 0  (front line in combat)
+120795:0::3::Break point:    50%
+120795:0::3::
+120795:0::3::Skills known:
+120795:0::6::Combat~[610]
+120795:0::12::Swordplay~[616], apprentice
+120795:0::3::
+120795:0::3::Lady Adina~[120795] has no possessions.
+120795:0::3::
+120795:0::3/11::Capacity:  0/100 land (0%)
+120795:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The  Wolfs~[qj3].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/qj3/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [qj3]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         3  104th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    4/74  117th  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:          73/31,919  107th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  28     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  80499 85401 121614 90887 89751
+0:0::0::
+0:0::0::65 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::120795 d21    o1    100  0                                    Lady Adina
+0:0::0::103357 dh78   o1    100  0                                    Lord Gary
+0:0::0::98373  t75    o2    100  0                                    Lord Wolf
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                                                      
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[bs51]
+0:0::0::    Greyfell~[d21]                 Lady Adina~[120795]
+0:0::0::  Forest~[dh78]                    Lord Gary~[103357]
+0:0::0::  Forest~[dm50]
+0:0::0::    Harn~[t75]                     Lord Wolf~[98373]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::120795         100        100   0%                                
+0:0::0::103357         100        100   0%                                
+0:0::0:: 98373         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The  Wolfs~[qj3]"><font size=+1><b>The  Wolfs~[qj3]</b></font>
+1:2::0::<hr>
+1:1::0::The  Wolfs~[qj3]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54253
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Lady Adina~[120795]"><font size=+1><b>Lady Adina~[120795]</b></font>
+1:2::0::<hr>
+1:1::0::Lady Adina~[120795]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 120795
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Gary~[103357]"><font size=+1><b>Lord Gary~[103357]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Gary~[103357]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 103357
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Wolf~[98373]"><font size=+1><b>Lord Wolf~[98373]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Wolf~[98373]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 98373
+1:2::0::
+1:2::0::<name="Forest~[bs51]"><font size=+1><b>Forest~[bs51]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[bs51], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13451
+1:0::0::
+1:2::0::
+1:2::0::<name="Greyfell~[d21]"><font size=+1><b>Greyfell~[d21]</b>, port city, in province Forest~[bs51], safe haven</font>
+1:2::0::<hr>
+1:1::0::Greyfell~[d21], port city, in province Forest~[bs51], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57081
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dh78]"><font size=+1><b>Forest~[dh78]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dh78], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16678
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dm50]"><font size=+1><b>Forest~[dm50]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dm50], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16950
+1:0::0::
+1:2::0::
+1:2::0::<name="Harn~[t75]"><font size=+1><b>Harn~[t75]</b>, port city, in province Forest~[dm50], safe haven</font>
+1:2::0::<hr>
+1:1::0::Harn~[t75], port city, in province Forest~[dm50], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58335
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

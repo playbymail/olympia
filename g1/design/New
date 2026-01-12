@@ -1,0 +1,266 @@
+
+2.  Artifacts
+
+	Create clumps of three artifacts
+
+	Each clump has a ritual which may only be learned
+	if one of the artifacts is possessed.
+
+	Ritual requires all three artifacts.
+	Perhaps also a special location.
+	Special location might be guarded by a nasty monster.
+
+	Creates another artifact, or a useful skill, or a powerful unit.
+
+	Give each player an artifact when they start
+
+	Scatter some artifacts as rewards.
+
+	Perhaps combo of weapons necessary to defeat monster
+
+
+	helm			+n defense
+	shield			+n defense
+	sword			+n attack
+	dagger			+n attack
+	spear			+n missile
+	bow			+n missile
+	staff			+n aura
+	ring			+n aura
+	amulet			never sick
+
+	magic %s
+	%s of {name list, darkness, power}
+	old %s
+
+	elfstone		passage to faery
+	staff of the dead	passage to hades
+	robe			speeded study
+	locator crystal		locate up to n away
+	scrying orb		scry up to n away
+
+	attack / move X
+		"Only one who holds Foo [xxx] will conquer Beast [yyy]"
+		"Only one who holds Foo [xxx] may enter Place [yyy]"
+
+	Level 1 artifact set:
+		Create three artifacts A B C
+		Create ritual skill S
+		Research A B C yields S
+		S if of form: take A B C to place L, use S
+		USE S consumes A B C, yields level 2 artifact
+
+	Level 2 artifact set:
+		Create item
+		"Only the holder of X may defeat Foo in Z"
+		Give level 3 artifact to Foo
+
+	Level 3 artifact:
+		"Place [x] is only visible to one who holds [y]"
+		"Go to [x].  Only you will be able to see Foo [y]."
+
+
+Crown, Scepter and Chalice
+
+
+2a.
+	Monster, over
+		Old man [xxx], prisoner
+		Lady %s [xxx], prisoner
+
+		Freeing yields:
+			artifact
+			gold
+			join faction
+			Monster was my father/son!  Kills n men.
+
+
+4.  Faction types
+
+	Each player must choose a faction type:
+
+		dwarves elves men . . .  orcs sea kings savages undead
+
+	Recruit is always of same type
+
+	Faction type limits skills which can be learned
+
+	Common:
+		Combat
+		Construction
+		Shipcraft
+		Stealth
+		Religion
+		Basic magic
+
+	Dwarves:
+		Mining
+		Gatecraft
+
+	Elves:
+		Forestry
+		Shipcraft
+		Scrying (Elven magic)
+		access to Faerie
+
+	Men:
+		Alchemy
+		Persuasion
+		Shipcraft
+		TRAIN order
+
+	Savages:
+		Beastmastery
+		Weather magic
+
+	Undead:
+		Necromancy
+		access to Hades
+
+	Different NP allotments to balance?
+	Also choose either Good or Evil.
+
+
+	Good:
+		advanced meditation
+
+	Evil:
+		fear loyalty
+		torture
+		raise orc unit
+
+	Orcs:
+		Beastmastery
+
+	Sea Kings:
+		Shipcraft
+
+
+Kingdoms/groups
+
+
+	found
+		kingdom/group
+		declared enemy
+		land acquisition goal
+		structures owned/dedicated goal
+		membership goal
+
+
+Groups are defined by:
+
+	faction		player's entire faction must join
+			the faction may not belong to another
+			exclusive group
+
+	individual	characters may join these groups.  the faction
+			may be part of a faction group.  A character
+			may only join one individual group
+
+	non-exclusive	characters or factions may join, no restrictions.
+
+
+	skills		skills the faction provides which members may study
+
+
+	land		members claim land in the name of the group
+			all existing owned land becomes group territory
+
+
+
+The legend of the Crown, Scepter and Chalice
+--------------------------------------------
+
+The three artifacts have been lost.  Nasty monsters are guarding them.
+A king must take all three to mount Zukko in Torba Bacor, and there
+peform the sacred ritual (issue the USE command for one of the artifact).
+
+The ritual will claim the Emperorship for the king, and give him vast
+powers.
+
+Which are:
+	build citadel skill ?
+	raise imperial guard units
+	imperial income based
+
+
+
+1.  GARRISON <kind> <number> [...]
+
+	Install a garrision of men in the location.
+	Must be the first unit in the location.
+	Cannot be used if there is already a garrison.
+
+	    Garrison [3465], lord Feasel the Great [2311], with 10 soldiers
+
+	Garrison is by default on guard.
+	Garrison's attitudes with respect to HOSTILE and DEFEND
+	are those of the unit which created it.
+
+	UNGARRISON [who] command.
+
+1a. Initially garrison unpopulated provinces?  Default hostile?
+
+	Garrison [3465], with 10 savages
+
+
+2.  Each garrisoned province provides 100 gold to offset maint costs.
+    Remainder is forwarded to the owner.
+
+3.  Number of provinces garrisoned determine's the owner's status:
+
+	lord		1-3
+	baron		4-8
+	count		9-13
+	earl		14-19
+	marquess	20-25
+	duke		26+
+
+	king	whole region
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+If owner belongs to a group, province is declared to be part of the
+group too.
+
+10% of each garrison's money goes to the group
+
+Raise unit from each group-owned province.
+
+Garrisons DEFEND members of group
+
+Members-only skills
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Imperial realm:
+	Raise imperial troops
+	Improve city administration skill
+
+	Emperor:		crown scepter and chalice
+	Administrator:		chosen by vote according to land
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Dark Nation:
+	Raise undead troops
+	Summon demon lord
+
+	Dark Overlord		holder of the ring
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Army of Darkness:
+
+	Raise skeleton troops
+
+	Lord Blood
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+perhaps have an evil group skill to generate monsters
+	summon pack of wolves
+	organize band of ruffians
+	promote banditry
+	summon horde of rats (time delay!?)
+

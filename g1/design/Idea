@@ -1,0 +1,371 @@
+
+Cloud castle
+	Foo [xx77], cloud castle, floats overhead, with:
+	Foo [xx77], cloud castle, drifts north
+	Foo [xx77], cloud castle, with:
+
+	raise cloud castle
+	direct cloud castle
+	land cloud castle
+
+	impassable link -- requires wingded horses or nazgul to reach
+
+	perhaps skills taught only from a book
+
+
+Have a tower called The Archives -- a location "artifact"
+extra research bonus there
+
+4.  Persuasion way to find lord, if in an inn.
+5.  autotrain
+6.  autohonor
+
+	at turn end:
+		deduct hire_pay from inventory
+			if not hire_pay
+				clear_work_for
+				unstack
+				move out of any buildings
+		perform autohonor
+		maint costs for men
+
+7.  Turn off tag showing for characters
+
+work_for	are we working for someone
+hire_pay	how much we are being paid
+autohon		how much we regularly honor ourselves with
+
+
+go_indep
+	clear attitudes
+	clear autohonor (or set it to n)
+
+set_work_for
+	work_for = n
+	hire_pay = m
+
+clear_work_for
+	work_for = 0;
+	unstack
+	move out of any buildings or non-city sublocs
+
+
+I see the proposals (roughly three, so far) as being very similar.
+
+Clearly, bribing an unsworn has to be significantly more difficult
+than hiring him.  I see a lot of room to work here, though.
+
+	maybe it already is
+	bribing indeps can be more expensive
+	it can have less of a chance of success
+	it can be impossible (say, if they're working)
+	it can have a much greater chance of success
+	   if the noble has been working for you for a while
+
+Let's come back to that.
+
+If the faction tag on units is hidden, then there is a new dimension of
+intrigue.  The owner of the unit gets the report of everything it sees
+and does.  The noble who hired the unit, however, does not.  Perhaps that
+sea-captain you hired is really in the employ of your sworn enemy?
+
+
+autotrain <list>		Train men if possible.
+autohonor <amount>		Honor self with the given amount of gold
+				each month.  If amount is "all", the noble
+				will spend all of its gold on itself.
+				autohonor 0 turns off automatic honoring.
+				autohonor work applies same amount PAYed each
+				month to honor
+
+
+Program for unsworn units (independents, or "indeps"):
+
+	Upon leaving service of their owner, indeps do:
+
+		HONOR <all gold in inventory>
+		AUTOHONOR HIRE
+		WORK 50 + maint cost
+
+Osswid [5499], hire for 50 gold, shipwright, sailor, fisher,
+builder, mercenary
+
+TELL GIVE won't give up items the hireling had when he began
+working for the noble. (not good enough; noble might still use the item)
+
+
+Faerie project:
+    1.	Instead of doing NSEW by the numbers, instead make a [4] vector
+	for each province location.  Must adjust dir.c, mapgen.  Can
+	eliminate the init_prov_dest junk.
+
+    2.  Generate a 5x5 or 10x10 set of locations for Faerie.  Wrap the
+	edges.  Must fit into region called Faerie.  All forest locs.
+	But no harvesting allowed.  Or enchanted forest locs.
+
+	Instead of wrapping edges, line with water locations.  Mwah ha ha.
+	They can't make ships in Faerie.  Ha ha ha!
+
+    3.	Seed with a Faerie hill in each location.
+
+    4.  Faerie hills exist both in Faerie as well as somewhere in the
+        real world, from time to time.  Faerie stone can summon them.
+	(Once a year they appear).
+
+    5.  Faerie cities sell rare, nifty things.
+
+    6.  Faerie has the Elven Hunt who attacks anyone they see, except
+	those who possess a faerie stone.
+
+    7.  No building in Faerie.
+
+    8.  Save faerie region in system file.  If region(where) == reg_faerie
+		if (in_faerie(where/who))
+
+
+Hades project:
+
+	5x5 grid of underground locs
+	the center loc contains:  Pit of Hades
+	Pit of Hades contains:  another Pit of Hades
+	three deep
+	28 days to travel between
+	locs surrounding center loc get the dual-linked graveyards
+
+Necro spell:  Transcend death, 1 np
+
+Need Elf magic spells
+	Remove elf connotation in Weather magic?
+	Banish undead
+	Elven weaponsmithing?
+	Make faery stone (req mithril) / Enter Faery
+
+
+
+Expand CATCH for use with other animals?
+Allow CATCH of strange things in Faerie
+
+Perf:
+  Hash subkinds....have a lookup_subkind?
+  Wonder what the perf improve would be
+  Or do a bsearch...  or simply save the number -- that's an easy time test
+  How about munch first two letters of the major kind, and have a quickie
+  routine to return the T_kind?
+
+Spirit World
+------------
+
+New magical skill category allows one's spirit to leave the body
+and travel in the spirit world.
+
+	o  use to cause spirit to appear next to body (stacked with?)
+
+	o  use to capture a demon
+
+	o  links from all graveyards to Hades
+
+	o  Hades is maze-like, with various demons about
+
+
+
+
+	-  Harmful to the body -- incurs health loss
+
+	-  Spirit is a separate entity one may give special orders to.
+
+		RETURN causes the spirit to cease existing, and returns
+		control to the living body.
+
+		The noble is inactive while the spirit exists.
+
+	-  Spirit-on-death bit.  When one dies, one becomes a spirit
+	   in Hades.
+
+	-  Spirits can't pick up things
+
+	-  Spirits only know spirit magic that they took with them.
+	   If they learn more in the spirit realm, they bring the
+	   knowledge back with them.
+
+
+Spirit Realm:
+
+
+                                        Dreamland
+                                          /
+                                         /
+	 Green Realm                    /
+                    \                  /
+		     Hall of the Sprits
+                                  \
+                                   \
+                 \      |    /      \
+		- Living World -     \
+                 /     |     \        \
+                                   Hall of Graves -- travel to any graveyard
+
+			Hades
+
+
+
+             /\
+            /\/\
+           ------
+
+
+          living world
+
+               ||
+               /\
+              /\/\
+             /\/\/\
+ permanent  -------- Hall of the Spirits
+     death
+
+
+Farsia, Faerie, undersea, moon
+
+	-  Use road system only for movement within realm-land
+
+	-  Perhaps living can somehow get into realm-land.
+
+	-  Spirits go to Hades, capture some demons, and bring them
+	   back to the real world to fight
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Eliminate magic scroll writing
+one magician per faction?
+
+
+---------
+
+Vote for ruling region Emperor
+
+	> 50% of the province kings must vote for the Emperor
+	Emperor must be one of the kings
+
+	challenge
+	support <who>
+
+Emperors may vote on the Grand Emperor
+
+	vote by weight of number of provinces in region
+
+	use scott turner's emperor idea instead
+		three relics
+		must hold all three to be emperor
+
+
+persuade: only allow 1 per turn
+
+
+------------------------------
+
+Inns require ale, pipeweed to be operated
+
+	o  After location report, give to owner the inventory report
+	   for the inn:
+
+		Inn stores:
+
+			55 ale [nn]
+			12 pipeweed [xxx]
+
+	o  Each man who enters deducts one ale, one pipeweed
+	o  Random additional depletion
+	o  Zero amount causes random amount of destruction
+	   from brawlers
+
+	o  Double healing
+	o  No thieving
+
+
+------------------------------
+
+
+o Osswid the Constructor [501], with:
+    The Townsmen, 14 peasants
+    The Guard, 5 soldiers
+  - Feasel the Wicked [502], with:
+      Rowdies, 10 soldiers
+  - Kosar [505], with:
+      1 peasant
+
+The idea here is that there is a name string associated with each type
+of unit.  If a unit of that type exists and a name exists, it is
+displayed.  In the above example, "The Townsmen", "The Guard", and
+"Rowdies" are names set by the player.  The one peasant hasn't had a
+name set yet.  This would allow for a little more personalization of
+units with a minimum of coding.  I suspect that "a lack of
+personality" will be one of the primary complaints you will get about
+the men-as-inventory and this should -- at least cosmetically -- be a
+reasonable response to such complaints.  You did say you wanted a
+"role-playing" feel.  
+
+------------------------------
+
+Monsters: (b, a, m)
+
+	Dragon [px78], (150, 0, 85)
+
+Dragons "grow" in strength the older they get
+Dragon eggs
+
+
+------------------------------
+
+                                         +----- acolyte  ---- gatehelper
+                                        /
+	peasant --- apprentice --- mageservant  --- battle mage
+                                        \
+                                         +----- aura deacon
+
+magical acolyte tree, just as for fighters
+
+
+                                         +----- acolyte  ---- gatehelper
+                                        /
+	peasant --- apprentice --- disciple --- battle priest
+                                        \
+                                         +----- aura deacon
+
+
+                                          +---- gatehelper
+
+
+peasant
+apprentice
+acolyte
+battle priest
+aura deacon
+disciple
+gatehelper
+
+	peasant
+	apprentice
+	acolyte acolythist
+	priest
+	deacon, deaconess
+
+	myrmidon
+	disciple
+	sectary
+	minion
+	magical warrior
+	spell jammer
+	
+
+
+Allow desc (banner) strings for places
+
+Foo [xxx], mountain
+Post message here
+
+
+	tame unicorns in pastures
+	unicorns protect against horse catching
+	ride griffons and pegasi in battle

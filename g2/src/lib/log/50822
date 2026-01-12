@@ -1,0 +1,436 @@
+11003:0::0:0:Garrison~[1911], garrison, with ten~soldiers, 25~workers guards Hestra~[an03].
+57392:0::0:0:Garrison~[5721], garrison, with 78~pikemen guards Jhena~[h32].
+11004:0::0:0:Garrison~[m251], garrison, with ten~soldiers, 61~centaurs, 11~oxen, 19~ghost warriors, 49~workers, nine~nazgul, three~giant spiders guards Panamei~[an04].
+11004:0::0:1:Savage~[107117] sounds a drumbeat.
+11003:0::0:1:Beating drums may be heard to the east.
+11004:0::0:26:Savage~[87257] attacks Jhena Castle~[z636]!
+11004:0::3:26:
+11004:0::3:26:Savage~[87257], savages, number:~16
+11004:0::3:26:
+11004:0::3:26:Jhena Castle~[z636], castle, defense~80, level~6, owner:
+11004:0::6/3:26:Quicksilver~[1045], earl, with five~workers, 34~elite guard, 68~pikemen, 35~blessed soldiers, 35~swordsmen, 34~elite archers, 18~catapults
+11004:0::0:26:
+11004:0::0:26:Quicksilver~[1045] is victorious!
+11004:0::0:26:
+11004:0::3:26:Savage lost 15~savages.
+11004:0::3:26:Savage~[87257] was taken prisoner.
+11004:0::0:26:
+11004:0::0:30:It has stopped raining.
+11003:0::0::
+11003:0::0::Province controlled by Jhena Castle~[z636], castle, in Panamei~[an04]
+11003:0::0::Ruled by Quicksilver~[1045], earl
+11003:0::0::
+11003:0::0::Routes leaving Hestra: 
+11003:0::3::North, mountain, to Leusa~[am03], 10~days
+11003:0::3::East, mountain, to Panamei~[an04], 10~days
+11003:0::3::South, plain, to Clymede~[ap03], 7~days
+11003:0::3::West, plain, to Aganthr~[an02], 7~days
+11003:0::0::
+11003:0::0::Inner locations:
+11003:0::3::Graveyard~[s333], graveyard, hidden, 1 day
+11003:0::3::Lair~[x393], lair, hidden, 1 day
+11003:0::0::
+11003:0::0::It is raining.
+11003:0::0::
+11003:0::0::Seen here:
+11003:0::0/3::   Garrison~[1911], garrison, on guard, with ten~soldiers, 25~workers
+11003:0::0/3::   Syn~[3516], "{<i>}House of Lords{</i>}"
+11003:0::0/3:: * Tempest~[9913], wielding golden sword~[s110], "{<i>}House of Lords{</i>}", with 12~centaurs, one~lion, one~giant bird, one~giant
+11004:0::0::
+11004:0::0::Province controlled by Jhena Castle~[z636], castle, in Panamei~[an04]
+11004:0::0::Ruled by Quicksilver~[1045], earl
+11004:0::0::
+11004:0::0::Routes leaving Panamei: 
+11004:0::3::North, mountain, to Polye~[am04], 10~days
+11004:0::3::East, swamp, to Hie~[an05], 14~days
+11004:0::3::South, mountain, to Amphion~[ap04], 10~days
+11004:0::3::West, mountain, to Hestra~[an03], 10~days
+11004:0::0::
+11004:0::0::Inner locations:
+11004:0::3::Jhena~[h32], city, "Duchy of Jelling", 1 day
+11004:0::3::Jhena Castle~[z636], castle, defense~80, level~6, "House of Lords", owner:
+11004:0::0/6::      Quicksilver~[1045], earl, "{<i>}House of Lords{</i>}", with five~workers, 34~elite guard, 68~pikemen, 35~blessed soldiers, 35~swordsmen, 34~elite archers, 18~catapults, accompanied~by:
+11004:0::0/9::         Savage~[102615], savage, prisoner
+11004:0::0/9::         Savage~[143823], savage, prisoner
+11004:0::0/9::         Savage~[123806], savage, prisoner
+11004:0::0/9::         Savage~[95526], savage, prisoner
+11004:0::0/9::         Savage~[102733], savage, prisoner
+11004:0::0/9::         Savage~[91574], savage, prisoner
+11004:0::0/9::         Savage~[80342], savage, prisoner
+11004:0::0/9::         Savage~[104865], savage, prisoner
+11004:0::0/9::         Savage~[133645], savage, prisoner
+11004:0::0/9::         Savage~[146735], savage, prisoner
+11004:0::0/9::         Savage~[87257], savage, prisoner
+11004:0::6::Jhena Tower~[2751], tower, defense~40, "House of Lords"
+11004:0::0::
+11004:0::0::Seen here:
+11004:0::0/3::   Garrison~[m251], garrison, on guard, with ten~soldiers, 61~centaurs, 11~oxen, 19~ghost warriors, 49~workers, nine~nazgul, three~giant spiders
+11004:0::0/3::   Savage~[107117], savage
+11004:0::0/3::   Savage~[80209], savage
+36677:0::0::
+36677:0::0::No known routes leaving Hades~[rh77]
+57392:0::0::
+57392:0::0::Routes leaving Jhena: 
+57392:0::3::Out, mountain, to Panamei~[an04], 1~day
+57392:0::0::
+57392:0::0::Skills taught here:
+57392:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Mining~[720], Magic~[800], Necromancy~[900]
+57392:0::0::
+57392:0::0::Market report:
+57392:0::3::
+57392:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57392:0::3::-----    ---   -----    ---     -----   ----                     
+57392:0::3::  buy    h32     127      3        50   hides~[99]               
+57392:0::3::  buy    h32       4     15         1   woven baskets~[94]       
+57392:0::3::  buy    h32     141     27       100   honey~[99733]            
+57392:0::3:: sell    h32      28      1        10   iron~[79]                
+57392:0::0::
+57392:0::0::Inner locations:
+57392:0::3::Humanis Policlub~[s577], temple, defense~10, "House of Lords", owner:
+57392:0::0/6::      Grandfather Bones~[7036], priest, "{<i>}House of Lords{</i>}", with ten~blessed soldiers
+57392:0::0::
+57392:0::0::Seen here:
+57392:0::0/3::   Garrison~[5721], garrison, on guard, with 78~pikemen, accompanied~by:
+57392:0::0/6::      Lord Etake~[1385], wielding Longsword of Lethrys~[d410], "{<i>}Kingdom of Cragstan{</i>}"
+57392:0::0/6::      Captain Protora~[a106], "{<i>}House of Lords{</i>}"
+5:0::0::
+5:0::0::begin de2 "Gajas"  # Universal Brotherhood
+5:0::0::
+5:0::0::unit de2  # Universal Brotherhood
+5:0::0::
+5:0::0::unit 9913  # Tempest in Hestra~[an03]
+5:0::0::
+5:0::0::unit 1599  # Hatchetman in Jhena~[h32]
+5:0::0::
+5:0::0::unit 2518  # Lord Torgo in Hades~[rh77]
+5:0::0::
+5:0::0::end
+50822:0::0::
+50822:0::0::Admit permissions:
+50822:0::0::
+50822:0::3::admit 1599  sa4  wb4  kt3 3920
+50822:0::3::admit 2518  sa4  wb4  kt3 3920
+50822:0::3::admit 3495  sa4  wb4  kt3 3920
+50822:0::3::admit 3516  sa4  wb4  kt3 3920
+50822:0::3::admit 3883  sa4  wb4  kt3 3920
+50822:0::3::admit 8589  sa4  wb4  kt3 3920
+50822:0::3::admit 9913  sa4  wb4  kt3 3920
+50822:0::0::
+50822:0::0::Declared attitudes:
+50822:0::3::defend  1599 3634 3843 3920 5934 6344  de2  hr2  kt3  px4  ra2
+50822:0::3::         sa4  wb4 a068 k810 n471 r381 x196 x218 z501
+50822:0::0::
+50822:0::0::Unclaimed items:
+50822:0::0::
+50822:0::0::      qty  name                              weight
+50822:0::0::      ---  ----                              ------
+50822:0::0::    7,125  gold~[1]                               0  
+1599:0::3::
+1599:0::3/16::Location:       Jhena~[h32], in province Panamei~[an04], in Cipheria
+1599:0::3::Loyalty:        Oath-1
+1599:0::3::Health:         100%
+1599:0::3::Combat:         attack 165, defense 117, missile 0
+1599:0::3::                behind 0  (front line in combat)
+1599:0::3::Break point:    0% (fight to the death)
+1599:0::3::use  641 1      (concealing self)
+1599:0::3::Receive Vision: 3 protection
+1599:0::3::
+1599:0::3::Skills known:
+1599:0::6::Combat~[610]
+1599:0::12::Survive fatal wound~[611]
+1599:0::12::Fight to the death~[612]
+1599:0::12::Defense~[614], journeyman
+1599:0::12::Swordplay~[616], adept
+1599:0::12::Weaponsmithing~[617], apprentice
+1599:0::6::Stealth~[630]
+1599:0::12::Petty thievery~[631], journeyman
+1599:0::12::Determine inventory of character~[632], apprentice
+1599:0::12::Determine skills of character~[633], apprentice
+1599:0::12::Determine character's lord~[634], apprentice
+1599:0::12::Conceal faction~[635], apprentice
+1599:0::12::Learn of richest nearby noble~[636], apprentice
+1599:0::12::Torture prisoner~[637], apprentice
+1599:0::12::Sneak into structure~[639], apprentice
+1599:0::12::Conceal self~[641], apprentice
+1599:0::6::Persuasion~[670]
+1599:0::12::Bribe noble~[671], apprentice
+1599:0::12::Persuade oathbound noble~[672], apprentice
+1599:0::12::Raise peasant mob~[673], apprentice
+1599:0::12::Rally peasant mob~[674], apprentice
+1599:0::3::
+1599:0::3::Inventory:
+1599:0::3::{<b>}      qty  name                              weight{</b>}
+1599:0::3::      ---  ----                              ------
+1599:0::3::    1,000  gold~[1]                               0  
+1599:0::3::        1  elfstone~[69]                          1  
+1599:0::3::                                             ======
+1599:0::3::                                                  1
+1599:0::3::
+1599:0::3/11::Capacity:  1/100 land (1%)
+1599:0::3::
+2518:0::3::
+2518:0::3/16::Location:       Hades~[rh77], in Hades
+2518:0::3::Loyalty:        Oath-2
+2518:0::3::Health:         100%
+2518:0::3::Combat:         attack 80, defense 30, missile 0
+2518:0::3::                behind 9  (stay behind in combat)
+2518:0::3::Break point:    50%
+2518:0::3::use  641 1      (concealing self)
+2518:0::3::Receive Vision: 4 protection
+2518:0::3::Banner:         House of Lords
+2518:0::3::
+2518:0::3::Current aura:   54
+2518:0::3::Maximum aura:   56
+2518:0::3::
+2518:0::3::Skills known:
+2518:0::6::Combat~[610]
+2518:0::6::Stealth~[630]
+2518:0::12::Sneak into structure~[639], apprentice
+2518:0::12::Conceal self~[641], apprentice
+2518:0::6::Magic~[800]
+2518:0::12::Meditate~[801], apprentice
+2518:0::12::Perform common tasks for gold~[802], grand master
+2518:0::12::Appear common~[803], journeyman
+2518:0::12::View current aura level of others~[804], apprentice
+2518:0::12::Reveal abilities of another mage~[805], apprentice
+2518:0::12::Tap health for aura~[806], apprentice
+2518:0::12::Heal~[807], apprentice
+2518:0::12::Modern magic script~[808], apprentice
+2518:0::12::Shroud abilities from scry~[809], apprentice
+2518:0::12::Detect ability scry~[811], apprentice
+2518:0::12::Dispel ability shroud~[812], apprentice
+2518:0::12::Advanced meditation~[813], adept
+2518:0::12::Hinder meditation~[814], apprentice
+2518:0::6::Weather magic~[820]
+2518:0::12::Fierce wind~[821], apprentice
+2518:0::12::Bind storm to ship~[822], apprentice
+2518:0::12::Scribe weather symbols~[823], apprentice
+2518:0::12::Summon rain~[824], apprentice
+2518:0::12::Summon wind~[825], apprentice
+2518:0::12::Summon fog~[826], apprentice
+2518:0::6::Scrying~[840]
+2518:0::12::Scry location~[841], master
+2518:0::12::Shroud location from magical scry~[842], apprentice
+2518:0::12::Dispel location shroud~[843], apprentice
+2518:0::12::Ciphered writing of Areth-Pirn~[844], apprentice
+2518:0::12::Create magical barrier~[845], apprentice
+2518:0::12::Remove magical barrier~[846], apprentice
+2518:0::12::Locate character~[847], apprentice
+2518:0::12::Detect location scry~[848], apprentice
+2518:0::12::Farcasting~[849], apprentice
+2518:0::12::Save farcast state~[851], apprentice
+2518:0::12::Banish undead~[852], apprentice
+2518:0::6::Gatecraft~[860]
+2518:0::12::Teleport~[861], apprentice
+2518:0::12::Detect gates~[862], apprentice
+2518:0::12::Jump through gate~[863], apprentice
+2518:0::12::Seal gate~[864], apprentice
+2518:0::12::Unseal gate with key~[865], apprentice
+2518:0::12::Notify if gate unsealed~[866], apprentice
+2518:0::12::Forcefully unseal gate~[867], apprentice
+2518:0::12::Reveal gate key~[868], apprentice
+2518:0::12::Notify of gate jumps~[869], apprentice
+2518:0::12::Language of the Ancients~[871], apprentice
+2518:0::12::Reverse jump through gate~[872], apprentice
+2518:0::6::Artifact construction~[880]
+2518:0::6::Necromancy~[900]
+2518:0::12::Runes of Evil~[902], apprentice
+2518:0::12::Summon ghost warriors~[903], apprentice
+2518:0::12::Raise undead~[904], apprentice
+2518:0::12::Summon demon lord~[905], apprentice
+2518:0::12::Renew demon bond~[906], apprentice
+2518:0::12::Banish demon lord~[907], apprentice
+2518:0::12::Eating of the dead~[908], apprentice
+2518:0::12::Aura blast~[909], apprentice
+2518:0::12::Absorb aura blast~[911], apprentice
+2518:0::3::
+2518:0::3::Partially known skills:
+2518:0::6/6::Direct storm~[827], 0/21
+2518:0::6/6::Dissipate storm~[828], 0/21
+2518:0::6/6::Renew storm strength~[829], 0/21
+2518:0::6/6::Lightning bolt~[831], 0/28
+2518:0::6/6::Seize control of storm~[832], 0/21
+2518:0::6/6::Fog of death~[833], 0/21
+2518:0::3::
+2518:0::3::Lord Torgo~[2518] has no possessions.
+2518:0::3::
+2518:0::3/11::Capacity:  0/100 land (0%)
+2518:0::3::
+9913:0::3::
+9913:0::3/16::Location:       Hestra~[an03], in Cipheria
+9913:0::3::Loyalty:        Oath-1
+9913:0::3::Health:         100%
+9913:0::3::Combat:         attack 127, defense 104, missile 0
+9913:0::3::                behind 0  (front line in combat)
+9913:0::3::Break point:    0% (fight to the death)
+9913:0::3::Receive Vision: 3 protection
+9913:0::3::Banner:         House of Lords
+9913:0::3::
+9913:0::3::Skills known:
+9913:0::6::Combat~[610]
+9913:0::12::Survive fatal wound~[611]
+9913:0::12::Fight to the death~[612]
+9913:0::12::Defense~[614], apprentice
+9913:0::12::Swordplay~[616], journeyman
+9913:0::12::Weaponsmithing~[617], apprentice
+9913:0::6::Beastmastery~[650]
+9913:0::12::Bird spy~[651], apprentice
+9913:0::12::Capture beasts in battle~[652]
+9913:0::12::Use beasts in battle~[653]
+9913:0::12::Breed beasts~[654], grand master
+9913:0::12::Catch wild horses~[655], apprentice
+9913:0::12::Train wild horse to riding horse~[656], apprentice
+9913:0::12::Train wild horse to warmount~[657], apprentice
+9913:0::12::Summon wild men~[658], apprentice
+9913:0::12::Persuade wild men to remain~[659], apprentice
+9913:0::12::Breed hound~[661], apprentice
+9913:0::3::
+9913:0::3::Inventory:
+9913:0::3::{<b>}      qty  name                              weight{</b>}
+9913:0::3::      ---  ----                              ------
+9913:0::3::        3  gold~[1]                               0  
+9913:0::3::        1  elfstone~[69]                          1  
+9913:0::3::        1  ratspider~[81]                         1   (5,5,0)
+9913:0::3::        1  drum~[98]                              2  
+9913:0::3::       12  centaurs~[271]                    12,000  ride 1,800 (30,30,0)
+9913:0::3::        1  lion~[280]                           750   (100,100,0)
+9913:0::3::        1  giant bird~[281]                   1,500   (200,150,0)
+9913:0::3::        1  giant~[292]                          200  cap 200 (75,25,0)
+9913:0::3::        1  golden sword~[s110]                   10  +5 attack
+9913:0::3::                                             ======
+9913:0::3::                                             14,464
+9913:0::3::
+9913:0::3/11::Capacity:  14/2,100 land (0%), 314/1,800 ride (17%)
+9913:0::3::
+9913:0::3::Pending trades:
+9913:0::3::
+9913:0::6::trade    price    qty   item
+9913:0::6::-----    -----    ---   ----
+9913:0::6:: sell        4  9,999   woven basket~[94]
+9913:0::6:: sell      127  9,990   hide~[99]
+9913:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Universal Brotherhood~[de2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/de2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [de2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         3  104th  
+0:0::3/41::Men:                                1  83rd   
+0:0::3/41::Gold:                           1,003  97th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   32/74  74th   
+0:0::3/41::Spells known:                   56/79  51st   
+0:0::3/41::Provinces visited:         513/31,919  65th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  19     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 268.
+0:0::0::
+0:0::0::The next five nobles formed will be:  d436 w502 p968 80662 112278
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::9913   an03   o1    100  0       3                   1        Tempest
+0:0::0::1599   h32    o1    100  0    1000                            Hatchetman
+0:0::0::2518   rh77   o2    100  9 54                                 Lord Torgo
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              1003                   1
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Cipheria
+0:0::0::  Hestra~[an03]                    Tempest~[9913]
+0:0::0::  Panamei~[an04]
+0:0::0::    Jhena~[h32]                    Hatchetman~[1599]
+0:0::0::Hades
+0:0::0::  Hades~[rh77]                     Lord Torgo~[2518]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  9913      14,564      2,086   0%      1,486  17%                
+0:0::0::  1599         101         99   1%                                
+0:0::0::  2518         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Universal Brotherhood~[de2]"><font size=+1><b>Universal Brotherhood~[de2]</b></font>
+1:2::0::<hr>
+1:1::0::Universal Brotherhood~[de2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50822
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Tempest~[9913]"><font size=+1><b>Tempest~[9913]</b></font>
+1:2::0::<hr>
+1:1::0::Tempest~[9913]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9913
+1:0::0::
+1:2::0::
+1:2::0::<name="Hatchetman~[1599]"><font size=+1><b>Hatchetman~[1599]</b></font>
+1:2::0::<hr>
+1:1::0::Hatchetman~[1599]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1599
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Torgo~[2518]"><font size=+1><b>Lord Torgo~[2518]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Torgo~[2518]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2518
+1:2::0::
+1:2::0::<name="Hestra~[an03]"><font size=+1><b>Hestra~[an03]</b>, mountain, in Cipheria, civ-3</font>
+1:2::0::<hr>
+1:1::0::Hestra~[an03], mountain, in Cipheria, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11003
+1:0::0::
+1:2::0::
+1:2::0::<name="Panamei~[an04]"><font size=+1><b>Panamei~[an04]</b>, mountain, in Cipheria, civ-6</font>
+1:2::0::<hr>
+1:1::0::Panamei~[an04], mountain, in Cipheria, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11004
+1:0::0::
+1:2::0::
+1:2::0::<name="Jhena~[h32]"><font size=+1><b>Jhena~[h32]</b>, city, in province Panamei~[an04]</font>
+1:2::0::<hr>
+1:1::0::Jhena~[h32], city, in province Panamei~[an04]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57392
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[rh77]"><font size=+1><b>Hades~[rh77]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[rh77], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36677
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

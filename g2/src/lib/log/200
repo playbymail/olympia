@@ -1,0 +1,1169 @@
+13:0::0:0:add_token_units(Golden idol of the Orcs~[a150])
+13:0::0:0:add_token_units(Crown of the Undead lord~[a437])
+13:0::0:0:add_token_units(Crown of the Barbarians~[a460])
+13:0::0:0:add_token_units(Horn of the Savages~[b044])
+13:0::0:0:add_token_units(Banner of the Skeletons~[c310])
+13:0::0:0:add_token_units(Banner of the Skeletons~[c441])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[c577])
+13:0::0:0:add_token_units(Horn of the Savages~[c626])
+13:0::0:0:add_token_units(Crown of the Barbarians~[c663])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[c840])
+13:0::0:0:add_token_units(Crown of the Undead lord~[d374])
+13:0::0:0:add_token_units(Horn of the Savages~[d651])
+13:0::0:0:add_token_units(Horn of the Savages~[f226])
+13:0::0:0:add_token_units(Crown of the Barbarians~[f975])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[g458])
+13:0::0:0:add_token_units(Horn of the Savages~[h602])
+13:0::0:0:add_token_units(Banner of the Skeletons~[h700])
+13:0::0:0:add_token_units(Crown of the Barbarians~[h946])
+13:0::0:0:add_token_units(Banner of the Skeletons~[j007])
+13:0::0:0:add_token_units(Crown of the Undead lord~[j369])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[k840])
+13:0::0:0:add_token_units(Banner of the Skeletons~[m139])
+13:0::0:0:add_token_units(Crown of the Undead lord~[m242])
+13:0::0:0:add_token_units(Crown of the Undead lord~[m456])
+13:0::0:0:add_token_units(Crown of the Undead lord~[m917])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[p197])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[p405])
+13:0::0:0:add_token_units(Banner of the Skeletons~[p587])
+13:0::0:0:add_token_units(Crown of the Undead lord~[p745])
+13:0::0:0:add_token_units(Crown of the Barbarians~[p895])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[q060])
+13:0::0:0:add_token_units(Crown of the Barbarians~[q207])
+13:0::0:0:add_token_units(Banner of the Skeletons~[q410])
+13:0::0:0:add_token_units(Banner of the Skeletons~[q513])
+13:0::0:0:add_token_units(Horn of the Savages~[q551])
+13:0::0:0:add_token_units(Banner of the Skeletons~[q717])
+13:0::0:0:add_token_units(Crown of the Barbarians~[r192])
+13:0::0:0:add_token_units(Horn of the Savages~[r390])
+13:0::0:0:add_token_units(Banner of the Skeletons~[r556])
+13:0::0:0:add_token_units(Horn of the Savages~[s255])
+13:0::0:0:add_token_units(Horn of the Savages~[s388])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[s649])
+13:0::0:0:add_token_units(Horn of the Savages~[s875])
+13:0::0:0:add_token_units(Horn of the Savages~[t013])
+13:0::0:0:add_token_units(Crown of the Barbarians~[t605])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[t662])
+13:0::0:0:add_token_units(Crown of the Barbarians~[t864])
+13:0::0:0:add_token_units(Banner of the Skeletons~[v016])
+13:0::0:0:add_token_units(Crown of the Barbarians~[v193])
+13:0::0:0:add_token_units(Horn of the Savages~[v659])
+13:0::0:0:add_token_units(Crown of the Undead lord~[w058])
+13:0::0:0:add_token_units(Crown of the Barbarians~[w148])
+13:0::0:0:add_token_units(Banner of the Skeletons~[w937])
+13:0::0:0:add_token_units(Horn of the Savages~[w946])
+13:0::0:0:add_token_units(Crown of the Undead lord~[x152])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[x413])
+13:0::0:0:add_token_units(Crown of the Barbarians~[z583])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[z808])
+13:0::0:0:add_token_units(Crown of the Undead lord~[83186])
+13:0::0:0:add_token_units(Horn of the Savages~[88850])
+13:0::0:0:add_token_units(Banner of the Skeletons~[89673])
+13:0::0:0:add_token_units(Banner of the Skeletons~[89933])
+13:0::0:0:add_token_units(Crown of the Barbarians~[105897])
+13:0::0:0:add_token_units(Horn of the Savages~[107642])
+13:0::0:0:add_token_units(Banner of the Skeletons~[107856])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[116758])
+13:0::0:0:add_token_units(Banner of the Skeletons~[122616])
+13:0::0:0:add_token_units(Golden idol of the Orcs~[128090])
+13:0::0:0:add_token_units(Crown of the Undead lord~[129643])
+13:0::0:0:add_token_units(Crown of the Barbarians~[131227])
+13:0::0:0:add_token_units(Crown of the Barbarians~[134283])
+13:0::0:0:add_token_units(Crown of the Barbarians~[140267])
+12:0::0:1:Savage~[92614] died in Miners Pub~[127030], in province Llangollen Mountain Ridge~[bw50], in Provinia.
+12:0::0:1:Savage~[83719] died in New mine~[4430], in province Llangollen Mountain Ridge~[bx50], in Provinia.
+12:0::0:1:Savage~[137978] died in Savage Target~[82297], in province Llangollen Mountain Ridge~[bw49], in Provinia.
+12:0::0:1:Savage~[142429] died in The Moonlands~[cr65], in Provinia.
+12:0::0:1:Savage~[100363] died in Plain~[at24], in Ormos.
+12:0::0:1:Savage~[135725] died in Mojave Desert~[ca50], in Provinia.
+12:0::0:1:Savage~[139034] died in Plain~[br45], in Provinia.
+11:0::0:1:Player yv5 surrenders Treehewer~[1809]
+12:0::0:1:Garrison~[w919] died in Plain~[am73], in Atala.
+12:0::0:1:Savage~[96015] died in Syr-Antin Mountains~[bv37], in Provinia.
+11:0::0:2:Ouroboros~[zz4] (Kimster~[x322]) tries to enter Hades
+12:0::0:2:Savage~[112421] died in Mountain~[bg49], in Krussos.
+12:0::0:2:Savage~[113067] died in Mountain~[bf91], in Krussos.
+12:0::0:2:Savage~[108186] died in Mountain~[fc75], in Camaris Island.
+11:0::0:2:Deep Vein I~[90645] collapsed in Twilight zone~[dd55].
+12:0::0:3:Savage~[91235] died in Mountain~[fh17], in Ferenth.
+12:0::0:3:Savage~[88640] died in Mountain~[fh17], in Ferenth.
+12:0::0:3:Savage~[137496] died in Forest~[fh19], in Ferenth.
+12:0::0:3:Savage~[109954] died in Forest~[fh19], in Ferenth.
+12:0::0:3:Savage~[140857] died in Syr-Antin Mountains~[bv37], in Provinia.
+12:0::0:3:Savage~[82172] died in Syr-Antin Mountains~[bv37], in Provinia.
+12:0::0:4:Savage~[140512] died in Musketeer Lands~[bz71], in Provinia.
+11:0::0:4:Player fc3 surrenders Kweetnix~[94272]
+12:0::0:4:Aegyptus~[p351] died in Tymbuktu~[x43], in province Mountain~[dm87], in Camaris.
+11:0::0:4:Aegyptus~[p351] transcends death
+11:0::0:4:...Aegyptus~[p351] moved to Hades~[qv48]
+12:0::0:4:Hakuna Matata~[n845] died in Tymbuktu~[x43], in province Mountain~[dm87], in Camaris.
+13:0::0:5:Token Golden idol of the Orcs~[g458] moved from Bones~[98305] (ME-Wizards~[nf6]) to Kreelaw Mazi~[112260] (Bloodhook Island Refugees~[wc9])
+13:0::0:5:Bloodhook Island Refugees~[wc9] got npc token Golden idol of the Orcs~[g458]
+13:0::0:5:add_token_units(Golden idol of the Orcs~[g458])
+11:0::0:5:Ouroboros~[zz4] (Undead~[97181]) tries to enter Hades
+12:0::0:5:Pirate~[138503] died in Island~[t205], in Ocean~[bx24], in Great Sea.
+12:0::0:6:Savage~[87848] died in western mine~[104783], in province Mountain~[br15], in Tollus.
+11:0::0:6:Ouroboros~[zz4] (New noble~[109532]) tries to enter Hades
+12:0::0:6:Garrison~[129704] died in Cloud~[nj89], in Cloudlands.
+12:0::0:6:Garrison~[t465] died in Forest~[ak62], in Atala.
+12:0::0:6:Savage~[132766] died in Forest~[fn10], in Ferenth.
+10:0::0:7:Palantir scry, who=v151, targ=cf90
+12:0::0:7:Savage~[108978] died in Digitus Impudent~[5895], in Ky'lesh~[s40], in province The Moonlands~[cw68], in Provinia.
+12:0::0:7:Savage~[129538] died in Learn Here Now~[143772], in province Forest~[fh14], in Ferenth.
+12:0::0:7:Savage~[130915] died in Jhena Castle~[z636], in province Panamei~[an04], in Cipheria.
+11:0::0:9:Player fc3 surrenders Betawix~[94453]
+11:0::0:9:Player fc3 surrenders Controlix~[79037]
+13:0::0:10:Token Golden idol of the Orcs~[128090] moved from The Desert Frog~[t774] (The PGA~[mh8]) to K-Frog~[z102] (The PGA~[mh8])
+12:0::0:10:Cyclops~[82341] died in Island~[q853], in Ocean~[br33], in Great Sea.
+12:0::0:11:Garrison~[4133] died in The Shadowlands~[dd73], in Provinia.
+13:0::0:11:Sledgehog~[z619] found Scroll~[t866] in Ferenth~[58774], in Ferenth.
+12:0::0:12:Garrison~[140959] died in Cloud~[kx80], in Cloudlands.
+12:0::0:12:Garrison~[84669] died in The Shadowlands~[dc69], in Provinia.
+11:0::0:12:Serla Silverhair~[4972] destroyed A Ring~[132314] (auraculum, creator=[0])
+12:0::0:13:Garrison~[109398] died in Freedom Forest~[dt71], in Camaris.
+12:0::0:13:Garrison~[3917] died in Desert~[ds67], in Camaris.
+12:0::0:13:Garrison~[2313] died in The Shadowlands~[dd73], in Provinia.
+12:0::0:13:Savage~[93481] died in Mountain~[ba85], in Krussos.
+12:0::0:14:Savage~[143583] died in Mountain~[fg16], in Ferenth.
+12:0::0:14:Savage~[132246] died in Mountain~[fg13], in Ferenth.
+12:0::0:14:Garrison~[1645] died in Desert~[an73], in Atala.
+12:0::0:14:Garrison~[1553] died in The Shadowlands~[dc69], in Provinia.
+12:0::0:14:Sturm Soldat~[144966] died in Judecca ~[cg31], in Provinia.
+11:0::0:14:New noble~[100713] created Strange potion~[119961], auraculum.
+11:0::0:15:Player ug3 surrenders Gershwin Von Hokensplock~[c434]
+12:0::0:15:Garrison~[7455] died in Forest~[dw71], in Camaris.
+12:0::0:15:Garrison~[3335] died in The Shadowlands~[dd73], in Provinia.
+11:0::0:16:Eldrad's Loyalists~[xf3] (Northern Seeker~[95020]) tries to enter Hades
+12:0::0:16:Garrison~[3308] died in Quinqueroi~[cj07], in Cragstan.
+12:0::0:16:Skeleton~[128407] died in Ancient battlefield~[v690], in province Mountain~[bh49], in Krussos.
+12:0::0:17:Garrison~[6788] died in Swamp~[dp79], in Camaris.
+12:0::0:18:Savage~[103337] died in Mountain~[az26], in Ormos.
+12:0::0:18:Garrison~[136223] died in Cloud~[hj36], in Cloudlands.
+13:0::0:18:Harkonen~[101132] found dead body~[g485] in Camaris~[58770], in Camaris.
+10:0::0:19:correcting CLAIM for vy5:  claim 500
+12:0::0:19:Garrison~[93514] died in Swamp~[dv68], in Camaris.
+12:0::0:20:Garrison~[6925] died in Forest~[dw74], in Camaris.
+12:0::0:21:Garrison~[4959] died in Forest~[an75], in Atala.
+11:0::0:21:Diarmuid~[8787] drinks a slavery potion to Warrior~[2974]
+
+12:0::0:21:Cyclops~[106197] died in Island~[v409], in Ocean~[bp43], in Great Sea.
+10:0::0:21:Palantir scry, who=2198, targ=cb46
+11:0::0:21:kill_stack_ocean, swam ashore, who=f934
+11:0::0:21:kill_stack_ocean, swam ashore, who=137129
+11:0::0:21:kill_stack_ocean, swam ashore, who=149315
+11:0::0:21:kill_stack_ocean, swam ashore, who=f217
+11:0::0:21:kill_stack_ocean, swam ashore, who=c651
+11:0::0:21:kill_stack_ocean, swam ashore, who=1088
+12:0::0:21:Savage~[86689] died in Llangollen Mountain Ridge~[bw49], in Provinia.
+12:0::0:21:Savage~[101425] died in Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery.
+12:0::0:21:Savage~[109382] died in Llangollen Mountain Ridge~[bw49], in Provinia.
+12:0::0:22:Garrison~[a276] died in The Shadowlands~[dh71], in Provinia.
+12:0::0:23:Savage~[79447] died in Mountain~[fk19], in Ferenth.
+12:0::0:23:Garrison~[87300] died in Plain~[dp80], in Camaris.
+12:0::0:24:Garrison~[98513] died in Cloud~[hh16], in Cloudlands.
+12:0::0:24:Savage~[121651] died in Mountain~[bd87], in Krussos.
+12:0::0:24:Ratspider~[99206] died in Chamber~[x819], in Undercity.
+13:0::0:25:Token Banner of the Skeletons~[122616] moved from Cinder Firewater~[9625] (Bloodhook Island Refugees~[wc9]) to Garrison~[9277] (Independent player~[100])
+13:0::0:25:Independent player~[100] got npc token Banner of the Skeletons~[122616]
+12:0::0:25:Savage~[99855] died in Eagle Peaks~[av35], in Ormos.
+11:0::0:27:The Normans~[qs7] (Hades Explorer~[7743]) tries to enter Hades
+12:0::0:28:Garrison~[4321] died in Dragon Coast~[dx45], in Camaris.
+13:0::0:28:Rhao iye-Sama'an~[p803] found dead body~[81255] in Provinia~[58762], in Provinia.
+12:0::0:29:Garrison~[9233] died in Swamp~[am62], in Atala.
+10:0::0:29:noncreator_curse_erode: NOTYET!
+12:0::0:30:Garrison~[81108] died in Plain~[dq80], in Camaris.
+12:0::0:30:Ozma~[119589] deserts, contract-0
+13:0::0:30:add_token_units(Golden idol of the Orcs~[a150])
+13:0::0:30:add_token_units(Crown of the Undead lord~[a437])
+13:0::0:30:add_token_units(Crown of the Barbarians~[a460])
+13:0::0:30:add_token_units(Horn of the Savages~[b044])
+13:0::0:30:add_token_units(Banner of the Skeletons~[c310])
+13:0::0:30:add_token_units(Banner of the Skeletons~[c441])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[c577])
+13:0::0:30:add_token_units(Horn of the Savages~[c626])
+13:0::0:30:add_token_units(Crown of the Barbarians~[c663])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[c840])
+13:0::0:30:add_token_units(Crown of the Undead lord~[d374])
+13:0::0:30:add_token_units(Horn of the Savages~[d651])
+13:0::0:30:add_token_units(Horn of the Savages~[f226])
+13:0::0:30:add_token_units(Crown of the Barbarians~[f975])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[g458])
+13:0::0:30:add_token_units(Horn of the Savages~[h602])
+13:0::0:30:add_token_units(Banner of the Skeletons~[h700])
+13:0::0:30:add_token_units(Crown of the Barbarians~[h946])
+13:0::0:30:add_token_units(Banner of the Skeletons~[j007])
+13:0::0:30:add_token_units(Crown of the Undead lord~[j369])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[k840])
+13:0::0:30:add_token_units(Banner of the Skeletons~[m139])
+13:0::0:30:add_token_units(Crown of the Undead lord~[m242])
+13:0::0:30:add_token_units(Crown of the Undead lord~[m456])
+13:0::0:30:add_token_units(Crown of the Undead lord~[m917])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[p197])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[p405])
+13:0::0:30:add_token_units(Banner of the Skeletons~[p587])
+13:0::0:30:add_token_units(Crown of the Undead lord~[p745])
+13:0::0:30:add_token_units(Crown of the Barbarians~[p895])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[q060])
+13:0::0:30:add_token_units(Crown of the Barbarians~[q207])
+13:0::0:30:add_token_units(Banner of the Skeletons~[q410])
+13:0::0:30:add_token_units(Banner of the Skeletons~[q513])
+13:0::0:30:add_token_units(Horn of the Savages~[q551])
+13:0::0:30:add_token_units(Banner of the Skeletons~[q717])
+13:0::0:30:add_token_units(Crown of the Barbarians~[r192])
+13:0::0:30:add_token_units(Horn of the Savages~[r390])
+13:0::0:30:add_token_units(Banner of the Skeletons~[r556])
+13:0::0:30:add_token_units(Horn of the Savages~[s255])
+13:0::0:30:add_token_units(Horn of the Savages~[s388])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[s649])
+13:0::0:30:add_token_units(Horn of the Savages~[s875])
+13:0::0:30:add_token_units(Horn of the Savages~[t013])
+13:0::0:30:add_token_units(Crown of the Barbarians~[t605])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[t662])
+13:0::0:30:add_token_units(Crown of the Barbarians~[t864])
+13:0::0:30:add_token_units(Banner of the Skeletons~[v016])
+13:0::0:30:add_token_units(Crown of the Barbarians~[v193])
+13:0::0:30:add_token_units(Horn of the Savages~[v659])
+13:0::0:30:add_token_units(Crown of the Undead lord~[w058])
+13:0::0:30:add_token_units(Crown of the Barbarians~[w148])
+13:0::0:30:add_token_units(Banner of the Skeletons~[w937])
+13:0::0:30:add_token_units(Horn of the Savages~[w946])
+13:0::0:30:add_token_units(Crown of the Undead lord~[x152])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[x413])
+13:0::0:30:add_token_units(Crown of the Barbarians~[z583])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[z808])
+13:0::0:30:add_token_units(Crown of the Undead lord~[83186])
+13:0::0:30:add_token_units(Horn of the Savages~[88850])
+13:0::0:30:add_token_units(Banner of the Skeletons~[89673])
+13:0::0:30:add_token_units(Banner of the Skeletons~[89933])
+13:0::0:30:add_token_units(Crown of the Barbarians~[105897])
+13:0::0:30:add_token_units(Horn of the Savages~[107642])
+13:0::0:30:add_token_units(Banner of the Skeletons~[107856])
+13:0::0:30:add_token_units(Golden idol of the Orcs~[116758])
+13:0::0:30:Melting token units for Banner of the Skeletons~[122616].
+12:0::0:30:Skull Duggery~[83628] melted in Drassa~[d80], in province Forest~[cc23], in Provinia.
+13:0::0:30:add_token_units(Golden idol of the Orcs~[128090])
+13:0::0:30:add_token_units(Crown of the Undead lord~[129643])
+13:0::0:30:add_token_units(Crown of the Barbarians~[131227])
+13:0::0:30:add_token_units(Crown of the Barbarians~[134283])
+13:0::0:30:add_token_units(Crown of the Barbarians~[140267])
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Gamemaster~[200].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:0::0::
+0:0::0::
+2:0::0::Interesting attribute counts
+2:0::0::----------------------------
+2:0::0::
+2:0::0::char ability shroud:    4
+2:0::0::char hinder meditate:   0
+2:0::0::char project cast:      4
+2:0::0::char quick cast:        0
+2:0::0::loc shroud:             23
+2:0::0::loc barrier:            112
+2:0::0::loc opium:              0
+2:0::0::format one:             3/150
+2:0::0::
+2:0::0::galleys with rams:      0 (0%)
+2:0::0::
+2:0::0::Gold report
+2:0::0::-----------
+2:0::0::
+2:0::0::Common magic:                  0   0%
+2:0::0::Lead to gold:                  0   0%
+2:0::0::Pots and baskets:          1,131   0%
+2:0::0::Opium:                         0   0%
+2:0::0::Trade to cities:         366,751  95%
+2:0::0::Inn income:                1,201   0%
+2:0::0::Taxes:                    11,600   3%
+2:0::0::Times press:                   0   0%
+2:0::0::Combat with indeps:           75   0%
+2:0::0::Petty thievery:               89   0%
+2:0::0::Temple income:             1,600   0%
+2:0::0::Pillaging:                     0   0%
+2:0::0::Ferry boarding:                0   0%
+2:0::0::                                 ----
+2:0::0::Total:                   382,447
+2:0::0::
+2:0::0::Player combat:             6,893
+2:0::0::
+2:0::0::
+2:0::0::Captured control artifacts
+2:0::0::--------------------------
+2:0::0::
+2:0::0::Golden idol of the Orcs~[a150]     The Khawagagan~[cj5]
+2:0::0::Crown of the Undead lord~[a437]    Loopalootaloofa~[wk7]
+2:0::0::Crown of the Barbarians~[a460]     Loopalootaloofa~[wk7]
+2:0::0::Horn of the Savages~[b044]         Ouroboros~[zz4]
+2:0::0::Banner of the Skeletons~[c310]     Ouroboros~[zz4]
+2:0::0::Banner of the Skeletons~[c441]     Ouroboros~[zz4]
+2:0::0::Golden idol of the Orcs~[c577]     The Scots~[fv6]
+2:0::0::Horn of the Savages~[c626]         Heathers~[qr9]
+2:0::0::Crown of the Barbarians~[c663]     The Gryphon Lords~[yv5]
+2:0::0::Golden idol of the Orcs~[c840]     Barbancon~[wh2]
+2:0::0::Crown of the Undead lord~[d374]    Villains By Necessity~[ak6]
+2:0::0::Horn of the Savages~[d651]         Heathers~[qr9]
+2:0::0::Horn of the Savages~[f226]         Royals~[yf7]
+2:0::0::Crown of the Barbarians~[f975]     Bloodhook Island Refugees~[wc9]
+2:0::0::Golden idol of the Orcs~[g458]     Bloodhook Island Refugees~[wc9]
+2:0::0::Horn of the Savages~[h602]         Lambent Crimson Glow~[tm6]
+2:0::0::Banner of the Skeletons~[h700]     Villains By Necessity~[ak6]
+2:0::0::Crown of the Barbarians~[h946]     Vikings~[ka6]
+2:0::0::Banner of the Skeletons~[j007]     Villains By Necessity~[ak6]
+2:0::0::Crown of the Undead lord~[j369]    Ouroboros~[zz4]
+2:0::0::Golden idol of the Orcs~[k840]     Heathers~[qr9]
+2:0::0::Banner of the Skeletons~[m139]     The Hanover Consortium~[pv2]
+2:0::0::Crown of the Undead lord~[m242]    Ouroboros~[zz4]
+2:0::0::Crown of the Undead lord~[m456]    The PGA~[mh8]
+2:0::0::Crown of the Undead lord~[m917]    Ouroboros~[zz4]
+2:0::0::Golden idol of the Orcs~[p197]     Gutbuster Brigade~[jm8]
+2:0::0::Golden idol of the Orcs~[p405]     The Hanover Consortium~[pv2]
+2:0::0::Banner of the Skeletons~[p587]     Ouroboros~[zz4]
+2:0::0::Crown of the Undead lord~[p745]    Ouroboros~[zz4]
+2:0::0::Crown of the Barbarians~[p895]     The Brothers Grimm~[jh2]
+2:0::0::Golden idol of the Orcs~[q060]     Ouroboros~[zz4]
+2:0::0::Crown of the Barbarians~[q207]     The Gryphon Lords~[yv5]
+2:0::0::Banner of the Skeletons~[q410]     Vikings~[ka6]
+2:0::0::Banner of the Skeletons~[q513]     The Hanover Consortium~[pv2]
+2:0::0::Horn of the Savages~[q551]         Loopalootaloofa~[wk7]
+2:0::0::Banner of the Skeletons~[q717]     Seekers of Knowledge~[tt4]
+2:0::0::Crown of the Barbarians~[r192]     The Scots~[fv6]
+2:0::0::Horn of the Savages~[r390]         Gutbuster Brigade~[jm8]
+2:0::0::Banner of the Skeletons~[r556]     Villains By Necessity~[ak6]
+2:0::0::Horn of the Savages~[s255]         ROYAL LINES~[yg9]
+2:0::0::Horn of the Savages~[s388]         Ouroboros~[zz4]
+2:0::0::Golden idol of the Orcs~[s649]     Ouroboros~[zz4]
+2:0::0::Horn of the Savages~[s875]         The Gryphon Lords~[yv5]
+2:0::0::Horn of the Savages~[t013]         ROYAL LINES~[yg9]
+2:0::0::Crown of the Barbarians~[t605]     Loopalootaloofa~[wk7]
+2:0::0::Golden idol of the Orcs~[t662]     Ouroboros~[zz4]
+2:0::0::Crown of the Barbarians~[t864]     The Scots~[fv6]
+2:0::0::Banner of the Skeletons~[v016]     The Scots~[fv6]
+2:0::0::Crown of the Barbarians~[v193]     The Gryphon Lords~[yv5]
+2:0::0::Horn of the Savages~[v659]         Ouroboros~[zz4]
+2:0::0::Crown of the Undead lord~[w058]    Ouroboros~[zz4]
+2:0::0::Crown of the Barbarians~[w148]     Zodiacal Light~[fa5]
+2:0::0::Banner of the Skeletons~[w937]     The Gryphon Lords~[yv5]
+2:0::0::Horn of the Savages~[w946]         Ouroboros~[zz4]
+2:0::0::Crown of the Undead lord~[x152]    The Gryphon Lords~[yv5]
+2:0::0::Golden idol of the Orcs~[x413]     Ouroboros~[zz4]
+2:0::0::Crown of the Barbarians~[z583]     The Gryphon Lords~[yv5]
+2:0::0::Golden idol of the Orcs~[z808]     Ace~[jy6]
+2:0::0::Crown of the Undead lord~[83186]   The Gryphon Lords~[yv5]
+2:0::0::Horn of the Savages~[88850]        Gutbuster Brigade~[jm8]
+2:0::0::Banner of the Skeletons~[89673]    ROYAL LINES~[yg9]
+2:0::0::Banner of the Skeletons~[89933]    Gutbuster Brigade~[jm8]
+2:0::0::Crown of the Barbarians~[105897]   ROYAL LINES~[yg9]
+2:0::0::Horn of the Savages~[107642]       Bloodhook Island Refugees~[wc9]
+2:0::0::Banner of the Skeletons~[107856]   Ouroboros~[zz4]
+2:0::0::Golden idol of the Orcs~[116758]   Zida'ya~[vg6]
+2:0::0::Golden idol of the Orcs~[128090]   The PGA~[mh8]
+2:0::0::Crown of the Undead lord~[129643]  ROYAL LINES~[yg9]
+2:0::0::Crown of the Barbarians~[131227]   The PGA~[mh8]
+2:0::0::Crown of the Barbarians~[134283]   The Gryphon Lords~[yv5]
+2:0::0::Crown of the Barbarians~[140267]   House Genesis~[xt5]
+2:0::0::
+2:0::0::
+2:0::0::Animate items list
+2:0::0::------------------
+2:0::0::
+2:0::0::                     name    swamp man-like    beast  fighter
+2:0::0::                     ----    ----- --------    -----  -------
+2:0::0::             peasant~[10]     no       yes      no    (1,1,0)
+2:0::0::              worker~[11]     no       yes      no    (1,1,0)
+2:0::0::             soldier~[12]     no       yes      no    (5,5,0)
+2:0::0::              archer~[13]     no       yes      no    (5,5,50)
+2:0::0::              knight~[14]     no       yes      no    (45,45,0)
+2:0::0::         elite guard~[15]     no       yes      no    (90,90,0)
+2:0::0::             pikeman~[16]     no       yes      no    (5,30,0)
+2:0::0::     blessed soldier~[17]     no       yes      no    (5,5,0)
+2:0::0::       ghost warrior~[18]     no       yes      no    (0,0,0)
+2:0::0::              sailor~[19]     no       yes      no    (1,1,0)
+2:0::0::           swordsman~[20]     no       yes      no    (15,15,0)
+2:0::0::         crossbowman~[21]     no       yes      no    (1,1,25)
+2:0::0::        elite archer~[22]     no       yes      no    (10,10,75)
+2:0::0::       angry peasant~[23]     no       yes      no    (2,1,0)
+2:0::0::              pirate~[24]     no       yes      no    (5,5,0)
+2:0::0::                 elf~[25]     no       yes      no    (50,50,100)
+2:0::0::              spirit~[26]     no       yes      no    (50,50,0)
+2:0::0::              undead~[31]     no       yes      no    (10,10,0)
+2:0::0::              savage~[32]     no       yes      no    (1,1,0)
+2:0::0::            skeleton~[33]     no       yes      no    (6,6,0)
+2:0::0::           barbarian~[34]     no       yes      no    (2,1,0)
+2:0::0::          wild horse~[51]     yes      no       no     -
+2:0::0::        riding horse~[52]     yes      no       no     -
+2:0::0::            warmount~[53]     yes      no       no     -
+2:0::0::        winged horse~[54]     yes      no       no     -
+2:0::0::              nazgul~[55]     yes      no       yes   (80,80,0)
+2:0::0::       battering ram~[60]     no       no       no    (30,250,0)
+2:0::0::            catapult~[61]     no       no       no    (25,200,25)
+2:0::0::         siege tower~[62]     no       no       no    (30,250,0)
+2:0::0::                  ox~[76]     yes      no       no     -
+2:0::0::           ratspider~[81]     no       no       yes   (5,5,0)
+2:0::0::            centaur~[271]     yes      no       yes   (30,30,0)
+2:0::0::           minotaur~[272]     yes      no       yes   (30,5,0)
+2:0::0::       giant spider~[278]     yes      no       yes   (150,100,0)
+2:0::0::                rat~[279]     yes      no       yes   (3,3,0)
+2:0::0::               lion~[280]     yes      no       yes   (100,100,0)
+2:0::0::         giant bird~[281]     yes      no       yes   (200,150,0)
+2:0::0::       giant lizard~[282]     yes      no       yes   (45,45,0)
+2:0::0::             bandit~[283]     no       yes      no    (3,3,0)
+2:0::0::            chimera~[284]     yes      no       yes   (130,130,0)
+2:0::0::             harpie~[285]     yes      no       yes   (80,120,0)
+2:0::0::             dragon~[286]     yes      no       yes   (500,500,250)
+2:0::0::                orc~[287]     no       yes      yes   (20,15,0)
+2:0::0::             gorgon~[288]     yes      no       yes   (10,20,0)
+2:0::0::               wolf~[289]     yes      no       yes   (5,5,0)
+2:0::0::            cyclops~[291]     no       yes      yes   (25,75,0)
+2:0::0::              giant~[292]     no       yes      yes   (75,25,0)
+2:0::0::              faery~[293]     no       yes      no    (9,9,9)
+2:0::0::              hound~[295]     yes      no       no    (1,1,0)
+2:0::0::
+2:0::0::Skill use counts:
+2:0::0::-----------------
+2:0::0::
+2:0::0::count   who  skill  name
+2:0::0::-----   ---  -----  ----
+2:0::0::1400      0    654  Breed beasts
+2:0::0:: 176    yv5    614  Defense
+2:0::0:: 144    df7    615  Archery
+2:0::0::  94    vk5    813  Advanced meditation
+2:0::0::  62    rr7    616  Swordplay
+2:0::0::  44    fc3    612  Fight to the death
+2:0::0::  40    sz5    732  Find tradegood for sale
+2:0::0::  33    fc3    756  Immunity from Vision
+2:0::0::  21    fv6    613  Construct catapult
+2:0::0::  17    ug3    733  Find market for tradegood
+2:0::0::  17    jy6    922  Teleport items
+2:0::0::  14    zz4    751  Receive vision
+2:0::0::  13    gn5    753  Preparatory ritual
+2:0::0::  12    en6    721  Mine iron
+2:0::0::   9    uh5    722  Mine gold
+2:0::0::   8    ug3    691  Extract venom from ratspider
+2:0::0::   7    vy5    723  Mine mithril
+2:0::0::   6    fv6    701  Construct battering ram
+2:0::0::   6    pv2    862  Detect gates
+2:0::0::   5    nn3    841  Scry location
+2:0::0::   4    rk7    844  Ciphered writing of Areth-Pirn
+2:0::0::   3    qx2    671  Bribe noble
+2:0::0::   3    vy5    801  Meditate
+2:0::0::   3    jx8    871  Language of the Ancients
+2:0::0::   2    wc9    754  Lay to rest
+2:0::0::   2    gh2    806  Tap health for aura
+2:0::0::   2    xt5    824  Summon rain
+2:0::0::   2    jy6    829  Renew storm strength
+2:0::0::   2    jh2    863  Jump through gate
+2:0::0::   2    vk5    868  Reveal gate key
+2:0::0::   2    ug3    892  Arcane symbols
+2:0::0::   2    cj5    902  Runes of Evil
+2:0::0::   1    cy5    631  Petty thievery
+2:0::0::   1    fc3    692  Make potion of slavery
+2:0::0::   1    wk7    807  Heal
+2:0::0::   1    jh2    811  Detect ability scry
+2:0::0::   1    fc3    827  Direct storm
+2:0::0::   1    gh2    848  Detect location scry
+2:0::0::   1    bb8    881  Forge auraculum
+2:0::0::   1    yv5    893  Destroy artifact
+2:0::0::   1    sz5    911  Absorb aura blast
+2:0::0::   1    mh8    921  Trance
+2:0::0::
+2:0::0::             finished  unfinished
+2:0::0::           +----------------------
+2:0::0::    galley |       31         2
+2:0::0:: roundship |      207         8
+2:0::0::     tower |      446        34
+2:0::0::    castle |       84         7
+2:0::0::      mine |       37         3
+2:0::0::       inn |       43        21
+2:0::0::    temple |      342        15
+2:0::0::
+2:0::0::    nobles  region
+2:0::0::    ------  ------
+2:0::0::     3,249  Provinia
+2:0::0::     1,241  Camaris
+2:0::0::       812  Krussos
+2:0::0::       780  Faery
+2:0::0::       674  Atala
+2:0::0::       508  Ormos
+2:0::0::       471  Tollus
+2:0::0::       457  Ferenth
+2:0::0::       312  Cipheria
+2:0::0::       257  Ossicus
+2:0::0::       227  Hades
+2:0::0::       197  Atnos
+2:0::0::       134  Subworld
+2:0::0::       108  Cragstan
+2:0::0::        65  Camaris Island
+2:0::0::        54  Great Sea
+2:0::0::        37  Undercity
+2:0::0::        31  Cloudlands
+2:0::0::         2  Lake Camaris
+2:0::0::    ======  
+2:0::0::     9,616  
+2:0::0::
+2:0::0::146/317 gates found (46%)
+2:0::0::    72 sealed (22%), 18 notify jump (5%), 9 notify unseal (2%)
+2:0::0::
+2:0::0::23024/31919 provinces visited (72%)
+2:0::0::3585/9301 sublocs visited (38%)
+2:0::0::    48% visible, 51% hidden
+2:0::0::    38% of visisted province's sublocs found
+2:0::0::    48% visible, 51% hidden
+2:0::0::
+2:0::0::1998 chars: 678 oath (33%), 908 fear (45%), 125 contract (6%), 268 unsworn (13%)
+2:0::0::
+2:0::0::
+2:0::0::Skills known by players:
+2:0::0::------------------------
+2:0::0::
+2:0::0::count  skill   use  name
+2:0::0::-----  -----   ---  ----
+2:0::0::1406     611        Survive fatal wound
+2:0::0::1222     612    44  Fight to the death
+2:0::0:: 975     641        Conceal self
+2:0::0:: 882     617        Weaponsmithing
+2:0::0:: 841     616    62  Swordplay
+2:0::0:: 835     614   176  Defense
+2:0::0:: 824     615   144  Archery
+2:0::0:: 675     654  1,400  Breed beasts
+2:0::0:: 483     639        Sneak into structure
+2:0::0:: 478     732    40  Find tradegood for sale
+2:0::0:: 469     733    17  Find market for tradegood
+2:0::0:: 449     702        Harvest lumber
+2:0::0:: 369     653        Use beasts in battle
+2:0::0:: 360     682        Stone quarrying
+2:0::0:: 348     731        Conceal identity of trader
+2:0::0:: 344     631     1  Petty thievery
+2:0::0:: 327     613    21  Construct catapult
+2:0::0:: 324     703        Harvest yew
+2:0::0:: 284     671     3  Bribe noble
+2:0::0:: 263     635        Conceal faction
+2:0::0:: 261     652        Capture beasts in battle
+2:0::0:: 241     601        Sailing
+2:0::0:: 238     704        Collect rare foliage
+2:0::0:: 220     911     1  Absorb aura blast
+2:0::0:: 218     721    12  Mine iron
+2:0::0:: 218     802        Perform common tasks for gold
+2:0::0:: 210     801     3  Meditate
+2:0::0:: 206     633        Determine skills of character
+2:0::0:: 204     803        Appear common
+2:0::0:: 203     722     9  Mine gold
+2:0::0:: 202     632        Determine inventory of character
+2:0::0:: 202     655        Catch wild horses
+2:0::0:: 196     903        Summon ghost warriors
+2:0::0:: 194     634        Determine character's lord
+2:0::0:: 193     902     2  Runes of Evil
+2:0::0:: 193     909        Aura blast
+2:0::0:: 188     904        Raise undead
+2:0::0:: 188     906        Renew demon bond
+2:0::0:: 186     908        Eating of the dead
+2:0::0:: 185     804        View current aura level of others
+2:0::0:: 184     905        Summon demon lord
+2:0::0:: 182     805        Reveal abilities of another mage
+2:0::0:: 179     907        Banish demon lord
+2:0::0:: 176     806     2  Tap health for aura
+2:0::0:: 174     672        Persuade oathbound noble
+2:0::0:: 174     807     1  Heal
+2:0::0:: 168     813    94  Advanced meditation
+2:0::0:: 167     808        Modern magic script
+2:0::0:: 166     809        Shroud abilities from scry
+2:0::0:: 164     602        Shipbuilding
+2:0::0:: 161     812        Dispel ability shroud
+2:0::0:: 159     814        Hinder meditation
+2:0::0:: 157     811     1  Detect ability scry
+2:0::0:: 152     657        Train wild horse to warmount
+2:0::0:: 149     901        Transcend death
+2:0::0:: 148     656        Train wild horse to riding horse
+2:0::0:: 147     881     1  Forge auraculum
+2:0::0:: 145     841     5  Scry location
+2:0::0:: 144     701     6  Construct battering ram
+2:0::0:: 136     882        Reveal creator of artifact
+2:0::0:: 133     691     8  Extract venom from ratspider
+2:0::0:: 131     821        Fierce wind
+2:0::0:: 131     822        Bind storm to ship
+2:0::0:: 131     845        Create magical barrier
+2:0::0:: 130     603        Fishing
+2:0::0:: 130     705        Harvest mallorn wood
+2:0::0:: 130     847        Locate character
+2:0::0:: 129     846        Remove magical barrier
+2:0::0:: 129     883        Reveal where artifact was created
+2:0::0:: 128     681        Construct siege tower
+2:0::0:: 128     693        Brew healing potion
+2:0::0:: 128     842        Shroud location from magical scry
+2:0::0:: 127     849        Farcasting
+2:0::0:: 126     843        Dispel location shroud
+2:0::0:: 125     823        Scribe weather symbols
+2:0::0:: 125     844     4  Ciphered writing of Areth-Pirn
+2:0::0:: 124     692     1  Make potion of slavery
+2:0::0:: 124     824     2  Summon rain
+2:0::0:: 123     831        Lightning bolt
+2:0::0:: 123     832        Seize control of storm
+2:0::0:: 123     851        Save farcast state
+2:0::0:: 121     826        Summon fog
+2:0::0:: 121     827     1  Direct storm
+2:0::0:: 120     695        Record skill on scroll
+2:0::0:: 119     825        Summon wind
+2:0::0:: 119     848     1  Detect location scry
+2:0::0:: 119     852        Banish undead
+2:0::0:: 118     892     2  Arcane symbols
+2:0::0:: 117     829     2  Renew storm strength
+2:0::0:: 117     886        Curse noncreator loyalty
+2:0::0:: 117     887        Forge magical weapon
+2:0::0:: 117     893     1  Destroy artifact
+2:0::0:: 116     861        Teleport
+2:0::0:: 116     862     6  Detect gates
+2:0::0:: 116     885        Cloak region of artifact creation
+2:0::0:: 115     828        Dissipate storm
+2:0::0:: 115     833        Fog of death
+2:0::0:: 115     884        Cloak creator of artifact
+2:0::0:: 115     894        Forge palantir
+2:0::0:: 115     922    17  Teleport items
+2:0::0:: 112     888        Forge magical armor
+2:0::0:: 112     889        Forge magical bow
+2:0::0:: 110     651        Bird spy
+2:0::0:: 110     891        Dispel cloaking from artifact
+2:0::0:: 110     921     1  Trance
+2:0::0:: 105     723     7  Mine mithril
+2:0::0:: 105     866        Notify if gate unsealed
+2:0::0:: 105     867        Forcefully unseal gate
+2:0::0:: 103     863     2  Jump through gate
+2:0::0:: 103     869        Notify of gate jumps
+2:0::0:: 102     865        Unseal gate with key
+2:0::0:: 102     871     3  Language of the Ancients
+2:0::0:: 101     864        Seal gate
+2:0::0::  99     868     2  Reveal gate key
+2:0::0::  99     872        Reverse jump through gate
+2:0::0::  86     751    14  Receive vision
+2:0::0::  82     661        Breed hound
+2:0::0::  81     673        Raise peasant mob
+2:0::0::  81     753    13  Preparatory ritual
+2:0::0::  78     636        Learn of richest nearby noble
+2:0::0::  76     637        Torture prisoner
+2:0::0::  73     756    33  Immunity from Vision
+2:0::0::  72     752        Resurrect dead noble
+2:0::0::  71     658        Summon wild men
+2:0::0::  69     754     2  Lay to rest
+2:0::0::  67     674        Rally peasant mob
+2:0::0::  63     755        Remove blessing from soldiers
+2:0::0::  56     696        Collect rare elements
+2:0::0::  45     694        Brew potion of death
+2:0::0::  44     706        Harvest opium
+2:0::0::  39     697        Turn lead into gold
+2:0::0::  35     659        Persuade wild men to remain
+2:0::0::  23     676        Train angry peasants
+2:0::0::  22     675        Incite mob violence
+2:0::0::  19     707        Improve opium production
+2:0::0::
+2:0::0::rank        gold  faction
+2:0::0::----        ----  -------
+2:0::0::   1   1,720,644  The Gryphon Lords~[yv5]
+2:0::0::   2   1,159,750  The PGA~[mh8]
+2:0::0::   3     638,051  Zida'ya~[vg6]
+2:0::0::   4     370,867  Purple Pistachios~[ug3]
+2:0::0::   5     345,790  The Red Company~[fc3]
+2:0::0::   6     334,495  The Scots~[fv6]
+2:0::0::   7     295,328  Bloodhook Island Refugees~[wc9]
+2:0::0::   8     205,574  The Brothers Grimm~[jh2]
+2:0::0::   9     195,212  The Khawagagan~[cj5]
+2:0::0::  10     182,729  Lambent Crimson Glow~[tm6]
+2:0::0::  11     181,188  Zodiacal Light~[fa5]
+2:0::0::  12     174,154  Mantu Rangers~[sz5]
+2:0::0::  13     173,285  Order of the Crystal Sword~[qf4]
+2:0::0::  14     166,464  Heathers~[qr9]
+2:0::0::  15     162,579  Villains By Necessity~[ak6]
+2:0::0::  16     154,539  Ouroboros~[zz4]
+2:0::0::  17     150,482  High Energy Theurgists~[vk5]
+2:0::0::  18     128,498  Ace~[jy6]
+2:0::0::  19     128,069  House Genesis~[xt5]
+2:0::0::  20     123,651  ROYAL LINES~[yg9]
+2:0::0::  21     123,065  Bain Sidhe~[zy6]
+2:0::0::  22     111,476  The Hanover Consortium~[pv2]
+2:0::0::  23     105,874  Erigadorn~[xy3]
+2:0::0::  24     101,499  The Freehold~[gz2]
+2:0::0::  25     101,244  Yorkhouse~[cy5]
+2:0::0::  26      99,102  The Call~[wz6]
+2:0::0::  27      88,825  Sirs,Ladies,Dwarf&Fish~[em7]
+2:0::0::  28      87,988  Mystic Sages~[pm8]
+2:0::0::  29      84,092  Gutbuster Brigade~[ty4]
+2:0::0::  30      82,371  Seekers of Knowledge~[tt4]
+2:0::0::  31      69,688  Sunken Crescent~[rr7]
+2:0::0::  32      61,499  Royals~[yf7]
+2:0::0::  33      60,662  The Enlightened~[ny7]
+2:0::0::  34      58,289  Clan Stormcloud~[wb7]
+2:0::0::  35      56,260  ME-Wizards~[nf6]
+2:0::0::  36      54,334  The Agency~[ta8]
+2:0::0::  37      52,024  Wyvernesse~[cr6]
+2:0::0::  38      45,691  Aeolians~[bh3]
+2:0::0::  39      45,547  Loopalootaloofa~[wk7]
+2:0::0::  40      45,437  Eldrad's Loyalists~[xf3]
+2:0::0::  41      43,417  Vikings~[ka6]
+2:0::0::  42      41,516  The X-Men~[rv6]
+2:0::0::  43      39,927  Incognito Illuminiti~[lp3]
+2:0::0::  44      39,240  Greater Itor~[hh6]
+2:0::0::  45      37,930  Hardguys~[cd7]
+2:0::0::  46      35,725  The Normans~[qs7]
+2:0::0::  47      33,148  Barbancon~[wh2]
+2:0::0::  48      30,750  Gutbuster Brigade~[jm8]
+2:0::0::  49      27,572  Wicca~[cb5]
+2:0::0::  50      27,043  Shattered Black Rose~[yq6]
+2:0::0::  51      26,613  Mold Merchants~[ug8]
+2:0::0::  52      26,545  Lost Magi~[qb2]
+2:0::0::  53      24,233  Chaotic Order~[vz3]
+2:0::0::  54      23,406  Highland Rangers~[uh5]
+2:0::0::  55      23,252  The Elthargrimm~[cy2]
+2:0::0::  56      23,043  Breeders Inc.~[nn3]
+2:0::0::  57      21,645  Stone Crown~[en6]
+2:0::0::  58      21,408  House Smith~[vy5]
+2:0::0::  59      19,009  The Invisible Order~[cj2]
+2:0::0::  60      18,134  The Fenians~[mm9]
+2:0::0::  61      17,037  Maaderchods~[rk7]
+2:0::0::  62      16,735  Dragon Knights~[gk5]
+2:0::0::  63      16,495  Dwarves~[xp6]
+2:0::0::  64      15,969  Tysvaer~[rq7]
+2:0::0::  65      13,599  Dunadan~[ur4]
+2:0::0::  66      13,001  Gotti~[ue5]
+2:0::0::  67      12,584  Northern Viking~[ym3]
+2:0::0::  68      12,320  The Navigators~[pn2]
+2:0::0::  69      11,839  Color Guard~[sz6]
+2:0::0::  70      11,781  Eridanus~[gh2]
+2:0::0::  71      10,921  Search Party~[ds2]
+2:0::0::  72      10,463  Obscure Convention~[fr8]
+2:0::0::  73       9,651  Xephyr~[qb7]
+2:0::0::  74       9,199  Land of the Sith~[hd3]
+2:0::0::  75       9,052  Dusk Troopers~[sa4]
+2:0::0::  76       6,840  War's Moneychanger~[ts4]
+2:0::0::  77       6,196  Dordred~[xt8]
+2:0::0::  78       5,534  tall trees~[bb8]
+2:0::0::  79       5,425  Trinity~[qx2]
+2:0::0::  80       5,392  Men of Szczek~[tr5]
+2:0::0::  81       5,214  Auroque. Lovers of the Sleepless Moon~[px4]
+2:0::0::  82       5,110  Xibalba~[qn5]
+2:0::0::  83       4,893  Falcon Heart~[pw5]
+2:0::0::  84       4,212  Wing Chun Brotherhood~[ua7]
+2:0::0::  85       4,169  The Ladies Of Nd E'riu~[ge6]
+2:0::0::  86       3,996  Gaidin~[df7]
+2:0::0::  87       3,903  The Beastly Boys~[qy4]
+2:0::0::  88       3,495  The Rockers~[db7]
+2:0::0::  89       3,163  Ashanti~[fr3]
+2:0::0::  90       3,104  Lords of MorningWood~[jx8]
+2:0::0::  91       2,339  Streams~[xu3]
+2:0::0::  92       2,061  Red Griffon Rampant on White~[gn5]
+2:0::0::  93       1,713  Tuatha de Fionn~[hr2]
+2:0::0::  94       1,694  Andrew's Avengers~[fp4]
+2:0::0::  95       1,589  grull~[fh2]
+2:0::0::  96       1,214  Family Rohnar~[fx5]
+2:0::0::  97       1,003  Universal Brotherhood~[de2]
+2:0::0::  98       1,000  Errant Knights~[wj9]
+2:0::0::  99         900  Gar~[aw9]
+2:0::0:: 100         682  Sentries of Light~[kt3]
+2:0::0:: 101         564  Drasnia~[ra2]
+2:0::0:: 102         440  Survivors of Mire~[tm7]
+2:0::0:: 103         299  House Sundar~[wb4]
+2:0::0:: 104         200  Thommie~[bj3]
+2:0::0:: 105         200  Invisible Touch~[gj6]
+2:0::0:: 106         200  The Society of Harmonious Fist~[ur8]
+2:0::0:: 107         117  The Watchers~[fa4]
+2:0::0:: 108          92  Brotherhood of Shadows~[bq8]
+2:0::0:: 109          36  Torch Sellers Guild~[rk4]
+2:0::0:: 110           1  The Celts~[tw6]
+2:0::0:: 111           0  Sun Corp.~[ap7]
+2:0::0:: 112           0  Godhead~[aq2]
+2:0::0:: 113           0  Qunix~[ar4]
+2:0::0:: 114           0  Starks of Winterfell~[bs7]
+2:0::0:: 115           0  The Blackstar Brigade~[cn3]
+2:0::0:: 116           0  The Forest Moon Clan~[cv9]
+2:0::0:: 117           0  gunslingers~[da6]
+2:0::0:: 118           0  Friends~[dr8]
+2:0::0:: 119           0  Dread Knights~[dz5]
+2:0::0:: 120           0  juan~[ea5]
+2:0::0:: 121           0  Lords of Khorne~[eg5]
+2:0::0:: 122           0  Big Warm~[eh5]
+2:0::0:: 123           0  Centori~[ev9]
+2:0::0:: 124           0  Draugar~[fm8]
+2:0::0:: 125           0  The Plainsmen~[fz5]
+2:0::0:: 126           0  Dark Ruinations~[gz4]
+2:0::0:: 127           0  United Terrorist~[hb5]
+2:0::0:: 128           0  The Adderlay~[jm6]
+2:0::0:: 129           0  Followers of Zexuis~[kj5]
+2:0::0:: 130           0  Dark Cloud~[md5]
+2:0::0:: 131           0  The Shadows~[mg6]
+2:0::0:: 132           0  Dragons of New Avalon~[nb7]
+2:0::0:: 133           0  Drassalon~[nm2]
+2:0::0:: 134           0  Antle Selights~[nz2]
+2:0::0:: 135           0  Sisterhood~[ps2]
+2:0::0:: 136           0  The  Wolfs~[qj3]
+2:0::0:: 137           0  CH_HAVIC~[qy7]
+2:0::0:: 138           0  Tenser's Trading Alliance~[rk2]
+2:0::0:: 139           0  Cool~[sq7]
+2:0::0:: 140           0  Shockers~[tb3]
+2:0::0:: 141           0  Sholden~[uz8]
+2:0::0:: 142           0  Dark Knights~[vq9]
+2:0::0:: 143           0  Neros hippos~[wm5]
+2:0::0:: 144           0  Liquid Fire~[xa5]
+2:0::0:: 145           0  nintendo64~[xc6]
+2:0::0:: 146           0  House Alton~[xv5]
+2:0::0:: 147           0  Shadow's Mararders~[yb3]
+2:0::0:: 148           0  New Rome~[ym5]
+2:0::0:: 149           0  EG~[yn7]
+2:0::0:: 150           0  Knights of Armageddon~[ze2]
+2:0::0::
+2:0::0::rank      nobles  faction
+2:0::0::----      ------  -------
+2:0::0::   1         194  The Gryphon Lords~[yv5]
+2:0::0::   2          74  The Red Company~[fc3]
+2:0::0::   3          74  Purple Pistachios~[ug3]
+2:0::0::   4          39  Ouroboros~[zz4]
+2:0::0::   5          35  The PGA~[mh8]
+2:0::0::   6          32  ME-Wizards~[nf6]
+2:0::0::   7          29  ROYAL LINES~[yg9]
+2:0::0::   8          25  Gutbuster Brigade~[jm8]
+2:0::0::   9          25  Loopalootaloofa~[wk7]
+2:0::0::  10          24  Yorkhouse~[cy5]
+2:0::0::  11          23  Bain Sidhe~[zy6]
+2:0::0::  12          22  The Scots~[fv6]
+2:0::0::  13          19  Gar~[aw9]
+2:0::0::  14          19  Sirs,Ladies,Dwarf&Fish~[em7]
+2:0::0::  15          19  grull~[fh2]
+2:0::0::  16          19  Incognito Illuminiti~[lp3]
+2:0::0::  17          19  Gotti~[ue5]
+2:0::0::  18          19  Royals~[yf7]
+2:0::0::  19          18  The X-Men~[rv6]
+2:0::0::  20          18  Mantu Rangers~[sz5]
+2:0::0::  21          17  Villains By Necessity~[ak6]
+2:0::0::  22          17  Stone Crown~[en6]
+2:0::0::  23          17  The Hanover Consortium~[pv2]
+2:0::0::  24          17  Heathers~[qr9]
+2:0::0::  25          17  Bloodhook Island Refugees~[wc9]
+2:0::0::  26          16  Thommie~[bj3]
+2:0::0::  27          16  Andrew's Avengers~[fp4]
+2:0::0::  28          16  Gutbuster Brigade~[ty4]
+2:0::0::  29          16  House Genesis~[xt5]
+2:0::0::  30          15  tall trees~[bb8]
+2:0::0::  31          15  Red Griffon Rampant on White~[gn5]
+2:0::0::  32          15  The Freehold~[gz2]
+2:0::0::  33          15  Ace~[jy6]
+2:0::0::  34          15  Lost Magi~[qb2]
+2:0::0::  35          15  Lambent Crimson Glow~[tm6]
+2:0::0::  36          15  Wing Chun Brotherhood~[ua7]
+2:0::0::  37          15  Mold Merchants~[ug8]
+2:0::0::  38          15  Zida'ya~[vg6]
+2:0::0::  39          15  Eldrad's Loyalists~[xf3]
+2:0::0::  40          15  Erigadorn~[xy3]
+2:0::0::  41          14  Aeolians~[bh3]
+2:0::0::  42          14  Dragon Knights~[gk5]
+2:0::0::  43          14  Land of the Sith~[hd3]
+2:0::0::  44          14  Breeders Inc.~[nn3]
+2:0::0::  45          13  The Rockers~[db7]
+2:0::0::  46          13  Greater Itor~[hh6]
+2:0::0::  47          13  The Brothers Grimm~[jh2]
+2:0::0::  48          13  Xibalba~[qn5]
+2:0::0::  49          13  Sunken Crescent~[rr7]
+2:0::0::  50          13  Color Guard~[sz6]
+2:0::0::  51          12  Vikings~[ka6]
+2:0::0::  52          12  The Normans~[qs7]
+2:0::0::  53          12  The Agency~[ta8]
+2:0::0::  54          11  The Khawagagan~[cj5]
+2:0::0::  55          11  Search Party~[ds2]
+2:0::0::  56          11  Zodiacal Light~[fa5]
+2:0::0::  57          11  The Fenians~[mm9]
+2:0::0::  58          11  Falcon Heart~[pw5]
+2:0::0::  59          11  Men of Szczek~[tr5]
+2:0::0::  60          11  Seekers of Knowledge~[tt4]
+2:0::0::  61          11  House Smith~[vy5]
+2:0::0::  62          11  Clan Stormcloud~[wb7]
+2:0::0::  63          11  Barbancon~[wh2]
+2:0::0::  64          11  Dwarves~[xp6]
+2:0::0::  65          11  Northern Viking~[ym3]
+2:0::0::  66          10  Lords of MorningWood~[jx8]
+2:0::0::  67          10  Mystic Sages~[pm8]
+2:0::0::  68          10  Order of the Crystal Sword~[qf4]
+2:0::0::  69          10  The Beastly Boys~[qy4]
+2:0::0::  70          10  High Energy Theurgists~[vk5]
+2:0::0::  71          10  Chaotic Order~[vz3]
+2:0::0::  72           9  Wicca~[cb5]
+2:0::0::  73           9  Gaidin~[df7]
+2:0::0::  74           9  Obscure Convention~[fr8]
+2:0::0::  75           9  Trinity~[qx2]
+2:0::0::  76           9  Maaderchods~[rk7]
+2:0::0::  77           9  Tysvaer~[rq7]
+2:0::0::  78           9  Highland Rangers~[uh5]
+2:0::0::  79           9  The Call~[wz6]
+2:0::0::  80           8  The Navigators~[pn2]
+2:0::0::  81           7  Hardguys~[cd7]
+2:0::0::  82           7  The Invisible Order~[cj2]
+2:0::0::  83           7  Wyvernesse~[cr6]
+2:0::0::  84           7  Eridanus~[gh2]
+2:0::0::  85           7  The Enlightened~[ny7]
+2:0::0::  86           7  Dunadan~[ur4]
+2:0::0::  87           6  The Ladies Of Nd E'riu~[ge6]
+2:0::0::  88           6  Errant Knights~[wj9]
+2:0::0::  89           5  Family Rohnar~[fx5]
+2:0::0::  90           5  Invisible Touch~[gj6]
+2:0::0::  91           5  The Celts~[tw6]
+2:0::0::  92           5  House Sundar~[wb4]
+2:0::0::  93           4  Godhead~[aq2]
+2:0::0::  94           4  Starks of Winterfell~[bs7]
+2:0::0::  95           4  The Blackstar Brigade~[cn3]
+2:0::0::  96           4  The Watchers~[fa4]
+2:0::0::  97           4  Dark Ruinations~[gz4]
+2:0::0::  98           4  Sentries of Light~[kt3]
+2:0::0::  99           4  Torch Sellers Guild~[rk4]
+2:0::0:: 100           4  Dusk Troopers~[sa4]
+2:0::0:: 101           4  Dordred~[xt8]
+2:0::0:: 102           4  New Rome~[ym5]
+2:0::0:: 103           4  Shattered Black Rose~[yq6]
+2:0::0:: 104           3  Brotherhood of Shadows~[bq8]
+2:0::0:: 105           3  The Elthargrimm~[cy2]
+2:0::0:: 106           3  Universal Brotherhood~[de2]
+2:0::0:: 107           3  Ashanti~[fr3]
+2:0::0:: 108           3  The Plainsmen~[fz5]
+2:0::0:: 109           3  Tuatha de Fionn~[hr2]
+2:0::0:: 110           3  Dark Cloud~[md5]
+2:0::0:: 111           3  Auroque. Lovers of the Sleepless Moon~[px4]
+2:0::0:: 112           3  The  Wolfs~[qj3]
+2:0::0:: 113           3  Survivors of Mire~[tm7]
+2:0::0:: 114           3  War's Moneychanger~[ts4]
+2:0::0:: 115           3  The Society of Harmonious Fist~[ur8]
+2:0::0:: 116           2  Centori~[ev9]
+2:0::0:: 117           2  Sisterhood~[ps2]
+2:0::0:: 118           2  Xephyr~[qb7]
+2:0::0:: 119           2  Drasnia~[ra2]
+2:0::0:: 120           2  Streams~[xu3]
+2:0::0:: 121           1  Sun Corp.~[ap7]
+2:0::0:: 122           1  Qunix~[ar4]
+2:0::0:: 123           1  The Forest Moon Clan~[cv9]
+2:0::0:: 124           1  gunslingers~[da6]
+2:0::0:: 125           1  Friends~[dr8]
+2:0::0:: 126           1  Dread Knights~[dz5]
+2:0::0:: 127           1  juan~[ea5]
+2:0::0:: 128           1  Lords of Khorne~[eg5]
+2:0::0:: 129           1  Big Warm~[eh5]
+2:0::0:: 130           1  Draugar~[fm8]
+2:0::0:: 131           1  The Adderlay~[jm6]
+2:0::0:: 132           1  Followers of Zexuis~[kj5]
+2:0::0:: 133           1  The Shadows~[mg6]
+2:0::0:: 134           1  Dragons of New Avalon~[nb7]
+2:0::0:: 135           1  Drassalon~[nm2]
+2:0::0:: 136           1  Antle Selights~[nz2]
+2:0::0:: 137           1  CH_HAVIC~[qy7]
+2:0::0:: 138           1  Tenser's Trading Alliance~[rk2]
+2:0::0:: 139           1  Cool~[sq7]
+2:0::0:: 140           1  Shockers~[tb3]
+2:0::0:: 141           1  Sholden~[uz8]
+2:0::0:: 142           1  Dark Knights~[vq9]
+2:0::0:: 143           1  Neros hippos~[wm5]
+2:0::0:: 144           1  nintendo64~[xc6]
+2:0::0:: 145           1  House Alton~[xv5]
+2:0::0:: 146           1  Shadow's Mararders~[yb3]
+2:0::0:: 147           1  EG~[yn7]
+2:0::0:: 148           0  United Terrorist~[hb5]
+2:0::0:: 149           0  Liquid Fire~[xa5]
+2:0::0:: 150           0  Knights of Armageddon~[ze2]
+2:0::0::
+2:0::0:: who age  gold units  bld subloc ships skills
+2:0::0:: --- ---  ---- -----  --- ------ ----- ------
+2:0::0:: 100 261  374k   604   31     14     8    152  Independent player
+2:0::0:: 204 261     0    15                           Faery player
+2:0::0:: 205 261     0    25                           King of Hades
+2:0::0:: 206 261   13k     7           7               NPC control
+2:0::0:: 207 261    2M  7272         323               Garrison units
+2:0::0:: 210 261     0     0                           Combat log
+2:0::0:: ak6 259  162k    17    1                 151  Villains By Necessity
+2:0::0:: ap7 181     0     1                           Sun Corp.
+2:0::0:: aq2 167     0     4                        9  Godhead
+2:0::0:: ar4 207     0     1                           Qunix
+2:0::0:: aw9 210   900    19                       43  Gar
+2:0::0:: bb8 209  5534    15                       86  tall trees
+2:0::0:: bh3 179   45k    14    1            2     82  Aeolians
+2:0::0:: bj3 209   200    16                        6  Thommie
+2:0::0:: bq8 191    92     3                 1     10  Brotherhood of Shadows
+2:0::0:: bs7 154     0     4                        2  Starks of Winterfell
+2:0::0:: cb5 238   27k     9    1      1          121  Wicca
+2:0::0:: cd7 173   37k     7    1                  65  Hardguys
+2:0::0:: cj2 200   19k     7    1      1           40  The Invisible Order
+2:0::0:: cj5 151  195k    11    3            1    108  The Khawagagan
+2:0::0:: cn3  74     0     4                        7  The Blackstar Brigade
+2:0::0:: cr6 157   52k     7    2                  93  Wyvernesse
+2:0::0:: cv9 259     0     1                       13  The Forest Moon Clan
+2:0::0:: cy2 184   23k     3                       25  The Elthargrimm
+2:0::0:: cy5  83  101k    24           5     2     31  Yorkhouse
+2:0::0:: da6  26     0     1           1               gunslingers
+2:0::0:: db7 107  3495    13                       24  The Rockers
+2:0::0:: de2 215  1003     3                       88  Universal Brotherhood
+2:0::0:: df7 223  3996     9                      132  Gaidin
+2:0::0:: dr8 207     0     1                           Friends
+2:0::0:: ds2 259   10k    11    5                 117  Search Party
+2:0::0:: dz5  87     0     1           1               Dread Knights
+2:0::0:: ea5 205     0     1                           juan
+2:0::0:: eg5 207     0     1                           Lords of Khorne
+2:0::0:: eh5 206     0     1                           Big Warm
+2:0::0:: em7 179   88k    19    2      3     1     43  Sirs,Ladies,Dwarf&Fish
+2:0::0:: en6 259   21k    17    1                 142  Stone Crown
+2:0::0:: ev9 158     0     2                        2  Centori
+2:0::0:: fa4 178   117     4           1     1     25  The Watchers
+2:0::0:: fa5 259  181k    11    1                 153  Zodiacal Light
+2:0::0:: fc3 247  345k    74    1      2          147  The Red Company
+2:0::0:: fh2 206  1589    19                        4  grull
+2:0::0:: fm8  19     0     1           1               Draugar
+2:0::0:: fp4 259  1694    16                       85  Andrew's Avengers
+2:0::0:: fr3 157  3163     3    2                  92  Ashanti
+2:0::0:: fr8 216   10k     9    2                 122  Obscure Convention
+2:0::0:: fv6 108  334k    22    1      1          102  The Scots
+2:0::0:: fx5 238  1214     5    2            1     24  Family Rohnar
+2:0::0:: fz5 229     0     3                       44  The Plainsmen
+2:0::0:: ge6 231  4169     6    1            1     41  The Ladies Of Nd E'riu
+2:0::0:: gh2 259   11k     7                      119  Eridanus
+2:0::0:: gj6 145   200     5    1      1            6  Invisible Touch
+2:0::0:: gk5 222   16k    14    1      1          107  Dragon Knights
+2:0::0:: gn5 157  2061    15                       15  Red Griffon Rampant on White
+2:0::0:: gz2 259  101k    15    4      1          109  The Freehold
+2:0::0:: gz4  52     0     4                       24  Dark Ruinations
+2:0::0:: hb5 222     0     0                           United Terrorist
+2:0::0:: hd3 168  9199    14    1                  82  Land of the Sith
+2:0::0:: hh6 133   39k    13    4      2          144  Greater Itor
+2:0::0:: hr2 188  1713     3                       72  Tuatha de Fionn
+2:0::0:: jh2 153  205k    13    3      1     2    124  The Brothers Grimm
+2:0::0:: jm6  20     0     1           1               The Adderlay
+2:0::0:: jm8 245   30k    25                       57  Gutbuster Brigade
+2:0::0:: jx8 259  3104    10    1            2    130  Lords of MorningWood
+2:0::0:: jy6 259  128k    15    1                 118  Ace
+2:0::0:: ka6 203   43k    12           1     2     88  Vikings
+2:0::0:: kj5 220     0     1                        3  Followers of Zexuis
+2:0::0:: kt3 214   682     4                       37  Sentries of Light
+2:0::0:: lp3 259   39k    19           2     1    121  Incognito Illuminiti
+2:0::0:: md5 224     0     3                       30  Dark Cloud
+2:0::0:: mg6 189     0     1                        1  The Shadows
+2:0::0:: mh8 259    1M    35    5      2          152  The PGA
+2:0::0:: mm9 226   18k    11    1      2           65  The Fenians
+2:0::0:: nb7 205     0     1                           Dragons of New Avalon
+2:0::0:: nf6 259   56k    32    4      2     1     60  ME-Wizards
+2:0::0:: nm2 208     0     1                           Drassalon
+2:0::0:: nn3 183   23k    14    1      1           78  Breeders Inc.
+2:0::0:: ny7 187   60k     7    4      1          115  The Enlightened
+2:0::0:: nz2  58     0     1                           Antle Selights
+2:0::0:: pm8 154   87k    10    1      1          148  Mystic Sages
+2:0::0:: pn2 148   12k     8           1           65  The Navigators
+2:0::0:: ps2 190     0     2           1           64  Sisterhood
+2:0::0:: pv2 195  111k    17    1                 119  The Hanover Consortium
+2:0::0:: pw5 131  4893    11                       35  Falcon Heart
+2:0::0:: px4 151  5214     3                       24  Auroque. Lovers of the Sleepless Moon
+2:0::0:: qb2 259   26k    15    1      1          132  Lost Magi
+2:0::0:: qb7 259  9651     2    1                  18  Xephyr
+2:0::0:: qf4 167  173k    10    2            1    118  Order of the Crystal Sword
+2:0::0:: qj3 150     0     3                        4  The  Wolfs
+2:0::0:: qn5 223  5110    13    1                 132  Xibalba
+2:0::0:: qr9 223  166k    17    2      2          105  Heathers
+2:0::0:: qs7 254   35k    12    1      2     1    119  The Normans
+2:0::0:: qx2 259  5425     9    1                 126  Trinity
+2:0::0:: qy4 140  3903    10    1                  89  The Beastly Boys
+2:0::0:: qy7  31     0     1                           CH_HAVIC
+2:0::0:: ra2 179   564     2                       61  Drasnia
+2:0::0:: rk2 141     0     1                           Tenser's Trading Alliance
+2:0::0:: rk4 184    36     4                       18  Torch Sellers Guild
+2:0::0:: rk7 259   17k     9    2      1          117  Maaderchods
+2:0::0:: rq7 140   15k     9    1                 131  Tysvaer
+2:0::0:: rr7 170   69k    13    1      4     1     70  Sunken Crescent
+2:0::0:: rv6 249   41k    18                      129  The X-Men
+2:0::0:: sa4 254  9052     4                       38  Dusk Troopers
+2:0::0:: sq7 207     0     1                           Cool
+2:0::0:: sz5 247  174k    18    1      1          142  Mantu Rangers
+2:0::0:: sz6 107   11k    13                 1     25  Color Guard
+2:0::0:: ta8 178   54k    12           1          135  The Agency
+2:0::0:: tb3 146     0     1                           Shockers
+2:0::0:: tm6 258  182k    15    2                 153  Lambent Crimson Glow
+2:0::0:: tm7  22   440     3                        9  Survivors of Mire
+2:0::0:: tr5 178  5392    11                      130  Men of Szczek
+2:0::0:: ts4 259  6840     3    1                  71  War's Moneychanger
+2:0::0:: tt4 259   82k    11    2                  23  Seekers of Knowledge
+2:0::0:: tw6 246     1     5           1     1     28  The Celts
+2:0::0:: ty4 229   84k    16    1                  47  Gutbuster Brigade
+2:0::0:: ua7 245  4212    15                       65  Wing Chun Brotherhood
+2:0::0:: ue5 207   13k    19                        9  Gotti
+2:0::0:: ug3 187  370k    74    1      7          143  Purple Pistachios
+2:0::0:: ug8 238   26k    15    2      3           96  Mold Merchants
+2:0::0:: uh5 206   23k     9    2      1     1    152  Highland Rangers
+2:0::0:: ur4 193   13k     7                       75  Dunadan
+2:0::0:: ur8  67   200     3                           The Society of Harmonious Fist
+2:0::0:: uz8  96     0     1                           Sholden
+2:0::0:: vg6 187  638k    15    2      4     2    149  Zida'ya
+2:0::0:: vk5 259  150k    10    2            1    115  High Energy Theurgists
+2:0::0:: vq9 207     0     1                           Dark Knights
+2:0::0:: vy5 157   21k    11    4      1          101  House Smith
+2:0::0:: vz3 190   24k    10    1      1           20  Chaotic Order
+2:0::0:: wb4 256   299     5                      115  House Sundar
+2:0::0:: wb7 259   58k    11    3                 118  Clan Stormcloud
+2:0::0:: wc9 223  295k    17    1      3          145  Bloodhook Island Refugees
+2:0::0:: wh2 223   33k    11    5      1     1    128  Barbancon
+2:0::0:: wj9 210  1000     6                       10  Errant Knights
+2:0::0:: wk7 259   45k    25    1                 150  Loopalootaloofa
+2:0::0:: wm5  62     0     1           1               Neros hippos
+2:0::0:: wz6 209   99k     9                       31  The Call
+2:0::0:: xa5 204     0     0                           Liquid Fire
+2:0::0:: xc6 208     0     1                           nintendo64
+2:0::0:: xf3 205   45k    15    2                 123  Eldrad's Loyalists
+2:0::0:: xp6 205   16k    11                       25  Dwarves
+2:0::0:: xt5 205  128k    16    3      1     1    133  House Genesis
+2:0::0:: xt8  61  6196     4           1           20  Dordred
+2:0::0:: xu3 182  2339     2                       48  Streams
+2:0::0:: xv5 167     0     1                           House Alton
+2:0::0:: xy3 178  105k    15    2                  97  Erigadorn
+2:0::0:: yb3 190     0     1                           Shadow's Mararders
+2:0::0:: yf7 211   61k    19    3            1    144  Royals
+2:0::0:: yg9 221  123k    29    2            1    137  ROYAL LINES
+2:0::0:: ym3 165   12k    11    3      1     2     76  Northern Viking
+2:0::0:: ym5 209     0     4                 1     10  New Rome
+2:0::0:: yn7 209     0     1                           EG
+2:0::0:: yq6 212   27k     4                       68  Shattered Black Rose
+2:0::0:: yv5 247    1M   194    8     11     1    150  The Gryphon Lords
+2:0::0:: ze2 209     0     0                           Knights of Armageddon
+2:0::0:: zy6 238  123k    23    1      3           66  Bain Sidhe
+2:0::0:: zz4 259  154k    39    2      2          137  Ouroboros
+2:0::0::
+2:0::0::
+2:0::0::Posted in Blacksoul~[g02]:
+2:0::3::Posted by Gateboy~[89665]:
+2:0::6::"All done with the tower.
+2:0::7::Thanks Jeff!"
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Code alerts"><font size=+1><b>Code alerts</b></font>
+1:2::0::<hr>
+1:1::0::Code alerts
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10
+1:0::0::
+1:2::0::
+1:2::0::<name="Special events"><font size=+1><b>Special events</b></font>
+1:2::0::<hr>
+1:1::0::Special events
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11
+1:0::0::
+1:2::0::
+1:2::0::<name="Miscellaneous"><font size=+1><b>Miscellaneous</b></font>
+1:2::0::<hr>
+1:1::0::Miscellaneous
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13
+1:0::0::
+1:2::0::
+1:2::0::<name="Character deaths"><font size=+1><b>Character deaths</b></font>
+1:2::0::<hr>
+1:1::0::Character deaths
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12
+1:0::0::
+1:2::0::
+1:2::0::<name="Lore sheets"><font size=+1><b>Lore sheets</b></font>
+1:2::0::<hr>
+1:1::0::Lore sheets
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2
+1:0::0::

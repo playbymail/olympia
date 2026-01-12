@@ -1,0 +1,13 @@
+#Skill:  Resurrect dead noble [9302]
+#
+Usage:  USE @@@@ <body>
+Time:   ten days
+
+Bring the body of a dead noble back to life.  There is a 50% chance
+of success for each attempt.
+
+If successful, the resurrected noble will be brought back to life and
+stack beneath the priest.  The resurrected noble's loyalties will
+remain the same as they were at the time of the noble's death, unless
+the previous owner is no longer a player in the game.  In this case,
+the resurrected noble will swear featly to the priest's faction.

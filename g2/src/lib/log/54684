@@ -1,0 +1,513 @@
+57392:0::0:0:Garrison~[5721], garrison, with 78~pikemen guards Jhena~[h32].
+13989:0::0:0:Garrison~[9340], garrison, with ten~soldiers guards Trader's Haven~[bz89].
+11004:0::0:0:Garrison~[m251], garrison, with ten~soldiers, 61~centaurs, 11~oxen, 19~ghost warriors, 49~workers, nine~nazgul, three~giant spiders guards Panamei~[an04].
+12986:0::0:0:Garrison~[s900], garrison, with 68~soldiers, 40~peasants, one~worker, 27~swordsmen, two~wolves, one~cyclops guards Plain~[bm86].
+11004:0::0:1:Savage~[107117] sounds a drumbeat.
+14102:0::0:1:Finnbar Saunders~[102551], with five~workers, 12~winged horses, two~oxen, arrived from Takayama~[k38].
+1385:0::0:1:Received 1~gold from Garrison~[5721].
+1385:0::0:2:Received 1~gold from Garrison~[5721].
+1385:0::0:3:Received 1~gold from Garrison~[5721].
+1385:0::0:4:Received 1~gold from Garrison~[5721].
+1385:0::0:5:Received 1~gold from Garrison~[5721].
+1385:0::0:6:Received 1~gold from Garrison~[5721].
+1385:0::0:7:Received 1~gold from Garrison~[5721].
+1385:0::0:8:Received 1~gold from Garrison~[5721].
+1385:0::0:9:Received 1~gold from Garrison~[5721].
+1385:0::0:10:Received 1~gold from Garrison~[5721].
+14102:0::0:11:Finnbar Saunders~[102551] quarried 50~stone.
+1385:0::0:11:Received 1~gold from Garrison~[5721].
+14102:0::0:12:Finnbar Saunders~[102551], with five~workers, 12~winged horses, two~oxen, entered Takayama~[k38].
+1385:0::0:12:Received 1~gold from Garrison~[5721].
+1385:0::0:13:Received 1~gold from Garrison~[5721].
+1385:0::0:14:Received 1~gold from Garrison~[5721].
+1385:0::0:15:Received 1~gold from Garrison~[5721].
+1385:0::0:16:Received 1~gold from Garrison~[5721].
+1385:0::0:17:Received 1~gold from Garrison~[5721].
+1385:0::0:18:Received 1~gold from Garrison~[5721].
+1385:0::0:19:Received 1~gold from Garrison~[5721].
+1385:0::0:20:Received 1~gold from Garrison~[5721].
+1385:0::0:21:Received 1~gold from Garrison~[5721].
+12986:0::0:21:It has begun to rain.
+1385:0::0:22:Received 1~gold from Garrison~[5721].
+1385:0::0:23:Received 1~gold from Garrison~[5721].
+1385:0::0:24:Received 1~gold from Garrison~[5721].
+1385:0::0:25:Received 1~gold from Garrison~[5721].
+11004:0::0:26:Savage~[87257] attacks Jhena Castle~[z636]!
+11004:0::3:26:
+11004:0::3:26:Savage~[87257], savages, number:~16
+11004:0::3:26:
+11004:0::3:26:Jhena Castle~[z636], castle, defense~80, level~6, owner:
+11004:0::6/3:26:Quicksilver~[1045], earl, with five~workers, 34~elite guard, 68~pikemen, 35~blessed soldiers, 35~swordsmen, 34~elite archers, 18~catapults
+11004:0::0:26:
+11004:0::0:26:Quicksilver~[1045] is victorious!
+11004:0::0:26:
+11004:0::3:26:Savage lost 15~savages.
+11004:0::3:26:Savage~[87257] was taken prisoner.
+11004:0::0:26:
+1385:0::0:26:Received 1~gold from Garrison~[5721].
+1385:0::0:27:Received 1~gold from Garrison~[5721].
+1385:0::0:28:Received 1~gold from Garrison~[5721].
+1385:0::0:29:Received 1~gold from Garrison~[5721].
+1385:0::0:30:Received 1~gold from Garrison~[5721].
+13989:0::0:30:It has stopped raining.
+11004:0::0:30:It has stopped raining.
+11004:0::0::
+11004:0::0::Province controlled by Jhena Castle~[z636], castle, in Panamei~[an04]
+11004:0::0::Ruled by Quicksilver~[1045], earl
+11004:0::0::
+11004:0::0::Routes leaving Panamei: 
+11004:0::3::North, mountain, to Polye~[am04], 10~days
+11004:0::3::East, swamp, to Hie~[an05], 14~days
+11004:0::3::South, mountain, to Amphion~[ap04], 10~days
+11004:0::3::West, mountain, to Hestra~[an03], 10~days
+11004:0::0::
+11004:0::0::Inner locations:
+11004:0::3::Jhena~[h32], city, "Duchy of Jelling", 1 day
+11004:0::3::Jhena Castle~[z636], castle, defense~80, level~6, "House of Lords", owner:
+11004:0::0/6::      Quicksilver~[1045], earl, "{<i>}House of Lords{</i>}", with five~workers, 34~elite guard, 68~pikemen, 35~blessed soldiers, 35~swordsmen, 34~elite archers, 18~catapults, accompanied~by:
+11004:0::0/9::         Savage~[102615], savage, prisoner
+11004:0::0/9::         Savage~[143823], savage, prisoner
+11004:0::0/9::         Savage~[123806], savage, prisoner
+11004:0::0/9::         Savage~[95526], savage, prisoner
+11004:0::0/9::         Savage~[102733], savage, prisoner
+11004:0::0/9::         Savage~[91574], savage, prisoner
+11004:0::0/9::         Savage~[80342], savage, prisoner
+11004:0::0/9::         Savage~[104865], savage, prisoner
+11004:0::0/9::         Savage~[133645], savage, prisoner
+11004:0::0/9::         Savage~[146735], savage, prisoner
+11004:0::0/9::         Savage~[87257], savage, prisoner
+11004:0::6::Jhena Tower~[2751], tower, defense~40, "House of Lords"
+11004:0::0::
+11004:0::0::Seen here:
+11004:0::0/3::   Garrison~[m251], garrison, on guard, with ten~soldiers, 61~centaurs, 11~oxen, 19~ghost warriors, 49~workers, nine~nazgul, three~giant spiders
+11004:0::0/3::   Savage~[107117], savage
+11004:0::0/3::   Savage~[80209], savage
+12986:0::0::
+12986:0::0::Province controlled by Our Castle~[2321], castle, in Mountain~[bm92]
+12986:0::0::Ruled by Claud Badly~[4029], king
+12986:0::0::
+12986:0::0::Routes leaving Plain: 
+12986:0::3::North, to Mountain~[bk86], 10~days
+12986:0::3::East, to Plain~[bm87], 7~days
+12986:0::3::South, to Forest~[bn86], 8~days
+12986:0::3::West, to Mountain~[bm85], 10~days
+12986:0::0::
+12986:0::0::Inner locations:
+12986:0::3::Nophalis~[g03], city, 1 day
+12986:0::0::
+12986:0::0::It is raining.
+12986:0::0::
+12986:0::0::Seen here:
+12986:0::0/3::   Garrison~[s900], garrison, on guard, with 68~soldiers, 40~peasants, one~worker, 27~swordsmen, two~wolves, one~cyclops
+13989:0::0::
+13989:0::0::Province controlled by Dirbrand castle~[6026], castle, in Trader's Haven~[cf90]
+13989:0::0::Ruled by King of Atnos~[95751], king
+13989:0::0::
+13989:0::0::Routes leaving Trader's Haven: 
+13989:0::3::North, forest, to Trader's Haven~[bx89], 8~days
+13989:0::3::East, forest, to Trader's Haven~[bz90], 8~days
+13989:0::3::South, plain, to Trader's Haven~[ca89], 7~days
+13989:0::3::West, forest, to Trader's Haven~[bz88], 8~days
+13989:0::0::
+13989:0::0::Inner locations:
+13989:0::3::North Memphis~[k68], city, 1 day
+13989:0::0::
+13989:0::0::Seen here:
+13989:0::0/3::   Garrison~[9340], garrison, on guard, with ten~soldiers
+14102:0::0::
+14102:0::0::Routes leaving Hida: 
+14102:0::3::North, swamp, to Satsuma~[ca02], 14~days
+14102:0::3::East, plain, to Higo~[cb03], 7~days
+14102:0::3::South, forest, to Mutsu~[cc02], 8~days
+14102:0::3::West, mountain, to Hizen~[cb01], 10~days
+14102:0::0::
+14102:0::0::Inner locations:
+14102:0::3::Takayama~[k38], city, "Kingdom of Cragstan", 1 day
+14102:0::3::Cave~[k352], cave, hidden, 1 day
+14102:0::0::
+14102:0::0::It is raining.
+14102:0::0::
+14102:0::0::Seen here:
+14102:0::0/3:: * Nagayama~[4099], "{<i>}Kingdom of Cragstan{</i>}"
+57392:0::0::
+57392:0::0::Routes leaving Jhena: 
+57392:0::3::Out, mountain, to Panamei~[an04], 1~day
+57392:0::0::
+57392:0::0::Skills taught here:
+57392:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Mining~[720], Magic~[800], Necromancy~[900]
+57392:0::0::
+57392:0::0::Market report:
+57392:0::3::
+57392:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57392:0::3::-----    ---   -----    ---     -----   ----                     
+57392:0::3::  buy    h32     127      3        50   hides~[99]               
+57392:0::3::  buy    h32       4     15         1   woven baskets~[94]       
+57392:0::3::  buy    h32     141     27       100   honey~[99733]            
+57392:0::3:: sell    h32      28      1        10   iron~[79]                
+57392:0::0::
+57392:0::0::Inner locations:
+57392:0::3::Humanis Policlub~[s577], temple, defense~10, "House of Lords", owner:
+57392:0::0/6::      Grandfather Bones~[7036], priest, "{<i>}House of Lords{</i>}", with ten~blessed soldiers
+57392:0::0::
+57392:0::0::Seen here:
+57392:0::0/3::   Garrison~[5721], garrison, on guard, with 78~pikemen, accompanied~by:
+57392:0::0/6:: *    Lord Etake~[1385], wielding Longsword of Lethrys~[d410], "{<i>}Kingdom of Cragstan{</i>}"
+57392:0::0/6::      Captain Protora~[a106], "{<i>}House of Lords{</i>}"
+5:0::0::
+5:0::0::begin sa4 "sulputcaf"  # Dusk Troopers
+5:0::0::
+5:0::0::unit sa4  # Dusk Troopers
+5:0::0::
+5:0::0::unit 1385  # Lord Etake in Jhena~[h32]
+5:0::0::
+5:0::0::unit 5934  # Yoshi Romanov in Plain~[bm86]
+5:0::0::
+5:0::0::unit 3920  # Will Shakespear in Trader's Haven~[bz89]
+5:0::0::
+5:0::0::unit 4099  # Nagayama in Hida~[cb02]
+5:0::0::
+5:0::0::end
+54684:0::0::
+54684:0::0::Admit permissions:
+54684:0::0::
+54684:0::3::admit 1385  de2  wb4 3920  kt3
+54684:0::3::admit 1938 1599 3582 3634 3843 3920 5934  de2  hr2  kt3  ra2  wb4
+54684:0::3::           k810 n471 z501
+54684:0::3::admit 3920  de2  wb4 3920  kt3
+54684:0::3::admit 4190  de2  wb4 3920  kt3
+54684:0::3::admit 5161  de2  wb4 3920  kt3
+54684:0::3::admit 5934  de2  wb4 3920  kt3
+54684:0::0::
+54684:0::0::Declared attitudes:
+54684:0::3::defend  1599 3634 3843 3920 5934 6344  de2  hr2  kt3  px4  ra2
+54684:0::3::         sa4  wb4 a068 k810 n471 r381 x196 x218 z501
+54684:0::0::
+54684:0::0::Unclaimed items:
+54684:0::0::
+54684:0::0::      qty  name                              weight
+54684:0::0::      ---  ----                              ------
+54684:0::0::    5,576  gold~[1]                               0  
+1385:0::3::
+1385:0::3/16::Location:       Jhena~[h32], in province Panamei~[an04], in Cipheria
+1385:0::3::Loyalty:        Oath-2
+1385:0::3/16::Stacked under:  Garrison~[5721]
+1385:0::3::Health:         100%
+1385:0::3::Combat:         attack 116, defense 100, missile 0
+1385:0::3::                behind 0  (front line in combat)
+1385:0::3::Break point:    0% (fight to the death)
+1385:0::3::Receive Vision: 6 protection
+1385:0::3::Banner:         Kingdom of Cragstan
+1385:0::3::
+1385:0::3::Skills known:
+1385:0::6::Combat~[610]
+1385:0::12::Survive fatal wound~[611]
+1385:0::12::Fight to the death~[612]
+1385:0::12::Defense~[614], apprentice
+1385:0::12::Swordplay~[616], journeyman
+1385:0::12::Weaponsmithing~[617], journeyman
+1385:0::6::Beastmastery~[650]
+1385:0::12::Bird spy~[651], apprentice
+1385:0::12::Capture beasts in battle~[652]
+1385:0::12::Use beasts in battle~[653]
+1385:0::12::Breed beasts~[654], adept
+1385:0::12::Catch wild horses~[655], adept
+1385:0::12::Train wild horse to riding horse~[656], journeyman
+1385:0::12::Train wild horse to warmount~[657], adept
+1385:0::12::Summon wild men~[658], apprentice
+1385:0::3::
+1385:0::3::Partially known skills:
+1385:0::6/6::Persuade wild men to remain~[659], 9/21
+1385:0::6/6::Necromancy~[900], 39/42
+1385:0::3::
+1385:0::3::Inventory:
+1385:0::3::{<b>}      qty  name                              weight{</b>}
+1385:0::3::      ---  ----                              ------
+1385:0::3::    4,041  gold~[1]                               0  
+1385:0::3::        1  Longsword of Lethrys~[d410]           10  +20 attack
+1385:0::3::                                             ======
+1385:0::3::                                                 10
+1385:0::3::
+1385:0::3/11::Capacity:  10/100 land (10%)
+1385:0::3::
+3920:0::3::
+3920:0::3/16::Location:       Trader's Haven~[bz89], in Atnos
+3920:0::3::Loyalty:        Oath-1
+3920:0::3::Health:         100%
+3920:0::3::Combat:         attack 173, defense 171, missile 50
+3920:0::3::                behind 0  (front line in combat)
+3920:0::3::Break point:    0% (fight to the death)
+3920:0::3::use  641 1      (concealing self)
+3920:0::3::Receive Vision: 9 protection
+3920:0::3::
+3920:0::3::Skills known:
+3920:0::6::Combat~[610]
+3920:0::12::Survive fatal wound~[611]
+3920:0::12::Fight to the death~[612]
+3920:0::12::Construct catapult~[613], apprentice
+3920:0::12::Defense~[614], master
+3920:0::12::Archery~[615], apprentice
+3920:0::12::Swordplay~[616], master
+3920:0::12::Weaponsmithing~[617], apprentice
+3920:0::6::Stealth~[630]
+3920:0::12::Petty thievery~[631], adept
+3920:0::12::Determine inventory of character~[632], apprentice
+3920:0::12::Determine skills of character~[633], apprentice
+3920:0::12::Determine character's lord~[634], apprentice
+3920:0::12::Conceal faction~[635], apprentice
+3920:0::12::Learn of richest nearby noble~[636], apprentice
+3920:0::12::Torture prisoner~[637], apprentice
+3920:0::12::Sneak into structure~[639], apprentice
+3920:0::12::Conceal self~[641], apprentice
+3920:0::6::Persuasion~[670]
+3920:0::12::Bribe noble~[671], apprentice
+3920:0::12::Persuade oathbound noble~[672], apprentice
+3920:0::12::Raise peasant mob~[673], apprentice
+3920:0::12::Rally peasant mob~[674], apprentice
+3920:0::6::Trade~[730]
+3920:0::12::Conceal identity of trader~[731], apprentice
+3920:0::12::Find tradegood for sale~[732], journeyman
+3920:0::12::Find market for tradegood~[733], apprentice
+3920:0::3::
+3920:0::3::Inventory:
+3920:0::3::{<b>}      qty  name                              weight{</b>}
+3920:0::3::      ---  ----                              ------
+3920:0::3::    3,213  gold~[1]                               0  
+3920:0::3::        2  winged horses~[54]                 2,000  fly 300
+3920:0::3::        1  elfstone~[69]                          1  
+3920:0::3::                                             ======
+3920:0::3::                                              2,001
+3920:0::3::
+3920:0::3/11::Capacity:  1/400 land (0%), 101/300 ride (33%), 101/300 fly (33%)
+3920:0::3::
+4099:0::3::
+4099:0::3/16::Location:       Hida~[cb02], in Cragstan
+4099:0::3::Loyalty:        Fear-7
+4099:0::3::Health:         100%
+4099:0::3::Combat:         attack 80, defense 80, missile 0
+4099:0::3::                behind 0  (front line in combat)
+4099:0::3::Break point:    50%
+4099:0::3::Receive Vision: 3 protection
+4099:0::3::Banner:         Kingdom of Cragstan
+4099:0::3::
+4099:0::3::Skills known:
+4099:0::6::Combat~[610]
+4099:0::12::Fight to the death~[612]
+4099:0::12::Construct catapult~[613], apprentice
+4099:0::12::Defense~[614], apprentice
+4099:0::12::Swordplay~[616], apprentice
+4099:0::12::Weaponsmithing~[617], apprentice
+4099:0::6::Beastmastery~[650]
+4099:0::12::Bird spy~[651], apprentice
+4099:0::12::Capture beasts in battle~[652]
+4099:0::12::Use beasts in battle~[653]
+4099:0::12::Breed beasts~[654], grand master
+4099:0::12::Catch wild horses~[655], apprentice
+4099:0::12::Train wild horse to riding horse~[656], apprentice
+4099:0::12::Train wild horse to warmount~[657], journeyman
+4099:0::12::Summon wild men~[658], apprentice
+4099:0::12::Persuade wild men to remain~[659], apprentice
+4099:0::12::Breed hound~[661], apprentice
+4099:0::3::
+4099:0::3::Partially known skills:
+4099:0::6/6::Survive fatal wound~[611], 14/28
+4099:0::3::
+4099:0::3::Nagayama~[4099] has no possessions.
+4099:0::3::
+4099:0::3/11::Capacity:  0/100 land (0%)
+4099:0::3::
+4099:0::3::Pending trades:
+4099:0::3::
+4099:0::6::trade    price    qty   item
+4099:0::6::-----    -----    ---   ----
+4099:0::6:: sell        7  9,999   clay pot~[95]
+4099:0::3::
+5934:0::3::
+5934:0::3/16::Location:       Plain~[bm86], in Krussos
+5934:0::3::Loyalty:        Oath-1
+5934:0::3::Health:         100%
+5934:0::3::Combat:         attack 168, defense 163, missile 52
+5934:0::3::                behind 0  (front line in combat)
+5934:0::3::Break point:    0% (fight to the death)
+5934:0::3::use  641 1      (concealing self)
+5934:0::3::Receive Vision: 10 protection
+5934:0::3::
+5934:0::3::Skills known:
+5934:0::6::Combat~[610]
+5934:0::12::Survive fatal wound~[611]
+5934:0::12::Fight to the death~[612]
+5934:0::12::Construct catapult~[613], apprentice
+5934:0::12::Defense~[614], master
+5934:0::12::Archery~[615], apprentice
+5934:0::12::Swordplay~[616], master
+5934:0::12::Weaponsmithing~[617], journeyman
+5934:0::6::Stealth~[630]
+5934:0::12::Petty thievery~[631], apprentice
+5934:0::12::Determine inventory of character~[632], apprentice
+5934:0::12::Determine skills of character~[633], journeyman
+5934:0::12::Determine character's lord~[634], journeyman
+5934:0::12::Conceal faction~[635], apprentice
+5934:0::12::Sneak into structure~[639], apprentice
+5934:0::12::Conceal self~[641], apprentice
+5934:0::6::Persuasion~[670]
+5934:0::12::Bribe noble~[671], apprentice
+5934:0::12::Persuade oathbound noble~[672], apprentice
+5934:0::12::Raise peasant mob~[673], apprentice
+5934:0::12::Rally peasant mob~[674], apprentice
+5934:0::3::
+5934:0::3::Inventory:
+5934:0::3::{<b>}      qty  name                              weight{</b>}
+5934:0::3::      ---  ----                              ------
+5934:0::3::    1,798  gold~[1]                               0  
+5934:0::3::        1  magic dagger~[105744]                 10  +100 attack
+5934:0::3::        1  elven cloak~[142343]                  10  +100 defense
+5934:0::3::                                             ======
+5934:0::3::                                                 20
+5934:0::3::
+5934:0::3/11::Capacity:  20/100 land (20%)
+5934:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Dusk Troopers~[sa4].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/sa4/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [sa4]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         4  93rd   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           9,052  75th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   38/74  67th   
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         635/31,919  54th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  31     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  p939 x960 95618 109574 86834
+0:0::0::
+0:0::0::18 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::1385   h32    o2    100  0    4041                     5721   Lord Etake
+0:0::0::5934   bm86   o1    100  0    1798                            Yoshi Romanov
+0:0::0::3920   bz89   o1    100  0    3213                            Will Shakespear
+0:0::0::4099   cb02   f7    100  0                                    Nagayama
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              9052                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Cipheria
+0:0::0::  Panamei~[an04]
+0:0::0::    Jhena~[h32]                      Lord Etake~[1385]
+0:0::0::Krussos
+0:0::0::  Plain~[bm86]                     Yoshi Romanov~[5934]
+0:0::0::Atnos
+0:0::0::  Trader's Haven~[bz89]            Will Shakespear~[3920]
+0:0::0::Cragstan
+0:0::0::  Hida~[cb02]                      Nagayama~[4099]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  1385         110         90  10%                                
+0:0::0::  5934         120         80  20%                                
+0:0::0::  3920       2,101        399   0%        199  33%        199  33%
+0:0::0::  4099         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Dusk Troopers~[sa4]"><font size=+1><b>Dusk Troopers~[sa4]</b></font>
+1:2::0::<hr>
+1:1::0::Dusk Troopers~[sa4]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54684
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Etake~[1385]"><font size=+1><b>Lord Etake~[1385]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Etake~[1385]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1385
+1:0::0::
+1:2::0::
+1:2::0::<name="Yoshi Romanov~[5934]"><font size=+1><b>Yoshi Romanov~[5934]</b></font>
+1:2::0::<hr>
+1:1::0::Yoshi Romanov~[5934]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5934
+1:0::0::
+1:2::0::
+1:2::0::<name="Will Shakespear~[3920]"><font size=+1><b>Will Shakespear~[3920]</b></font>
+1:2::0::<hr>
+1:1::0::Will Shakespear~[3920]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3920
+1:0::0::
+1:2::0::
+1:2::0::<name="Nagayama~[4099]"><font size=+1><b>Nagayama~[4099]</b></font>
+1:2::0::<hr>
+1:1::0::Nagayama~[4099]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4099
+1:2::0::
+1:2::0::<name="Panamei~[an04]"><font size=+1><b>Panamei~[an04]</b>, mountain, in Cipheria, civ-6</font>
+1:2::0::<hr>
+1:1::0::Panamei~[an04], mountain, in Cipheria, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11004
+1:0::0::
+1:2::0::
+1:2::0::<name="Jhena~[h32]"><font size=+1><b>Jhena~[h32]</b>, city, in province Panamei~[an04]</font>
+1:2::0::<hr>
+1:1::0::Jhena~[h32], city, in province Panamei~[an04]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57392
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bm86]"><font size=+1><b>Plain~[bm86]</b>, plain, in Krussos, civ-3</font>
+1:2::0::<hr>
+1:1::0::Plain~[bm86], plain, in Krussos, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12986
+1:0::0::
+1:2::0::
+1:2::0::<name="Trader's Haven~[bz89]"><font size=+1><b>Trader's Haven~[bz89]</b>, forest, in Atnos, civ-1</font>
+1:2::0::<hr>
+1:1::0::Trader's Haven~[bz89], forest, in Atnos, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 13989
+1:0::0::
+1:2::0::
+1:2::0::<name="Hida~[cb02]"><font size=+1><b>Hida~[cb02]</b>, mountain, in Cragstan, civ-4</font>
+1:2::0::<hr>
+1:1::0::Hida~[cb02], mountain, in Cragstan, civ-4
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14102
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

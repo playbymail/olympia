@@ -1,0 +1,440 @@
+16210:0::0:0:Garrison~[4272], garrison, with four~oxen, 16~sailors guards Forest~[dc10].
+16113:0::0:0:Garrison~[131082], garrison, with nine~workers, one~peasant, one~rat guards Plain~[db13].
+16210:0::0:4:It has begun to rain.
+58423:0::0:15:Red Dragon~[82992], with 16~winged horses, exited Port Aurnos~[v63].
+16210:0::0:15:Red Dragon~[82992], with 16~winged horses, arrived from Port Aurnos~[v63].
+58423:0::0:16:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, exited Port Aurnos~[v63].
+16210:0::0:16:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, arrived from Port Aurnos~[v63].
+16210:0::0:17:Travis Morgan~[138618], with one~peasant, five~workers, three~winged horses, went east.
+16210:0::0:19:Zygmunt~[95307] cut 30~wood.
+16113:0::0:21:It has begun to rain.
+16210:0::0:25:Red Dragon~[82992] recruited ten~peasants.
+104748:0::0:30:Paid maintenance of 20~gold.
+136313:0::0:30:Paid maintenance of 40~gold.
+16113:0::0::
+16113:0::0::Province controlled by Castle Silence~[h862], castle, in Plain~[db13]
+16113:0::0::Ruled by Kitla~[3462], marquess
+16113:0::0::
+16113:0::0::Routes leaving Plain: 
+16113:0::3::North, to Plain~[da13], 7~days
+16113:0::3::East, to Swamp~[db14], 14~days
+16113:0::3::South, to Plain~[dc13], 7~days
+16113:0::3::West, to Plain~[db12], 7~days
+16113:0::0::
+16113:0::0::Inner locations:
+16113:0::3::Sigil~[f82], city, "City of Doors", 1 day
+16113:0::0::
+16113:0::0::It is raining.
+16113:0::0::
+16113:0::0::Seen here:
+16113:0::0/3::   Garrison~[131082], garrison, on guard, with nine~workers, one~peasant, one~rat
+16210:0::0::
+16210:0::0::Province controlled by Castle Silence~[h862], castle, in Plain~[db13]
+16210:0::0::Ruled by Kitla~[3462], marquess
+16210:0::0::
+16210:0::0::Routes leaving Forest: 
+16210:0::3::North, to Forest~[db10], 8~days
+16210:0::3::East, to Forest~[dc11], 8~days
+16210:0::3::South, to Ocean~[dd10], Great Sea, impassable
+16210:0::3::West, to Ocean~[dc09], Great Sea, impassable
+16210:0::0::
+16210:0::0::Inner locations:
+16210:0::3::Port Aurnos~[v63], port city, safe haven, 1 day
+16210:0::0::
+16210:0::0::It is raining.
+16210:0::0::
+16210:0::0::Seen here:
+16210:0::0/3::   Garrison~[4272], garrison, on guard, with four~oxen, 16~sailors
+16210:0::0/3::   Zygmunt~[95307], with four~peasants, ten~workers, five~winged horses
+16210:0::0/3::   Red Dragon~[82992], "{<i>}Greyfell Dragons{</i>}", with 16~winged horses, ten~peasants
+57242:0::0::
+57242:0::0::Routes leaving Sigil: 
+57242:0::3::Out, to Plain~[db13], 1~day
+57242:0::0::
+57242:0::0::Cities rumored to be nearby:
+57242:0::3::Port Aurnos~[v63], in Forest~[dc10], safe haven
+57242:0::3::Riverwind~[z24], in Forest~[cw14]
+57242:0::0::
+57242:0::0::Skills taught here:
+57242:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Persuasion~[670], Construction~[680], Magic~[800], Weather magic~[820]
+57242:0::0::
+57242:0::0::Market report:
+57242:0::3::
+57242:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57242:0::3::-----    ---   -----    ---     -----   ----                     
+57242:0::3::  buy    f82     105     41        28   myrrh~[s089]             
+57242:0::3::  buy    f82       4     15         1   woven baskets~[94]       
+57242:0::3:: sell    f82      26     39        55   cinnabar~[b160]          
+57242:0::3:: sell    f82      10     34        16   pepper~[b334]            
+57242:0::3:: sell    f82      11     36       100   linen~[t835]             
+57242:0::3:: sell    f82     100      5     2,000   oxen~[76]                
+57242:0::3:: sell    f82      22     34        27   saffron~[w259]           
+57242:0::3:: sell    f82      13     37       100   flax~[m271]              
+57242:0::3:: sell    f82     130      2     1,000   riding horses~[52]       
+57242:0::0::
+57242:0::0::Inner locations:
+57242:0::3::Castle Silence~[h862], castle, defense~80, level~6, owner:
+57242:0::0/6::      Kitla~[3462], marquess, with six~swordsmen, 29~winged horses
+57242:0::6::Tower Silence~[9311], tower, defense~40
+57242:0::3::The Holy Way~[8228], temple, defense~10, owner:
+57242:0::0/6::      Father Davion~[b150], priest
+57242:0::0::
+57242:0::0::It is raining.
+58423:0::0::
+58423:0::0::Routes leaving Port Aurnos: 
+58423:0::3::South, to Ocean~[dd10], Great Sea, 1~day
+58423:0::3::West, to Ocean~[dc09], Great Sea, 1~day
+58423:0::3::Out, to Forest~[dc10], 1~day
+58423:0::0::
+58423:0::0::Cities rumored to be nearby:
+58423:0::3::Sigil~[f82], in Plain~[db13]
+58423:0::0::
+58423:0::0::Skills taught here:
+58423:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58423:0::0::
+58423:0::0::Market report:
+58423:0::3::
+58423:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58423:0::3::-----    ---   -----    ---     -----   ----                     
+58423:0::3::  buy 104748       5     10        10   iron~[79]                
+58423:0::3::  buy    v63     137     47        72   chocolate~[m585]         
+58423:0::3::  buy    v63     128      5        50   hides~[99]               
+58423:0::3::  buy    v63     199     42        30   jeweled eggs~[w973]      
+58423:0::3::  buy    v63       2    100         2   fish~[87]                
+58423:0::3::  buy    v63       4     15         1   woven baskets~[94]       
+58423:0::3:: sell    v63      50     10       100   pitch~[261]              
+58423:0::3:: sell    v63     140      2       100   ivory~[k845]             
+58423:0::3:: sell    v63      11     48       100   salt~[z752]              
+58423:0::3:: sell    v63      30     46        43   tea~[q556]               
+58423:0::3:: sell    v63      12     40       100   salt~[h526]              
+58423:0::3:: sell    v63      12     25        30   wood~[77]                
+58423:0::0::
+58423:0::0::Inner locations:
+58423:0::3::L.S.E~[9108], tower, defense~40
+58423:0::3::Empty Coffers~[w698], tower, defense~40, "MT"
+58423:0::0::
+58423:0::0::It is raining.
+58423:0::0::
+58423:0::0::Seen here:
+58423:0::0/3::   Thorleik~[131616]
+58423:0::0/3::   Gerabaldi~[131891]
+58423:0::0/3::   Londo Mollari~[n631], accompanied~by:
+58423:0::0/6::      Vir~[n611]
+58423:0::0/3::   Qunix~[8231]
+58423:0::0/3:: * Docken~[106928], with 22~winged horses
+58423:0::0/3:: * Narf~[136313], with 20~workers
+58423:0::0/3:: * Bertain~[104748], with ten~workers
+58423:0::0/3::   Black Dragon~[96859], "{<i>}Greyfell Dragons{</i>}", with 19~winged horses
+58423:0::0/3::   Red Knight~[131218], "{<i>}Greyfell Dragons{</i>}", with 14~winged horses
+58423:0::0::
+58423:0::0::Ships docked at port:
+58423:0::3/3::Runtings warrior~[4330], galley-in-progress, 38% completed, 0% loaded
+58423:0::3/3::Sword of the Sea~[7851], galley, 0% loaded, defense~20
+58423:0::3/3::Trinity~[9198], galley, 0% loaded, defense~20
+58423:0::3/3::Glory Hunter~[6102], roundship-in-progress, 38% completed, 0% loaded
+58423:0::3/3::The Seagull~[4997], roundship, 0% loaded, defense~10
+5:0::0::
+5:0::0::begin xt8 "smog"  # Dordred
+5:0::0::
+5:0::0::unit xt8  # Dordred
+5:0::0::
+5:0::0::unit 121122  # Slash in Sigil~[f82]
+5:0::0::
+5:0::0::unit 106928  # Docken in Port Aurnos~[v63]
+5:0::0::
+5:0::0::unit 136313  # Narf in Port Aurnos~[v63]
+5:0::0::
+5:0::0::unit 104748  # Bertain in Port Aurnos~[v63]
+5:0::0::
+5:0::0::end
+56178:0::0::
+56178:0::0::Unclaimed items:
+56178:0::0::
+56178:0::0::      qty  name                              weight
+56178:0::0::      ---  ----                              ------
+56178:0::0::      350  gold~[1]                               0  
+56178:0::0::      100  stone~[78]                        10,000  
+104748:0::3::
+104748:0::3/16::Location:       Port Aurnos~[v63], in province Forest~[dc10], in Provinia
+104748:0::3::Loyalty:        Fear-65
+104748:0::3::Health:         100%
+104748:0::3::Combat:         attack 80, defense 80, missile 0
+104748:0::3::                behind 0  (front line in combat)
+104748:0::3::Break point:    50%
+104748:0::3::
+104748:0::3::Skills known:
+104748:0::6::Combat~[610]
+104748:0::12::Weaponsmithing~[617], adept
+104748:0::6::Stealth~[630]
+104748:0::6::Forestry~[700]
+104748:0::12::Harvest lumber~[702], journeyman
+104748:0::6::Trade~[730]
+104748:0::12::Find tradegood for sale~[732], apprentice
+104748:0::12::Find market for tradegood~[733], apprentice
+104748:0::3::
+104748:0::3::Inventory:
+104748:0::3::{<b>}      qty  name                              weight{</b>}
+104748:0::3::      ---  ----                              ------
+104748:0::3::      900  gold~[1]                               0  
+104748:0::3::       10  workers~[11]                       1,000  cap 1,000 (1,1,0)
+104748:0::3::                                             ======
+104748:0::3::                                              1,000
+104748:0::3::
+104748:0::3/11::Capacity:  0/1,100 land (0%)
+104748:0::3::
+104748:0::3::Pending trades:
+104748:0::3::
+104748:0::6::trade    price    qty   item
+104748:0::6::-----    -----    ---   ----
+104748:0::6::  buy        5     10   iron~[79]
+104748:0::3::
+106928:0::3::
+106928:0::3/16::Location:       Port Aurnos~[v63], in province Forest~[dc10], in Provinia
+106928:0::3::Loyalty:        Oath-2
+106928:0::3::Health:         100%
+106928:0::3::Combat:         attack 80, defense 80, missile 0
+106928:0::3::                behind 0  (front line in combat)
+106928:0::3::Break point:    50%
+106928:0::3::use  641 0      (not concealing self)
+106928:0::3::
+106928:0::3::Current aura:   3
+106928:0::3::Maximum aura:   0
+106928:0::3::
+106928:0::3::Skills known:
+106928:0::6::Stealth~[630]
+106928:0::12::Conceal self~[641], apprentice
+106928:0::6::Beastmastery~[650]
+106928:0::12::Breed beasts~[654], adept
+106928:0::6::Magic~[800]
+106928:0::12::Perform common tasks for gold~[802], apprentice
+106928:0::3::
+106928:0::3::Partially known skills:
+106928:0::6/6::Forestry~[700], 14/21
+106928:0::3::
+106928:0::3::Inventory:
+106928:0::3::{<b>}      qty  name                              weight{</b>}
+106928:0::3::      ---  ----                              ------
+106928:0::3::    2,678  gold~[1]                               0  
+106928:0::3::       22  winged horses~[54]                22,000  fly 3,300
+106928:0::3::      190  pikes~[75]                           950  
+106928:0::3::                                             ======
+106928:0::3::                                             22,950
+106928:0::3::
+106928:0::3/11::Capacity:  950/3,400 land (27%), 1,050/3,300 ride (31%), 1,050/3,300 fly (31%)
+106928:0::3::
+121122:0::3::
+121122:0::3/16::Location:       Sigil~[f82], in province Plain~[db13], in Provinia
+121122:0::3::Loyalty:        Fear-51
+121122:0::3::Health:         100%
+121122:0::3::Combat:         attack 80, defense 80, missile 0
+121122:0::3::                behind 5  (stay behind in combat)
+121122:0::3::Break point:    0% (fight to the death)
+121122:0::3::use  641 1      (concealing self)
+121122:0::3::
+121122:0::3::Skills known:
+121122:0::6::Shipcraft~[600]
+121122:0::6::Combat~[610]
+121122:0::12::Survive fatal wound~[611]
+121122:0::12::Fight to the death~[612]
+121122:0::12::Weaponsmithing~[617], apprentice
+121122:0::6::Stealth~[630]
+121122:0::12::Conceal self~[641], apprentice
+121122:0::6::Persuasion~[670]
+121122:0::12::Bribe noble~[671], apprentice
+121122:0::6::Forestry~[700]
+121122:0::12::Harvest lumber~[702], journeyman
+121122:0::12::Harvest opium~[706], apprentice
+121122:0::6::Trade~[730]
+121122:0::12::Conceal identity of trader~[731], apprentice
+121122:0::12::Find tradegood for sale~[732], journeyman
+121122:0::12::Find market for tradegood~[733], journeyman
+121122:0::3::
+121122:0::3::Partially known skills:
+121122:0::6/6::Sneak into structure~[639], 15/21
+121122:0::3::
+121122:0::3::Inventory:
+121122:0::3::{<b>}      qty  name                              weight{</b>}
+121122:0::3::      ---  ----                              ------
+121122:0::3::    1,698  gold~[1]                               0  
+121122:0::3::        3  winged horses~[54]                 3,000  fly 450
+121122:0::3::                                             ======
+121122:0::3::                                              3,000
+121122:0::3::
+121122:0::3/11::Capacity:  0/550 land (0%), 100/450 ride (22%), 100/450 fly (22%)
+121122:0::3::
+136313:0::3::
+136313:0::3/16::Location:       Port Aurnos~[v63], in province Forest~[dc10], in Provinia
+136313:0::3::Loyalty:        Fear-56
+136313:0::3::Health:         100%
+136313:0::3::Combat:         attack 80, defense 80, missile 0
+136313:0::3::                behind 0  (front line in combat)
+136313:0::3::Break point:    50%
+136313:0::3::
+136313:0::3::Current aura:   1
+136313:0::3::Maximum aura:   1
+136313:0::3::
+136313:0::3::Skills known:
+136313:0::6::Combat~[610]
+136313:0::12::Survive fatal wound~[611]
+136313:0::12::Weaponsmithing~[617], adept
+136313:0::6::Stealth~[630]
+136313:0::6::Forestry~[700]
+136313:0::12::Harvest lumber~[702], journeyman
+136313:0::6::Magic~[800]
+136313:0::3::
+136313:0::3::Partially known skills:
+136313:0::6/6::Conceal self~[641], 17/28
+136313:0::3::
+136313:0::3::Inventory:
+136313:0::3::{<b>}      qty  name                              weight{</b>}
+136313:0::3::      ---  ----                              ------
+136313:0::3::      920  gold~[1]                               0  
+136313:0::3::       20  workers~[11]                       2,000  cap 2,000 (1,1,0)
+136313:0::3::      220  pikes~[75]                         1,100  
+136313:0::3::       10  wood~[77]                            300  
+136313:0::3::        1  Scroll~[g360]                          1  
+136313:0::3::                                             ======
+136313:0::3::                                              3,401
+136313:0::3::
+136313:0::3/11::Capacity:  1,401/2,100 land (66%)
+136313:0::3::
+136313:0::3::Scroll~[g360] permits study of the following skills:
+136313:0::6/3::Conceal self~[641] (requires Stealth)
+136313:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Dordred~[xt8].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/xt8/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [xt8]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         4  93rd   
+0:0::3/41::Men:                               30  72nd   
+0:0::3/41::Gold:                           6,196  77th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   18/74  95th   
+0:0::3/41::Spells known:                    2/79  94th   
+0:0::3/41::Provinces visited:           9/31,919  116th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  12     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 262.
+0:0::0::
+0:0::0::The next five nobles formed will be:  100436 113493 94777 119367 89681
+0:0::0::
+0:0::0::56 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::121122 f82    f51   100  5    1698                            Slash
+0:0::0::106928 v63    o2    100  0  3 2678                            Docken
+0:0::0::136313 v63    f56   100  0  1  920        20                  Narf
+0:0::0::104748 v63    f65   100  0     900        10                  Bertain
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              6196        30          
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Plain~[db13]
+0:0::0::    Sigil~[f82]                    Slash~[121122]
+0:0::0::  Forest~[dc10]
+0:0::0::    Port Aurnos~[v63]              Docken~[106928]
+0:0::0::                                   Narf~[136313]
+0:0::0::                                   Bertain~[104748]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::121122       3,100        550   0%        350  22%        350  22%
+0:0::0::106928      23,050      2,450  27%      2,250  31%      2,250  31%
+0:0::0::136313       3,501        699  66%                                
+0:0::0::104748       1,100      1,100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Dordred~[xt8]"><font size=+1><b>Dordred~[xt8]</b></font>
+1:2::0::<hr>
+1:1::0::Dordred~[xt8]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 56178
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Slash~[121122]"><font size=+1><b>Slash~[121122]</b></font>
+1:2::0::<hr>
+1:1::0::Slash~[121122]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 121122
+1:0::0::
+1:2::0::
+1:2::0::<name="Docken~[106928]"><font size=+1><b>Docken~[106928]</b></font>
+1:2::0::<hr>
+1:1::0::Docken~[106928]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 106928
+1:0::0::
+1:2::0::
+1:2::0::<name="Narf~[136313]"><font size=+1><b>Narf~[136313]</b></font>
+1:2::0::<hr>
+1:1::0::Narf~[136313]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 136313
+1:0::0::
+1:2::0::
+1:2::0::<name="Bertain~[104748]"><font size=+1><b>Bertain~[104748]</b></font>
+1:2::0::<hr>
+1:1::0::Bertain~[104748]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 104748
+1:2::0::
+1:2::0::<name="Plain~[db13]"><font size=+1><b>Plain~[db13]</b>, plain, in Provinia, civ-6</font>
+1:2::0::<hr>
+1:1::0::Plain~[db13], plain, in Provinia, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16113
+1:0::0::
+1:2::0::
+1:2::0::<name="Sigil~[f82]"><font size=+1><b>Sigil~[f82]</b>, city, in province Plain~[db13]</font>
+1:2::0::<hr>
+1:1::0::Sigil~[f82], city, in province Plain~[db13]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57242
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dc10]"><font size=+1><b>Forest~[dc10]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dc10], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16210
+1:0::0::
+1:2::0::
+1:2::0::<name="Port Aurnos~[v63]"><font size=+1><b>Port Aurnos~[v63]</b>, port city, in province Forest~[dc10], safe haven</font>
+1:2::0::<hr>
+1:1::0::Port Aurnos~[v63], port city, in province Forest~[dc10], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58423
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

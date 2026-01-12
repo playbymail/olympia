@@ -1,0 +1,268 @@
+64529:stop
+64529:give garrison 10 0
+64529:give garrison 11 0
+64529:contact bh3 cb5 db7 df7 et5 fc3
+64529:contact gk5 hd3 mm9 nn3 ny7 ps4
+64529:contact qb2 qn5 qy4 rq7 rr7 sz5
+64529:contact ta8 tj7 tp2 tr5 ug3 uh5
+64529:contact vy5 xy3 yf7 Yg9 ym3 yv5
+64529:contact zy6
+64529:accept 0 0
+64529:study 705
+64529:study 705
+64529:move z217
+64529:collect 64
+64529:move out
+64529:make 84
+64529:explore
+64529:study 611
+64529:study 611
+64529:explore
+64529:explore
+64529:explore
+64529:explore
+64529:use 614
+64529:use 614
+64529:use 614
+64529:use 614
+9545:move 3287
+9545:contact bh3 cb5 db7 df7 et5 fc3
+9545:contact gk5 hd3 mm9 nn3 ny7 ps4
+9545:contact qb2 qn5 qy4 rq7 rr7 sz5
+9545:contact ta8 tj7 tp2 tr5 ug3 uh5
+9545:contact vy5 xy3 yf7 Yg9 ym3 yv5
+9545:contact zy6
+9545:accept 0 0
+9545:give g021 18 0
+9545:sail up
+9545:study 731
+9545:study 731
+9545:breed 54 54
+9545:breed 54 54
+9545:breed 54 54
+9545:breed 54 54
+9545:breed 54 54
+9545:make 18 24
+9545:give g021 18 0
+9545:use 813
+9545:use 813
+9545:use 813
+9545:use 813
+9545:use 614
+9545:use 614
+9545:use 614
+67277:stop
+67277:contact bh3 cb5 db7 df7 et5 fc3
+67277:contact gk5 hd3 mm9 nn3 ny7 ps4
+67277:contact qb2 qn5 qy4 rq7 rr7 sz5
+67277:contact ta8 tj7 tp2 tr5 ug3 uh5
+67277:contact vy5 xy3 yf7 Yg9 ym3 yv5
+67277:contact zy6
+67277:accept 0 0
+67277:name z278 "Zardoz' Ring"
+67277:give 6890 18 0
+67277:study 653
+67277:study 653
+67277:study 652
+67277:study 652
+67277:study 615
+67277:study 615
+67277:breed 54 54
+67277:breed 54 54
+67277:make 18 12
+67277:give 6890 18 0
+67277:use 813
+67277:use 813
+67277:seek
+67277:seek
+3017:stop
+3017:contact bh3 cb5 db7 df7 et5 fc3
+3017:contact gk5 hd3 mm9 nn3 ny7 ps4
+3017:contact qb2 qn5 qy4 rq7 rr7 sz5
+3017:contact ta8 tj7 tp2 tr5 ug3 uh5
+3017:contact vy5 xy3 yf7 Yg9 ym3 yv5
+3017:contact zy6
+3017:accept 0 0
+3017:give 6890 18 0
+3017:move g34
+3017:use 802 10
+3017:move 6160
+3017:give 4972 63 0
+3017:study 611
+3017:study 611
+3017:study 800
+3017:study 800
+3017:study 802
+3017:study 802
+3017:study 801
+3017:study 803
+3017:study 804
+3017:study 805
+3017:study 805
+3017:study 801
+3017:study 813
+3017:study 813
+3017:study 806
+3017:study 807
+3017:study 808
+3017:study 809
+3017:study 811
+3017:study 812
+3017:study 813
+3017:study 814
+3017:study 672
+3017:study 672
+3017:study 820
+3017:study 820
+3017:study 821
+3017:study 821
+3017:study 822
+3017:study 822
+3017:study 823
+3017:study 823
+3017:study 824
+3017:study 824
+3017:study 825
+3017:study 825
+3017:study 826
+3017:study 826
+3017:study 827
+3017:study 827
+3017:study 833
+3017:study 833
+3017:study 828
+3017:study 828
+3017:study 829
+3017:study 829
+3017:study 831
+3017:study 831
+3017:study 832
+3017:study 832
+3017:study 833
+3017:study 833
+3017:give 6890 18 0
+3017:use 615
+3017:use 615
+3017:use 614
+3017:use 614
+3017:use 614
+60037:stop
+60037:contact bh3 cb5 db7 df7 et5 fc3
+60037:contact gk5 hd3 mm9 nn3 ny7 ps4
+60037:contact qb2 qn5 qy4 rq7 rr7 sz5
+60037:contact ta8 tj7 tp2 tr5 ug3 uh5
+60037:contact vy5 xy3 yf7 Yg9 ym3 yv5
+60037:contact zy6
+60037:accept 0 0
+60037:fly bt58
+60037:recruit
+60037:move bv58
+60037:give garrison 10 0
+60037:fly bt58
+60037:move bt58
+60037:use 614
+60037:use 614
+60037:use 614
+60037:use 614
+6058:use 655
+6058:move g34
+6058:move 6160
+6058:give 6890 51 0
+6058:get 3017 1 150
+6058:honor 157
+6058:move out
+6058:move out
+6058:breed 54 54
+6058:breed 54 54
+6058:breed 54 54
+6058:breed 54 54
+6058:breed 54 54
+6058:breed 54 54
+9440:stop
+9440:contact bh3 cb5 db7 df7 et5 fc3
+9440:contact gk5 hd3 mm9 nn3 ny7 ps4
+9440:contact qb2 qn5 qy4 rq7 rr7 sz5
+9440:contact ta8 tj7 tp2 tr5 ug3 uh5
+9440:contact vy5 xy3 yf7 Yg9 ym3 yv5
+9440:contact zy6
+9440:accept 0 0
+9440:fly bv59
+9440:recruit
+9440:move bv58
+9440:give garrison 10 0
+9440:fly bv59
+9440:move bv59
+9440:use 615
+9440:use 614
+9440:use 615
+9440:use 614
+50837:accept bh3 0
+50837:accept cb5 0
+50837:accept db7 0
+50837:accept df7 0
+50837:accept et5 0
+50837:accept fc3 0
+50837:accept gk5 0
+50837:accept hd3 0
+50837:accept mm9 0
+50837:accept nn3 0
+50837:accept ny7 0
+50837:accept ps4 0
+50837:accept qb2 0
+50837:accept qn5 0
+50837:accept qy4 0
+50837:accept rq7 0
+50837:accept rr7 0
+50837:accept sz5 0
+50837:accept ta8 0
+50837:accept tj7 0
+50837:accept tp2 0
+50837:accept tr5 0
+50837:accept ug3 0
+50837:accept uh5 0
+50837:accept vy5 0
+50837:accept xy3 0
+50837:accept yf7 0
+50837:accept Yg9 0
+50837:accept ym3 0
+50837:accept yv5 0
+50837:accept zy6 0
+64127:recruit
+64127:give garrison 10 0
+64127:get garrison 11 0
+64127:get garrison 21 0
+64127:get garrison 15 0
+64127:get garrison 10 0 10
+64127:move j79 in
+64127:move 3287
+64127:give g021 10 0
+64127:give g021 11 0
+64127:give g021 21 0
+64127:give g021 15 0
+64127:move j79
+64127:recruit
+64127:move 3287
+64127:give g021 10 0
+64127:give g021 11 0
+64127:give g021 21 0
+64127:give g021 15 0
+64127:move out
+64127:move out
+64127:explore
+7590:stop
+7590:move out
+7590:move out
+7590:give garrison 10 0
+7590:get garrison 11 9
+7590:move z298
+7590:yew
+7590:move out
+7590:give garrison 11 0
+7590:make 72
+7590:move t89
+7590:move 2468
+7590:give v151 72 0
+7590:move out
+7590:move out
+7590:recruit
+7590:give garrison 10 0

@@ -1,0 +1,230 @@
+59328:move k86
+59328:move cd49
+59328:give garrison 11
+59328:move cc49
+59328:move cc50
+59328:get 2782 11
+59328:move s056
+59328:yew 5
+59328:move cc50
+59328:give 2782 11
+59328:move cc49
+59328:move cd49
+59328:move j567
+59328:collect 64 3
+59328:move cd49
+59328:get garrison 11
+59328:wood 12
+59328:move k86
+59328:move k006
+59328:give t135 68
+59328:give t135 77
+59328:give t135 64
+59328:move k86
+59328:move 110722
+59328:repair
+59328:move k86
+59328:move cd49
+59328:give garrison 11
+59328:move cc49
+59328:move cc50
+59328:get 2782 11
+59328:move s056
+59328:yew 5
+59328:move cc50
+59328:give 2782 11
+59328:move cc49
+59328:move cd49
+59328:move j567
+59328:collect 64 3
+59328:move cd49
+59328:get garrison 11
+59328:wood 12
+59328:move k86
+59328:move k006
+59328:give t135 68
+59328:give t135 77
+59328:give t135 64
+59328:move k86
+59328:move 110722
+59328:repair
+59328:move k86
+59328:move cd49
+59328:give garrison 11
+59328:move cc49
+59328:move cc50
+59328:get 2782 11
+59328:move s056
+59328:yew 5
+59328:move cc50
+59328:give 2782 11
+59328:move cc49
+59328:move cd49
+59328:move j567
+59328:collect 64 3
+59328:move cd49
+59328:get garrison 11
+59328:wood 12
+65990:give t135 61
+65990:get t135 77 3
+65990:use 613
+65990:give t135 61
+65990:get t135 77 3
+65990:use 613
+65990:give t135 61
+65990:get t135 77 3
+65990:use 613
+65990:give t135 61
+65990:get t135 77 3
+65990:use 613
+65990:give t135 61
+65990:get t135 77 3
+65990:use 613
+65990:give t135 61
+65990:get t135 77 3
+65990:use 613
+65990:give t135 61
+65990:make 94 31
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+74135:breed 282 282
+72209:move k86
+72209:move k006
+72209:give t135 282 0 5
+72209:move k86
+72209:seek
+72209:move 110722
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+72209:breed 282 282
+74768:move k006
+74768:give t135 51
+74768:give t135 85
+74768:move k86
+74768:move cd49
+74768:move cd48
+74768:catch 5
+74768:move cd47
+74768:catch 5
+74768:move cf47
+74768:catch 5
+74768:move cf48
+74768:catch 5
+74768:move cd48
+74768:catch 5
+74768:move cd49
+74768:move k86
+74768:move k006
+74768:give t135 51
+74768:give t135 85
+74768:move k86
+74768:move cd49
+74768:move cd48
+74768:catch 5
+74768:move cd47
+74768:catch 5
+74768:move cf47
+74768:catch 5
+74768:move cf48
+74768:catch 5
+74768:move cd48
+74768:catch 5
+74768:move cd49
+74768:move k86
+74768:move k006
+74768:give t135 51
+74768:give t135 85
+74768:move k86
+74768:move cd49
+74768:move cd48
+74768:catch 5
+74768:move cd47
+74768:catch 5
+74768:move cf47
+74768:catch 5
+74768:move cf48
+74768:catch 5
+74768:move cd48
+74768:catch 5
+74768:move cd49
+74768:move k86
+74768:move k006
+74768:give t135 51
+74768:give t135 85
+74768:move k86
+74768:move cd49
+74768:move cd48
+74768:catch 5
+74768:move cd47
+74768:make 94 62
+53627:accept bh3 0
+53627:accept cb5 0
+53627:accept db7 0
+53627:accept df7 0
+53627:accept et5 0
+53627:accept fc3 0
+53627:accept gk3 0
+53627:accept hd3 0
+53627:accept mm9 0
+53627:accept nn3 0
+53627:accept ny7 0
+53627:accept ps4 0
+53627:accept qb2 0
+53627:accept qn5 0
+53627:accept qy4 0
+53627:accept rq7 0
+53627:accept rr7 0
+53627:accept sz5 0
+53627:accept ta8 0
+53627:accept tj7 0
+53627:accept tp2 0
+53627:accept tr5 0
+53627:accept ug3 0
+53627:accept uh5 0
+53627:accept vy5 0
+53627:accept xy3 0
+53627:accept yf7 0
+53627:accept yg9 0
+53627:accept ym3 0
+53627:accept yv5 0
+53627:accept zy6 0
+71440:study 845
+71440:study 851
+71440:move k86
+71440:move k006
+71440:stack t135
+71440:make 18 2
+71440:give t135 18
+71440:unstack q440
+71440:move k86
+71440:move 1399
+71440:research 840
+71440:research 840
+71440:research 840
+73376:stop
+73376:move k86
+73376:stack garrison
+73376:use 802 29
+73376:unstack s376
+73376:move k006
+73376:give t135 1 0 500
+73376:move k86
+73376:move 99904
+73376:make 94 31

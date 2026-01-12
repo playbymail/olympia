@@ -1,0 +1,706 @@
+15536:0::0:0:Garrison~[2769], garrison, with 32~pikemen guards Nevada Forest~[ct36].
+15534:0::0:0:Garrison~[3654], garrison, with ten~peasants guards Mountain~[ct34].
+58653:0::0:0:Garrison~[5473], garrison, with 46~pikemen guards Silverado~[x93].
+15336:0::0:0:Garrison~[9232], garrison, with ten~soldiers guards Shao-Lin N Border~[cr36].
+15536:0::0:0:Garrison~[a949], garrison, with ten~soldiers, 46~elite guard, 150~centaurs guards Nevada Forest~[ct36].
+15337:0::0:0:Garrison~[118479], garrison, with ten~soldiers guards Shao-Lin N Border~[cr37].
+69902:0::0:1:Received 1~gold from Garrison~[5473].
+69902:0::0:2:Received 1~gold from Garrison~[5473].
+69902:0::0:3:Received 1~gold from Garrison~[5473].
+69902:0::0:4:Received 1~gold from Garrison~[5473].
+69902:0::0:5:Received 1~gold from Garrison~[5473].
+69902:0::0:6:Received 1~gold from Garrison~[5473].
+69902:0::0:7:Received 1~gold from Garrison~[5473].
+69902:0::0:8:Received 1~gold from Garrison~[5473].
+69902:0::0:9:Received 1~gold from Garrison~[5473].
+69902:0::0:10:Received 1~gold from Garrison~[5473].
+69902:0::0:11:Received 1~gold from Garrison~[5473].
+69902:0::0:12:Received 1~gold from Garrison~[5473].
+69902:0::0:13:Received 1~gold from Garrison~[5473].
+69902:0::0:14:Received 1~gold from Garrison~[5473].
+69902:0::0:15:Received 1~gold from Garrison~[5473].
+69902:0::0:16:Received 1~gold from Garrison~[5473].
+69902:0::0:17:Received 1~gold from Garrison~[5473].
+69902:0::0:18:Received 1~gold from Garrison~[5473].
+69902:0::0:19:Received 1~gold from Garrison~[5473].
+69902:0::0:20:Received 1~gold from Garrison~[5473].
+69902:0::0:21:Received 1~gold from Garrison~[5473].
+15337:0::0:21:It has begun to rain.
+69902:0::0:22:Received 1~gold from Garrison~[5473].
+69902:0::0:23:Received 1~gold from Garrison~[5473].
+69902:0::0:24:Received 1~gold from Garrison~[5473].
+69902:0::0:25:Received 1~gold from Garrison~[5473].
+69902:0::0:26:Received 1~gold from Garrison~[5473].
+69902:0::0:27:Received 1~gold from Garrison~[5473].
+69902:0::0:28:Received 1~gold from Garrison~[5473].
+69902:0::0:29:Received 1~gold from Garrison~[5473].
+69902:0::0:30:Received 1~gold from Garrison~[5473].
+74594:0::0:30:Grand Grex Cathedral~[m727] collected offerings of 100~gold.
+69902:0::0:30:Paid maintenance of 23~gold.
+15536:0::0:30:It has stopped raining.
+4:2::0::
+4:2::0::<name="Shao-Lin N Border~[cr36]"><font size=+1><b>Shao-Lin N Border~[cr36]</b>, plain, in Provinia, civ-3</font>
+4:2::0::<hr>
+4:1::0::Shao-Lin N Border~[cr36], plain, in Provinia, civ-3
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Caesar's Palace~[6414], castle, in Nevada Forest~[ct36]
+4:0::0::
+4:0::0::Routes leaving Shao-Lin N Border: 
+4:0::3::North, plain, to Greyfell Lords Border~[cq36], 7~days
+4:0::3::East, swamp, to Shao-Lin N Border~[cr37], 14~days
+4:0::3::South, to Swamp~[cs36], 14~days
+4:0::3::West, to Forest~[cr35], 8~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Silverado~[x93], city, 1 day
+4:0::3::Pasture~[g517], pasture, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[9232], garrison, on guard, with ten~soldiers
+4:0::0::
+4:2::0::
+4:2::0::<name="Shao-Lin N Border~[cr37]"><font size=+1><b>Shao-Lin N Border~[cr37]</b>, swamp, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::Shao-Lin N Border~[cr37], swamp, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Caesar's Palace~[6414], castle, in Nevada Forest~[ct36]
+4:0::0::
+4:0::0::Routes leaving Shao-Lin N Border: 
+4:0::3::North, mountain, to Greyfell Lords Border~[cq37], 10~days
+4:0::3::East, swamp, to Shao-Lin N Border~[cr38], 14~days
+4:0::3::South, forest, to Nevada Forest~[cs37], 8~days
+4:0::3::West, plain, to Shao-Lin N Border~[cr36], 7~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Barrow Downs~[d231], graveyard, 1 day
+4:0::3::Lair~[v565], lair, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[118479], garrison, on guard, with ten~soldiers
+4:0::0/3:: * Nifft the Swift~[f278], "{<i>}He's got the Gift{</i>}", with three~riding horses, five~centaurs
+4:0::0::
+4:2::0::
+4:2::0::<name="Mountain~[ct34]"><font size=+1><b>Mountain~[ct34]</b>, mountain, in Provinia, civ-1</font>
+4:2::0::<hr>
+4:1::0::Mountain~[ct34], mountain, in Provinia, civ-1
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Abyss of Aras Nehem~[5253], castle, in Mountain~[ct14]
+4:0::0::Ruled by Ysrthgrathe~[9509], duke
+4:0::0::
+4:0::0::Routes leaving Mountain: 
+4:0::3::North, to Forest~[cs34], 8~days
+4:0::3::East, forest, to Shao-Lin W Border~[ct35], 8~days
+4:0::3::South, to Forest~[cv34], 8~days
+4:0::3::West, to Plain~[ct33], 7~days
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[3654], garrison, on guard, with ten~peasants
+4:0::0/3:: * Ssabmud the Ssserpent~[j337], mage, "{<i>}occasionally his forked tongue probes his nostrils{</i>}"
+4:0::0::
+4:2::0::
+4:2::0::<name="Nevada Forest~[ct36]"><font size=+1><b>Nevada Forest~[ct36]</b>, forest, in Provinia, civ-7</font>
+4:2::0::<hr>
+4:1::0::Nevada Forest~[ct36], forest, in Provinia, civ-7
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Caesar's Palace~[6414], castle, in Nevada Forest~[ct36]
+4:0::0::
+4:0::0::Routes leaving Nevada Forest: 
+4:0::3::North, to Swamp~[cs36], 14~days
+4:0::3::East, plain, to Maryland~[ct37], 7~days
+4:0::3::South, forest, to Nevada Forest~[cv36], 8~days
+4:0::3::West, forest, to Shao-Lin W Border~[ct35], 8~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Las Vegas~[w62], city, 1 day
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[a949], garrison, on guard, with ten~soldiers, 46~elite guard, 150~centaurs
+4:0::0/3::   Garrison~[2769], garrison, on guard, with 32~pikemen
+4:0::0/3:: * Freebootin' Frank Freek~[v014], "{<i>}Dressed in yellow and purple, with a pink tutu{</i>}"
+4:0::0/3:: * General Zhod~[s221]
+4:0::0::
+4:2::0::
+4:2::0::<name="Las Vegas~[w62]"><font size=+1><b>Las Vegas~[w62]</b>, city, in province Nevada Forest~[ct36]</font>
+4:2::0::<hr>
+4:1::0::Las Vegas~[w62], city, in province Nevada Forest~[ct36]
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Las Vegas: 
+4:0::3::Out, forest, to Nevada Forest~[ct36], 1~day
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Alchemy~[690], Forestry~[700], Magic~[800]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy    w62      73     44       100   salt~[z417]              
+4:0::3::  buy    w62     112     27       100   walnuts~[136326]         
+4:0::3::  buy    w62       7      9         5   clay pots~[95]           
+4:0::3:: sell    w62      13     25        30   wood~[77]                
+4:0::3:: sell    w62     100     32       100   purple cloth~[p417]      
+4:0::3:: sell    w62     100     44       100   ivory~[m900]             
+4:0::3:: sell    w62       1     50        10   lead~[102]               
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Caesar's Palace~[6414], castle, defense~77, level~6, "A roman-looking building"
+4:0::6::Peder's Pleasure~[w677], tower, defense~40, "A tall, phallic building"
+4:0::3::Grand Grex Cathedral~[m727], temple, defense~10, owner:
+4:0::0/6:: *    Most Holy~[t594], priest, "{<i>}The Big Kahuna of all Grexic souls{</i>}"
+4:0::3::Luxor~[6680], inn, defense~10, 15%~damaged, owner:
+4:0::0/6::      Sherif of Las Vegas~[119242], with 15~workers, one~winged horse
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3:: * Runelord Grex~[t305], conjurer, "{<i>}His seal displays a jack-boot crushing a peasant{</i>}"
+4:0::0::
+4:2::0::
+4:2::0::<name="Silverado~[x93]"><font size=+1><b>Silverado~[x93]</b>, city, in province Shao-Lin N Border~[cr36]</font>
+4:2::0::<hr>
+4:1::0::Silverado~[x93], city, in province Shao-Lin N Border~[cr36]
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Silverado: 
+4:0::3::Out, plain, to Shao-Lin N Border~[cr36], 1~day
+4:0::0::
+4:0::0::Cities rumored to be nearby:
+4:0::3::Las Vegas~[w62], in Nevada Forest~[ct36]
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Construction~[680], Trade~[730], Magic~[800], Necromancy~[900]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy    x93       7      9         5   clay pots~[95]           
+4:0::3::  buy    x93     132     25       100   walnuts~[m874]           
+4:0::3:: sell    x93     100      3     1,000   riding horses~[52]       
+4:0::3:: sell    x93     114     33        45   silk~[p068]              
+4:0::3:: sell    x93     100      5     2,000   oxen~[76]                
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Eiffel Tower~[145730], tower, defense~40
+4:0::3::Temple of Henriette~[127225], temple, defense~10
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[5473], garrison, on guard, with 46~pikemen, accompanied~by:
+4:0::0/6:: *    Douglas D. Zaster~[n902], "{<i>}There is an insane glint in his bloodshot eyes!{</i>}", with three~peasants, ten~soldiers, one~ox, three~minotaurs
+4:0::0::
+5:0::0::
+5:0::0::begin cj2 "snotbutt"  # The Invisible Order
+5:0::0::
+5:0::0::unit cj2  # The Invisible Order
+5:0::0::
+5:0::0::unit n902  # Douglas D. Zaster in Silverado~[x93]
+5:0::0::
+5:0::0::unit f278  # Nifft the Swift in Shao-Lin N Border~[cr37]
+5:0::0::
+5:0::0::unit j337  # Ssabmud the Ssserpent in Mountain~[ct34]
+5:0::0::
+5:0::0::unit t594  # Most Holy in Grand Grex Cathedral~[m727]
+5:0::0::
+5:0::0::unit t305  # Runelord Grex in Las Vegas~[w62]
+5:0::0::
+5:0::0::unit v014  # Freebootin' Frank Freek in Nevada Forest~[ct36]
+5:0::0::
+5:0::0::unit s221  # General Zhod in Nevada Forest~[ct36]
+5:0::0::
+5:0::0::end
+50612:0::0::
+50612:0::0::Declared attitudes:
+50612:0::3::defend   vg6
+50612:0::0::
+50612:0::0::Unclaimed items:
+50612:0::0::
+50612:0::0::      qty  name                              weight
+50612:0::0::      ---  ----                              ------
+50612:0::0::    3,950  gold~[1]                               0  
+63278:0::3::
+63278:0::3/16::Location:       Shao-Lin N Border~[cr37], in Provinia
+63278:0::3::Loyalty:        Oath-1
+63278:0::3::Health:         100%
+63278:0::3::Combat:         attack 112, defense 80, missile 0
+63278:0::3::                behind 0  (front line in combat)
+63278:0::3::Break point:    50%
+63278:0::3::Banner:         He's got the Gift
+63278:0::3::
+63278:0::3::Skills known:
+63278:0::6::Combat~[610]
+63278:0::12::Swordplay~[616], journeyman
+63278:0::6::Stealth~[630]
+63278:0::12::Petty thievery~[631], adept
+63278:0::12::Determine skills of character~[633], apprentice
+63278:0::12::Conceal faction~[635], apprentice
+63278:0::6::Beastmastery~[650]
+63278:0::12::Bird spy~[651], apprentice
+63278:0::12::Capture beasts in battle~[652]
+63278:0::12::Breed beasts~[654], journeyman
+63278:0::12::Catch wild horses~[655], apprentice
+63278:0::12::Train wild horse to riding horse~[656], apprentice
+63278:0::6::Persuasion~[670]
+63278:0::12::Bribe noble~[671], apprentice
+63278:0::3::
+63278:0::3::Inventory:
+63278:0::3::{<b>}      qty  name                              weight{</b>}
+63278:0::3::      ---  ----                              ------
+63278:0::3::        3  riding horses~[52]                 3,000  ride 450
+63278:0::3::        9  clay pots~[95]                        45  
+63278:0::3::        5  centaurs~[271]                     5,000  ride 750 (30,30,0)
+63278:0::3::                                             ======
+63278:0::3::                                              8,045
+63278:0::3::
+63278:0::3/11::Capacity:  45/1,300 land (3%), 145/1,200 ride (12%)
+63278:0::3::
+63278:0::3::Pending trades:
+63278:0::3::
+63278:0::6::trade    price    qty   item
+63278:0::6::-----    -----    ---   ----
+63278:0::6:: sell        4    100   woven basket~[94]
+63278:0::3::
+66337:0::3::
+66337:0::3/16::Location:       Mountain~[ct34], in Provinia
+66337:0::3::Loyalty:        Oath-1
+66337:0::3::Health:         100%
+66337:0::3::Combat:         attack 155, defense 149, missile 0
+66337:0::3::                behind 0  (front line in combat)
+66337:0::3::Break point:    50%
+66337:0::3::Banner:         occasionally his forked tongue probes his nostrils
+66337:0::3::
+66337:0::3::Current aura:   12
+66337:0::3::Maximum aura:   12
+66337:0::3::
+66337:0::3::Skills known:
+66337:0::6::Combat~[610]
+66337:0::12::Survive fatal wound~[611]
+66337:0::12::Fight to the death~[612]
+66337:0::12::Defense~[614], adept
+66337:0::12::Swordplay~[616], adept
+66337:0::6::Stealth~[630]
+66337:0::12::Determine skills of character~[633], apprentice
+66337:0::12::Determine character's lord~[634], apprentice
+66337:0::6::Magic~[800]
+66337:0::12::Meditate~[801], apprentice
+66337:0::12::Perform common tasks for gold~[802], adept
+66337:0::12::Appear common~[803], apprentice
+66337:0::12::View current aura level of others~[804], apprentice
+66337:0::12::Reveal abilities of another mage~[805], apprentice
+66337:0::12::Heal~[807], apprentice
+66337:0::12::Shroud abilities from scry~[809], apprentice
+66337:0::12::Advanced meditation~[813], apprentice
+66337:0::6::Necromancy~[900]
+66337:0::12::Transcend death~[901], apprentice
+66337:0::12::Runes of Evil~[902], apprentice
+66337:0::3::
+66337:0::3::Partially known skills:
+66337:0::6/6::Tap health for aura~[806], 0/21
+66337:0::6/6::Modern magic script~[808], 0/21
+66337:0::6/6::Detect ability scry~[811], 0/21
+66337:0::6/6::Dispel ability shroud~[812], 0/21
+66337:0::6/6::Hinder meditation~[814], 0/21
+66337:0::3::
+66337:0::3::Inventory:
+66337:0::3::{<b>}      qty  name                              weight{</b>}
+66337:0::3::      ---  ----                              ------
+66337:0::3::      546  gold~[1]                               0  
+66337:0::3::       20  clay pots~[95]                       100  
+66337:0::3::                                             ======
+66337:0::3::                                                100
+66337:0::3::
+66337:0::3/11::Capacity:  100/100 land (100%)
+66337:0::3::
+66337:0::3::Pending trades:
+66337:0::3::
+66337:0::6::trade    price    qty   item
+66337:0::6::-----    -----    ---   ----
+66337:0::6::  buy       30      1   longsword~[74]
+66337:0::6:: sell        4    100   woven basket~[94]
+66337:0::3::
+69902:0::3::
+69902:0::3/16::Location:       Silverado~[x93], in province Shao-Lin N Border~[cr36], in Provinia
+69902:0::3::Loyalty:        Oath-1
+69902:0::3/16::Stacked under:  Garrison~[5473]
+69902:0::3::Health:         100%
+69902:0::3::Combat:         attack 108, defense 80, missile 0
+69902:0::3::                behind 0  (front line in combat)
+69902:0::3::Break point:    50%
+69902:0::3::Banner:         There is an insane glint in his bloodshot eyes!
+69902:0::3::
+69902:0::3::Skills known:
+69902:0::6::Combat~[610]
+69902:0::12::Survive fatal wound~[611]
+69902:0::12::Fight to the death~[612]
+69902:0::12::Swordplay~[616], journeyman
+69902:0::6::Beastmastery~[650]
+69902:0::12::Breed beasts~[654], apprentice
+69902:0::6::Forestry~[700]
+69902:0::12::Harvest lumber~[702], apprentice
+69902:0::3::
+69902:0::3::Inventory:
+69902:0::3::{<b>}      qty  name                              weight{</b>}
+69902:0::3::      ---  ----                              ------
+69902:0::3::    1,080  gold~[1]                               0  
+69902:0::3::        3  peasants~[10]                        300  cap 300 (1,1,0)
+69902:0::3::       10  soldiers~[12]                      1,000  cap 1,000 (5,5,0)
+69902:0::3::        1  ox~[76]                            2,000  cap 1,500
+69902:0::3::      115  wood~[77]                          3,450  
+69902:0::3::        6  woven baskets~[94]                     6  
+69902:0::3::        3  minotaurs~[272]                    2,400   (30,5,0)
+69902:0::3::                                             ======
+69902:0::3::                                              9,156
+69902:0::3::
+69902:0::3/11::Capacity:  3,456/2,900 land (119%)
+69902:0::3::
+69902:0::3::Pending trades:
+69902:0::3::
+69902:0::6::trade    price    qty   item
+69902:0::6::-----    -----    ---   ----
+69902:0::6:: sell        7      3   clay pot~[95]
+69902:0::3::
+73221:0::3::
+73221:0::3/16::Location:       Nevada Forest~[ct36], in Provinia
+73221:0::3::Loyalty:        Oath-1
+73221:0::3::Health:         100%
+73221:0::3::Combat:         attack 80, defense 123, missile 57
+73221:0::3::                behind 0  (front line in combat)
+73221:0::3::Break point:    50%
+73221:0::3/16::Pledged to:     Runelord Grex~[t305]
+73221:0::3::
+73221:0::3::Skills known:
+73221:0::6::Combat~[610]
+73221:0::12::Survive fatal wound~[611]
+73221:0::12::Construct catapult~[613], apprentice
+73221:0::12::Defense~[614], journeyman
+73221:0::12::Archery~[615], apprentice
+73221:0::12::Swordplay~[616], apprentice
+73221:0::6::Stealth~[630]
+73221:0::12::Petty thievery~[631], apprentice
+73221:0::3::
+73221:0::3::Inventory:
+73221:0::3::{<b>}      qty  name                              weight{</b>}
+73221:0::3::      ---  ----                              ------
+73221:0::3::      895  gold~[1]                               0  
+73221:0::3::       22  clay pots~[95]                       110  
+73221:0::3::                                             ======
+73221:0::3::                                                110
+73221:0::3::
+73221:0::3/11::Capacity:  110/100 land (110%)
+73221:0::3::
+73221:0::3::Pending trades:
+73221:0::3::
+73221:0::6::trade    price    qty   item
+73221:0::6::-----    -----    ---   ----
+73221:0::6:: sell        7    100   woven basket~[94]
+73221:0::3::
+74305:0::3::
+74305:0::3/16::Location:       Las Vegas~[w62], in province Nevada Forest~[ct36], in Provinia
+74305:0::3::Loyalty:        Oath-2
+74305:0::3::Health:         100%
+74305:0::3::Combat:         attack 80, defense 129, missile 114
+74305:0::3::                behind 0  (front line in combat)
+74305:0::3::Break point:    50%
+74305:0::3::Banner:         His seal displays a jack-boot crushing a peasant
+74305:0::3::Pledged to us:  General Zhod~[s221]
+74305:0::3::
+74305:0::3::Current aura:   7
+74305:0::3::Maximum aura:   7
+74305:0::3::
+74305:0::3::Skills known:
+74305:0::6::Combat~[610]
+74305:0::12::Fight to the death~[612]
+74305:0::12::Construct catapult~[613], apprentice
+74305:0::12::Defense~[614], journeyman
+74305:0::12::Archery~[615], adept
+74305:0::12::Weaponsmithing~[617], apprentice
+74305:0::6::Stealth~[630]
+74305:0::12::Determine skills of character~[633], apprentice
+74305:0::12::Determine character's lord~[634], apprentice
+74305:0::12::Conceal faction~[635], apprentice
+74305:0::6::Forestry~[700]
+74305:0::6::Magic~[800]
+74305:0::12::Meditate~[801], apprentice
+74305:0::12::Perform common tasks for gold~[802], journeyman
+74305:0::12::Appear common~[803], apprentice
+74305:0::12::View current aura level of others~[804], apprentice
+74305:0::12::Reveal abilities of another mage~[805], apprentice
+74305:0::12::Detect ability scry~[811], apprentice
+74305:0::3::
+74305:0::3::Partially known skills:
+74305:0::6/6::Shroud abilities from scry~[809], 0/21
+74305:0::6/6::Dispel ability shroud~[812], 14/21
+74305:0::6/6::Hinder meditation~[814], 0/21
+74305:0::3::
+74305:0::3::Runelord Grex~[t305] has no possessions.
+74305:0::3::
+74305:0::3/11::Capacity:  0/100 land (0%)
+74305:0::3::
+74305:0::3::Pending trades:
+74305:0::3::
+74305:0::6::trade    price    qty   item
+74305:0::6::-----    -----    ---   ----
+74305:0::6::  buy       30      1   longsword~[74]
+74305:0::6:: sell        4    100   woven basket~[94]
+74305:0::3::
+74594:0::3::
+74594:0::3/16::Location:       Grand Grex Cathedral~[m727], in Las Vegas~[w62], in province Nevada Forest~[ct36], in Provinia
+74594:0::3::Loyalty:        Oath-1
+74594:0::3::Health:         100%
+74594:0::3::Combat:         attack 80, defense 105, missile 64
+74594:0::3::                behind 0  (front line in combat)
+74594:0::3::Break point:    50%
+74594:0::3::Banner:         The Big Kahuna of all Grexic souls
+74594:0::3::
+74594:0::3::Skills known:
+74594:0::6::Combat~[610]
+74594:0::12::Survive fatal wound~[611]
+74594:0::12::Fight to the death~[612]
+74594:0::12::Defense~[614], apprentice
+74594:0::12::Archery~[615], apprentice
+74594:0::6::Construction~[680]
+74594:0::12::Stone quarrying~[682], adept
+74594:0::6::Religion~[750]
+74594:0::12::Receive vision~[751], apprentice
+74594:0::3::
+74594:0::3::Partially known skills:
+74594:0::6/6::Resurrect dead noble~[752], 0/28
+74594:0::6/6::Preparatory ritual~[753], 0/21
+74594:0::6/6::Lay to rest~[754], 0/28
+74594:0::6/6::Remove blessing from soldiers~[755], 0/28
+74594:0::6/6::Immunity from Vision~[756], 0/28
+74594:0::3::
+74594:0::3::Inventory:
+74594:0::3::{<b>}      qty  name                              weight{</b>}
+74594:0::3::      ---  ----                              ------
+74594:0::3::   14,343  gold~[1]                               0  
+74594:0::3::       10  wood~[77]                            300  
+74594:0::3::      109  clay pots~[95]                       545  
+74594:0::3::                                             ======
+74594:0::3::                                                845
+74594:0::3::
+74594:0::3/11::Capacity:  845/100 land (845%)
+74594:0::3::
+74594:0::3::Pending trades:
+74594:0::3::
+74594:0::6::trade    price    qty   item
+74594:0::6::-----    -----    ---   ----
+74594:0::6:: sell        4    100   woven basket~[94]
+74594:0::3::
+75014:0::3::
+75014:0::3/16::Location:       Nevada Forest~[ct36], in Provinia
+75014:0::3::Loyalty:        Oath-1
+75014:0::3::Health:         100%
+75014:0::3::Combat:         attack 129, defense 108, missile 134
+75014:0::3::                behind 9  (stay behind in combat)
+75014:0::3::Break point:    50%
+75014:0::3::Banner:         Dressed in yellow and purple, with a pink tutu
+75014:0::3::
+75014:0::3::Skills known:
+75014:0::6::Combat~[610]
+75014:0::12::Survive fatal wound~[611]
+75014:0::12::Defense~[614], journeyman
+75014:0::12::Archery~[615], journeyman
+75014:0::12::Swordplay~[616], journeyman
+75014:0::12::Weaponsmithing~[617], apprentice
+75014:0::6::Stealth~[630]
+75014:0::12::Determine character's lord~[634], apprentice
+75014:0::6::Construction~[680]
+75014:0::12::Stone quarrying~[682], apprentice
+75014:0::3::
+75014:0::3::Partially known skills:
+75014:0::6/6::Conceal faction~[635], 14/28
+75014:0::3::
+75014:0::3::Inventory:
+75014:0::3::{<b>}      qty  name                              weight{</b>}
+75014:0::3::      ---  ----                              ------
+75014:0::3::    2,145  gold~[1]                               0  
+75014:0::3::        2  clay pots~[95]                        10  
+75014:0::3::                                             ======
+75014:0::3::                                                 10
+75014:0::3::
+75014:0::3/11::Capacity:  10/100 land (10%)
+75014:0::3::
+75014:0::3::Pending trades:
+75014:0::3::
+75014:0::6::trade    price    qty   item
+75014:0::6::-----    -----    ---   ----
+75014:0::6::  buy       30      1   longsword~[74]
+75014:0::6:: sell        4    100   woven basket~[94]
+75014:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Invisible Order~[cj2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/cj2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [cj2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         7  81st   
+0:0::3/41::Men:                               13  76th   
+0:0::3/41::Gold:                          19,009  59th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   27/74  80th   
+0:0::3/41::Spells known:                   13/79  82nd   
+0:0::3/41::Provinces visited:         115/31,919  102nd  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  18     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 267.
+0:0::0::
+0:0::0::The next five nobles formed will be:  z191 q880 n903 s174 c302
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::n902   x93    o1    100  0    1080    3             10 5473   Douglas D.
+0:0::0::f278   cr37   o1    100  0                                    Nifft the Swift
+0:0::0::j337   ct34   o1    100  0 12  546                            Ssabmud
+0:0::0::t594   m727   o1    100  0     14k                            Most Holy
+0:0::0::t305   w62    o2    100  0  7                                 Runelord Grex
+0:0::0::v014   ct36   o1    100  9    2145                            Freebootin'
+0:0::0::s221   ct36   o1    100  0     895                            General Zhod
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               19k    3             10
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Shao-Lin N Border~[cr36]
+0:0::0::    Silverado~[x93]                  Douglas D. Zaster~[n902]
+0:0::0::  Shao-Lin N Border~[cr37]         Nifft the Swift~[f278]
+0:0::0::  Mountain~[ct34]                  Ssabmud the Ssserpent~[j337]
+0:0::0::  Nevada Forest~[ct36]             Freebootin' Frank Freek~[v014]
+0:0::0::                                   General Zhod~[s221]
+0:0::0::    Las Vegas~[w62]                Runelord Grex~[t305]
+0:0::0::      Grand Grex Cathedral~[m727]  Most Holy~[t594]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  n902       9,256      (556) 119%                                
+0:0::0::  f278       8,145      1,255   3%      1,055  12%                
+0:0::0::  j337         200          0 100%                                
+0:0::0::  t594         945      (745) 845%                                
+0:0::0::  t305         100        100   0%                                
+0:0::0::  v014         110         90  10%                                
+0:0::0::  s221         210       (10) 110%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Invisible Order~[cj2]"><font size=+1><b>The Invisible Order~[cj2]</b></font>
+1:2::0::<hr>
+1:1::0::The Invisible Order~[cj2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50612
+1:0::0::
+1:0::0::#include 4
+1:0::0::
+1:2::0::
+1:2::0::<name="Douglas D. Zaster~[n902]"><font size=+1><b>Douglas D. Zaster~[n902]</b></font>
+1:2::0::<hr>
+1:1::0::Douglas D. Zaster~[n902]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 69902
+1:0::0::
+1:2::0::
+1:2::0::<name="Nifft the Swift~[f278]"><font size=+1><b>Nifft the Swift~[f278]</b></font>
+1:2::0::<hr>
+1:1::0::Nifft the Swift~[f278]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 63278
+1:0::0::
+1:2::0::
+1:2::0::<name="Ssabmud the Ssserpent~[j337]"><font size=+1><b>Ssabmud the Ssserpent~[j337]</b></font>
+1:2::0::<hr>
+1:1::0::Ssabmud the Ssserpent~[j337]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 66337
+1:0::0::
+1:2::0::
+1:2::0::<name="Most Holy~[t594]"><font size=+1><b>Most Holy~[t594]</b></font>
+1:2::0::<hr>
+1:1::0::Most Holy~[t594]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 74594
+1:0::0::
+1:2::0::
+1:2::0::<name="Runelord Grex~[t305]"><font size=+1><b>Runelord Grex~[t305]</b></font>
+1:2::0::<hr>
+1:1::0::Runelord Grex~[t305]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 74305
+1:0::0::
+1:2::0::
+1:2::0::<name="Freebootin' Frank Freek~[v014]"><font size=+1><b>Freebootin' Frank Freek~[v014]</b></font>
+1:2::0::<hr>
+1:1::0::Freebootin' Frank Freek~[v014]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 75014
+1:0::0::
+1:2::0::
+1:2::0::<name="General Zhod~[s221]"><font size=+1><b>General Zhod~[s221]</b></font>
+1:2::0::<hr>
+1:1::0::General Zhod~[s221]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 73221
+1:2::0::
+1:2::0::<name="Shao-Lin N Border~[cr36]"><font size=+1><b>Shao-Lin N Border~[cr36]</b>, plain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Shao-Lin N Border~[cr36], plain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15336
+1:0::0::
+1:2::0::
+1:2::0::<name="Silverado~[x93]"><font size=+1><b>Silverado~[x93]</b>, city, in province Shao-Lin N Border~[cr36]</font>
+1:2::0::<hr>
+1:1::0::Silverado~[x93], city, in province Shao-Lin N Border~[cr36]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58653
+1:0::0::
+1:2::0::
+1:2::0::<name="Shao-Lin N Border~[cr37]"><font size=+1><b>Shao-Lin N Border~[cr37]</b>, swamp, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Shao-Lin N Border~[cr37], swamp, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15337
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[ct34]"><font size=+1><b>Mountain~[ct34]</b>, mountain, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Mountain~[ct34], mountain, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15534
+1:0::0::
+1:2::0::
+1:2::0::<name="Nevada Forest~[ct36]"><font size=+1><b>Nevada Forest~[ct36]</b>, forest, in Provinia, civ-7</font>
+1:2::0::<hr>
+1:1::0::Nevada Forest~[ct36], forest, in Provinia, civ-7
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15536
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

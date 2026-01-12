@@ -1,0 +1,3126 @@
+29930:0::0:0:Garrison~[1663], garrison, with ten~peasants guards Forest~[mz30].
+11926:0::0:0:Garrison~[2274], garrison, with ten~soldiers guards Mountain~[az26].
+58751:0::0:0:Garrison~[2291], garrison, with 87~pikemen guards Dyfed~[z91].
+30523:0::0:0:Garrison~[2316], garrison, with ten~peasants guards Forest~[ng23].
+25844:0::0:0:Garrison~[2877], garrison, with ten~peasants guards Forest~[jx44].
+38669:0::0:0:Garrison~[2931], garrison, with ten~peasants guards Forest~[sh69].
+12029:0::0:0:Garrison~[3611], garrison, with ten~soldiers guards Forest of Arden~[ba29].
+41800:0::0:0:Garrison~[3889], garrison, with ten~peasants guards Forest~[tx00].
+38564:0::0:0:Garrison~[4232], garrison, with ten~peasants guards Forest~[sg64].
+46343:0::0:0:Garrison~[4377], garrison, with ten~peasants guards Forest~[xd43].
+44805:0::0:0:Garrison~[5226], garrison, with ten~peasants guards Forest~[wk05].
+47049:0::0:0:Garrison~[5748], garrison, with ten~peasants guards Forest~[xn49].
+41242:0::0:0:Garrison~[6894], garrison, with ten~peasants guards Forest~[tq42].
+24235:0::0:0:Garrison~[6983], garrison, with ten~peasants guards Forest~[jc35].
+31584:0::0:0:Garrison~[9143], garrison, with ten~peasants guards Forest~[nt84].
+42104:0::0:0:Garrison~[s615], garrison, with ten~peasants guards Forest~[vb04].
+26221:0::0:0:Garrison~[x486], garrison, with ten~peasants guards Forest~[kc21].
+41611:0::0:0:Garrison~[88875], garrison, with ten~peasants guards Forest~[tv11].
+49295:0::0:0:Garrison~[90222], garrison, with ten~peasants guards Forest~[zq95].
+34675:0::0:0:Garrison~[97205], garrison, with ten~peasants guards Forest~[qh75].
+29439:0::0:0:Garrison~[97511], garrison, with ten~peasants guards Forest~[ms39].
+31035:0::0:0:Garrison~[99727], garrison, with ten~peasants guards Forest~[nn35].
+34999:0::0:0:Garrison~[108902], garrison, with ten~peasants guards Forest~[qm99].
+30728:0::0:0:Garrison~[111720], garrison, with ten~peasants guards Forest~[nj28].
+47406:0::0:0:Garrison~[115206], garrison, with ten~peasants guards Forest~[xs06].
+20028:0::0:0:Garrison~[118481], garrison, with ten~peasants guards Forest~[ga28].
+42320:0::0:0:Garrison~[120118], garrison, with ten~peasants guards Forest~[vd20].
+29561:0::0:0:Garrison~[121129], garrison, with ten~peasants guards Forest~[mt61].
+51812:0::0:0:> accept 0 0
+7438:0::0:1:> fly w
+7438:0::0:1:Flying to Forest~[wj22] will take four days.
+60990:0::0:1:Arrival at Sewer~[d754].
+60810:0::0:1:Arrival at Sewer~[d754].
+62422:0::0:1:Arrival at Sewer~[d754].
+62754:0::0:1:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, arrived from Tunnel~[xj91], accompanied~by:
+62754:0::3/3:1:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+62754:0::3/3:1:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+62754:0::3/3:1:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+62754:0::3/3:1:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+62754:0::3/3:1:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+62754:0::0:1:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, exited Sewer~[d754], accompanied~by:
+62754:0::3/3:1:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+62754:0::3/3:1:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+62754:0::3/3:1:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+62754:0::3/3:1:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+62754:0::3/3:1:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+60990:0::0:1:Arrival at Hereford~[w63].
+60810:0::0:1:Arrival at Hereford~[w63].
+62422:0::0:1:Arrival at Hereford~[w63].
+58523:0::0:1:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, arrived, accompanied~by:
+58523:0::3/3:1:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+58523:0::3/3:1:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+58523:0::3/3:1:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+58523:0::3/3:1:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+58523:0::3/3:1:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+60990:0::0:1:Travel to Desert~[as30] will take three days.
+60810:0::0:1:Travel to Desert~[as30] will take three days.
+62422:0::0:1:Travel to Desert~[as30] will take three days.
+58523:0::0:1:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, exited Hereford~[w63], accompanied~by:
+58523:0::3/3:1:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+58523:0::3/3:1:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+58523:0::3/3:1:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+58523:0::3/3:1:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+58523:0::3/3:1:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+1063:0::0:1:> breed 282 282
+1063:0::0:1:Breed attempt will take 6 days.
+69683:0::0:1:> quarry 50
+11926:0::0:1:A tunnel in Hammerhole IV~[85989] has caved in!
+6233:0::0:2:Arrival at Forest~[wj59].
+4630:0::0:2:Arrival at Forest~[wj59].
+5949:0::0:2:Arrival at Forest~[wj59].
+44759:0::0:2:Garrison 2~[6233], with ten~soldiers, one~riding horse, arrived from the south, accompanied~by:
+44759:0::3/3:2:Garrison 1~[4630]
+44759:0::3/3:2:Llana Bushstriker~[5949], with two~wild horses, 35~winged horses, 26~centaurs, 73~giant lizards
+6233:0::0:3:> garrison g129
+44759:0::0:3:Garrison~[8965], garrison, on guard, with ten~soldiers now guards Forest~[wj59].
+6233:0::0:3:Installed Garrison~[8965], garrison, on guard, with ten~soldiers
+4630:0::0:3:> use 616
+5949:0::0:3:> breed 282 282
+5949:0::0:3:Breed attempt will take 6 days.
+60990:0::0:3:Arrival at Desert~[as30].
+60810:0::0:3:Arrival at Desert~[as30].
+62422:0::0:3:Arrival at Desert~[as30].
+11430:0::0:3:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, arrived from Hereford~[w63], accompanied~by:
+11430:0::3/3:3:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+11430:0::3/3:3:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+11430:0::3/3:3:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+11430:0::3/3:3:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+11430:0::3/3:3:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+4552:0::0:3:Leander the Monk~[4552] receives a vision of Garrison 2~[6233]:
+4552:0::0:3:
+4552:0::0/16:3:Location:       Forest~[wj59], in Faery
+4552:0::0:3:Loyalty:        Fear-60
+4552:0::0:3:Stacked over:   Garrison 1~[4630]
+4552:0::0:3:                Llana Bushstriker~[5949]
+4552:0::0:3:Health:         100%
+4552:0::0:3:Combat:         attack 80, defense 80, missile 0
+4552:0::0:3:                behind 9  (stay behind in combat)
+4552:0::0:3:Break point:    50%
+4552:0::0:3:Banner:         Confederation Faery Expedition
+4552:0::0:3:
+4552:0::0:3:Skills known:
+4552:0::3:3:Combat~[610]
+4552:0::9:3:Survive fatal wound~[611]
+4552:0::9:3:Fight to the death~[612]
+4552:0::9:3:Swordplay~[616], apprentice
+4552:0::0:3:
+4552:0::0:3:Partially known skills:
+4552:0::3/6:3:Archery~[615], 14/21
+4552:0::0:3:
+4552:0::0:3:Inventory:
+4552:0::0:3:{<b>}      qty  name                              weight{</b>}
+4552:0::0:3:      ---  ----                              ------
+4552:0::0:3:      633  gold~[1]                               0  
+4552:0::0:3:        1  riding horse~[52]                  1,000  ride 150
+4552:0::0:3:                                             ======
+4552:0::0:3:                                              1,000
+4552:0::0:3:
+4552:0::0/11:3:Capacity:  0/250 land (0%), 100/150 ride (66%)
+4552:0::0:3:
+60990:0::0:4:Travel to Plain~[at30] will take nine days.
+60810:0::0:4:Travel to Plain~[at30] will take nine days.
+62422:0::0:4:Travel to Plain~[at30] will take nine days.
+11430:0::0:4:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, went south, accompanied~by:
+11430:0::3/3:4:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+11430:0::3/3:4:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+11430:0::3/3:4:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+11430:0::3/3:4:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+11430:0::3/3:4:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+6233:0::0:4:> recruit
+4552:0::0:4:> use 753
+8147:0::0:4:Arrival at Forest~[vm99].
+6609:0::0:4:Arrival at Forest~[vm99].
+42999:0::0:4:Mithril Man~[8147], with five~winged horses, arrived from the east, accompanied~by:
+42999:0::3/3:4:Elena Lightfoot~[6609], with 42~winged horses, 24~centaurs, 91~giant lizards
+7438:0::0:4:Arrival at Forest~[wj22].
+8520:0::0:4:Research uncovers a new skill:  Farcasting~[849]
+8520:0::0:4:To begin learning this skill, order 'study 849'.
+12029:0::0:4:It has begun to rain.
+11926:0::0:4:It has begun to rain.
+11430:0::0:4:It has begun to rain.
+8147:0::0:5:> move w
+8147:0::0:5:Two nobles, 115 men: travel will take an extra 5 days.
+8147:0::0:5:Travel to Forest~[pz62] will take nine days.
+6609:0::0:5:Travel to Forest~[pz62] will take nine days.
+42999:0::0:5:Mithril Man~[8147], with five~winged horses, went west, accompanied~by:
+42999:0::3/3:5:Elena Lightfoot~[6609], with 42~winged horses, 24~centaurs, 91~giant lizards
+7438:0::0:5:> fly s
+7438:0::0:5:Flying to Forest~[wd24] will take four days.
+8520:0::0:5:> research 840
+8520:0::0:5:Research by 6th black circle level mages and above must be done in provinces with a civilization level of 1 or less.
+8520:0::0:5:Research Scrying~[840].
+6961:0::0:5:Research uncovers a new skill:  Turn lead into gold~[697]
+6961:0::0:5:To begin learning this skill, order 'study 697'.
+6961:0::0:6:> move out
+58751:0::0:6:Brys - Dyfed Trader~[6961], sorcerer, with four~winged horses, exited Tawaa Kaigan~[s280].
+6961:0::0:6:Arrival at Dyfed~[z91].
+6961:0::0:6:Bought 27~ochre~[m039] from Dyfed~[z91] for 2,619~gold.
+58751:0::0:6:Brys - Dyfed Trader~[6961] bought 27~ochre~[m039] from Dyfed~[z91] for 2,619~gold.
+6961:0::0:6:Bought 31~beans~[96757] from Dyfed~[z91] for 465~gold.
+58751:0::0:6:Brys - Dyfed Trader~[6961] bought 31~beans~[96757] from Dyfed~[z91] for 465~gold.
+6961:0::0:6:> give 79021 m039 0
+6961:0::0:6:Gave 27~ochre to Caravan 1~[79021].
+6961:0::0:6:> give 79021 96757 0
+6961:0::0:6:Gave 31~beans to Caravan 1~[79021].
+6961:0::0:6:> move s280
+58751:0::0:6:Brys - Dyfed Trader~[6961], sorcerer, with four~winged horses, entered Tawaa Kaigan~[s280].
+6961:0::0:6:Arrival at Tawaa Kaigan~[s280].
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+6961:0::0:6:> research 690
+6961:0::0:6:No unknown researchable skills exist for Alchemy.
+1063:0::0:6:Produced one~giant lizard~[282].
+2414:0::0:6:Trained ten~workers.
+4552:0::0:6:The next religious act will surely succeed.
+4552:0::0:7:> move tv11
+1063:0::0:7:Leander the Monk~[4552] unstacks from us.
+4552:0::0:7:Leander the Monk~[4552] unstacks from Lazarus Long~[1063].
+41611:0::0:7:Leander the Monk~[4552], priest, with one~riding horse, exited Hammerhome~[g129].
+4552:0::0:7:Arrival at Forest~[tv11].
+4552:0::0:7:> move a023
+4552:0::0:7:Travel to Faery hill~[a023] will take one day.
+41611:0::0:7:Leander the Monk~[4552], priest, with one~riding horse, entered Faery hill~[a023].
+1063:0::0:7:> breed 282 282
+1063:0::0:7:Breed attempt will take 6 days.
+2414:0::0:7:> attack 85989
+11926:0::0:7:Dig Dug~[2414] attacks Hammerhole IV~[85989]!
+11926:0::3:7:
+11926:0::3:7:Dig Dug~[2414], behind~5, with 34~workers, two~soldiers, 20~swordsmen, 14~riding horses
+11926:0::3:7:
+11926:0::3:7:Hammerhole IV~[85989], mine, defense~10, depth~8, 23%~damaged, owner:
+11926:0::6/3:7:Savage~[103337], savages, number:~20
+2414:0::0:7:Attack Hammerhole IV~[85989].
+11926:0::0:7:
+11926:0::0:7:Dig Dug~[2414] is victorious!
+2414:0::0:7:We won!
+11926:0::0:7:
+11926:0::3:7:Dig Dug lost one~soldier, two~swordsmen.
+2414:0::0:7:Dig Dug~[2414] lost one~soldier, two~swordsmen.
+11926:0::0:7:
+11926:0::3:7:Savage lost 19~savages.
+11926:0::3:7:Savage~[103337] was taken prisoner.
+11926:0::0:7:
+2414:0::0:7:Savage~[103337] is taken prisoner by Dig Dug~[2414].
+2414:0::0:7:Taken from Savage~[103337]:
+2414:0::3:7:one~drum~[98]
+11926:0::0:7:[2414] moved into [85989] as a result of combat.
+2414:0::0:7:We have taken Hammerhole IV~[85989].
+4552:0::0:7:Arrival at Faery hill~[a023].
+59023:0::0:7:Leander the Monk~[4552], priest, with one~riding horse, arrived from Forest~[tv11].
+4552:0::0:8:> move 8254
+59023:0::0:8:Leander the Monk~[4552], priest, with one~riding horse, entered Temple of the Hand~[8254].
+4552:0::0:8:Arrival at Temple of the Hand~[8254].
+2414:0::0:8:> use 723
+2414:0::0:8:Will mine mithril for the next seven days.
+4552:0::0:8:> use 751 8147
+4552:0::0:8:Already have received a vision of [8147].
+4552:0::0:8:A vision may only be received once for a particular target.
+4552:0::0:8:> use 753
+4552:0::0:8:Have already completed a preparatory ritual.
+4552:0::0:8:> use 751 rr22
+7438:0::0:8:Arrival at Forest~[wd24].
+5949:0::0:8:Produced one~giant lizard~[282].
+7438:0::0:9:> move g370
+7438:0::0:9:Travel to Ring of stones~[g370] will take one day.
+5949:0::0:9:> breed 282 282
+5949:0::0:9:Breed attempt will take 6 days.
+7438:0::0:9:Arrival at Ring of stones~[g370].
+4630:0::0:9:Attack rating raised 3 to 138.
+7438:0::0:10:> use 862
+4630:0::0:10:> use 616
+69683:0::0:10:Quarried 50~stone.
+11926:0::0:10:Hammerhill Quarrier~[n683] quarried 50~stone.
+69683:0::0:11:> use 616
+8520:0::0:11:Research uncovers no new skills.
+2414:0::0:11:A new fissure in a shaft wall has allowed poisonous gas to seep into Hammerhole IV~[85989].
+11926:0::0:11:A new fissure in a shaft wall has allowed poisonous gas to seep into Hammerhole IV~[85989].
+2414:0::0:11:Four miners were killed in the accident.
+11926:0::0:11:Four miners were killed in the accident.
+2414:0::0:11:Dig Dug~[2414] lost four workers.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hound is barking.
+11926:0::0:11:The hound is barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hound is barking.
+11926:0::0:11:The hound is barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:A hound is barking.
+11926:0::0:11:A hound is barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+2414:0::0:11:The hounds are barking.
+11926:0::0:11:The hounds are barking.
+8520:0::0:12:> research 840
+8520:0::0:12:Research by 6th black circle level mages and above must be done in provinces with a civilization level of 1 or less.
+8520:0::0:12:Research Scrying~[840].
+60990:0::0:12:Arrival at Plain~[at30].
+60810:0::0:12:Arrival at Plain~[at30].
+62422:0::0:12:Arrival at Plain~[at30].
+11530:0::0:12:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, arrived from the north, accompanied~by:
+11530:0::3/3:12:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+11530:0::3/3:12:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+11530:0::3/3:12:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+11530:0::3/3:12:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+11530:0::3/3:12:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+1063:0::0:12:One~giant lizard~[282] was killed in the breeding attempt.
+1063:0::0:12:Produced one~giant lizard~[282].
+60990:0::0:13:Travel to Desert~[at31] will take nine days.
+60810:0::0:13:Travel to Desert~[at31] will take nine days.
+62422:0::0:13:Travel to Desert~[at31] will take nine days.
+11530:0::0:13:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, went east, accompanied~by:
+11530:0::3/3:13:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+11530:0::3/3:13:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+11530:0::3/3:13:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+11530:0::3/3:13:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+11530:0::3/3:13:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+1063:0::0:13:> breed 282 282
+1063:0::0:13:Breed attempt will take 6 days.
+8147:0::0:13:Arrival at Forest~[pz62].
+6609:0::0:13:Arrival at Forest~[pz62].
+33962:0::0:13:Mithril Man~[8147], with five~winged horses, arrived from the east, accompanied~by:
+33962:0::3/3:13:Elena Lightfoot~[6609], with 42~winged horses, 24~centaurs, 91~giant lizards
+6233:0::0:13:Recruited ten~peasants.
+44759:0::0:13:Garrison 2~[6233] recruited ten~peasants.
+6233:0::0:14:> give garrison 10 10
+6233:0::0:14:Gave ten~peasants to Garrison~[8965].
+6:0:8965:0:14:Received ten~peasants~[10] from Garrison 2~[6233].
+6233:0::0:14:> get garrison 12 10
+6233:0::0:14:Took ten~soldiers from Garrison~[8965].
+6:0:8965:0:14:Garrison 2~[6233] took ten~soldiers~[12] from us.
+8147:0::0:14:> move w
+8147:0::0:14:Two nobles, 115 men: travel will take an extra 5 days.
+8147:0::0:14:Travel to Forest~[gb97] will take nine days.
+6609:0::0:14:Travel to Forest~[gb97] will take nine days.
+33962:0::0:14:Mithril Man~[8147], with five~winged horses, went west, accompanied~by:
+33962:0::3/3:14:Elena Lightfoot~[6609], with 42~winged horses, 24~centaurs, 91~giant lizards
+6233:0::0:14:> move n
+6233:0::0:14:Three nobles, 110 men: travel will take an extra 3 days.
+6233:0::0:14:Travel to Forest~[rs45] will take seven days.
+4630:0::0:14:Travel to Forest~[rs45] will take seven days.
+5949:0::0:14:Travel to Forest~[rs45] will take seven days.
+44759:0::0:14:Garrison 2~[6233], with ten~soldiers, one~riding horse, went north, accompanied~by:
+44759:0::3/3:14:Garrison 1~[4630]
+44759:0::3/3:14:Llana Bushstriker~[5949], with two~wild horses, 35~winged horses, 26~centaurs, 74~giant lizards
+2414:0::0:14:Mining yielded one~mithril~[82].
+6961:0::0:14:Another auraculum has come into existence.
+8520:0::0:14:Another auraculum has come into existence.
+2414:0::0:15:> repair
+4552:0::0:15:Leander the Monk~[4552] receives a vision of Forest~[rr22]:
+4552:0::0:15:
+4552:0::0:15:Forest~[rr22], forest, in Faery
+4552:0::0:15:
+4552:0::0:15:Routes leaving Forest: 
+4552:0::3:15:North, to Forest~[zk84], 8~days
+4552:0::3:15:East, to Forest~[wx13], 8~days
+4552:0::3:15:South, to Forest~[gp99], 8~days
+4552:0::3:15:West, to Forest~[pr37], 8~days
+2414:0::0:15:A tunnel in Hammerhole IV~[85989] has caved in!
+11926:0::0:15:A tunnel in Hammerhole IV~[85989] has caved in!
+2414:0::0:15:Four miners were killed in the accident.
+11926:0::0:15:Four miners were killed in the accident.
+2414:0::0:15:Dig Dug~[2414] lost four workers.
+4552:0::0:16:> use 753
+7438:0::0:16:Gates here:
+7438:0::3:16:Gate~[p101], sealed, to Ring of stones~[d610]
+7438:0::0:17:> study 804
+7438:0::0:17:Paid 100~gold to begin study.
+7438:0::0:17:Study View current aura level of others for seven days.
+2414:0::0:17:Hammerhole IV~[85989] has been fully repaired.
+2414:0::0:17:Dig Dug~[2414] repaired 36 damage and two defense for Hammerhole IV~[85989].
+69683:0::0:17:Attack rating raised 3 to 92.
+2414:0::0:18:> move out
+11926:0::0:18:Dig Dug~[2414], with 26~workers, one~soldier, 18~swordsmen, 14~riding horses, exited Hammerhole IV~[85989], accompanied~by:
+11926:0::3/3:18:Savage~[103337], savage, prisoner
+2414:0::0:18:Arrival at Mountain~[az26].
+2414:0::0:18:> execute
+2414:0::0:18:Dig Dug~[2414] executes Savage~[103337]!
+2414:0::0:18:Savage~[103337] has died.
+2414:0::0:18:Savage~[103337] unstacks from us.
+69683:0::0:18:> use 616
+2414:0::0:18:> make 73
+8520:0::0:18:Research uncovers a new skill:  Banish undead~[852]
+8520:0::0:18:To begin learning this skill, order 'study 852'.
+1063:0::0:18:Produced one~giant lizard~[282].
+4552:0::0:18:The next religious act will surely succeed.
+8520:0::0:19:> research 840
+8520:0::0:19:Research by 6th black circle level mages and above must be done in provinces with a civilization level of 1 or less.
+8520:0::0:19:Research Scrying~[840].
+1063:0::0:19:> breed 282 282
+1063:0::0:19:Breed attempt will take 6 days.
+6233:0::0:20:Arrival at Forest~[rs45].
+4630:0::0:20:Arrival at Forest~[rs45].
+5949:0::0:20:Arrival at Forest~[rs45].
+37445:0::0:20:Garrison 2~[6233], with ten~soldiers, one~riding horse, arrived from the south, accompanied~by:
+37445:0::3/3:20:Garrison 1~[4630]
+37445:0::3/3:20:Llana Bushstriker~[5949], with two~wild horses, 35~winged horses, 26~centaurs, 74~giant lizards
+5949:0::0:20:Produced one~giant lizard~[282].
+11926:0::0:20:A tunnel in Hammerhole IV~[85989] has caved in!
+6233:0::0:21:> garrison g129
+37445:0::0:21:Garrison~[139820], garrison, on guard, with ten~soldiers now guards Forest~[rs45].
+6233:0::0:21:Installed Garrison~[139820], garrison, on guard, with ten~soldiers
+41611:0::0:21:Savage~[138065] attacks Hammerhome~[g129]!
+41611:0::3:21:
+41611:0::3:21:Savage~[138065], savages, number:~5
+41611:0::3:21:
+41611:0::3:21:Hammerhome~[g129], castle, defense~70, level~4, owner:
+41611:0::6/3:21:Lazarus Long~[1063], count, wielding golden sword~[149830] and magic dart~[x129], wearing crystal shield~[m829], with 88~workers, eight~riding horses, 43~winged horses, 81~centaurs, 105~giant lizards
+1063:0::0:21:Savage~[138065] attacks us!
+41611:0::0:21:
+41611:0::0:21:Lazarus Long~[1063] is victorious!
+1063:0::0:21:We won!
+41611:0::0:21:
+41611:0::3:21:Savage lost four~savages.
+41611:0::3:21:Savage~[138065] was taken prisoner.
+41611:0::0:21:
+1063:0::0:21:Savage~[138065] is taken prisoner by Lazarus Long~[1063].
+1063:0::0:21:Taken from Savage~[138065]:
+1063:0::3:21:one~drum~[98]
+5949:0::0:21:> breed 282 282
+5949:0::0:21:Breed attempt will take 6 days.
+60990:0::0:21:Arrival at Desert~[at31].
+60810:0::0:21:Arrival at Desert~[at31].
+62422:0::0:21:Arrival at Desert~[at31].
+11531:0::0:21:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, arrived from the west, accompanied~by:
+11531:0::3/3:21:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+11531:0::3/3:21:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+11531:0::3/3:21:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+11531:0::3/3:21:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+11531:0::3/3:21:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+11530:0::0:21:It has begun to rain.
+60990:0::0:22:Travel to Plain~[at32] will take nine days.
+60810:0::0:22:Travel to Plain~[at32] will take nine days.
+62422:0::0:22:Travel to Plain~[at32] will take nine days.
+11531:0::0:22:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, went east, accompanied~by:
+11531:0::3/3:22:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+11531:0::3/3:22:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+11531:0::3/3:22:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+11531:0::3/3:22:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+11531:0::3/3:22:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+6233:0::0:22:> recruit
+11926:0::0:22:[135134] moved into [85989] as a result of combat.
+8147:0::0:22:Arrival at Forest~[gb97].
+6609:0::0:22:Arrival at Forest~[gb97].
+20197:0::0:22:Mithril Man~[8147], with five~winged horses, arrived from the east, accompanied~by:
+20197:0::3/3:22:Elena Lightfoot~[6609], with 42~winged horses, 24~centaurs, 91~giant lizards
+4630:0::0:22:Attack rating raised 3 to 141.
+8147:0::0:23:> move w
+8147:0::0:23:Two nobles, 115 men: travel will take an extra 5 days.
+8147:0::0:23:Travel to Forest~[xz78] will take nine days.
+6609:0::0:23:Travel to Forest~[xz78] will take nine days.
+20197:0::0:23:Mithril Man~[8147], with five~winged horses, went west, accompanied~by:
+20197:0::3/3:23:Elena Lightfoot~[6609], with 42~winged horses, 24~centaurs, 91~giant lizards
+4630:0::0:23:> use 616
+11926:0::0:23:Rock dust has caused an explosion in Hammerhole IV~[85989]!
+7438:0::0:24:> study 804
+7438:0::0:24:Study View current aura level of others for seven days.
+1063:0::0:24:One~giant lizard~[282] was killed in the breeding attempt.
+1063:0::0:24:Produced one~giant lizard~[282].
+69683:0::0:24:Attack rating raised 5 to 97.
+11926:0::0:24:A new fissure in a shaft wall has allowed poisonous gas to seep into Hammerhole IV~[85989].
+1063:0::0:25:> breed 282 282
+1063:0::0:25:Breed attempt will take 6 days.
+69683:0::0:25:> use 616
+12029:0::0:25:Caravan 3~[129401], orc, with one~riding horse, one~winged horse, seven~oxen, arrived from the east.
+8520:0::0:25:Research uncovers no new skills.
+12029:0::0:26:Caravan 3~[129401], orc, with one~riding horse, one~winged horse, seven~oxen, entered Dyfed~[z91].
+8520:0::0:26:> research 840
+8520:0::0:26:Research by 6th black circle level mages and above must be done in provinces with a civilization level of 1 or less.
+8520:0::0:26:Research Scrying~[840].
+58751:0::0:26:Caravan 3~[129401], orc, with one~riding horse, one~winged horse, seven~oxen, arrived from Forest of Arden~[ba29].
+5949:0::0:26:Produced one~giant lizard~[282].
+5949:0::0:27:> breed 282 282
+5949:0::0:27:Breed attempt will take 6 days.
+4630:0::0:29:Attack rating raised 3 to 144.
+4630:0::0:30:> use 616
+60990:0::0:30:Arrival at Plain~[at32].
+60810:0::0:30:Arrival at Plain~[at32].
+62422:0::0:30:Arrival at Plain~[at32].
+11532:0::0:30:Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, arrived from the west, accompanied~by:
+11532:0::3/3:30:Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 79~giant lizards
+11532:0::3/3:30:Lizard Man~[135373], with two~riding horses, 82~giant lizards
+11532:0::3/3:30:Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+11532:0::3/3:30:Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+11532:0::3/3:30:Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+1063:0::0:30:Produced one~giant lizard~[282].
+6:0:1663:0:30:Paid maintenance of 10~gold.
+6:0:2316:0:30:Paid maintenance of 10~gold.
+6:0:2877:0:30:Paid maintenance of 10~gold.
+6:0:2931:0:30:Paid maintenance of 10~gold.
+6:0:3889:0:30:Paid maintenance of 10~gold.
+6:0:4232:0:30:Paid maintenance of 10~gold.
+6:0:4377:0:30:Paid maintenance of 10~gold.
+6:0:5226:0:30:Paid maintenance of 10~gold.
+6:0:5748:0:30:Paid maintenance of 10~gold.
+6:0:6894:0:30:Paid maintenance of 10~gold.
+6:0:6983:0:30:Paid maintenance of 10~gold.
+6:0:8965:0:30:Paid maintenance of 10~gold.
+6:0:9143:0:30:Paid maintenance of 10~gold.
+6:0:s615:0:30:Paid maintenance of 10~gold.
+6:0:x486:0:30:Paid maintenance of 10~gold.
+6:0:88875:0:30:Paid maintenance of 10~gold.
+6:0:90222:0:30:Paid maintenance of 10~gold.
+6:0:97205:0:30:Paid maintenance of 10~gold.
+6:0:97511:0:30:Paid maintenance of 10~gold.
+6:0:99727:0:30:Paid maintenance of 10~gold.
+6:0:108902:0:30:Paid maintenance of 10~gold.
+6:0:111720:0:30:Paid maintenance of 10~gold.
+6:0:115206:0:30:Paid maintenance of 10~gold.
+6:0:118481:0:30:Paid maintenance of 10~gold.
+6:0:120118:0:30:Paid maintenance of 10~gold.
+6:0:121129:0:30:Paid maintenance of 10~gold.
+6:0:139820:0:30:Paid maintenance of 20~gold.
+1063:0::0:30:Collected 356~gold from owned provinces.
+1063:0::0:30:Collected 120~gold in taxes.
+4552:0::0:30:Temple of the Hand~[8254] collected offerings of 100~gold.
+1063:0::0:30:Paid maintenance of 176~gold.
+2414:0::0:30:Paid maintenance of 108~gold.
+6233:0::0:30:Paid maintenance of 9~gold.
+69683:0::0:30:Paid maintenance of 10~gold.
+1063:0::0:30:One centaur died.
+1063:0::0:30:Two giant lizards died.
+5949:0::0:30:One winged horse died.
+5949:0::0:30:One centaur died.
+5949:0::0:30:Two giant lizards died.
+11430:0::0::
+11430:0::0::Province controlled by Steelehome~[v596], castle, in Plain~[av33]
+11430:0::0::Ruled by Magnus~[8721], duke
+11430:0::0::
+11430:0::0::Routes leaving Desert: 
+11430:0::3::North, forest, to North Forest~[ar30], 8~days
+11430:0::3::East, forest, to North Forest~[as31], 8~days
+11430:0::3::South, to Plain~[at30], 7~days
+11430:0::3::West, to Plain~[as29], 7~days
+11430:0::0::
+11430:0::0::Inner locations:
+11430:0::3::Graveyard~[z110], graveyard, 1 day
+11430:0::3::Hereford~[w63], city, 1 day
+11430:0::3::Oasis~[a228], oasis, 1 day
+11430:0::0::
+11430:0::0::It is raining.
+11430:0::0::
+11430:0::0::Seen here:
+11430:0::0/3::   Garrison~[d035], garrison, on guard, with ten~soldiers
+11530:0::0::
+11530:0::0::Province controlled by Steelehome~[v596], castle, in Plain~[av33]
+11530:0::0::Ruled by Magnus~[8721], duke
+11530:0::0::
+11530:0::0::Routes leaving Plain: 
+11530:0::3::North, to Desert~[as30], 8~days
+11530:0::3::East, to Desert~[at31], 8~days
+11530:0::3::South, to Forest~[av30], 8~days
+11530:0::3::West, to Desert~[at29], 8~days
+11530:0::0::
+11530:0::0::It is raining.
+11530:0::0::
+11530:0::0::Seen here:
+11530:0::0/3::   Garrison~[1334], garrison, on guard, with ten~soldiers
+11531:0::0::
+11531:0::0::Province controlled by Steelehome~[v596], castle, in Plain~[av33]
+11531:0::0::Ruled by Magnus~[8721], duke
+11531:0::0::
+11531:0::0::Routes leaving Desert: 
+11531:0::3::North, forest, to North Forest~[as31], 8~days
+11531:0::3::East, to Plain~[at32], 7~days
+11531:0::3::South, swamp, to Steele River~[av31], 14~days
+11531:0::3::West, to Plain~[at30], 7~days
+11531:0::0::
+11531:0::0::Inner locations:
+11531:0::3::Sand pit~[f057], sand pit, 1 day
+11531:0::0::
+11531:0::0::It is raining.
+11531:0::0::
+11531:0::0::Seen here:
+11531:0::0/3::   Garrison~[b352], garrison, on guard, with ten~soldiers
+11532:0::0::
+11532:0::0::Province controlled by Steelehome~[v596], castle, in Plain~[av33]
+11532:0::0::Ruled by Magnus~[8721], duke
+11532:0::0::
+11532:0::0::Routes leaving Plain: 
+11532:0::3::North, forest, to North Forest~[as32], 8~days
+11532:0::3::East, to Plain~[at33], 7~days
+11532:0::3::South, to Plain~[av32], 7~days
+11532:0::3::West, to Desert~[at31], 8~days
+11532:0::0::
+11532:0::0::It is raining.
+11532:0::0::
+11532:0::0::Seen here:
+11532:0::0/3::   Garrison~[g432], garrison, on guard, with ten~peasants
+11532:0::0/3::   Ugmot the Beast~[4075], wearing enchanted helm~[b709], with two~riding horses, 65~giant lizards, accompanied~by:
+11532:0::0/6::      Eldric Slimfinger~[85702], wearing magic shield~[124877], with one~riding horse, 78~giant lizards
+11532:0::0/6::      Lizard Man~[135373], "{<i>}Confederation Marine{</i>}", with two~riding horses, 80~giant lizards
+11532:0::0/6:: *    Lizard Man IV~[b990], with six~winged horses, 60~giant lizards
+11532:0::0/6:: *    Lizard Man III~[b810], with one~riding horse, 27~giant lizards
+11532:0::0/6:: *    Lizard Man II~[d422], with two~riding horses, 28~giant lizards
+11926:0::0::
+11926:0::0::Province controlled by The Sapphire Shield~[5215], castle, in Mountain~[at23]
+11926:0::0::Ruled by Ufgood~[d071], duke
+11926:0::0::
+11926:0::0::Routes leaving Mountain: 
+11926:0::3::North, to Plain~[ax26], 7~days
+11926:0::3::East, to Mountain~[az27], 10~days
+11926:0::3::South, to Plain~[ba26], 7~days
+11926:0::3::West, to Swamp~[az25], 14~days
+11926:0::0::
+11926:0::0::Inner locations:
+11926:0::3::Yew grove~[x697], yew grove, hidden, 1 day
+11926:0::3::Hammerhole IV~[85989], mine, defense~10, depth~9, 36%~damaged, owner:
+11926:0::0/6::      Savage~[135134], savages, number:~7
+11926:0::0::
+11926:0::0::It is raining.
+11926:0::0::
+11926:0::0::Seen here:
+11926:0::0/3::   Garrison~[2274], garrison, on guard, with ten~soldiers
+11926:0::0/3:: * Hammerhill Quarrier~[n683], "{<i>}Confederation Faery Expedition{</i>}", with five~workers, three~winged horses, 11~oxen
+11926:0::0/3:: * Dig Dug~[2414], "{<i>}Confederation Faery Expedition"{</i>}", with 26~workers, one~soldier, 18~swordsmen, 14~riding horses
+12029:0::0::
+12029:0::0::Province controlled by Steelehome~[v596], castle, in Plain~[av33]
+12029:0::0::Ruled by Magnus~[8721], duke
+12029:0::0::
+12029:0::0::Routes leaving Forest of Arden: 
+12029:0::3::North, mountain, to Mount Adalgar~[az29], 10~days
+12029:0::3::East, desert, to Eastern Dunes~[ba30], 8~days
+12029:0::3::South, plain, to Warwick Coast~[bb29], 7~days
+12029:0::3::West, forest, to Forest of Arden~[ba28], 8~days
+12029:0::0::
+12029:0::0::Inner locations:
+12029:0::3::Dyfed~[z91], city, 1 day
+12029:0::3::Battlefield~[t829], battlefield, 1 day
+12029:0::6::PS 1~[2067], tower, defense~40
+12029:0::0::
+12029:0::0::It is raining.
+12029:0::0::
+12029:0::0::Seen here:
+12029:0::0/3::   Garrison~[3611], garrison, on guard, with ten~soldiers
+20197:0::0::
+20197:0::0::Routes leaving Forest: 
+20197:0::3::North, to Forest~[nn61], 8~days
+20197:0::3::East, to Forest~[pz62], 8~days
+20197:0::3::South, to Forest~[vk89], 8~days
+20197:0::3::West, to Forest~[xz78], 8~days
+20197:0::0::
+20197:0::0::Seen here:
+20197:0::0/3:: * Mithril Man~[8147], "{<i>}Confederation Faery Expedition{</i>}", with five~winged horses, accompanied~by:
+20197:0::0/6:: *    Elena Lightfoot~[6609], "{<i>}Confederation Faery Expedition{</i>}", with 42~winged horses, 24~centaurs, 91~giant lizards
+31694:0::0::
+31694:0::0::Routes leaving Forest: 
+31694:0::3::North, to Forest~[wr96], 8~days
+31694:0::3::East, to Forest~[rq79], 8~days
+31694:0::3::South, to Forest~[jb36], 8~days
+31694:0::3::West, to Forest~[nn33], 8~days
+31694:0::0::
+31694:0::0::Inner locations:
+31694:0::3::Faery city~[p32], city, 1 day
+31694:0::0::
+31694:0::0::It is raining.
+33962:0::0::
+33962:0::0::Routes leaving Forest: 
+33962:0::3::North, to Forest~[kg41], 8~days
+33962:0::3::East, to Forest~[vm99], 8~days
+33962:0::3::South, to Forest~[mz46], 8~days
+33962:0::3::West, to Forest~[gb97], 8~days
+37389:0::0::
+37389:0::0::Routes leaving Forest: 
+37389:0::3::North, to Forest~[wj59], 8~days
+37389:0::3::East, to Forest~[nh40], 8~days
+37389:0::3::South, to Forest~[xz65], 8~days
+37389:0::3::West, to Forest~[nt84], 8~days
+37445:0::0::
+37445:0::0::Province controlled by Hammerhome~[g129], castle, in Forest~[tv11]
+37445:0::0::Ruled by Lazarus Long~[1063], count
+37445:0::0::
+37445:0::0::Routes leaving Forest: 
+37445:0::3::North, to Forest~[nd78], 8~days
+37445:0::3::East, to Forest~[nf38], 8~days
+37445:0::3::South, to Forest~[wj59], 8~days
+37445:0::3::West, to Forest~[xn49], 8~days
+37445:0::0::
+37445:0::0::Seen here:
+37445:0::0/3::   Garrison~[139820], garrison, on guard, with ten~soldiers
+37445:0::0/3:: * Garrison 2~[6233], "{<i>}Confederation Faery Expedition{</i>}", with one~riding horse, nine~peasants, accompanied~by:
+37445:0::0/6:: *    Garrison 1~[4630], "{<i>}Confederation Faery Expedition{</i>}"
+37445:0::0/6:: *    Llana Bushstriker~[5949], "{<i>}Confederation Faery Expedition{</i>}", with two~wild horses, 34~winged horses, 25~centaurs, 74~giant lizards
+40489:0::0::
+40489:0::0::Routes leaving Forest: 
+40489:0::3::North, to Forest~[va44], 8~days
+40489:0::3::East, to Forest~[hc95], 8~days
+40489:0::3::South, to Forest~[xd52], 8~days
+40489:0::3::West, to Forest~[wj22], 8~days
+41611:0::0::
+41611:0::0::Province controlled by Hammerhome~[g129], castle, in Forest~[tv11]
+41611:0::0::Ruled by Lazarus Long~[1063], count
+41611:0::0::
+41611:0::0::Routes leaving Forest: 
+41611:0::3::North, to Forest~[xd43], 8~days
+41611:0::3::East, to Forest~[kc21], 8~days
+41611:0::3::South, to Forest~[jx44], 8~days
+41611:0::3::West, to Forest~[sg64], 8~days
+41611:0::0::
+41611:0::0::Inner locations:
+41611:0::3::Faery hill~[a023], faery hill, 1 day
+41611:0::6::Temple of the Hand~[8254], temple, defense~10, owner:
+41611:0::0/9:: *       Leander the Monk~[4552], priest, "{<i>}Confederation Faery Expedition{</i>}", with one~riding horse
+41611:0::3::Hammerhome~[g129], castle, defense~70, level~4, owner:
+41611:0::0/6:: *    Lazarus Long~[1063], count, wielding golden sword~[149830] and magic dart~[x129], wearing crystal shield~[m829], "{<i>}Confederation Faery Expedition{</i>}", with 88~workers, eight~riding horses, 43~winged horses, 80~centaurs, 104~giant lizards, accompanied~by:
+41611:0::0/9::         Savage~[138065], savage, prisoner
+41611:0::6::Hammerspire~[134223], tower, defense~40, owner:
+41611:0::0/9:: *       Spooky Guy~[8520], 4th black circle, "{<i>}Confederation Faery Expedition{</i>}", with one~winged horse
+41611:0::0::
+41611:0::0::Seen here:
+41611:0::0/3::   Garrison~[88875], garrison, on guard, with ten~peasants
+42999:0::0::
+42999:0::0::Routes leaving Forest: 
+42999:0::3::North, to Forest~[xn97], 8~days
+42999:0::3::East, to Forest~[wn80], 8~days
+42999:0::3::South, to Forest~[mw12], 8~days
+42999:0::3::West, to Forest~[pz62], 8~days
+44324:0::0::
+44324:0::0::Routes leaving Forest: 
+44324:0::3::North, to Forest~[wj22], 8~days
+44324:0::3::East, to Forest~[xd52], 8~days
+44324:0::3::South, to Forest~[qs00], 8~days
+44324:0::3::West, to Forest~[st31], 8~days
+44324:0::0::
+44324:0::0::Inner locations:
+44324:0::3::Ring of stones~[g370], ring of stones, 1 day, owner:
+44324:0::0/6:: *    Friday~[7438], wizard, with three~winged horses
+44722:0::0::
+44722:0::0::Routes leaving Forest: 
+44722:0::3::North, to Forest~[pv73], 8~days
+44722:0::3::East, to Forest~[tf89], 8~days
+44722:0::3::South, to Forest~[wd24], 8~days
+44722:0::3::West, to Forest~[mv83], 8~days
+44759:0::0::
+44759:0::0::Province controlled by Hammerhome~[g129], castle, in Forest~[tv11]
+44759:0::0::Ruled by Lazarus Long~[1063], count
+44759:0::0::
+44759:0::0::Routes leaving Forest: 
+44759:0::3::North, to Forest~[rs45], 8~days
+44759:0::3::East, to Forest~[gx07], 8~days
+44759:0::3::South, to Forest~[rr89], 8~days
+44759:0::3::West, to Forest~[qh75], 8~days
+44759:0::0::
+44759:0::0::Seen here:
+44759:0::0/3::   Garrison~[8965], garrison, on guard, with ten~peasants
+45080:0::0::
+45080:0::0::Routes leaving Forest: 
+45080:0::3::North, to Forest~[rg21], 8~days
+45080:0::3::East, to Forest~[kd03], 8~days
+45080:0::3::South, to Forest~[wd85], 8~days
+45080:0::3::West, to Forest~[vm99], 8~days
+46791:0::0::
+46791:0::0::Routes leaving Tunnel: 
+46791:0::3::North, to Tunnel~[jh79], 5~days
+46791:0::3::Up, to Sewer~[d754], Ormos, hidden, 0~days
+58523:0::0::
+58523:0::0::Routes leaving Hereford: 
+58523:0::3::Out, to Desert~[as30], 1~day
+58523:0::0::
+58523:0::0::Cities rumored to be nearby:
+58523:0::3::Warwick~[p44], in Plain~[av33]
+58523:0::3::Stafford~[z52], in Plain~[ap29]
+58523:0::3::Dyfed~[z91], in Forest of Arden~[ba29]
+58523:0::0::
+58523:0::0::Skills taught here:
+58523:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Magic~[800], Weather magic~[820]
+58523:0::0::
+58523:0::0::Market report:
+58523:0::3::
+58523:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58523:0::3::-----    ---   -----    ---     -----   ----                     
+58523:0::3::  buy    w63       4     15         1   woven baskets~[94]       
+58523:0::0::
+58523:0::0::Inner locations:
+58523:0::3::Sewer~[d754], sewer, hidden
+58523:0::0::
+58523:0::0::It is raining.
+58523:0::0::
+58523:0::0::Seen here:
+58523:0::0/3::   Garrison~[8696], garrison, on guard, with 48~pikemen
+58751:0::0::
+58751:0::0::Routes leaving Dyfed: 
+58751:0::3::Out, forest, to Forest of Arden~[ba29], 1~day
+58751:0::0::
+58751:0::0::Cities rumored to be nearby:
+58751:0::3::Flat City~[a02], in Confederation Territory~[bg30]
+58751:0::3::Hereford~[w63], in Desert~[as30]
+58751:0::0::
+58751:0::0::Skills taught here:
+58751:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Forestry~[700], Magic~[800], Necromancy~[900]
+58751:0::0::
+58751:0::0::Market report:
+58751:0::3::
+58751:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58751:0::3::-----    ---   -----    ---     -----   ----                     
+58751:0::3::  buy    z91       4     15         1   woven baskets~[94]       
+58751:0::3::  buy    z91      83     36        16   pepper~[m671]            
+58751:0::3::  buy    z91     147     46       100   obsidian~[m847]          
+58751:0::3:: sell    z91      11     25        30   wood~[77]                
+58751:0::3:: sell    z91      15     31       100   beans~[96757]            
+58751:0::0::
+58751:0::0::Inner locations:
+58751:0::3::Setsu Ameratasu~[4831], temple, defense~10
+58751:0::3::Tour de Astaroth~[123412], tower, defense~40
+58751:0::3::Tawaa Kaigan~[s280], tower, defense~40, owner:
+58751:0::0/6:: *    Brys - Dyfed Trader~[6961], sorcerer, "{<i>}of The Confederation{</i>}", with four~winged horses
+58751:0::3::The Hammer & Tong~[118151], inn, defense~10, 64%~damaged
+58751:0::0::
+58751:0::0::It is raining.
+58751:0::0::
+58751:0::0::Seen here:
+58751:0::0/3::   Garrison~[2291], garrison, on guard, with 87~pikemen, accompanied~by:
+58751:0::0/6::      Caravan 1~[79021], skeleton, "{<i>}Blyn - Deorward{</i>}", with one~riding horse, ten~oxen
+58751:0::0/3::   Caravan 3~[129401], orc, "{<i>}Blyn - Deorward{</i>}", with one~riding horse, one~winged horse, seven~oxen
+59023:0::0::
+59023:0::0::Routes leaving Faery hill: 
+59023:0::3::Out, to Forest~[tv11], 1~day
+59023:0::3::To Plain~[ba26], Ormos, 1~day
+59023:0::0::
+59023:0::0::Inner locations:
+59023:0::3::Temple of the Hand~[8254], temple, defense~10, owner:
+59023:0::0/6:: *    Leander the Monk~[4552], priest, "{<i>}Confederation Faery Expedition{</i>}", with one~riding horse
+62754:0::0::
+62754:0::0::Routes leaving Sewer: 
+62754:0::3::Down, to Tunnel~[xj91], Undercity, 0~days
+62754:0::3::Out, city, to Hereford~[w63], 0~days
+5:0::0::
+5:0::0::begin gz2 "springs"  # The Freehold
+5:0::0::
+5:0::0::unit gz2  # The Freehold
+5:0::0::
+5:0::0::unit b990  # Lizard Man IV in Plain~[at32]
+5:0::3::# > breed 282 282 (executing for one more day)
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit b810  # Lizard Man III in Plain~[at32]
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit d422  # Lizard Man II in Plain~[at32]
+5:0::3::# > breed 282 282 (executing for one more day)
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit n683  # Hammerhill Quarrier in Mountain~[az26]
+5:0::3::# > use 616 (executing for one more day)
+5:0::3::use 616
+5:0::3::use 616
+5:0::0::
+5:0::0::unit 2414  # Dig Dug in Mountain~[az26]
+5:0::3::# > make 73 (still~executing)
+5:0::0::
+5:0::0::unit 6961  # Brys - Dyfed Trader in Tawaa Kaigan~[s280]
+5:0::0::
+5:0::0::unit 4552  # Leander the Monk in Temple of the Hand~[8254]
+5:0::0::
+5:0::0::unit 1063  # Lazarus Long in Hammerhome~[g129]
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 8520  # Spooky Guy in Hammerspire~[134223]
+5:0::3::# > research 840 (executing for two more days)
+5:0::3::research 840
+5:0::3::research 840
+5:0::3::research 840
+5:0::3::research 840
+5:0::0::
+5:0::0::unit 6233  # Garrison 2 in Forest~[rs45]
+5:0::3::# > collect 10 0 0 (still~executing)
+5:0::3::give garrison 10 10
+5:0::3::get garrison 12 10
+5:0::3::move n
+5:0::3::garrison g129
+5:0::3::recruit
+5:0::0::
+5:0::0::unit 4630  # Garrison 1 in Forest~[rs45]
+5:0::3::# > use 616 (executing for six more days)
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 616
+5:0::3::use 616
+5:0::0::
+5:0::0::unit 5949  # Llana Bushstriker in Forest~[rs45]
+5:0::3::# > breed 282 282 (executing for two more days)
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 7438  # Friday in Ring of stones~[g370]
+5:0::0::
+5:0::0::unit 8147  # Mithril Man in Forest~[gb97]
+5:0::3::# > move w (executing for one more day)
+5:0::3::move w
+5:0::3::move w
+5:0::3::move w
+5:0::3::move w
+5:0::3::move w
+5:0::3::move w
+5:0::0::
+5:0::0::unit 6609  # Elena Lightfoot in Forest~[gb97]
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::end
+51812:0::0::
+51812:0::0::Admit permissions:
+51812:0::0::
+51812:0::3::admit  gz2  pv2  qf4  qs7
+51812:0::0::
+51812:0::0::Declared attitudes:
+51812:0::3::defend   wh2
+51812:0::0::
+51812:0::0::Unclaimed items:
+51812:0::0::
+51812:0::0::      qty  name                              weight
+51812:0::0::      ---  ----                              ------
+51812:0::0::      300  gold~[1]                               0  
+1063:0::3::
+1063:0::3/16::Location:       Hammerhome~[g129], in province Forest~[tv11], in Faery
+1063:0::3::Loyalty:        Oath-2
+1063:0::3::Health:         100%
+1063:0::3::Combat:         attack 80, defense 99, missile 0
+1063:0::3::                behind 0  (front line in combat)
+1063:0::3::Break point:    0% (fight to the death)
+1063:0::3::Receive Vision: 9 protection
+1063:0::3::Banner:         Confederation Faery Expedition
+1063:0::3::
+1063:0::3::Current aura:   2
+1063:0::3::Maximum aura:   2
+1063:0::3::Prisoners:      Savage~[138065], health 100
+1063:0::3::
+1063:0::3::Skills known:
+1063:0::6::Combat~[610]
+1063:0::12::Survive fatal wound~[611]
+1063:0::12::Fight to the death~[612]
+1063:0::12::Defense~[614], apprentice
+1063:0::12::Swordplay~[616], apprentice
+1063:0::12::Weaponsmithing~[617], adept
+1063:0::6::Beastmastery~[650]
+1063:0::12::Capture beasts in battle~[652]
+1063:0::12::Use beasts in battle~[653]
+1063:0::12::Breed beasts~[654], grand master
+1063:0::12::Catch wild horses~[655], journeyman
+1063:0::12::Train wild horse to riding horse~[656], journeyman
+1063:0::12::Train wild horse to warmount~[657], apprentice
+1063:0::6::Forestry~[700]
+1063:0::12::Harvest lumber~[702], apprentice
+1063:0::6::Necromancy~[900]
+1063:0::12::Absorb aura blast~[911], apprentice
+1063:0::3::
+1063:0::3::Inventory:
+1063:0::3::{<b>}      qty  name                              weight{</b>}
+1063:0::3::      ---  ----                              ------
+1063:0::3::    5,667  gold~[1]                               0  
+1063:0::3::       88  workers~[11]                       8,800  cap 8,800 (1,1,0)
+1063:0::3::        8  riding horses~[52]                 8,000  ride 1,200
+1063:0::3::       43  winged horses~[54]                43,000  fly 6,450
+1063:0::3::        2  mallorn wood~[70]                     60  
+1063:0::3::       92  plate armor~[73]                     460  
+1063:0::3::      155  longswords~[74]                      775  
+1063:0::3::      146  pikes~[75]                           730  
+1063:0::3::       70  stone~[78]                         7,000  
+1063:0::3::      250  crossbows~[85]                     2,500  
+1063:0::3::       20  drums~[98]                            40  
+1063:0::3::       80  centaurs~[271]                    80,000  ride 12,000 (30,30,0)
+1063:0::3::      104  giant lizards~[282]              104,000   (45,45,0)
+1063:0::3::        1  deathly black cloak~[a006]             1  
+1063:0::3::        1  Orb~[c101]                             1  
+1063:0::3::        1  Magic potion~[c210]                    1  
+1063:0::3::        1  Orb~[c393]                             1  
+1063:0::3::        1  Scroll~[h216]                          1  
+1063:0::3::        1  Strange potion~[h562]                  1  
+1063:0::3::        1  crystal shield~[m829]                 10  +25 defense
+1063:0::3::        1  Orb~[t220]                             1  
+1063:0::3::        1  Orb~[w546]                             1  
+1063:0::3::        1  magic dart~[x129]                     10  +25 missile
+1063:0::3::        1  Strange potion~[98360]                 1  
+1063:0::3::        1  golden sword~[149830]                 10  +40 attack
+1063:0::3::                                             ======
+1063:0::3::                                            255,404
+1063:0::3::
+1063:0::3/11::Capacity:  11,604/28,550 land (40%), 20,504/19,650 ride (104%), 212,504/6,450 fly (3294%)
+1063:0::3::
+1063:0::3::Scroll~[h216] permits study of the following skills:
+1063:0::6/3::Train wild horse to warmount~[657] (requires Beastmastery)
+1063:0::3::
+2414:0::3::
+2414:0::3/16::Location:       Mountain~[az26], in Ormos
+2414:0::3::Loyalty:        Oath-1
+2414:0::3::Health:         100%
+2414:0::3::Combat:         attack 80, defense 80, missile 112
+2414:0::3::                behind 5  (stay behind in combat)
+2414:0::3::Break point:    50%
+2414:0::3::Banner:         Confederation Faery Expedition"
+2414:0::3::
+2414:0::3::Skills known:
+2414:0::6::Combat~[610]
+2414:0::12::Survive fatal wound~[611]
+2414:0::12::Fight to the death~[612]
+2414:0::12::Archery~[615], adept
+2414:0::12::Swordplay~[616], journeyman
+2414:0::12::Weaponsmithing~[617], master
+2414:0::6::Persuasion~[670]
+2414:0::12::Bribe noble~[671], apprentice
+2414:0::6::Construction~[680]
+2414:0::12::Stone quarrying~[682], apprentice
+2414:0::6::Forestry~[700]
+2414:0::12::Harvest lumber~[702], apprentice
+2414:0::6::Mining~[720]
+2414:0::12::Mine iron~[721], master
+2414:0::12::Mine gold~[722], adept
+2414:0::12::Mine mithril~[723], apprentice
+2414:0::3::
+2414:0::3::Inventory:
+2414:0::3::{<b>}      qty  name                              weight{</b>}
+2414:0::3::      ---  ----                              ------
+2414:0::3::    3,508  gold~[1]                               0  
+2414:0::3::       26  workers~[11]                       2,600  cap 2,600 (1,1,0)
+2414:0::3::        1  soldier~[12]                         100  cap 100 (5,5,0)
+2414:0::3::       18  swordsmen~[20]                     1,800  cap 1,800 (15,15,0)
+2414:0::3::       14  riding horses~[52]                14,000  ride 2,100
+2414:0::3::        1  elfstone~[69]                          1  
+2414:0::3::       22  plate armor~[73]                     110  
+2414:0::3::       12  longswords~[74]                       60  
+2414:0::3::       46  iron~[79]                            460  
+2414:0::3::        3  mithril~[82]                          15  
+2414:0::3::        1  drum~[98]                              2  
+2414:0::3::                                             ======
+2414:0::3::                                             19,148
+2414:0::3::
+2414:0::3/11::Capacity:  648/6,700 land (9%), 5,248/2,100 ride (249%)
+2414:0::3::
+2414:0::3::Pending trades:
+2414:0::3::
+2414:0::6::trade    price    qty   item
+2414:0::6::-----    -----    ---   ----
+2414:0::6:: sell        4    967   woven basket~[94]
+2414:0::3::
+4552:0::3::
+4552:0::3/16::Location:       Temple of the Hand~[8254], in Faery hill~[a023], in province Forest~[tv11], in Faery
+4552:0::3::Loyalty:        Oath-1
+4552:0::3::Health:         100%
+4552:0::3::Combat:         attack 80, defense 80, missile 0
+4552:0::3::                behind 5  (stay behind in combat)
+4552:0::3::Break point:    50%
+4552:0::3::Receive Vision: 13 protection
+4552:0::3::Banner:         Confederation Faery Expedition
+4552:0::3::
+4552:0::3::Skills known:
+4552:0::6::Combat~[610]
+4552:0::12::Survive fatal wound~[611]
+4552:0::6::Stealth~[630]
+4552:0::6::Religion~[750]
+4552:0::12::Receive vision~[751], grand master
+4552:0::12::Resurrect dead noble~[752], apprentice
+4552:0::12::Preparatory ritual~[753], grand master
+4552:0::12::Lay to rest~[754], apprentice
+4552:0::12::Remove blessing from soldiers~[755], apprentice
+4552:0::12::Immunity from Vision~[756], adept
+4552:0::3::
+4552:0::3::Partially known skills:
+4552:0::6/6::Persuasion~[670], 7/28
+4552:0::6/6::Forestry~[700], 0/21
+4552:0::3::
+4552:0::3::Inventory:
+4552:0::3::{<b>}      qty  name                              weight{</b>}
+4552:0::3::      ---  ----                              ------
+4552:0::3::    1,911  gold~[1]                               0  
+4552:0::3::        1  riding horse~[52]                  1,000  ride 150
+4552:0::3::                                             ======
+4552:0::3::                                              1,000
+4552:0::3::
+4552:0::3/11::Capacity:  0/250 land (0%), 100/150 ride (66%)
+4552:0::3::
+4552:0::3::Pending trades:
+4552:0::3::
+4552:0::6::trade    price    qty   item
+4552:0::6::-----    -----    ---   ----
+4552:0::6:: sell        4    975   woven basket~[94]
+4552:0::6::  buy      100      5   ox~[76]
+4552:0::3::
+4630:0::3::
+4630:0::3/16::Location:       Forest~[rs45], in Faery
+4630:0::3::Loyalty:        Fear-64
+4630:0::3/16::Stacked under:  Garrison 2~[6233]
+4630:0::3::Health:         100%
+4630:0::3::Combat:         attack 144, defense 80, missile 0
+4630:0::3::                behind 9  (stay behind in combat)
+4630:0::3::Break point:    50%
+4630:0::3::Banner:         Confederation Faery Expedition
+4630:0::3::
+4630:0::3::Skills known:
+4630:0::6::Combat~[610]
+4630:0::12::Survive fatal wound~[611]
+4630:0::12::Fight to the death~[612]
+4630:0::12::Defense~[614], apprentice
+4630:0::12::Swordplay~[616], journeyman
+4630:0::3::
+4630:0::3::Inventory:
+4630:0::3::{<b>}      qty  name                              weight{</b>}
+4630:0::3::      ---  ----                              ------
+4630:0::3::      460  gold~[1]                               0  
+4630:0::3::                                             ======
+4630:0::3::                                                  0
+4630:0::3::
+4630:0::3/11::Capacity:  0/100 land (0%)
+4630:0::3::
+5949:0::3::
+5949:0::3/16::Location:       Forest~[rs45], in Faery
+5949:0::3::Loyalty:        Fear-82
+5949:0::3/16::Stacked under:  Garrison 2~[6233]
+5949:0::3::Health:         100%
+5949:0::3::Combat:         attack 80, defense 80, missile 0
+5949:0::3::                behind 0  (front line in combat)
+5949:0::3::Break point:    50%
+5949:0::3::Receive Vision: 12 protection
+5949:0::3::Banner:         Confederation Faery Expedition
+5949:0::3::
+5949:0::3::Skills known:
+5949:0::6::Combat~[610]
+5949:0::12::Survive fatal wound~[611]
+5949:0::6::Beastmastery~[650]
+5949:0::12::Capture beasts in battle~[652]
+5949:0::12::Use beasts in battle~[653]
+5949:0::12::Breed beasts~[654], grand master
+5949:0::12::Catch wild horses~[655], journeyman
+5949:0::12::Train wild horse to riding horse~[656], apprentice
+5949:0::3::
+5949:0::3::Inventory:
+5949:0::3::{<b>}      qty  name                              weight{</b>}
+5949:0::3::      ---  ----                              ------
+5949:0::3::      274  gold~[1]                               0  
+5949:0::3::        2  wild horses~[51]                   2,000  
+5949:0::3::       34  winged horses~[54]                34,000  fly 5,100
+5949:0::3::       25  centaurs~[271]                    25,000  ride 3,750 (30,30,0)
+5949:0::3::       74  giant lizards~[282]               74,000   (45,45,0)
+5949:0::3::                                             ======
+5949:0::3::                                            135,000
+5949:0::3::
+5949:0::3/11::Capacity:  0/8,950 land (0%), 100/8,850 ride (1%), 101,100/5,100 fly (1982%)
+5949:0::3::
+5949:0::3::Pending trades:
+5949:0::3::
+5949:0::6::trade    price    qty   item
+5949:0::6::-----    -----    ---   ----
+5949:0::6:: sell      100    863   ale~[j042]
+5949:0::6::  buy       27     34   ale~[j042]
+5949:0::3::
+6233:0::3::
+6233:0::3/16::Location:       Forest~[rs45], in Faery
+6233:0::3::Loyalty:        Fear-59
+6233:0::3::Stacked over:   Garrison 1~[4630]
+6233:0::3::                Llana Bushstriker~[5949]
+6233:0::3::Health:         100%
+6233:0::3::Combat:         attack 80, defense 80, missile 0
+6233:0::3::                behind 9  (stay behind in combat)
+6233:0::3::Break point:    50%
+6233:0::3::Banner:         Confederation Faery Expedition
+6233:0::3::
+6233:0::3::Skills known:
+6233:0::6::Combat~[610]
+6233:0::12::Survive fatal wound~[611]
+6233:0::12::Fight to the death~[612]
+6233:0::12::Swordplay~[616], apprentice
+6233:0::3::
+6233:0::3::Partially known skills:
+6233:0::6/6::Archery~[615], 14/21
+6233:0::3::
+6233:0::3::Inventory:
+6233:0::3::{<b>}      qty  name                              weight{</b>}
+6233:0::3::      ---  ----                              ------
+6233:0::3::      624  gold~[1]                               0  
+6233:0::3::        9  peasants~[10]                        900  cap 900 (1,1,0)
+6233:0::3::        1  riding horse~[52]                  1,000  ride 150
+6233:0::3::                                             ======
+6233:0::3::                                              1,900
+6233:0::3::
+6233:0::3/11::Capacity:  0/1,150 land (0%), 1,000/150 ride (666%)
+6233:0::3::
+6609:0::3::
+6609:0::3/16::Location:       Forest~[gb97], in Faery
+6609:0::3::Loyalty:        Oath-1
+6609:0::3/16::Stacked under:  Mithril Man~[8147]
+6609:0::3::Health:         100%
+6609:0::3::Combat:         attack 111, defense 83, missile 0
+6609:0::3::                behind 0  (front line in combat)
+6609:0::3::Break point:    0% (fight to the death)
+6609:0::3::Banner:         Confederation Faery Expedition
+6609:0::3::
+6609:0::3::Skills known:
+6609:0::6::Combat~[610]
+6609:0::12::Fight to the death~[612]
+6609:0::12::Defense~[614], apprentice
+6609:0::12::Swordplay~[616], grand master
+6609:0::12::Weaponsmithing~[617], master
+6609:0::6::Beastmastery~[650]
+6609:0::12::Capture beasts in battle~[652]
+6609:0::12::Use beasts in battle~[653]
+6609:0::12::Breed beasts~[654], grand master
+6609:0::12::Catch wild horses~[655], adept
+6609:0::12::Train wild horse to riding horse~[656], adept
+6609:0::12::Train wild horse to warmount~[657], master
+6609:0::3::
+6609:0::3::Inventory:
+6609:0::3::{<b>}      qty  name                              weight{</b>}
+6609:0::3::      ---  ----                              ------
+6609:0::3::    1,524  gold~[1]                               0  
+6609:0::3::       42  winged horses~[54]                42,000  fly 6,300
+6609:0::3::       24  centaurs~[271]                    24,000  ride 3,600 (30,30,0)
+6609:0::3::       91  giant lizards~[282]               91,000   (45,45,0)
+6609:0::3::                                             ======
+6609:0::3::                                            157,000
+6609:0::3::
+6609:0::3/11::Capacity:  0/10,000 land (0%), 100/9,900 ride (1%), 115,100/6,300 fly (1826%)
+6609:0::3::
+6961:0::3::
+6961:0::3/16::Location:       Tawaa Kaigan~[s280], in Dyfed~[z91], in province Forest of Arden~[ba29], in Ormos
+6961:0::3::Loyalty:        Oath-1
+6961:0::3::Health:         100%
+6961:0::3::Combat:         attack 80, defense 80, missile 85
+6961:0::3::                behind 5  (stay behind in combat)
+6961:0::3::Break point:    50%
+6961:0::3::Banner:         of The Confederation
+6961:0::3::
+6961:0::3::Current aura:   27
+6961:0::3::Maximum aura:   27 (7+20)
+6961:0::3::
+6961:0::3::Skills known:
+6961:0::6::Combat~[610]
+6961:0::12::Survive fatal wound~[611]
+6961:0::12::Fight to the death~[612]
+6961:0::12::Archery~[615], journeyman
+6961:0::12::Weaponsmithing~[617], journeyman
+6961:0::6::Construction~[680]
+6961:0::12::Stone quarrying~[682], apprentice
+6961:0::6::Alchemy~[690]
+6961:0::12::Extract venom from ratspider~[691], apprentice
+6961:0::12::Make potion of slavery~[692], apprentice
+6961:0::12::Brew healing potion~[693], apprentice
+6961:0::6::Forestry~[700]
+6961:0::12::Harvest lumber~[702], journeyman
+6961:0::12::Harvest yew~[703], apprentice
+6961:0::12::Collect rare foliage~[704], apprentice
+6961:0::6::Trade~[730]
+6961:0::12::Conceal identity of trader~[731], apprentice
+6961:0::12::Find tradegood for sale~[732], journeyman
+6961:0::12::Find market for tradegood~[733], journeyman
+6961:0::6::Magic~[800]
+6961:0::12::Meditate~[801], apprentice
+6961:0::12::Perform common tasks for gold~[802], apprentice
+6961:0::12::Appear common~[803], apprentice
+6961:0::12::Tap health for aura~[806], apprentice
+6961:0::12::Heal~[807], apprentice
+6961:0::12::Modern magic script~[808], apprentice
+6961:0::12::Shroud abilities from scry~[809], apprentice
+6961:0::12::Detect ability scry~[811], apprentice
+6961:0::12::Dispel ability shroud~[812], apprentice
+6961:0::12::Advanced meditation~[813], apprentice
+6961:0::12::Hinder meditation~[814], apprentice
+6961:0::6::Artifact construction~[880]
+6961:0::12::Forge auraculum~[881], apprentice
+6961:0::6::Advanced sorcery~[920]
+6961:0::12::Trance~[921], apprentice
+6961:0::12::Teleport items~[922], apprentice
+6961:0::3::
+6961:0::3::Partially known skills:
+6961:0::6/6::Brew potion of death~[694], 0/21
+6961:0::6/6::Record skill on scroll~[695], 0/21
+6961:0::6/6::Collect rare elements~[696], 0/14
+6961:0::6/6::Turn lead into gold~[697], 0/28
+6961:0::3::
+6961:0::3::Inventory:
+6961:0::3::{<b>}      qty  name                              weight{</b>}
+6961:0::3::      ---  ----                              ------
+6961:0::3::   11,269  gold~[1]                               0  
+6961:0::3::        4  winged horses~[54]                 4,000  fly 600
+6961:0::3::        1  Wax Tablet~[t385]                      3  
+6961:0::3::                                             ======
+6961:0::3::                                              4,003
+6961:0::3::
+6961:0::3/11::Capacity:  3/700 land (0%), 103/600 ride (17%), 103/600 fly (17%)
+6961:0::3::
+6961:0::3::Pending trades:
+6961:0::3::
+6961:0::6::trade    price    qty   item
+6961:0::6::-----    -----    ---   ----
+6961:0::6:: sell        4    978   woven basket~[94]
+6961:0::6::  buy       97    324   ochre~[m039]
+6961:0::6::  buy       15    844   beans~[96757]
+6961:0::3::
+7438:0::3::
+7438:0::3/16::Location:       Ring of stones~[g370], in province Forest~[wd24], in Faery
+7438:0::3::Loyalty:        Oath-2
+7438:0::3::Health:         100%
+7438:0::3::Combat:         attack 131, defense 120, missile 0
+7438:0::3::                behind 0  (front line in combat)
+7438:0::3::Break point:    50%
+7438:0::3::use  641 1      (concealing self)
+7438:0::3::
+7438:0::3::Current aura:   16
+7438:0::3::Maximum aura:   16
+7438:0::3::
+7438:0::3::Skills known:
+7438:0::6::Combat~[610]
+7438:0::12::Survive fatal wound~[611]
+7438:0::12::Defense~[614], journeyman
+7438:0::12::Swordplay~[616], journeyman
+7438:0::6::Stealth~[630]
+7438:0::12::Petty thievery~[631], apprentice
+7438:0::12::Determine inventory of character~[632], apprentice
+7438:0::12::Determine character's lord~[634], adept
+7438:0::12::Conceal faction~[635], apprentice
+7438:0::12::Learn of richest nearby noble~[636], apprentice
+7438:0::12::Sneak into structure~[639], apprentice
+7438:0::12::Conceal self~[641], journeyman
+7438:0::6::Persuasion~[670]
+7438:0::12::Bribe noble~[671], apprentice
+7438:0::12::Persuade oathbound noble~[672], apprentice
+7438:0::12::Raise peasant mob~[673], apprentice
+7438:0::6::Magic~[800]
+7438:0::12::Meditate~[801], apprentice
+7438:0::12::Perform common tasks for gold~[802], apprentice
+7438:0::12::Appear common~[803], apprentice
+7438:0::6::Gatecraft~[860]
+7438:0::12::Teleport~[861], apprentice
+7438:0::12::Detect gates~[862], apprentice
+7438:0::12::Jump through gate~[863], apprentice
+7438:0::12::Seal gate~[864], apprentice
+7438:0::12::Unseal gate with key~[865], apprentice
+7438:0::12::Notify if gate unsealed~[866], apprentice
+7438:0::12::Forcefully unseal gate~[867], apprentice
+7438:0::12::Reveal gate key~[868], apprentice
+7438:0::12::Notify of gate jumps~[869], apprentice
+7438:0::12::Language of the Ancients~[871], apprentice
+7438:0::12::Reverse jump through gate~[872], apprentice
+7438:0::3::
+7438:0::3::Partially known skills:
+7438:0::6/6::View current aura level of others~[804], 14/21
+7438:0::3::
+7438:0::3::Inventory:
+7438:0::3::{<b>}      qty  name                              weight{</b>}
+7438:0::3::      ---  ----                              ------
+7438:0::3::    1,881  gold~[1]                               0  
+7438:0::3::        3  winged horses~[54]                 3,000  fly 450
+7438:0::3::        1  elfstone~[69]                          1  
+7438:0::3::                                             ======
+7438:0::3::                                              3,001
+7438:0::3::
+7438:0::3/11::Capacity:  1/550 land (0%), 101/450 ride (22%), 101/450 fly (22%)
+7438:0::3::
+7438:0::3::Pending trades:
+7438:0::3::
+7438:0::6::trade    price    qty   item
+7438:0::6::-----    -----    ---   ----
+7438:0::6:: sell        7     91   clay pot~[95]
+7438:0::3::
+8147:0::3::
+8147:0::3/16::Location:       Forest~[gb97], in Faery
+8147:0::3::Loyalty:        Fear-60
+8147:0::3::Stacked over:   Elena Lightfoot~[6609]
+8147:0::3::Health:         100%
+8147:0::3::Combat:         attack 198, defense 80, missile 0
+8147:0::3::                behind 5  (stay behind in combat)
+8147:0::3::Break point:    50%
+8147:0::3::Banner:         Confederation Faery Expedition
+8147:0::3::
+8147:0::3::Current aura:   2
+8147:0::3::Maximum aura:   2
+8147:0::3::
+8147:0::3::Skills known:
+8147:0::6::Combat~[610]
+8147:0::12::Survive fatal wound~[611]
+8147:0::12::Fight to the death~[612]
+8147:0::12::Construct catapult~[613], apprentice
+8147:0::12::Swordplay~[616], adept
+8147:0::6::Scrying~[840]
+8147:0::12::Scry location~[841], apprentice
+8147:0::3::
+8147:0::3::Inventory:
+8147:0::3::{<b>}      qty  name                              weight{</b>}
+8147:0::3::      ---  ----                              ------
+8147:0::3::   58,400  gold~[1]                               0  
+8147:0::3::        5  winged horses~[54]                 5,000  fly 750
+8147:0::3::       24  lana bark~[64]                        24  
+8147:0::3::       30  mallorn wood~[70]                    900  
+8147:0::3::        1  Golden ring~[z588]                     1  
+8147:0::3::                                             ======
+8147:0::3::                                              5,925
+8147:0::3::
+8147:0::3/11::Capacity:  925/850 land (108%), 1,025/750 ride (136%), 1,025/750 fly (136%)
+8147:0::3::
+8147:0::3::Pending trades:
+8147:0::3::
+8147:0::6::trade    price    qty   item
+8147:0::6::-----    -----    ---   ----
+8147:0::6:: sell      500    856   mithril~[82]
+8147:0::3::
+8520:0::3::
+8520:0::3/16::Location:       Hammerspire~[134223], in Hammerhome~[g129], in province Forest~[tv11], in Faery
+8520:0::3::Loyalty:        Oath-1
+8520:0::3::Health:         100%
+8520:0::3::Combat:         attack 80, defense 80, missile 50
+8520:0::3::                behind 9  (stay behind in combat)
+8520:0::3::Break point:    50%
+8520:0::3::use  641 1      (concealing self)
+8520:0::3::Banner:         Confederation Faery Expedition
+8520:0::3::
+8520:0::3::Current aura:   60
+8520:0::3::Maximum aura:   60 (19+41)
+8520:0::3::
+8520:0::3::Skills known:
+8520:0::6::Combat~[610]
+8520:0::12::Survive fatal wound~[611]
+8520:0::12::Archery~[615], apprentice
+8520:0::6::Stealth~[630]
+8520:0::12::Sneak into structure~[639], apprentice
+8520:0::12::Conceal self~[641], apprentice
+8520:0::6::Mining~[720]
+8520:0::12::Mine iron~[721], journeyman
+8520:0::12::Mine gold~[722], adept
+8520:0::12::Mine mithril~[723], journeyman
+8520:0::6::Magic~[800]
+8520:0::12::Meditate~[801], apprentice
+8520:0::12::Perform common tasks for gold~[802], journeyman
+8520:0::12::Appear common~[803], apprentice
+8520:0::12::Reveal abilities of another mage~[805], apprentice
+8520:0::12::Tap health for aura~[806], journeyman
+8520:0::12::Heal~[807], apprentice
+8520:0::12::Shroud abilities from scry~[809], apprentice
+8520:0::12::Dispel ability shroud~[812], apprentice
+8520:0::12::Advanced meditation~[813], apprentice
+8520:0::6::Weather magic~[820]
+8520:0::12::Fierce wind~[821], apprentice
+8520:0::12::Bind storm to ship~[822], apprentice
+8520:0::12::Scribe weather symbols~[823], journeyman
+8520:0::12::Summon rain~[824], journeyman
+8520:0::12::Summon wind~[825], apprentice
+8520:0::12::Summon fog~[826], apprentice
+8520:0::12::Direct storm~[827], apprentice
+8520:0::12::Dissipate storm~[828], apprentice
+8520:0::12::Renew storm strength~[829], apprentice
+8520:0::12::Lightning bolt~[831], apprentice
+8520:0::12::Seize control of storm~[832], apprentice
+8520:0::12::Fog of death~[833], apprentice
+8520:0::6::Scrying~[840]
+8520:0::12::Scry location~[841], adept
+8520:0::6::Artifact construction~[880]
+8520:0::12::Forge auraculum~[881], apprentice
+8520:0::12::Reveal creator of artifact~[882], apprentice
+8520:0::12::Reveal where artifact was created~[883], apprentice
+8520:0::12::Curse noncreator loyalty~[886], apprentice
+8520:0::12::Forge magical weapon~[887], apprentice
+8520:0::12::Forge magical armor~[888], apprentice
+8520:0::12::Forge magical bow~[889], apprentice
+8520:0::12::Dispel cloaking from artifact~[891], apprentice
+8520:0::12::Destroy artifact~[893], apprentice
+8520:0::12::Forge palantir~[894], apprentice
+8520:0::6::Advanced sorcery~[920]
+8520:0::12::Trance~[921], apprentice
+8520:0::12::Teleport items~[922], journeyman
+8520:0::3::
+8520:0::3::Partially known skills:
+8520:0::6/6::Learn of richest nearby noble~[636], 7/14
+8520:0::6/6::Torture prisoner~[637], 0/21
+8520:0::6/6::Shroud location from magical scry~[842], 0/14
+8520:0::6/6::Remove magical barrier~[846], 0/21
+8520:0::6/6::Locate character~[847], 0/21
+8520:0::6/6::Farcasting~[849], 0/21
+8520:0::6/6::Banish undead~[852], 0/21
+8520:0::3::
+8520:0::3::Inventory:
+8520:0::3::{<b>}      qty  name                              weight{</b>}
+8520:0::3::      ---  ----                              ------
+8520:0::3::    4,364  gold~[1]                               0  
+8520:0::3::        1  winged horse~[54]                  1,000  fly 150
+8520:0::3::        1  enchanted staff~[g463]                10  +1 aura
+8520:0::3::        1  Black Bag~[k119]                       1  
+8520:0::3::                                             ======
+8520:0::3::                                              1,011
+8520:0::3::
+8520:0::3/11::Capacity:  11/250 land (4%), 111/150 ride (74%), 111/150 fly (74%)
+8520:0::3::
+8520:0::3::Pending trades:
+8520:0::3::
+8520:0::6::trade    price    qty   item
+8520:0::6::-----    -----    ---   ----
+8520:0::6:: sell        7    983   clay pot~[95]
+8520:0::3::
+60810:0::3::
+60810:0::3/16::Location:       Plain~[at32], in Ormos
+60810:0::3::Loyalty:        Fear-79
+60810:0::3/16::Stacked under:  Lizard Man IV~[b990]
+60810:0::3::Health:         100%
+60810:0::3::Combat:         attack 80, defense 80, missile 0
+60810:0::3::                behind 5  (stay behind in combat)
+60810:0::3::Break point:    50%
+60810:0::3::
+60810:0::3::Skills known:
+60810:0::6::Combat~[610]
+60810:0::12::Survive fatal wound~[611]
+60810:0::6::Beastmastery~[650]
+60810:0::12::Breed beasts~[654], journeyman
+60810:0::3::
+60810:0::3::Partially known skills:
+60810:0::6/6::Fight to the death~[612], 14/28
+60810:0::3::
+60810:0::3::Inventory:
+60810:0::3::{<b>}      qty  name                              weight{</b>}
+60810:0::3::      ---  ----                              ------
+60810:0::3::      657  gold~[1]                               0  
+60810:0::3::        1  riding horse~[52]                  1,000  ride 150
+60810:0::3::       27  giant lizards~[282]               27,000   (45,45,0)
+60810:0::3::                                             ======
+60810:0::3::                                             28,000
+60810:0::3::
+60810:0::3/11::Capacity:  0/250 land (0%), 100/150 ride (66%)
+60810:0::3::
+60990:0::3::
+60990:0::3/16::Location:       Plain~[at32], in Ormos
+60990:0::3::Loyalty:        Oath-1
+60990:0::3/16::Stacked under:  Ugmot the Beast~[4075]
+60990:0::3::Stacked over:   Lizard Man III~[b810]
+60990:0::3::                Lizard Man II~[d422]
+60990:0::3::Health:         100%
+60990:0::3::Combat:         attack 80, defense 80, missile 0
+60990:0::3::                behind 5  (stay behind in combat)
+60990:0::3::Break point:    50%
+60990:0::3::
+60990:0::3::Skills known:
+60990:0::6::Combat~[610]
+60990:0::12::Survive fatal wound~[611]
+60990:0::12::Fight to the death~[612]
+60990:0::6::Beastmastery~[650]
+60990:0::12::Breed beasts~[654], master
+60990:0::3::
+60990:0::3::Inventory:
+60990:0::3::{<b>}      qty  name                              weight{</b>}
+60990:0::3::      ---  ----                              ------
+60990:0::3::    5,260  gold~[1]                               0  
+60990:0::3::        6  winged horses~[54]                 6,000  fly 900
+60990:0::3::       60  giant lizards~[282]               60,000   (45,45,0)
+60990:0::3::                                             ======
+60990:0::3::                                             66,000
+60990:0::3::
+60990:0::3/11::Capacity:  0/1,000 land (0%), 100/900 ride (11%), 60,100/900 fly (6677%)
+60990:0::3::
+62422:0::3::
+62422:0::3/16::Location:       Plain~[at32], in Ormos
+62422:0::3::Loyalty:        Fear-78
+62422:0::3/16::Stacked under:  Lizard Man IV~[b990]
+62422:0::3::Health:         100%
+62422:0::3::Combat:         attack 80, defense 80, missile 0
+62422:0::3::                behind 5  (stay behind in combat)
+62422:0::3::Break point:    50%
+62422:0::3::
+62422:0::3::Skills known:
+62422:0::6::Combat~[610]
+62422:0::12::Survive fatal wound~[611]
+62422:0::12::Fight to the death~[612]
+62422:0::6::Beastmastery~[650]
+62422:0::12::Breed beasts~[654], journeyman
+62422:0::3::
+62422:0::3::Inventory:
+62422:0::3::{<b>}      qty  name                              weight{</b>}
+62422:0::3::      ---  ----                              ------
+62422:0::3::      993  gold~[1]                               0  
+62422:0::3::        2  riding horses~[52]                 2,000  ride 300
+62422:0::3::       28  giant lizards~[282]               28,000   (45,45,0)
+62422:0::3::                                             ======
+62422:0::3::                                             30,000
+62422:0::3::
+62422:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%)
+62422:0::3::
+69683:0::3::
+69683:0::3/16::Location:       Mountain~[az26], in Ormos
+69683:0::3::Loyalty:        Fear-59
+69683:0::3::Health:         100%
+69683:0::3::Combat:         attack 97, defense 80, missile 50
+69683:0::3::                behind 5  (stay behind in combat)
+69683:0::3::Break point:    50%
+69683:0::3::Banner:         Confederation Faery Expedition
+69683:0::3::
+69683:0::3::Skills known:
+69683:0::6::Combat~[610]
+69683:0::12::Survive fatal wound~[611]
+69683:0::12::Fight to the death~[612]
+69683:0::12::Construct catapult~[613], apprentice
+69683:0::12::Defense~[614], apprentice
+69683:0::12::Archery~[615], apprentice
+69683:0::12::Swordplay~[616], apprentice
+69683:0::12::Weaponsmithing~[617], apprentice
+69683:0::6::Construction~[680]
+69683:0::12::Construct siege tower~[681], apprentice
+69683:0::12::Stone quarrying~[682], master
+69683:0::3::
+69683:0::3::Inventory:
+69683:0::3::{<b>}      qty  name                              weight{</b>}
+69683:0::3::      ---  ----                              ------
+69683:0::3::    4,707  gold~[1]                               0  
+69683:0::3::        5  workers~[11]                         500  cap 500 (1,1,0)
+69683:0::3::        3  winged horses~[54]                 3,000  fly 450
+69683:0::3::        1  elfstone~[69]                          1  
+69683:0::3::       11  oxen~[76]                         22,000  cap 16,500
+69683:0::3::      100  stone~[78]                        10,000  
+69683:0::3::                                             ======
+69683:0::3::                                             35,501
+69683:0::3::
+69683:0::3/11::Capacity:  10,001/17,550 land (56%), 10,601/450 ride (2355%), 32,601/450 fly (7244%)
+69683:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Freehold~[gz2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/gz2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [gz2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        15  30th   
+0:0::3/41::Men:                              147  61st   
+0:0::3/41::Gold:                         101,499  24th   
+0:0::3/41::Land controlled:                   27  67th   
+0:0::3/41::Skills known:                   53/74  32nd   
+0:0::3/41::Spells known:                   56/79  51st   
+0:0::3/41::Provinces visited:       1,423/31,919  11th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  4     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  101885 b736 82836 97376 128347
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::b990   at32   o1    100  5    5260                     4075   Lizard Man IV
+0:0::0::b810   at32   f79   100  5     657                     b990   Lizard Man III
+0:0::0::d422   at32   f78   100  5     993                     b990   Lizard Man II
+0:0::0::n683   az26   f59   100  5    4707         5                  Hammerhill
+0:0::0::2414   az26   o1    100  5    3508        26        19        Dig Dug
+0:0::0::6961   s280   o1    100  5 27  11k                            Brys - Dyfed
+0:0::0::4552   8254   o1    100  5    1911                            Leander
+0:0::0::1063   g129   o2    100  0  2 5667        88                  Lazarus Long
+0:0::0::8520   134223 o1    100  9 60 4364                            Spooky Guy
+0:0::0::6233   rs45   f59   100  9     624    9                       Garrison 2
+0:0::0::4630   rs45   f64   100  9     460                     6233   Garrison 1
+0:0::0::5949   rs45   f82   100  0     274                     6233   Llana
+0:0::0::7438   g370   o2    100  0 16 1881                            Friday
+0:0::0::8147   gb97   f60   100  5  2  58k                            Mithril Man
+0:0::0::6609   gb97   o1    100  0    1524                     8147   Elena Lightfoot
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              101k    9  119        19
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Ormos
+0:0::0::  Plain~[at32]                       Lizard Man IV~[b990]
+0:0::0::                                     Lizard Man III~[b810]
+0:0::0::                                     Lizard Man II~[d422]
+0:0::0::  Mountain~[az26]                  Hammerhill Quarrier~[n683]
+0:0::0::                                   Dig Dug~[2414]
+0:0::0::  Forest of Arden~[ba29]
+0:0::0::    Dyfed~[z91]
+0:0::0::      Tawaa Kaigan~[s280]          Brys - Dyfed Trader~[6961]
+0:0::0::Faery
+0:0::0::  Forest~[tv11]
+0:0::0::    Faery hill~[a023]
+0:0::0::      Temple of the Hand~[8254]    Leander the Monk~[4552]
+0:0::0::      Hammerhome~[g129]            Lazarus Long~[1063]
+0:0::0::      Hammerspire~[134223]         Spooky Guy~[8520]
+0:0::0::  Forest~[rs45]                    Garrison 2~[6233]
+0:0::0::                                     Garrison 1~[4630]
+0:0::0::                                     Llana Bushstriker~[5949]
+0:0::0::  Forest~[wd24]
+0:0::0::    Ring of stones~[g370]          Friday~[7438]
+0:0::0::  Forest~[gb97]                    Mithril Man~[8147]
+0:0::0::                                     Elena Lightfoot~[6609]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  b990     124,300      1,650   0%      1,050  22%  (117,400)  -- 
+0:0::0::  b810      28,100        250   0%         50  66%                
+0:0::0::  d422      30,100        400   0%        200  33%                
+0:0::0::  n683      35,601      7,549  56%   (10,151)  --    (32,151)  -- 
+0:0::0::  2414      19,248      6,052   9%    (3,148) 249%                
+0:0::0::  6961       4,103        697   0%        497  17%        497  17%
+0:0::0::  4552       1,100        250   0%         50  66%                
+0:0::0::  1063     255,604     17,046  40%      (954) 104%  (206,154)  -- 
+0:0::0::  8520       1,111        239   4%         39  74%         39  74%
+0:0::0::  6233     137,200     10,200   0%      7,800  13%   (98,100)  -- 
+0:0::0::  4630         100        100   0%                                
+0:0::0::  5949     135,100      8,950   0%      8,750   1%   (96,000)  -- 
+0:0::0::  7438       3,101        549   0%        349  22%        349  22%
+0:0::0::  8147     163,125      9,925   8%      9,525  10%  (109,075)  -- 
+0:0::0::  6609     157,100     10,000   0%      9,800   1%  (108,800)  -- 
+0:0::0::
+0:0::0::storm  kind  owner   loc  strength
+0:0::0::-----  ----  -----  ----  --------
+0:0::0::149765  rain   8520  nv94     6
+0:0::0::
+0:0::0::garr where  men cost  tax forw castle rulers
+0:0::0::---- -----  --- ----  --- ---- ------ ------
+0:0::0::6983  jc35   10   10   50    8  g129  1063
+0:0::0::99727  nn35   10   10   50    8  g129  1063
+0:0::0::5226  wk05   10   10   50    8  g129  1063
+0:0::0::s615  vb04   10   10   50    8  g129  1063
+0:0::0::1663  mz30   10   10  100   18  g129  1063
+0:0::0::3889  tx00   10   10   50    8  g129  1063
+0:0::0::2316  ng23   10   10   50    8  g129  1063
+0:0::0::111720  nj28   10   10  100   18  g129  1063
+0:0::0::4377  xd43   10   10  150   28  g129  1063
+0:0::0::121129  mt61   10   10  100   18  g129  1063
+0:0::0::118481  ga28   10   10  100   18  g129  1063
+0:0::0::4232  sg64   10   10  150   28  g129  1063
+0:0::0::88875  tv11   10   10  250    -  g129  1063
+0:0::0::x486  kc21   10   10  150   28  g129  1063
+0:0::0::108902  qm99   10   10   50    8  g129  1063
+0:0::0::120118  vd20   10   10  100   18  g129  1063
+0:0::0::2877  jx44   10   10  150   28  g129  1063
+0:0::0::5748  xn49   10   10  100   18  g129  1063
+0:0::0::139820  rs45   10   20   50    6  g129  1063
+0:0::0::6894  tq42   10   10   50    8  g129  1063
+0:0::0::90222  zq95   10   10   50    8  g129  1063
+0:0::0::97511  ms39   10   10  100   18  g129  1063
+0:0::0::97205  qh75   10   10   50    8  g129  1063
+0:0::0::8965  wj59   10   10   50    8  g129  1063
+0:0::0::115206  xs06   10   10   50    8  g129  1063
+0:0::0::2931  sh69   10   10   50    8  g129  1063
+0:0::0::9143  nt84   10   10   50    8  g129  1063
+0:0::0::
+2:0::0::
+2:0::0::Turn lead into gold~[697]
+2:0::0::-------------------------
+2:0::0::Usage:     USE 697 [amount]
+2:0::0::Time:      one week
+2:0::0::Requires:  one farrenstone [67]
+2:0::0::
+2:0::0::Using obscure chemical processes, the Alchemist may turn lead
+2:0::0::into gold.  One unit of farrenstone is required as a catalyst
+2:0::0::for the conversion.
+2:0::0::
+2:0::0::Up to 20 units of lead may be converted with each use of 697.
+2:0::0::Amount defaults to 20 or all of the lead in the Alchemist's
+2:0::0::inventory, whichever is less.  Each unit of lead yields 10 gold
+2:0::0::after conversion.
+2:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Freehold~[gz2]"><font size=+1><b>The Freehold~[gz2]</b></font>
+1:2::0::<hr>
+1:1::0::The Freehold~[gz2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51812
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison log"><font size=+1><b>Garrison log</b></font>
+1:2::0::<hr>
+1:1::0::Garrison log
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Lizard Man IV~[b990]"><font size=+1><b>Lizard Man IV~[b990]</b></font>
+1:2::0::<hr>
+1:1::0::Lizard Man IV~[b990]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 60990
+1:0::0::
+1:2::0::
+1:2::0::<name="Lizard Man III~[b810]"><font size=+1><b>Lizard Man III~[b810]</b></font>
+1:2::0::<hr>
+1:1::0::Lizard Man III~[b810]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 60810
+1:0::0::
+1:2::0::
+1:2::0::<name="Lizard Man II~[d422]"><font size=+1><b>Lizard Man II~[d422]</b></font>
+1:2::0::<hr>
+1:1::0::Lizard Man II~[d422]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 62422
+1:0::0::
+1:2::0::
+1:2::0::<name="Hammerhill Quarrier~[n683]"><font size=+1><b>Hammerhill Quarrier~[n683]</b></font>
+1:2::0::<hr>
+1:1::0::Hammerhill Quarrier~[n683]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 69683
+1:0::0::
+1:2::0::
+1:2::0::<name="Dig Dug~[2414]"><font size=+1><b>Dig Dug~[2414]</b></font>
+1:2::0::<hr>
+1:1::0::Dig Dug~[2414]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2414
+1:0::0::
+1:2::0::
+1:2::0::<name="Brys - Dyfed Trader~[6961]"><font size=+1><b>Brys - Dyfed Trader~[6961]</b></font>
+1:2::0::<hr>
+1:1::0::Brys - Dyfed Trader~[6961]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6961
+1:0::0::
+1:2::0::
+1:2::0::<name="Leander the Monk~[4552]"><font size=+1><b>Leander the Monk~[4552]</b></font>
+1:2::0::<hr>
+1:1::0::Leander the Monk~[4552]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4552
+1:0::0::
+1:2::0::
+1:2::0::<name="Lazarus Long~[1063]"><font size=+1><b>Lazarus Long~[1063]</b></font>
+1:2::0::<hr>
+1:1::0::Lazarus Long~[1063]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1063
+1:0::0::
+1:2::0::
+1:2::0::<name="Spooky Guy~[8520]"><font size=+1><b>Spooky Guy~[8520]</b></font>
+1:2::0::<hr>
+1:1::0::Spooky Guy~[8520]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 8520
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison 2~[6233]"><font size=+1><b>Garrison 2~[6233]</b></font>
+1:2::0::<hr>
+1:1::0::Garrison 2~[6233]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6233
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison 1~[4630]"><font size=+1><b>Garrison 1~[4630]</b></font>
+1:2::0::<hr>
+1:1::0::Garrison 1~[4630]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4630
+1:0::0::
+1:2::0::
+1:2::0::<name="Llana Bushstriker~[5949]"><font size=+1><b>Llana Bushstriker~[5949]</b></font>
+1:2::0::<hr>
+1:1::0::Llana Bushstriker~[5949]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5949
+1:0::0::
+1:2::0::
+1:2::0::<name="Friday~[7438]"><font size=+1><b>Friday~[7438]</b></font>
+1:2::0::<hr>
+1:1::0::Friday~[7438]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7438
+1:0::0::
+1:2::0::
+1:2::0::<name="Mithril Man~[8147]"><font size=+1><b>Mithril Man~[8147]</b></font>
+1:2::0::<hr>
+1:1::0::Mithril Man~[8147]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 8147
+1:0::0::
+1:2::0::
+1:2::0::<name="Elena Lightfoot~[6609]"><font size=+1><b>Elena Lightfoot~[6609]</b></font>
+1:2::0::<hr>
+1:1::0::Elena Lightfoot~[6609]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6609
+1:2::0::
+1:2::0::<name="Desert~[as30]"><font size=+1><b>Desert~[as30]</b>, desert, in Ormos, civ-1</font>
+1:2::0::<hr>
+1:1::0::Desert~[as30], desert, in Ormos, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11430
+1:0::0::
+1:2::0::
+1:2::0::<name="Hereford~[w63]"><font size=+1><b>Hereford~[w63]</b>, city, in province Desert~[as30]</font>
+1:2::0::<hr>
+1:1::0::Hereford~[w63], city, in province Desert~[as30]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58523
+1:0::0::
+1:2::0::
+1:2::0::<name="Sewer~[d754]"><font size=+1><b>Sewer~[d754]</b>, sewer, in Desert~[as30], hidden</font>
+1:2::0::<hr>
+1:1::0::Sewer~[d754], sewer, in Desert~[as30], hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 62754
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[at30]"><font size=+1><b>Plain~[at30]</b>, plain, in Ormos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[at30], plain, in Ormos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11530
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[at31]"><font size=+1><b>Desert~[at31]</b>, desert, in Ormos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[at31], desert, in Ormos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11531
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[at32]"><font size=+1><b>Plain~[at32]</b>, plain, in Ormos, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[at32], plain, in Ormos, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11532
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[az26]"><font size=+1><b>Mountain~[az26]</b>, mountain, in Ormos, civ-1</font>
+1:2::0::<hr>
+1:1::0::Mountain~[az26], mountain, in Ormos, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11926
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest of Arden~[ba29]"><font size=+1><b>Forest of Arden~[ba29]</b>, forest, in Ormos, civ-4</font>
+1:2::0::<hr>
+1:1::0::Forest of Arden~[ba29], forest, in Ormos, civ-4
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12029
+1:0::0::
+1:2::0::
+1:2::0::<name="Dyfed~[z91]"><font size=+1><b>Dyfed~[z91]</b>, city, in province Forest of Arden~[ba29]</font>
+1:2::0::<hr>
+1:1::0::Dyfed~[z91], city, in province Forest of Arden~[ba29]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58751
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jc35]"><font size=+1><b>Forest~[jc35]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jc35], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 24235
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nn35]"><font size=+1><b>Forest~[nn35]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nn35], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31035
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wk05]"><font size=+1><b>Forest~[wk05]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wk05], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44805
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vb04]"><font size=+1><b>Forest~[vb04]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vb04], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42104
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mz30]"><font size=+1><b>Forest~[mz30]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mz30], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29930
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tx00]"><font size=+1><b>Forest~[tx00]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tx00], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41800
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ng23]"><font size=+1><b>Forest~[ng23]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ng23], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30523
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nj28]"><font size=+1><b>Forest~[nj28]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nj28], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30728
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xd43]"><font size=+1><b>Forest~[xd43]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xd43], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46343
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mt61]"><font size=+1><b>Forest~[mt61]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mt61], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29561
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ga28]"><font size=+1><b>Forest~[ga28]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ga28], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20028
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sg64]"><font size=+1><b>Forest~[sg64]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sg64], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38564
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tv11]"><font size=+1><b>Forest~[tv11]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tv11], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41611
+1:0::0::
+1:2::0::
+1:2::0::<name="Faery hill~[a023]"><font size=+1><b>Faery hill~[a023]</b>, faery hill, in province Forest~[tv11]</font>
+1:2::0::<hr>
+1:1::0::Faery hill~[a023], faery hill, in province Forest~[tv11]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 59023
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kc21]"><font size=+1><b>Forest~[kc21]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kc21], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26221
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wj22]"><font size=+1><b>Forest~[wj22]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wj22], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44722
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tf89]"><font size=+1><b>Forest~[tf89]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tf89], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 40489
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qm99]"><font size=+1><b>Forest~[qm99]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qm99], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 34999
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vd20]"><font size=+1><b>Forest~[vd20]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vd20], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42320
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jx44]"><font size=+1><b>Forest~[jx44]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jx44], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25844
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xn49]"><font size=+1><b>Forest~[xn49]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xn49], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47049
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rs45]"><font size=+1><b>Forest~[rs45]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rs45], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 37445
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wd24]"><font size=+1><b>Forest~[wd24]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wd24], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44324
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tq42]"><font size=+1><b>Forest~[tq42]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tq42], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41242
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zq95]"><font size=+1><b>Forest~[zq95]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zq95], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49295
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ms39]"><font size=+1><b>Forest~[ms39]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ms39], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29439
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qh75]"><font size=+1><b>Forest~[qh75]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qh75], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 34675
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wj59]"><font size=+1><b>Forest~[wj59]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wj59], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44759
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nv94]"><font size=+1><b>Forest~[nv94]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nv94], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31694
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gb97]"><font size=+1><b>Forest~[gb97]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gb97], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20197
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[pz62]"><font size=+1><b>Forest~[pz62]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[pz62], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 33962
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vm99]"><font size=+1><b>Forest~[vm99]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vm99], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42999
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wn80]"><font size=+1><b>Forest~[wn80]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wn80], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45080
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xs06]"><font size=+1><b>Forest~[xs06]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xs06], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47406
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sh69]"><font size=+1><b>Forest~[sh69]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sh69], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38669
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nt84]"><font size=+1><b>Forest~[nt84]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nt84], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31584
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rr89]"><font size=+1><b>Forest~[rr89]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rr89], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 37389
+1:0::0::
+1:2::0::
+1:2::0::<name="Tunnel~[xj91]"><font size=+1><b>Tunnel~[xj91]</b>, tunnel, in Undercity</font>
+1:2::0::<hr>
+1:1::0::Tunnel~[xj91], tunnel, in Undercity
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46791
+1:0::0::
+1:2::0::
+1:2::0::<name="Lore sheets"><font size=+1><b>Lore sheets</b></font>
+1:2::0::<hr>
+1:1::0::Lore sheets
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

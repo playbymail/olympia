@@ -1,0 +1,189 @@
+
+Magic
+-----
+
+Magic is the dark art by which events are influenced outside of the
+normal boundaries of cause-and-effect.  Rather than the glamorous
+ideal of shining wizards casting powerful fireballs at wicked foes,
+the reality of magic instead tends to be base, tedious work which
+earns few friends.
+
+Hated and feared, the magician pursues his craft out of the sight of
+men.  Like wisps of smoke rising from an ember cast into dry straw,
+so the mage's spells slowly take hold, woven with secret knowledge
+and foul ingredients.
+
+The casting of a magical spell is accomplished with three ingredients:
+Knowledge of the spell, possession of any items necessary to fuel the
+spell, and a sufficient level of magical aura to perform the ritual or
+ceremony.
+
+
+Aura
+----
+
+Aura is a mystical force necessary to cast spells.  Powerful mages will
+have a high aura rating, while apprentice sorcerers may only command a
+few points worth of aura.
+
+Characters are rated for their current aura level and their maximum aura
+level.  Maximum aura will automatically increase as the magician studies
+spells and practices their use.  Current aura is depleted by casting
+spells.  It is naturally replenished at a rate not less than one point
+per turn.  Other ways of gaining current aura may be found as the mage
+researches his craft.
+
+Spells are rated on the amount of aura which the casting mage must
+possess.  Minor spells may demand only one point of aura to cast.
+Powerful spells may require a current aura level of ten or higher.
+
+
+Required Items
+--------------
+
+Many spells will require the magician to possess a rare or obscure item
+in order for the cast to succeed.  Many of these items exist, of interest
+chiefly to sorcerers.  Roots from plants found only in dense forests,
+bat's wings, and a dark blue powder which produces a brilliant cobalt
+flame when burned are only a few.  Usually the required item is consumed
+by the attempt to cast the spell.
+
+
+Study of Spells
+---------------
+
+Magic is divided into six main schools of study:
+
+	160  Magic
+	161  Weather magic
+	162  Scrying
+	163  Gatecraft
+	164  Artifact construction
+	165  Necromancy
+
+An aspiring mage will issue the STUDY order to learn the basics of a
+particular school of magic, known as the category skill.  For example,
+one wishing to pursue knowledge of Magic [160] would order:
+
+	STUDY 160
+
+Once the category skill has been learned, the mage will receive a lore
+sheet listing some of the known spells of that school.  The magician may
+then attempt to learn these spells through study.
+
+A character must know the category skill for a school of magic before a
+spell in that school can be known.
+
+Only some of the spells in the each school are commonly known.  The more
+rare, obscure or powerful spells will need to be discovered via RESEARCH
+or by finding magic scrolls describing them.
+
+Knowledge of individual spells in a school of magic is not possible
+without having learned the category skill.
+
+
+Forgetting Spells
+-----------------
+
+Spells often consist of knowledge of detailed rituals, complex incantations
+and obscure knowledge which is difficult to remember.  It is hard for a
+magician to remember many spells simultaneously.  A magician may only know
+as many spells as his FAME level rating.  Attempts to learn further spells
+will cause a random existing spell to be forgotten.
+
+A magician may use the FORGET order to deliberately remove a spell from
+memory.  This is usually preferably to forgetting a spell at random.
+
+
+Scrolls and Artifacts
+---------------------
+
+Magicians need not be limited to only casting spells which they can
+remember.  Spells can be written on scrolls or trapped within magical
+artifacts.  A written spell may be cast, without having to learn it, so
+long as the mage can read the language in which the spell is written.
+Trapped spells in artifacts may be cast so long as the mage has possession
+of the item.
+
+Spells may be learned from a scroll with with the STUDY <spell> order.
+So long as the mage knows the language the spell is written in, and the
+scroll is in his possession, the spells may be copied from it into the
+magician's memory.
+
+It is not necessary to STUDY a spell from a scroll to use it.  If the
+mage knows the language of the scroll, and possesses it, spells contained
+on the scroll may be cast with the USE <spell> order.
+
+Magical artifacts may have spells trapped within them.  Such spells may
+be cast with the USE <spell> order.  However, spells may not be studied
+from artifacts.
+
+For example, suppose a mage has a scroll [873] and an artifact [921]:
+	
+	Scroll [873]
+	Artifact [921]
+
+USE 873 reveals that the scroll is written in a language which the mage
+understands, and that the scroll contains the spell [9101].  The mage also
+learns, by some means, that the artifact contains spell [9105].
+
+	Scroll [873]	(contains spell 9101)
+	Artifact [921]	(contains spell 9105)
+
+The mage may do the following:
+
+	USE 9101      # Cast spell from scroll -- not necessary to learn it
+	STUDY 9101    # Learn spell from scroll
+	USE 9105      # Cast spell from artifact
+
+The mage cannot perform STUDY 9105, since spells may not be learned from
+artifacts, only used.
+
+Various spells control the creation, writing and use of spells and
+artifacts.  A magician can expect to master these uses only after extensive
+study and research.
+
+
+Schools of Magic
+----------------
+
+Magic [106]
+
+    The most common and well-known of the magical schools, Magic
+    nonetheless has many useful and powerful spells.
+
+    Since many cities offer instruction in Magic, and several useful
+    spells may be learned quickly, apprentice mages often begin their
+    studies here.
+
+Weather magic [161]
+
+    The study of spells to control the elements.  Advanced weather
+    magicians are said to research forgotten elf-lore in the hopes of
+    finding tools to battle evil.
+
+Scrying [162]
+
+    Scrying is the study of magical far-seeing, the ability to view
+    images or learn information at a distance.
+
+Gatecraft [163]
+
+    The study of ancient portals of teleportation which long ago connected
+    distant regions of the land.  Knowledge of this lost art tends to be
+    difficult to acquire and jealously guarded when found.
+
+Artifact construction [164]
+ 
+    The realm of very advanced sorcerers, artifact construction concerns
+    the making of physical items to focus, amplify or otherwise enhance
+    a mage's power.  Most spells in this school require the magician to
+    possess high levels of aura.
+
+Necromancy [165]
+
+    The darkest of the Dark Arts, necromancy involves trafficking with
+    undead or demon spirits to gain knowledge.  Hated by civilized men,
+    feared by other magicians, the necromancer seeks power and domination
+    over the physical world.
+

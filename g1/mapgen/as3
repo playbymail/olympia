@@ -1,0 +1,39 @@
+/=================================================\
+|                                                 |    /================\
+|                 unexplored                      |    | Map of Olympia |
+|                                 .               |    \================/
+|    ooooo                 ooo           .  .  .  |
+|   oooooooooooooooo  oooooooooooooo              |      (not to scale)
+|  ooooooooooooooooo  oooooooooooooooo            |
+| oooooo WC ooooooo    ooooooo EC oooo     oo     |  WC  West Camaris
+| oooooooooooooooo  oo     oooooooooooo    oooo   |  SC  South Camaris
+|  oooooooooooooo  oooooo      ooooooo      ooo   |  EC  East Camaris
+|   oooooooooooo  oo SC ooooo  ooooooo            |  TB  Torba Bacor
+|        oooooo  ooooooooooo      oo     oooooo   |
+|                                       oo TB oo  |
+|                o          oooo        oooooooo  |       N
+| .   oo    .   ooooo  .   oooo           ooooo   |       |
+|    ooooo     ooooooo                            |     W-+-E
+|     ooooooooooooooo            ooooo            |       |
+|  .    ooo DR ooo       ooooooooooooooo     .    |       S
+|        ######           ooooooooooooo           |
+|   oooooooooooooooo        ooooo             .   |  Map edges wrap E-W
+| oooooooooooooooooooo      ooooooo     oo        |
+| ooooooooo*oooo PR ooo    ooooooooo   ooooo      |
+|  oooooo     oooooooo     ooo OS oooo  oooooo    |  DR  Drucartan
+| oooooo  oo   ooooooo      oooooooooo   oooooo   |  #   Uldim mountains
+| ooooo  oooo   oooooo           oooooooooooooo   |
+|  ooo   oooo            ooooooo   oooooooooooo   |  PR  Provinia
+|   S                   oooooooooo                |  *   Imperial city
+|  oooo   ooo    .    ooooooooooooo          ooo  |  OS  Ossicus
+| oooooo  ooo         oooo TO oooo     oooooooooo |
+| o WI o               oooooooo    oooooooooooooo |  S   Summerbridge
+|  oooo  ooo            oooooo   ooooooo RI oooo  |  WI  West Ilion
+|       ooooooooooooo     oo   oooooooooooooooo   |  TO  Tollus
+|  .   oo KR ooooooooo       ooooooo   ooo        |  RI  Rimmon
+|       ooooooooooooo   .   ooooooo           .   |  KR  Krussos
+|        oooo                             .       |
+|                                                 |
+|                 unexplored                      |  .   small islands
+|                                                 |
+\=================================================/

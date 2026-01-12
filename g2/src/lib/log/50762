@@ -1,0 +1,402 @@
+16678:0::0:0:Garrison~[2610], garrison, with ten~peasants guards Forest~[dh78].
+15368:0::0:0:Garrison~[84763], garrison, with ten~soldiers guards Wicca's Lament~[cr68].
+16283:0::0:0:Garrison~[105228], garrison, with ten~soldiers guards The Shadowlands~[dc83].
+16283:0::0:4:It has begun to rain.
+15368:0::0:10:Danillo Than~[92932], with two~winged horses, arrived from the west.
+15368:0::0:18:Danillo Than~[92932], with two~winged horses, went east.
+15368:0::0:21:It has begun to rain.
+15368:0::0::
+15368:0::0::Province controlled by First Castle~[2468], castle, in Musketeer Lands~[bz72]
+15368:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+15368:0::0::
+15368:0::0::Routes leaving Wicca's Lament: 
+15368:0::3::North, to Plain~[cq68], 7~days
+15368:0::3::East, forest, to The Moonlands~[cr69], 8~days
+15368:0::3::South, forest, to The Moonlands~[cs68], 8~days
+15368:0::3::West, desert, to The Moonlands~[cr67], 8~days
+15368:0::0::
+15368:0::0::Inner locations:
+15368:0::3::Bog~[f184], bog, 1 day
+15368:0::3::Bog~[m766], bog, 1 day
+15368:0::0::
+15368:0::0::It is raining.
+15368:0::0::
+15368:0::0::Seen here:
+15368:0::0/3::   Garrison~[84763], garrison, on guard, with ten~soldiers
+16283:0::0::
+16283:0::0::Province controlled by Het Steen~[4681], castle, in The Shadowlands~[da82]
+16283:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+16283:0::0::
+16283:0::0::Routes leaving The Shadowlands: 
+16283:0::3::North, forest, to The Shadowlands~[db83], 8~days
+16283:0::3::East, forest, to The Shadowlands~[dc84], 8~days
+16283:0::3::South, mountain, to The Shadowlands~[dd83], 10~days
+16283:0::3::West, desert, to The Shadowlands~[dc82], 8~days
+16283:0::0::
+16283:0::0::Inner locations:
+16283:0::3::Stoga~[m94], city, 1 day
+16283:0::3::Grassy field~[q288], pasture, 1 day
+16283:0::3::Rocky hill~[c680], rocky hill, 1 day
+16283:0::0::
+16283:0::0::It is raining.
+16283:0::0::
+16283:0::0::Seen here:
+16283:0::0/3::   Garrison~[105228], garrison, on guard, with ten~soldiers
+16678:0::0::
+16678:0::0::Routes leaving Forest: 
+16678:0::3::North, desert, to The Shadowlands~[dg78], 8~days
+16678:0::3::East, to Ocean~[dh79], Great Sea, impassable
+16678:0::3::South, to Ocean~[dj78], Great Sea, impassable
+16678:0::3::West, forest, to The Shadowlands~[dh77], 8~days
+16678:0::0::
+16678:0::0::Inner locations:
+16678:0::3::Yellowleaf~[r52], port city, safe haven, 1 day
+16678:0::0::
+16678:0::0::It is raining.
+16678:0::0::
+16678:0::0::Seen here:
+16678:0::0/3::   Garrison~[2610], garrison, on guard, with ten~peasants
+16678:0::0/3::   Lord Gary~[103357]
+58112:0::0::
+58112:0::0::Routes leaving Yellowleaf: 
+58112:0::3::East, to Ocean~[dh79], Great Sea, 1~day
+58112:0::3::South, to Ocean~[dj78], Great Sea, 1~day
+58112:0::3::Out, to Forest~[dh78], 1~day
+58112:0::0::
+58112:0::0::Cities rumored to be nearby:
+58112:0::3::Alexandria~[h11], in The Shadowlands~[dj74]
+58112:0::3::Omaha Beach~[p97], in North Coast Highlands~[dp77]
+58112:0::3::Elantir~[s99], in The Shadowlands~[dc79]
+58112:0::3::Azrain~[z68], in The Shadowlands~[dh77]
+58112:0::0::
+58112:0::0::Skills taught here:
+58112:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58112:0::0::
+58112:0::0::Market report:
+58112:0::3::
+58112:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58112:0::3::-----    ---   -----    ---     -----   ----                     
+58112:0::3::  buy    r52     193      7        30   jeweled eggs~[r537]      
+58112:0::3::  buy    r52       2    100         2   fish~[87]                
+58112:0::3::  buy    r52     119     26       100   cassava~[m685]           
+58112:0::3::  buy    r52      62     47        50   soap~[148496]            
+58112:0::3::  buy    r52       4     15         1   woven baskets~[94]       
+58112:0::3:: sell    r52      50     10       100   pitch~[261]              
+58112:0::3:: sell    r52      37     29        43   tea~[m589]               
+58112:0::3:: sell    r52      37     32        43   tea~[134952]             
+58112:0::3:: sell    r52      12     25        30   wood~[77]                
+58112:0::3:: sell    r52     110     39       100   purple cloth~[f508]      
+58112:0::0::
+58112:0::0::Inner locations:
+58112:0::3::Tower of Liss~[9120], tower, defense~40, owner:
+58112:0::0/6::      Lisbron~[7813]
+58112:0::3::Fool's Guild~[8516], tower, defense~40
+58112:0::3::Quiet Refuge~[3050], tower, defense~40, owner:
+58112:0::0/6::      Teram Xifar~[3118]
+58112:0::3::House of Mirrors~[7473], tower, defense~40
+58112:0::3::The Gray Tower~[2928], tower, defense~40
+58112:0::0::
+58112:0::0::It is raining.
+58112:0::0::
+58112:0::0::Seen here:
+58112:0::0/3::   Kain of Ember~[118477]
+58112:0::0/3::   Tenser~[89770]
+58112:0::0/3::   Elias Swift~[g822]
+58112:0::0/3::   Lord Derfel~[7774]
+58112:0::0/3::   Elise~[3775]
+58112:0::0/3::   mary~[1161]
+58112:0::0/3::   Myrandel Shylantra~[f429]
+58112:0::0::
+58112:0::0::Ships docked at port:
+58112:0::3/3::Whisper~[w141], galley, 4% loaded, defense~20, owner:
+58112:0::0/6::      Morgan Walker~[c335]
+58112:0::0/6::      Francis Theopholus~[d413]
+58112:0::3/3::Corinth~[5512], roundship, 2% loaded, defense~10, 36%~damaged, owner:
+58112:0::0/6::      Duthan~[6374]
+58112:0::3/3::Ice Queen~[s137], roundship, 0% loaded, defense~10, 33%~damaged
+5:0::0::
+5:0::0::begin cy2 "brother"  # The Elthargrimm
+5:0::0::
+5:0::0::unit cy2  # The Elthargrimm
+5:0::0::
+5:0::0::unit z059  # Gruumsh, 'One-Eye' in Wicca's Lament~[cr68]
+5:0::0::
+5:0::0::unit t413  # Orc Trader in The Shadowlands~[dc83]
+5:0::0::
+5:0::0::unit d935  # Nimroch Melarkyn in Yellowleaf~[r52]
+5:0::0::
+5:0::0::end
+50762:0::0::
+50762:0::0::Admit permissions:
+50762:0::0::
+50762:0::3::admit d935  hd3  nn3  cy2  ny7  hd3  nn3  cy2  ny7
+50762:0::3::admit j180  hd3  nn3  cy2  ny7
+50762:0::3::admit z059  em7  fp4  fr8  jm8  ka6  nf6  rv6  ty4  ur4  vg6  wc9
+50762:0::3::            yq6  ze2  xu3  gh2
+50762:0::3::admit z748  hd3  nn3  cy2  ny7
+50762:0::0::
+50762:0::0::Declared attitudes:
+50762:0::3::defend   cy2
+50762:0::0::
+50762:0::0::Unclaimed items:
+50762:0::0::
+50762:0::0::      qty  name                              weight
+50762:0::0::      ---  ----                              ------
+50762:0::0::      848  gold~[1]                               0  
+62935:0::3::
+62935:0::3/16::Location:       Yellowleaf~[r52], in province Forest~[dh78], in Provinia
+62935:0::3::Loyalty:        Oath-1
+62935:0::3::Health:         100%
+62935:0::3::Combat:         attack 80, defense 80, missile 0
+62935:0::3::                behind 0  (front line in combat)
+62935:0::3::Break point:    0% (fight to the death)
+62935:0::3::use  641 1      (concealing self)
+62935:0::3::
+62935:0::3::Declared attitudes:
+62935:0::6::neutral  cy2
+62935:0::3::
+62935:0::3::Skills known:
+62935:0::6::Combat~[610]
+62935:0::12::Survive fatal wound~[611]
+62935:0::12::Fight to the death~[612]
+62935:0::12::Swordplay~[616], journeyman
+62935:0::12::Weaponsmithing~[617], adept
+62935:0::6::Stealth~[630]
+62935:0::12::Conceal self~[641], apprentice
+62935:0::6::Construction~[680]
+62935:0::12::Stone quarrying~[682], adept
+62935:0::6::Mining~[720]
+62935:0::12::Mine iron~[721], adept
+62935:0::12::Mine gold~[722], adept
+62935:0::3::
+62935:0::3::Inventory:
+62935:0::3::{<b>}      qty  name                              weight{</b>}
+62935:0::3::      ---  ----                              ------
+62935:0::3::    1,214  gold~[1]                               0  
+62935:0::3::        2  winged horses~[54]                 2,000  fly 300
+62935:0::3::                                             ======
+62935:0::3::                                              2,000
+62935:0::3::
+62935:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%), 100/300 fly (33%)
+62935:0::3::
+74413:0::3::
+74413:0::3/16::Location:       The Shadowlands~[dc83], in Provinia
+74413:0::3::Loyalty:        Fear-27
+74413:0::3::Health:         100%
+74413:0::3::Combat:         attack 80, defense 80, missile 0
+74413:0::3::                behind 0  (front line in combat)
+74413:0::3::Break point:    0% (fight to the death)
+74413:0::3::use  641 1      (concealing self)
+74413:0::3::
+74413:0::3::Skills known:
+74413:0::6::Combat~[610]
+74413:0::12::Survive fatal wound~[611]
+74413:0::12::Fight to the death~[612]
+74413:0::6::Stealth~[630]
+74413:0::12::Conceal self~[641], apprentice
+74413:0::6::Trade~[730]
+74413:0::12::Find tradegood for sale~[732], apprentice
+74413:0::12::Find market for tradegood~[733], apprentice
+74413:0::3::
+74413:0::3::Inventory:
+74413:0::3::{<b>}      qty  name                              weight{</b>}
+74413:0::3::      ---  ----                              ------
+74413:0::3::       30  gold~[1]                               0  
+74413:0::3::        2  winged horses~[54]                 2,000  fly 300
+74413:0::3::        1  Scroll~[x316]                          1  
+74413:0::3::                                             ======
+74413:0::3::                                              2,001
+74413:0::3::
+74413:0::3/11::Capacity:  1/400 land (0%), 101/300 ride (33%), 101/300 fly (33%)
+74413:0::3::
+74413:0::3::Scroll~[x316] permits study of the following skills:
+74413:0::6/3::Conceal self~[641] (requires Stealth)
+74413:0::3::
+74413:0::3::Pending trades:
+74413:0::3::
+74413:0::6::trade    price    qty   item
+74413:0::6::-----    -----    ---   ----
+74413:0::6:: sell        4     39   woven basket~[94]
+74413:0::3::
+78059:0::3::
+78059:0::3/16::Location:       Wicca's Lament~[cr68], in Provinia
+78059:0::3::Loyalty:        Oath-2
+78059:0::3::Health:         100%
+78059:0::3::Combat:         attack 80, defense 30, missile 0
+78059:0::3::                behind 0  (front line in combat)
+78059:0::3::Break point:    0% (fight to the death)
+78059:0::3::use  641 1      (concealing self)
+78059:0::3::Banner:         Orc God
+78059:0::3::
+78059:0::3::Current aura:   6
+78059:0::3::Maximum aura:   6
+78059:0::3::
+78059:0::3::Skills known:
+78059:0::6::Combat~[610]
+78059:0::12::Survive fatal wound~[611]
+78059:0::12::Fight to the death~[612]
+78059:0::6::Stealth~[630]
+78059:0::12::Sneak into structure~[639], apprentice
+78059:0::12::Conceal self~[641], apprentice
+78059:0::6::Beastmastery~[650]
+78059:0::12::Use beasts in battle~[653]
+78059:0::12::Breed beasts~[654], adept
+78059:0::6::Necromancy~[900]
+78059:0::12::Transcend death~[901], apprentice
+78059:0::12::Summon ghost warriors~[903], journeyman
+78059:0::12::Raise undead~[904], apprentice
+78059:0::12::Banish demon lord~[907], apprentice
+78059:0::12::Absorb aura blast~[911], apprentice
+78059:0::3::
+78059:0::3::Inventory:
+78059:0::3::{<b>}      qty  name                              weight{</b>}
+78059:0::3::      ---  ----                              ------
+78059:0::3::   22,008  gold~[1]                               0  
+78059:0::3::       12  winged horses~[54]                12,000  fly 1,800
+78059:0::3::        1  ratspider venom~[63]                   0  
+78059:0::3::        2  elfstones~[69]                         2  
+78059:0::3::       25  longbows~[72]                         75  
+78059:0::3::       42  longswords~[74]                      210  
+78059:0::3::       30  pikes~[75]                           150  
+78059:0::3::        1  blank scroll~[84]                      2  
+78059:0::3::        1  drum~[98]                              2  
+78059:0::3::        1  Light Saber~[t961]                    10  +100 attack
+78059:0::3::        1  813 scroll~[105217]                    1  
+78059:0::3::                                             ======
+78059:0::3::                                             12,452
+78059:0::3::
+78059:0::3/11::Capacity:  452/1,900 land (23%), 552/1,800 ride (30%), 552/1,800 fly (30%)
+78059:0::3::
+78059:0::3::813 scroll~[105217] permits study of the following skills:
+78059:0::6/3::??? (requires Magic)
+78059:0::3::
+78059:0::3::Pending trades:
+78059:0::3::
+78059:0::6::trade    price    qty   item
+78059:0::6::-----    -----    ---   ----
+78059:0::6::  buy      200      1   winged horse~[54]
+78059:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Elthargrimm~[cy2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/cy2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [cy2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         3  104th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                          23,252  55th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   19/74  91st   
+0:0::3/41::Spells known:                    6/79  88th   
+0:0::3/41::Provinces visited:         377/31,919  82nd   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  25     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 267.
+0:0::0::
+0:0::0::The next five nobles formed will be:  g393 125043 127065 108126 140800
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::z059   cr68   o2    100  0  6  22k                            Gruumsh,
+0:0::0::t413   dc83   f27   100  0      30                            Orc Trader
+0:0::0::d935   r52    o1    100  0    1214                            Nimroch
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               23k                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Wicca's Lament~[cr68]            Gruumsh, 'One-Eye'~[z059]
+0:0::0::  The Shadowlands~[dc83]           Orc Trader~[t413]
+0:0::0::  Forest~[dh78]
+0:0::0::    Yellowleaf~[r52]               Nimroch Melarkyn~[d935]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  z059      12,552      1,448  23%      1,248  30%      1,248  30%
+0:0::0::  t413       2,101        399   0%        199  33%        199  33%
+0:0::0::  d935       2,100        400   0%        200  33%        200  33%
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Elthargrimm~[cy2]"><font size=+1><b>The Elthargrimm~[cy2]</b></font>
+1:2::0::<hr>
+1:1::0::The Elthargrimm~[cy2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50762
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Gruumsh"><font size=+1><b>Gruumsh</b>, 'One-Eye'~[z059]</font>
+1:2::0::<hr>
+1:1::0::Gruumsh, 'One-Eye'~[z059]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 78059
+1:0::0::
+1:2::0::
+1:2::0::<name="Orc Trader~[t413]"><font size=+1><b>Orc Trader~[t413]</b></font>
+1:2::0::<hr>
+1:1::0::Orc Trader~[t413]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 74413
+1:0::0::
+1:2::0::
+1:2::0::<name="Nimroch Melarkyn~[d935]"><font size=+1><b>Nimroch Melarkyn~[d935]</b></font>
+1:2::0::<hr>
+1:1::0::Nimroch Melarkyn~[d935]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 62935
+1:2::0::
+1:2::0::<name="Wicca's Lament~[cr68]"><font size=+1><b>Wicca's Lament~[cr68]</b>, swamp, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Wicca's Lament~[cr68], swamp, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15368
+1:0::0::
+1:2::0::
+1:2::0::<name="The Shadowlands~[dc83]"><font size=+1><b>The Shadowlands~[dc83]</b>, plain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::The Shadowlands~[dc83], plain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16283
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[dh78]"><font size=+1><b>Forest~[dh78]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dh78], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16678
+1:0::0::
+1:2::0::
+1:2::0::<name="Yellowleaf~[r52]"><font size=+1><b>Yellowleaf~[r52]</b>, port city, in province Forest~[dh78], safe haven</font>
+1:2::0::<hr>
+1:1::0::Yellowleaf~[r52], port city, in province Forest~[dh78], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58112
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

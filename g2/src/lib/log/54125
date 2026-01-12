@@ -1,0 +1,1491 @@
+11369:0::0:0:Garrison~[1265], garrison, with one~soldier, ten~peasants guards Free Atala~[ar69].
+11467:0::0:0:Garrison~[1323], garrison, with four~soldiers, six~peasants guards Forest~[as67].
+14648:0::0:0:Garrison~[2078], garrison, with ten~soldiers guards Swamp~[ch48].
+11367:0::0:0:Garrison~[3355], garrison, with 12~peasants guards Forest~[ar67].
+11271:0::0:0:Garrison~[3529], garrison, with ten~soldiers guards Free Atala~[aq71].
+11075:0::0:0:Garrison~[4959], garrison, with ten~soldiers, three~peasants, 13~workers guards Forest~[an75].
+11274:0::0:0:Garrison~[5502], garrison, with ten~soldiers guards Desert~[aq74].
+11370:0::0:0:Garrison~[5588], garrison, with four~soldiers, six~peasants guards Free Atala~[ar70].
+11170:0::0:0:Garrison~[6016], garrison, with ten~soldiers guards Plain~[ap70].
+11268:0::0:0:Garrison~[7201], garrison, with ten~peasants guards Forest~[aq68].
+39378:0::0:0:Garrison~[7277], garrison, with ten~peasants guards Cloud~[sr78].
+11171:0::0:0:Garrison~[7783], garrison, with 31~pikemen guards Free Atala~[ap71].
+11173:0::0:0:Garrison~[9033], garrison, with ten~soldiers guards Plain~[ap73].
+11469:0::0:0:Garrison~[9905], garrison, with one~soldier, nine~peasants guards Free Atala~[as69].
+11273:0::0:0:Garrison~[a897], garrison, with ten~soldiers guards Plain~[aq73].
+10973:0::0:0:Garrison~[w919], garrison, with ten~peasants, 13~pikemen guards Plain~[am73].
+11371:0::0:0:Garrison~[x790], garrison, with ten~pikemen guards Free Atala~[ar71].
+11272:0::0:0:Garrison~[84186], garrison, with ten~soldiers guards Plain~[aq72].
+11172:0::0:0:Garrison~[84352], garrison, with ten~soldiers guards Forest~[ap72].
+11267:0::0:0:Garrison~[88082], garrison, with ten~peasants guards Mountain~[aq67].
+11368:0::0:0:Garrison~[97253], garrison, with ten~peasants guards Forest~[ar68].
+11174:0::0:0:Garrison~[102689], garrison, with ten~soldiers guards Desert~[ap74].
+11468:0::0:0:Garrison~[111555], garrison, with ten~soldiers guards Free Atala~[as68].
+11269:0::0:0:Garrison~[122555], garrison, with 14~soldiers guards Desert~[aq69].
+11169:0::0:0:Garrison~[126058], garrison, with ten~soldiers guards Forest~[ap69].
+11270:0::0:0:Garrison~[126357], garrison, with one~soldier, nine~peasants guards Forest~[aq70].
+108915:0::0:0:> stop
+108915:0::0:0:Interrupt current order.
+128528:0::0:0:> stop
+128528:0::0:0:Interrupt current order.
+128528:0::0:0:Trained eight~soldiers.
+54125:0::0:0:> accept 0 0
+113562:0::0:1:> move z98
+113562:0::0:1:Travel to South Fort~[z98] will take one day.
+10973:0::0:1:Garrison~[w919] attacks Jayme~[108915]!
+10973:0::3:1:
+10973:0::3:1:Garrison~[w919], garrison, with ten~peasants, 13~pikemen
+10973:0::3:1:
+10973:0::3:1:Jayme~[108915], with 27~soldiers, six~pikemen, three~ghost warriors, 23~winged horses, 19~harpies
+108915:0::0:1:Garrison~[w919] attacks us!
+10973:0::0:1:
+10973:0::0:1:Jayme~[108915] is victorious!
+108915:0::0:1:We won!
+10973:0::0:1:
+10973:0::3:1:Jayme lost three~soldiers, one~harpie.
+108915:0::0:1:Jayme~[108915] lost three~soldiers, one~harpie.
+10973:0::0:1:
+10973:0::3:1:Garrison lost 13~pikemen.
+10973:0::3:1:Garrison~[w919] was destroyed.
+10973:0::0:1:
+108915:0::0:1:Taken from Garrison~[w919]:
+108915:0::3:1:eight~peasants~[10]
+108915:0::0:1:> attack garrison
+108915:0::0:1:garrison is not here.
+108915:0::0:1:> move s
+108915:0::0:1:One noble, 59 men: travel will take an extra 5 days.
+108915:0::0:1:Travel to Desert~[an73] will take 13 days.
+10973:0::0:1:Jayme~[108915], with 24~soldiers, six~pikemen, three~ghost warriors, 23~winged horses, 18~harpies, eight~peasants, went south.
+128528:0::0:1:> recruit 10
+6:0:1265:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:1323:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:3355:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:3529:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:5502:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:5588:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:6016:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:7201:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:7783:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:9033:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:9905:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:a897:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:x790:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:84186:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:84352:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:88082:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:97253:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:102689:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:111555:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:122555:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:126058:0:1:Gustav~[v374] orders us to watch for [2592].
+6:0:126357:0:1:Gustav~[v374] orders us to watch for [2592].
+113562:0::0:1:Arrival at South Fort~[z98].
+113562:0::0:2:> form 102235
+57148:0::0:3:Breeder III~[97856], with 59~winged horses, nine~harpies, exited Nimbus~[d88].
+39378:0::0:3:Breeder III~[97856], with 59~winged horses, nine~harpies, arrived from Nimbus~[d88].
+134028:0::0:3:Produced one~harpie~[285].
+120615:0::0:3:Produced one~harpie~[285].
+120615:0::0:4:> give 134028 285 0
+120615:0::0:4:Gave three~harpies to Angel I~[134028].
+134028:0::0:4:Received three~harpies~[285] from Angel II~[120615].
+120615:0::0:4:> get 134028 285 2
+120615:0::0:4:Took two~harpies from Angel I~[134028].
+134028:0::0:4:Angel II~[120615] took two~harpies~[285] from us.
+39378:0::0:4:Breeder III~[97856], with 59~winged horses, nine~harpies, went south.
+134028:0::0:4:> breed 285 285
+134028:0::0:4:Breed attempt will take 13 days.
+120615:0::0:4:> breed 285 285
+120615:0::0:4:Breed attempt will take 13 days.
+116096:0::0:4:Exploration of [an58] uncovers no new features.
+11370:0::0:4:It has begun to rain.
+11058:0::0:4:It has begun to rain.
+11272:0::0:4:It has begun to rain.
+116096:0::0:5:> accept 0 0
+116096:0::0:5:> recruit 10
+88337:0::0:5:Arrival at Forest~[ak62].
+10862:0::0:5:Harpie Master~[88337], with 16~pikemen, 32~ghost warriors, four~swordsmen, one~winged horse, one~nazgul, 25~harpies, arrived from the east.
+88337:0::0:6:> attack garrison
+10862:0::0:6:Harpie Master~[88337] attacks Garrison~[t465]!
+10862:0::3:6:
+10862:0::3:6:Harpie Master~[88337], with 16~pikemen, 32~ghost warriors, four~swordsmen, one~winged horse, one~nazgul, 25~harpies
+10862:0::3:6:
+10862:0::3:6:Garrison~[t465], garrison, with five~workers, five~peasants
+88337:0::0:6:Attack Garrison~[t465].
+10862:0::0:6:
+10862:0::0:6:Harpie Master~[88337] is victorious!
+88337:0::0:6:We won!
+10862:0::0:6:
+10862:0::3:6:Harpie Master lost one~pikeman, six~ghost warriors.
+88337:0::0:6:Harpie Master~[88337] lost one~pikeman, six~ghost warriors.
+10862:0::0:6:
+10862:0::3:6:Garrison lost five~peasants, five~workers.
+10862:0::3:6:Garrison~[t465] was destroyed.
+10862:0::0:6:
+39378:0::0:6:Transport II~[138896], with nine~winged horses, arrived from the south.
+39378:0::0:6:Transport~[94165], with 40~winged horses, arrived from the south.
+11171:0::0:6:Harry Sullivan~[r783] cut 30~wood.
+109781:0::0:6:Produced one~harpie~[285].
+109781:0::0:7:> give 134028 285 0
+109781:0::0:7:Gave three~harpies to Angel I~[134028].
+134028:0::0:7:Received three~harpies~[285] from Angel III~[109781].
+109781:0::0:7:> get 134028 285 2
+109781:0::0:7:Took two~harpies from Angel I~[134028].
+134028:0::0:7:Angel III~[109781] took two~harpies~[285] from us.
+88337:0::0:7:> move s
+88337:0::0:7:Difficult terrain slows the animals.  Travel will take an extra day.
+88337:0::0:7:One noble, 71 men: travel will take an extra 7 days.
+88337:0::0:7:Travel to Swamp~[am62] will take 22 days.
+10862:0::0:7:Harpie Master~[88337], with 15~pikemen, 26~ghost warriors, four~swordsmen, one~winged horse, one~nazgul, 25~harpies, went south.
+39378:0::0:7:Transport II~[138896], with nine~winged horses, entered Nimbus~[d88].
+39378:0::0:7:Transport~[94165], with 40~winged horses, went south.
+109781:0::0:7:> breed 285 285
+109781:0::0:7:Breed attempt will take 13 days.
+57148:0::0:7:Transport II~[138896], with nine~winged horses, arrived from Cloud~[sr78].
+57148:0::0:8:Transport II~[138896], with nine~winged horses, entered Schloss Smith~[100928].
+57148:0::0:8:Transport II~[138896], with nine~winged horses, arrived from Nimbus~[d88].
+57148:0::0:8:Transport II~[138896], with 21~winged horses, exited Schloss Smith~[100928].
+57148:0::0:8:Transport II~[138896], with 21~winged horses, arrived from Schloss Smith~[100928].
+57148:0::0:8:Transport II~[138896], with 21~winged horses, exited Nimbus~[d88].
+39378:0::0:8:Transport II~[138896], with 21~winged horses, arrived from Nimbus~[d88].
+102235:0::0:8:New noble~[102235] stacks beneath Tlamatcatzintli~[113562].
+113562:0::0:8:New noble~[102235] stacks beneath us.
+102235:0::0:9:> get 113562
+102235:0::0:9:[0] is not an item or a prisoner.
+39378:0::0:9:Transport II~[138896], with 21~winged horses, went north.
+113562:0::0:9:> form 90504
+102235:0::0:9:> study 610
+102235:0::0:9:Cannot afford 100~gold to begin study.
+102235:0::0:9:> study 610
+102235:0::0:9:Cannot afford 100~gold to begin study.
+128528:0::0:10:Recruited ten~peasants.
+11075:0::0:10:Lord Eldrad II~[128528] recruited ten~peasants.
+57148:0::0:10:Mark Smith~[h879] recruited ten~peasants.
+116096:0::0:10:Lord Jagiellon~[4342] teleported 20~ghost warriors to us.
+128528:0::0:11:> train 12 10
+148147:0::0:12:Produced one~harpie~[285].
+148147:0::0:13:> fly n
+148147:0::0:13:One noble, 22 men: travel will take an extra 2 days.
+148147:0::0:13:Flying to Plain~[am74] will take five days.
+11074:0::0:13:Count F'Drol~[148147], baron, with ten~soldiers, 11~winged horses, 12~harpies, went north.
+108915:0::0:13:Arrival at Desert~[an73].
+11073:0::0:13:Jayme~[108915], with 24~soldiers, six~pikemen, three~ghost warriors, 23~winged horses, 18~harpies, eight~peasants, arrived from the north.
+11073:0::0:14:Garrison~[1645] attacks Jayme~[108915]!
+11073:0::3:14:
+11073:0::3:14:Garrison~[1645], garrison, with ten~soldiers
+11073:0::3:14:
+11073:0::3:14:Jayme~[108915], with 24~soldiers, six~pikemen, three~ghost warriors, 23~winged horses, 18~harpies, eight~peasants
+108915:0::0:14:Garrison~[1645] attacks us!
+11073:0::0:14:
+11073:0::0:14:Jayme~[108915] is victorious!
+108915:0::0:14:We won!
+11073:0::0:14:
+11073:0::3:14:Jayme lost four~soldiers, one~pikeman, two~ghost warriors.
+108915:0::0:14:Jayme~[108915] lost four~soldiers, one~pikeman, two~ghost warriors.
+11073:0::0:14:
+11073:0::3:14:Garrison lost ten~soldiers.
+11073:0::3:14:Garrison~[1645] was destroyed.
+11073:0::0:14:
+108915:0::0:14:> recruit 10
+108915:0::0:14:Peasants must be recruited in provinces.
+108915:0::0:14:> train 12 0
+116096:0::0:14:Recruited ten~peasants.
+11058:0::0:14:Pest~[116096] recruited ten~peasants.
+116096:0::0:15:> train 12 0
+90504:0::0:15:New noble~[90504] stacks beneath Tlamatcatzintli~[113562].
+113562:0::0:15:New noble~[90504] stacks beneath us.
+90504:0::0:16:> get 113562
+90504:0::0:16:[0] is not an item or a prisoner.
+113562:0::0:16:> use 614
+90504:0::0:16:> study 610
+90504:0::0:16:Cannot afford 100~gold to begin study.
+90504:0::0:16:> study 610
+90504:0::0:16:Cannot afford 100~gold to begin study.
+116096:0::0:16:Lord Jagiellon~[4342] teleported seven~pikemen to us.
+134028:0::0:16:Produced one~harpie~[285].
+120615:0::0:16:Produced one~harpie~[285].
+120615:0::0:17:> give 134028 285 0
+120615:0::0:17:Gave three~harpies to Angel I~[134028].
+134028:0::0:17:Received three~harpies~[285] from Angel II~[120615].
+120615:0::0:17:> get 134028 285 2
+120615:0::0:17:Took two~harpies from Angel I~[134028].
+134028:0::0:17:Angel II~[120615] took two~harpies~[285] from us.
+134028:0::0:17:> breed 285 285
+134028:0::0:17:Breed attempt will take 13 days.
+120615:0::0:17:> breed 285 285
+120615:0::0:17:Breed attempt will take 13 days.
+148147:0::0:17:Arrival at Plain~[am74].
+10974:0::0:17:Count F'Drol~[148147], baron, with ten~soldiers, 11~winged horses, 12~harpies, arrived from the south.
+148147:0::0:18:> recruit 10
+39378:0::0:19:Transport~[94165], with 40~winged horses, arrived from the south.
+109781:0::0:19:One~harpie~[285] was killed in the breeding attempt.
+109781:0::0:19:Produced one~harpie~[285].
+109781:0::0:20:> give 134028 285 0
+109781:0::0:20:Gave two~harpies to Angel I~[134028].
+134028:0::0:20:Received two~harpies~[285] from Angel III~[109781].
+109781:0::0:20:> get 134028 285 2
+109781:0::0:20:Took two~harpies from Angel I~[134028].
+134028:0::0:20:Angel III~[109781] took two~harpies~[285] from us.
+39378:0::0:20:Transport~[94165], with 40~winged horses, went south.
+109781:0::0:20:> breed 285 285
+109781:0::0:20:Breed attempt will take 13 days.
+128528:0::0:20:Trained ten~soldiers.
+128528:0::0:21:> claim 1 100
+128528:0::0:21:Claimed 100~gold.
+128528:0::0:21:> attack garrison
+11075:0::0:21:Lord Eldrad II~[128528] attacks Garrison~[4959]!
+11075:0::3:21:
+11075:0::3:21:Lord Eldrad II~[128528], with 23~soldiers, five~pikemen, seven~winged horses, 13~harpies
+11075:0::3:21:
+11075:0::3:21:Garrison~[4959], garrison, with ten~soldiers, three~peasants, 13~workers
+128528:0::0:21:Attack Garrison~[4959].
+11075:0::0:21:
+11075:0::0:21:Lord Eldrad II~[128528] is victorious!
+128528:0::0:21:We won!
+11075:0::0:21:
+11075:0::3:21:Lord Eldrad II lost one~soldier, one~pikeman, two~harpies.
+128528:0::0:21:Lord Eldrad II~[128528] lost one~soldier, one~pikeman, two~harpies.
+11075:0::0:21:
+11075:0::3:21:Garrison lost three~peasants, 13~workers, ten~soldiers.
+11075:0::3:21:Garrison~[4959] was destroyed.
+11075:0::0:21:
+128528:0::0:21:Taken from Garrison~[4959]:
+128528:0::3:21:five~longswords~[74]
+128528:0::3:21:20~pikes~[75]
+128528:0::3:21:52~iron~[79]
+108915:0::0:21:Trained eight~soldiers.
+113562:0::0:21:Defense rating raised 3 to 259.
+11368:0::0:21:It has begun to rain.
+11268:0::0:21:It has begun to rain.
+11169:0::0:21:It has begun to rain.
+11367:0::0:21:It has begun to rain.
+10974:0::0:21:It has begun to rain.
+11173:0::0:21:It has begun to rain.
+128528:0::0:22:> recruit 5
+128528:0::0:22:There are no more peasants here to recruit.
+128528:0::0:22:> move n
+128528:0::0:22:One noble, 37 men: travel will take an extra 3 days.
+128528:0::0:22:Travel to Plain~[am75] will take ten days.
+11075:0::0:22:Lord Eldrad II~[128528], with 22~soldiers, four~pikemen, seven~winged horses, 11~harpies, went north.
+113562:0::0:22:> use 614
+116096:0::0:24:Trained ten~soldiers.
+116096:0::0:25:> explore
+10863:0::0:25:RockBottom~[k736], with 25~elite guard, five~riding horses, arrived from the east, accompanied~by:
+10863:0::3/3:25:The Body Snatcher~[w196], with one~worker, three~riding horses, five~peasants, one~crossbowman, one~elite archer, 14~winged horses
+11271:0::0:26:It has begun to rain.
+11170:0::0:26:It has begun to rain.
+11075:0::0:26:It has begun to rain.
+11468:0::0:26:It has begun to rain.
+11274:0::0:26:It has begun to rain.
+11273:0::0:26:It has begun to rain.
+11467:0::0:26:It has begun to rain.
+6:0:126058:0:27:Received ten~soldiers~[12] from Defender~[128230].
+148147:0::0:27:Recruited ten~peasants.
+10974:0::0:27:Count F'Drol~[148147] recruited ten~peasants.
+113562:0::0:27:Defense rating raised 3 to 262.
+148147:0::0:28:> train 12 0
+113562:0::0:28:> use 614
+88337:0::0:28:Arrival at Swamp~[am62].
+10962:0::0:28:Harpie Master~[88337], with 15~pikemen, 26~ghost warriors, four~swordsmen, one~winged horse, one~nazgul, 25~harpies, arrived from the north.
+88337:0::0:29:> attack garrison
+10962:0::0:29:Harpie Master~[88337] attacks Garrison~[9233]!
+10962:0::3:29:
+10962:0::3:29:Harpie Master~[88337], with 15~pikemen, 26~ghost warriors, four~swordsmen, one~winged horse, one~nazgul, 25~harpies
+10962:0::3:29:
+10962:0::3:29:Garrison~[9233], garrison, with ten~peasants
+88337:0::0:29:Attack Garrison~[9233].
+10962:0::0:29:
+10962:0::0:29:Harpie Master~[88337] is victorious!
+88337:0::0:29:We won!
+10962:0::0:29:
+10962:0::3:29:Harpie Master lost seven~ghost warriors.
+88337:0::0:29:Harpie Master~[88337] lost seven~ghost warriors.
+10962:0::0:29:
+10962:0::3:29:Garrison lost ten~peasants.
+10962:0::3:29:Garrison~[9233] was destroyed.
+10962:0::0:29:
+134028:0::0:29:Produced one~harpie~[285].
+120615:0::0:29:Produced one~harpie~[285].
+120615:0::0:30:> give 134028 285 0
+120615:0::0:30:Gave three~harpies to Angel I~[134028].
+134028:0::0:30:Received three~harpies~[285] from Angel II~[120615].
+120615:0::0:30:> get 134028 285 2
+120615:0::0:30:Took two~harpies from Angel I~[134028].
+134028:0::0:30:Angel II~[120615] took two~harpies~[285] from us.
+88337:0::0:30:> move in
+88337:0::0:30:(assuming 'move x48')
+88337:0::0:30:One noble, 64 men: travel will take an extra 2 days.
+88337:0::0:30:Travel to Arkfire City~[x48] will take three days.
+10962:0::0:30:Harpie Master~[88337], with 15~pikemen, 19~ghost warriors, four~swordsmen, one~winged horse, one~nazgul, 25~harpies, entered Arkfire City~[x48].
+134028:0::0:30:> breed 285 285
+134028:0::0:30:Breed attempt will take 13 days.
+120615:0::0:30:> breed 285 285
+120615:0::0:30:Breed attempt will take 13 days.
+6:0:1265:0:30:Paid maintenance of 12~gold.
+6:0:1323:0:30:Paid maintenance of 14~gold.
+6:0:3355:0:30:Paid maintenance of 12~gold.
+6:0:3529:0:30:Paid maintenance of 20~gold.
+6:0:5502:0:30:Paid maintenance of 20~gold.
+6:0:5588:0:30:Paid maintenance of 14~gold.
+6:0:6016:0:30:Paid maintenance of 20~gold.
+6:0:7201:0:30:Paid maintenance of 10~gold.
+6:0:7783:0:30:Paid maintenance of 93~gold.
+6:0:9033:0:30:Paid maintenance of 20~gold.
+6:0:9905:0:30:Paid maintenance of 11~gold.
+6:0:a897:0:30:Paid maintenance of 20~gold.
+6:0:x790:0:30:Paid maintenance of 30~gold.
+6:0:84186:0:30:Paid maintenance of 20~gold.
+6:0:84352:0:30:Paid maintenance of 20~gold.
+6:0:88082:0:30:Paid maintenance of 10~gold.
+6:0:97253:0:30:Paid maintenance of 10~gold.
+6:0:102689:0:30:Paid maintenance of 20~gold.
+6:0:111555:0:30:Paid maintenance of 20~gold.
+6:0:122555:0:30:Paid maintenance of 28~gold.
+6:0:126058:0:30:Paid maintenance of 40~gold.
+6:0:126357:0:30:Paid maintenance of 11~gold.
+88337:0::0:30:Paid maintenance of 57~gold.
+108915:0::0:30:Paid maintenance of 71~gold.
+116096:0::0:30:Paid maintenance of 61~gold.
+128528:0::0:30:Paid maintenance of 56~gold.
+148147:0::0:30:Paid maintenance of 33~gold.
+148147:0::0:30:One winged horse died.
+88337:0::0:30:One~ghost warrior~[18] evaporated.
+108915:0::0:30:One~ghost warrior~[18] evaporated.
+116096:0::0:30:One~ghost warrior~[18] evaporated.
+54125:0::0:30:Lord Mischief~[b253] has passed on.  Gained 1 NP.
+10863:0::0:30:It has stopped raining.
+10862:0::0::
+10862:0::0::Routes leaving Forest: 
+10862:0::3::North, to Plain~[aj62], 7~days
+10862:0::3::East, to Desert~[ak63], 8~days
+10862:0::3::South, to Swamp~[am62], 14~days
+10862:0::3::West, to Plain~[ak61], 7~days
+10862:0::0::
+10862:0::0::It is raining.
+10863:0::0::
+10863:0::0::Routes leaving Desert: 
+10863:0::3::North, to Desert~[aj63], 8~days
+10863:0::3::East, to Forest~[ak64], 8~days
+10863:0::3::South, to Mountain~[am63], 10~days
+10863:0::3::West, to Forest~[ak62], 8~days
+10863:0::0::
+10863:0::0::Seen here:
+10863:0::0/3::   RockBottom~[k736], "{<i>}Atala Garrison Replacement Specialist{</i>}", with 25~elite guard, five~riding horses, accompanied~by:
+10863:0::0/6::      The Body Snatcher~[w196], "{<i>}Atala Confederacy{</i>}", with one~worker, three~riding horses, six~crossbowmen, one~elite archer, 14~winged horses
+10962:0::0::
+10962:0::0::Routes leaving Swamp: 
+10962:0::3::North, to Forest~[ak62], 8~days
+10962:0::3::East, to Mountain~[am63], 10~days
+10962:0::3::South, to Plain~[an62], 7~days
+10962:0::3::West, to Desert~[am61], 8~days
+10962:0::0::
+10962:0::0::Inner locations:
+10962:0::3::Arkfire City~[x48], city, 1 day
+10962:0::0::
+10962:0::0::It is raining.
+10962:0::0::
+10962:0::0::Seen here:
+10962:0::0/3:: * Harpie Master~[88337], "{<i>}Bite Me{</i>}", with 15~pikemen, 18~ghost warriors, four~swordsmen, one~winged horse, one~nazgul, 25~harpies
+10973:0::0::
+10973:0::0::Routes leaving Plain: 
+10973:0::3::North, to Forest~[ak73], 8~days
+10973:0::3::East, to Plain~[am74], 7~days
+10973:0::3::South, to Desert~[an73], 8~days
+10973:0::3::West, to Forest~[am72], 8~days
+10973:0::0::
+10973:0::0::Inner locations:
+10973:0::3::Grassy field~[s590], pasture, 1 day
+10973:0::0::
+10973:0::0::It is raining.
+10974:0::0::
+10974:0::0::Province controlled by Home~[p009], castle, in Mountain~[ah59]
+10974:0::0::Ruled by [8116], duke
+10974:0::0::
+10974:0::0::Routes leaving Plain: 
+10974:0::3::North, to Ocean~[ak74], Great Sea, 2~days
+10974:0::3::East, to Plain~[am75], 7~days
+10974:0::3::South, to Mountain~[an74], 10~days
+10974:0::3::West, to Plain~[am73], 7~days
+10974:0::0::
+10974:0::0::It is raining.
+10974:0::0::
+10974:0::0::Seen here:
+10974:0::0/3::   Garrison~[z211], garrison, on guard, with 13~peasants
+10974:0::0/3:: * Count F'Drol~[148147], baron, "{<i>}Eldrad's Loyalist{</i>}", with 13~soldiers, ten~winged horses, 12~harpies, seven~peasants
+11058:0::0::
+11058:0::0::Routes leaving Plain: 
+11058:0::3::North, to Desert~[am58], 8~days
+11058:0::3::East, to Mountain~[an59], 10~days
+11058:0::3::South, to Plain~[ap58], 7~days
+11058:0::3::West, to Swamp~[an57], 14~days
+11058:0::0::
+11058:0::0::Inner locations:
+11058:0::3::Rocky hill~[f448], rocky hill, 1 day
+11058:0::0::
+11058:0::0::It is raining.
+11058:0::0::
+11058:0::0::Seen here:
+11058:0::0/3:: * Pest~[116096], with 20~soldiers, 23~winged horses, 19~ghost warriors, seven~pikemen
+11073:0::0::
+11073:0::0::Routes leaving Desert: 
+11073:0::3::North, to Plain~[am73], 7~days
+11073:0::3::East, to Mountain~[an74], 10~days
+11073:0::3::South, to Plain~[ap73], 7~days
+11073:0::3::West, to Forest~[an72], 8~days
+11073:0::0::
+11073:0::0::It is raining.
+11073:0::0::
+11073:0::0::Seen here:
+11073:0::0/3:: * Jayme~[108915], "{<i>}Bite Me{</i>}", with 28~soldiers, five~pikemen, 23~winged horses, 18~harpies
+11074:0::0::
+11074:0::0::Routes leaving Mountain: 
+11074:0::3::North, to Plain~[am74], 7~days
+11074:0::3::East, to Forest~[an75], 8~days
+11074:0::3::South, to Desert~[ap74], 8~days
+11074:0::3::West, to Desert~[an73], 8~days
+11074:0::0::
+11074:0::0::It is raining.
+11075:0::0::
+11075:0::0::Routes leaving Forest: 
+11075:0::3::North, to Plain~[am75], 7~days
+11075:0::3::East, to Plain~[an76], 7~days
+11075:0::3::South, to Mountain~[ap75], 10~days
+11075:0::3::West, to Mountain~[an74], 10~days
+11075:0::0::
+11075:0::0::It is raining.
+11075:0::0::
+11075:0::0::Seen here:
+11075:0::0/3:: * Lord Eldrad II~[128528], "{<i>}Airborn Doom{</i>}", with 22~soldiers, four~pikemen, seven~winged horses, 11~harpies
+14648:0::0::
+14648:0::0::Province controlled by South Fort~[t114], castle, in Dragons Peak~[ck41]
+14648:0::0::Ruled by General Attitude~[9943], duke
+14648:0::0::
+14648:0::0::Routes leaving Swamp: 
+14648:0::3::North, plain, to Plains of Morning~[cg48], 7~days
+14648:0::3::East, forest, to South Fort Forest~[ch49], 8~days
+14648:0::3::South, to Forest~[cj48], 8~days
+14648:0::3::West, mountain, to Mount Jade~[ch47], 10~days
+14648:0::0::
+14648:0::0::Inner locations:
+14648:0::3::South Fort~[z98], city, 1 day
+14648:0::0::
+14648:0::0::It is raining.
+14648:0::0::It is windy.
+14648:0::0::The province is blanketed in fog.
+14648:0::3::Rain~[145819], storm, owner~113562, strength~22
+14648:0::3::Hellion~[123316], storm, owner~113562, strength~34
+14648:0::3::Death Mist~[122863], storm, owner~t720, strength~13
+14648:0::3::Noxious Cloud~[137289], storm, owner~113562, strength~25
+14648:0::0::
+14648:0::0::No one can be seen through the fog.
+39378:0::0::
+39378:0::0::Province controlled by Schloss Smith~[100928], castle, in Cloud~[sr78]
+39378:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+39378:0::0::
+39378:0::0::Routes leaving Cloud: 
+39378:0::3::North, cloud, to Cloud~[nj89], 7~days
+39378:0::3::East, cloud, to Cloud~[vs63], 7~days
+39378:0::3::South, cloud, to Cloud~[gz22], 7~days
+39378:0::3::West, cloud, to Cloud~[ns08], 7~days
+39378:0::0::
+39378:0::0::Inner locations:
+39378:0::3::Nimbus~[d88], city, 1 day
+39378:0::0::
+39378:0::0::Seen here:
+39378:0::0/3::   Garrison~[7277], garrison, on guard, with ten~peasants
+57148:0::0::
+57148:0::0::Routes leaving Nimbus: 
+57148:0::3::Out, cloud, to Cloud~[sr78], 1~day
+57148:0::0::
+57148:0::0::Cities rumored to be nearby:
+57148:0::3::Aerovia~[c35], in Cloud~[tr30]
+57148:0::3::Imperial City~[g92], in Forest~[cr51], safe haven
+57148:0::3::Machu Pichu~[m97], in Xibalba Plateau~[cs51]
+57148:0::0::
+57148:0::0::Skills taught here:
+57148:0::3::Weather magic~[820]
+57148:0::0::
+57148:0::0::Market report:
+57148:0::3::
+57148:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57148:0::3::-----    ---   -----    ---     -----   ----                     
+57148:0::3::  buy   h879      37     11       100   honey~[123436]           
+57148:0::3:: sell    d88   1,000      1         1   Golden ring~[94225]      
+57148:0::0::
+57148:0::0::Inner locations:
+57148:0::3::New temple~[3123], temple, defense~10
+57148:0::3::Schloss Smith~[100928], castle, defense~60, level~2, owner:
+57148:0::0/6::      Bruce Smith~[z729], lord, "{<i>}Smith Erigadorn Ltd.{</i>}", with four~winged horses, accompanied~by:
+57148:0::0/9::         Bill Smith~[g621], "{<i>}Smith-Erigadorn Ltd.{</i>}", with six~winged horses
+57148:0::0/9::         William Wallace~[w068], master of the black arts, with 273~winged horses
+57148:0::6::Eye of God~[7926], tower, defense~40, owner:
+57148:0::0/9::         Banstable Smith II~[w837], duke, master of the black arts, "{<i>}Smith Erigadorn Ltd.{</i>}", with two~winged horses
+57148:0::0::
+57148:0::0::Seen here:
+57148:0::0/3::   Mark Smith~[h879], with one~hound, ten~soldiers
+57148:0::0/3:: * Angel I~[134028], with two~winged horses, 22~harpies, accompanied~by:
+57148:0::0/6:: *    Angel II~[120615], with four~winged horses, two~harpies
+57148:0::0/6:: *    Angel III~[109781], with four~winged horses, two~harpies
+58758:0::0::
+58758:0::0::Routes leaving South Fort: 
+58758:0::3::Out, to Swamp~[ch48], 1~day
+58758:0::0::
+58758:0::0::Cities rumored to be nearby:
+58758:0::3::Carim~[k86], in Forest of Dawn~[cd49]
+58758:0::3::Golden City~[t63], in Forest~[cm47], safe haven
+58758:0::0::
+58758:0::0::Skills taught here:
+58758:0::3::Combat~[610], Stealth~[630], Construction~[680], Trade~[730], Magic~[800], Weather magic~[820]
+58758:0::0::
+58758:0::0::Market report:
+58758:0::3::
+58758:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58758:0::3::-----    ---   -----    ---     -----   ----                     
+58758:0::3::  buy    z98       4     15         1   woven baskets~[94]       
+58758:0::3::  buy    z98     125     36        72   chocolate~[138290]       
+58758:0::3:: sell   g538      85     58       100   walnuts~[h887]           
+58758:0::3:: sell    z98      14     40       100   oranges~[v879]           
+58758:0::3:: sell    z98     135     28       100   obsidian~[114483]        
+58758:0::3:: sell    z98     100     32       100   jade~[126140]            
+58758:0::3:: sell    z98      11     48        16   pepper~[108427]          
+58758:0::0::
+58758:0::0::Inner locations:
+58758:0::3::Shrine of Celestian~[5252], temple, defense~10
+58758:0::3::Eternia~[2227], tower, defense~40
+58758:0::3::The Howling~[b128], tower, defense~40
+58758:0::0::
+58758:0::0::It is raining.
+58758:0::0::It is windy.
+58758:0::0::The province is blanketed in fog.
+58758:0::0::
+58758:0::0::Seen here:
+58758:0::0/3::   Garrison~[1762], garrison, on guard, with 75~pikemen
+58758:0::0/3::   Godzilla~[g538], mage, with five~peasants, ten~workers, 27~soldiers, nine~pikemen, one~winged horse, six~catapults
+58758:0::0/3:: * Tlamatcatzintli~[113562], mage, "{<i>}Olympus Ranger{</i>}", with three~winged horses, accompanied~by:
+58758:0::0/6:: *    New noble~[102235]
+58758:0::0/6:: *    New noble~[90504]
+5:0::0::
+5:0::0::begin pw5 "ROADRUNNER69"  # Falcon Heart
+5:0::0::
+5:0::0::unit pw5  # Falcon Heart
+5:0::0::
+5:0::0::unit 113562  # Tlamatcatzintli in South Fort~[z98]
+5:0::3::# > use 614 (executing for three more days)
+5:0::0::
+5:0::0::unit 102235  # New noble in South Fort~[z98]
+5:0::0::
+5:0::0::unit 90504  # New noble in South Fort~[z98]
+5:0::0::
+5:0::0::unit 88337  # Harpie Master in Swamp~[am62]
+5:0::3::# > move in (executing for two more days)
+5:0::3::explore
+5:0::3::explore
+5:0::3::explore
+5:0::3::explore
+5:0::0::
+5:0::0::unit 148147  # Count F'Drol in Plain~[am74]
+5:0::3::# > train 12 0 (still~executing)
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::0::
+5:0::0::unit 116096  # Pest in Plain~[an58]
+5:0::3::# > explore (executing for one more day)
+5:0::3::explore
+5:0::3::explore
+5:0::0::
+5:0::0::unit 108915  # Jayme in Desert~[an73]
+5:0::0::
+5:0::0::unit 128528  # Lord Eldrad II in Forest~[an75]
+5:0::3::# > move n (executing for one more day)
+5:0::3::recruit 10
+5:0::3::train 12 0
+5:0::0::
+5:0::0::unit 134028  # Angel I in Nimbus~[d88]
+5:0::3::# > breed 285 285 (executing for 12 more days)
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::3::breed 285 285
+5:0::0::
+5:0::0::unit 120615  # Angel II in Nimbus~[d88]
+5:0::3::# > breed 285 285 (executing for 12 more days)
+5:0::3::give 134028 285 0
+5:0::3::get 134028 285 2
+5:0::3::breed 285 285
+5:0::3::give 134028 285 0
+5:0::3::get 134028 285 2
+5:0::3::breed 285 285
+5:0::3::give 134028 285 0
+5:0::3::get 134028 285 2
+5:0::3::breed 285 285
+5:0::0::
+5:0::0::unit 109781  # Angel III in Nimbus~[d88]
+5:0::3::# > breed 285 285 (executing for two more days)
+5:0::3::give 134028 285 0
+5:0::3::get 134028 285 2
+5:0::3::breed 285 285
+5:0::3::give 134028 285 0
+5:0::3::get 134028 285 2
+5:0::3::breed 285 285
+5:0::3::give 134028 285 0
+5:0::3::get 134028 285 2
+5:0::3::breed 285 285
+5:0::3::give 134028 285 0
+5:0::3::get 134028 285 2
+5:0::3::breed 285 285
+5:0::0::
+5:0::0::end
+54125:0::0::
+54125:0::0::Admit permissions:
+54125:0::0::
+54125:0::3::admit  n38  ny7  xy3  vy5  xf3  cb5  df7  fc3  mm9  qb2  qn5  ym3
+54125:0::3::            pw5  rq7  sz5  ug3  uh5  yf7  yg9  yv5  zy6  hd3  nn3
+54125:0::3::admit  q53  ny7  xy3  vy5  xf3  cb5  df7  fc3  mm9  qb2  qn5  ym3
+54125:0::3::            pw5  rq7  sz5  ug3  uh5  yf7  yg9  yv5  zy6  hd3  nn3
+54125:0::3::admit  t63  ny7  xy3  vy5  xf3  cb5  df7  fc3  mm9  qb2  qn5  ym3
+54125:0::3::            pw5  rq7  sz5  ug3  uh5  yf7  yg9  yv5  zy6  hd3  nn3
+54125:0::3::admit g299  ny7  xy3  vy5  xf3  cb5  df7  fc3  mm9  qb2  qn5  ym3
+54125:0::3::            pw5  rq7  sz5  ug3  uh5  yf7  yg9  yv5  zy6  hd3  nn3
+54125:0::3::admit q270  ny7  xy3  vy5  xf3  cb5  df7  fc3  mm9  qb2  qn5  ym3
+54125:0::3::            pw5  rq7  sz5  ug3  uh5  yf7  yg9  yv5  zy6  hd3  nn3
+54125:0::3::admit t383  uh5  xf3
+54125:0::3::admit 86697  cb5  df7  fc3  hd3  mm9  nn3  ny7  pw5  qb2  qn5  rq7
+54125:0::3::            sz5  ug3  uh5  vy5  xf3  xy3  yf7  yg9  ym3  yv5  zy6
+54125:0::3::            sz6
+54125:0::3::admit 88337  cb5  df7  fc3  hd3  mm9  nn3  ny7  pw5  qb2  qn5  rq7
+54125:0::3::            sz5  ug3  uh5  vy5  xf3  xy3  yf7  yg9  ym3  yv5  zy6
+54125:0::3::            sz6
+54125:0::3::admit 92416  ny7  xy3  vy5  xf3  cb5  df7  fc3  mm9  qb2  qn5  ym3
+54125:0::3::            pw5  rq7  sz5  ug3  uh5  yf7  yg9  yv5  zy6  hd3  nn3
+54125:0::3::admit 95898  cb5  df7  fc3  hd3  mm9  nn3  ny7  pw5  qb2  qn5  rq7
+54125:0::3::            sz5  ug3  uh5  vy5  xf3  xy3  yf7  yg9  ym3  yv5  zy6
+54125:0::3::            sz6
+54125:0::3::admit 108915  cb5  df7  fc3  hd3  mm9  nn3  ny7  pw5  qb2  qn5  rq7
+54125:0::3::            sz5  ug3  uh5  vy5  xf3  xy3  yf7  yg9  ym3  yv5  zy6
+54125:0::3::            sz6
+54125:0::3::admit 113562  cb5  df7  fc3  hd3  mm9  nn3  ny7  pw5  qb2  qn5  rq7
+54125:0::3::            sz5  ug3  uh5  vy5  xf3  xy3  yf7  yg9  ym3  yv5  zy6
+54125:0::3::            sz6
+54125:0::3::admit 128528  cb5  df7  fc3  hd3  mm9  nn3  ny7  pw5  qb2  qn5  rq7
+54125:0::3::            sz5  ug3  uh5  vy5  xf3  xy3  yf7  yg9  ym3  yv5  zy6
+54125:0::3::            sz6
+54125:0::3::admit 148147  cb5  df7  fc3  hd3  mm9  nn3  ny7  pw5  qb2  qn5  rq7
+54125:0::3::            sz5  ug3  uh5  vy5  xf3  xy3  yf7  yg9  ym3  yv5  zy6
+54125:0::3::            sz6
+54125:0::0::
+54125:0::0::Unclaimed items:
+54125:0::0::
+54125:0::0::      qty  name                              weight
+54125:0::0::      ---  ----                              ------
+54125:0::0::       75  gold~[1]                               0  
+88337:0::3::
+88337:0::3/16::Location:       Swamp~[am62], in Atala
+88337:0::3::Loyalty:        Oath-1
+88337:0::3::Health:         100%
+88337:0::3::Combat:         attack 80, defense 80, missile 0
+88337:0::3::                behind 0  (front line in combat)
+88337:0::3::Break point:    50%
+88337:0::3::Banner:         Bite Me
+88337:0::3::
+88337:0::3::Skills known:
+88337:0::6::Combat~[610]
+88337:0::12::Survive fatal wound~[611]
+88337:0::12::Defense~[614], apprentice
+88337:0::6::Beastmastery~[650]
+88337:0::12::Capture beasts in battle~[652]
+88337:0::12::Use beasts in battle~[653]
+88337:0::12::Breed beasts~[654], master
+88337:0::3::
+88337:0::3::Inventory:
+88337:0::3::{<b>}      qty  name                              weight{</b>}
+88337:0::3::      ---  ----                              ------
+88337:0::3::      746  gold~[1]                               0  
+88337:0::3::       15  pikemen~[16]                       1,500  cap 1,500 (5,30,0)
+88337:0::3::       18  ghost warriors~[18]                    0   (0,0,0)
+88337:0::3::        4  swordsmen~[20]                       400  cap 400 (15,15,0)
+88337:0::3::        1  winged horse~[54]                  1,000  fly 150
+88337:0::3::        1  nazgul~[55]                        1,500  fly 150 (80,80,0)
+88337:0::3::        3  pikes~[75]                            15  
+88337:0::3::       25  harpies~[285]                     12,500   (80,120,0)
+88337:0::3::        1  Healing Elixer~[w987]                  1  
+88337:0::3::                                             ======
+88337:0::3::                                             16,916
+88337:0::3::
+88337:0::3/11::Capacity:  16/2,300 land (0%), 2,016/300 ride (672%), 2,016/300 fly (672%)
+88337:0::3::
+90504:0::3::
+90504:0::3/16::Location:       South Fort~[z98], in province Swamp~[ch48], in Provinia
+90504:0::3::Loyalty:        Contract-500
+90504:0::3/16::Stacked under:  Tlamatcatzintli~[113562]
+90504:0::3::Health:         100%
+90504:0::3::Combat:         attack 80, defense 80, missile 0
+90504:0::3::                behind 3  (stay behind in combat)
+90504:0::3::Break point:    50%
+90504:0::3::
+90504:0::3::Skills known:
+90504:0::6::none
+90504:0::3::
+90504:0::3::New noble~[90504] has no possessions.
+90504:0::3::
+90504:0::3/11::Capacity:  0/100 land (0%)
+90504:0::3::
+102235:0::3::
+102235:0::3/16::Location:       South Fort~[z98], in province Swamp~[ch48], in Provinia
+102235:0::3::Loyalty:        Contract-500
+102235:0::3/16::Stacked under:  Tlamatcatzintli~[113562]
+102235:0::3::Health:         100%
+102235:0::3::Combat:         attack 80, defense 80, missile 0
+102235:0::3::                behind 3  (stay behind in combat)
+102235:0::3::Break point:    50%
+102235:0::3::
+102235:0::3::Skills known:
+102235:0::6::none
+102235:0::3::
+102235:0::3::New noble~[102235] has no possessions.
+102235:0::3::
+102235:0::3/11::Capacity:  0/100 land (0%)
+102235:0::3::
+108915:0::3::
+108915:0::3/16::Location:       Desert~[an73], in Atala
+108915:0::3::Loyalty:        Fear-107
+108915:0::3::Health:         100%
+108915:0::3::Combat:         attack 80, defense 80, missile 0
+108915:0::3::                behind 0  (front line in combat)
+108915:0::3::Break point:    50%
+108915:0::3::Banner:         Bite Me
+108915:0::3::
+108915:0::3::Skills known:
+108915:0::6::Combat~[610]
+108915:0::12::Survive fatal wound~[611]
+108915:0::12::Defense~[614], apprentice
+108915:0::12::Weaponsmithing~[617], apprentice
+108915:0::6::Stealth~[630]
+108915:0::6::Beastmastery~[650]
+108915:0::12::Use beasts in battle~[653]
+108915:0::12::Breed beasts~[654], grand master
+108915:0::6::Construction~[680]
+108915:0::3::
+108915:0::3::Inventory:
+108915:0::3::{<b>}      qty  name                              weight{</b>}
+108915:0::3::      ---  ----                              ------
+108915:0::3::      806  gold~[1]                               0  
+108915:0::3::       28  soldiers~[12]                      2,800  cap 2,800 (5,5,0)
+108915:0::3::        5  pikemen~[16]                         500  cap 500 (5,30,0)
+108915:0::3::       23  winged horses~[54]                23,000  fly 3,450
+108915:0::3::       18  harpies~[285]                      9,000   (80,120,0)
+108915:0::3::                                             ======
+108915:0::3::                                             35,300
+108915:0::3::
+108915:0::3/11::Capacity:  0/6,850 land (0%), 3,400/3,450 ride (98%), 3,400/3,450 fly (98%)
+108915:0::3::
+109781:0::3::
+109781:0::3/16::Location:       Nimbus~[d88], in province Cloud~[sr78], in Cloudlands
+109781:0::3::Loyalty:        Fear-84
+109781:0::3/16::Stacked under:  Angel I~[134028]
+109781:0::3::Health:         100%
+109781:0::3::Combat:         attack 80, defense 80, missile 0
+109781:0::3::                behind 3  (stay behind in combat)
+109781:0::3::Break point:    50%
+109781:0::3::
+109781:0::3::Skills known:
+109781:0::6::Combat~[610]
+109781:0::12::Survive fatal wound~[611]
+109781:0::6::Beastmastery~[650]
+109781:0::12::Breed beasts~[654], journeyman
+109781:0::3::
+109781:0::3::Inventory:
+109781:0::3::{<b>}      qty  name                              weight{</b>}
+109781:0::3::      ---  ----                              ------
+109781:0::3::        4  winged horses~[54]                 4,000  fly 600
+109781:0::3::        2  harpies~[285]                      1,000   (80,120,0)
+109781:0::3::                                             ======
+109781:0::3::                                              5,000
+109781:0::3::
+109781:0::3/11::Capacity:  0/700 land (0%), 100/600 ride (16%), 100/600 fly (16%)
+109781:0::3::
+113562:0::3::
+113562:0::3/16::Location:       South Fort~[z98], in province Swamp~[ch48], in Provinia
+113562:0::3::Loyalty:        Oath-1
+113562:0::3::Stacked over:   New noble~[102235]
+113562:0::3::                New noble~[90504]
+113562:0::3::Health:         100%
+113562:0::3::Combat:         attack 137, defense 262, missile 79
+113562:0::3::                behind 3  (stay behind in combat)
+113562:0::3::Break point:    50%
+113562:0::3::use  641 1      (concealing self, but not alone)
+113562:0::3::Banner:         Olympus Ranger
+113562:0::3::
+113562:0::3::Current aura:   5
+113562:0::3::Maximum aura:   11
+113562:0::3::
+113562:0::3::Skills known:
+113562:0::6::Combat~[610]
+113562:0::12::Survive fatal wound~[611]
+113562:0::12::Fight to the death~[612]
+113562:0::12::Construct catapult~[613], apprentice
+113562:0::12::Defense~[614], master
+113562:0::12::Archery~[615], apprentice
+113562:0::12::Swordplay~[616], journeyman
+113562:0::6::Stealth~[630]
+113562:0::12::Petty thievery~[631], apprentice
+113562:0::12::Conceal self~[641], apprentice
+113562:0::6::Weather magic~[820]
+113562:0::12::Fierce wind~[821], apprentice
+113562:0::12::Bind storm to ship~[822], apprentice
+113562:0::12::Scribe weather symbols~[823], apprentice
+113562:0::12::Summon rain~[824], apprentice
+113562:0::12::Summon wind~[825], apprentice
+113562:0::12::Summon fog~[826], apprentice
+113562:0::12::Direct storm~[827], apprentice
+113562:0::12::Renew storm strength~[829], journeyman
+113562:0::12::Lightning bolt~[831], apprentice
+113562:0::12::Seize control of storm~[832], apprentice
+113562:0::3::
+113562:0::3::Inventory:
+113562:0::3::{<b>}      qty  name                              weight{</b>}
+113562:0::3::      ---  ----                              ------
+113562:0::3::       21  gold~[1]                               0  
+113562:0::3::        3  winged horses~[54]                 3,000  fly 450
+113562:0::3::                                             ======
+113562:0::3::                                              3,000
+113562:0::3::
+113562:0::3/11::Capacity:  0/550 land (0%), 100/450 ride (22%), 100/450 fly (22%)
+113562:0::3::
+116096:0::3::
+116096:0::3/16::Location:       Plain~[an58], in Atala
+116096:0::3::Loyalty:        Fear-83
+116096:0::3::Health:         100%
+116096:0::3::Combat:         attack 80, defense 80, missile 0
+116096:0::3::                behind 0  (front line in combat)
+116096:0::3::Break point:    50%
+116096:0::3::
+116096:0::3::Skills known:
+116096:0::6::Combat~[610]
+116096:0::3::
+116096:0::3::Inventory:
+116096:0::3::{<b>}      qty  name                              weight{</b>}
+116096:0::3::      ---  ----                              ------
+116096:0::3::      680  gold~[1]                               0  
+116096:0::3::       20  soldiers~[12]                      2,000  cap 2,000 (5,5,0)
+116096:0::3::        7  pikemen~[16]                         700  cap 700 (5,30,0)
+116096:0::3::       19  ghost warriors~[18]                    0   (0,0,0)
+116096:0::3::       23  winged horses~[54]                23,000  fly 3,450
+116096:0::3::                                             ======
+116096:0::3::                                             25,700
+116096:0::3::
+116096:0::3/11::Capacity:  0/6,250 land (0%), 2,800/3,450 ride (81%), 2,800/3,450 fly (81%)
+116096:0::3::
+120615:0::3::
+120615:0::3/16::Location:       Nimbus~[d88], in province Cloud~[sr78], in Cloudlands
+120615:0::3::Loyalty:        Fear-83
+120615:0::3/16::Stacked under:  Angel I~[134028]
+120615:0::3::Health:         100%
+120615:0::3::Combat:         attack 80, defense 80, missile 0
+120615:0::3::                behind 3  (stay behind in combat)
+120615:0::3::Break point:    50%
+120615:0::3::
+120615:0::3::Skills known:
+120615:0::6::Combat~[610]
+120615:0::12::Survive fatal wound~[611]
+120615:0::12::Defense~[614], apprentice
+120615:0::6::Beastmastery~[650]
+120615:0::12::Breed beasts~[654], journeyman
+120615:0::3::
+120615:0::3::Inventory:
+120615:0::3::{<b>}      qty  name                              weight{</b>}
+120615:0::3::      ---  ----                              ------
+120615:0::3::      300  gold~[1]                               0  
+120615:0::3::        4  winged horses~[54]                 4,000  fly 600
+120615:0::3::        2  harpies~[285]                      1,000   (80,120,0)
+120615:0::3::                                             ======
+120615:0::3::                                              5,000
+120615:0::3::
+120615:0::3/11::Capacity:  0/700 land (0%), 100/600 ride (16%), 100/600 fly (16%)
+120615:0::3::
+128528:0::3::
+128528:0::3/16::Location:       Forest~[an75], in Atala
+128528:0::3::Loyalty:        Fear-68
+128528:0::3::Health:         100%
+128528:0::3::Combat:         attack 80, defense 80, missile 0
+128528:0::3::                behind 0  (front line in combat)
+128528:0::3::Break point:    50%
+128528:0::3::use  641 0      (not concealing self)
+128528:0::3::Banner:         Airborn Doom
+128528:0::3::
+128528:0::3::Declared attitudes:
+128528:0::6::hostile 3878
+128528:0::3::
+128528:0::3::Skills known:
+128528:0::6::Combat~[610]
+128528:0::12::Survive fatal wound~[611]
+128528:0::6::Stealth~[630]
+128528:0::12::Conceal self~[641], apprentice
+128528:0::6::Beastmastery~[650]
+128528:0::12::Use beasts in battle~[653]
+128528:0::12::Breed beasts~[654], master
+128528:0::12::Persuade wild men to remain~[659], apprentice
+128528:0::3::
+128528:0::3::Partially known skills:
+128528:0::6/6::Fight to the death~[612], 21/28
+128528:0::6/6::Trade~[730], 7/21
+128528:0::3::
+128528:0::3::Inventory:
+128528:0::3::{<b>}      qty  name                              weight{</b>}
+128528:0::3::      ---  ----                              ------
+128528:0::3::       44  gold~[1]                               0  
+128528:0::3::       22  soldiers~[12]                      2,200  cap 2,200 (5,5,0)
+128528:0::3::        4  pikemen~[16]                         400  cap 400 (5,30,0)
+128528:0::3::        7  winged horses~[54]                 7,000  fly 1,050
+128528:0::3::        5  longswords~[74]                       25  
+128528:0::3::       20  pikes~[75]                           100  
+128528:0::3::       11  wood~[77]                            330  
+128528:0::3::       52  iron~[79]                            520  
+128528:0::3::       11  harpies~[285]                      5,500   (80,120,0)
+128528:0::3::        1  dead body~[95898]                    100  
+128528:0::3::                                             ======
+128528:0::3::                                             16,175
+128528:0::3::
+128528:0::3/11::Capacity:  1,075/3,750 land (28%), 3,775/1,050 ride (359%), 3,775/1,050 fly (359%)
+128528:0::3::
+134028:0::3::
+134028:0::3/16::Location:       Nimbus~[d88], in province Cloud~[sr78], in Cloudlands
+134028:0::3::Loyalty:        Fear-83
+134028:0::3::Stacked over:   Angel II~[120615]
+134028:0::3::                Angel III~[109781]
+134028:0::3::Health:         100%
+134028:0::3::Combat:         attack 80, defense 80, missile 0
+134028:0::3::                behind 3  (stay behind in combat)
+134028:0::3::Break point:    50%
+134028:0::3::
+134028:0::3::Skills known:
+134028:0::6::Combat~[610]
+134028:0::12::Survive fatal wound~[611]
+134028:0::12::Defense~[614], apprentice
+134028:0::6::Beastmastery~[650]
+134028:0::12::Breed beasts~[654], journeyman
+134028:0::3::
+134028:0::3::Inventory:
+134028:0::3::{<b>}      qty  name                              weight{</b>}
+134028:0::3::      ---  ----                              ------
+134028:0::3::      300  gold~[1]                               0  
+134028:0::3::        2  winged horses~[54]                 2,000  fly 300
+134028:0::3::       22  harpies~[285]                     11,000   (80,120,0)
+134028:0::3::                                             ======
+134028:0::3::                                             13,000
+134028:0::3::
+134028:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%), 100/300 fly (33%)
+134028:0::3::
+148147:0::3::
+148147:0::3/16::Location:       Plain~[am74], in Atala
+148147:0::3::Loyalty:        Oath-2
+148147:0::3::Health:         100%
+148147:0::3::Combat:         attack 109, defense 80, missile 128
+148147:0::3::                behind 3  (stay behind in combat)
+148147:0::3::Break point:    0% (fight to the death)
+148147:0::3::use  641 1      (concealing self, but not alone)
+148147:0::3::Banner:         Eldrad's Loyalist
+148147:0::3/16::Pledged to:     Soulcatcher~[k318]
+148147:0::3::Pledged to us:  Antilles~[f597]
+148147:0::3::                Gustav~[v374]
+148147:0::3::
+148147:0::3::Declared attitudes:
+148147:0::6::hostile 2829  ak6
+148147:0::3::
+148147:0::3::Skills known:
+148147:0::6::Shipcraft~[600]
+148147:0::12::Sailing~[601], adept
+148147:0::12::Fishing~[603], adept
+148147:0::6::Combat~[610]
+148147:0::12::Survive fatal wound~[611]
+148147:0::12::Fight to the death~[612]
+148147:0::12::Defense~[614], apprentice
+148147:0::12::Archery~[615], journeyman
+148147:0::12::Swordplay~[616], apprentice
+148147:0::12::Weaponsmithing~[617], journeyman
+148147:0::6::Stealth~[630]
+148147:0::12::Sneak into structure~[639], apprentice
+148147:0::12::Conceal self~[641], apprentice
+148147:0::6::Beastmastery~[650]
+148147:0::12::Use beasts in battle~[653]
+148147:0::12::Breed beasts~[654], adept
+148147:0::6::Alchemy~[690]
+148147:0::12::Make potion of slavery~[692], apprentice
+148147:0::6::Trade~[730]
+148147:0::3::
+148147:0::3::Inventory:
+148147:0::3::{<b>}      qty  name                              weight{</b>}
+148147:0::3::      ---  ----                              ------
+148147:0::3::    1,996  gold~[1]                               0  
+148147:0::3::        7  peasants~[10]                        700  cap 700 (1,1,0)
+148147:0::3::       13  soldiers~[12]                      1,300  cap 1,300 (5,5,0)
+148147:0::3::       10  winged horses~[54]                10,000  fly 1,500
+148147:0::3::       12  harpies~[285]                      6,000   (80,120,0)
+148147:0::3::                                             ======
+148147:0::3::                                             18,000
+148147:0::3::
+148147:0::3/11::Capacity:  0/3,600 land (0%), 2,100/1,500 ride (140%), 2,100/1,500 fly (140%)
+148147:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Falcon Heart~[pw5].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/pw5/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [pw5]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        11  54th   
+0:0::3/41::Men:                              162  56th   
+0:0::3/41::Gold:                           4,893  83rd   
+0:0::3/41::Land controlled:                   22  70th   
+0:0::3/41::Skills known:                   24/74  86th   
+0:0::3/41::Spells known:                   11/79  84th   
+0:0::3/41::Provinces visited:         580/31,919  59th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  4     (1 gained, 2 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  120483 140133 149814 121675 122321
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::113562 z98    o1    100  3  5   21                            Tlamatcatzintli
+0:0::0::102235 z98    c500  100  3                             113562 New noble
+0:0::0::90504  z98    c500  100  3                             113562 New noble
+0:0::0::88337  am62   o1    100  0     746                  19        Harpie Master
+0:0::0::148147 am74   o2    100  3    1996    7             13        Count F'Drol
+0:0::0::116096 an58   f83   100  0     680                  27        Pest
+0:0::0::108915 an73   f107  100  0     806                  33        Jayme
+0:0::0::128528 an75   f68   100  0      44                  26        Lord Eldrad II
+0:0::0::134028 d88    f83   100  3     300                            Angel I
+0:0::0::120615 d88    f83   100  3     300                     134028 Angel II
+0:0::0::109781 d88    f84   100  3                             134028 Angel III
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              4893    7            118
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Swamp~[ch48]
+0:0::0::    South Fort~[z98]               Tlamatcatzintli~[113562]
+0:0::0::                                     New noble~[102235]
+0:0::0::                                     New noble~[90504]
+0:0::0::Atala
+0:0::0::  Swamp~[am62]                     Harpie Master~[88337]
+0:0::0::  Plain~[am74]                     Count F'Drol~[148147]
+0:0::0::  Plain~[an58]                     Pest~[116096]
+0:0::0::  Desert~[an73]                    Jayme~[108915]
+0:0::0::  Forest~[an75]                    Lord Eldrad II~[128528]
+0:0::0::Cloudlands
+0:0::0::  Cloud~[sr78]
+0:0::0::    Nimbus~[d88]                   Angel I~[134028]
+0:0::0::                                     Angel II~[120615]
+0:0::0::                                     Angel III~[109781]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::113562       3,300        750   0%        150  66%        150  66%
+0:0::0::102235         100        100   0%                                
+0:0::0:: 90504         100        100   0%                                
+0:0::0:: 88337      17,016      2,284   0%    (1,716) 672%    (1,716) 672%
+0:0::0::148147      18,100      3,600   0%      (600) 140%      (600) 140%
+0:0::0::116096      25,800      6,250   0%        650  81%        650  81%
+0:0::0::108915      35,400      6,850   0%         50  98%         50  98%
+0:0::0::128528      16,275      2,675  28%    (2,725) 359%    (2,725) 359%
+0:0::0::134028      23,300      1,800   0%      1,200  20%      1,200  20%
+0:0::0::120615       5,100        700   0%        500  16%        500  16%
+0:0::0::109781       5,100        700   0%        500  16%        500  16%
+0:0::0::
+0:0::0::storm  kind  owner   loc  strength
+0:0::0::-----  ----  -----  ----  --------
+0:0::0::123316  rain  113562  ch48     34
+0:0::0::137289   fog  113562  ch48     25
+0:0::0::145819  rain  113562  ch48     22
+0:0::0::
+0:0::0::garr where  men cost  tax forw castle rulers
+0:0::0::---- -----  --- ----  --- ---- ------ ------
+0:0::0::126058  ap69   20   40  200   32  t383  v374 148147 k318
+0:0::0::6016  ap70   10   20  100   16  t383  v374 148147 k318
+0:0::0::7783  ap71   31   93  300   41  t383  v374 148147 k318
+0:0::0::84352  ap72   10   20  100   16  t383  v374 148147 k318
+0:0::0::9033  ap73   10   20   50    6  t383  v374 148147 k318
+0:0::0::102689  ap74   10   20   50    6  t383  v374 148147 k318
+0:0::0::88082  aq67   10   10   50    8  t383  v374 148147 k318
+0:0::0::7201  aq68   10   10   50    8  t383  v374 148147 k318
+0:0::0::122555  aq69   14   28  100   14  t383  v374 148147 k318
+0:0::0::126357  aq70   10   11  200   37  t383  v374 148147 k318
+0:0::0::3529  aq71   10   20  450    -  t383  v374 148147 k318
+0:0::0::84186  aq72   10   20  200   36  t383  v374 148147 k318
+0:0::0::a897  aq73   10   20  100   16  t383  v374 148147 k318
+0:0::0::5502  aq74   10   20   50    6  t383  v374 148147 k318
+0:0::0::3355  ar67   12   12  200   37  t383  v374 148147 k318
+0:0::0::97253  ar68   10   10   50    8  t383  v374 148147 k318
+0:0::0::1265  ar69   11   12   50    7  t383  v374 148147 k318
+0:0::0::5588  ar70   10   14  100   17  t383  v374 148147 k318
+0:0::0::x790  ar71   10   30  200   34  t383  v374 148147 k318
+0:0::0::1323  as67   10   14   50    7  t383  v374 148147 k318
+0:0::0::111555  as68   10   20   50    6  t383  v374 148147 k318
+0:0::0::9905  as69   10   11   50    7  t383  v374 148147 k318
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Falcon Heart~[pw5]"><font size=+1><b>Falcon Heart~[pw5]</b></font>
+1:2::0::<hr>
+1:1::0::Falcon Heart~[pw5]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54125
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison log"><font size=+1><b>Garrison log</b></font>
+1:2::0::<hr>
+1:1::0::Garrison log
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Tlamatcatzintli~[113562]"><font size=+1><b>Tlamatcatzintli~[113562]</b></font>
+1:2::0::<hr>
+1:1::0::Tlamatcatzintli~[113562]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 113562
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[102235]"><font size=+1><b>New noble~[102235]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[102235]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 102235
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[90504]"><font size=+1><b>New noble~[90504]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[90504]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 90504
+1:0::0::
+1:2::0::
+1:2::0::<name="Harpie Master~[88337]"><font size=+1><b>Harpie Master~[88337]</b></font>
+1:2::0::<hr>
+1:1::0::Harpie Master~[88337]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 88337
+1:0::0::
+1:2::0::
+1:2::0::<name="Count F'Drol~[148147]"><font size=+1><b>Count F'Drol~[148147]</b></font>
+1:2::0::<hr>
+1:1::0::Count F'Drol~[148147]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 148147
+1:0::0::
+1:2::0::
+1:2::0::<name="Pest~[116096]"><font size=+1><b>Pest~[116096]</b></font>
+1:2::0::<hr>
+1:1::0::Pest~[116096]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 116096
+1:0::0::
+1:2::0::
+1:2::0::<name="Jayme~[108915]"><font size=+1><b>Jayme~[108915]</b></font>
+1:2::0::<hr>
+1:1::0::Jayme~[108915]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 108915
+1:0::0::
+1:2::0::
+1:2::0::<name="Lord Eldrad II~[128528]"><font size=+1><b>Lord Eldrad II~[128528]</b></font>
+1:2::0::<hr>
+1:1::0::Lord Eldrad II~[128528]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 128528
+1:0::0::
+1:2::0::
+1:2::0::<name="Angel I~[134028]"><font size=+1><b>Angel I~[134028]</b></font>
+1:2::0::<hr>
+1:1::0::Angel I~[134028]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 134028
+1:0::0::
+1:2::0::
+1:2::0::<name="Angel II~[120615]"><font size=+1><b>Angel II~[120615]</b></font>
+1:2::0::<hr>
+1:1::0::Angel II~[120615]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 120615
+1:0::0::
+1:2::0::
+1:2::0::<name="Angel III~[109781]"><font size=+1><b>Angel III~[109781]</b></font>
+1:2::0::<hr>
+1:1::0::Angel III~[109781]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 109781
+1:2::0::
+1:2::0::<name="Swamp~[ch48]"><font size=+1><b>Swamp~[ch48]</b>, swamp, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Swamp~[ch48], swamp, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14648
+1:0::0::
+1:2::0::
+1:2::0::<name="South Fort~[z98]"><font size=+1><b>South Fort~[z98]</b>, city, in province Swamp~[ch48]</font>
+1:2::0::<hr>
+1:1::0::South Fort~[z98], city, in province Swamp~[ch48]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58758
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ak62]"><font size=+1><b>Forest~[ak62]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[ak62], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10862
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[ak63]"><font size=+1><b>Desert~[ak63]</b>, desert, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[ak63], desert, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10863
+1:0::0::
+1:2::0::
+1:2::0::<name="Swamp~[am62]"><font size=+1><b>Swamp~[am62]</b>, swamp, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Swamp~[am62], swamp, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10962
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[am73]"><font size=+1><b>Plain~[am73]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[am73], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10973
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[am74]"><font size=+1><b>Plain~[am74]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[am74], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10974
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[an58]"><font size=+1><b>Plain~[an58]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[an58], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11058
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[an73]"><font size=+1><b>Desert~[an73]</b>, desert, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[an73], desert, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11073
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[an74]"><font size=+1><b>Mountain~[an74]</b>, mountain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[an74], mountain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11074
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[an75]"><font size=+1><b>Forest~[an75]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[an75], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11075
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ap69]"><font size=+1><b>Forest~[ap69]</b>, forest, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[ap69], forest, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11169
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[ap70]"><font size=+1><b>Plain~[ap70]</b>, plain, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[ap70], plain, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11170
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[ap71]"><font size=+1><b>Free Atala~[ap71]</b>, forest, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[ap71], forest, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11171
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ap72]"><font size=+1><b>Forest~[ap72]</b>, forest, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[ap72], forest, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11172
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[ap73]"><font size=+1><b>Plain~[ap73]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[ap73], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11173
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[ap74]"><font size=+1><b>Desert~[ap74]</b>, desert, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[ap74], desert, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11174
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[aq67]"><font size=+1><b>Mountain~[aq67]</b>, mountain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[aq67], mountain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11267
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[aq68]"><font size=+1><b>Forest~[aq68]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[aq68], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11268
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[aq69]"><font size=+1><b>Desert~[aq69]</b>, desert, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Desert~[aq69], desert, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11269
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[aq70]"><font size=+1><b>Forest~[aq70]</b>, forest, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[aq70], forest, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11270
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[aq71]"><font size=+1><b>Free Atala~[aq71]</b>, mountain, in Atala, civ-6</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[aq71], mountain, in Atala, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11271
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[aq72]"><font size=+1><b>Plain~[aq72]</b>, plain, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Plain~[aq72], plain, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11272
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[aq73]"><font size=+1><b>Plain~[aq73]</b>, plain, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Plain~[aq73], plain, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11273
+1:0::0::
+1:2::0::
+1:2::0::<name="Desert~[aq74]"><font size=+1><b>Desert~[aq74]</b>, desert, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Desert~[aq74], desert, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11274
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ar67]"><font size=+1><b>Forest~[ar67]</b>, forest, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Forest~[ar67], forest, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11367
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ar68]"><font size=+1><b>Forest~[ar68]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[ar68], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11368
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[ar69]"><font size=+1><b>Free Atala~[ar69]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[ar69], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11369
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[ar70]"><font size=+1><b>Free Atala~[ar70]</b>, desert, in Atala, civ-1</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[ar70], desert, in Atala, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11370
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[ar71]"><font size=+1><b>Free Atala~[ar71]</b>, plain, in Atala, civ-3</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[ar71], plain, in Atala, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11371
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[as67]"><font size=+1><b>Forest~[as67]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[as67], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11467
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[as68]"><font size=+1><b>Free Atala~[as68]</b>, forest, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[as68], forest, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11468
+1:0::0::
+1:2::0::
+1:2::0::<name="Free Atala~[as69]"><font size=+1><b>Free Atala~[as69]</b>, plain, in Atala, wilderness</font>
+1:2::0::<hr>
+1:1::0::Free Atala~[as69], plain, in Atala, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11469
+1:0::0::
+1:2::0::
+1:2::0::<name="Cloud~[sr78]"><font size=+1><b>Cloud~[sr78]</b>, cloud, in Cloudlands, civ-5</font>
+1:2::0::<hr>
+1:1::0::Cloud~[sr78], cloud, in Cloudlands, civ-5
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39378
+1:0::0::
+1:2::0::
+1:2::0::<name="Nimbus~[d88]"><font size=+1><b>Nimbus~[d88]</b>, city, in province Cloud~[sr78]</font>
+1:2::0::<hr>
+1:1::0::Nimbus~[d88], city, in province Cloud~[sr78]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57148
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

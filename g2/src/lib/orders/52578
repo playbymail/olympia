@@ -1,0 +1,68 @@
+3408:fly fp26 north
+3408:fly fn26 north
+3408:fly fm26 north
+3408:fly fk26 north
+3408:fly fj26 north
+3408:fly fj27 east
+3408:fly fj28 east
+3408:fly fj29 east
+3408:fly fj30 east
+6165:breed 282 282
+6165:breed 282 282
+6165:breed 282 282
+6165:breed 282 282
+6165:breed 282 282
+6165:breed 282 282
+6165:breed 282 282
+6165:breed 282 282
+7689:use 871 864
+7689:use 871 865
+7689:use 871 866
+7689:use 871 867
+7689:use 871 868
+52578:accept mh8 0
+52578:accept rk7 0
+52578:accept wk7 0
+4096:fish
+4096:sail fd21 east
+4096:sail a39 south
+4096:move a39 out
+4096:move 5735 in
+4096:sail fd21 north
+4096:fish
+4096:make 94
+8079:fish
+8079:sail q48 north
+8079:move q48 out
+8079:buy 261 1 50
+8079:move 99534 in
+8079:repair
+8079:sail fw27 east
+8079:fish 40
+8079:make 94
+6303:move fj30 out
+6303:quarry
+6303:give garrison 78 0
+6303:move r71 in
+6303:stack garrison
+6303:make 95 9
+7115:study 901
+7115:study 841
+7115:use 892 892
+2823:study 880
+2823:study 880
+2823:breed 55 55
+2823:breed 55 55
+2823:breed 55 55
+2823:breed 55 55
+8983:study 841
+8983:study 821
+4662:move a95 out
+4662:move fw20 out
+4662:wood
+4662:give garrison 77 0
+4662:move a95 in
+4662:stack garrison
+4662:make 94 15
+4662:move 113328 in
+4662:repair

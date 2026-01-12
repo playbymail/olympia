@@ -1,0 +1,30 @@
+
+
+26 * 10 * 36 = 9360
+
+	[a00] [a01] [a01] [a0a] [a0b] [a0z]
+	[c93] [c9w] [z9z]
+
+26 * 10 * 10 * 10 = 26000
+
+	[c932]
+
+	[a342]
+
+26 * 10 * 26 * 26 = 175760
+
+	[a3mk]
+
+
+entity space map
+
+0-999		items
+8000-9999	skills
+		player factions		[an]	   260
+		player factions		[ann]	  2600
+		characters		[annn]	 26000
+		locations, other	[aann]	 67600
+
+
+#define		MAX_BOXES	106300
+#define		MAX_BOXES	106460

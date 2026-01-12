@@ -1,0 +1,121 @@
+63668:fly s
+63668:fly s
+63668:fly s
+63668:fly s
+63668:fly s
+63668:fly s
+63668:fly w
+63668:fly w
+63668:fly w
+63668:fly w
+63668:fly w
+63668:fly w
+6242:fly s
+6242:fly s
+6242:fly s
+6242:fly s
+6242:breed 285 285
+6242:breed 285 285
+6242:breed 285 285
+131313:use 751 7478
+131313:execute
+131313:move out
+131313:use 753
+131313:use 751 5681
+131313:use 753
+131313:use 751 142019
+131313:use 753
+131313:use 751
+131313:explore
+131313:explore
+9918:move n
+9918:move n
+9918:move k083
+9918:move bp20
+9918:fly bp19
+9918:fly bp18
+9918:fly p90
+9918:form 109199 "Aurion peasant"
+9918:fly out
+9918:fly e
+9918:fly e
+9918:fly e
+9918:fly k038
+9918:move wj44
+9918:move s
+9918:move s
+9918:explore
+9918:explore
+9918:explore
+9918:explore
+9918:move b797
+9918:move cg34
+9918:fly cg33
+9918:fly cg32
+9918:fly cg31
+9918:fly j37
+9918:form 109199 "Ali Myopec"
+9918:form 81894 "Turban Boochar"
+9918:form 108511 "Mustapha Shiek"
+9918:explore
+9918:move b797
+9918:move cg34
+9918:fly cg33
+9918:fly cg32
+9918:fly cg31
+9918:fly j37
+9918:form 109199 "Ali Myopec"
+9918:form 81894 "Turban Boochar"
+9918:form 108511 "Mustapha Shiek"
+9918:explore
+9918:move b797
+9918:move cg34
+9918:fly cg33
+9918:fly cg32
+9918:fly cg31
+9918:fly j37
+9918:form 109199 "Ali Myopec"
+9918:form 81894 "Turban Boochar"
+9918:form 108511 "Mustapha Shiek"
+9918:explore
+9918:move b797
+9918:move cg34
+9918:fly cg33
+9918:fly cg32
+9918:fly cg31
+9918:fly j37
+9918:form 109199 "Ali Myopec"
+9918:form 81894 "Turban Boochar"
+9918:form 108511 "Mustapha Shiek"
+9918:explore
+81894:unstack
+81894:claim 1 300
+81894:study 610 1
+81894:study 630 1
+81894:study 670 1
+81894:study 630
+81894:study 630
+81894:explore
+81894:explore
+81894:seek
+108511:unstack
+108511:claim 1 300
+108511:study 610 1
+108511:study 630 1
+108511:study 670 1
+108511:study 630
+108511:study 630
+108511:explore
+108511:explore
+108511:seek
+109199:unstack
+109199:claim 1 300
+109199:study 610 1
+109199:study 630 1
+109199:study 670 1
+109199:study 630
+109199:study 630
+109199:explore
+109199:explore
+109199:seek
+56406:accept 0 0

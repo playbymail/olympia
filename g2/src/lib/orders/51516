@@ -1,0 +1,338 @@
+144819:move south
+144819:move south
+144819:move west
+144819:move west
+144819:move north
+144819:move west
+144819:explore
+144819:explore
+144819:explore
+144819:study 611
+144819:study 611
+84264:use 701
+84264:use 701
+84264:give garrison 60 0
+84264:collect 10
+84264:train 11
+61482:give garrison 61 0
+61482:use 847 136274 3
+61482:get garrions 77 3
+61482:use 613
+61482:give garrison 61 0
+61482:get garrions 77 3
+61482:use 613
+61482:give garrison 61 0
+61482:get garrions 77 3
+61482:use 613
+61482:give garrison 61 0
+61482:study 615
+61482:study 615
+65320:get garrison 77 3
+65320:use 701
+65320:give garrison 60 0
+65320:get garrison 77 3
+65320:use 701
+65320:give garrison 60 0
+65320:get garrison 77 3
+65320:use 701
+65320:give garrison 60 0
+65320:get garrison 77 3
+65320:use 701
+65320:give garrison 60 0
+65320:get garrison 77 3
+65320:use 701
+65320:give garrison 60 0
+65320:study 697
+65320:study 697
+96264:stop
+96264:collect 10
+96264:train 12 10
+96264:train 16
+96264:collect 10
+96264:train 12 10
+96264:train 16
+96264:collect 10
+96264:train 12 10
+96264:train 16
+107030:give garrison 61 0
+107030:get garrison 77 3
+107030:use 613
+107030:give garrison 61 0
+107030:get garrison 77 3
+107030:use 613
+107030:give garrison 61 0
+107030:get garrison 77 3
+107030:use 613
+107030:give garrison 61 0
+107030:get garrison 77 3
+107030:use 613
+107030:give garrison 61 0
+104717:move qd37
+104717:move pb38
+104717:move vg94
+104717:move zr37
+104717:move qq04
+104717:move tn06
+104717:move wd45
+104717:move qk58
+104717:move hd27
+104717:move hm62
+104717:move xx-r824
+104717:move xx-cb60
+4029:breed 54 54
+4029:breed 54 54
+4029:breed 54 54
+4029:breed 54 54
+4029:breed 54 54
+4029:breed 54 54
+100669:give 117499 11 0
+100669:give garrison 11 0
+100669:give garrison 76 5
+100669:get garrison 52 0
+100669:move east
+100669:give garrison 10 0
+100669:get garrison 77 0
+100669:get garrison 13 0
+100669:move west
+100669:get garrison 13 0
+100669:get garrison 77 0
+100669:give garrison 77 25
+100669:get garrison 98 0
+100669:get garrison 79 0
+100669:get garrison 68 0
+100669:get garrison 95 0
+100669:get garrison 94 0
+100669:give garrison 76 0
+100669:give garrison 52 0
+100669:seek
+100669:seek
+100669:seek
+137761:collect 77
+137761:give garrison 77 0 3
+137761:use 701
+137761:get garrison 77 3
+137761:use 701
+137761:give garrison 60 0
+137761:train 11
+137761:study 635
+137761:study 635
+119589:honor 500
+119589:give garrison 61 0
+119589:get garrison 77 3
+119589:use 613
+119589:give garrison 61 0
+119589:get garrison 77 3
+119589:use 613
+119589:give garrison 61 0
+119589:get garrison 77 3
+119589:use 613
+119589:give garrison 61 0
+117499:collect 10 2
+117499:get garrison 75 4
+117499:train 12 2
+117499:train 16 2
+117499:get garrison 11 0
+117499:quarry
+117499:attack h295
+117499:move h295
+117499:collect 68           
+117499:build temple "Pickman Temple"
+117499:out
+117499:train 12
+117499:train 16
+117944:move west
+117944:get garrison 1 0
+117944:move west
+117944:get garrison 1 0
+117944:move west
+117944:get garrison 1 0
+117944:move west
+117944:get garrison 1 0
+117944:get garrison 54 0
+117944:get garrison 1 0
+117944:move east
+117944:move east
+117944:move east
+117944:give garrison 54 0
+117944:give garrison 52 0
+117944:give garrison 76 0
+117944:wait not day 2
+98141:stop
+98141:give garrison 85 0
+98141:give garrison 77 0
+98141:get garrison 76 0
+98141:get garrison 52 0
+98141:get  garrison 88024 0
+98141:give garrison 88024 0  50
+98141:sell 88024 50  63
+98141:get  garrison  h685 0
+98141:give garrison  h685 0  28
+98141:sell  h685 28  96
+98141:move f80
+98141:move out
+98141:give garrison  88024 0
+98141:give garrison   h685 0
+98141:give garrison     76 0
+98141:give garrison 52 0
+98141:study 700
+98141:study 700
+98141:study 702
+98141:study 702
+98141:get garrison 77 0
+98141:make 85
+51516:accept ak6 0   
+51516:accept en6 0   
+51516:accept fa5 0   
+51516:accept hh6 0   
+51516:accept zz4 0   
+51516:accept wc9 0
+51516:accept yq6 0
+51516:accept xu3 0
+51516:accept nf6 0
+51516:accept jm8 0
+51516:accept ty4 0
+51516:accept rv6 0
+51516:accept jy6 0   
+51516:accept gh2 0   
+51516:accept xj5 0   
+51516:accept em7 0   
+51516:accept cy5 0   
+51516:neutral fv6
+51516:admit 4408 ak6 en6 fa5 hh6 zz4 wc9 yq6 xu3 nf6 jm8 ty4 rv6 em7 cy5
+51516:admit 144027 all
+51516:accept 0 0 
+119121:give 84264 77 6
+119121:use 613
+119121:give garrison 61 0
+119121:use 613
+119121:give garrison 61 0
+119121:collect 10 1
+119121:train 11
+119121:collect 10
+119121:train 11
+128706:stop
+128706:accept 0 0
+128706:make 18
+128706:use 921
+144027:stop
+144027:give garrison 51 0
+144027:get garrison 280 2
+144027:get garrison 10 2
+144027:breed 280 10
+144027:breed 280 10
+144027:give garrison 280 0
+144027:give garrison 10 0
+144027:give garrison 285 0
+144027:collect 51
+106161:stop
+106161:explore
+106161:move za46
+106161:explore
+106161:move za46
+106161:explore
+106161:move za46
+106161:explore
+106161:move za46
+106161:study 613
+99442:study 610
+99442:study 610
+118285:study 701
+118285:study 701
+88779:get  garrison 76 0       
+88779:get  garrison w293 0
+88779:give garrison w293 0 27    
+88779:sell w293 27 123
+88779:get  garrison 111214 0
+88779:give garrison 111214 0 31  
+88779:sell 111214 31 92
+88779:move h80
+88779:out
+88779:give garrison     76 0   
+88779:give garrison 111214 0
+88779:give garrison   w293 0
+88779:fly north
+88779:move ba59
+88779:get  garrison 76 0         
+88779:get  garrison b066 0
+88779:give garrison b066 0 26
+88779:sell  b066 26  88
+88779:move w81
+88779:out
+88779:give garrison     76 0     
+88779:give garrison   g880 0
+88779:give garrison   b066 0
+88779:fly north
+88779:move az59
+88779:get  garrison 76 5
+88779:buy     52 2 150     
+88779:move x61
+88779:move 4408
+88779:give 128706 1 0 1000
+88779:out
+88779:out
+88779:give garrison     76 0   
+88779:give garrison     52 0   
+88779:give garrison   w616 0
+88779:fly east
+88779:move az60
+88779:get  garrison 54 0       
+88779:get  garrison 76 0       
+88779:get  garrison 145699 0
+88779:give garrison 145699 0 34  
+88779:sell 145699 34 101
+88779:get  garrison 134361 0
+88779:give garrison 134361 0 37  
+88779:sell 134361 37  96
+88779:move g22
+88779:fly out
+88779:out
+88779:give garrison 145699 0   
+88779:give garrison 134361 0   
+88779:give garrison   76 0     
+88779:give garrison   54 0 2   
+88779:study 615
+88779:study 615
+2198:stop
+2198:give garrison 77 0
+2198:give garrison 85 0
+2198:get  garrison 76   0         
+2198:get  garrison 52   0  
+2198:get  garrison g637 0
+2198:give garrison g637 0 27
+2198:sell  g637 27 119
+2198:get  garrison f149 0
+2198:give garrison f149 0 25
+2198:sell  f149 25 225
+2198:move t82
+2198:move out
+2198:give garrison   g637 0
+2198:give garrison   f149 0
+2198:give garrison     52 0
+2198:give garrison     76 0
+2198:give garrison 1 0 200
+2198:get garrison     52 0
+2198:get garrison     76 0
+2198:move west
+2198:get garrison 11 0
+2198:collect 77
+2198:give garrison 11 0
+2198:move south
+2198:give garrison 77 0
+2198:get garrison 76 0
+2198:get garrison 52 0
+2198:buy      52  2 150
+2198:get  garrison 126753 0
+2198:give garrison 126753 0 32
+2198:sell 126753 32 161
+2198:get  garrison 134308 0
+2198:give garrison 134308 0 25
+2198:sell 134308 25 130
+2198:move z92
+2198:out
+2198:give garrison 134308 0
+2198:give garrison 126753 0
+2198:give garrison     52 0
+2198:give garrison     76 0
+2198:use 102218 cb46
+2198:get garrison 77 0
+2198:make 85

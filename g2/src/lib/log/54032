@@ -1,0 +1,724 @@
+16455:0::0:0:Garrison~[3756], garrison, with eight~ghost warriors, ten~peasants, 270~giant lizards, 55~winged horses, 28~soldiers, 66~pikemen, 24~wild horses, 179~riding horses, 41~centaurs guards Twilight zone~[df55].
+16555:0::0:0:Garrison~[c837], garrison, with ten~soldiers guards Twilight zone~[dg55].
+16355:0::0:0:Garrison~[g423], garrison, with ten~peasants guards Twilight zone~[dd55].
+16355:0::0:2:A tunnel in Deep Vein I~[90645] has caved in!
+16355:0::0:2:Deep Vein I~[90645] collapses!
+16455:0::0:21:It has begun to rain.
+80094:0::0:30:Paid maintenance of 22~gold.
+107799:0::0:30:Maintenance costs are 8~gold, can afford 1~gold.
+107799:0::0:30:Two~workers left service.
+16355:0::0:30:It has stopped raining.
+16555:0::0:30:It has stopped raining.
+4:2::0::
+4:2::0::<name="Twilight zone~[dd55]"><font size=+1><b>Twilight zone~[dd55]</b>, mountain, in Provinia, civ-3</font>
+4:2::0::<hr>
+4:1::0::Twilight zone~[dd55], mountain, in Provinia, civ-3
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Thornmaze~[t324], castle, in Twilight zone~[df55]
+4:0::0::Ruled by Aditu no-Sa'onserei~[c575], duke
+4:0::0::
+4:0::0::Routes leaving Twilight zone: 
+4:0::3::North, swamp, to Twilight zone~[dc55], 14~days
+4:0::3::East, desert, to Twilight zone~[dd56], 8~days
+4:0::3::South, forest, to Twilight zone~[df55], 8~days
+4:0::3::West, forest, to Twilight zone~[dd54], 8~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Deep Vein I~[90645], collapsed mine, defense~9, depth~2, 100%~damaged
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[g423], garrison, on guard, with ten~peasants
+4:0::0/3:: * Adrian~[107799], with two~workers, one~winged horse
+4:0::0/3::   Savage~[132052], savages, number:~17
+4:0::0/3::   Savage~[99489], savages, number:~8
+4:0::0::
+4:2::0::
+4:2::0::<name="Twilight zone~[df55]"><font size=+1><b>Twilight zone~[df55]</b>, forest, in Provinia, civ-6</font>
+4:2::0::<hr>
+4:1::0::Twilight zone~[df55], forest, in Provinia, civ-6
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Thornmaze~[t324], castle, in Twilight zone~[df55]
+4:0::0::Ruled by Aditu no-Sa'onserei~[c575], duke
+4:0::0::
+4:0::0::Routes leaving Twilight zone: 
+4:0::3::North, mountain, to Twilight zone~[dd55], 10~days
+4:0::3::East, desert, to Twilight zone~[df56], 8~days
+4:0::3::South, desert, to Twilight zone~[dg55], 8~days
+4:0::3::West, mountain, to Twilight zone~[df54], 10~days
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Twilight City~[g95], city, 1 day
+4:0::0::
+4:0::0::It is raining.
+4:0::3::Rain~[99772], storm, strength~2
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[3756], garrison, on guard, with eight~ghost warriors, ten~peasants, 270~giant lizards, 55~winged horses, 28~soldiers, 66~pikemen, 24~wild horses, 179~riding horses, 41~centaurs
+4:0::0/3::   Budisatva~[1388]
+4:0::0::
+4:2::0::
+4:2::0::<name="Twilight zone~[dg55]"><font size=+1><b>Twilight zone~[dg55]</b>, desert, in Provinia, civ-3</font>
+4:2::0::<hr>
+4:1::0::Twilight zone~[dg55], desert, in Provinia, civ-3
+4:1::0::------------------------------------------------------------------------
+4:0::0::Province controlled by Thornmaze~[t324], castle, in Twilight zone~[df55]
+4:0::0::Ruled by Aditu no-Sa'onserei~[c575], duke
+4:0::0::
+4:0::0::Routes leaving Twilight zone: 
+4:0::3::North, forest, to Twilight zone~[df55], 8~days
+4:0::3::East, swamp, to Twilight zone~[dg56], 14~days
+4:0::3::South, plain, to Twilight zone~[dh55], 7~days
+4:0::3::West, forest, to Twilight zone~[dg54], 8~days
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3::   Garrison~[c837], garrison, on guard, with ten~soldiers
+4:0::0/3:: * Ivan~[81134], with 18~giant lizards
+4:0::0::
+4:2::0::
+4:2::0::<name="Twilight City~[g95]"><font size=+1><b>Twilight City~[g95]</b>, city, in province Twilight zone~[df55]</font>
+4:2::0::<hr>
+4:1::0::Twilight City~[g95], city, in province Twilight zone~[df55]
+4:1::0::------------------------------------------------------------------------
+4:0::0::Routes leaving Twilight City: 
+4:0::3::Out, forest, to Twilight zone~[df55], 1~day
+4:0::0::
+4:0::0::Cities rumored to be nearby:
+4:0::3::Cirrele~[b07], in Twilight zone~[df56]
+4:0::3::Branwen~[j84], in Twilight zone~[dj57]
+4:0::3::Skyllith~[t64], in Kastria~[db54]
+4:0::0::
+4:0::0::Skills taught here:
+4:0::3::Combat~[610], Stealth~[630], Persuasion~[670], Construction~[680], Forestry~[700], Magic~[800], Scrying~[840]
+4:0::0::
+4:0::0::Market report:
+4:0::3::
+4:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+4:0::3::-----    ---   -----    ---     -----   ----                     
+4:0::3::  buy 129749     100      5        10   iron~[79]                
+4:0::3::  buy    g95      76     41       100   cassava~[137611]         
+4:0::3::  buy    g95      63     47        50   soap~[148496]            
+4:0::3::  buy    g95     156     49        15   rose perfume~[106274]    
+4:0::3::  buy    g95       4     15         1   woven baskets~[94]       
+4:0::3:: sell    g95      11     25        30   wood~[77]                
+4:0::3:: sell    g95      65     41        23   cardamom~[x663]          
+4:0::3:: sell    g95      21     49        27   saffron~[83564]          
+4:0::3:: sell    g95     110     29       100   jade~[m394]              
+4:0::0::
+4:0::0::Inner locations:
+4:0::3::Thornmaze~[t324], castle, defense~80, level~6, owner:
+4:0::0/6::      Amerasu no'e-Sa'onserei~[k103], duke, master of the black arts, with 257~soldiers, 18~elite guard, one~crossbowman, 63~elite archers, two~winged horses
+4:0::0/6:: *    Eaan Skar~[148989], mage
+4:0::0/6:: *    Cecil~[99523], accompanied~by:
+4:0::0/9:: *       Mhorghaidh~[b742], priest
+4:0::0/6::      Winceslas~[99050]
+4:0::6::Minas Tirith~[p677], tower, defense~40
+4:0::3::Temple of the Sun~[k873], temple, defense~10
+4:0::0::
+4:0::0::It is raining.
+4:0::0::
+4:0::0::Seen here:
+4:0::0/3:: * Ikarus~[x427], "{<i>}into the sun...{</i>}"
+4:0::0/3:: * Dimitri~[129749], conjurer, with one~winged horse
+4:0::0/3:: * Sigmund~[80094], with 11~workers, 13~riding horses
+4:0::0::
+5:0::0::
+5:0::0::begin pn2 "cosbydog"  # The Navigators
+5:0::0::
+5:0::0::unit pn2  # The Navigators
+5:0::0::
+5:0::0::unit 107799  # Adrian in Twilight zone~[dd55]
+5:0::0::
+5:0::0::unit 148989  # Eaan Skar in Thornmaze~[t324]
+5:0::0::
+5:0::0::unit 99523  # Cecil in Thornmaze~[t324]
+5:0::0::
+5:0::0::unit b742  # Mhorghaidh in Thornmaze~[t324]
+5:0::0::
+5:0::0::unit x427  # Ikarus in Twilight City~[g95]
+5:0::0::
+5:0::0::unit 129749  # Dimitri in Twilight City~[g95]
+5:0::0::
+5:0::0::unit 80094  # Sigmund in Twilight City~[g95]
+5:0::0::
+5:0::0::unit 81134  # Ivan in Twilight zone~[dg55]
+5:0::0::
+5:0::0::end
+54032:0::0::
+54032:0::0::Admit permissions:
+54032:0::0::
+54032:0::3::admit t324 k103
+54032:0::0::
+54032:0::0::Unclaimed items:
+54032:0::0::
+54032:0::0::      qty  name                              weight
+54032:0::0::      ---  ----                              ------
+54032:0::0::    1,802  gold~[1]                               0  
+60742:0::3::
+60742:0::3/16::Location:       Thornmaze~[t324], in Twilight City~[g95], in province Twilight zone~[df55], in Provinia
+60742:0::3::Loyalty:        Fear-58
+60742:0::3/16::Stacked under:  Cecil~[99523]
+60742:0::3::Health:         100%
+60742:0::3::Combat:         attack 93, defense 181, missile 76
+60742:0::3::                behind 9  (stay behind in combat)
+60742:0::3::Break point:    50%
+60742:0::3::Receive Vision: 3 protection
+60742:0::3::
+60742:0::3::Skills known:
+60742:0::6::Combat~[610]
+60742:0::12::Survive fatal wound~[611]
+60742:0::12::Fight to the death~[612]
+60742:0::12::Defense~[614], journeyman
+60742:0::12::Archery~[615], apprentice
+60742:0::12::Swordplay~[616], apprentice
+60742:0::12::Weaponsmithing~[617], apprentice
+60742:0::6::Stealth~[630]
+60742:0::12::Petty thievery~[631], apprentice
+60742:0::12::Determine inventory of character~[632], apprentice
+60742:0::6::Construction~[680]
+60742:0::12::Stone quarrying~[682], apprentice
+60742:0::6::Alchemy~[690]
+60742:0::12::Extract venom from ratspider~[691], apprentice
+60742:0::12::Make potion of slavery~[692], apprentice
+60742:0::12::Brew healing potion~[693], apprentice
+60742:0::6::Religion~[750]
+60742:0::12::Receive vision~[751], journeyman
+60742:0::12::Resurrect dead noble~[752], apprentice
+60742:0::12::Preparatory ritual~[753], journeyman
+60742:0::12::Lay to rest~[754], apprentice
+60742:0::12::Remove blessing from soldiers~[755], apprentice
+60742:0::12::Immunity from Vision~[756], journeyman
+60742:0::3::
+60742:0::3::Inventory:
+60742:0::3::{<b>}      qty  name                              weight{</b>}
+60742:0::3::      ---  ----                              ------
+60742:0::3::    1,900  gold~[1]                               0  
+60742:0::3::                                             ======
+60742:0::3::                                                  0
+60742:0::3::
+60742:0::3/11::Capacity:  0/100 land (0%)
+60742:0::3::
+60742:0::3::Pending trades:
+60742:0::3::
+60742:0::6::trade    price    qty   item
+60742:0::6::-----    -----    ---   ----
+60742:0::6:: sell        4    405   woven basket~[94]
+60742:0::3::
+77427:0::3::
+77427:0::3/16::Location:       Twilight City~[g95], in province Twilight zone~[df55], in Provinia
+77427:0::3::Loyalty:        Fear-67
+77427:0::3::Health:         100%
+77427:0::3::Combat:         attack 97, defense 103, missile 58
+77427:0::3::                behind 0  (front line in combat)
+77427:0::3::Break point:    0% (fight to the death)
+77427:0::3::Banner:         into the sun...
+77427:0::3::
+77427:0::3::Skills known:
+77427:0::6::Combat~[610]
+77427:0::12::Fight to the death~[612]
+77427:0::12::Construct catapult~[613], apprentice
+77427:0::12::Defense~[614], apprentice
+77427:0::12::Archery~[615], apprentice
+77427:0::12::Swordplay~[616], journeyman
+77427:0::12::Weaponsmithing~[617], adept
+77427:0::6::Stealth~[630]
+77427:0::12::Petty thievery~[631], apprentice
+77427:0::12::Determine inventory of character~[632], apprentice
+77427:0::12::Determine skills of character~[633], apprentice
+77427:0::6::Construction~[680]
+77427:0::12::Construct siege tower~[681], apprentice
+77427:0::12::Stone quarrying~[682], master
+77427:0::6::Forestry~[700]
+77427:0::12::Construct battering ram~[701], apprentice
+77427:0::12::Harvest lumber~[702], journeyman
+77427:0::6::Mining~[720]
+77427:0::12::Mine iron~[721], master
+77427:0::12::Mine gold~[722], master
+77427:0::12::Mine mithril~[723], journeyman
+77427:0::3::
+77427:0::3::Ikarus~[x427] has no possessions.
+77427:0::3::
+77427:0::3/11::Capacity:  0/100 land (0%)
+77427:0::3::
+77427:0::3::Pending trades:
+77427:0::3::
+77427:0::6::trade    price    qty   item
+77427:0::6::-----    -----    ---   ----
+77427:0::6:: sell        4     83   woven basket~[94]
+77427:0::3::
+80094:0::3::
+80094:0::3/16::Location:       Twilight City~[g95], in province Twilight zone~[df55], in Provinia
+80094:0::3::Loyalty:        Oath-1
+80094:0::3::Health:         100%
+80094:0::3::Combat:         attack 80, defense 158, missile 0
+80094:0::3::                behind 0  (front line in combat)
+80094:0::3::Break point:    50%
+80094:0::3::
+80094:0::3::Skills known:
+80094:0::6::Combat~[610]
+80094:0::12::Survive fatal wound~[611]
+80094:0::12::Fight to the death~[612]
+80094:0::12::Defense~[614], journeyman
+80094:0::12::Weaponsmithing~[617], master
+80094:0::6::Construction~[680]
+80094:0::12::Stone quarrying~[682], adept
+80094:0::6::Forestry~[700]
+80094:0::12::Construct battering ram~[701], apprentice
+80094:0::12::Harvest lumber~[702], journeyman
+80094:0::12::Harvest yew~[703], grand master
+80094:0::12::Collect rare foliage~[704], apprentice
+80094:0::12::Harvest mallorn wood~[705], apprentice
+80094:0::3::
+80094:0::3::Inventory:
+80094:0::3::{<b>}      qty  name                              weight{</b>}
+80094:0::3::      ---  ----                              ------
+80094:0::3::    1,841  gold~[1]                               0  
+80094:0::3::       11  workers~[11]                       1,100  cap 1,100 (1,1,0)
+80094:0::3::       13  riding horses~[52]                13,000  ride 1,950
+80094:0::3::      105  longbows~[72]                        315  
+80094:0::3::                                             ======
+80094:0::3::                                             14,415
+80094:0::3::
+80094:0::3/11::Capacity:  315/3,150 land (10%), 1,515/1,950 ride (77%)
+80094:0::3::
+80094:0::3::Pending trades:
+80094:0::3::
+80094:0::6::trade    price    qty   item
+80094:0::6::-----    -----    ---   ----
+80094:0::6:: sell        4      7   clay pot~[95]
+80094:0::6:: sell        3     40   woven basket~[94]
+80094:0::3::
+81134:0::3::
+81134:0::3/16::Location:       Twilight zone~[dg55], in Provinia
+81134:0::3::Loyalty:        Oath-1
+81134:0::3::Health:         100%
+81134:0::3::Combat:         attack 104, defense 80, missile 0
+81134:0::3::                behind 0  (front line in combat)
+81134:0::3::Break point:    50%
+81134:0::3::
+81134:0::3::Skills known:
+81134:0::6::Shipcraft~[600]
+81134:0::6::Combat~[610]
+81134:0::12::Fight to the death~[612]
+81134:0::12::Swordplay~[616], apprentice
+81134:0::6::Stealth~[630]
+81134:0::12::Petty thievery~[631], journeyman
+81134:0::6::Beastmastery~[650]
+81134:0::12::Use beasts in battle~[653]
+81134:0::12::Breed beasts~[654], grand master
+81134:0::12::Catch wild horses~[655], journeyman
+81134:0::12::Train wild horse to riding horse~[656], adept
+81134:0::6::Persuasion~[670]
+81134:0::12::Bribe noble~[671], apprentice
+81134:0::3::
+81134:0::3::Inventory:
+81134:0::3::{<b>}      qty  name                              weight{</b>}
+81134:0::3::      ---  ----                              ------
+81134:0::3::    4,369  gold~[1]                               0  
+81134:0::3::       18  giant lizards~[282]               18,000   (45,45,0)
+81134:0::3::                                             ======
+81134:0::3::                                             18,000
+81134:0::3::
+81134:0::3/11::Capacity:  0/100 land (0%)
+81134:0::3::
+81134:0::3::Pending trades:
+81134:0::3::
+81134:0::6::trade    price    qty   item
+81134:0::6::-----    -----    ---   ----
+81134:0::6:: sell        3     50   woven basket~[94]
+81134:0::3::
+99523:0::3::
+99523:0::3/16::Location:       Thornmaze~[t324], in Twilight City~[g95], in province Twilight zone~[df55], in Provinia
+99523:0::3::Loyalty:        Oath-1
+99523:0::3::Stacked over:   Mhorghaidh~[b742]
+99523:0::3::Health:         100%
+99523:0::3::Combat:         attack 80, defense 273, missile 335
+99523:0::3::                behind 9  (stay behind in combat)
+99523:0::3::Break point:    50%
+99523:0::3::
+99523:0::3::Current aura:   3
+99523:0::3::Maximum aura:   3
+99523:0::3::
+99523:0::3::Skills known:
+99523:0::6::Combat~[610]
+99523:0::12::Survive fatal wound~[611]
+99523:0::12::Fight to the death~[612]
+99523:0::12::Defense~[614], master
+99523:0::12::Archery~[615], master
+99523:0::12::Weaponsmithing~[617], adept
+99523:0::6::Stealth~[630]
+99523:0::6::Persuasion~[670]
+99523:0::12::Bribe noble~[671], apprentice
+99523:0::6::Scrying~[840]
+99523:0::12::Locate character~[847], apprentice
+99523:0::12::Banish undead~[852], apprentice
+99523:0::3::
+99523:0::3::Partially known skills:
+99523:0::6/6::Dispel location shroud~[843], 15/21
+99523:0::6/6::Create magical barrier~[845], 1/21
+99523:0::6/6::Detect location scry~[848], 1/21
+99523:0::6/6::Save farcast state~[851], 1/21
+99523:0::3::
+99523:0::3::Inventory:
+99523:0::3::{<b>}      qty  name                              weight{</b>}
+99523:0::3::      ---  ----                              ------
+99523:0::3::    2,010  gold~[1]                               0  
+99523:0::3::        1  Scroll~[a201]                          1  
+99523:0::3::        1  Scroll~[c446]                          1  
+99523:0::3::        1  Scroll~[h357]                          1  
+99523:0::3::        1  Scroll~[s936]                          1  
+99523:0::3::        1  Scroll~[w686]                          1  
+99523:0::3::        1  Scroll~[z519]                          1  
+99523:0::3::        1  Scroll~[z546]                          1  
+99523:0::3::        1  Scroll~[101949]                        1  
+99523:0::3::                                             ======
+99523:0::3::                                                  8
+99523:0::3::
+99523:0::3/11::Capacity:  8/100 land (8%)
+99523:0::3::
+99523:0::3::Scroll~[a201] permits study of the following skills:
+99523:0::6/3::Dispel location shroud~[843] (requires Scrying)
+99523:0::3::
+99523:0::3::Scroll~[c446] permits study of the following skills:
+99523:0::6/3::Detect location scry~[848] (requires Scrying)
+99523:0::3::
+99523:0::3::Scroll~[h357] permits study of the following skills:
+99523:0::6/3::Locate character~[847] (requires Scrying)
+99523:0::3::
+99523:0::3::Scroll~[s936] permits study of the following skills:
+99523:0::6/3::Banish undead~[852] (requires Scrying)
+99523:0::3::
+99523:0::3::Scroll~[w686] permits study of the following skills:
+99523:0::6/3::Detect location scry~[848] (requires Scrying)
+99523:0::3::
+99523:0::3::Scroll~[z519] permits study of the following skills:
+99523:0::6/3::Save farcast state~[851] (requires Scrying)
+99523:0::3::
+99523:0::3::Scroll~[z546] permits study of the following skills:
+99523:0::6/3::Create magical barrier~[845] (requires Scrying)
+99523:0::3::
+99523:0::3::Scroll~[101949] permits study of the following skills:
+99523:0::6/3::Remove magical barrier~[846] (requires Scrying)
+99523:0::3::
+99523:0::3::Pending trades:
+99523:0::3::
+99523:0::6::trade    price    qty   item
+99523:0::6::-----    -----    ---   ----
+99523:0::6:: sell        3     50   woven basket~[94]
+99523:0::6:: sell       10     10   crossbow~[85]
+99523:0::3::
+107799:0::3::
+107799:0::3/16::Location:       Twilight zone~[dd55], in Provinia
+107799:0::3::Loyalty:        Oath-1
+107799:0::3::Health:         100%
+107799:0::3::Combat:         attack 80, defense 80, missile 0
+107799:0::3::                behind 0  (front line in combat)
+107799:0::3::Break point:    50%
+107799:0::3::
+107799:0::3::Current aura:   2
+107799:0::3::Maximum aura:   2
+107799:0::3::
+107799:0::3::Skills known:
+107799:0::6::Combat~[610]
+107799:0::12::Swordplay~[616], apprentice
+107799:0::6::Magic~[800]
+107799:0::12::Perform common tasks for gold~[802], journeyman
+107799:0::3::
+107799:0::3::Inventory:
+107799:0::3::{<b>}      qty  name                              weight{</b>}
+107799:0::3::      ---  ----                              ------
+107799:0::3::        1  gold~[1]                               0  
+107799:0::3::        2  workers~[11]                         200  cap 200 (1,1,0)
+107799:0::3::        1  winged horse~[54]                  1,000  fly 150
+107799:0::3::                                             ======
+107799:0::3::                                              1,200
+107799:0::3::
+107799:0::3/11::Capacity:  0/450 land (0%), 300/150 ride (200%), 300/150 fly (200%)
+107799:0::3::
+129749:0::3::
+129749:0::3/16::Location:       Twilight City~[g95], in province Twilight zone~[df55], in Provinia
+129749:0::3::Loyalty:        Oath-1
+129749:0::3::Health:         100%
+129749:0::3::Combat:         attack 80, defense 80, missile 0
+129749:0::3::                behind 0  (front line in combat)
+129749:0::3::Break point:    50%
+129749:0::3::
+129749:0::3::Current aura:   6
+129749:0::3::Maximum aura:   6
+129749:0::3::
+129749:0::3::Skills known:
+129749:0::6::Combat~[610]
+129749:0::12::Survive fatal wound~[611]
+129749:0::12::Defense~[614], apprentice
+129749:0::6::Persuasion~[670]
+129749:0::6::Alchemy~[690]
+129749:0::6::Trade~[730]
+129749:0::12::Find market for tradegood~[733], apprentice
+129749:0::6::Magic~[800]
+129749:0::12::Meditate~[801], apprentice
+129749:0::12::Perform common tasks for gold~[802], adept
+129749:0::6::Weather magic~[820]
+129749:0::12::Fierce wind~[821], apprentice
+129749:0::6::Artifact construction~[880]
+129749:0::3::
+129749:0::3::Partially known skills:
+129749:0::6/6::Necromancy~[900], 1/42
+129749:0::3::
+129749:0::3::Inventory:
+129749:0::3::{<b>}      qty  name                              weight{</b>}
+129749:0::3::      ---  ----                              ------
+129749:0::3::    2,199  gold~[1]                               0  
+129749:0::3::        1  winged horse~[54]                  1,000  fly 150
+129749:0::3::        1  885 scroll~[b426]                      1  
+129749:0::3::        1  tea~[k602]                            43  
+129749:0::3::        1  886 scroll~[m158]                      1  
+129749:0::3::        1  891 scroll~[q376]                      1  
+129749:0::3::        1  888 scroll~[r162]                      1  
+129749:0::3::        1  Scroll~[81236]                         1  
+129749:0::3::        1  ochre~[84089]                         75  
+129749:0::3::        1  889 scroll~[88291]                     1  
+129749:0::3::        1  silver ring~[103083]                   3  
+129749:0::3::                                             ======
+129749:0::3::                                              1,127
+129749:0::3::
+129749:0::3/11::Capacity:  127/250 land (50%), 227/150 ride (151%), 227/150 fly (151%)
+129749:0::3::
+129749:0::3::885 scroll~[b426] permits study of the following skills:
+129749:0::6/3::Cloak region of artifact creation~[885] (requires Artifact construction)
+129749:0::3::
+129749:0::3::886 scroll~[m158] permits study of the following skills:
+129749:0::6/3::Curse noncreator loyalty~[886] (requires Artifact construction)
+129749:0::3::
+129749:0::3::891 scroll~[q376] permits study of the following skills:
+129749:0::6/3::Dispel cloaking from artifact~[891] (requires Artifact construction)
+129749:0::3::
+129749:0::3::888 scroll~[r162] permits study of the following skills:
+129749:0::6/3::Forge magical armor~[888] (requires Artifact construction)
+129749:0::3::
+129749:0::3::Scroll~[81236] permits study of the following skills:
+129749:0::6/3::??? (requires Scrying)
+129749:0::3::
+129749:0::3::889 scroll~[88291] permits study of the following skills:
+129749:0::6/3::Forge magical bow~[889] (requires Artifact construction)
+129749:0::3::
+129749:0::3::Pending trades:
+129749:0::3::
+129749:0::6::trade    price    qty   item
+129749:0::6::-----    -----    ---   ----
+129749:0::6::  buy      100      5   iron~[79]
+129749:0::3::
+148989:0::3::
+148989:0::3/16::Location:       Thornmaze~[t324], in Twilight City~[g95], in province Twilight zone~[df55], in Provinia
+148989:0::3::Loyalty:        Oath-2
+148989:0::3::Health:         100%
+148989:0::3::Combat:         attack 183, defense 484, missile 0
+148989:0::3::                behind 0  (front line in combat)
+148989:0::3::Break point:    50%
+148989:0::3/16::Pledged to:     Jiriki i-Sa'onserei~[c373]
+148989:0::3::
+148989:0::3::Current aura:   13
+148989:0::3::Maximum aura:   13
+148989:0::3::
+148989:0::3::Skills known:
+148989:0::6::Combat~[610]
+148989:0::12::Survive fatal wound~[611]
+148989:0::12::Fight to the death~[612]
+148989:0::12::Construct catapult~[613], apprentice
+148989:0::12::Defense~[614], grand master
+148989:0::12::Swordplay~[616], journeyman
+148989:0::12::Weaponsmithing~[617], journeyman
+148989:0::6::Construction~[680]
+148989:0::12::Construct siege tower~[681], apprentice
+148989:0::6::Magic~[800]
+148989:0::12::Meditate~[801], apprentice
+148989:0::12::Perform common tasks for gold~[802], adept
+148989:0::12::Appear common~[803], apprentice
+148989:0::12::View current aura level of others~[804], apprentice
+148989:0::12::Reveal abilities of another mage~[805], apprentice
+148989:0::12::Hinder meditation~[814], apprentice
+148989:0::6::Gatecraft~[860]
+148989:0::12::Teleport~[861], apprentice
+148989:0::12::Detect gates~[862], apprentice
+148989:0::12::Jump through gate~[863], apprentice
+148989:0::12::Forcefully unseal gate~[867], apprentice
+148989:0::12::Language of the Ancients~[871], apprentice
+148989:0::3::
+148989:0::3::Eaan Skar~[148989] has no possessions.
+148989:0::3::
+148989:0::3/11::Capacity:  0/100 land (0%)
+148989:0::3::
+148989:0::3::Pending trades:
+148989:0::3::
+148989:0::6::trade    price    qty   item
+148989:0::6::-----    -----    ---   ----
+148989:0::6:: sell        3     15   woven basket~[94]
+148989:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Navigators~[pn2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/pn2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [pn2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         8  80th   
+0:0::3/41::Men:                               13  76th   
+0:0::3/41::Gold:                          12,320  68th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   46/74  48th   
+0:0::3/41::Spells known:                   19/79  78th   
+0:0::3/41::Provinces visited:         143/31,919  100th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  6     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 263.
+0:0::0::
+0:0::0::The next five nobles formed will be:  114770 114735 109988 117382 91006
+0:0::0::
+0:0::0::84 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::107799 dd55   o1    100  0  2    1         2                  Adrian
+0:0::0::148989 t324   o2    100  0 13                                 Eaan Skar
+0:0::0::99523  t324   o1    100  9  3 2010                            Cecil
+0:0::0::b742   t324   f58   100  9    1900                     99523  Mhorghaidh
+0:0::0::x427   g95    f67   100  0                                    Ikarus
+0:0::0::129749 g95    o1    100  0  6 2199                            Dimitri
+0:0::0::80094  g95    o1    100  0    1841        11                  Sigmund
+0:0::0::81134  dg55   o1    100  0    4369                            Ivan
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               12k        13          
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Twilight zone~[dd55]             Adrian~[107799]
+0:0::0::  Twilight zone~[df55]
+0:0::0::    Twilight City~[g95]            Ikarus~[x427]
+0:0::0::                                   Dimitri~[129749]
+0:0::0::                                   Sigmund~[80094]
+0:0::0::      Thornmaze~[t324]             Eaan Skar~[148989]
+0:0::0::                                   Cecil~[99523]
+0:0::0::                                     Mhorghaidh~[b742]
+0:0::0::  Twilight zone~[dg55]             Ivan~[81134]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::107799       1,300        450   0%      (150) 200%      (150) 200%
+0:0::0::148989         100        100   0%                                
+0:0::0:: 99523         208        192   4%                                
+0:0::0::  b742         100        100   0%                                
+0:0::0::  x427         100        100   0%                                
+0:0::0::129749       1,227        123  50%       (77) 151%       (77) 151%
+0:0::0:: 80094      14,515      2,835  10%        435  77%                
+0:0::0:: 81134      18,100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Navigators~[pn2]"><font size=+1><b>The Navigators~[pn2]</b></font>
+1:2::0::<hr>
+1:1::0::The Navigators~[pn2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54032
+1:0::0::
+1:0::0::#include 4
+1:0::0::
+1:2::0::
+1:2::0::<name="Adrian~[107799]"><font size=+1><b>Adrian~[107799]</b></font>
+1:2::0::<hr>
+1:1::0::Adrian~[107799]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 107799
+1:0::0::
+1:2::0::
+1:2::0::<name="Eaan Skar~[148989]"><font size=+1><b>Eaan Skar~[148989]</b></font>
+1:2::0::<hr>
+1:1::0::Eaan Skar~[148989]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 148989
+1:0::0::
+1:2::0::
+1:2::0::<name="Cecil~[99523]"><font size=+1><b>Cecil~[99523]</b></font>
+1:2::0::<hr>
+1:1::0::Cecil~[99523]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 99523
+1:0::0::
+1:2::0::
+1:2::0::<name="Mhorghaidh~[b742]"><font size=+1><b>Mhorghaidh~[b742]</b></font>
+1:2::0::<hr>
+1:1::0::Mhorghaidh~[b742]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 60742
+1:0::0::
+1:2::0::
+1:2::0::<name="Ikarus~[x427]"><font size=+1><b>Ikarus~[x427]</b></font>
+1:2::0::<hr>
+1:1::0::Ikarus~[x427]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 77427
+1:0::0::
+1:2::0::
+1:2::0::<name="Dimitri~[129749]"><font size=+1><b>Dimitri~[129749]</b></font>
+1:2::0::<hr>
+1:1::0::Dimitri~[129749]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 129749
+1:0::0::
+1:2::0::
+1:2::0::<name="Sigmund~[80094]"><font size=+1><b>Sigmund~[80094]</b></font>
+1:2::0::<hr>
+1:1::0::Sigmund~[80094]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 80094
+1:0::0::
+1:2::0::
+1:2::0::<name="Ivan~[81134]"><font size=+1><b>Ivan~[81134]</b></font>
+1:2::0::<hr>
+1:1::0::Ivan~[81134]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 81134
+1:2::0::
+1:2::0::<name="Twilight zone~[dd55]"><font size=+1><b>Twilight zone~[dd55]</b>, mountain, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Twilight zone~[dd55], mountain, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16355
+1:0::0::
+1:2::0::
+1:2::0::<name="Twilight zone~[df55]"><font size=+1><b>Twilight zone~[df55]</b>, forest, in Provinia, civ-6</font>
+1:2::0::<hr>
+1:1::0::Twilight zone~[df55], forest, in Provinia, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16455
+1:0::0::
+1:2::0::
+1:2::0::<name="Twilight zone~[dg55]"><font size=+1><b>Twilight zone~[dg55]</b>, desert, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Twilight zone~[dg55], desert, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16555
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

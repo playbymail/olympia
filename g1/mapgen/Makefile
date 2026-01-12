@@ -1,0 +1,18 @@
+
+CFLAGS = -g
+
+OBJECTS = mapgen.o z.o
+
+all:	mapgen
+
+mapgen:	$(OBJECTS)
+	$(CC) $(CFLAGS) -o mapgen $(OBJECTS) $(LFLAGS)
+
+clean:
+	rm -f *.o
+
+clobber:	clean
+	rm -f mapgen
+
+mapgen.o:	mapgen.c z.h
+z.o:		z.c z.h

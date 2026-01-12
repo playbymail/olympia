@@ -1,0 +1,1005 @@
+57189:0::0:0:Garrison~[4061], garrison, with 92~pikemen guards Odana~[f29].
+19185:0::0:0:Garrison~[4210], garrison, with 11~peasants, 39~workers, five~winged horses, 19~oxen, 25~centaurs, one~minotaur, one~cyclops, 38~pikemen guards Forest~[fp85].
+19372:0::0:0:Garrison~[8101], garrison, with ten~soldiers, 19~centaurs, 23~winged horses, 124~giant lizards, ten~riding horses, seven~oxen, two~cyclops, five~workers guards Plains of Thunder~[fr72].
+10659:0::0:0:Garrison~[k165], garrison, with 19~wild horses, two~elite archers, one~warmount, seven~peasants, 140~pikemen guards Mountain~[ah59].
+9574:0::0:1:> accept 0 0
+2562:0::0:1:> contact wb7
+9574:0::0:1:> contact ps2
+9574:0::0:1:> contact wb7
+4064:0::0:1:> move n
+4064:0::0:1:Travel to Forest~[kz86] will take eight days.
+6386:0::0:1:> study 614
+6386:0::0:1:Paid 100~gold to begin study.
+6386:0::0:1:Study Defense for seven days.
+1622:0::0:1:> seek
+77462:0::0:1:> breed 54 54
+77462:0::0:1:Breed attempt will take 6 days.
+9574:0::0:1:> use 813
+9574:0::0:1:Meditate for six~days.
+9580:0::0:1:> use 806 20
+2562:0::0:1:> study 611
+2562:0::0:1:Study Survive fatal wound for seven days.
+19362:0::0:4:It has begun to rain.
+10659:0::0:5:Eirinn Banba~[6200], priest, with three~winged horses, 60~pikemen, went south.
+77462:0::0:6:One~winged horse~[54] was killed in the breeding attempt.
+77462:0::0:6:No offspring was produced.
+9574:0::0:6:Current aura is now 34.
+9580:0::0:6:Current aura is now 129.
+9580:0::0:6:Cendage~[9580] is wounded.  Health is now 0.
+9580:0::0:6:Cendage~[9580] would have died, but survived a fatal wound!
+9580:0::0:6:Forgot [611].
+9580:0::0:6:Health is now 100.
+9580:0::0:7:> claim 1 100
+9580:0::0:7:Claimed 100~gold.
+77462:0::0:7:> breed 54 54
+77462:0::0:7:Breed attempt will take 6 days.
+9574:0::0:7:> use 813
+9574:0::0:7:Meditate for six~days.
+9580:0::0:7:> study 611
+9580:0::0:7:Paid 100~gold to begin study.
+9580:0::0:7:Study Survive fatal wound for seven days.
+9574:0::0:8:Received one~Dagger of Achilles~[x430] from Charlotte~[j219].
+6386:0::0:8:> study 614
+6386:0::0:8:Study Defense for seven days.
+1622:0::0:8:> seek
+2562:0::0:8:> study 611
+2562:0::0:8:Study Survive fatal wound for seven days.
+4064:0::0:8:Arrival at Forest~[kz86].
+4064:0::0:9:> move n
+4064:0::0:9:Travel to Forest~[sn60] will take eight days.
+10659:0::0:10:Son of Grimm~[b471] arrived from the east.
+77462:0::0:12:Produced one~winged horse~[54].
+9574:0::0:12:Current aura is now 39.
+77462:0::0:13:> breed 54 54
+77462:0::0:13:Breed attempt will take 6 days.
+9574:0::0:13:> seek
+9580:0::0:14:> study 611
+9580:0::0:14:Study Survive fatal wound for seven days.
+6386:0::0:14:Learned Defense~[614].
+2562:0::0:14:Learned Survive fatal wound~[611].
+2562:0::0:14:Another auraculum has come into existence.
+9574:0::0:14:Another auraculum has come into existence.
+6386:0::0:15:> use 614
+1622:0::0:15:> seek
+2562:0::0:15:> use 814
+2562:0::0:15:Emrys does not know [814].
+2562:0::0:15:> seek
+4064:0::0:16:Arrival at Forest~[sn60].
+4064:0::0:17:> move n
+4064:0::0:17:Travel to Forest~[sa15] will take eight days.
+77462:0::0:18:Produced one~winged horse~[54].
+77462:0::0:19:> breed 54 54
+77462:0::0:19:Breed attempt will take 6 days.
+9574:0::0:20:> seek
+9580:0::0:21:> use 848
+9580:0::0:21:Will practice location scry detection.
+6386:0::0:21:Defense rating raised 4 to 84.
+6386:0::0:22:> use 614
+1622:0::0:22:> seek
+2562:0::0:22:> seek
+4064:0::0:24:Arrival at Forest~[sa15].
+77462:0::0:24:Produced one~winged horse~[54].
+4064:0::0:25:> move n
+4064:0::0:25:Travel to Forest~[xr65] will take eight days.
+77462:0::0:25:> breed 54 54
+77462:0::0:25:Breed attempt will take 6 days.
+19372:0::0:26:It has begun to rain.
+9574:0::0:27:> seek
+9580:0::0:28:> seek
+6386:0::0:28:Defense rating raised 3 to 87.
+9580:0::0:28:Found Scrying One~[w529].
+6386:0::0:29:> seek
+1622:0::0:29:> seek
+2562:0::0:29:> seek
+77462:0::0:30:One~winged horse~[54] was killed in the breeding attempt.
+77462:0::0:30:No offspring was produced.
+9580:0::0:30:The magical shroud over Mountain~[ah59] has diminished to five aura.
+10659:0::0::
+10659:0::0::Province controlled by Home~[p009], castle, in Mountain~[ah59]
+10659:0::0::Ruled by [8116], duke
+10659:0::0::
+10659:0::0::Routes leaving Mountain: 
+10659:0::3::North, to Forest~[ag59], 8~days
+10659:0::3::East, to Forest~[ah60], 8~days
+10659:0::3::South, to Mountain~[aj59], 10~days
+10659:0::3::West, to Forest~[ah58], 8~days
+10659:0::0::
+10659:0::0::Inner locations:
+10659:0::3::Bragge~[q71], city, 1 day
+10659:0::3::Yew grove~[b805], yew grove, 1 day
+10659:0::0::
+10659:0::0::It is raining.
+10659:0::3::Rain~[135511], storm, strength~1
+10659:0::0::
+10659:0::0::Seen here:
+10659:0::0/3::   Garrison~[k165], garrison, on guard, with 19~wild horses, two~elite archers, one~warmount, seven~peasants, 80~pikemen
+10659:0::0/3::   Savage~[134000], savage
+10659:0::0/3::   Savage~[106801], savage
+10659:0::0/3::   Son of Grimm~[b471], "{<i>}Dwarven recruiter{</i>}"
+19185:0::0::
+19185:0::0::Province controlled by Wolvesbane Castle~[7498], castle, in Forest~[fp85]
+19185:0::0::Ruled by Arkon~[9944], count
+19185:0::0::
+19185:0::0::Routes leaving Forest: 
+19185:0::3::North, to Desert~[fn85], 8~days
+19185:0::3::East, to Mountain~[fp86], 10~days
+19185:0::3::South, to Forest~[fq85], 8~days
+19185:0::3::West, to Plain~[fp84], 7~days
+19185:0::0::
+19185:0::0::Inner locations:
+19185:0::3::Mourning Hollow~[w37], city, 1 day
+19185:0::0::
+19185:0::0::It is raining.
+19185:0::3::Rain~[120016], storm, strength~1
+19185:0::0::
+19185:0::0::Seen here:
+19185:0::0/3::   Garrison~[4210], garrison, on guard, with 11~peasants, 39~workers, five~winged horses, 19~oxen, 25~centaurs, one~minotaur, one~cyclops, 38~pikemen
+19185:0::0/3::   Opsi~[120885]
+19362:0::0::
+19362:0::0::Routes leaving Forest: 
+19362:0::3::North, to Mountain~[fq62], 10~days
+19362:0::3::East, to Forest~[fr63], 8~days
+19362:0::3::South, to Plain~[fs62], 7~days
+19362:0::3::West, to Forest~[fr61], 8~days
+19362:0::0::
+19362:0::0::Inner locations:
+19362:0::3::Graveyard~[p996], graveyard, hidden, 1 day
+19362:0::3::Yew grove~[r001], yew grove, 1 day
+19362:0::3::Yew grove~[c684], yew grove, 1 day
+19362:0::0::
+19362:0::0::It is raining.
+19372:0::0::
+19372:0::0::Province controlled by Thunder Citadel~[2739], castle, in Plains of Thunder~[fr72]
+19372:0::0::Ruled by Roland~[3363], duke
+19372:0::0::
+19372:0::0::Routes leaving Plains of Thunder: 
+19372:0::3::North, forest, to Dollarhide~[fq72], 8~days
+19372:0::3::East, forest, to Carneros~[fr73], 8~days
+19372:0::3::South, plain, to Stags Leap~[fs72], 7~days
+19372:0::3::West, plain, to Knight's Valley~[fr71], 7~days
+19372:0::0::
+19372:0::0::Inner locations:
+19372:0::3::Odana~[f29], city, 1 day
+19372:0::3::Rocky hill~[h009], rocky hill, 1 day
+19372:0::0::
+19372:0::0::It is raining.
+19372:0::0::
+19372:0::0::Seen here:
+19372:0::0/3::   Garrison~[8101], garrison, on guard, with ten~soldiers, 19~centaurs, 23~winged horses, 124~giant lizards, ten~riding horses, seven~oxen, two~cyclops, five~workers
+19372:0::0/3::   Juaquim~[9766], with 40~giant lizards
+22873:0::0::
+22873:0::0::Routes leaving Hades: 
+22873:0::3::North, underground, to Hades~[ks20], hidden, 7~days
+22873:0::3::East, underground, to Hades~[wa97], hidden, 7~days
+22873:0::3::South, underground, to Hades~[jr39], hidden, 7~days
+22873:0::3::West, underground, to Hades~[pt18], hidden, 7~days
+22873:0::0::
+22873:0::0::Seen here:
+22873:0::0/3::   Klaus Thunder~[4231], wearing golden shield~[v586], with seven~winged horses, 66~giant lizards, accompanied~by:
+22873:0::0/6::      Joshua~[8825], with 54~giant lizards
+22873:0::0/6::      trainer~[7489], prisoner
+27986:0::0::
+27986:0::0::Routes leaving Forest: 
+27986:0::3::North, to Forest~[sn60], 8~days
+27986:0::3::East, to Forest~[xk11], 8~days
+27986:0::3::South, to Forest~[sm60], 8~days
+27986:0::3::West, to Forest~[kw93], 8~days
+38015:0::0::
+38015:0::0::Routes leaving Forest: 
+38015:0::3::North, to Forest~[xr65], 8~days
+38015:0::3::East, to Forest~[vs03], 8~days
+38015:0::3::South, to Forest~[sn60], 8~days
+38015:0::3::West, to Forest~[ts01], 8~days
+38960:0::0::
+38960:0::0::Routes leaving Forest: 
+38960:0::3::North, to Forest~[kz86], 8~days
+38960:0::3::East, to Forest~[jd66], 8~days
+38960:0::3::South, to Forest~[rm82], 8~days
+38960:0::3::West, to Forest~[qt06], 8~days
+39060:0::0::
+39060:0::0::Routes leaving Forest: 
+39060:0::3::North, to Forest~[sa15], 8~days
+39060:0::3::East, to Forest~[mc03], 8~days
+39060:0::3::South, to Forest~[kz86], 8~days
+39060:0::3::West, to Forest~[qx99], 8~days
+57189:0::0::
+57189:0::0::Routes leaving Odana: 
+57189:0::3::Out, plain, to Plains of Thunder~[fr72], 1~day
+57189:0::0::
+57189:0::0::Skills taught here:
+57189:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Construction~[680], Trade~[730], Magic~[800], Scrying~[840]
+57189:0::0::
+57189:0::0::Market report:
+57189:0::3::
+57189:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+57189:0::3::-----    ---   -----    ---     -----   ----                     
+57189:0::3::  buy    f29      91     41        38   vinegar~[m130]           
+57189:0::3::  buy    f29       4     15         1   woven baskets~[94]       
+57189:0::3:: sell    f29     100      5     2,000   oxen~[76]                
+57189:0::3:: sell    f29     115      3     1,000   riding horses~[52]       
+57189:0::3:: sell    f29      95     38        45   silk~[126776]            
+57189:0::0::
+57189:0::0::Inner locations:
+57189:0::3::Stag's Watch~[9717], tower, defense~40
+57189:0::3::Thunder Citadel~[2739], castle, defense~80, level~6, owner:
+57189:0::0/6::      Roland~[3363], duke, with 100~elite guard, 53~blessed soldiers, one~swordsman, six~elite archers, 107~giant lizards, four~hounds
+57189:0::3::Sanctuary of the Sun~[2019], temple, defense~10
+57189:0::0::
+57189:0::0::It is raining.
+57189:0::0::
+57189:0::0::Seen here:
+57189:0::0/3::   Garrison~[4061], garrison, on guard, with 92~pikemen, accompanied~by:
+57189:0::0/6::      Durnak~[4864], with three~workers, 33~winged horses
+58497:0::0::
+58497:0::0::Routes leaving Mourning Hollow: 
+58497:0::3::Out, to Forest~[fp85], 1~day
+58497:0::0::
+58497:0::0::Cities rumored to be nearby:
+58497:0::3::Haakon's Reach~[h24], in Desert~[fr85]
+58497:0::0::
+58497:0::0::Skills taught here:
+58497:0::3::Combat~[610], Stealth~[630], Construction~[680], Alchemy~[690], Forestry~[700], Trade~[730], Magic~[800]
+58497:0::0::
+58497:0::0::Market report:
+58497:0::3::
+58497:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58497:0::3::-----    ---   -----    ---     -----   ----                     
+58497:0::3::  buy    w37     126      6        50   hides~[99]               
+58497:0::3::  buy    w37     127     48        80   fine cloaks~[w929]       
+58497:0::3::  buy    w37       7      9         5   clay pots~[95]           
+58497:0::3:: sell    w37      12     25        30   wood~[77]                
+58497:0::3:: sell    w37       1     50        10   lead~[102]               
+58497:0::3:: sell    w37      11     36       100   salt~[v314]              
+58497:0::3:: sell    w37      21     45       100   sugar~[h188]             
+58497:0::0::
+58497:0::0::Inner locations:
+58497:0::3::Wolvesbane Castle~[7498], castle, defense~80, level~6, owner:
+58497:0::0/6::      Arkon~[9944], count, conjurer, priest, wearing enchanted shield~[f010], with five~archers, 105~pikemen, 40~crossbowmen, 19~elite archers, one~wild horse, one~riding horse, one~harpie, one~hound
+58497:0::6::Blitzen~[5262], tower, defense~40
+58497:0::3::Eye of the Storm~[8109], temple, defense~10
+58497:0::0::
+58497:0::0::It is raining.
+5:0::0::
+5:0::0::begin gh2 "pescado"  # Eridanus
+5:0::0::
+5:0::0::unit gh2  # Eridanus
+5:0::0::
+5:0::0::unit 9580  # Cendage in Mountain~[ah59]
+5:0::3::# > seek (executing for four more days)
+5:0::3::seek
+5:0::0::
+5:0::0::unit 9574  # Emanuel in Wolvesbane Castle~[7498]
+5:0::3::# > seek (executing for three more days)
+5:0::3::seek
+5:0::3::seek
+5:0::0::
+5:0::0::unit 1622  # Sur Eleus in Forest~[fr62]
+5:0::3::# > seek (executing for five more days)
+5:0::3::seek
+5:0::3::seek
+5:0::0::
+5:0::0::unit 2562  # Emrys in Odana~[f29]
+5:0::3::# > seek (executing for five more days)
+5:0::0::
+5:0::0::unit 6386  # Agnes Astra in Hades~[hk73]
+5:0::3::# > seek (executing for five more days)
+5:0::3::seek
+5:0::3::seek
+5:0::0::
+5:0::0::unit x462  # Wulfgar in Hades~[hk73]
+5:0::3::breed 54 54
+5:0::0::
+5:0::0::unit 4064  # Efad in Forest~[sa15]
+5:0::3::# > move n (executing for two more days)
+5:0::3::move n
+5:0::3::move w
+5:0::0::
+5:0::0::end
+51632:0::0::
+51632:0::0::Admit permissions:
+51632:0::0::
+51632:0::3::admit 7170  all
+51632:0::3::admit b980  all
+51632:0::3::admit 114162  jy6  ps2
+51632:0::0::
+51632:0::0::Declared attitudes:
+51632:0::3::neutral  gh2
+51632:0::3::defend  5618  jy6
+51632:0::0::
+51632:0::0::Unclaimed items:
+51632:0::0::
+51632:0::0::      qty  name                              weight
+51632:0::0::      ---  ----                              ------
+51632:0::0::    1,641  gold~[1]                               0  
+1622:0::3::
+1622:0::3/16::Location:       Forest~[fr62], in Camaris
+1622:0::3::Loyalty:        Fear-706
+1622:0::3::Health:         100%
+1622:0::3::Combat:         attack 125, defense 258, missile 64
+1622:0::3::                behind 0  (front line in combat)
+1622:0::3::Break point:    0% (fight to the death)
+1622:0::3::use  641 1      (concealing self)
+1622:0::3::
+1622:0::3::Skills known:
+1622:0::6::Shipcraft~[600]
+1622:0::12::Sailing~[601], apprentice
+1622:0::6::Combat~[610]
+1622:0::12::Survive fatal wound~[611]
+1622:0::12::Fight to the death~[612]
+1622:0::12::Defense~[614], grand master
+1622:0::12::Archery~[615], journeyman
+1622:0::12::Swordplay~[616], journeyman
+1622:0::12::Weaponsmithing~[617], apprentice
+1622:0::6::Stealth~[630]
+1622:0::12::Sneak into structure~[639], apprentice
+1622:0::12::Conceal self~[641], apprentice
+1622:0::6::Persuasion~[670]
+1622:0::12::Bribe noble~[671], apprentice
+1622:0::6::Construction~[680]
+1622:0::12::Stone quarrying~[682], journeyman
+1622:0::6::Trade~[730]
+1622:0::12::Conceal identity of trader~[731], apprentice
+1622:0::12::Find tradegood for sale~[732], apprentice
+1622:0::12::Find market for tradegood~[733], apprentice
+1622:0::3::
+1622:0::3::Partially known skills:
+1622:0::6/6::Learn of richest nearby noble~[636], 0/14
+1622:0::3::
+1622:0::3::Inventory:
+1622:0::3::{<b>}      qty  name                              weight{</b>}
+1622:0::3::      ---  ----                              ------
+1622:0::3::    2,392  gold~[1]                               0  
+1622:0::3::        2  winged horses~[54]                 2,000  fly 300
+1622:0::3::        1  Heal~[111758]                          1  
+1622:0::3::                                             ======
+1622:0::3::                                              2,001
+1622:0::3::
+1622:0::3/11::Capacity:  1/400 land (0%), 101/300 ride (33%), 101/300 fly (33%)
+1622:0::3::
+1622:0::3::Pending trades:
+1622:0::3::
+1622:0::6::trade    price    qty   item
+1622:0::6::-----    -----    ---   ----
+1622:0::6:: sell        4    874   woven basket~[94]
+1622:0::6::  buy       32    252   ale~[b874]
+1622:0::6:: sell       74    899   sugar~[k109]
+1622:0::3::
+2562:0::3::
+2562:0::3/16::Location:       Odana~[f29], in province Plains of Thunder~[fr72], in Camaris
+2562:0::3::Loyalty:        Oath-1
+2562:0::3::Health:         100%
+2562:0::3::Combat:         attack 80, defense 123, missile 0
+2562:0::3::                behind 5  (stay behind in combat)
+2562:0::3::Break point:    0% (fight to the death)
+2562:0::3::use  641 1      (concealing self)
+2562:0::3::Receive Vision: 3 protection
+2562:0::3::
+2562:0::3::Current aura:   81
+2562:0::3::Maximum aura:   46 (6+40)
+2562:0::3::
+2562:0::3::Declared attitudes:
+2562:0::6::neutral  gh2
+2562:0::3::
+2562:0::3::Skills known:
+2562:0::6::Combat~[610]
+2562:0::12::Survive fatal wound~[611]
+2562:0::12::Fight to the death~[612]
+2562:0::12::Defense~[614], adept
+2562:0::6::Stealth~[630]
+2562:0::12::Learn of richest nearby noble~[636], apprentice
+2562:0::12::Sneak into structure~[639], apprentice
+2562:0::12::Conceal self~[641], apprentice
+2562:0::6::Construction~[680]
+2562:0::12::Stone quarrying~[682], apprentice
+2562:0::6::Forestry~[700]
+2562:0::6::Magic~[800]
+2562:0::12::Meditate~[801], grand master
+2562:0::12::Tap health for aura~[806], adept
+2562:0::6::Scrying~[840]
+2562:0::12::Scry location~[841], grand master
+2562:0::12::Create magical barrier~[845], adept
+2562:0::12::Remove magical barrier~[846], journeyman
+2562:0::12::Locate character~[847], journeyman
+2562:0::12::Farcasting~[849], master
+2562:0::12::Save farcast state~[851], adept
+2562:0::6::Gatecraft~[860]
+2562:0::12::Teleport~[861], apprentice
+2562:0::12::Detect gates~[862], journeyman
+2562:0::12::Seal gate~[864], apprentice
+2562:0::12::Unseal gate with key~[865], apprentice
+2562:0::12::Notify if gate unsealed~[866], apprentice
+2562:0::12::Forcefully unseal gate~[867], apprentice
+2562:0::12::Notify of gate jumps~[869], apprentice
+2562:0::6::Artifact construction~[880]
+2562:0::12::Forge auraculum~[881], apprentice
+2562:0::12::Reveal creator of artifact~[882], apprentice
+2562:0::6::Necromancy~[900]
+2562:0::12::Absorb aura blast~[911], apprentice
+2562:0::6::Advanced sorcery~[920]
+2562:0::12::Trance~[921], journeyman
+2562:0::12::Teleport items~[922], master
+2562:0::3::
+2562:0::3::Partially known skills:
+2562:0::6/6::Torture prisoner~[637], 0/21
+2562:0::3::
+2562:0::3::Inventory:
+2562:0::3::{<b>}      qty  name                              weight{</b>}
+2562:0::3::      ---  ----                              ------
+2562:0::3::    4,900  gold~[1]                               0  
+2562:0::3::        1  winged horse~[54]                  1,000  fly 150
+2562:0::3::        1  Dagger of Achilles~[s208]              3  
+2562:0::3::        1  Strange potion~[82461]                 1  
+2562:0::3::        1  Heal~[103529]                          2  
+2562:0::3::        1  Magic potion~[141735]                  1  
+2562:0::3::                                             ======
+2562:0::3::                                              1,007
+2562:0::3::
+2562:0::3/11::Capacity:  7/250 land (2%), 107/150 ride (71%), 107/150 fly (71%)
+2562:0::3::
+4064:0::3::
+4064:0::3/16::Location:       Forest~[sa15], in Faery
+4064:0::3::Loyalty:        Oath-1
+4064:0::3::Health:         100%
+4064:0::3::Combat:         attack 80, defense 118, missile 0
+4064:0::3::                behind 0  (front line in combat)
+4064:0::3::Break point:    0% (fight to the death)
+4064:0::3::use  641 1      (concealing self)
+4064:0::3/16::Pledged to:     Black Thorn~[2927]
+4064:0::3::Pledged to us:  Mustrum Ridicully~[7284]
+4064:0::3::
+4064:0::3::Skills known:
+4064:0::6::Combat~[610]
+4064:0::12::Survive fatal wound~[611]
+4064:0::12::Fight to the death~[612]
+4064:0::12::Defense~[614], journeyman
+4064:0::6::Stealth~[630]
+4064:0::12::Conceal self~[641], apprentice
+4064:0::6::Construction~[680]
+4064:0::12::Stone quarrying~[682], adept
+4064:0::6::Forestry~[700]
+4064:0::12::Harvest lumber~[702], adept
+4064:0::12::Harvest yew~[703], journeyman
+4064:0::6::Mining~[720]
+4064:0::12::Mine iron~[721], apprentice
+4064:0::12::Mine gold~[722], apprentice
+4064:0::3::
+4064:0::3::Partially known skills:
+4064:0::6/6::Torture prisoner~[637], 0/21
+4064:0::3::
+4064:0::3::Inventory:
+4064:0::3::{<b>}      qty  name                              weight{</b>}
+4064:0::3::      ---  ----                              ------
+4064:0::3::      607  gold~[1]                               0  
+4064:0::3::        1  elfstone~[69]                          1  
+4064:0::3::                                             ======
+4064:0::3::                                                  1
+4064:0::3::
+4064:0::3/11::Capacity:  1/100 land (1%)
+4064:0::3::
+4064:0::3::Pending trades:
+4064:0::3::
+4064:0::6::trade    price    qty   item
+4064:0::6::-----    -----    ---   ----
+4064:0::6:: sell        4     92   woven basket~[94]
+4064:0::3::
+6386:0::3::
+6386:0::3/16::Location:       Hades~[hk73], in Hades
+6386:0::3::Loyalty:        Fear-805
+6386:0::3::Health:         100%
+6386:0::3::Combat:         attack 80, defense 87, missile 0
+6386:0::3::                behind 0  (front line in combat)
+6386:0::3::Break point:    0% (fight to the death)
+6386:0::3::use  641 1      (concealing self)
+6386:0::3::Receive Vision: 21 protection
+6386:0::3/16::Pledged to:     Kasumi~[9697]
+6386:0::3::
+6386:0::3::Declared attitudes:
+6386:0::6::neutral  gh2
+6386:0::3::
+6386:0::3::Skills known:
+6386:0::6::Shipcraft~[600]
+6386:0::12::Shipbuilding~[602], apprentice
+6386:0::6::Combat~[610]
+6386:0::12::Survive fatal wound~[611]
+6386:0::12::Fight to the death~[612]
+6386:0::12::Defense~[614], apprentice
+6386:0::12::Weaponsmithing~[617], journeyman
+6386:0::6::Stealth~[630]
+6386:0::12::Torture prisoner~[637], apprentice
+6386:0::12::Conceal self~[641], apprentice
+6386:0::6::Alchemy~[690]
+6386:0::12::Brew potion of death~[694], apprentice
+6386:0::12::Record skill on scroll~[695], apprentice
+6386:0::6::Forestry~[700]
+6386:0::12::Harvest lumber~[702], apprentice
+6386:0::6::Religion~[750]
+6386:0::12::Receive vision~[751], grand master
+6386:0::12::Resurrect dead noble~[752], adept
+6386:0::12::Preparatory ritual~[753], grand master
+6386:0::12::Lay to rest~[754], apprentice
+6386:0::12::Remove blessing from soldiers~[755], apprentice
+6386:0::12::Immunity from Vision~[756], grand master
+6386:0::3::
+6386:0::3::Partially known skills:
+6386:0::6/6::Turn lead into gold~[697], 0/28
+6386:0::3::
+6386:0::3::Inventory:
+6386:0::3::{<b>}      qty  name                              weight{</b>}
+6386:0::3::      ---  ----                              ------
+6386:0::3::    1,157  gold~[1]                               0  
+6386:0::3::        5  winged horses~[54]                 5,000  fly 750
+6386:0::3::       14  lana bark~[64]                        14  
+6386:0::3::        3  blank scrolls~[84]                     6  
+6386:0::3::        1  Magic potion~[a050]                    1  
+6386:0::3::        1  Orb~[m623]                             1  
+6386:0::3::        1  ancient scroll~[r862]                  5  
+6386:0::3::        1  Stealth~[118935]                       1  
+6386:0::3::                                             ======
+6386:0::3::                                              5,028
+6386:0::3::
+6386:0::3/11::Capacity:  28/850 land (3%), 128/750 ride (17%), 128/750 fly (17%)
+6386:0::3::
+6386:0::3::ancient scroll~[r862] permits study of the following skills:
+6386:0::6/3::Harvest opium~[706] (requires Forestry)
+6386:0::3::
+6386:0::3::Stealth~[118935] permits study of the following skills:
+6386:0::6/3::Conceal self~[641] (requires Stealth)
+6386:0::3::
+6386:0::3::Pending trades:
+6386:0::3::
+6386:0::6::trade    price    qty   item
+6386:0::6::-----    -----    ---   ----
+6386:0::6:: sell        4    990   woven basket~[94]
+6386:0::3::
+9574:0::3::
+9574:0::3/16::Location:       Wolvesbane Castle~[7498], in Mourning Hollow~[w37], in province Forest~[fp85], in Camaris
+9574:0::3::Loyalty:        Contract-50
+9574:0::3::Health:         100%
+9574:0::3::Combat:         attack 80, defense 30, missile 0
+9574:0::3::                behind 9  (stay behind in combat)
+9574:0::3::Break point:    0% (fight to the death)
+9574:0::3::use  641 1      (concealing self)
+9574:0::3::Receive Vision: 7 protection
+9574:0::3::
+9574:0::3::Current aura:   43
+9574:0::3::Maximum aura:   58 (56+2)
+9574:0::3::
+9574:0::3::Skills known:
+9574:0::6::Combat~[610]
+9574:0::12::Survive fatal wound~[611]
+9574:0::12::Fight to the death~[612]
+9574:0::6::Stealth~[630]
+9574:0::12::Sneak into structure~[639], apprentice
+9574:0::12::Conceal self~[641], apprentice
+9574:0::6::Magic~[800]
+9574:0::12::Meditate~[801], apprentice
+9574:0::12::Perform common tasks for gold~[802], adept
+9574:0::12::Appear common~[803], apprentice
+9574:0::12::View current aura level of others~[804], apprentice
+9574:0::12::Reveal abilities of another mage~[805], apprentice
+9574:0::12::Tap health for aura~[806], adept
+9574:0::12::Heal~[807], apprentice
+9574:0::12::Modern magic script~[808], adept
+9574:0::12::Shroud abilities from scry~[809], apprentice
+9574:0::12::Detect ability scry~[811], apprentice
+9574:0::12::Dispel ability shroud~[812], apprentice
+9574:0::12::Advanced meditation~[813], grand master
+9574:0::12::Hinder meditation~[814], apprentice
+9574:0::6::Weather magic~[820]
+9574:0::12::Summon wind~[825], apprentice
+9574:0::12::Summon fog~[826], apprentice
+9574:0::12::Direct storm~[827], apprentice
+9574:0::12::Dissipate storm~[828], apprentice
+9574:0::12::Renew storm strength~[829], apprentice
+9574:0::12::Lightning bolt~[831], apprentice
+9574:0::12::Seize control of storm~[832], apprentice
+9574:0::12::Fog of death~[833], apprentice
+9574:0::6::Scrying~[840]
+9574:0::12::Scry location~[841], apprentice
+9574:0::12::Dispel location shroud~[843], apprentice
+9574:0::12::Ciphered writing of Areth-Pirn~[844], apprentice
+9574:0::12::Create magical barrier~[845], apprentice
+9574:0::12::Remove magical barrier~[846], apprentice
+9574:0::12::Locate character~[847], apprentice
+9574:0::12::Farcasting~[849], apprentice
+9574:0::6::Artifact construction~[880]
+9574:0::12::Forge auraculum~[881], apprentice
+9574:0::12::Reveal creator of artifact~[882], apprentice
+9574:0::12::Cloak creator of artifact~[884]
+9574:0::12::Cloak region of artifact creation~[885], apprentice
+9574:0::12::Curse noncreator loyalty~[886], apprentice
+9574:0::12::Forge magical weapon~[887], apprentice
+9574:0::12::Forge magical armor~[888], apprentice
+9574:0::12::Forge magical bow~[889], apprentice
+9574:0::12::Dispel cloaking from artifact~[891], apprentice
+9574:0::12::Arcane symbols~[892], journeyman
+9574:0::12::Destroy artifact~[893], apprentice
+9574:0::12::Forge palantir~[894], apprentice
+9574:0::6::Necromancy~[900]
+9574:0::12::Runes of Evil~[902], apprentice
+9574:0::12::Summon ghost warriors~[903], apprentice
+9574:0::12::Raise undead~[904], apprentice
+9574:0::12::Summon demon lord~[905], apprentice
+9574:0::12::Renew demon bond~[906], apprentice
+9574:0::12::Banish demon lord~[907], apprentice
+9574:0::12::Eating of the dead~[908], apprentice
+9574:0::12::Aura blast~[909], apprentice
+9574:0::12::Absorb aura blast~[911], apprentice
+9574:0::6::Advanced sorcery~[920]
+9574:0::12::Trance~[921], adept
+9574:0::12::Teleport items~[922], grand master
+9574:0::3::
+9574:0::3::Inventory:
+9574:0::3::{<b>}      qty  name                              weight{</b>}
+9574:0::3::      ---  ----                              ------
+9574:0::3::    1,800  gold~[1]                               0  
+9574:0::3::        1  Dagger of Achilles~[x430]              3  
+9574:0::3::                                             ======
+9574:0::3::                                                  3
+9574:0::3::
+9574:0::3/11::Capacity:  3/100 land (3%)
+9574:0::3::
+9580:0::3::
+9580:0::3/16::Location:       Mountain~[ah59], in Atala
+9580:0::3::Loyalty:        Oath-2
+9580:0::3::Health:         100%
+9580:0::3::Combat:         attack 80, defense 80, missile 0
+9580:0::3::                behind 9  (stay behind in combat)
+9580:0::3::Break point:    50%
+9580:0::3::use  641 1      (concealing self)
+9580:0::3::Receive Vision: 7 protection
+9580:0::3::Banner:         CA noble
+9580:0::3::
+9580:0::3::Current aura:   128
+9580:0::3::Maximum aura:   60
+9580:0::3::
+9580:0::3::Declared attitudes:
+9580:0::6::neutral  gh2
+9580:0::3::
+9580:0::3::Skills known:
+9580:0::6::Combat~[610]
+9580:0::6::Stealth~[630]
+9580:0::12::Sneak into structure~[639], apprentice
+9580:0::12::Conceal self~[641], apprentice
+9580:0::6::Magic~[800]
+9580:0::12::Meditate~[801], journeyman
+9580:0::12::Perform common tasks for gold~[802], master
+9580:0::12::Appear common~[803], journeyman
+9580:0::12::View current aura level of others~[804], apprentice
+9580:0::12::Reveal abilities of another mage~[805], apprentice
+9580:0::12::Tap health for aura~[806], master
+9580:0::12::Modern magic script~[808], apprentice
+9580:0::12::Shroud abilities from scry~[809], apprentice
+9580:0::12::Dispel ability shroud~[812], apprentice
+9580:0::12::Advanced meditation~[813], master
+9580:0::12::Hinder meditation~[814], apprentice
+9580:0::6::Weather magic~[820]
+9580:0::12::Fierce wind~[821], apprentice
+9580:0::12::Bind storm to ship~[822], apprentice
+9580:0::12::Scribe weather symbols~[823], apprentice
+9580:0::12::Summon rain~[824], apprentice
+9580:0::12::Summon wind~[825], apprentice
+9580:0::12::Summon fog~[826], apprentice
+9580:0::12::Direct storm~[827], journeyman
+9580:0::12::Dissipate storm~[828], apprentice
+9580:0::12::Renew storm strength~[829], apprentice
+9580:0::12::Lightning bolt~[831], apprentice
+9580:0::12::Seize control of storm~[832], journeyman
+9580:0::12::Fog of death~[833], apprentice
+9580:0::6::Scrying~[840]
+9580:0::12::Scry location~[841], master
+9580:0::12::Shroud location from magical scry~[842], adept
+9580:0::12::Dispel location shroud~[843], apprentice
+9580:0::12::Ciphered writing of Areth-Pirn~[844], adept
+9580:0::12::Create magical barrier~[845], adept
+9580:0::12::Remove magical barrier~[846], apprentice
+9580:0::12::Locate character~[847], journeyman
+9580:0::12::Detect location scry~[848], adept
+9580:0::12::Farcasting~[849], master
+9580:0::12::Save farcast state~[851], journeyman
+9580:0::12::Banish undead~[852], apprentice
+9580:0::6::Gatecraft~[860]
+9580:0::12::Teleport~[861], apprentice
+9580:0::12::Detect gates~[862], apprentice
+9580:0::12::Seal gate~[864], apprentice
+9580:0::12::Unseal gate with key~[865], apprentice
+9580:0::12::Notify if gate unsealed~[866], apprentice
+9580:0::12::Forcefully unseal gate~[867], apprentice
+9580:0::12::Notify of gate jumps~[869], apprentice
+9580:0::12::Language of the Ancients~[871], apprentice
+9580:0::12::Reverse jump through gate~[872], apprentice
+9580:0::6::Artifact construction~[880]
+9580:0::12::Forge auraculum~[881], apprentice
+9580:0::12::Reveal creator of artifact~[882], apprentice
+9580:0::12::Reveal where artifact was created~[883], apprentice
+9580:0::12::Arcane symbols~[892], apprentice
+9580:0::12::Forge palantir~[894], apprentice
+9580:0::6::Necromancy~[900]
+9580:0::12::Transcend death~[901], apprentice
+9580:0::12::Raise undead~[904], apprentice
+9580:0::12::Renew demon bond~[906], apprentice
+9580:0::12::Banish demon lord~[907], apprentice
+9580:0::12::Aura blast~[909], apprentice
+9580:0::12::Absorb aura blast~[911], apprentice
+9580:0::3::
+9580:0::3::Partially known skills:
+9580:0::6/6::Survive fatal wound~[611], 14/28
+9580:0::6/6::Torture prisoner~[637], 0/21
+9580:0::6/6::Construction~[680], 18/21
+9580:0::6/6::Forestry~[700], 1/21
+9580:0::3::
+9580:0::3::Cendage~[9580] has no possessions.
+9580:0::3::
+9580:0::3/11::Capacity:  0/100 land (0%)
+9580:0::3::
+77462:0::3::
+77462:0::3/16::Location:       Hades~[hk73], in Hades
+77462:0::3::Loyalty:        Oath-2
+77462:0::3::Health:         100%
+77462:0::3::Combat:         attack 264, defense 159, missile 50
+77462:0::3::                behind 0  (front line in combat)
+77462:0::3::Break point:    0% (fight to the death)
+77462:0::3::use  641 1      (concealing self)
+77462:0::3::Receive Vision: 21 protection
+77462:0::3::
+77462:0::3::Declared attitudes:
+77462:0::6::hostile m484
+77462:0::3::
+77462:0::3::Skills known:
+77462:0::6::Combat~[610]
+77462:0::12::Survive fatal wound~[611]
+77462:0::12::Fight to the death~[612]
+77462:0::12::Defense~[614], adept
+77462:0::12::Archery~[615], journeyman
+77462:0::12::Swordplay~[616], master
+77462:0::12::Weaponsmithing~[617], journeyman
+77462:0::6::Stealth~[630]
+77462:0::12::Conceal self~[641], apprentice
+77462:0::6::Beastmastery~[650]
+77462:0::12::Use beasts in battle~[653]
+77462:0::12::Breed beasts~[654], grand master
+77462:0::6::Forestry~[700]
+77462:0::12::Harvest lumber~[702], apprentice
+77462:0::12::Harvest yew~[703], journeyman
+77462:0::6::Mining~[720]
+77462:0::12::Mine iron~[721], apprentice
+77462:0::12::Mine gold~[722], apprentice
+77462:0::3::
+77462:0::3::Partially known skills:
+77462:0::6/6::Learn of richest nearby noble~[636], 0/14
+77462:0::6/6::Torture prisoner~[637], 0/21
+77462:0::3::
+77462:0::3::Inventory:
+77462:0::3::{<b>}      qty  name                              weight{</b>}
+77462:0::3::      ---  ----                              ------
+77462:0::3::      925  gold~[1]                               0  
+77462:0::3::       43  winged horses~[54]                43,000  fly 6,450
+77462:0::3::                                             ======
+77462:0::3::                                             43,000
+77462:0::3::
+77462:0::3/11::Capacity:  0/6,550 land (0%), 100/6,450 ride (1%), 100/6,450 fly (1%)
+77462:0::3::
+77462:0::3::Pending trades:
+77462:0::3::
+77462:0::6::trade    price    qty   item
+77462:0::6::-----    -----    ---   ----
+77462:0::6:: sell       74     46   sugar~[k109]
+77462:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Eridanus~[gh2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/gh2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [gh2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         7  81st   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                          11,781  70th   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   42/74  56th   
+0:0::3/41::Spells known:                   77/79  27th   
+0:0::3/41::Provinces visited:       1,925/31,919  7th    
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  11     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  1345 3836 5257 97896 135438
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::9580   ah59   o2    100  9128                                 Cendage
+0:0::0::9574   7498   c50   100  9 43 1800                            Emanuel
+0:0::0::1622   fr62   f706  100  0    2392                            Sur Eleus
+0:0::0::2562   f29    o1    100  5 81 4900                            Emrys
+0:0::0::6386   hk73   f805  100  0    1157                            Agnes Astra
+0:0::0::x462   hk73   o2    100  0     925                            Wulfgar
+0:0::0::4064   sa15   o1    100  0     607                            Efad
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               11k                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Atala
+0:0::0::  Mountain~[ah59]                  Cendage~[9580]
+0:0::0::Camaris
+0:0::0::  Forest~[fp85]
+0:0::0::    Mourning Hollow~[w37]
+0:0::0::      Wolvesbane Castle~[7498]     Emanuel~[9574]
+0:0::0::  Forest~[fr62]                    Sur Eleus~[1622]
+0:0::0::  Plains of Thunder~[fr72]
+0:0::0::    Odana~[f29]                    Emrys~[2562]
+0:0::0::Hades
+0:0::0::  Hades~[hk73]                     Agnes Astra~[6386]
+0:0::0::                                   Wulfgar~[x462]
+0:0::0::Faery
+0:0::0::  Forest~[sa15]                    Efad~[4064]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  9580         100        100   0%                                
+0:0::0::  9574         103         97   3%                                
+0:0::0::  1622       2,101        399   0%        199  33%        199  33%
+0:0::0::  2562       1,107        243   2%         43  71%         43  71%
+0:0::0::  6386       5,128        822   3%        622  17%        622  17%
+0:0::0::  x462      43,100      6,550   0%      6,350   1%      6,350   1%
+0:0::0::  4064         101         99   1%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Eridanus~[gh2]"><font size=+1><b>Eridanus~[gh2]</b></font>
+1:2::0::<hr>
+1:1::0::Eridanus~[gh2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51632
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Cendage~[9580]"><font size=+1><b>Cendage~[9580]</b></font>
+1:2::0::<hr>
+1:1::0::Cendage~[9580]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9580
+1:0::0::
+1:2::0::
+1:2::0::<name="Emanuel~[9574]"><font size=+1><b>Emanuel~[9574]</b></font>
+1:2::0::<hr>
+1:1::0::Emanuel~[9574]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9574
+1:0::0::
+1:2::0::
+1:2::0::<name="Sur Eleus~[1622]"><font size=+1><b>Sur Eleus~[1622]</b></font>
+1:2::0::<hr>
+1:1::0::Sur Eleus~[1622]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1622
+1:0::0::
+1:2::0::
+1:2::0::<name="Emrys~[2562]"><font size=+1><b>Emrys~[2562]</b></font>
+1:2::0::<hr>
+1:1::0::Emrys~[2562]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 2562
+1:0::0::
+1:2::0::
+1:2::0::<name="Agnes Astra~[6386]"><font size=+1><b>Agnes Astra~[6386]</b></font>
+1:2::0::<hr>
+1:1::0::Agnes Astra~[6386]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6386
+1:0::0::
+1:2::0::
+1:2::0::<name="Wulfgar~[x462]"><font size=+1><b>Wulfgar~[x462]</b></font>
+1:2::0::<hr>
+1:1::0::Wulfgar~[x462]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 77462
+1:0::0::
+1:2::0::
+1:2::0::<name="Efad~[4064]"><font size=+1><b>Efad~[4064]</b></font>
+1:2::0::<hr>
+1:1::0::Efad~[4064]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4064
+1:2::0::
+1:2::0::<name="Mountain~[ah59]"><font size=+1><b>Mountain~[ah59]</b>, mountain, in Atala, civ-6</font>
+1:2::0::<hr>
+1:1::0::Mountain~[ah59], mountain, in Atala, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10659
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[fp85]"><font size=+1><b>Forest~[fp85]</b>, forest, in Camaris, civ-6</font>
+1:2::0::<hr>
+1:1::0::Forest~[fp85], forest, in Camaris, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 19185
+1:0::0::
+1:2::0::
+1:2::0::<name="Mourning Hollow~[w37]"><font size=+1><b>Mourning Hollow~[w37]</b>, city, in province Forest~[fp85]</font>
+1:2::0::<hr>
+1:1::0::Mourning Hollow~[w37], city, in province Forest~[fp85]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58497
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[fr62]"><font size=+1><b>Forest~[fr62]</b>, forest, in Camaris, civ-2</font>
+1:2::0::<hr>
+1:1::0::Forest~[fr62], forest, in Camaris, civ-2
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 19362
+1:0::0::
+1:2::0::
+1:2::0::<name="Plains of Thunder~[fr72]"><font size=+1><b>Plains of Thunder~[fr72]</b>, plain, in Camaris, civ-6</font>
+1:2::0::<hr>
+1:1::0::Plains of Thunder~[fr72], plain, in Camaris, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 19372
+1:0::0::
+1:2::0::
+1:2::0::<name="Odana~[f29]"><font size=+1><b>Odana~[f29]</b>, city, in province Plains of Thunder~[fr72]</font>
+1:2::0::<hr>
+1:1::0::Odana~[f29], city, in province Plains of Thunder~[fr72]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 57189
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[hk73]"><font size=+1><b>Hades~[hk73]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[hk73], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 22873
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sa15]"><font size=+1><b>Forest~[sa15]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sa15], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38015
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sn60]"><font size=+1><b>Forest~[sn60]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sn60], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39060
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kz86]"><font size=+1><b>Forest~[kz86]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kz86], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27986
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sm60]"><font size=+1><b>Forest~[sm60]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sm60], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38960
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

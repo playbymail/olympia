@@ -1,0 +1,1110 @@
+16578:0::0:0:Garrison~[9437], garrison, with 11~soldiers guards The Shadowlands~[dg78].
+15928:0::0:0:Garrison~[f298], garrison, with 40~crossbowmen guards Forest~[cz28].
+63638:0::0:0:> stop
+63638:0::0:0:Interrupt current order.
+63638:0::0:1:> use 751 v374
+128072:0::0:1:Produced one~rat~[279].
+98662:0::0:1:Produced one~giant spider~[278].
+141561:0::0:1:One~giant spider~[278] was killed in the breeding attempt.
+141561:0::0:1:Produced one~giant spider~[278].
+98662:0::0:2:> give 128072 278
+98662:0::0:2:Gave three~giant spiders to New noble~[128072].
+128072:0::0:2:Received three~giant spiders~[278] from New noble~[98662].
+98662:0::0:2:> get 128072 278 2
+98662:0::0:2:Took two~giant spiders from New noble~[128072].
+128072:0::0:2:New noble~[98662] took two~giant spiders~[278] from us.
+141561:0::0:2:> give 128072 278
+141561:0::0:2:Gave two~giant spiders to New noble~[128072].
+128072:0::0:2:Received two~giant spiders~[278] from New noble~[141561].
+141561:0::0:2:> get 128072 278 2
+141561:0::0:2:Took two~giant spiders from New noble~[128072].
+128072:0::0:2:New noble~[141561] took two~giant spiders~[278] from us.
+128072:0::0:2:> breed 279 279
+128072:0::0:2:Breed attempt will take 6 days.
+98662:0::0:2:> breed 278 278
+98662:0::0:2:Breed attempt will take 20 days.
+141561:0::0:2:> breed 278 278
+141561:0::0:2:Breed attempt will take 20 days.
+93298:0::0:2:Produced one~giant spider~[278].
+93298:0::0:3:> give 128072 278
+93298:0::0:3:Gave three~giant spiders to New noble~[128072].
+128072:0::0:3:Received three~giant spiders~[278] from New noble~[93298].
+93298:0::0:3:> get 128072 278 2
+93298:0::0:3:Took two~giant spiders from New noble~[128072].
+128072:0::0:3:New noble~[93298] took two~giant spiders~[278] from us.
+93298:0::0:3:> breed 278 278
+93298:0::0:3:Breed attempt will take 20 days.
+135844:0::0:4:Produced one~giant spider~[278].
+134272:0::0:4:Produced one~giant spider~[278].
+15928:0::0:4:It has begun to rain.
+135844:0::0:5:> give 128072 278
+135844:0::0:5:Gave three~giant spiders to New noble~[128072].
+128072:0::0:5:Received three~giant spiders~[278] from New noble~[135844].
+134272:0::0:5:> give 128072 278
+134272:0::0:5:Gave three~giant spiders to New noble~[128072].
+128072:0::0:5:Received three~giant spiders~[278] from New noble~[134272].
+135844:0::0:5:> get 128072 278 2
+135844:0::0:5:Took two~giant spiders from New noble~[128072].
+128072:0::0:5:New noble~[135844] took two~giant spiders~[278] from us.
+134272:0::0:5:> get 128072 278 2
+134272:0::0:5:Took two~giant spiders from New noble~[128072].
+128072:0::0:5:New noble~[134272] took two~giant spiders~[278] from us.
+135844:0::0:5:> breed 278 278
+135844:0::0:5:Breed attempt will take 20 days.
+134272:0::0:5:> breed 278 278
+134272:0::0:5:Breed attempt will take 20 days.
+128072:0::0:7:Produced one~rat~[279].
+128072:0::0:8:> study 653
+128072:0::0:8:Study Use beasts in battle for seven days.
+63638:0::0:10:Pactra~[f638] receives a vision of Gustav~[v374]:
+63638:0::0:10:
+63638:0::0/16:10:Location:       Honorland~[t383], in Revenge's Heart~[k98], in province Free Atala~[aq71], in Atala
+63638:0::0:10:Loyalty:        Oath-2
+63638:0::0:10:Stacked over:   Antilles~[f597]
+63638:0::0:10:Health:         100%
+63638:0::0:10:Combat:         attack 80, defense 80, missile 50
+63638:0::0:10:                behind 0  (front line in combat)
+63638:0::0:10:Break point:    0% (fight to the death)
+63638:0::0:10:use  641 1      (concealing self, but not alone)
+63638:0::0/16:10:Pledged to:     Count F'Drol~[148147]
+63638:0::0:10:
+63638:0::0:10:Current aura:   10
+63638:0::0:10:Maximum aura:   10
+63638:0::0:10:
+63638:0::0:10:Skills known:
+63638:0::3:10:Combat~[610]
+63638:0::9:10:Survive fatal wound~[611]
+63638:0::9:10:Fight to the death~[612]
+63638:0::9:10:Defense~[614], apprentice
+63638:0::9:10:Archery~[615], apprentice
+63638:0::9:10:Swordplay~[616], apprentice
+63638:0::9:10:Weaponsmithing~[617], apprentice
+63638:0::3:10:Stealth~[630]
+63638:0::9:10:Sneak into structure~[639], apprentice
+63638:0::9:10:Conceal self~[641], apprentice
+63638:0::3:10:Beastmastery~[650]
+63638:0::9:10:Bird spy~[651], apprentice
+63638:0::9:10:Capture beasts in battle~[652]
+63638:0::9:10:Use beasts in battle~[653]
+63638:0::9:10:Breed beasts~[654], grand master
+63638:0::9:10:Catch wild horses~[655], master
+63638:0::9:10:Train wild horse to riding horse~[656], apprentice
+63638:0::9:10:Train wild horse to warmount~[657], grand master
+63638:0::9:10:Summon wild men~[658], apprentice
+63638:0::9:10:Breed hound~[661], apprentice
+63638:0::3:10:Persuasion~[670]
+63638:0::3:10:Necromancy~[900]
+63638:0::9:10:Transcend death~[901], apprentice
+63638:0::9:10:Runes of Evil~[902], apprentice
+63638:0::9:10:Summon ghost warriors~[903], apprentice
+63638:0::9:10:Raise undead~[904], apprentice
+63638:0::9:10:Summon demon lord~[905], apprentice
+63638:0::9:10:Renew demon bond~[906], apprentice
+63638:0::9:10:Banish demon lord~[907], apprentice
+63638:0::9:10:Aura blast~[909], apprentice
+63638:0::9:10:Absorb aura blast~[911], apprentice
+63638:0::0:10:
+63638:0::0:10:Inventory:
+63638:0::0:10:{<b>}      qty  name                              weight{</b>}
+63638:0::0:10:      ---  ----                              ------
+63638:0::0:10:    9,973  gold~[1]                               0  
+63638:0::0:10:       20  soldiers~[12]                      2,000  cap 2,000 (5,5,0)
+63638:0::0:10:      255  pikemen~[16]                      25,500  cap 25,500 (5,30,0)
+63638:0::0:10:       73  ghost warriors~[18]                    0   (0,0,0)
+63638:0::0:10:      453  crossbowmen~[21]                  45,300  cap 45,300 (1,1,25)
+63638:0::0:10:      317  elite archers~[22]                31,700  cap 31,700 (10,10,75)
+63638:0::0:10:       15  winged horses~[54]                15,000  fly 2,250
+63638:0::0:10:        2  longbows~[72]                          6  
+63638:0::0:10:       16  crossbows~[85]                       160  
+63638:0::0:10:       31  giant lizards~[282]               31,000   (45,45,0)
+63638:0::0:10:        1  enchanted javelin~[102347]            10  +50 missile
+63638:0::0:10:        1  magic shield~[109870]                 10  +10 defense
+63638:0::0:10:        1  692 potion 2974~[116890]               1  
+63638:0::0:10:                                             ======
+63638:0::0:10:                                            150,687
+63638:0::0:10:
+63638:0::0/11:10:Capacity:  187/106,850 land (0%), 104,787/2,250 ride (4657%), 135,787/2,250 fly (6034%)
+63638:0::0:10:
+63638:0::0:10:Pending trades:
+63638:0::0:10:
+63638:0::3:10:trade    price    qty   item
+63638:0::3:10:-----    -----    ---   ----
+63638:0::3:10: sell        7    955   clay pot~[95]
+63638:0::0:10:
+140646:0::0:10:Produced one~giant spider~[278].
+140646:0::0:11:> give 128072 278
+140646:0::0:11:Gave three~giant spiders to New noble~[128072].
+128072:0::0:11:Received three~giant spiders~[278] from New noble~[140646].
+140646:0::0:11:> get 128072 278 2
+140646:0::0:11:Took two~giant spiders from New noble~[128072].
+128072:0::0:11:New noble~[140646] took two~giant spiders~[278] from us.
+63638:0::0:11:> use 753
+140646:0::0:11:> breed 278 278
+140646:0::0:11:Breed attempt will take 20 days.
+63638:0::0:13:The next religious act will surely succeed.
+134943:0::0:13:Produced one~giant spider~[278].
+134943:0::0:14:> give 128072 278
+134943:0::0:14:Gave three~giant spiders to New noble~[128072].
+128072:0::0:14:Received three~giant spiders~[278] from New noble~[134943].
+134943:0::0:14:> get 128072 278 2
+134943:0::0:14:Took two~giant spiders from New noble~[128072].
+128072:0::0:14:New noble~[134943] took two~giant spiders~[278] from us.
+63638:0::0:14:> use 751 v374
+63638:0::0:14:Already have received a vision of [v374].
+63638:0::0:14:A vision may only be received once for a particular target.
+134943:0::0:14:> breed 278 278
+134943:0::0:14:Breed attempt will take 20 days.
+63638:0::0:14:> use 753
+63638:0::0:14:Have already completed a preparatory ritual.
+63638:0::0:14:> use 751 v374
+63638:0::0:14:Already have received a vision of [v374].
+63638:0::0:14:A vision may only be received once for a particular target.
+63638:0::0:14:> use 753
+63638:0::0:14:Have already completed a preparatory ritual.
+63638:0::0:14:> use 751 v374
+63638:0::0:14:Already have received a vision of [v374].
+63638:0::0:14:A vision may only be received once for a particular target.
+63638:0::0:14:> use 753
+63638:0::0:14:Have already completed a preparatory ritual.
+63638:0::0:14:> use 751 b193
+128072:0::0:15:> study 612
+128072:0::0:15:Study Fight to the death for seven days.
+133173:0::0:18:Produced one~giant spider~[278].
+114086:0::0:18:Produced one~giant spider~[278].
+133173:0::0:19:> give 128072 278
+133173:0::0:19:Gave three~giant spiders to New noble~[128072].
+128072:0::0:19:Received three~giant spiders~[278] from New noble~[133173].
+114086:0::0:19:> give 128072 278
+114086:0::0:19:Gave three~giant spiders to New noble~[128072].
+128072:0::0:19:Received three~giant spiders~[278] from New noble~[114086].
+133173:0::0:19:> get 128072 278 2
+133173:0::0:19:Took two~giant spiders from New noble~[128072].
+128072:0::0:19:New noble~[133173] took two~giant spiders~[278] from us.
+114086:0::0:19:> get 128072 278 2
+114086:0::0:19:Took two~giant spiders from New noble~[128072].
+128072:0::0:19:New noble~[114086] took two~giant spiders~[278] from us.
+133173:0::0:19:> breed 278 278
+133173:0::0:19:Breed attempt will take 20 days.
+114086:0::0:19:> breed 278 278
+114086:0::0:19:Breed attempt will take 20 days.
+63960:0::0:19:Produced one~giant spider~[278].
+100891:0::0:19:Produced one~giant spider~[278].
+148713:0::0:19:Produced one~giant spider~[278].
+141543:0::0:19:Produced one~giant spider~[278].
+63960:0::0:20:> give 128072 278
+63960:0::0:20:Gave three~giant spiders to New noble~[128072].
+128072:0::0:20:Received three~giant spiders~[278] from New noble~[f960].
+100891:0::0:20:> give 128072 278
+100891:0::0:20:Gave three~giant spiders to New noble~[128072].
+128072:0::0:20:Received three~giant spiders~[278] from New noble~[100891].
+148713:0::0:20:> give 128072 278
+148713:0::0:20:Gave three~giant spiders to New noble~[128072].
+128072:0::0:20:Received three~giant spiders~[278] from New noble~[148713].
+141543:0::0:20:> give 128072 278
+141543:0::0:20:Gave three~giant spiders to New noble~[128072].
+128072:0::0:20:Received three~giant spiders~[278] from New noble~[141543].
+63960:0::0:20:> get 128072 278 2
+63960:0::0:20:Took two~giant spiders from New noble~[128072].
+128072:0::0:20:New noble~[f960] took two~giant spiders~[278] from us.
+63960:0::0:20:> breed 278 278
+63960:0::0:20:Breed attempt will take 20 days.
+100891:0::0:20:> study 611
+100891:0::0:20:Study Survive fatal wound for seven days.
+148713:0::0:20:> study 611
+148713:0::0:20:Study Survive fatal wound for seven days.
+141543:0::0:20:> study 611
+141543:0::0:20:Study Survive fatal wound for seven days.
+98662:0::0:21:Produced one~giant spider~[278].
+141561:0::0:21:One~giant spider~[278] was killed in the breeding attempt.
+141561:0::0:21:Produced one~giant spider~[278].
+98662:0::0:22:> give 128072 278
+98662:0::0:22:Gave three~giant spiders to New noble~[128072].
+128072:0::0:22:Received three~giant spiders~[278] from New noble~[98662].
+141561:0::0:22:> give 128072 278
+141561:0::0:22:Gave two~giant spiders to New noble~[128072].
+128072:0::0:22:Received two~giant spiders~[278] from New noble~[141561].
+98662:0::0:22:> get 128072 278 2
+98662:0::0:22:Took two~giant spiders from New noble~[128072].
+128072:0::0:22:New noble~[98662] took two~giant spiders~[278] from us.
+141561:0::0:22:> get 128072 278 2
+141561:0::0:22:Took two~giant spiders from New noble~[128072].
+128072:0::0:22:New noble~[141561] took two~giant spiders~[278] from us.
+128072:0::0:22:> breed 279 279
+128072:0::0:22:Breed attempt will take 6 days.
+98662:0::0:22:> breed 278 278
+98662:0::0:22:Breed attempt will take 20 days.
+141561:0::0:22:> breed 278 278
+141561:0::0:22:Breed attempt will take 20 days.
+93298:0::0:22:Produced one~giant spider~[278].
+93298:0::0:23:> give 128072 278
+93298:0::0:23:Gave three~giant spiders to New noble~[128072].
+128072:0::0:23:Received three~giant spiders~[278] from New noble~[93298].
+93298:0::0:23:> get 128072 278 2
+93298:0::0:23:Took two~giant spiders from New noble~[128072].
+128072:0::0:23:New noble~[93298] took two~giant spiders~[278] from us.
+93298:0::0:23:> breed 278 278
+93298:0::0:23:Breed attempt will take 20 days.
+63638:0::0:23:Failed to receive a vision.
+63638:0::0:24:> use 753
+135844:0::0:24:Produced one~giant spider~[278].
+134272:0::0:24:Produced one~giant spider~[278].
+135844:0::0:25:> give 128072 278
+135844:0::0:25:Gave three~giant spiders to New noble~[128072].
+128072:0::0:25:Received three~giant spiders~[278] from New noble~[135844].
+134272:0::0:25:> give 128072 278
+134272:0::0:25:Gave three~giant spiders to New noble~[128072].
+128072:0::0:25:Received three~giant spiders~[278] from New noble~[134272].
+135844:0::0:25:> get 128072 278 2
+135844:0::0:25:Took two~giant spiders from New noble~[128072].
+128072:0::0:25:New noble~[135844] took two~giant spiders~[278] from us.
+134272:0::0:25:> get 128072 278 2
+134272:0::0:25:Took two~giant spiders from New noble~[128072].
+128072:0::0:25:New noble~[134272] took two~giant spiders~[278] from us.
+135844:0::0:25:> breed 278 278
+135844:0::0:25:Breed attempt will take 20 days.
+134272:0::0:25:> breed 278 278
+134272:0::0:25:Breed attempt will take 20 days.
+63638:0::0:26:The next religious act will surely succeed.
+100891:0::0:26:Learned Survive fatal wound~[611].
+148713:0::0:26:Learned Survive fatal wound~[611].
+141543:0::0:26:Learned Survive fatal wound~[611].
+16578:0::0:26:It has begun to rain.
+63638:0::0:27:> use 751 b193
+100891:0::0:27:> study 611
+100891:0::0:27:Already know Survive fatal wound~[611].
+148713:0::0:27:> study 611
+148713:0::0:27:Already know Survive fatal wound~[611].
+141543:0::0:27:> study 611
+141543:0::0:27:Already know Survive fatal wound~[611].
+100891:0::0:27:> study 611
+100891:0::0:27:Already know Survive fatal wound~[611].
+100891:0::0:27:> get 128072 278 2
+100891:0::0:27:Took two~giant spiders from New noble~[128072].
+128072:0::0:27:New noble~[100891] took two~giant spiders~[278] from us.
+100891:0::0:27:> breed 278 278
+100891:0::0:27:Breed attempt will take 20 days.
+148713:0::0:27:> study 611
+148713:0::0:27:Already know Survive fatal wound~[611].
+148713:0::0:27:> get 128072 278 2
+148713:0::0:27:Took two~giant spiders from New noble~[128072].
+128072:0::0:27:New noble~[148713] took two~giant spiders~[278] from us.
+148713:0::0:27:> breed 278 278
+148713:0::0:27:Breed attempt will take 20 days.
+141543:0::0:27:> study 611
+141543:0::0:27:Already know Survive fatal wound~[611].
+141543:0::0:27:> get 128072 278 2
+141543:0::0:27:Took two~giant spiders from New noble~[128072].
+128072:0::0:27:New noble~[141543] took two~giant spiders~[278] from us.
+141543:0::0:27:> breed 278 278
+141543:0::0:27:Breed attempt will take 20 days.
+128072:0::0:27:Produced one~rat~[279].
+128072:0::0:28:> breed 279 279
+128072:0::0:28:Breed attempt will take 6 days.
+140646:0::0:30:Produced one~giant spider~[278].
+51695:0::0:30:Avatar~[k834] has passed on.  Gained 3 NPs.
+15928:0::0::
+15928:0::0::Province controlled by Silver Mountain Citadel~[8056], castle, in Silver Mountain~[cz27]
+15928:0::0::Ruled by Gopher~[2300], duke
+15928:0::0::
+15928:0::0::Routes leaving Forest: 
+15928:0::3::North, to Plain~[cx28], 7~days
+15928:0::3::East, to Plain~[cz29], 7~days
+15928:0::3::South, to Mountain~[da28], 10~days
+15928:0::3::West, mountain, to Silver Mountain~[cz27], 10~days
+15928:0::0::
+15928:0::0::It is raining.
+15928:0::0::The province is blanketed in fog.
+15928:0::0::
+15928:0::0::No one can be seen through the fog.
+16578:0::0::
+16578:0::0::Province controlled by Het Steen~[4681], castle, in The Shadowlands~[da82]
+16578:0::0::Ruled by Cosimo I, Duke of Greyfell~[a072], duke
+16578:0::0::
+16578:0::0::Routes leaving The Shadowlands: 
+16578:0::3::North, forest, to The Shadowlands~[df78], 8~days
+16578:0::3::East, mountain, to The Shadowlands~[dg79], 10~days
+16578:0::3::South, to Forest~[dh78], 8~days
+16578:0::3::West, forest, to The Shadowlands~[dg77], 8~days
+16578:0::0::
+16578:0::0::Inner locations:
+16578:0::3::Graveyard~[d744], graveyard, 1 day
+16578:0::3::Sand pit~[z377], sand pit, 1 day
+16578:0::0::
+16578:0::0::It is raining.
+16578:0::0::
+16578:0::0::Seen here:
+16578:0::0/3::   Garrison~[9437], garrison, on guard, with 11~soldiers
+5:0::0::
+5:0::0::begin gn5 "citadel1"  # Red Griffon Rampant on White
+5:0::0::
+5:0::0::unit gn5  # Red Griffon Rampant on White
+5:0::0::
+5:0::0::unit 128072  # New noble in Forest~[cz28]
+5:0::3::# > breed 279 279 (executing for three more days)
+5:0::3::breed 279 279
+5:0::3::breed 279 279
+5:0::3::breed 279 279
+5:0::3::breed 279 279
+5:0::3::breed 279 279
+5:0::3::breed 279 279
+5:0::0::
+5:0::0::unit 98662  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 11 more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 133173  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for eight more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit f960  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for nine more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 134943  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for three more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 93298  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 12 more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 141561  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 11 more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 100891  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 16 more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 148713  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 16 more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 141543  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 16 more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 114086  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for eight more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 135844  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 14 more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 134272  # New noble in Forest~[cz28]
+5:0::3::# > breed 278 278 (executing for 14 more days)
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit 140646  # New noble in Forest~[cz28]
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::3::get 128072 278 2
+5:0::3::breed 278 278
+5:0::3::give 128072 278
+5:0::0::
+5:0::0::unit f638  # Pactra in The Shadowlands~[dg78]
+5:0::3::# > use 751 b193 (executing for six more days)
+5:0::3::use 753
+5:0::3::use 751 b193
+5:0::3::use 753
+5:0::3::use 751 b193
+5:0::3::use 753
+5:0::3::use 751 b193
+5:0::3::use 753
+5:0::3::use 751 b193
+5:0::3::use 753
+5:0::3::use 751 b193
+5:0::3::use 753
+5:0::3::use 751 b193
+5:0::3::use 753
+5:0::0::
+5:0::0::end
+51695:0::0::
+51695:0::0::Unclaimed items:
+51695:0::0::
+51695:0::0::      qty  name                              weight
+51695:0::0::      ---  ----                              ------
+51695:0::0::    1,095  gold~[1]                               0  
+51695:0::0::       10  wood~[77]                            300  
+51695:0::0::      100  stone~[78]                        10,000  
+63638:0::3::
+63638:0::3/16::Location:       The Shadowlands~[dg78], in Provinia
+63638:0::3::Loyalty:        Oath-1
+63638:0::3::Health:         100%
+63638:0::3::Combat:         attack 80, defense 115, missile 0
+63638:0::3::                behind 0  (front line in combat)
+63638:0::3::Break point:    50%
+63638:0::3::use  641 1      (concealing self)
+63638:0::3::Receive Vision: 6 protection
+63638:0::3::
+63638:0::3::Skills known:
+63638:0::6::Combat~[610]
+63638:0::12::Survive fatal wound~[611]
+63638:0::12::Defense~[614], journeyman
+63638:0::12::Weaponsmithing~[617], apprentice
+63638:0::6::Stealth~[630]
+63638:0::12::Learn of richest nearby noble~[636], apprentice
+63638:0::12::Conceal self~[641], apprentice
+63638:0::6::Religion~[750]
+63638:0::12::Receive vision~[751], apprentice
+63638:0::12::Resurrect dead noble~[752], apprentice
+63638:0::12::Preparatory ritual~[753], apprentice
+63638:0::12::Lay to rest~[754], apprentice
+63638:0::12::Immunity from Vision~[756], apprentice
+63638:0::3::
+63638:0::3::Partially known skills:
+63638:0::6/6::Torture prisoner~[637], 14/21
+63638:0::6/6::Sneak into structure~[639], 0/21
+63638:0::6/6::Remove blessing from soldiers~[755], 14/28
+63638:0::3::
+63638:0::3::Inventory:
+63638:0::3::{<b>}      qty  name                              weight{</b>}
+63638:0::3::      ---  ----                              ------
+63638:0::3::    2,023  gold~[1]                               0  
+63638:0::3::                                             ======
+63638:0::3::                                                  0
+63638:0::3::
+63638:0::3/11::Capacity:  0/100 land (0%)
+63638:0::3::
+63960:0::3::
+63960:0::3/16::Location:       Forest~[cz28], in Provinia
+63960:0::3::Loyalty:        Fear-94
+63960:0::3/16::Stacked under:  New noble~[128072]
+63960:0::3::Health:         100%
+63960:0::3::Combat:         attack 80, defense 80, missile 0
+63960:0::3::                behind 5  (stay behind in combat)
+63960:0::3::Break point:    50%
+63960:0::3::
+63960:0::3::Skills known:
+63960:0::6::Combat~[610]
+63960:0::6::Beastmastery~[650]
+63960:0::12::Breed beasts~[654], journeyman
+63960:0::3::
+63960:0::3::Inventory:
+63960:0::3::{<b>}      qty  name                              weight{</b>}
+63960:0::3::      ---  ----                              ------
+63960:0::3::        1  riding horse~[52]                  1,000  ride 150
+63960:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+63960:0::3::                                             ======
+63960:0::3::                                              2,000
+63960:0::3::
+63960:0::3/11::Capacity:  0/250 land (0%), 100/150 ride (66%)
+63960:0::3::
+93298:0::3::
+93298:0::3/16::Location:       Forest~[cz28], in Provinia
+93298:0::3::Loyalty:        Contract-50
+93298:0::3/16::Stacked under:  New noble~[128072]
+93298:0::3::Health:         100%
+93298:0::3::Combat:         attack 80, defense 80, missile 0
+93298:0::3::                behind 5  (stay behind in combat)
+93298:0::3::Break point:    50%
+93298:0::3::
+93298:0::3::Skills known:
+93298:0::6::Combat~[610]
+93298:0::12::Survive fatal wound~[611]
+93298:0::6::Beastmastery~[650]
+93298:0::12::Breed beasts~[654], journeyman
+93298:0::3::
+93298:0::3::Inventory:
+93298:0::3::{<b>}      qty  name                              weight{</b>}
+93298:0::3::      ---  ----                              ------
+93298:0::3::       15  gold~[1]                               0  
+93298:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+93298:0::3::                                             ======
+93298:0::3::                                              1,000
+93298:0::3::
+93298:0::3/11::Capacity:  0/100 land (0%)
+93298:0::3::
+98662:0::3::
+98662:0::3/16::Location:       Forest~[cz28], in Provinia
+98662:0::3::Loyalty:        Fear-94
+98662:0::3/16::Stacked under:  New noble~[128072]
+98662:0::3::Health:         100%
+98662:0::3::Combat:         attack 80, defense 80, missile 0
+98662:0::3::                behind 5  (stay behind in combat)
+98662:0::3::Break point:    50%
+98662:0::3::
+98662:0::3::Skills known:
+98662:0::6::Combat~[610]
+98662:0::6::Beastmastery~[650]
+98662:0::12::Breed beasts~[654], journeyman
+98662:0::3::
+98662:0::3::Inventory:
+98662:0::3::{<b>}      qty  name                              weight{</b>}
+98662:0::3::      ---  ----                              ------
+98662:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+98662:0::3::                                             ======
+98662:0::3::                                              1,000
+98662:0::3::
+98662:0::3/11::Capacity:  0/100 land (0%)
+98662:0::3::
+100891:0::3::
+100891:0::3/16::Location:       Forest~[cz28], in Provinia
+100891:0::3::Loyalty:        Contract-100
+100891:0::3/16::Stacked under:  New noble~[128072]
+100891:0::3::Health:         100%
+100891:0::3::Combat:         attack 80, defense 80, missile 0
+100891:0::3::                behind 5  (stay behind in combat)
+100891:0::3::Break point:    50%
+100891:0::3::
+100891:0::3::Skills known:
+100891:0::6::Combat~[610]
+100891:0::12::Survive fatal wound~[611]
+100891:0::6::Beastmastery~[650]
+100891:0::12::Breed beasts~[654], journeyman
+100891:0::3::
+100891:0::3::Inventory:
+100891:0::3::{<b>}      qty  name                              weight{</b>}
+100891:0::3::      ---  ----                              ------
+100891:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+100891:0::3::                                             ======
+100891:0::3::                                              1,000
+100891:0::3::
+100891:0::3/11::Capacity:  0/100 land (0%)
+100891:0::3::
+114086:0::3::
+114086:0::3/16::Location:       Forest~[cz28], in Provinia
+114086:0::3::Loyalty:        Fear-95
+114086:0::3/16::Stacked under:  New noble~[128072]
+114086:0::3::Health:         100%
+114086:0::3::Combat:         attack 80, defense 80, missile 0
+114086:0::3::                behind 5  (stay behind in combat)
+114086:0::3::Break point:    50%
+114086:0::3::
+114086:0::3::Skills known:
+114086:0::6::Combat~[610]
+114086:0::6::Beastmastery~[650]
+114086:0::12::Breed beasts~[654], journeyman
+114086:0::3::
+114086:0::3::Inventory:
+114086:0::3::{<b>}      qty  name                              weight{</b>}
+114086:0::3::      ---  ----                              ------
+114086:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+114086:0::3::                                             ======
+114086:0::3::                                              1,000
+114086:0::3::
+114086:0::3/11::Capacity:  0/100 land (0%)
+114086:0::3::
+128072:0::3::
+128072:0::3/16::Location:       Forest~[cz28], in Provinia
+128072:0::3::Loyalty:        Oath-1
+128072:0::3::Stacked over:   New noble~[98662]
+128072:0::3::                New noble~[133173]
+128072:0::3::                New noble~[f960]
+128072:0::3::                New noble~[134943]
+128072:0::3::                New noble~[93298]
+128072:0::3::                New noble~[141561]
+128072:0::3::                New noble~[100891]
+128072:0::3::                New noble~[148713]
+128072:0::3::                New noble~[141543]
+128072:0::3::                New noble~[114086]
+128072:0::3::                New noble~[135844]
+128072:0::3::                New noble~[134272]
+128072:0::3::                New noble~[140646]
+128072:0::3::Health:         100%
+128072:0::3::Combat:         attack 80, defense 80, missile 0
+128072:0::3::                behind 0  (front line in combat)
+128072:0::3::Break point:    50%
+128072:0::3::
+128072:0::3::Skills known:
+128072:0::6::Combat~[610]
+128072:0::6::Beastmastery~[650]
+128072:0::12::Breed beasts~[654], journeyman
+128072:0::3::
+128072:0::3::Partially known skills:
+128072:0::6/6::Survive fatal wound~[611], 21/28
+128072:0::6/6::Fight to the death~[612], 21/28
+128072:0::6/6::Use beasts in battle~[653], 21/28
+128072:0::3::
+128072:0::3::Inventory:
+128072:0::3::{<b>}      qty  name                              weight{</b>}
+128072:0::3::      ---  ----                              ------
+128072:0::3::       38  giant spiders~[278]               19,000   (150,100,0)
+128072:0::3::       35  rats~[279]                         1,750   (3,3,0)
+128072:0::3::                                             ======
+128072:0::3::                                             20,750
+128072:0::3::
+128072:0::3/11::Capacity:  0/100 land (0%)
+128072:0::3::
+133173:0::3::
+133173:0::3/16::Location:       Forest~[cz28], in Provinia
+133173:0::3::Loyalty:        Contract-50
+133173:0::3/16::Stacked under:  New noble~[128072]
+133173:0::3::Health:         100%
+133173:0::3::Combat:         attack 80, defense 80, missile 0
+133173:0::3::                behind 5  (stay behind in combat)
+133173:0::3::Break point:    50%
+133173:0::3::
+133173:0::3::Skills known:
+133173:0::6::Combat~[610]
+133173:0::12::Survive fatal wound~[611]
+133173:0::6::Beastmastery~[650]
+133173:0::12::Breed beasts~[654], journeyman
+133173:0::3::
+133173:0::3::Inventory:
+133173:0::3::{<b>}      qty  name                              weight{</b>}
+133173:0::3::      ---  ----                              ------
+133173:0::3::        8  gold~[1]                               0  
+133173:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+133173:0::3::                                             ======
+133173:0::3::                                              1,000
+133173:0::3::
+133173:0::3/11::Capacity:  0/100 land (0%)
+133173:0::3::
+134272:0::3::
+134272:0::3/16::Location:       Forest~[cz28], in Provinia
+134272:0::3::Loyalty:        Fear-94
+134272:0::3/16::Stacked under:  New noble~[128072]
+134272:0::3::Health:         100%
+134272:0::3::Combat:         attack 80, defense 80, missile 0
+134272:0::3::                behind 5  (stay behind in combat)
+134272:0::3::Break point:    50%
+134272:0::3::
+134272:0::3::Skills known:
+134272:0::6::Combat~[610]
+134272:0::6::Beastmastery~[650]
+134272:0::12::Breed beasts~[654], journeyman
+134272:0::3::
+134272:0::3::Inventory:
+134272:0::3::{<b>}      qty  name                              weight{</b>}
+134272:0::3::      ---  ----                              ------
+134272:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+134272:0::3::                                             ======
+134272:0::3::                                              1,000
+134272:0::3::
+134272:0::3/11::Capacity:  0/100 land (0%)
+134272:0::3::
+134943:0::3::
+134943:0::3/16::Location:       Forest~[cz28], in Provinia
+134943:0::3::Loyalty:        Fear-94
+134943:0::3/16::Stacked under:  New noble~[128072]
+134943:0::3::Health:         100%
+134943:0::3::Combat:         attack 80, defense 80, missile 0
+134943:0::3::                behind 5  (stay behind in combat)
+134943:0::3::Break point:    50%
+134943:0::3::
+134943:0::3::Skills known:
+134943:0::6::Combat~[610]
+134943:0::6::Beastmastery~[650]
+134943:0::12::Breed beasts~[654], journeyman
+134943:0::3::
+134943:0::3::Inventory:
+134943:0::3::{<b>}      qty  name                              weight{</b>}
+134943:0::3::      ---  ----                              ------
+134943:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+134943:0::3::                                             ======
+134943:0::3::                                              1,000
+134943:0::3::
+134943:0::3/11::Capacity:  0/100 land (0%)
+134943:0::3::
+135844:0::3::
+135844:0::3/16::Location:       Forest~[cz28], in Provinia
+135844:0::3::Loyalty:        Fear-95
+135844:0::3/16::Stacked under:  New noble~[128072]
+135844:0::3::Health:         100%
+135844:0::3::Combat:         attack 80, defense 80, missile 0
+135844:0::3::                behind 5  (stay behind in combat)
+135844:0::3::Break point:    50%
+135844:0::3::
+135844:0::3::Skills known:
+135844:0::6::Combat~[610]
+135844:0::6::Beastmastery~[650]
+135844:0::12::Breed beasts~[654], journeyman
+135844:0::3::
+135844:0::3::Inventory:
+135844:0::3::{<b>}      qty  name                              weight{</b>}
+135844:0::3::      ---  ----                              ------
+135844:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+135844:0::3::                                             ======
+135844:0::3::                                              1,000
+135844:0::3::
+135844:0::3/11::Capacity:  0/100 land (0%)
+135844:0::3::
+140646:0::3::
+140646:0::3/16::Location:       Forest~[cz28], in Provinia
+140646:0::3::Loyalty:        Fear-997
+140646:0::3/16::Stacked under:  New noble~[128072]
+140646:0::3::Health:         100%
+140646:0::3::Combat:         attack 80, defense 80, missile 0
+140646:0::3::                behind 9  (stay behind in combat)
+140646:0::3::Break point:    50%
+140646:0::3::
+140646:0::3::Skills known:
+140646:0::6::Combat~[610]
+140646:0::6::Beastmastery~[650]
+140646:0::12::Breed beasts~[654], journeyman
+140646:0::3::
+140646:0::3::Inventory:
+140646:0::3::{<b>}      qty  name                              weight{</b>}
+140646:0::3::      ---  ----                              ------
+140646:0::3::        3  giant spiders~[278]                1,500   (150,100,0)
+140646:0::3::                                             ======
+140646:0::3::                                              1,500
+140646:0::3::
+140646:0::3/11::Capacity:  0/100 land (0%)
+140646:0::3::
+141543:0::3::
+141543:0::3/16::Location:       Forest~[cz28], in Provinia
+141543:0::3::Loyalty:        Contract-100
+141543:0::3/16::Stacked under:  New noble~[128072]
+141543:0::3::Health:         100%
+141543:0::3::Combat:         attack 80, defense 80, missile 0
+141543:0::3::                behind 5  (stay behind in combat)
+141543:0::3::Break point:    50%
+141543:0::3::
+141543:0::3::Skills known:
+141543:0::6::Combat~[610]
+141543:0::12::Survive fatal wound~[611]
+141543:0::6::Beastmastery~[650]
+141543:0::12::Breed beasts~[654], journeyman
+141543:0::3::
+141543:0::3::Inventory:
+141543:0::3::{<b>}      qty  name                              weight{</b>}
+141543:0::3::      ---  ----                              ------
+141543:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+141543:0::3::                                             ======
+141543:0::3::                                              1,000
+141543:0::3::
+141543:0::3/11::Capacity:  0/100 land (0%)
+141543:0::3::
+141561:0::3::
+141561:0::3/16::Location:       Forest~[cz28], in Provinia
+141561:0::3::Loyalty:        Contract-50
+141561:0::3/16::Stacked under:  New noble~[128072]
+141561:0::3::Health:         100%
+141561:0::3::Combat:         attack 80, defense 80, missile 0
+141561:0::3::                behind 5  (stay behind in combat)
+141561:0::3::Break point:    50%
+141561:0::3::
+141561:0::3::Skills known:
+141561:0::6::Combat~[610]
+141561:0::12::Survive fatal wound~[611]
+141561:0::6::Beastmastery~[650]
+141561:0::12::Breed beasts~[654], journeyman
+141561:0::3::
+141561:0::3::Inventory:
+141561:0::3::{<b>}      qty  name                              weight{</b>}
+141561:0::3::      ---  ----                              ------
+141561:0::3::       15  gold~[1]                               0  
+141561:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+141561:0::3::                                             ======
+141561:0::3::                                              1,000
+141561:0::3::
+141561:0::3/11::Capacity:  0/100 land (0%)
+141561:0::3::
+148713:0::3::
+148713:0::3/16::Location:       Forest~[cz28], in Provinia
+148713:0::3::Loyalty:        Contract-100
+148713:0::3/16::Stacked under:  New noble~[128072]
+148713:0::3::Health:         100%
+148713:0::3::Combat:         attack 80, defense 80, missile 0
+148713:0::3::                behind 5  (stay behind in combat)
+148713:0::3::Break point:    50%
+148713:0::3::
+148713:0::3::Skills known:
+148713:0::6::Combat~[610]
+148713:0::12::Survive fatal wound~[611]
+148713:0::6::Beastmastery~[650]
+148713:0::12::Breed beasts~[654], journeyman
+148713:0::3::
+148713:0::3::Inventory:
+148713:0::3::{<b>}      qty  name                              weight{</b>}
+148713:0::3::      ---  ----                              ------
+148713:0::3::        2  giant spiders~[278]                1,000   (150,100,0)
+148713:0::3::                                             ======
+148713:0::3::                                              1,000
+148713:0::3::
+148713:0::3/11::Capacity:  0/100 land (0%)
+148713:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Red Griffon Rampant on White~[gn5].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/gn5/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [gn5]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        15  30th   
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           2,061  92nd   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   15/74  102nd  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         103/31,919  104th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  3     (3 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 262.
+0:0::0::
+0:0::0::The next five nobles formed will be:  124497 85057 87908 98074 95514
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::128072 cz28   o1    100  0                                    New noble
+0:0::0::98662  cz28   f94   100  5                             128072 New noble
+0:0::0::133173 cz28   c50   100  5       8                     128072 New noble
+0:0::0::f960   cz28   f94   100  5                             128072 New noble
+0:0::0::134943 cz28   f94   100  5                             128072 New noble
+0:0::0::93298  cz28   c50   100  5      15                     128072 New noble
+0:0::0::141561 cz28   c50   100  5      15                     128072 New noble
+0:0::0::100891 cz28   c100  100  5                             128072 New noble
+0:0::0::148713 cz28   c100  100  5                             128072 New noble
+0:0::0::141543 cz28   c100  100  5                             128072 New noble
+0:0::0::114086 cz28   f95   100  5                             128072 New noble
+0:0::0::135844 cz28   f95   100  5                             128072 New noble
+0:0::0::134272 cz28   f94   100  5                             128072 New noble
+0:0::0::140646 cz28   f997  100  9                             128072 New noble
+0:0::0::f638   dg78   o1    100  0    2023                            Pactra
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              2061                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[cz28]                    New noble~[128072]
+0:0::0::                                     New noble~[98662]
+0:0::0::                                     New noble~[133173]
+0:0::0::                                     New noble~[f960]
+0:0::0::                                     New noble~[134943]
+0:0::0::                                     New noble~[93298]
+0:0::0::                                     New noble~[141561]
+0:0::0::                                     New noble~[100891]
+0:0::0::                                     New noble~[148713]
+0:0::0::                                     New noble~[141543]
+0:0::0::                                     New noble~[114086]
+0:0::0::                                     New noble~[135844]
+0:0::0::                                     New noble~[134272]
+0:0::0::                                     New noble~[140646]
+0:0::0::  The Shadowlands~[dg78]           Pactra~[f638]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::128072      36,650      1,550   0%    (1,250) 933%                
+0:0::0:: 98662       1,100        100   0%                                
+0:0::0::133173       1,100        100   0%                                
+0:0::0::  f960       2,100        250   0%         50  66%                
+0:0::0::134943       1,100        100   0%                                
+0:0::0:: 93298       1,100        100   0%                                
+0:0::0::141561       1,100        100   0%                                
+0:0::0::100891       1,100        100   0%                                
+0:0::0::148713       1,100        100   0%                                
+0:0::0::141543       1,100        100   0%                                
+0:0::0::114086       1,100        100   0%                                
+0:0::0::135844       1,100        100   0%                                
+0:0::0::134272       1,100        100   0%                                
+0:0::0::140646       1,600        100   0%                                
+0:0::0::  f638         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Red Griffon Rampant on White~[gn5]"><font size=+1><b>Red Griffon Rampant on White~[gn5]</b></font>
+1:2::0::<hr>
+1:1::0::Red Griffon Rampant on White~[gn5]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51695
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[128072]"><font size=+1><b>New noble~[128072]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[128072]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 128072
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[98662]"><font size=+1><b>New noble~[98662]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[98662]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 98662
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[133173]"><font size=+1><b>New noble~[133173]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[133173]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 133173
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[f960]"><font size=+1><b>New noble~[f960]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[f960]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 63960
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[134943]"><font size=+1><b>New noble~[134943]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[134943]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 134943
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[93298]"><font size=+1><b>New noble~[93298]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[93298]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 93298
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[141561]"><font size=+1><b>New noble~[141561]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[141561]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 141561
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[100891]"><font size=+1><b>New noble~[100891]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[100891]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 100891
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[148713]"><font size=+1><b>New noble~[148713]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[148713]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 148713
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[141543]"><font size=+1><b>New noble~[141543]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[141543]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 141543
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[114086]"><font size=+1><b>New noble~[114086]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[114086]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 114086
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[135844]"><font size=+1><b>New noble~[135844]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[135844]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 135844
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[134272]"><font size=+1><b>New noble~[134272]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[134272]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 134272
+1:0::0::
+1:2::0::
+1:2::0::<name="New noble~[140646]"><font size=+1><b>New noble~[140646]</b></font>
+1:2::0::<hr>
+1:1::0::New noble~[140646]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 140646
+1:0::0::
+1:2::0::
+1:2::0::<name="Pactra~[f638]"><font size=+1><b>Pactra~[f638]</b></font>
+1:2::0::<hr>
+1:1::0::Pactra~[f638]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 63638
+1:2::0::
+1:2::0::<name="Forest~[cz28]"><font size=+1><b>Forest~[cz28]</b>, forest, in Provinia, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[cz28], forest, in Provinia, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 15928
+1:0::0::
+1:2::0::
+1:2::0::<name="The Shadowlands~[dg78]"><font size=+1><b>The Shadowlands~[dg78]</b>, desert, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::The Shadowlands~[dg78], desert, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16578
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,204 @@
+75374:stop
+75374:contact bh3 cb5 db7 df7 et5 fc3
+75374:contact gk5 hd3 mm9 nn3 ny7 ps4
+75374:contact qb2 qn5 qy4 rq7 rr7 sz5
+75374:contact ta8 tj7 tp2 tr5 ug3 uh5
+75374:contact vy5 xy3 yf7 Yg9 ym3 yv5
+75374:contact zy6 148147
+75374:accept 0 0
+75374:behind 0
+75374:sail up
+75374:decree watch 2592 
+75374:breed 282 282
+75374:breed 282 282
+75374:breed 282 282
+75374:breed 282 282
+75374:breed 282 282
+75374:breed 282 282
+75374:breed 54 54
+75374:breed 54 54
+75374:breed 54 54
+75374:breed 54 54
+75374:breed 54 54
+62070:explore
+62070:fly w
+62070:explore
+62070:explore
+62070:explore
+62070:explore
+62070:use 614
+74766:use 616
+74766:use 616
+74766:use 614
+74766:use 616
+74766:use 616
+74766:use 614
+74766:use 616
+74766:use 616
+74766:use 614
+74766:use 614
+74766:use 616
+74766:use 616
+74766:use 614
+74766:use 614
+74766:use 616
+74766:use 616
+74766:use 614
+74766:use 614
+74766:use 616
+74766:use 616
+74766:use 614
+74766:use 614
+74766:use 616
+74766:use 616
+74766:use 614
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+78495:breed 54 54
+60687:get garrison 11 0
+60687:move h374
+60687:move 9992
+60687:use 722
+60687:repair
+60687:move out
+60687:move out
+60687:give garrison 11 0
+60687:recruit
+60687:train 11 0
+60687:get garrison 11 0
+60687:move h374
+60687:move 9992
+60687:use 722
+60687:repair
+60687:move out
+60687:move out
+60687:give garrison 11 0
+60687:recruit
+60687:train 11 0
+65828:study 860
+65828:study 860
+65828:use 616
+65828:use 616
+65828:use 616
+63597:contact bh3 cb5 db7 df7 et5 fc3
+63597:contact gk5 hd3 mm9 nn3 ny7 ps4
+63597:contact qb2 qn5 qy4 rq7 rr7 sz5
+63597:contact ta8 tj7 tp2 tr5 ug3 uh5
+63597:contact vy5 xy3 yf7 Yg9 ym3 yv5
+63597:contact zy6 148147
+63597:accept 0 0
+63597:get v374 282 2
+63597:breed 282 282
+63597:give v374 282 0
+63597:get v374 282 2
+63597:breed 282 282
+63597:give v374 282 0
+63597:get v374 282 2
+63597:breed 282 282
+63597:give v374 282 0
+63597:get v374 282 2
+63597:breed 282 282
+63597:give v374 282 0
+63597:get v374 282 2
+63597:breed 282 282
+63597:give v374 282 0
+78775:sail n
+78775:sail n
+78775:sail n
+78775:sail n
+78775:sail n
+78775:sail n
+78775:sail n
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail n
+78775:sail n
+78775:sail n
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail n
+78775:sail n
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail w
+78775:sail n
+78775:sail n
+78775:sail n
+78775:sail n
+55275:accept bh3 0
+55275:accept cb5 0
+55275:accept db7 0
+55275:accept df7 0
+55275:accept et5 0
+55275:accept fc3 0
+55275:accept gk5 0
+55275:accept hd3 0
+55275:accept mm9 0
+55275:accept nn3 0
+55275:accept ny7 0
+55275:accept ps4 0
+55275:accept qb2 0
+55275:accept qn5 0
+55275:accept qy4 0
+55275:accept rq7 0
+55275:accept rr7 0
+55275:accept sz5 0
+55275:accept ta8 0
+55275:accept tj7 0
+55275:accept tp2 0
+55275:accept tr5 0
+55275:accept ug3 0
+55275:accept uh5 0
+55275:accept vy5 0
+55275:accept xy3 0
+55275:accept yf7 0
+55275:accept Yg9 0
+55275:accept ym3 0
+55275:accept yv5 0
+55275:accept zy6 0
+65444:stop
+65444:contact bh3 cb5 db7 df7 et5 fc3
+65444:contact gk5 hd3 mm9 nn3 ny7 ps4
+65444:contact qb2 qn5 qy4 rq7 rr7 sz5
+65444:contact ta8 tj7 tp2 tr5 ug3 uh5
+65444:contact vy5 xy3 yf7 Yg9 ym3 yv5
+65444:contact zy6
+65444:accept 0 0
+65444:pledge 2621
+65444:promote 8653
+65444:stack 8653
+65444:use 922 v374 16 75
+65444:study 611
+65444:study 611
+65444:make 18 18
+65444:give 8653 18 0
+65444:use 813
+65444:use 813

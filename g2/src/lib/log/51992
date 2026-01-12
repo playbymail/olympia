@@ -1,0 +1,389 @@
+10505:0::0:0:Garrison~[s121], garrison, with ten~soldiers, 25~winged horses, four~riding horses, 126~centaurs, ten~oxen, 30~workers, three~nazgul, three~giant spiders guards Askrigg~[ag05].
+11523:0::0:0:Garrison~[107245], garrison, with ten~peasants guards Mountain~[at23].
+10505:0::0:1:Dana~[j896] entered Coel~[r64].
+11523:0::0:21:It has begun to rain.
+10505:0::0:24:Savage~[125209] attacks Dagda's Castle~[h842]!
+10505:0::3:24:
+10505:0::3:24:Savage~[125209], savages, number:~22
+10505:0::3:24:
+10505:0::3:24:Dagda's Castle~[h842], castle, defense~80, level~6, owner:
+10505:0::6/3:24:Bragi Vidkunnsson~[p236], count, with 80~peasants, three~workers, 32~elite guard, 32~pikemen, 61~swordsmen, 33~elite archers, 13~catapults
+10505:0::0:24:
+10505:0::0:24:Bragi Vidkunnsson~[p236] is victorious!
+10505:0::0:24:
+10505:0::3:24:Savage lost 21~savages.
+10505:0::3:24:Savage~[125209] was wounded.
+10505:0::0:24:
+10505:0::0::
+10505:0::0::Province controlled by Dagda's Castle~[h842], castle, in Askrigg~[ag05]
+10505:0::0::Ruled by Bragi Vidkunnsson~[p236], count
+10505:0::0::
+10505:0::0::Routes leaving Askrigg: 
+10505:0::3::North, plain, to Fyrkat~[af05], 7~days
+10505:0::3::East, plain, to Hedeby~[ag06], 7~days
+10505:0::3::South, plain, to Holmavik~[ah05], 7~days
+10505:0::3::West, plain, to Miklagard~[ag04], 7~days
+10505:0::0::
+10505:0::0::Inner locations:
+10505:0::3::Coel~[r64], city, "Duchy of Jelling", 1 day
+10505:0::3::Grassy field~[c242], pasture, 1 day
+10505:0::3::Rocky hill~[a073], rocky hill, 1 day
+10505:0::3::Dagda's Castle~[h842], castle, defense~80, level~6, "House of Lords", owner:
+10505:0::0/6::      Bragi Vidkunnsson~[p236], count, "{<i>}House of Lords{</i>}", with 80~peasants, three~workers, 32~elite guard, 32~pikemen, 61~swordsmen, 33~elite archers, 13~catapults, accompanied~by:
+10505:0::0/9::         Savage~[110136], savage, prisoner
+10505:0::0/9::         Savage~[96874], savage, prisoner
+10505:0::0/9::         Savage~[108751], savage, prisoner
+10505:0::0/9::         Savage~[141689], savage, prisoner
+10505:0::0/9::         Savage~[117021], savage, prisoner
+10505:0::0/9::         Savage~[100882], savage, prisoner
+10505:0::0/9::         Savage~[96777], savage, prisoner
+10505:0::0/9::         Savage~[107322], savage, prisoner
+10505:0::0/9::         Savage~[123185], savage, prisoner
+10505:0::0/9::         Savage~[114255], savage, prisoner
+10505:0::0/9::         Savage~[141548], savage, prisoner
+10505:0::0/9::         Savage~[81844], savage, prisoner
+10505:0::6::MacCumhal's Tower~[q889], tower, defense~40, "House of Lords"
+10505:0::0::
+10505:0::0::It is raining.
+10505:0::0::
+10505:0::0::Seen here:
+10505:0::0/3::   Garrison~[s121], garrison, on guard, with ten~soldiers, 25~winged horses, four~riding horses, 126~centaurs, ten~oxen, 30~workers, three~nazgul, three~giant spiders
+10505:0::0/3:: * Ospak Hauksson~[p630], "{<i>}House of Lords{</i>}"
+10505:0::0/3::   Savage~[132940], savage
+10505:0::0/3::   Savage~[125209], savage
+11523:0::0::
+11523:0::0::Province controlled by The Sapphire Shield~[5215], castle, in Mountain~[at23]
+11523:0::0::Ruled by Ufgood~[d071], duke
+11523:0::0::
+11523:0::0::Routes leaving Mountain: 
+11523:0::3::North, to Desert~[as23], 8~days
+11523:0::3::East, to Plain~[at24], 7~days
+11523:0::3::South, to Forest~[av23], 8~days
+11523:0::3::West, to Plain~[at22], 7~days
+11523:0::0::
+11523:0::0::Inner locations:
+11523:0::3::Plagcath~[h91], city, 1 day
+11523:0::0::
+11523:0::0::It is raining.
+11523:0::0::
+11523:0::0::Seen here:
+11523:0::0/3::   Garrison~[107245], garrison, on guard, with ten~peasants
+11523:0::0/3::   Klem~[k920], with ten~peasants, three~riding horses
+11523:0::0/3::   Lord Charles~[q961], wielding Javelin of Birdan~[m712], with 17~peasants, 20~soldiers
+36677:0::0::
+36677:0::0::No known routes leaving Hades~[rh77]
+5:0::0::
+5:0::0::begin hr2 "tfarcyps"  # Tuatha de Fionn
+5:0::0::
+5:0::0::unit hr2  # Tuatha de Fionn
+5:0::0::
+5:0::0::unit p630  # Ospak Hauksson in Askrigg~[ag05]
+5:0::0::
+5:0::0::unit n471  # Serk in Mountain~[at23]
+5:0::0::
+5:0::0::unit p137  # Fionn MacCumhal in Hades~[rh77]
+5:0::0::
+5:0::0::end
+51992:0::0::
+51992:0::0::Admit permissions:
+51992:0::0::
+51992:0::3::admit h842  de2  hr2  kt3  px4  ra2  sa4  wb4 1599 3634 3843 3920
+51992:0::3::           5934 k810 n471 z501 r381 x218 x196 6344
+51992:0::0::
+51992:0::0::Declared attitudes:
+51992:0::3::defend  1599 3634 3843 3920 5934 6344  de2  hr2  kt3  px4  ra2
+51992:0::3::         sa4  wb4 a068 k810 n471 r381 x196 x218 z501
+51992:0::0::
+51992:0::0::Unclaimed items:
+51992:0::0::
+51992:0::0::      qty  name                              weight
+51992:0::0::      ---  ----                              ------
+51992:0::0::    5,505  gold~[1]                               0  
+51992:0::0::       50  wood~[77]                          1,500  
+69471:0::3::
+69471:0::3/16::Location:       Mountain~[at23], in Ormos
+69471:0::3::Loyalty:        Oath-1
+69471:0::3::Health:         100%
+69471:0::3::Combat:         attack 164, defense 155, missile 0
+69471:0::3::                behind 0  (front line in combat)
+69471:0::3::Break point:    0% (fight to the death)
+69471:0::3::use  641 1      (concealing self)
+69471:0::3::
+69471:0::3::Skills known:
+69471:0::6::Combat~[610]
+69471:0::12::Survive fatal wound~[611]
+69471:0::12::Fight to the death~[612]
+69471:0::12::Defense~[614], master
+69471:0::12::Swordplay~[616], adept
+69471:0::12::Weaponsmithing~[617], apprentice
+69471:0::6::Stealth~[630]
+69471:0::12::Petty thievery~[631], apprentice
+69471:0::12::Determine inventory of character~[632], apprentice
+69471:0::12::Determine skills of character~[633], apprentice
+69471:0::12::Determine character's lord~[634], apprentice
+69471:0::12::Conceal faction~[635], apprentice
+69471:0::12::Sneak into structure~[639], apprentice
+69471:0::12::Conceal self~[641], apprentice
+69471:0::6::Persuasion~[670]
+69471:0::12::Bribe noble~[671], apprentice
+69471:0::12::Persuade oathbound noble~[672], apprentice
+69471:0::12::Raise peasant mob~[673], apprentice
+69471:0::12::Rally peasant mob~[674], apprentice
+69471:0::3::
+69471:0::3::Inventory:
+69471:0::3::{<b>}      qty  name                              weight{</b>}
+69471:0::3::      ---  ----                              ------
+69471:0::3::    1,713  gold~[1]                               0  
+69471:0::3::        1  winged horse~[54]                  1,000  fly 150
+69471:0::3::        1  elfstone~[69]                          1  
+69471:0::3::                                             ======
+69471:0::3::                                              1,001
+69471:0::3::
+69471:0::3/11::Capacity:  1/250 land (0%), 101/150 ride (67%), 101/150 fly (67%)
+69471:0::3::
+70137:0::3::
+70137:0::3/16::Location:       Hades~[rh77], in Hades
+70137:0::3::Loyalty:        Oath-2
+70137:0::3::Health:         100%
+70137:0::3::Combat:         attack 80, defense 30, missile 0
+70137:0::3::                behind 9  (stay behind in combat)
+70137:0::3::Break point:    50%
+70137:0::3::use  641 1      (concealing self)
+70137:0::3::Banner:         House of Lords
+70137:0::3::
+70137:0::3::Current aura:   44
+70137:0::3::Maximum aura:   44
+70137:0::3::
+70137:0::3::Skills known:
+70137:0::6::Combat~[610]
+70137:0::6::Stealth~[630]
+70137:0::12::Conceal self~[641], apprentice
+70137:0::6::Magic~[800]
+70137:0::12::Meditate~[801], apprentice
+70137:0::12::Perform common tasks for gold~[802], grand master
+70137:0::12::Appear common~[803], journeyman
+70137:0::12::View current aura level of others~[804], apprentice
+70137:0::12::Reveal abilities of another mage~[805], apprentice
+70137:0::12::Tap health for aura~[806], apprentice
+70137:0::12::Heal~[807], apprentice
+70137:0::12::Modern magic script~[808], apprentice
+70137:0::12::Shroud abilities from scry~[809], apprentice
+70137:0::12::Detect ability scry~[811], apprentice
+70137:0::12::Dispel ability shroud~[812], apprentice
+70137:0::12::Advanced meditation~[813], journeyman
+70137:0::12::Hinder meditation~[814], apprentice
+70137:0::6::Weather magic~[820]
+70137:0::12::Fierce wind~[821], apprentice
+70137:0::12::Bind storm to ship~[822], apprentice
+70137:0::12::Scribe weather symbols~[823], apprentice
+70137:0::12::Summon wind~[825], apprentice
+70137:0::12::Summon fog~[826], apprentice
+70137:0::12::Direct storm~[827], apprentice
+70137:0::6::Scrying~[840]
+70137:0::12::Scry location~[841], adept
+70137:0::12::Shroud location from magical scry~[842], apprentice
+70137:0::12::Dispel location shroud~[843], apprentice
+70137:0::12::Ciphered writing of Areth-Pirn~[844], apprentice
+70137:0::12::Create magical barrier~[845], apprentice
+70137:0::12::Remove magical barrier~[846], apprentice
+70137:0::12::Locate character~[847], apprentice
+70137:0::12::Detect location scry~[848], apprentice
+70137:0::12::Farcasting~[849], apprentice
+70137:0::12::Save farcast state~[851], apprentice
+70137:0::12::Banish undead~[852], apprentice
+70137:0::6::Gatecraft~[860]
+70137:0::12::Teleport~[861], apprentice
+70137:0::12::Detect gates~[862], apprentice
+70137:0::12::Jump through gate~[863], apprentice
+70137:0::12::Notify if gate unsealed~[866], apprentice
+70137:0::12::Forcefully unseal gate~[867], apprentice
+70137:0::12::Reveal gate key~[868], apprentice
+70137:0::12::Notify of gate jumps~[869], apprentice
+70137:0::12::Language of the Ancients~[871], apprentice
+70137:0::12::Reverse jump through gate~[872], apprentice
+70137:0::6::Artifact construction~[880]
+70137:0::3::
+70137:0::3::Partially known skills:
+70137:0::6/6::Dissipate storm~[828], 9/21
+70137:0::6/6::Renew storm strength~[829], 3/21
+70137:0::6/6::Lightning bolt~[831], 1/28
+70137:0::6/6::Seize control of storm~[832], 1/21
+70137:0::6/6::Fog of death~[833], 1/21
+70137:0::6/6::Seal gate~[864], 1/14
+70137:0::6/6::Unseal gate with key~[865], 1/14
+70137:0::3::
+70137:0::3::Fionn MacCumhal~[p137] has no possessions.
+70137:0::3::
+70137:0::3/11::Capacity:  0/100 land (0%)
+70137:0::3::
+70137:0::3::Pending trades:
+70137:0::3::
+70137:0::6::trade    price    qty   item
+70137:0::6::-----    -----    ---   ----
+70137:0::6:: sell        7  9,990   clay pot~[95]
+70137:0::3::
+70630:0::3::
+70630:0::3/16::Location:       Askrigg~[ag05], in Cipheria
+70630:0::3::Loyalty:        Oath-1
+70630:0::3::Health:         100%
+70630:0::3::Combat:         attack 80, defense 80, missile 0
+70630:0::3::                behind 0  (front line in combat)
+70630:0::3::Break point:    0% (fight to the death)
+70630:0::3::Banner:         House of Lords
+70630:0::3::
+70630:0::3::Skills known:
+70630:0::6::Combat~[610]
+70630:0::12::Survive fatal wound~[611]
+70630:0::12::Fight to the death~[612]
+70630:0::12::Defense~[614], apprentice
+70630:0::12::Swordplay~[616], apprentice
+70630:0::12::Weaponsmithing~[617], apprentice
+70630:0::6::Beastmastery~[650]
+70630:0::12::Bird spy~[651], apprentice
+70630:0::12::Capture beasts in battle~[652]
+70630:0::12::Use beasts in battle~[653]
+70630:0::12::Breed beasts~[654], grand master
+70630:0::12::Catch wild horses~[655], apprentice
+70630:0::12::Train wild horse to riding horse~[656], apprentice
+70630:0::12::Train wild horse to warmount~[657], apprentice
+70630:0::12::Summon wild men~[658], apprentice
+70630:0::3::
+70630:0::3::Partially known skills:
+70630:0::6/6::Persuade wild men to remain~[659], 0/21
+70630:0::6/6::Breed hound~[661], 0/21
+70630:0::3::
+70630:0::3::Inventory:
+70630:0::3::{<b>}      qty  name                              weight{</b>}
+70630:0::3::      ---  ----                              ------
+70630:0::3::        5  woven baskets~[94]                     5  
+70630:0::3::                                             ======
+70630:0::3::                                                  5
+70630:0::3::
+70630:0::3/11::Capacity:  5/100 land (5%)
+70630:0::3::
+70630:0::3::Pending trades:
+70630:0::3::
+70630:0::6::trade    price    qty   item
+70630:0::6::-----    -----    ---   ----
+70630:0::6:: sell        4  9,974   woven basket~[94]
+70630:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Tuatha de Fionn~[hr2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/hr2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [hr2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         3  104th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                           1,713  93rd   
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   28/74  77th   
+0:0::3/41::Spells known:                   44/79  60th   
+0:0::3/41::Provinces visited:         202/31,919  95th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  16     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 263.
+0:0::0::
+0:0::0::The next five nobles formed will be:  f933 x890 r436 92230 83860
+0:0::0::
+0:0::0::7 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::p630   ag05   o1    100  0                                    Ospak Hauksson
+0:0::0::n471   at23   o1    100  0    1713                            Serk
+0:0::0::p137   rh77   o2    100  9 44                                 Fionn MacCumhal
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                              1713                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Cipheria
+0:0::0::  Askrigg~[ag05]                   Ospak Hauksson~[p630]
+0:0::0::Ormos
+0:0::0::  Mountain~[at23]                  Serk~[n471]
+0:0::0::Hades
+0:0::0::  Hades~[rh77]                     Fionn MacCumhal~[p137]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  p630         105         95   5%                                
+0:0::0::  n471       1,101        249   0%         49  67%         49  67%
+0:0::0::  p137         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Tuatha de Fionn~[hr2]"><font size=+1><b>Tuatha de Fionn~[hr2]</b></font>
+1:2::0::<hr>
+1:1::0::Tuatha de Fionn~[hr2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51992
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Ospak Hauksson~[p630]"><font size=+1><b>Ospak Hauksson~[p630]</b></font>
+1:2::0::<hr>
+1:1::0::Ospak Hauksson~[p630]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 70630
+1:0::0::
+1:2::0::
+1:2::0::<name="Serk~[n471]"><font size=+1><b>Serk~[n471]</b></font>
+1:2::0::<hr>
+1:1::0::Serk~[n471]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 69471
+1:0::0::
+1:2::0::
+1:2::0::<name="Fionn MacCumhal~[p137]"><font size=+1><b>Fionn MacCumhal~[p137]</b></font>
+1:2::0::<hr>
+1:1::0::Fionn MacCumhal~[p137]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 70137
+1:2::0::
+1:2::0::<name="Askrigg~[ag05]"><font size=+1><b>Askrigg~[ag05]</b>, plain, in Cipheria, civ-6</font>
+1:2::0::<hr>
+1:1::0::Askrigg~[ag05], plain, in Cipheria, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 10505
+1:0::0::
+1:2::0::
+1:2::0::<name="Mountain~[at23]"><font size=+1><b>Mountain~[at23]</b>, mountain, in Ormos, civ-6</font>
+1:2::0::<hr>
+1:1::0::Mountain~[at23], mountain, in Ormos, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11523
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[rh77]"><font size=+1><b>Hades~[rh77]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[rh77], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36677
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,125 @@
+
+provinces controlled
+castles pledge
+number of regions
+
+
+
+	provinces	rank
+	---------	----
+	   1-3          lord
+           4-7          knight
+           8-11         baron
+          12-15         count
+          16-19         earl
+          20-22         marquess
+           23+          duke
+          region        king     (region must have at least 15 provinces)
+
+
+
+British peerage system:
+
+	(Archduke)
+	Duke
+	Marquess
+	Earl		(same as european Count)
+	Viscount
+	Baron
+	Baronet
+	Knight
+	Squire
+	Page / gentleman?
+
+
+French:
+
+	Chevalier
+	Baron
+	Marquis
+	Vicomte
+	Comte
+	Duc
+
+
+initiate
+acolyte
+priest
+seer
+
+apprentice
+journeyman
+master
+
+mage
+wizard
+sorcerer
+
+overlord
+emperor / imperator
+autarch
+
+scholar
+teacher
+hero
+
+
+advancement criteria
+
+	time at previous status
+	payment of gold
+	ownership of artifact
+
+
+benefits of title
+
+	monthly income
+	special report
+	appoint other titles
+	combat rating bonus
+
+
+lord
+	any noble may claim this title
+
+knight
+	requires a noble to have been lord for one year
+	or, appointment by a king
+	or, payment of 1,000 gold
+
+baron
+	requires knight to be owner of a castle
+
+
+viscount
+earl
+	must be a baron
+	appointment by king
+	or one year as baron
+
+duke
+
+archduke
+
+king
+
+
+Lady of the Lake
+Keeper of the Archives
+Emperor
+Archduke
+Holder of the Sacred Chalice
+Dark Overlord
+
+Imperial Realm
+Dark Kingdom
+
+King of region
+
+
+Forest [xx99]
+
+   ruled by Osswid [501]
+   ruled by Castle Chardia [5501], in Forest [yy88]
+   ruled by The Dark Order [6820]
+

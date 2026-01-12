@@ -1,0 +1,56 @@
+1.  Choice of three start cities on web form.
+
+2.  smaller world - 75x75
+
+3.  Changes pulled in from g2-old
+
+	make sure start cities are all safe havens?
+
+DONE:
+	Format of Join file is now
+		Faction
+		Primary character
+		Starting city choice
+		Player's full name
+		Email address
+	totimes-g2@pbm.com alias
+	g2watch
+	ordering of hidden locations is no longer sequential
+	fix mapgen to use * for three start cities -- naming, etc.
+	auraculuation doesn't reveal identity to others
+
+	skills gone:
+		160/9106	Speed cast
+		160/9178	Save speeded cast
+	9186 lets a mage absorb half of an aura blast
+
+	250 orders max per unit
+
+	Make Faery and Hades as big as the regular world (?) land only?
+
+Movement penalty
+----------------
+
+Stacks with large numbers of men relative to the number of nobles
+travel slower.  A movement penalty of:
+
+	delay = number of men / (number of nobles * 10)
+
+is imposed for stack movement.  For example, a stack with one noble
+and 9 peasants will move in the rated time.  A stack with 10 peasants
+and one noble will take an extra day to move.  A stack with 40 peasants
+and 2 nobles will take two extra days, etc...
+
+
+TODO:
+	Create G2 join web form
+
+	Make sure you can't civilize squares in faery or hades
+
+
+Questions:
+	Should G1 move to Thursday, and G2 run on Tuesday, or
+	should both games run on Wednesday.  If both run on Wednesday,
+	a single copy of the _Times_ could be produced, covering
+	both games.
+

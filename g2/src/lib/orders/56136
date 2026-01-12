@@ -1,0 +1,143 @@
+67191:accept 0 0
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly e
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly e
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly e
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly e
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly e
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly e
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly e
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly e
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+67191:fly s
+63313:accept 0 0
+63313:contact xp6 ur4 ka6 vg6
+63313:breed 271 271
+63313:breed 271 271
+63313:breed 271 271
+63313:breed 271 271
+63313:breed 271 271
+63313:make 94
+63467:accept 0 0
+63467:contact xp6 ur4 ka6 vg6
+63467:breed 271 271
+63467:breed 271 271
+63467:breed 271 271
+63467:breed 271 271
+63467:breed 271 271
+63467:make 94
+88102:accept 0 0
+88102:contact xp6 ur4 ka6 vg6
+88102:breed 271 271
+88102:breed 271 271
+88102:breed 271 271
+88102:breed 271 271
+88102:breed 271 271
+88102:make 94
+91869:stop
+91869:accept 0 0
+91869:contact xp6 ur4 ka6 vg6
+91869:breed 271 271
+91869:breed 271 271
+91869:breed 271 271
+91869:get f313 271 0 5
+91869:get n113 271 0 5
+91869:get r078 271 0 5
+91869:get 88102 271 0 5
+91869:get f467 271 0 5
+91869:move out
+91869:give garrison 271 0 5
+91869:move in
+91869:stack garrison
+91869:breed 271 271
+91869:breed 271 271
+91869:breed 271 271
+91869:breed 271 271
+91869:make 94
+61219:accept 0 0
+61219:move e
+61219:move e
+61219:move e
+61219:move s
+61219:explore
+61219:explore
+61219:explore
+61219:explore
+61219:explore
+56136:accept 0 0
+69113:stop
+69113:accept 0 0
+69113:contact xp6 ur4 ka6 vg6
+69113:breed 271 271
+69113:breed 271 271
+69113:breed 271 271
+69113:breed 271 271
+69113:breed 271 271
+69113:make 94
+72078:stop
+72078:accept 0 0
+72078:contact xp6 ur4 ka6 vg6
+72078:breed 271 271
+72078:breed 271 271
+72078:breed 271 271
+72078:breed 271 271
+72078:breed 271 271
+72078:make 94
+124265:stop
+124265:accept 0 0
+124265:study 654
+124265:study 654
+109308:stop
+109308:accept 0 0
+109308:study 654
+109308:study 654

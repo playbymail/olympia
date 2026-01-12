@@ -1,0 +1,20 @@
+sysclock: 260 30 7800
+indep_player=100
+gm_player=200
+skill_player=202
+from_host=olympia@g2.pbm.com (Olympia PBEM)
+reply_host=orders@g2.pbm.com
+post=1
+init=1
+fr=58930
+tr=58977
+ur=58929
+fp=204
+hr=58793
+hp=60785
+hl=205
+nr=58907
+nl=27168
+np=206
+cr=58848
+cp=210

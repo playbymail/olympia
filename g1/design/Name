@@ -1,0 +1,109 @@
+I hope some folks are still around on the design list, and haven't
+left for the holidays yet...  :-)
+
+The problem:
+------------
+
+	Entity numbers, while necessary for referencing units, are quite
+	ugly.  The problem is slightly worse than it appears now; to
+	support enough units for a game with hundreds of players, I will
+	either have to go to five-digit numbers, or use an alphanumeric
+	code, as is done now for locations.
+
+
+Why have codes?  Why not just recognize the names?
+--------------------------------------------------
+
+	1.  Names would have to be unique.
+
+	2.  Typing long names may be error-prone.  For example:
+
+		Bastrestric ther Archymonaged
+
+	3.  Parsing without the helper quotes is not reliable.
+
+	    So if instead of:
+
+		give "Bastrestric ther Archymonaged" peasants 10
+
+	    you typed:
+
+		give Bastrestric ther Archymonaged peasants 10
+
+	    Your order would probably fail.
+
+
+What can we do?
+---------------
+
+There are three possible solutions:
+
+	1.  Simply decimal number entities, and ignore the ugliness
+	    with four and five digit numbers.
+
+	2.  Use an alpha-numeric code, such as base 36.  "Osswid [p7x]"
+
+	3.  Allow short player-chosen tags.
+
+
+How would that #3 work?
+-----------------------
+
+	unit bta	# Bastrestric ther Archymonaged
+	  form 17556 "Cirdan the Shipwright" cirdan cts
+
+	unit 17556	# Unformed noble
+	  new orders for Cirdan...
+
+
+	Bastrestric ther Archymonaged (bta)
+	-----------------------------------
+	> form 17556 "Cirdan the Shipwright" cirdan cts
+	Cirdan the Shipwright (cirdan) stacks beneath us.
+
+
+This is what happened above:
+
+	1.  We are Bastrestric ther Archymonaged (bta).  We wanted
+	    to form a new unit.  We chose a number from our unformed
+	    nobles list, "17556".
+
+	2.  We gave this to the FORM order along with Cirdan's name,
+	    and a list of suggested entity tags:  "cirdan" and "cts".
+
+	3.  Cirdan is formed, we got our first choice for a tag.
+
+	4.  Our orders for the first turn Cirdan exists must use the five
+	    digit number, since we don't know what his tag will be for sure.
+
+Suppose we didn't get our first or second choice for tags; tags must be
+unique, and perhaps they've already been used.  In this case, the computer
+will choose a tag for you:
+
+	> form 17556 "Cirdan the Shipwright" cirdan cts
+	Cirdan the Shipwright (cts2) stacks beneath us.
+
+Now we can either stick with this tags, or issue an order to try to change it.
+
+	Cirdan the Shipwright (cts2)
+	----------------------------
+	> tag cir cs cird
+	Now known as Cirdan the Shipwright (cs).
+
+	...
+
+	Name changes:
+
+	old tag		new name
+	-------		--------
+	cts2		Cirdan the Shipwright (cs)
+
+Cirdan issued an order to try and change the tag by which he is referenced.
+The second choice was not used, and we got it.  Note that there must be
+a new section in everyone's turn reports announcing all tag changes, so
+people will still be able to correctly reference units.
+
+The old tag will continue to work until the end of the turn, so orders
+already sent in for the turn won't fail because of a tag change.
+
+Please comment.

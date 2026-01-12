@@ -1,0 +1,317 @@
+12163:0::0:0:Garrison~[2476], garrison, with ten~soldiers guards Forest~[bb63].
+58110:0::0:0:Garrison~[8203], garrison, with 108~pikemen guards Ethna~[r50].
+12464:0::0:0:Garrison~[r345], garrison, with two~soldiers, eight~ghost warriors, 65~archers guards Plain~[bf64].
+12163:0::0:21:It has begun to rain.
+12464:0::0:30:It has stopped raining.
+12163:0::0::
+12163:0::0::Province controlled by Den of Thieves~[4408], castle, in Plain~[az59]
+12163:0::0::Ruled by Claud Badly~[4029], king
+12163:0::0::
+12163:0::0::Routes leaving Forest: 
+12163:0::3::North, to Forest~[ba63], 8~days
+12163:0::3::East, to Forest~[bb64], 8~days
+12163:0::3::South, to Forest~[bc63], 8~days
+12163:0::3::West, to Desert~[bb62], 8~days
+12163:0::0::
+12163:0::0::It is raining.
+12163:0::0::
+12163:0::0::Seen here:
+12163:0::0/3::   Garrison~[2476], garrison, on guard, with ten~soldiers
+12163:0::0/3:: * Spooky Fox~[9730], wizard
+12163:0::0/3:: * Red Bear~[7410]
+12464:0::0::
+12464:0::0::Province controlled by Den of Thieves~[4408], castle, in Plain~[az59]
+12464:0::0::Ruled by Claud Badly~[4029], king
+12464:0::0::
+12464:0::0::Routes leaving Plain: 
+12464:0::3::North, to Forest~[bd64], 8~days
+12464:0::3::East, to Mountain~[bf65], 10~days
+12464:0::3::South, to Forest~[bg64], 8~days
+12464:0::3::West, to Plain~[bf63], 7~days
+12464:0::0::
+12464:0::0::Inner locations:
+12464:0::3::Ethna~[r50], city, 1 day
+12464:0::0::
+12464:0::0::Seen here:
+12464:0::0/3::   Garrison~[r345], garrison, on guard, with two~soldiers, eight~ghost warriors, 65~archers
+58110:0::0::
+58110:0::0::Routes leaving Ethna: 
+58110:0::3::Out, to Plain~[bf64], 1~day
+58110:0::0::
+58110:0::0::Cities rumored to be nearby:
+58110:0::3::City~[m54], in Plain~[bj64]
+58110:0::0::
+58110:0::0::Skills taught here:
+58110:0::3::Combat~[610], Stealth~[630], Beastmastery~[650], Persuasion~[670], Construction~[680], Magic~[800], Artifact construction~[880]
+58110:0::0::
+58110:0::0::Market report:
+58110:0::3::
+58110:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58110:0::3::-----    ---   -----    ---     -----   ----                     
+58110:0::3::  buy    r50     106     39        50   ale~[c039]               
+58110:0::3::  buy    r50       7      9         5   clay pots~[95]           
+58110:0::3:: sell    r50     100      5     2,000   oxen~[76]                
+58110:0::3:: sell    r50      32     49        50   ale~[q462]               
+58110:0::3:: sell    r50      30     32        55   cinnabar~[w180]          
+58110:0::3:: sell    r50     120      2     1,000   riding horses~[52]       
+58110:0::0::
+58110:0::0::Inner locations:
+58110:0::3::House of the Sun~[r174], temple, defense~10
+58110:0::3::Spire of the Heavens~[3091], tower, defense~40
+58110:0::0::
+58110:0::0::Seen here:
+58110:0::0/3::   Garrison~[8203], garrison, on guard, with 108~pikemen
+58110:0::0/3:: * Sat on an Antler~[9096]
+5:0::0::
+5:0::0::begin fz5 "quitxxx"  # The Plainsmen
+5:0::0::
+5:0::0::unit fz5  # The Plainsmen
+5:0::0::
+5:0::0::unit 9730  # Spooky Fox in Forest~[bb63]
+5:0::0::
+5:0::0::unit 7410  # Red Bear in Forest~[bb63]
+5:0::0::
+5:0::0::unit 9096  # Sat on an Antler in Ethna~[r50]
+5:0::0::
+5:0::0::end
+51555:0::0::
+51555:0::0::Unclaimed items:
+51555:0::0::
+51555:0::0::      qty  name                              weight
+51555:0::0::      ---  ----                              ------
+51555:0::0::    3,975  gold~[1]                               0  
+51555:0::0::       50  wood~[77]                          1,500  
+7410:0::3::
+7410:0::3/16::Location:       Forest~[bb63], in Krussos
+7410:0::3::Loyalty:        Oath-2
+7410:0::3::Health:         100%
+7410:0::3::Combat:         attack 104, defense 80, missile 50
+7410:0::3::                behind 0  (front line in combat)
+7410:0::3::Break point:    0% (fight to the death)
+7410:0::3::
+7410:0::3::Skills known:
+7410:0::6::Combat~[610]
+7410:0::12::Survive fatal wound~[611]
+7410:0::12::Fight to the death~[612]
+7410:0::12::Archery~[615], apprentice
+7410:0::12::Swordplay~[616], apprentice
+7410:0::12::Weaponsmithing~[617], apprentice
+7410:0::6::Beastmastery~[650]
+7410:0::12::Bird spy~[651], apprentice
+7410:0::12::Capture beasts in battle~[652]
+7410:0::12::Use beasts in battle~[653]
+7410:0::12::Breed beasts~[654], apprentice
+7410:0::12::Catch wild horses~[655], adept
+7410:0::12::Train wild horse to riding horse~[656], master
+7410:0::6::Construction~[680]
+7410:0::12::Stone quarrying~[682], adept
+7410:0::3::
+7410:0::3::Red Bear~[7410] has no possessions.
+7410:0::3::
+7410:0::3/11::Capacity:  0/100 land (0%)
+7410:0::3::
+9096:0::3::
+9096:0::3/16::Location:       Ethna~[r50], in province Plain~[bf64], in Krussos
+9096:0::3::Loyalty:        Oath-1
+9096:0::3::Health:         100%
+9096:0::3::Combat:         attack 108, defense 80, missile 50
+9096:0::3::                behind 0  (front line in combat)
+9096:0::3::Break point:    50%
+9096:0::3::
+9096:0::3::Skills known:
+9096:0::6::Combat~[610]
+9096:0::12::Survive fatal wound~[611]
+9096:0::12::Fight to the death~[612]
+9096:0::12::Archery~[615], apprentice
+9096:0::12::Swordplay~[616], journeyman
+9096:0::6::Stealth~[630]
+9096:0::6::Beastmastery~[650]
+9096:0::12::Use beasts in battle~[653]
+9096:0::12::Breed beasts~[654], adept
+9096:0::12::Catch wild horses~[655], journeyman
+9096:0::12::Train wild horse to warmount~[657], apprentice
+9096:0::12::Summon wild men~[658], apprentice
+9096:0::6::Construction~[680]
+9096:0::6::Alchemy~[690]
+9096:0::12::Extract venom from ratspider~[691], apprentice
+9096:0::12::Record skill on scroll~[695], apprentice
+9096:0::6::Forestry~[700]
+9096:0::12::Harvest lumber~[702], apprentice
+9096:0::12::Harvest yew~[703], apprentice
+9096:0::3::
+9096:0::3::Inventory:
+9096:0::3::{<b>}      qty  name                              weight{</b>}
+9096:0::3::      ---  ----                              ------
+9096:0::3::       86  stone~[78]                         8,600  
+9096:0::3::                                             ======
+9096:0::3::                                              8,600
+9096:0::3::
+9096:0::3/11::Capacity:  8,600/100 land (8600%)
+9096:0::3::
+9730:0::3::
+9730:0::3/16::Location:       Forest~[bb63], in Krussos
+9730:0::3::Loyalty:        Oath-1
+9730:0::3::Health:         100%
+9730:0::3::Combat:         attack 80, defense 80, missile 0
+9730:0::3::                behind 0  (front line in combat)
+9730:0::3::Break point:    50%
+9730:0::3::
+9730:0::3::Current aura:   20
+9730:0::3::Maximum aura:   20
+9730:0::3::
+9730:0::3::Skills known:
+9730:0::6::Beastmastery~[650]
+9730:0::12::Use beasts in battle~[653]
+9730:0::12::Breed beasts~[654], apprentice
+9730:0::6::Magic~[800]
+9730:0::12::Meditate~[801], apprentice
+9730:0::12::Perform common tasks for gold~[802], adept
+9730:0::12::Appear common~[803], apprentice
+9730:0::6::Scrying~[840]
+9730:0::12::Scry location~[841], journeyman
+9730:0::12::Dispel location shroud~[843], apprentice
+9730:0::6::Gatecraft~[860]
+9730:0::12::Teleport~[861], apprentice
+9730:0::12::Detect gates~[862], journeyman
+9730:0::6::Necromancy~[900]
+9730:0::12::Runes of Evil~[902], journeyman
+9730:0::12::Summon ghost warriors~[903], adept
+9730:0::12::Raise undead~[904], apprentice
+9730:0::12::Summon demon lord~[905], apprentice
+9730:0::12::Renew demon bond~[906], apprentice
+9730:0::12::Banish demon lord~[907], apprentice
+9730:0::12::Eating of the dead~[908], apprentice
+9730:0::12::Aura blast~[909], apprentice
+9730:0::12::Absorb aura blast~[911], apprentice
+9730:0::3::
+9730:0::3::Partially known skills:
+9730:0::6/6::Ciphered writing of Areth-Pirn~[844], 14/21
+9730:0::6/6::Create magical barrier~[845], 14/21
+9730:0::6/6::Locate character~[847], 14/21
+9730:0::6/6::Detect location scry~[848], 14/21
+9730:0::6/6::Farcasting~[849], 14/21
+9730:0::6/6::Banish undead~[852], 14/21
+9730:0::3::
+9730:0::3::Spooky Fox~[9730] has no possessions.
+9730:0::3::
+9730:0::3/11::Capacity:  0/100 land (0%)
+9730:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Plainsmen~[fz5].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/fz5/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [fz5]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         3  104th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   24/74  86th   
+0:0::3/41::Spells known:                   20/79  77th   
+0:0::3/41::Provinces visited:         159/31,919  96th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  29     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 262.
+0:0::0::
+0:0::0::The next five nobles formed will be:  8175 8770 4956 1688 z887
+0:0::0::
+0:0::0::65 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::9730   bb63   o1    100  0 20                                 Spooky Fox
+0:0::0::7410   bb63   o2    100  0                                    Red Bear
+0:0::0::9096   r50    o1    100  0                                    Sat on an
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                                                      
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Krussos
+0:0::0::  Forest~[bb63]                    Spooky Fox~[9730]
+0:0::0::                                   Red Bear~[7410]
+0:0::0::  Plain~[bf64]
+0:0::0::    Ethna~[r50]                    Sat on an Antler~[9096]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  9730         100        100   0%                                
+0:0::0::  7410         100        100   0%                                
+0:0::0::  9096       8,700    (8,500)  --                                 
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Plainsmen~[fz5]"><font size=+1><b>The Plainsmen~[fz5]</b></font>
+1:2::0::<hr>
+1:1::0::The Plainsmen~[fz5]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 51555
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Spooky Fox~[9730]"><font size=+1><b>Spooky Fox~[9730]</b></font>
+1:2::0::<hr>
+1:1::0::Spooky Fox~[9730]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9730
+1:0::0::
+1:2::0::
+1:2::0::<name="Red Bear~[7410]"><font size=+1><b>Red Bear~[7410]</b></font>
+1:2::0::<hr>
+1:1::0::Red Bear~[7410]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7410
+1:0::0::
+1:2::0::
+1:2::0::<name="Sat on an Antler~[9096]"><font size=+1><b>Sat on an Antler~[9096]</b></font>
+1:2::0::<hr>
+1:1::0::Sat on an Antler~[9096]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9096
+1:2::0::
+1:2::0::<name="Forest~[bb63]"><font size=+1><b>Forest~[bb63]</b>, forest, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Forest~[bb63], forest, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12163
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[bf64]"><font size=+1><b>Plain~[bf64]</b>, plain, in Krussos, civ-3</font>
+1:2::0::<hr>
+1:1::0::Plain~[bf64], plain, in Krussos, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 12464
+1:0::0::
+1:2::0::
+1:2::0::<name="Ethna~[r50]"><font size=+1><b>Ethna~[r50]</b>, city, in province Plain~[bf64]</font>
+1:2::0::<hr>
+1:1::0::Ethna~[r50], city, in province Plain~[bf64]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58110
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

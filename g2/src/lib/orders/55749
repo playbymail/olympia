@@ -1,0 +1,290 @@
+83628:seek
+83628:seek
+83628:seek
+83628:seek
+83628:seek
+9625:stop
+9625:move 2804
+9625:sail out
+9625:sail w
+9625:sail n
+9625:sail n
+9625:move bx11
+9625:move n
+9625:give garrison 74
+9625:give garrison 16
+9625:give garrison 122616
+9625:move b12
+9625:stack garrison
+9625:study 700 1
+9625:study 670 1
+9625:study 696 1
+9625:study 700
+9625:study 700
+9625:recruit
+9625:move out
+9625:give garrison 104547
+2485:stop
+2485:move 124859
+2485:use 721
+2485:move out
+2485:move out
+2485:give garrison 1 0 500
+2485:give garrison 11
+2485:make 74
+2485:get garrison 79
+2485:get garrison 74
+2485:make 74
+2485:explore
+94957:explore
+94957:move n e s
+94957:move up
+94957:explore
+94957:move n e s
+94957:move up
+94957:move w
+94957:explore
+94957:move n w
+94957:move up
+94957:explore
+94957:move n w
+94957:move up
+94957:move up
+94957:explore
+94957:explore
+9569:sail in
+9569:move out
+9569:name q853 "Tollus private island"
+9569:quest
+9569:quest
+9569:move 133092
+9569:sail out
+9569:sail e
+9569:sail f131
+9569:move out
+9569:name f131 "Tollus private island"
+9569:quest
+9569:quest
+9569:move 133092
+9569:sail out
+9569:sail x036
+9569:move out
+9569:name x036 "Tollus private island"
+9569:quest
+9569:quest
+9569:move 133092
+9569:sail out
+9569:sail b129
+9569:move out
+9569:name b129 "Tollus private island"
+9569:quest
+9569:quest
+9569:move 133092
+9569:sail out
+5971:use 754 8116
+5971:use 754 c233
+5971:explore
+5971:fly out
+5971:fly e
+5971:fly e
+5971:fly e
+5971:fly e
+5971:fly e
+5971:fly e
+5971:fly e
+5971:fly e
+5971:explore
+5971:explore
+5277:get garrison 11 5
+5277:move n532
+5277:yew
+5277:move out
+5277:get garrison 11
+5277:wood
+5277:give garrison 11
+5277:move e
+5277:move emove d797
+5277:collect 64
+5277:move out
+5277:recruit 3
+5277:train 11
+5277:use 613
+5277:recruit 3
+5277:train 11
+5277:use 613
+5277:recruit 3
+5277:train 11
+5277:use 613
+5277:recruit 3
+5277:train 11
+5277:use 613
+5277:recruit 3
+5277:train 11
+5277:use 613
+5277:recruit 3
+5277:train 11
+5277:use 613
+82934:yew
+82934:move out
+82934:recruit
+82934:give garrison 10
+82934:give garrison 11
+82934:give garrison 68
+82934:give garrison 72
+82934:fly w
+82934:fly n
+82934:recruit 5
+82934:give garrison 10
+82934:get garrison 11 5
+82934:move q735
+82934:yew
+82934:move out
+82934:move t061
+82934:yew
+82934:make 72 5
+82934:yew
+82934:move out
+82934:move q735
+82934:yew
+82934:move out
+82934:get garrison 10
+82934:give garrison 11
+82934:get garrison 68
+82934:get garrison 72
+82934:move e
+82934:give garrison 10
+82934:give garrison 72
+82934:give garrison 68
+82934:fly s
+82934:recruit
+82934:give garrison 10
+82934:get garrison 11 5
+82934:move s197
+82934:yew
+82934:move out
+82934:give garrison 10
+144966:fly e
+144966:stack 5170
+144966:study 635
+144966:study 635
+144966:give 5170 1 1000
+144966:use 922 96672 1 500
+144966:explore
+144966:explore
+144966:explore
+98053:seek
+98053:seek
+98053:seek
+98053:move out
+98053:move s
+98053:move e
+98053:move s
+96672:recruit
+96672:give garrison 10
+96672:make 75 20
+96672:recruit
+96672:give garrison 10
+96672:get garrison 77
+96672:make 75
+5170:stop
+5170:study 821 1
+5170:study 822 1
+5170:study 823 1
+5170:study 824 1
+5170:study 827
+5170:wait stack 144966
+5170:terrorize 144966 100
+5170:unstack 144966
+5170:study 827
+5170:fly n
+5170:fly n
+5170:fly n
+5170:fly n
+5170:fly n
+5170:fly n
+5170:fly n
+5170:fly w
+5170:fly w
+5170:fly n
+5170:fly n
+5170:fly n
+5170:fly n
+112260:train 16
+8478:move kd51
+8478:explore
+8478:move kd51
+8478:explore
+8478:move kd51
+8478:explore
+8478:move kd51
+8478:explore
+8478:move kd51
+8478:move n e s w
+55749:accept 0 0
+95035:study 630
+95035:fly out
+95035:get garrison 100982
+95035:study 641 1
+95035:give garrison 100982
+95035:study 610
+95035:fly w
+95035:explore
+3750:give garrison 77
+3750:give garrison 54
+3750:give garrison 55 1
+3750:breed 55 55
+3750:give garison 55
+3750:get garrison 55 2
+3750:breed 55 55
+3750:give garison 55
+3750:get garrison 55 2
+3750:breed 55 55
+3750:give garison 55
+3750:get garrison 55 2
+3750:breed 55 55
+3750:give garison 55
+3750:get garrison 55 2
+3750:breed 55 55
+3750:give garison 55
+3750:get garrison 55 2
+3750:breed 55 55
+3750:give garison 55
+3750:get garrison 55 2
+3750:breed 55 55
+3750:give garison 55
+3750:get garrison 55 2
+3750:breed 55 55
+3750:give garison 55
+3750:get garrison 55 2
+148990:move n
+148990:move w
+148990:move z08
+148990:move out
+148990:move n
+148990:move w
+148990:move w
+148990:move n
+148990:get garrison 10
+148990:get garrison 68
+148990:get garrison 72
+148990:move n
+148990:get garrison 10
+148990:get garrison 68
+148990:get garrison 72
+5490:stop
+5490:fly x381
+5490:move x381
+5490:fly bk15
+5490:move bk15
+5490:USE 832 110397
+5490:use 829 110397 139
+5490:fly w
+5490:fly s
+5490:fly s
+5490:get garrison 1
+5490:fly s
+5490:fly w
+5490:fly p36
+5490:fly 3799
+5490:use 827 110397 s
+5490:use 921

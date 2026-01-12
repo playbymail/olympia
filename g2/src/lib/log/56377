@@ -1,0 +1,194 @@
+16678:0::0:0:Garrison~[2610], garrison, with ten~peasants guards Forest~[dh78].
+16678:0::0::
+16678:0::0::Routes leaving Forest: 
+16678:0::3::North, desert, to The Shadowlands~[dg78], 8~days
+16678:0::3::East, to Ocean~[dh79], Great Sea, impassable
+16678:0::3::South, to Ocean~[dj78], Great Sea, impassable
+16678:0::3::West, forest, to The Shadowlands~[dh77], 8~days
+16678:0::0::
+16678:0::0::Inner locations:
+16678:0::3::Yellowleaf~[r52], port city, safe haven, 1 day
+16678:0::0::
+16678:0::0::It is raining.
+16678:0::0::
+16678:0::0::Seen here:
+16678:0::0/3::   Garrison~[2610], garrison, on guard, with ten~peasants
+16678:0::0/3::   Lord Gary~[103357]
+58112:0::0::
+58112:0::0::Routes leaving Yellowleaf: 
+58112:0::3::East, to Ocean~[dh79], Great Sea, 1~day
+58112:0::3::South, to Ocean~[dj78], Great Sea, 1~day
+58112:0::3::Out, to Forest~[dh78], 1~day
+58112:0::0::
+58112:0::0::Cities rumored to be nearby:
+58112:0::3::Alexandria~[h11], in The Shadowlands~[dj74]
+58112:0::3::Omaha Beach~[p97], in North Coast Highlands~[dp77]
+58112:0::3::Elantir~[s99], in The Shadowlands~[dc79]
+58112:0::3::Azrain~[z68], in The Shadowlands~[dh77]
+58112:0::0::
+58112:0::0::Skills taught here:
+58112:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58112:0::0::
+58112:0::0::Market report:
+58112:0::3::
+58112:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58112:0::3::-----    ---   -----    ---     -----   ----                     
+58112:0::3::  buy    r52     193      7        30   jeweled eggs~[r537]      
+58112:0::3::  buy    r52       2    100         2   fish~[87]                
+58112:0::3::  buy    r52     119     26       100   cassava~[m685]           
+58112:0::3::  buy    r52      62     47        50   soap~[148496]            
+58112:0::3::  buy    r52       4     15         1   woven baskets~[94]       
+58112:0::3:: sell    r52      50     10       100   pitch~[261]              
+58112:0::3:: sell    r52      37     29        43   tea~[m589]               
+58112:0::3:: sell    r52      37     32        43   tea~[134952]             
+58112:0::3:: sell    r52      12     25        30   wood~[77]                
+58112:0::3:: sell    r52     110     39       100   purple cloth~[f508]      
+58112:0::0::
+58112:0::0::Inner locations:
+58112:0::3::Tower of Liss~[9120], tower, defense~40, owner:
+58112:0::0/6::      Lisbron~[7813]
+58112:0::3::Fool's Guild~[8516], tower, defense~40
+58112:0::3::Quiet Refuge~[3050], tower, defense~40, owner:
+58112:0::0/6::      Teram Xifar~[3118]
+58112:0::3::House of Mirrors~[7473], tower, defense~40
+58112:0::3::The Gray Tower~[2928], tower, defense~40
+58112:0::0::
+58112:0::0::It is raining.
+58112:0::0::
+58112:0::0::Seen here:
+58112:0::0/3::   Kain of Ember~[118477]
+58112:0::0/3::   Tenser~[89770]
+58112:0::0/3::   Elias Swift~[g822]
+58112:0::0/3::   Lord Derfel~[7774]
+58112:0::0/3::   Elise~[3775]
+58112:0::0/3:: * mary~[1161]
+58112:0::0/3::   Myrandel Shylantra~[f429]
+58112:0::0::
+58112:0::0::Ships docked at port:
+58112:0::3/3::Whisper~[w141], galley, 4% loaded, defense~20, owner:
+58112:0::0/6::      Morgan Walker~[c335]
+58112:0::0/6::      Francis Theopholus~[d413]
+58112:0::3/3::Corinth~[5512], roundship, 2% loaded, defense~10, 36%~damaged, owner:
+58112:0::0/6::      Duthan~[6374]
+58112:0::3/3::Ice Queen~[s137], roundship, 0% loaded, defense~10, 33%~damaged
+5:0::0::
+5:0::0::begin yn7  # EG
+5:0::0::
+5:0::0::unit yn7  # EG
+5:0::0::
+5:0::0::unit 1161  # mary in Yellowleaf~[r52]
+5:0::0::
+5:0::0::end
+56377:0::0::
+56377:0::0::Unclaimed items:
+56377:0::0::
+56377:0::0::      qty  name                              weight
+56377:0::0::      ---  ----                              ------
+56377:0::0::    8,250  gold~[1]                               0  
+56377:0::0::       50  wood~[77]                          1,500  
+56377:0::0::      100  stone~[78]                        10,000  
+1161:0::3::
+1161:0::3/16::Location:       Yellowleaf~[r52], in province Forest~[dh78], in Provinia
+1161:0::3::Loyalty:        Oath-2
+1161:0::3::Health:         100%
+1161:0::3::Combat:         attack 80, defense 80, missile 0
+1161:0::3::                behind 0  (front line in combat)
+1161:0::3::Break point:    50%
+1161:0::3::
+1161:0::3::Skills known:
+1161:0::6::none
+1161:0::3::
+1161:0::3::mary~[1161] has no possessions.
+1161:0::3::
+1161:0::3/11::Capacity:  0/100 land (0%)
+1161:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for EG~[yn7].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/yn7/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [yn7]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         1  121st  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    0/74  123rd  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:           0/31,919  120th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  39     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 266.
+0:0::0::
+0:0::0::The next five nobles formed will be:  9452 3741 1351 7645 3742
+0:0::0::
+0:0::0::100 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::1161   r52    o2    100  0                                    mary
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[dh78]
+0:0::0::    Yellowleaf~[r52]               mary~[1161]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  1161         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="EG~[yn7]"><font size=+1><b>EG~[yn7]</b></font>
+1:2::0::<hr>
+1:1::0::EG~[yn7]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 56377
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="mary~[1161]"><font size=+1><b>mary~[1161]</b></font>
+1:2::0::<hr>
+1:1::0::mary~[1161]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 1161
+1:2::0::
+1:2::0::<name="Forest~[dh78]"><font size=+1><b>Forest~[dh78]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dh78], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16678
+1:0::0::
+1:2::0::
+1:2::0::<name="Yellowleaf~[r52]"><font size=+1><b>Yellowleaf~[r52]</b>, port city, in province Forest~[dh78], safe haven</font>
+1:2::0::<hr>
+1:1::0::Yellowleaf~[r52], port city, in province Forest~[dh78], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58112
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

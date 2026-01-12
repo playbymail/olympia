@@ -1,0 +1,60 @@
+
+
+1.	Reconsider holes in the map.  Confusing for players.
+	Even hidden squares have them confused.  Perhaps all of the
+	square provinces should be sane, but the inner locs could
+	sit on the corners or something.
+
+	low-pri
+
+2.	Give initial players 20 NP's to start.  Forming a noble always
+	costs 1 NP.  Make a command to reclaim a noble and get the NP
+	back.  Give 1 NP to each faction every eight turns.  No progressive
+	NP requirement for nobles.
+
+3.	City founding now requires that a castle NOT be present in the
+	location.  This is undocumented.  The whole castle-in-region
+	thing plus the tax base issue needs to be reworked.
+
+3a.	Remove the quirks from the city/province tax base rules.
+	Cities and provinces would yield an equal amount of tax
+	or pillage gold.  A castle in a province would not inhibit
+	city founding in that province (although perhaps the founders
+	should be required to be the owners of the castle.)
+
+4.	Mine depth thing is a bit strange.  Rework it.
+	Perhaps there should be an indication of how much material
+	there is.  Or you should just get everything as it appears,
+	or something.
+
+	mine bug:  must do a touch_loc
+	also it sounds like the mine isn't being initially seeded
+	with minerals, until the turn after it's created.
+
+
+5.	Skill experience -- eliminate?  Or make it work more reliably.
+
+6.	It's too hard to make castles.
+
+	Perhaps there should be an upgradable progression.
+
+		fortress stronghold (thes)
+		castle
+		citadel
+
+		castle-1  castle-2  castle-3
+
+7.	Look into pillage formula.  Make taxing a bit more attractive.
+
+8.	Consider alternate DWIM approaches for order execution.
+
+	Estimate time order will take, allow stack members to finish
+	zero-time orders before beginning time-taking orders.
+
+
+9.	Make travel times longer.
+
+		No route should be less than 10 days (?)
+		Lengthen sea routes
+		Perhaps horses give a 25% bonus?
+

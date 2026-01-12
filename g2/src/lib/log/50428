@@ -1,0 +1,283 @@
+16678:0::0:0:Garrison~[2610], garrison, with ten~peasants guards Forest~[dh78].
+16678:0::0::
+16678:0::0::Routes leaving Forest: 
+16678:0::3::North, desert, to The Shadowlands~[dg78], 8~days
+16678:0::3::East, to Ocean~[dh79], Great Sea, impassable
+16678:0::3::South, to Ocean~[dj78], Great Sea, impassable
+16678:0::3::West, forest, to The Shadowlands~[dh77], 8~days
+16678:0::0::
+16678:0::0::Inner locations:
+16678:0::3::Yellowleaf~[r52], port city, safe haven, 1 day
+16678:0::0::
+16678:0::0::It is raining.
+16678:0::0::
+16678:0::0::Seen here:
+16678:0::0/3::   Garrison~[2610], garrison, on guard, with ten~peasants
+16678:0::0/3::   Lord Gary~[103357]
+58112:0::0::
+58112:0::0::Routes leaving Yellowleaf: 
+58112:0::3::East, to Ocean~[dh79], Great Sea, 1~day
+58112:0::3::South, to Ocean~[dj78], Great Sea, 1~day
+58112:0::3::Out, to Forest~[dh78], 1~day
+58112:0::0::
+58112:0::0::Cities rumored to be nearby:
+58112:0::3::Alexandria~[h11], in The Shadowlands~[dj74]
+58112:0::3::Omaha Beach~[p97], in North Coast Highlands~[dp77]
+58112:0::3::Elantir~[s99], in The Shadowlands~[dc79]
+58112:0::3::Azrain~[z68], in The Shadowlands~[dh77]
+58112:0::0::
+58112:0::0::Skills taught here:
+58112:0::3::Shipcraft~[600], Combat~[610], Stealth~[630], Construction~[680], Forestry~[700], Trade~[730], Magic~[800], Gatecraft~[860]
+58112:0::0::
+58112:0::0::Market report:
+58112:0::3::
+58112:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58112:0::3::-----    ---   -----    ---     -----   ----                     
+58112:0::3::  buy    r52     193      7        30   jeweled eggs~[r537]      
+58112:0::3::  buy    r52       2    100         2   fish~[87]                
+58112:0::3::  buy    r52     119     26       100   cassava~[m685]           
+58112:0::3::  buy    r52      62     47        50   soap~[148496]            
+58112:0::3::  buy    r52       4     15         1   woven baskets~[94]       
+58112:0::3:: sell    r52      50     10       100   pitch~[261]              
+58112:0::3:: sell    r52      37     29        43   tea~[m589]               
+58112:0::3:: sell    r52      37     32        43   tea~[134952]             
+58112:0::3:: sell    r52      12     25        30   wood~[77]                
+58112:0::3:: sell    r52     110     39       100   purple cloth~[f508]      
+58112:0::0::
+58112:0::0::Inner locations:
+58112:0::3::Tower of Liss~[9120], tower, defense~40, owner:
+58112:0::0/6::      Lisbron~[7813]
+58112:0::3::Fool's Guild~[8516], tower, defense~40
+58112:0::3::Quiet Refuge~[3050], tower, defense~40, owner:
+58112:0::0/6::      Teram Xifar~[3118]
+58112:0::3::House of Mirrors~[7473], tower, defense~40
+58112:0::3::The Gray Tower~[2928], tower, defense~40
+58112:0::0::
+58112:0::0::It is raining.
+58112:0::0::
+58112:0::0::Seen here:
+58112:0::0/3::   Kain of Ember~[118477]
+58112:0::0/3::   Tenser~[89770]
+58112:0::0/3:: * Elias Swift~[g822]
+58112:0::0/3::   Lord Derfel~[7774]
+58112:0::0/3::   Elise~[3775]
+58112:0::0/3::   mary~[1161]
+58112:0::0/3:: * Myrandel Shylantra~[f429]
+58112:0::0::
+58112:0::0::Ships docked at port:
+58112:0::3/3::Whisper~[w141], galley, 4% loaded, defense~20, owner:
+58112:0::0/6:: *    Morgan Walker~[c335]
+58112:0::0/6::      Francis Theopholus~[d413]
+58112:0::3/3::Corinth~[5512], roundship, 2% loaded, defense~10, 36%~damaged, owner:
+58112:0::0/6::      Duthan~[6374]
+58112:0::3/3::Ice Queen~[s137], roundship, 0% loaded, defense~10, 33%~damaged
+5:0::0::
+5:0::0::begin bq8 "fuzball"  # Brotherhood of Shadows
+5:0::0::
+5:0::0::unit bq8  # Brotherhood of Shadows
+5:0::0::
+5:0::0::unit g822  # Elias Swift in Yellowleaf~[r52]
+5:0::0::
+5:0::0::unit c335  # Morgan Walker in Whisper~[w141]
+5:0::0::
+5:0::0::unit f429  # Myrandel Shylantra in Yellowleaf~[r52]
+5:0::0::
+5:0::0::end
+50428:0::0::
+50428:0::0::Unclaimed items:
+50428:0::0::
+50428:0::0::      qty  name                              weight
+50428:0::0::      ---  ----                              ------
+50428:0::0::    5,850  gold~[1]                               0  
+50428:0::0::      100  stone~[78]                        10,000  
+61335:0::3::
+61335:0::3/16::Location:       Whisper~[w141], in Yellowleaf~[r52], in province Forest~[dh78], in Provinia
+61335:0::3::Loyalty:        Oath-1
+61335:0::3::Health:         100%
+61335:0::3::Combat:         attack 110, defense 80, missile 0
+61335:0::3::                behind 0  (front line in combat)
+61335:0::3::Break point:    50%
+61335:0::3::
+61335:0::3::Skills known:
+61335:0::6::Combat~[610]
+61335:0::12::Defense~[614], apprentice
+61335:0::12::Swordplay~[616], apprentice
+61335:0::6::Stealth~[630]
+61335:0::3::
+61335:0::3::Inventory:
+61335:0::3::{<b>}      qty  name                              weight{</b>}
+61335:0::3::      ---  ----                              ------
+61335:0::3::       11  woven baskets~[94]                    11  
+61335:0::3::                                             ======
+61335:0::3::                                                 11
+61335:0::3::
+61335:0::3/11::Capacity:  11/100 land (11%)
+61335:0::3::
+61335:0::3::Pending trades:
+61335:0::3::
+61335:0::6::trade    price    qty   item
+61335:0::6::-----    -----    ---   ----
+61335:0::6:: sell        4      1   woven basket~[94]
+61335:0::3::
+63429:0::3::
+63429:0::3/16::Location:       Yellowleaf~[r52], in province Forest~[dh78], in Provinia
+63429:0::3::Loyalty:        Oath-1
+63429:0::3::Health:         100%
+63429:0::3::Combat:         attack 80, defense 80, missile 0
+63429:0::3::                behind 0  (front line in combat)
+63429:0::3::Break point:    50%
+63429:0::3::
+63429:0::3::Skills known:
+63429:0::6::Shipcraft~[600]
+63429:0::12::Sailing~[601], apprentice
+63429:0::12::Shipbuilding~[602], apprentice
+63429:0::12::Fishing~[603], apprentice
+63429:0::6::Combat~[610]
+63429:0::3::
+63429:0::3::Inventory:
+63429:0::3::{<b>}      qty  name                              weight{</b>}
+63429:0::3::      ---  ----                              ------
+63429:0::3::       92  gold~[1]                               0  
+63429:0::3::                                             ======
+63429:0::3::                                                  0
+63429:0::3::
+63429:0::3/11::Capacity:  0/100 land (0%)
+63429:0::3::
+64822:0::3::
+64822:0::3/16::Location:       Yellowleaf~[r52], in province Forest~[dh78], in Provinia
+64822:0::3::Loyalty:        Oath-2
+64822:0::3::Health:         100%
+64822:0::3::Combat:         attack 102, defense 80, missile 0
+64822:0::3::                behind 0  (front line in combat)
+64822:0::3::Break point:    50%
+64822:0::3::
+64822:0::3::Current aura:   2
+64822:0::3::Maximum aura:   2
+64822:0::3::
+64822:0::3::Skills known:
+64822:0::6::Combat~[610]
+64822:0::12::Swordplay~[616], apprentice
+64822:0::6::Magic~[800]
+64822:0::12::Appear common~[803], apprentice
+64822:0::3::
+64822:0::3::Inventory:
+64822:0::3::{<b>}      qty  name                              weight{</b>}
+64822:0::3::      ---  ----                              ------
+64822:0::3::        5  woven baskets~[94]                     5  
+64822:0::3::                                             ======
+64822:0::3::                                                  5
+64822:0::3::
+64822:0::3/11::Capacity:  5/100 land (5%)
+64822:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Brotherhood of Shadows~[bq8].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/bq8/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [bq8]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         3  104th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                              92  108th  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    8/74  110th  
+0:0::3/41::Spells known:                    2/79  94th   
+0:0::3/41::Provinces visited:           0/31,919  120th  
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  31     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 268.
+0:0::0::
+0:0::0::The next five nobles formed will be:  a598 c857 q287 b604 z132
+0:0::0::
+0:0::0::2 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::g822   r52    o2    100  0  2                                 Elias Swift
+0:0::0::c335   w141   o1    100  0                                    Morgan Walker
+0:0::0::f429   r52    o1    100  0      92                            Myrandel
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                                92                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Provinia
+0:0::0::  Forest~[dh78]
+0:0::0::    Yellowleaf~[r52]               Elias Swift~[g822]
+0:0::0::                                   Myrandel Shylantra~[f429]
+0:0::0::      Whisper~[w141]               Morgan Walker~[c335]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  g822         105         95   5%                                
+0:0::0::  c335         111         89  11%                                
+0:0::0::  f429         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Brotherhood of Shadows~[bq8]"><font size=+1><b>Brotherhood of Shadows~[bq8]</b></font>
+1:2::0::<hr>
+1:1::0::Brotherhood of Shadows~[bq8]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50428
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Elias Swift~[g822]"><font size=+1><b>Elias Swift~[g822]</b></font>
+1:2::0::<hr>
+1:1::0::Elias Swift~[g822]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 64822
+1:0::0::
+1:2::0::
+1:2::0::<name="Morgan Walker~[c335]"><font size=+1><b>Morgan Walker~[c335]</b></font>
+1:2::0::<hr>
+1:1::0::Morgan Walker~[c335]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 61335
+1:0::0::
+1:2::0::
+1:2::0::<name="Myrandel Shylantra~[f429]"><font size=+1><b>Myrandel Shylantra~[f429]</b></font>
+1:2::0::<hr>
+1:1::0::Myrandel Shylantra~[f429]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 63429
+1:2::0::
+1:2::0::<name="Forest~[dh78]"><font size=+1><b>Forest~[dh78]</b>, forest, in Provinia, safe haven, civ-3</font>
+1:2::0::<hr>
+1:1::0::Forest~[dh78], forest, in Provinia, safe haven, civ-3
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 16678
+1:0::0::
+1:2::0::
+1:2::0::<name="Yellowleaf~[r52]"><font size=+1><b>Yellowleaf~[r52]</b>, port city, in province Forest~[dh78], safe haven</font>
+1:2::0::<hr>
+1:1::0::Yellowleaf~[r52], port city, in province Forest~[dh78], safe haven
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58112
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

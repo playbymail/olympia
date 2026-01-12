@@ -1,0 +1,303 @@
+
+Generic NPC rules
+-----------------
+
+	o  No maintenance costs charged
+	o  Do not automatically receive NP's
+	o  NPCs are never taken prisoners; fight is always to the death
+	o  May not use the STUDY order
+
+
+Undead
+------
+
+	o  50% chance each dead enemy man becomes one of the undead.
+		- undead don't take booty, prisoners?
+			take_unit_item, take_prisoners
+		- only booty undead take are men, they get changed
+		  into undead?
+
+	o  Health is always "dead" -- one hit kills an undead noble. (?)
+
+	o  May summon a GHOST SHIP; cost 2NP.
+
+		-  undead ship "Name of ship"
+
+		-  ghost ship dissolves when no longer captained by
+		   an undead noble
+
+		-  Undead ghost ship captains do not need Sailing
+
+	o  Undead PILLAGE causes hit to tax base, generates undead
+	   followers instead of gold (1 undead to 10 gold).
+
+	o  Undead gain 1 NP from victory in battle
+
+	o  Undead never have less than 10 (units + NP's)
+
+	o  Undead get a report for any graveyard with people nearby
+
+	o  Undead may create a noble in any unoccupied graveyard
+
+		undead form <where>
+
+	o  undead dissolve
+
+		undead units can reclaim themselves -- adds an NP
+
+Undead items fight at=2, df=2:  "Undead move slowly and are not
+very good fighters, but their gruesome appearance often strikes terror
+into untrained fighters.  Seeing one's friends and relatives as enemies
+on the battlefield, decomposing, is often unnerving."
+
+two hard problems:
+
+	1.  Must make prisoners, booty taking work right.
+
+	2.  Where to start the undead?  Too many graveyards to show
+	    them all...
+
+
+Make npc factions
+	sea kings
+		points for sinking ships
+	savages
+		points for wrecking things
+		points for bringing treasure to ...
+	orcs
+		points for killing people
+		no items for booty
+	realm of the undead
+
+	npc factions don't grow through NP's -- grow through (points)?
+	minimum number of units
+
+	kind of faction field
+	system - invisible, gm controlled -- indep, skill list, echo, gm player
+	regular
+	npc -- no np's
+		disallow quit, although divorce player from faction
+
+
+Okay... here's the re-thought about undead army rules.
+
+
+-If they win a battle, they get a 75% chance per each dead enemy to turn that
+dead enemy into a member of their own ranks.  (ie: If a knight died in the
+battle, there is a 75% chance that the undead army will get a knight added
+to their ranks.)
+
+-There is no maintenace cost for undead.
+
+-There is one undead castle that is the only place undead nobles can be
+ formed or learn skills.  If this castle is taken over by a player, it
+ will automatically be destroyed and a new one will appear in a random
+ location on the map. (So they can be a constant threat.) The player who
+ is the first player in the castle when it is taken over but before it
+ is destroyed gets a whole bunch (5? 10? 20?) noble points for being
+ so brave and risking so many troops.
+
+-Undead nobles automatically know how to sail "ghost ships".  Ghost ships
+ can be created by an undead noble and they can carry up to 100 undead
+ troops (including nobles) (undead don't weigh anything)  Since ghost
+ ships are etheral, they always sail at full speed regardless of wind
+ condition (they need no rowers). 
+
+-Undead nobles cost 2 noble points. All the time.
+
+-Undead get a noble point for pillaging a city. They also get a random amount
+ of undead troops.
+
+-Undead get a noble point when they win a battle. 
+
+-Undead DO NOT get a "standard" noble point per turn. (This means they have
+ to constantly be attacking things to get noble points.
+
+-Undead nobles automatically know all of the necromancy spells
+
+-Undead nobles (when in the "Castle of the Undead" can spend time and
+ noble points (if nessecary) to learn other magic skills.) Undead nobles
+ will not need to know "normal" skills such as beastmastery or construction
+ for example.
+
+-Undead noble can not be ill and they will not heal naturally, they can
+only heal through the use of a "healing" spell.
+
+Well, what do you think?
+
+Here's some ideas for necromancy spells:
+
+-Summon undead soldiers:  Cost=1np, The caster gains 2d6 undead soldiers.
+
+-Summon undead archers: Cost=1np, The caster gains 1d6 undead archers.
+
+-Summon undead knights: Cost=2np, The caster gains 1d6 undead knights.
+
+-Summon undead horse: Cost=1np, The caster gains 1 undead horse that can
+ carry 150 units of wieght. (Mainly for carrying himself on)
+
+-Bannish undead: Cost=1np, 2d6 undead men from the target unit are destroyed.
+ 
+-Destroy undead: Cost=2np, 4d6 undead men from the target unit are destroyed.
+
+-Summon Ghost ship: Cost=2np, a ghost ship will appear and the summoning unit
+ oops, I mean noble, will be placed inside along with all his men and anyone
+ stacked with him.  If all undead nobles leave a ghost ship, it will disapear.
+ The summoning noble isn't really the captain of the ship, ths ship comes
+ with an undead captain and crew.  When all nobles leave the ship, the captain
+ sails his ship away.  A captain will follow orders from any undead noble though
+ so as long as one noble remains on board, the ship won't disapear.
+
+I didn't include aura points. I think that undead nobles should be able to
+cast necromantic spells without using aura since they are magic in the
+first place.  They'd have to use aura to cast other kinds of spells though.
+
+You'd have to spread special weapons around that only nobles can use. They'd
+have special bonus vs. undead.  Undead can't pick these weapons up, they
+would have to be droped if someone with one of them was killed.  Human
+nobles will never surrender to the undead, they'll keep fighting to the
+last man. (In that case, maybe that 75% chance of becoming undead should
+be reduced to 50
+-oops-
+be reduced to 50%.  That would be a bit more fair.
+
+
+
+Well, what do you think so far?  If you like this and want to hand control 
+of an undead army over to me, I'll be happy to think of some more cool
+undead rules.
+
+
+
+Oh yeah... undead will never surrender either. They'll fight to the
+last man... erm... corpse. :)
+
+-Greg
+
+From gpb3439@ultb.isc.rit.edu Tue Aug 17 18:18:17 1993
+Received: by candid.rt.com; (ishmail 0.7) Tue, 17 Aug 93 18:18:17 EDT
+Received: by blekko.rt.com; (ishmail 0.7) Tue, 17 Aug 93 18:15:30 EDT
+Received: from ultb-gw.isc.rit.edu by Princeton.EDU (5.65b/2.97/princeton)
+	id AA04521; Tue, 17 Aug 93 18:30:50 -0400
+Received: by ultb.isc.rit.edu (5.65/Config (1/21/92) (Postmaster DPMSYS));
+	id AA07746; Tue, 17 Aug 1993 18:30:49 -0400
+Date: Tue, 17 Aug 1993 18:30:49 -0400
+From: gpb3439@ultb.isc.rit.edu (G.P. Burger)
+Message-Id: <9308172230.AA07746@ultb.isc.rit.edu>
+To: skrenta@candid.rt.com
+Subject: Re:  Oly II misc stuff
+Status: RO
+
+Okay, an undead army... lets see...
+
+
+-If they won a combat, they'd get all the defeated troops in the form of
+ undead whatever they were. (ie: if they killed a knight, they would get
+ an undead knight.) They wouldn't get any troops that they lost and they
+ would only get enemy troops if they won.
+
+-No maintanance cost.
+
+-If the pillage a city, they get troops instead of gold, but the tax base
+ still goes down.
+
+-They have one castle somewhere where only their nobles can learn skills
+ and new nobles can be created. They can create a noble for free, but
+ can only have 10 active nobles at a time.  An undead noble can only learn
+ up to two skill categories (ie: Combat and Shipcraft)... no scratch that.
+ When undead nobles are created, they auto know combat...
+
+Umm... I gotta go eat dinner.
+
+I'll think about it some more and get back to you
+
+
+
+-Greg
+
+From gpb3439@ultb.isc.rit.edu Tue Aug 17 21:59:02 1993
+Received: by candid.rt.com; (ishmail 0.7) Tue, 17 Aug 93 21:59:02 EDT
+Received: by blekko.rt.com; (ishmail 0.7) Tue, 17 Aug 93 21:54:45 EDT
+Received: from ultb-gw.isc.rit.edu by Princeton.EDU (5.65b/2.97/princeton)
+	id AA19157; Tue, 17 Aug 93 22:10:58 -0400
+Received: by ultb.isc.rit.edu (5.65/Config (1/21/92) (Postmaster DPMSYS));
+	id AA15532; Tue, 17 Aug 1993 22:10:57 -0400
+Date: Tue, 17 Aug 1993 22:10:57 -0400
+From: gpb3439@ultb.isc.rit.edu (G.P. Burger)
+Message-Id: <9308180210.AA15532@ultb.isc.rit.edu>
+To: skrenta@candid.rt.com
+Subject: Re:  Undead
+Status: RO
+
+Yes... graveyards!!  There can be only 10 undead nobles at a time.
+When one dies, the controller (me I guess) issues a FORM command and
+the specific graveyard that the undead noble will rise from.  Undead
+nobles always rise with 10 (?) undead. (that way, they won't be killed
+off so quickly as soon as they rise.)  When undead rise and there are
+living in the graveyard they rose from, all men (not nobles) must make
+a panic test. Each man has a 50% chance of fleeing (leaving the nobles
+invintory). Also, each turn a living noble is in a graveyard, there is
+a 2% chance of him being grabbed by the feet by skeletal hands and
+being pulled under. (That way, a huge army won't just hang out in
+the graveyard waiting for undead nobles to arise.)
+
+How about when undead nobles rise from the grave, they automatically cast
+a free summon undead soldiers and a free summon undead archer spell. That
+way, if a living noble was hanging around a graveyard with troops, he
+wouldn't just be able to automatically kill the lone undead noble.
+
+Generate 1 NP every time they pillage also (If they collected at least
+7 undead during the pillaging?)
+
+They automatically attack everyone they meet.
+
+The necromancy spells I sugjested would be for anyone wanting to study them,
+not just undead.
+
+If a ghost ship is attacked, it can protect 100 undead (instead of 50)
+and the ship itself cannot be damaged.  If a ghost ship attacks, the
+same rules apply I guess.  That way, it would be VERY unwise to venture
+out on the sea if it's being haunted.
+
+Maybe add summon undead (any type of unit except elites) to the necromantic
+spells.  
+
+Type summoned           NP cost         number summoned
+Soldiers		1		3d6
+Pike			1		2d6
+Swordsmen		1		1d6
+Archers			1		1d6
+Crossbowmen		1		2d6
+Knights			2		1d6
+
+I didn't put Aura cost in cuz I don't know the scale of aura. Know what I mean?
+Undead wouldn't have to expend aura anyways. They auto know all necromantic
+spells at Grand Master level (or whatever the highest is) and they can't
+learn any other types of spells anyways.
+
+Maybe more to come later.  What do you think?
+
+-Greg
+
+
+
+Dragons
+-------
+
+	o  Proximity view of lairs
+	o  dragon form seeds an egg in a lair -- 3-6 months to hatch
+
+
+Sea Kings
+---------
+
+
+Orcs
+----
+
+
+
+What inhabits ruins?
+
+	o  Proximity view of ruins
+

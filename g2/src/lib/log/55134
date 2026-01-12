@@ -1,0 +1,1315 @@
+28640:0::0:0:Garrison~[1046], garrison, with ten~soldiers guards Forest~[mh40].
+23377:0::0:0:Garrison~[1337], garrison, with ten~soldiers guards Forest~[hr77].
+43959:0::0:0:Garrison~[1807], garrison, with ten~soldiers guards Forest~[vz59].
+29508:0::0:0:Garrison~[9064], garrison, with ten~soldiers guards Forest~[mt08].
+44785:0::0:0:Garrison~[9583], garrison, with ten~soldiers guards Forest~[wj85].
+20856:0::0:0:Garrison~[9658], garrison, with ten~soldiers guards Forest~[gk56].
+43703:0::0:0:Garrison~[c593], garrison, with ten~soldiers guards Forest~[vw03].
+27321:0::0:0:Garrison~[f581], garrison, with ten~soldiers guards Forest~[kr21].
+46619:0::0:0:Garrison~[f603], garrison, with ten~soldiers guards Forest~[xh19].
+46100:0::0:0:Garrison~[g613], garrison, with ten~soldiers guards Forest~[xb00].
+46410:0::0:0:Garrison~[m516], garrison, with ten~soldiers guards Forest~[xf10].
+30008:0::0:0:Garrison~[w017], garrison, with ten~soldiers guards Forest~[na08].
+27388:0::0:0:Garrison~[x760], garrison, with ten~soldiers guards Forest~[kr88].
+35111:0::0:0:Garrison~[81133], garrison, with ten~soldiers guards Forest~[qp11].
+21029:0::0:0:Garrison~[81455], garrison, with ten~soldiers guards Forest~[gn29].
+25370:0::0:0:Garrison~[82657], garrison, with ten~soldiers guards Forest~[jr70].
+26567:0::0:0:Garrison~[85196], garrison, with ten~soldiers guards Forest~[kg67].
+39159:0::0:0:Garrison~[92892], garrison, with ten~soldiers guards Forest~[sp59].
+31882:0::0:0:Garrison~[94193], garrison, with ten~soldiers guards Forest~[nx82].
+47062:0::0:0:Garrison~[96849], garrison, with ten~soldiers guards Forest~[xn62].
+27308:0::0:0:Garrison~[108299], garrison, with ten~soldiers guards Forest~[kr08].
+29298:0::0:0:Garrison~[110313], garrison, with ten~soldiers guards Forest~[mq98].
+41632:0::0:0:Garrison~[114942], garrison, with ten~soldiers guards Forest~[tv32].
+37999:0::0:0:Garrison~[115806], garrison, with ten~soldiers guards Forest~[rz99].
+20901:0::0:0:Garrison~[122438], garrison, with ten~soldiers guards Forest~[gm01].
+44886:0::0:0:Garrison~[134420], garrison, with ten~soldiers guards Forest~[wk86].
+38909:0::0:0:Garrison~[137680], garrison, with ten~soldiers guards Forest~[sm09].
+9045:0::0:1:> fly w
+9045:0::0:1:Flying to Forest~[wx51] will take four days.
+3333:0::0:1:> breed 282 282
+3333:0::0:1:Breed attempt will take 6 days.
+7816:0::0:1:> breed 54 54
+7816:0::0:1:Breed attempt will take 6 days.
+7722:0::0:1:> breed 282 282
+7722:0::0:1:Breed attempt will take 6 days.
+9029:0::0:1:> breed 282 282
+9029:0::0:1:Breed attempt will take 6 days.
+8068:0::0:1:> breed 282 282
+8068:0::0:1:Breed attempt will take 6 days.
+46410:0::0:1:Savage~[87884] sounds a drumbeat.
+9045:0::0:4:Arrival at Forest~[wx51].
+9045:0::0:5:> fly n
+9045:0::0:5:Flying to Forest~[xa77] will take four days.
+3333:0::0:6:One~giant lizard~[282] was killed in the breeding attempt.
+3333:0::0:6:No offspring was produced.
+7816:0::0:6:Produced one~winged horse~[54].
+7722:0::0:6:One~giant lizard~[282] was killed in the breeding attempt.
+7722:0::0:6:Produced one~giant lizard~[282].
+9029:0::0:6:Produced one~giant lizard~[282].
+8068:0::0:6:Produced one~giant lizard~[282].
+3333:0::0:7:> breed 282 282
+3333:0::0:7:Breed attempt will take 6 days.
+7816:0::0:7:> breed 54 54
+7816:0::0:7:Breed attempt will take 6 days.
+7722:0::0:7:> breed 282 282
+7722:0::0:7:Breed attempt will take 6 days.
+9029:0::0:7:> breed 282 282
+9029:0::0:7:Breed attempt will take 6 days.
+8068:0::0:7:> breed 282 282
+8068:0::0:7:Breed attempt will take 6 days.
+46410:0::0:8:Savage~[146865] attacks Fortress of Knowledge~[g590]!
+46410:0::3:8:
+46410:0::3:8:Savage~[146865], savage
+46410:0::3:8:
+46410:0::3:8:Fortress of Knowledge~[g590], castle, defense~80, level~6, owner:
+46410:0::6/3:8:Iron Heart~[3333], count, with 15~workers, 280~giant lizards
+46410:0::6/3:8:Stone Fist~[4974], wearing magic armor~[p533], with 74~winged horses, 78~lions, 17~giant lizards
+46410:0::6/3:8:Storm Rider~[4118], ally, with 98~giant lizards, 25~dragons
+46410:0::6/3:8:Silver Eyes~[7722], ally, with 248~giant lizards
+46410:0::6/3:8:Red Blade~[9029], ally, with one~riding horse, one~winged horse, one~lion, 240~giant lizards, two~gorgons
+46410:0::6/3:8:Storm Wind~[4241], behind~1, ally, with 20~giant lizards, 25~dragons, four~cyclops, one~giant
+46410:0::6/3:8:Shadowbane~[8068], ally, with 11~peasants, 16~soldiers, one~wild horse, three~riding horses, one~ox, 200~giant lizards
+46410:0::6/3:8:Skeleton~[84472], skeleton, behind~1, ally
+46410:0::6/3:8:Grey Shadow~[9355], behind~1, ally, with two~winged horses
+3333:0::0:8:Savage~[146865] attacks us!
+4974:0::0:8:Savage~[146865] attacks us!
+4118:0::0:8:Savage~[146865] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+7722:0::0:8:Savage~[146865] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+9029:0::0:8:Savage~[146865] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+4241:0::0:8:Savage~[146865] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+8068:0::0:8:Savage~[146865] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+84472:0::0:8:Savage~[146865] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+9355:0::0:8:Savage~[146865] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+46410:0::0:8:
+46410:0::0:8:Iron Heart~[3333] is victorious!
+3333:0::0:8:We won!
+4974:0::0:8:We won!
+4118:0::0:8:We won!
+7722:0::0:8:We won!
+9029:0::0:8:We won!
+4241:0::0:8:We won!
+8068:0::0:8:We won!
+84472:0::0:8:We won!
+9355:0::0:8:We won!
+46410:0::0:8:
+46410:0::3:8:Savage~[146865] was taken prisoner.
+46410:0::0:8:
+3333:0::0:8:Savage~[146865] is taken prisoner by Iron Heart~[3333].
+3333:0::0:8:Taken from Savage~[146865]:
+3333:0::3:8:one~drum~[98]
+9045:0::0:8:Arrival at Forest~[xa77].
+9045:0::0:9:> fly n
+9045:0::0:9:Flying to Forest~[gk85] will take four days.
+46410:0::0:10:Savage~[127592] attacks Fortress of Knowledge~[g590]!
+46410:0::3:10:
+46410:0::3:10:Savage~[127592], savage
+46410:0::3:10:
+46410:0::3:10:Fortress of Knowledge~[g590], castle, defense~80, level~6, owner:
+46410:0::6/3:10:Iron Heart~[3333], count, with 15~workers, 280~giant lizards
+46410:0::6/3:10:Stone Fist~[4974], wearing magic armor~[p533], with 74~winged horses, 78~lions, 17~giant lizards
+46410:0::6/3:10:Storm Rider~[4118], ally, with 98~giant lizards, 25~dragons
+46410:0::6/3:10:Silver Eyes~[7722], ally, with 248~giant lizards
+46410:0::6/3:10:Red Blade~[9029], ally, with one~riding horse, one~winged horse, one~lion, 240~giant lizards, two~gorgons
+46410:0::6/3:10:Storm Wind~[4241], behind~1, ally, with 20~giant lizards, 25~dragons, four~cyclops, one~giant
+46410:0::6/3:10:Shadowbane~[8068], ally, with 11~peasants, 16~soldiers, one~wild horse, three~riding horses, one~ox, 200~giant lizards
+46410:0::6/3:10:Skeleton~[84472], skeleton, behind~1, ally
+46410:0::6/3:10:Grey Shadow~[9355], behind~1, ally, with two~winged horses
+3333:0::0:10:Savage~[127592] attacks us!
+4974:0::0:10:Savage~[127592] attacks us!
+4118:0::0:10:Savage~[127592] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+7722:0::0:10:Savage~[127592] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+9029:0::0:10:Savage~[127592] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+4241:0::0:10:Savage~[127592] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+8068:0::0:10:Savage~[127592] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+84472:0::0:10:Savage~[127592] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+9355:0::0:10:Savage~[127592] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+46410:0::0:10:
+46410:0::0:10:Iron Heart~[3333] is victorious!
+3333:0::0:10:We won!
+4974:0::0:10:We won!
+4118:0::0:10:We won!
+7722:0::0:10:We won!
+9029:0::0:10:We won!
+4241:0::0:10:We won!
+8068:0::0:10:We won!
+84472:0::0:10:We won!
+9355:0::0:10:We won!
+46410:0::0:10:
+46410:0::3:10:Savage~[127592] was wounded.
+46410:0::0:10:
+4974:0::0:11:Produced one~lion~[280].
+46410:0::0:12:Savage~[119207] attacks Fortress of Knowledge~[g590]!
+46410:0::3:12:
+46410:0::3:12:Savage~[119207], savage
+46410:0::3:12:
+46410:0::3:12:Fortress of Knowledge~[g590], castle, defense~80, level~6, owner:
+46410:0::6/3:12:Iron Heart~[3333], count, with 15~workers, 280~giant lizards
+46410:0::6/3:12:Stone Fist~[4974], wearing magic armor~[p533], with 74~winged horses, 79~lions, 17~giant lizards
+46410:0::6/3:12:Storm Rider~[4118], ally, with 98~giant lizards, 25~dragons
+46410:0::6/3:12:Silver Eyes~[7722], ally, with 248~giant lizards
+46410:0::6/3:12:Red Blade~[9029], ally, with one~riding horse, one~winged horse, one~lion, 240~giant lizards, two~gorgons
+46410:0::6/3:12:Storm Wind~[4241], behind~1, ally, with 20~giant lizards, 25~dragons, four~cyclops, one~giant
+46410:0::6/3:12:Shadowbane~[8068], ally, with 11~peasants, 16~soldiers, one~wild horse, three~riding horses, one~ox, 200~giant lizards
+46410:0::6/3:12:Skeleton~[84472], skeleton, behind~1, ally
+46410:0::6/3:12:Grey Shadow~[9355], behind~1, ally, with two~winged horses
+3333:0::0:12:Savage~[119207] attacks us!
+4974:0::0:12:Savage~[119207] attacks us!
+4118:0::0:12:Savage~[119207] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+7722:0::0:12:Savage~[119207] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+9029:0::0:12:Savage~[119207] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+4241:0::0:12:Savage~[119207] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+8068:0::0:12:Savage~[119207] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+84472:0::0:12:Savage~[119207] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+9355:0::0:12:Savage~[119207] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+46410:0::0:12:
+46410:0::0:12:Iron Heart~[3333] is victorious!
+3333:0::0:12:We won!
+4974:0::0:12:We won!
+4118:0::0:12:We won!
+7722:0::0:12:We won!
+9029:0::0:12:We won!
+4241:0::0:12:We won!
+8068:0::0:12:We won!
+84472:0::0:12:We won!
+9355:0::0:12:We won!
+46410:0::0:12:
+46410:0::3:12:Savage~[119207] was taken prisoner.
+46410:0::0:12:
+3333:0::0:12:Savage~[119207] is taken prisoner by Iron Heart~[3333].
+3333:0::0:12:Taken from Savage~[119207]:
+3333:0::3:12:one~drum~[98]
+4974:0::0:12:> breed 54 54
+4974:0::0:12:Breed attempt will take 6 days.
+9045:0::0:12:Arrival at Forest~[gk85].
+3333:0::0:12:Produced one~giant lizard~[282].
+7816:0::0:12:Produced one~winged horse~[54].
+7722:0::0:12:Produced one~giant lizard~[282].
+9029:0::0:12:Produced one~giant lizard~[282].
+8068:0::0:12:Produced one~giant lizard~[282].
+9045:0::0:13:> fly n
+9045:0::0:13:Flying to Forest~[mb73] will take four days.
+3333:0::0:13:> breed 282 282
+3333:0::0:13:Breed attempt will take 6 days.
+7816:0::0:13:> breed 54 54
+7816:0::0:13:Breed attempt will take 6 days.
+7722:0::0:13:> breed 282 282
+7722:0::0:13:Breed attempt will take 6 days.
+9029:0::0:13:> breed 282 282
+9029:0::0:13:Breed attempt will take 6 days.
+8068:0::0:13:> breed 282 282
+8068:0::0:13:Breed attempt will take 6 days.
+46410:0::0:16:Savage~[101425] attacks Fortress of Knowledge~[g590]!
+46410:0::3:16:
+46410:0::3:16:Savage~[101425], savages, number:~9
+46410:0::3:16:
+46410:0::3:16:Fortress of Knowledge~[g590], castle, defense~80, level~6, owner:
+46410:0::6/3:16:Iron Heart~[3333], count, with 15~workers, 281~giant lizards
+46410:0::6/3:16:Stone Fist~[4974], wearing magic armor~[p533], with 74~winged horses, 79~lions, 17~giant lizards
+46410:0::6/3:16:Storm Rider~[4118], ally, with 98~giant lizards, 25~dragons
+46410:0::6/3:16:Silver Eyes~[7722], ally, with 249~giant lizards
+46410:0::6/3:16:Red Blade~[9029], ally, with one~riding horse, one~winged horse, one~lion, 241~giant lizards, two~gorgons
+46410:0::6/3:16:Storm Wind~[4241], behind~1, ally, with 20~giant lizards, 25~dragons, four~cyclops, one~giant
+46410:0::6/3:16:Shadowbane~[8068], ally, with 11~peasants, 16~soldiers, one~wild horse, three~riding horses, one~ox, 201~giant lizards
+46410:0::6/3:16:Skeleton~[84472], skeleton, behind~1, ally
+46410:0::6/3:16:Grey Shadow~[9355], behind~1, ally, with two~winged horses
+3333:0::0:16:Savage~[101425] attacks us!
+4974:0::0:16:Savage~[101425] attacks us!
+4118:0::0:16:Savage~[101425] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+7722:0::0:16:Savage~[101425] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+9029:0::0:16:Savage~[101425] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+4241:0::0:16:Savage~[101425] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+8068:0::0:16:Savage~[101425] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+84472:0::0:16:Savage~[101425] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+9355:0::0:16:Savage~[101425] attacks Fortress of Knowledge~[g590]!  We rush to the defense.
+46410:0::0:16:
+46410:0::0:16:Iron Heart~[3333] is victorious!
+3333:0::0:16:We won!
+4974:0::0:16:We won!
+4118:0::0:16:We won!
+7722:0::0:16:We won!
+9029:0::0:16:We won!
+4241:0::0:16:We won!
+8068:0::0:16:We won!
+84472:0::0:16:We won!
+9355:0::0:16:We won!
+46410:0::0:16:
+46410:0::3:16:Iron Heart lost one~giant lizard.
+8068:0::0:16:Shadowbane~[8068] lost one~giant lizard.
+46410:0::0:16:
+46410:0::3:16:Savage lost eight~savages.
+46410:0::3:16:Savage~[101425] was taken prisoner.
+46410:0::0:16:
+3333:0::0:16:Savage~[101425] is taken prisoner by Iron Heart~[3333].
+3333:0::0:16:Taken from Savage~[101425]:
+3333:0::3:16:one~drum~[98]
+9045:0::0:16:Arrival at Forest~[mb73].
+9045:0::0:17:> fly n
+9045:0::0:17:Flying to Forest~[tn09] will take four days.
+4974:0::0:17:Produced one~winged horse~[54].
+4974:0::0:18:> breed 54 54
+4974:0::0:18:Breed attempt will take 6 days.
+3333:0::0:18:Produced one~giant lizard~[282].
+7816:0::0:18:Produced one~winged horse~[54].
+7722:0::0:18:Produced one~giant lizard~[282].
+9029:0::0:18:Produced one~giant lizard~[282].
+8068:0::0:18:One~giant lizard~[282] was killed in the breeding attempt.
+8068:0::0:18:No offspring was produced.
+3333:0::0:19:> breed 282 282
+3333:0::0:19:Breed attempt will take 6 days.
+7816:0::0:19:> breed 54 54
+7816:0::0:19:Breed attempt will take 6 days.
+7722:0::0:19:> breed 282 282
+7722:0::0:19:Breed attempt will take 6 days.
+9029:0::0:19:> breed 282 282
+9029:0::0:19:Breed attempt will take 6 days.
+8068:0::0:19:> breed 282 282
+8068:0::0:19:Breed attempt will take 6 days.
+9045:0::0:20:Arrival at Forest~[tn09].
+9045:0::0:21:> fly n
+9045:0::0:21:Flying to Forest~[zv20] will take four days.
+3333:0::0:21:Savage~[101425] has died.
+3333:0::0:21:Savage~[101425] unstacks from us.
+4974:0::0:23:Produced one~winged horse~[54].
+4974:0::0:24:> breed 280 280
+4974:0::0:24:Breed attempt will take 13 days.
+9045:0::0:24:Arrival at Forest~[zv20].
+3333:0::0:24:Produced one~giant lizard~[282].
+7816:0::0:24:One~winged horse~[54] was killed in the breeding attempt.
+7816:0::0:24:No offspring was produced.
+7722:0::0:24:Produced one~giant lizard~[282].
+9029:0::0:24:Produced one~giant lizard~[282].
+8068:0::0:24:One~giant lizard~[282] was killed in the breeding attempt.
+8068:0::0:24:No offspring was produced.
+9045:0::0:25:> fly n
+9045:0::0:25:Flying to Forest~[gz44] will take four days.
+3333:0::0:25:> breed 282 282
+3333:0::0:25:Breed attempt will take 6 days.
+7816:0::0:25:> breed 54 54
+7816:0::0:25:Breed attempt will take 6 days.
+7722:0::0:25:> breed 282 282
+7722:0::0:25:Breed attempt will take 6 days.
+9029:0::0:25:> breed 282 282
+9029:0::0:25:Breed attempt will take 6 days.
+8068:0::0:25:> breed 282 282
+8068:0::0:25:Breed attempt will take 6 days.
+9045:0::0:28:Arrival at Forest~[gz44].
+3333:0::0:30:Produced one~giant lizard~[282].
+7816:0::0:30:Produced one~winged horse~[54].
+7722:0::0:30:Produced one~giant lizard~[282].
+9029:0::0:30:Produced one~giant lizard~[282].
+8068:0::0:30:One~giant lizard~[282] was killed in the breeding attempt.
+8068:0::0:30:No offspring was produced.
+6:0:1046:0:30:Paid maintenance of 20~gold.
+6:0:1337:0:30:Paid maintenance of 20~gold.
+6:0:1807:0:30:Paid maintenance of 20~gold.
+6:0:9064:0:30:Paid maintenance of 20~gold.
+6:0:9583:0:30:Paid maintenance of 20~gold.
+6:0:9658:0:30:Paid maintenance of 20~gold.
+6:0:c593:0:30:Paid maintenance of 20~gold.
+6:0:f581:0:30:Paid maintenance of 20~gold.
+6:0:f603:0:30:Paid maintenance of 20~gold.
+6:0:g613:0:30:Paid maintenance of 20~gold.
+6:0:m516:0:30:Paid maintenance of 20~gold.
+6:0:w017:0:30:Paid maintenance of 20~gold.
+6:0:x760:0:30:Paid maintenance of 20~gold.
+6:0:81133:0:30:Paid maintenance of 20~gold.
+6:0:81455:0:30:Paid maintenance of 20~gold.
+6:0:82657:0:30:Paid maintenance of 20~gold.
+6:0:85196:0:30:Paid maintenance of 20~gold.
+6:0:92892:0:30:Paid maintenance of 20~gold.
+6:0:94193:0:30:Paid maintenance of 20~gold.
+6:0:96849:0:30:Paid maintenance of 20~gold.
+6:0:108299:0:30:Paid maintenance of 20~gold.
+6:0:110313:0:30:Paid maintenance of 20~gold.
+6:0:114942:0:30:Paid maintenance of 20~gold.
+6:0:115806:0:30:Paid maintenance of 20~gold.
+6:0:122438:0:30:Paid maintenance of 20~gold.
+6:0:134420:0:30:Paid maintenance of 20~gold.
+6:0:137680:0:30:Paid maintenance of 20~gold.
+3333:0::0:30:Collected 376~gold from owned provinces.
+3333:0::0:30:Collected 115~gold in taxes.
+3333:0::0:30:Paid maintenance of 30~gold.
+8068:0::0:30:Maintenance costs are 43~gold, can afford 24~gold.
+8068:0::0:30:Two~peasants starved.
+8068:0::0:30:Two~soldiers deserted.
+3333:0::0:30:One giant lizard died.
+4974:0::0:30:One winged horse died.
+7722:0::0:30:Two giant lizards died.
+8068:0::0:30:One giant lizard died.
+9029:0::0:30:Two giant lizards died.
+20885:0::0::
+20885:0::0::Routes leaving Forest: 
+20885:0::3::North, to Forest~[mb73], 8~days
+20885:0::3::East, to Forest~[js30], 8~days
+20885:0::3::South, to Forest~[xa77], 8~days
+20885:0::3::West, to Forest~[gw89], 8~days
+21944:0::0::
+21944:0::0::Routes leaving Forest: 
+21944:0::3::North, to Forest~[wx51], 8~days
+21944:0::3::East, to Forest~[mb30], 8~days
+21944:0::3::South, to Forest~[zv20], 8~days
+21944:0::3::West, to Forest~[rv09], 8~days
+28173:0::0::
+28173:0::0::Routes leaving Forest: 
+28173:0::3::North, to Forest~[tn09], 8~days
+28173:0::3::East, to Forest~[ra67], 8~days
+28173:0::3::South, to Forest~[gk85], 8~days
+28173:0::3::West, to Forest~[gp72], 8~days
+41009:0::0::
+41009:0::0::Routes leaving Forest: 
+41009:0::3::North, to Forest~[zv20], 8~days
+41009:0::3::East, to Forest~[pq66], 8~days
+41009:0::3::South, to Forest~[mb73], 8~days
+41009:0::3::West, to Forest~[ga79], 8~days
+41478:0::0::
+41478:0::0::Routes leaving Forest: 
+41478:0::3::North, to Forest~[hj39], 8~days
+41478:0::3::East, to Forest~[wv15], 8~days
+41478:0::3::South, to Forest~[mb30], 8~days
+41478:0::3::West, to Forest~[wx51], 8~days
+45851:0::0::
+45851:0::0::Routes leaving Forest: 
+45851:0::3::North, to Forest~[xa77], 8~days
+45851:0::3::East, to Forest~[ts78], 8~days
+45851:0::3::South, to Forest~[gz44], 8~days
+45851:0::3::West, to Forest~[wc50], 8~days
+46077:0::0::
+46077:0::0::Routes leaving Forest: 
+46077:0::3::North, to Forest~[gk85], 8~days
+46077:0::3::East, to Forest~[hj39], 8~days
+46077:0::3::South, to Forest~[wx51], 8~days
+46077:0::3::West, to Forest~[zx64], 8~days
+46410:0::0::
+46410:0::0::Province controlled by Fortress of Knowledge~[g590], castle, in Forest~[xf10]
+46410:0::0::Ruled by Iron Heart~[3333], count
+46410:0::0::
+46410:0::0::Routes leaving Forest: 
+46410:0::3::North, to Forest~[vw03], 8~days
+46410:0::3::East, to Forest~[mh40], 8~days
+46410:0::3::South, to Forest~[kr88], 8~days
+46410:0::3::West, to Forest~[wj85], 8~days
+46410:0::0::
+46410:0::0::Inner locations:
+46410:0::3::Faery hill~[t020], faery hill, 1 day
+46410:0::3::Fortress of Knowledge~[g590], castle, defense~80, level~6, owner:
+46410:0::0/6:: *    Iron Heart~[3333], count, with 15~workers, 283~giant lizards, accompanied~by:
+46410:0::0/9:: *       Stone Fist~[4974], wearing magic armor~[p533], "{<i>}Servant of the lizard king, friendly to TIB{</i>}", with 75~winged horses, 79~lions, 17~giant lizards
+46410:0::0/9::         Savage~[101338], savage, prisoner
+46410:0::0/9::         Savage~[97312], savage, prisoner
+46410:0::0/9::         Savage~[131733], savage, prisoner
+46410:0::0/9::         Savage~[132657], savage, prisoner
+46410:0::0/9::         Savage~[115573], savage, prisoner
+46410:0::0/9::         Savage~[82030], savage, prisoner
+46410:0::0/9::         Savage~[114578], savage, prisoner
+46410:0::0/9::         Savage~[124211], savage, prisoner
+46410:0::0/9::         Savage~[136523], savage, prisoner
+46410:0::0/9::         Savage~[119590], savage, prisoner
+46410:0::0/9::         Savage~[119365], savage, prisoner
+46410:0::0/9::         Savage~[87181], savage, prisoner
+46410:0::0/9::         Savage~[146865], savage, prisoner
+46410:0::0/9::         Savage~[119207], savage, prisoner
+46410:0::0/6:: *    Storm Rider~[4118], with 98~giant lizards, 25~dragons
+46410:0::0/6:: *    Silver Eyes~[7722], with 250~giant lizards
+46410:0::0/6:: *    Red Blade~[9029], with one~riding horse, one~winged horse, one~lion, 242~giant lizards, two~gorgons, accompanied~by:
+46410:0::0/9:: *       Storm Wind~[4241], with 20~giant lizards, 25~dragons, four~cyclops, one~giant
+46410:0::0/6:: *    Shadowbane~[8068], with nine~peasants, 14~soldiers, one~wild horse, three~riding horses, one~ox, 196~giant lizards, accompanied~by:
+46410:0::0/9:: *       Skeleton~[84472], skeleton
+46410:0::6::Tower of Knowledge~[2074], tower, defense~40, owner:
+46410:0::0/9:: *       Grey Oak~[7816], with one~riding horse, 189~winged horses, nine~centaurs, 13~minotaurs, 17~lions, 31~giant lizards
+46410:0::0::
+46410:0::0::Seen here:
+46410:0::0/3::   Garrison~[m516], garrison, on guard, with ten~soldiers
+46410:0::0/3::   Savage~[87884], savage
+46410:0::0/3::   Savage~[127592], savage
+49620:0::0::
+49620:0::0::Routes leaving Forest: 
+49620:0::3::North, to Forest~[gz44], 8~days
+49620:0::3::East, to Forest~[gr41], 8~days
+49620:0::3::South, to Forest~[tn09], 8~days
+49620:0::3::West, to Forest~[rm17], 8~days
+5:0::0::
+5:0::0::begin tt4 "24672467"  # Seekers of Knowledge
+5:0::0::
+5:0::0::unit tt4  # Seekers of Knowledge
+5:0::0::
+5:0::0::unit 3333  # Iron Heart in Fortress of Knowledge~[g590]
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 4974  # Stone Fist in Fortress of Knowledge~[g590]
+5:0::3::# > breed 280 280 (executing for six more days)
+5:0::3::breed 280 280
+5:0::3::breed 280 280
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 7816  # Grey Oak in Tower of Knowledge~[2074]
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 4118  # Storm Rider in Fortress of Knowledge~[g590]
+5:0::3::# > breed 286 286 (executing for 12 more days)
+5:0::3::breed 286 286
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 7722  # Silver Eyes in Fortress of Knowledge~[g590]
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 9029  # Red Blade in Fortress of Knowledge~[g590]
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 4241  # Storm Wind in Fortress of Knowledge~[g590]
+5:0::3::# > breed 286 286 (executing for 12 more days)
+5:0::3::breed 286 286
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::3::breed 282 282
+5:0::0::
+5:0::0::unit 8068  # Shadowbane in Fortress of Knowledge~[g590]
+5:0::0::
+5:0::0::unit 84472  # Skeleton in Fortress of Knowledge~[g590]
+5:0::0::
+5:0::0::unit 9355  # Grey Shadow in Forest~[xf10]
+5:0::0::
+5:0::0::unit 9045  # Goldhair in Forest~[gz44]
+5:0::0::
+5:0::0::end
+55134:0::0::
+55134:0::0::Unclaimed items:
+55134:0::0::
+55134:0::0::      qty  name                              weight
+55134:0::0::      ---  ----                              ------
+55134:0::0::    4,275  gold~[1]                               0  
+3333:0::3::
+3333:0::3/16::Location:       Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+3333:0::3::Loyalty:        Oath-1
+3333:0::3::Stacked over:   Stone Fist~[4974]
+3333:0::3::Health:         100%
+3333:0::3::Combat:         attack 80, defense 80, missile 0
+3333:0::3::                behind 0  (front line in combat)
+3333:0::3::Break point:    0% (fight to the death)
+3333:0::3::Prisoners:      Savage~[101338], health 100
+3333:0::3::                Savage~[97312], health 100
+3333:0::3::                Savage~[131733], health 100
+3333:0::3::                Savage~[132657], health 100
+3333:0::3::                Savage~[115573], health 100
+3333:0::3::                Savage~[82030], health 100
+3333:0::3::                Savage~[114578], health 100
+3333:0::3::                Savage~[124211], health 100
+3333:0::3::                Savage~[136523], health 100
+3333:0::3::                Savage~[119590], health 100
+3333:0::3::                Savage~[119365], health 99
+3333:0::3::                Savage~[87181], health 100
+3333:0::3::                Savage~[146865], health 34
+3333:0::3::                Savage~[119207], health 12
+3333:0::3::
+3333:0::3::Skills known:
+3333:0::6::Combat~[610]
+3333:0::12::Fight to the death~[612]
+3333:0::6::Beastmastery~[650]
+3333:0::12::Bird spy~[651], apprentice
+3333:0::12::Capture beasts in battle~[652]
+3333:0::12::Use beasts in battle~[653]
+3333:0::12::Breed beasts~[654], grand master
+3333:0::6::Construction~[680]
+3333:0::3::
+3333:0::3::Inventory:
+3333:0::3::{<b>}      qty  name                              weight{</b>}
+3333:0::3::      ---  ----                              ------
+3333:0::3::   64,653  gold~[1]                               0  
+3333:0::3::       15  workers~[11]                       1,500  cap 1,500 (1,1,0)
+3333:0::3::        1  elfstone~[69]                          1  
+3333:0::3::       40  stone~[78]                         4,000  
+3333:0::3::       92  drums~[98]                           184  
+3333:0::3::      283  giant lizards~[282]              283,000   (45,45,0)
+3333:0::3::        1  ancient scroll~[b601]                  5  
+3333:0::3::                                             ======
+3333:0::3::                                            288,690
+3333:0::3::
+3333:0::3/11::Capacity:  4,190/1,600 land (261%)
+3333:0::3::
+3333:0::3::ancient scroll~[b601] permits study of the following skills:
+3333:0::6/3::Persuade wild men to remain~[659] (requires Beastmastery)
+3333:0::3::
+4118:0::3::
+4118:0::3/16::Location:       Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+4118:0::3::Loyalty:        Oath-1
+4118:0::3::Health:         100%
+4118:0::3::Combat:         attack 80, defense 80, missile 0
+4118:0::3::                behind 0  (front line in combat)
+4118:0::3::Break point:    50%
+4118:0::3::
+4118:0::3::Skills known:
+4118:0::6::Beastmastery~[650]
+4118:0::12::Use beasts in battle~[653]
+4118:0::12::Breed beasts~[654], grand master
+4118:0::6::Construction~[680]
+4118:0::12::Stone quarrying~[682], adept
+4118:0::3::
+4118:0::3::Inventory:
+4118:0::3::{<b>}      qty  name                              weight{</b>}
+4118:0::3::      ---  ----                              ------
+4118:0::3::      224  gold~[1]                               0  
+4118:0::3::       98  giant lizards~[282]               98,000   (45,45,0)
+4118:0::3::       25  dragons~[286]                     62,500   (500,500,250)
+4118:0::3::                                             ======
+4118:0::3::                                            160,500
+4118:0::3::
+4118:0::3/11::Capacity:  0/100 land (0%)
+4118:0::3::
+4241:0::3::
+4241:0::3/16::Location:       Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+4241:0::3::Loyalty:        Oath-1
+4241:0::3/16::Stacked under:  Red Blade~[9029]
+4241:0::3::Health:         100%
+4241:0::3::Combat:         attack 80, defense 80, missile 0
+4241:0::3::                behind 1  (stay behind in combat)
+4241:0::3::Break point:    50%
+4241:0::3::
+4241:0::3::Skills known:
+4241:0::6::Shipcraft~[600]
+4241:0::12::Sailing~[601], master
+4241:0::12::Shipbuilding~[602], apprentice
+4241:0::6::Beastmastery~[650]
+4241:0::12::Use beasts in battle~[653]
+4241:0::12::Breed beasts~[654], grand master
+4241:0::3::
+4241:0::3::Inventory:
+4241:0::3::{<b>}      qty  name                              weight{</b>}
+4241:0::3::      ---  ----                              ------
+4241:0::3::       40  gold~[1]                               0  
+4241:0::3::       20  giant lizards~[282]               20,000   (45,45,0)
+4241:0::3::       25  dragons~[286]                     62,500   (500,500,250)
+4241:0::3::        4  cyclops~[291]                        800  cap 800 (25,75,0)
+4241:0::3::        1  giant~[292]                          200  cap 200 (75,25,0)
+4241:0::3::                                             ======
+4241:0::3::                                             83,500
+4241:0::3::
+4241:0::3/11::Capacity:  0/1,100 land (0%)
+4241:0::3::
+4974:0::3::
+4974:0::3/16::Location:       Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+4974:0::3::Loyalty:        Oath-1
+4974:0::3/16::Stacked under:  Iron Heart~[3333]
+4974:0::3::Health:         100%
+4974:0::3::Combat:         attack 80, defense 80, missile 0
+4974:0::3::                behind 0  (front line in combat)
+4974:0::3::Break point:    0% (fight to the death)
+4974:0::3::Banner:         Servant of the lizard king, friendly to TIB
+4974:0::3::
+4974:0::3::Current aura:   5
+4974:0::3::Maximum aura:   5 (2+3)
+4974:0::3::
+4974:0::3::Skills known:
+4974:0::6::Combat~[610]
+4974:0::12::Survive fatal wound~[611]
+4974:0::12::Fight to the death~[612]
+4974:0::6::Beastmastery~[650]
+4974:0::12::Use beasts in battle~[653]
+4974:0::12::Breed beasts~[654], grand master
+4974:0::6::Construction~[680]
+4974:0::6::Necromancy~[900]
+4974:0::12::Absorb aura blast~[911], apprentice
+4974:0::3::
+4974:0::3::Partially known skills:
+4974:0::6/6::Raise undead~[904], 0/21
+4974:0::6/6::Summon demon lord~[905], 0/21
+4974:0::6/6::Renew demon bond~[906], 0/21
+4974:0::6/6::Banish demon lord~[907], 0/21
+4974:0::6/6::Eating of the dead~[908], 0/28
+4974:0::6/6::Aura blast~[909], 0/21
+4974:0::3::
+4974:0::3::Inventory:
+4974:0::3::{<b>}      qty  name                              weight{</b>}
+4974:0::3::      ---  ----                              ------
+4974:0::3::    6,118  gold~[1]                               0  
+4974:0::3::       75  winged horses~[54]                75,000  fly 11,250
+4974:0::3::        2  elfstones~[69]                         2  
+4974:0::3::       79  lions~[280]                       59,250   (100,100,0)
+4974:0::3::       17  giant lizards~[282]               17,000   (45,45,0)
+4974:0::3::        1  Staff of Antresk~[a060]               10  +2 aura
+4974:0::3::        1  Orb~[k640]                             1  
+4974:0::3::        1  magic armor~[p533]                    10  +40 defense
+4974:0::3::        1  Staff of Osgea~[v445]                 10  +1 aura
+4974:0::3::                                             ======
+4974:0::3::                                            151,283
+4974:0::3::
+4974:0::3/11::Capacity:  33/11,350 land (0%), 133/11,250 ride (1%), 76,383/11,250 fly (678%)
+4974:0::3::
+7722:0::3::
+7722:0::3/16::Location:       Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+7722:0::3::Loyalty:        Oath-1
+7722:0::3::Health:         100%
+7722:0::3::Combat:         attack 80, defense 80, missile 0
+7722:0::3::                behind 0  (front line in combat)
+7722:0::3::Break point:    50%
+7722:0::3::
+7722:0::3::Skills known:
+7722:0::6::Beastmastery~[650]
+7722:0::12::Breed beasts~[654], grand master
+7722:0::3::
+7722:0::3::Inventory:
+7722:0::3::{<b>}      qty  name                              weight{</b>}
+7722:0::3::      ---  ----                              ------
+7722:0::3::      440  gold~[1]                               0  
+7722:0::3::      250  giant lizards~[282]              250,000   (45,45,0)
+7722:0::3::                                             ======
+7722:0::3::                                            250,000
+7722:0::3::
+7722:0::3/11::Capacity:  0/100 land (0%)
+7722:0::3::
+7816:0::3::
+7816:0::3/16::Location:       Tower of Knowledge~[2074], in Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+7816:0::3::Loyalty:        Oath-1
+7816:0::3::Health:         100%
+7816:0::3::Combat:         attack 80, defense 80, missile 0
+7816:0::3::                behind 0  (front line in combat)
+7816:0::3::Break point:    50%
+7816:0::3::
+7816:0::3::Skills known:
+7816:0::6::Beastmastery~[650]
+7816:0::12::Capture beasts in battle~[652]
+7816:0::12::Use beasts in battle~[653]
+7816:0::12::Breed beasts~[654], grand master
+7816:0::6::Forestry~[700]
+7816:0::12::Harvest lumber~[702], apprentice
+7816:0::3::
+7816:0::3::Inventory:
+7816:0::3::{<b>}      qty  name                              weight{</b>}
+7816:0::3::      ---  ----                              ------
+7816:0::3::    2,681  gold~[1]                               0  
+7816:0::3::        1  riding horse~[52]                  1,000  ride 150
+7816:0::3::      189  winged horses~[54]               189,000  fly 28,350
+7816:0::3::        9  centaurs~[271]                     9,000  ride 1,350 (30,30,0)
+7816:0::3::       13  minotaurs~[272]                   10,400   (30,5,0)
+7816:0::3::       17  lions~[280]                       12,750   (100,100,0)
+7816:0::3::       31  giant lizards~[282]               31,000   (45,45,0)
+7816:0::3::        1  Orb~[d366]                             1  
+7816:0::3::                                             ======
+7816:0::3::                                            253,151
+7816:0::3::
+7816:0::3/11::Capacity:  1/29,950 land (0%), 101/29,850 ride (0%), 64,251/28,350 fly (226%)
+7816:0::3::
+8068:0::3::
+8068:0::3/16::Location:       Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+8068:0::3::Loyalty:        Oath-2
+8068:0::3::Stacked over:   Skeleton~[84472]
+8068:0::3::Health:         100%
+8068:0::3::Combat:         attack 80, defense 80, missile 0
+8068:0::3::                behind 0  (front line in combat)
+8068:0::3::Break point:    50%
+8068:0::3::
+8068:0::3::Current aura:   2
+8068:0::3::Maximum aura:   2
+8068:0::3::
+8068:0::3::Skills known:
+8068:0::6::Combat~[610]
+8068:0::6::Beastmastery~[650]
+8068:0::12::Capture beasts in battle~[652]
+8068:0::12::Use beasts in battle~[653]
+8068:0::12::Breed beasts~[654], grand master
+8068:0::12::Catch wild horses~[655], apprentice
+8068:0::12::Train wild horse to riding horse~[656], journeyman
+8068:0::6::Construction~[680]
+8068:0::12::Stone quarrying~[682], journeyman
+8068:0::6::Magic~[800]
+8068:0::12::Perform common tasks for gold~[802], grand master
+8068:0::3::
+8068:0::3::Inventory:
+8068:0::3::{<b>}      qty  name                              weight{</b>}
+8068:0::3::      ---  ----                              ------
+8068:0::3::        9  peasants~[10]                        900  cap 900 (1,1,0)
+8068:0::3::       14  soldiers~[12]                      1,400  cap 1,400 (5,5,0)
+8068:0::3::        1  wild horse~[51]                    1,000  
+8068:0::3::        3  riding horses~[52]                 3,000  ride 450
+8068:0::3::        1  elfstone~[69]                          1  
+8068:0::3::        1  ox~[76]                            2,000  cap 1,500
+8068:0::3::      196  giant lizards~[282]              196,000   (45,45,0)
+8068:0::3::        1  ancient scroll~[h564]                  5  
+8068:0::3::        1  Banner of the Skeletons~[q717]         0  
+8068:0::3::        1  Orb~[s508]                             1  
+8068:0::3::        1  Golden ring~[v124]                     1  
+8068:0::3::                                             ======
+8068:0::3::                                            204,308
+8068:0::3::
+8068:0::3/11::Capacity:  8/4,350 land (0%), 2,408/450 ride (535%)
+8068:0::3::
+8068:0::3::ancient scroll~[h564] permits study of the following skills:
+8068:0::6/3::Train wild horse to warmount~[657] (requires Beastmastery)
+8068:0::3::
+9029:0::3::
+9029:0::3/16::Location:       Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+9029:0::3::Loyalty:        Oath-1
+9029:0::3::Stacked over:   Storm Wind~[4241]
+9029:0::3::Health:         100%
+9029:0::3::Combat:         attack 80, defense 80, missile 0
+9029:0::3::                behind 0  (front line in combat)
+9029:0::3::Break point:    50%
+9029:0::3::
+9029:0::3::Skills known:
+9029:0::6::Combat~[610]
+9029:0::6::Beastmastery~[650]
+9029:0::12::Capture beasts in battle~[652]
+9029:0::12::Use beasts in battle~[653]
+9029:0::12::Breed beasts~[654], grand master
+9029:0::3::
+9029:0::3::Inventory:
+9029:0::3::{<b>}      qty  name                              weight{</b>}
+9029:0::3::      ---  ----                              ------
+9029:0::3::    7,172  gold~[1]                               0  
+9029:0::3::        1  riding horse~[52]                  1,000  ride 150
+9029:0::3::        1  winged horse~[54]                  1,000  fly 150
+9029:0::3::        2  elfstones~[69]                         2  
+9029:0::3::        1  lion~[280]                           750   (100,100,0)
+9029:0::3::      242  giant lizards~[282]              242,000   (45,45,0)
+9029:0::3::        2  gorgons~[288]                        400   (10,20,0)
+9029:0::3::        1  ancient scroll~[t798]                  5  
+9029:0::3::        1  Orb~[w376]                             1  
+9029:0::3::                                             ======
+9029:0::3::                                            245,158
+9029:0::3::
+9029:0::3/11::Capacity:  8/400 land (2%), 108/300 ride (36%), 244,258/150 fly (162838%)
+9029:0::3::
+9029:0::3::ancient scroll~[t798] permits study of the following skills:
+9029:0::6/3::Persuade wild men to remain~[659] (requires Beastmastery)
+9029:0::3::
+9045:0::3::
+9045:0::3/16::Location:       Forest~[gz44], in Faery
+9045:0::3::Loyalty:        Oath-1
+9045:0::3::Health:         100%
+9045:0::3::Combat:         attack 80, defense 80, missile 0
+9045:0::3::                behind 1  (stay behind in combat)
+9045:0::3::Break point:    50%
+9045:0::3::use  641 1      (concealing self)
+9045:0::3::
+9045:0::3::Skills known:
+9045:0::6::Stealth~[630]
+9045:0::12::Conceal self~[641], apprentice
+9045:0::3::
+9045:0::3::Partially known skills:
+9045:0::6/6::Learn of richest nearby noble~[636], 0/14
+9045:0::3::
+9045:0::3::Inventory:
+9045:0::3::{<b>}      qty  name                              weight{</b>}
+9045:0::3::      ---  ----                              ------
+9045:0::3::      375  gold~[1]                               0  
+9045:0::3::        3  winged horses~[54]                 3,000  fly 450
+9045:0::3::                                             ======
+9045:0::3::                                              3,000
+9045:0::3::
+9045:0::3/11::Capacity:  0/550 land (0%), 100/450 ride (22%), 100/450 fly (22%)
+9045:0::3::
+9355:0::3::
+9355:0::3/16::Location:       Forest~[xf10], in Faery
+9355:0::3::Loyalty:        Oath-1
+9355:0::3::Health:         100%
+9355:0::3::Combat:         attack 80, defense 80, missile 0
+9355:0::3::                behind 1  (stay behind in combat)
+9355:0::3::Break point:    50%
+9355:0::3::use  641 1      (concealing self)
+9355:0::3::
+9355:0::3::Skills known:
+9355:0::6::Combat~[610]
+9355:0::6::Stealth~[630]
+9355:0::12::Conceal self~[641], apprentice
+9355:0::3::
+9355:0::3::Partially known skills:
+9355:0::6/6::Learn of richest nearby noble~[636], 0/14
+9355:0::6/6::Torture prisoner~[637], 0/21
+9355:0::6/6::Sneak into structure~[639], 0/21
+9355:0::3::
+9355:0::3::Inventory:
+9355:0::3::{<b>}      qty  name                              weight{</b>}
+9355:0::3::      ---  ----                              ------
+9355:0::3::      668  gold~[1]                               0  
+9355:0::3::        2  winged horses~[54]                 2,000  fly 300
+9355:0::3::                                             ======
+9355:0::3::                                              2,000
+9355:0::3::
+9355:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%), 100/300 fly (33%)
+9355:0::3::
+84472:0::3::
+84472:0::3/16::Location:       Fortress of Knowledge~[g590], in province Forest~[xf10], in Faery
+84472:0::3::Loyalty:        Npc-0
+84472:0::3/16::Stacked under:  Shadowbane~[8068]
+84472:0::3::Health:         n/a
+84472:0::3::Combat:         attack 6, defense 6, missile 0
+84472:0::3::                behind 1  (stay behind in combat)
+84472:0::3::Break point:    0% (fight to the death)
+84472:0::3::
+84472:0::3::Skills known:
+84472:0::6::none
+84472:0::3::
+84472:0::3::Skeleton~[84472] has no possessions.
+84472:0::3::
+84472:0::3/11::Capacity:  0/100 land (0%)
+84472:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Seekers of Knowledge~[tt4].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/tt4/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [tt4]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                        11  54th   
+0:0::3/41::Men:                               43  68th   
+0:0::3/41::Gold:                          82,371  30th   
+0:0::3/41::Land controlled:                   27  67th   
+0:0::3/41::Skills known:                   19/74  91st   
+0:0::3/41::Spells known:                    4/79  91st   
+0:0::3/41::Provinces visited:       1,957/31,919  6th    
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  16     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  8893 3147 p981 r239 q175
+0:0::0::
+0:0::0::37 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::3333   g590   o1    100  0     64k        15                  Iron Heart
+0:0::0::4974   g590   o1    100  0  5 6118                     3333   Stone Fist
+0:0::0::7816   2074   o1    100  0    2681                            Grey Oak
+0:0::0::4118   g590   o1    100  0     224                            Storm Rider
+0:0::0::7722   g590   o1    100  0     440                            Silver Eyes
+0:0::0::9029   g590   o1    100  0    7172                            Red Blade
+0:0::0::4241   g590   o1    100  1      40                   5 9029   Storm Wind
+0:0::0::8068   g590   o2    100  0  2         9             14        Shadowbane
+0:0::0::84472  g590   n0    n/a  1                             8068   Skeleton
+0:0::0::9355   xf10   o1    100  1     668                            Grey Shadow
+0:0::0::9045   gz44   o1    100  1     375                            Goldhair
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               82k    9   15        19
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Faery
+0:0::0::  Forest~[xf10]                    Grey Shadow~[9355]
+0:0::0::      Fortress of Knowledge~[g590] Iron Heart~[3333]
+0:0::0::                                     Stone Fist~[4974]
+0:0::0::                                   Storm Rider~[4118]
+0:0::0::                                   Silver Eyes~[7722]
+0:0::0::                                   Red Blade~[9029]
+0:0::0::                                     Storm Wind~[4241]
+0:0::0::                                   Shadowbane~[8068]
+0:0::0::                                     Skeleton~[84472]
+0:0::0::      Tower of Knowledge~[2074]    Grey Oak~[7816]
+0:0::0::  Forest~[gz44]                    Goldhair~[9045]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  3333     441,573     10,127  29%      3,927  65%  (355,323)  -- 
+0:0::0::  4974     151,383     11,317   0%     11,117   1%   (65,133) 678%
+0:0::0::  7816     253,251     29,949   0%     29,749   0%   (35,901) 226%
+0:0::0::  4118     160,600        100   0%                                
+0:0::0::  7722     250,100        100   0%                                
+0:0::0::  9029     328,858      1,492   0%      (908) 402%  (265,208)  -- 
+0:0::0::  4241      83,600      1,100   0%                                
+0:0::0::  8068     204,508      4,442   0%    (2,058) 557%                
+0:0::0:: 84472         100        100   0%                                
+0:0::0::  9355       2,100        400   0%        200  33%        200  33%
+0:0::0::  9045       3,100        550   0%        350  22%        350  22%
+0:0::0::
+0:0::0::garr where  men cost  tax forw castle rulers
+0:0::0::---- -----  --- ----  --- ---- ------ ------
+0:0::0::1807  vz59   10   20   50    6  g590  3333
+0:0::0::9064  mt08   10   20   50    6  g590  3333
+0:0::0::81455  gn29   10   20   50    6  g590  3333
+0:0::0::115806  rz99   10   20   50    6  g590  3333
+0:0::0::108299  kr08   10   20   50    6  g590  3333
+0:0::0::114942  tv32   10   20   50    6  g590  3333
+0:0::0::9658  gk56   10   20  100   16  g590  3333
+0:0::0::9583  wj85   10   20  150   26  g590  3333
+0:0::0::m516  xf10   10   20  250    -  g590  3333
+0:0::0::1046  mh40   10   20  150   26  g590  3333
+0:0::0::110313  mq98   10   20  200   36  g590  3333
+0:0::0::f603  xh19   10   20  100   16  g590  3333
+0:0::0::x760  kr88   10   20  150   26  g590  3333
+0:0::0::g613  xb00   10   20  100   16  g590  3333
+0:0::0::1337  hr77   10   20  200   36  g590  3333
+0:0::0::85196  kg67   10   20   50    6  g590  3333
+0:0::0::82657  jr70   10   20   50    6  g590  3333
+0:0::0::96849  xn62   10   20   50    6  g590  3333
+0:0::0::122438  gm01   10   20   50    6  g590  3333
+0:0::0::137680  sm09   10   20   50    6  g590  3333
+0:0::0::81133  qp11   10   20   50    6  g590  3333
+0:0::0::94193  nx82   10   20   50    6  g590  3333
+0:0::0::134420  wk86   10   20   50    6  g590  3333
+0:0::0::92892  sp59   10   20  200   36  g590  3333
+0:0::0::f581  kr21   10   20  100   16  g590  3333
+0:0::0::c593  vw03   10   20  150   26  g590  3333
+0:0::0::w017  na08   10   20  100   16  g590  3333
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Seekers of Knowledge~[tt4]"><font size=+1><b>Seekers of Knowledge~[tt4]</b></font>
+1:2::0::<hr>
+1:1::0::Seekers of Knowledge~[tt4]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 55134
+1:0::0::
+1:2::0::
+1:2::0::<name="Garrison log"><font size=+1><b>Garrison log</b></font>
+1:2::0::<hr>
+1:1::0::Garrison log
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 6
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Iron Heart~[3333]"><font size=+1><b>Iron Heart~[3333]</b></font>
+1:2::0::<hr>
+1:1::0::Iron Heart~[3333]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 3333
+1:0::0::
+1:2::0::
+1:2::0::<name="Stone Fist~[4974]"><font size=+1><b>Stone Fist~[4974]</b></font>
+1:2::0::<hr>
+1:1::0::Stone Fist~[4974]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4974
+1:0::0::
+1:2::0::
+1:2::0::<name="Grey Oak~[7816]"><font size=+1><b>Grey Oak~[7816]</b></font>
+1:2::0::<hr>
+1:1::0::Grey Oak~[7816]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7816
+1:0::0::
+1:2::0::
+1:2::0::<name="Storm Rider~[4118]"><font size=+1><b>Storm Rider~[4118]</b></font>
+1:2::0::<hr>
+1:1::0::Storm Rider~[4118]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4118
+1:0::0::
+1:2::0::
+1:2::0::<name="Silver Eyes~[7722]"><font size=+1><b>Silver Eyes~[7722]</b></font>
+1:2::0::<hr>
+1:1::0::Silver Eyes~[7722]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 7722
+1:0::0::
+1:2::0::
+1:2::0::<name="Red Blade~[9029]"><font size=+1><b>Red Blade~[9029]</b></font>
+1:2::0::<hr>
+1:1::0::Red Blade~[9029]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9029
+1:0::0::
+1:2::0::
+1:2::0::<name="Storm Wind~[4241]"><font size=+1><b>Storm Wind~[4241]</b></font>
+1:2::0::<hr>
+1:1::0::Storm Wind~[4241]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 4241
+1:0::0::
+1:2::0::
+1:2::0::<name="Shadowbane~[8068]"><font size=+1><b>Shadowbane~[8068]</b></font>
+1:2::0::<hr>
+1:1::0::Shadowbane~[8068]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 8068
+1:0::0::
+1:2::0::
+1:2::0::<name="Skeleton~[84472]"><font size=+1><b>Skeleton~[84472]</b></font>
+1:2::0::<hr>
+1:1::0::Skeleton~[84472]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 84472
+1:0::0::
+1:2::0::
+1:2::0::<name="Grey Shadow~[9355]"><font size=+1><b>Grey Shadow~[9355]</b></font>
+1:2::0::<hr>
+1:1::0::Grey Shadow~[9355]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9355
+1:0::0::
+1:2::0::
+1:2::0::<name="Goldhair~[9045]"><font size=+1><b>Goldhair~[9045]</b></font>
+1:2::0::<hr>
+1:1::0::Goldhair~[9045]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 9045
+1:2::0::
+1:2::0::<name="Forest~[xa77]"><font size=+1><b>Forest~[xa77]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xa77], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46077
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vz59]"><font size=+1><b>Forest~[vz59]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vz59], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 43959
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mt08]"><font size=+1><b>Forest~[mt08]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mt08], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29508
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gn29]"><font size=+1><b>Forest~[gn29]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gn29], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21029
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[rz99]"><font size=+1><b>Forest~[rz99]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[rz99], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 37999
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kr08]"><font size=+1><b>Forest~[kr08]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kr08], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27308
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tv32]"><font size=+1><b>Forest~[tv32]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tv32], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41632
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gk56]"><font size=+1><b>Forest~[gk56]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gk56], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20856
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wj85]"><font size=+1><b>Forest~[wj85]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wj85], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44785
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xf10]"><font size=+1><b>Forest~[xf10]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xf10], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46410
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mh40]"><font size=+1><b>Forest~[mh40]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mh40], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28640
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wx51]"><font size=+1><b>Forest~[wx51]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wx51], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 45851
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[ts78]"><font size=+1><b>Forest~[ts78]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[ts78], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41478
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mq98]"><font size=+1><b>Forest~[mq98]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mq98], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 29298
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xh19]"><font size=+1><b>Forest~[xh19]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xh19], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46619
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kr88]"><font size=+1><b>Forest~[kr88]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kr88], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27388
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xb00]"><font size=+1><b>Forest~[xb00]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xb00], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 46100
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gz44]"><font size=+1><b>Forest~[gz44]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gz44], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 21944
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[hr77]"><font size=+1><b>Forest~[hr77]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[hr77], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 23377
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kg67]"><font size=+1><b>Forest~[kg67]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kg67], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 26567
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[zv20]"><font size=+1><b>Forest~[zv20]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[zv20], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 49620
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[jr70]"><font size=+1><b>Forest~[jr70]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[jr70], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 25370
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[xn62]"><font size=+1><b>Forest~[xn62]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[xn62], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 47062
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gm01]"><font size=+1><b>Forest~[gm01]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gm01], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20901
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sm09]"><font size=+1><b>Forest~[sm09]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sm09], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 38909
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[qp11]"><font size=+1><b>Forest~[qp11]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[qp11], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 35111
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[nx82]"><font size=+1><b>Forest~[nx82]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[nx82], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 31882
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[wk86]"><font size=+1><b>Forest~[wk86]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[wk86], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 44886
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[sp59]"><font size=+1><b>Forest~[sp59]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[sp59], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 39159
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[tn09]"><font size=+1><b>Forest~[tn09]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[tn09], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 41009
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[mb73]"><font size=+1><b>Forest~[mb73]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[mb73], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 28173
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[gk85]"><font size=+1><b>Forest~[gk85]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[gk85], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 20885
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[kr21]"><font size=+1><b>Forest~[kr21]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[kr21], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 27321
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[vw03]"><font size=+1><b>Forest~[vw03]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[vw03], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 43703
+1:0::0::
+1:2::0::
+1:2::0::<name="Forest~[na08]"><font size=+1><b>Forest~[na08]</b>, forest, in Faery</font>
+1:2::0::<hr>
+1:1::0::Forest~[na08], forest, in Faery
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 30008
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,28 @@
+From lindahl@rt.com  Wed May 20 09:20:43 1998
+Received: (from lindahl@localhost) by xkey.com
+	id JAA08964 for skrenta; Wed, 20 May 1998 09:20:43 -0400
+Message-Id: <199805201320.JAA08964@xkey.com>
+Subject: moderate, easy-to-fix g2 bug
+To: skrenta (Rich Skrenta)
+Date: Wed, 20 May 1998 09:20:43 -0400 (EDT)
+From: "Greg Lindahl" <lindahl@pbm.com>
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Content-Length: 452       
+Status: OR
+
+Part A of the bug is that you can terrorize a noble with "Survive
+Fatal Wound" and easily get long-term fear nobles -- you don't even
+need healing potions.
+
+Part B of the bug is that you can terrorize for 999 or 9999 and
+get infinite fear loyalty, again using Survive Fatal.
+
+The trivial fix to B is to restrict terrorize to at most 99 points.
+
+The fix to A is to make fear loyalty nobles who die and Survive Fatal
+have at most fear-10 loyalty.
+
+-- g
+
+

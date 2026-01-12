@@ -1,0 +1,166 @@
+
+Shipcraft [120]
+   9502   Sailing                            two weeks
+   9503   Shipbuilding                       two weeks
+   9582   Fishing                            two weeks
+
+Combat [121]
+   9501   Survive fatal wound                four weeks, 1 NP req'd
+   9505   Fight to the death                 four weeks
+   9541   Construct catapult                 two weeks
+   9570   Defense                            two weeks
+   9579   Archery                            three weeks
+   9580   Swordplay                          two weeks
+   9581   Weaponsmithing                     two weeks
+
+Stealth [122]
+   9509   Petty thievery                     two weeks
+   9519   Determine inventory of character   two weeks
+   9520   Determine skills of character      two weeks
+   9521   Determine character's lord         two weeks
+   9522   Learn of richest nearby noble      two weeks
+   9523   Torture prisoner                   three weeks
+   9562   Conceal identity of trader         two weeks
+   9574   Sneak into structure               three weeks
+   9591   Conceal faction                    four weeks
+   9593   Conceal self                       four weeks
+
+Beastmastery [123]
+   9504   Bird spy                           three weeks
+   9506   Capture beasts in battle           four weeks
+   9507   Use beasts in battle               four weeks
+   9508   Breed beasts                       four weeks
+   9517   Catch wild horses                  two weeks
+   9529   Train wild horse to riding horse   two weeks
+   9530   Train wild horse to warmount       three weeks
+   9585   Summon wild men                    three weeks
+   9586   Persuade wild men to remain        three weeks
+
+Persuasion [124]
+   9515   Bribe noble                        two weeks
+   9536   Persuade oathbound noble           three weeks
+   9537   Raise peasant mob                  two weeks
+   9538   Rally peasant mob                  three weeks
+   9539   Incite mob violence                three weeks
+   9592   Train angry peasants               two weeks
+
+Construction [125]
+   9542   Construct siege tower              two weeks
+   9566   Stone quarrying                    two weeks
+
+Alchemy [126]
+   9549   Extract venom from ratspider       three weeks
+   9550   Make potion of slavery             three weeks
+   9551   Brew healing potion                three weeks
+   9552   Brew potion of death               three weeks
+   9573   Record skill on scroll             three weeks
+   9584   Collect rare elements              two weeks
+   9590   Turn lead into gold                four weeks
+
+Forestry [128]
+   9540   Construct battering ram            two weeks
+   9568   Harvest lumber                     two weeks
+   9569   Harvest yew                        two weeks
+   9583   Collect rare foliage               two weeks
+   9587   Harvest mallorn wood               two weeks
+   9588   Harvest opium                      two weeks
+   9589   Improve opium production           two weeks
+
+Mining [129]
+   9563   Mine iron                          two weeks
+   9564   Mine gold                          two weeks
+   9565   Mine mithril                       two weeks
+
+Religion [150]
+   9301   Receive vision                     four weeks
+   9302   Resurrect dead noble               four weeks
+   9303   Preparatory ritual                 three weeks
+   9304   Last rites                         four weeks
+   9305   Remove blessing from soldiers      four weeks
+   9306   Immunity from Vision               four weeks
+
+Magic [160]
+   9101   Meditate                           two weeks
+   9103   Perform common tasks for gold      two weeks
+   9104   Appear common                      two weeks
+   9105   View current aura level of others  three weeks
+   9123   Reveal abilities of another mage   three weeks
+   9126   Tap health for aura                three weeks
+   9146   Heal                               two weeks
+   9147   Modern magic script                three weeks
+   9169   Shroud abilities from scry         three weeks
+   9170   Detect ability scry                three weeks
+   9173   Dispel ability shroud              three weeks
+   9174   Advanced meditation                three weeks
+   9175   Hinder meditation                  three weeks
+
+Weather magic [161]
+   9124   Fierce wind                        three weeks
+   9134   Bind storm to ship                 three weeks
+   9148   Scribe weather symbols             three weeks
+   9187   Summon rain                        three weeks
+   9188   Summon wind                        three weeks
+   9189   Summon fog                         three weeks
+   9190   Direct storm                       three weeks
+   9191   Dissipate storm                    three weeks
+   9193   Renew storm strength               three weeks
+   9194   Lightning bolt                     four weeks
+   9195   Seize control of storm             three weeks
+   9196   Fog of death                       three weeks
+
+Scrying [162]
+   9141   Scry location                      three weeks
+   9142   Shroud location from magical scry  two weeks
+   9143   Dispel location shroud             three weeks
+   9151   Ciphered writing of Areth-Pirn     three weeks
+   9160   Create magical barrier             three weeks
+   9161   Remove magical barrier             three weeks
+   9167   Locate character                   three weeks
+   9171   Detect location scry               three weeks
+   9172   Farcasting                         three weeks
+   9177   Save farcast state                 three weeks
+   9197   Banish undead                      three weeks
+
+Gatecraft [163]
+   9112   Teleport                           two weeks
+   9115   Detect gates                       two weeks
+   9116   Jump through gate                  two weeks
+   9117   Seal gate                          two weeks
+   9118   Unseal gate with key               two weeks
+   9119   Notify if gate unsealed            two weeks
+   9120   Forcefully unseal gate             three weeks
+   9121   Reveal gate key                    three weeks
+   9122   Notify of gate jumps               two weeks
+   9152   Language of the Ancients           three weeks
+   9165   Reverse jump through gate          three weeks
+
+Artifact construction [164]
+   9102   Forge auraculum                    four weeks
+   9108   Reveal creator of artifact         two weeks
+   9109   Reveal where artifact was created  two weeks
+   9110   Cloak creator of artifact          two weeks
+   9111   Cloak region of artifact creation  two weeks
+   9113   Curse noncreator loyalty           three weeks
+   9131   Forge magical weapon               three weeks
+   9132   Forge magical armor                three weeks
+   9133   Forge magical bow                  three weeks
+   9144   Dispel cloaking from artifact      three weeks
+   9153   Arcane symbols                     three weeks
+   9164   Destroy artifact                   two weeks
+   9176   Forge palantir                     three weeks
+
+Necromancy [165]
+   9125   Transcend death                    four weeks, 1 NP req'd
+   9154   Runes of Evil                      three weeks
+   9179   Summon ghost warriors              three weeks
+   9180   Raise undead                       three weeks
+   9181   Summon demon lord                  three weeks
+   9182   Renew demon bond                   three weeks
+   9183   Banish demon lord                  three weeks
+   9184   Eating of the dead                 four weeks
+   9185   Aura blast                         three weeks
+   9186   Absorb aura blast                  three weeks
+
+Advanced sorcery [170]
+   9201   Trance                             four weeks
+   9202   Teleport items                     four weeks

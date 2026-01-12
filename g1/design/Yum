@@ -1,0 +1,104 @@
+Issues brought up in Survey 3
+
+1.  Building control without being there
+
+	One of the high-runners on the request list is a way to own buildings
+	without having to occupy them with a valuable noble.
+
+	I could let players stuff men such as soldiers, etdc. into a structure.
+	These would remain behind to defend the building and collect any gold
+	it had coming (castle, inn).
+
+	They would not provide a location report.  The building would not be
+	able to issue commands independently.
+
+	problems:	promote inside a building
+			reporting of building contents
+			sounds like building has to be active
+			what about skilled tasks, like sailing a ship?
+			is this a garrison mechanic?  storing men in the
+							structure?
+
+	, owner: %s, inside:
+
+	CLAIM [1] command to claim ownership of a structure
+	GIVE <structure> <who> to give title
+
+
+2.  Olympia needs some major plots, goals.  More fantasy stuff.
+
+	I'm working on an epic plot for Olympia.  Something with several
+	major parts that should take a very long time to work through,
+	and provide some serious politics and conflict potential.  I'll
+	send details to the design list when I have this fleshed out more.
+
+	Ages of Olympia are marked by events:
+
+	Building of the Emperor's Citadel in Areth Pirn
+		only a king may build a citadel
+	Once built, king gets the Crown, Scepter and Chalice
+	Perhaps some Imperial Guard troops
+
+	Rise of the Dark Overlord
+	Must achieve some evil magic feat
+	Creates an item of power
+	Gains control of beasts, or orc units
+
+	Overthrow of the Emperor's Citadel
+	Once razed, the Crown, Scepter and Chalice are lost
+
+	Age of Darkness
+	Overthrow of Citadel gives Dark Overlord vast powers
+
+	Return of the Emperor
+	Whoever gets the three items back from their monster
+	guardians (in the world, Hades and Faery) gets the 
+	Blade of Vengance.  This will kill the Dark Overlord
+	and his minions.
+
+	Once he is dead, the citadel may be built again.
+	Gain lots of imperial troops.
+
+	Perhaps lore research give clues to this epic plot
+
+	Include some riddles
+
+	Riddle in lore required to enter a building
+	Inside is a monster guarding some important object
+
+	XXX Monster can only be defeated by ZZZ
+	ZZZ is being held by the King of Hades in Hades
+	Cannot defeat king of hades; must pay him 10,000 gold
+	he will then transfer the prisoner
+	learn this from the lore skill
+
+
+3.  Cache command
+
+4.  Partial construction -- don't need all materials at once
+
+	Done.
+
+5.  Write a Fast start guide and a Strategy guide
+
+6.  Wandering monsters should have some treasure.
+	Done.
+
+7.  Implicit MOVE OUT when you are in a sublocation and forget to leave
+    before moving would be nice.
+	Done.
+
+8.  Progress is too slow at the beginning of the game
+
+	a.  Give each new player 5 peasants
+		Done.
+
+	b.  Replace claim stone mechanism with an instant tower creator.
+	    The new player will not have to learn Construction.  Instead,
+	    they will simply have to find a suitable location, and then
+	    will be able to instantly create a tower there.
+
+	c.  Newbie land (Olympia city?)
+		May remain six turns.
+		May teleport to any city from newbie land
+

@@ -1,0 +1,348 @@
+19185:0::0:0:Garrison~[4210], garrison, with 11~peasants, 39~workers, five~winged horses, 19~oxen, 25~centaurs, one~minotaur, one~cyclops, 38~pikemen guards Forest~[fp85].
+66219:0::0:1:> study 611
+66219:0::0:1:Paid 100~gold to begin study.
+66219:0::0:1:Study Survive fatal wound for seven days.
+77738:0::0:1:> use 614
+77738:0::0:6:Defense rating raised 2 to 112.
+77738:0::0:7:> seek
+66219:0::0:8:> give 9574 x430
+66219:0::0:8:Gave one~Dagger of Achilles to Emanuel~[9574].
+66219:0::0:8:> seek
+77738:0::0:14:> use 614
+66219:0::0:15:> use 614
+77738:0::0:19:Defense rating raised 3 to 115.
+77738:0::0:20:> seek
+66219:0::0:20:Defense rating raised 1 to 274.
+66219:0::0:21:> seek
+77738:0::0:27:> use 614
+66219:0::0:28:> seek
+18178:0::0::
+18178:0::0::Routes leaving Ocean: 
+18178:0::3::North, to Ocean~[fa78], 3~days
+18178:0::3::East, to Ocean~[fb79], 3~days
+18178:0::3::South, to Mountain~[fc78], Camaris Island, impassable
+18178:0::3::West, to Ocean~[fb77], 3~days
+18178:0::0::
+18178:0::0::It is raining.
+19185:0::0::
+19185:0::0::Province controlled by Wolvesbane Castle~[7498], castle, in Forest~[fp85]
+19185:0::0::Ruled by Arkon~[9944], count
+19185:0::0::
+19185:0::0::Routes leaving Forest: 
+19185:0::3::North, to Desert~[fn85], 8~days
+19185:0::3::East, to Mountain~[fp86], 10~days
+19185:0::3::South, to Forest~[fq85], 8~days
+19185:0::3::West, to Plain~[fp84], 7~days
+19185:0::0::
+19185:0::0::Inner locations:
+19185:0::3::Mourning Hollow~[w37], city, 1 day
+19185:0::3::Ruins~[s592], ruins, hidden, 1 day
+19185:0::0::
+19185:0::0::It is raining.
+19185:0::3::Rain~[120016], storm, strength~1
+19185:0::0::
+19185:0::0::Seen here:
+19185:0::0/3::   Garrison~[4210], garrison, on guard, with 11~peasants, 39~workers, five~winged horses, 19~oxen, 25~centaurs, one~minotaur, one~cyclops, 38~pikemen
+19185:0::0/3::   Opsi~[120885]
+58497:0::0::
+58497:0::0::Routes leaving Mourning Hollow: 
+58497:0::3::Out, to Forest~[fp85], 1~day
+58497:0::0::
+58497:0::0::Cities rumored to be nearby:
+58497:0::3::Haakon's Reach~[h24], in Desert~[fr85]
+58497:0::0::
+58497:0::0::Skills taught here:
+58497:0::3::Combat~[610], Stealth~[630], Construction~[680], Alchemy~[690], Forestry~[700], Trade~[730], Magic~[800]
+58497:0::0::
+58497:0::0::Market report:
+58497:0::3::
+58497:0::3::{<b>}trade    who   price    qty     wt/ea   item{</b>}               
+58497:0::3::-----    ---   -----    ---     -----   ----                     
+58497:0::3::  buy    w37     126      6        50   hides~[99]               
+58497:0::3::  buy    w37     127     48        80   fine cloaks~[w929]       
+58497:0::3::  buy    w37       7      9         5   clay pots~[95]           
+58497:0::3:: sell    w37      12     25        30   wood~[77]                
+58497:0::3:: sell    w37       1     50        10   lead~[102]               
+58497:0::3:: sell    w37      11     36       100   salt~[v314]              
+58497:0::3:: sell    w37      21     45       100   sugar~[h188]             
+58497:0::0::
+58497:0::0::Inner locations:
+58497:0::3::Wolvesbane Castle~[7498], castle, defense~80, level~6, owner:
+58497:0::0/6::      Arkon~[9944], count, conjurer, priest, wearing enchanted shield~[f010], with five~archers, 105~pikemen, 40~crossbowmen, 19~elite archers, one~wild horse, one~riding horse, one~harpie, one~hound
+58497:0::6::Blitzen~[5262], tower, defense~40
+58497:0::3::Eye of the Storm~[8109], temple, defense~10
+58497:0::0::
+58497:0::0::It is raining.
+5:0::0::
+5:0::0::begin ps2 "Northanger Abbey"  # Sisterhood
+5:0::0::
+5:0::0::unit ps2  # Sisterhood
+5:0::0::
+5:0::0::unit j219  # Charlotte in Wolvesbane Castle~[7498]
+5:0::3::# > seek (executing for four more days)
+5:0::3::seek
+5:0::0::
+5:0::0::unit x738  # Eden in Mourning Hollow~[w37]
+5:0::3::# > use 614 (executing for two more days)
+5:0::0::
+5:0::0::end
+54082:0::0::
+54082:0::0::Admit permissions:
+54082:0::0::
+54082:0::3::admit 2295  gh2  jy6  rk4  qx2  ua7  ze2
+54082:0::3::admit c199  rk4
+54082:0::3::admit j219  rk4
+54082:0::3::admit x738  ua7
+54082:0::0::
+54082:0::0::Unclaimed items:
+54082:0::0::
+54082:0::0::      qty  name                              weight
+54082:0::0::      ---  ----                              ------
+54082:0::0::    1,286  gold~[1]                               0  
+54082:0::0::       35  wood~[77]                          1,050  
+54082:0::0::       60  stone~[78]                         6,000  
+66219:0::3::
+66219:0::3/16::Location:       Wolvesbane Castle~[7498], in Mourning Hollow~[w37], in province Forest~[fp85], in Camaris
+66219:0::3::Loyalty:        Oath-1
+66219:0::3::Health:         100%
+66219:0::3::Combat:         attack 80, defense 274, missile 78
+66219:0::3::                behind 9  (stay behind in combat)
+66219:0::3::Break point:    50%
+66219:0::3::use  641 1      (concealing self)
+66219:0::3::
+66219:0::3::Current aura:   93
+66219:0::3::Maximum aura:   31
+66219:0::3::
+66219:0::3::Skills known:
+66219:0::6::Shipcraft~[600]
+66219:0::12::Sailing~[601], apprentice
+66219:0::6::Combat~[610]
+66219:0::12::Defense~[614], grand master
+66219:0::12::Archery~[615], journeyman
+66219:0::6::Stealth~[630]
+66219:0::12::Sneak into structure~[639], apprentice
+66219:0::12::Conceal self~[641], apprentice
+66219:0::6::Magic~[800]
+66219:0::12::Meditate~[801], journeyman
+66219:0::12::Perform common tasks for gold~[802], adept
+66219:0::12::Appear common~[803], journeyman
+66219:0::12::View current aura level of others~[804], apprentice
+66219:0::12::Reveal abilities of another mage~[805], apprentice
+66219:0::12::Tap health for aura~[806], master
+66219:0::12::Heal~[807], apprentice
+66219:0::12::Modern magic script~[808], apprentice
+66219:0::12::Shroud abilities from scry~[809], apprentice
+66219:0::12::Detect ability scry~[811], apprentice
+66219:0::12::Dispel ability shroud~[812], apprentice
+66219:0::12::Advanced meditation~[813], journeyman
+66219:0::12::Hinder meditation~[814], apprentice
+66219:0::6::Weather magic~[820]
+66219:0::12::Fierce wind~[821], apprentice
+66219:0::12::Bind storm to ship~[822], apprentice
+66219:0::12::Scribe weather symbols~[823], apprentice
+66219:0::12::Summon rain~[824], apprentice
+66219:0::12::Summon wind~[825], apprentice
+66219:0::12::Summon fog~[826], apprentice
+66219:0::12::Direct storm~[827], adept
+66219:0::12::Dissipate storm~[828], apprentice
+66219:0::12::Renew storm strength~[829], apprentice
+66219:0::12::Lightning bolt~[831], apprentice
+66219:0::12::Seize control of storm~[832], apprentice
+66219:0::12::Fog of death~[833], apprentice
+66219:0::6::Necromancy~[900]
+66219:0::12::Runes of Evil~[902], apprentice
+66219:0::12::Summon ghost warriors~[903], apprentice
+66219:0::12::Absorb aura blast~[911], apprentice
+66219:0::3::
+66219:0::3::Partially known skills:
+66219:0::6/6::Survive fatal wound~[611], 7/28
+66219:0::3::
+66219:0::3::Inventory:
+66219:0::3::{<b>}      qty  name                              weight{</b>}
+66219:0::3::      ---  ----                              ------
+66219:0::3::        2  winged horses~[54]                 2,000  fly 300
+66219:0::3::                                             ======
+66219:0::3::                                              2,000
+66219:0::3::
+66219:0::3/11::Capacity:  0/400 land (0%), 100/300 ride (33%), 100/300 fly (33%)
+66219:0::3::
+77738:0::3::
+77738:0::3/16::Location:       Mourning Hollow~[w37], in province Forest~[fp85], in Camaris
+77738:0::3::Loyalty:        Oath-1
+77738:0::3::Health:         100%
+77738:0::3::Combat:         attack 80, defense 115, missile 0
+77738:0::3::                behind 9  (stay behind in combat)
+77738:0::3::Break point:    50%
+77738:0::3::use  641 1      (concealing self)
+77738:0::3::
+77738:0::3::Current aura:   69
+77738:0::3::Maximum aura:   32
+77738:0::3::
+77738:0::3::Skills known:
+77738:0::6::Shipcraft~[600]
+77738:0::12::Sailing~[601], apprentice
+77738:0::6::Combat~[610]
+77738:0::12::Fight to the death~[612]
+77738:0::12::Defense~[614], adept
+77738:0::6::Stealth~[630]
+77738:0::12::Sneak into structure~[639], apprentice
+77738:0::12::Conceal self~[641], apprentice
+77738:0::6::Magic~[800]
+77738:0::12::Meditate~[801], journeyman
+77738:0::12::Perform common tasks for gold~[802], adept
+77738:0::12::Appear common~[803], journeyman
+77738:0::12::View current aura level of others~[804], apprentice
+77738:0::12::Reveal abilities of another mage~[805], apprentice
+77738:0::12::Tap health for aura~[806], journeyman
+77738:0::12::Modern magic script~[808], apprentice
+77738:0::6::Scrying~[840]
+77738:0::12::Scry location~[841], apprentice
+77738:0::12::Shroud location from magical scry~[842], journeyman
+77738:0::12::Dispel location shroud~[843], apprentice
+77738:0::12::Ciphered writing of Areth-Pirn~[844], apprentice
+77738:0::12::Create magical barrier~[845], apprentice
+77738:0::12::Remove magical barrier~[846], journeyman
+77738:0::12::Locate character~[847], apprentice
+77738:0::12::Detect location scry~[848], apprentice
+77738:0::12::Farcasting~[849], apprentice
+77738:0::12::Save farcast state~[851], apprentice
+77738:0::12::Banish undead~[852], apprentice
+77738:0::6::Gatecraft~[860]
+77738:0::12::Teleport~[861], apprentice
+77738:0::12::Detect gates~[862], master
+77738:0::12::Jump through gate~[863], apprentice
+77738:0::12::Seal gate~[864], apprentice
+77738:0::12::Unseal gate with key~[865], apprentice
+77738:0::12::Notify if gate unsealed~[866], apprentice
+77738:0::12::Forcefully unseal gate~[867], apprentice
+77738:0::12::Reveal gate key~[868], apprentice
+77738:0::12::Notify of gate jumps~[869], apprentice
+77738:0::12::Language of the Ancients~[871], journeyman
+77738:0::12::Reverse jump through gate~[872], apprentice
+77738:0::3::
+77738:0::3::Inventory:
+77738:0::3::{<b>}      qty  name                              weight{</b>}
+77738:0::3::      ---  ----                              ------
+77738:0::3::        1  winged horse~[54]                  1,000  fly 150
+77738:0::3::                                             ======
+77738:0::3::                                              1,000
+77738:0::3::
+77738:0::3/11::Capacity:  0/250 land (0%), 100/150 ride (66%), 100/150 fly (66%)
+77738:0::3::
+77738:0::3::Pending trades:
+77738:0::3::
+77738:0::6::trade    price    qty   item
+77738:0::6::-----    -----    ---   ----
+77738:0::6:: sell        7    990   clay pot~[95]
+77738:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Sisterhood~[ps2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/ps2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [ps2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         2  116th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                    9/74  108th  
+0:0::3/41::Spells known:                   55/79  53rd   
+0:0::3/41::Provinces visited:         628/31,919  55th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  29     (1 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 269.
+0:0::0::
+0:0::0::The next five nobles formed will be:  d928 k971 d407 r977 118718
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::j219   7498   o1    100  9 93                                 Charlotte
+0:0::0::x738   w37    o1    100  9 69                                 Eden
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                                                      
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Camaris
+0:0::0::  Forest~[fp85]
+0:0::0::    Mourning Hollow~[w37]          Eden~[x738]
+0:0::0::      Wolvesbane Castle~[7498]     Charlotte~[j219]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  j219       2,100        400   0%        200  33%        200  33%
+0:0::0::  x738       1,100        250   0%         50  66%         50  66%
+0:0::0::
+0:0::0::storm  kind  owner   loc  strength
+0:0::0::-----  ----  -----  ----  --------
+0:0::0::136731  rain   j219  fb78     13
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Sisterhood~[ps2]"><font size=+1><b>Sisterhood~[ps2]</b></font>
+1:2::0::<hr>
+1:1::0::Sisterhood~[ps2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54082
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Charlotte~[j219]"><font size=+1><b>Charlotte~[j219]</b></font>
+1:2::0::<hr>
+1:1::0::Charlotte~[j219]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 66219
+1:0::0::
+1:2::0::
+1:2::0::<name="Eden~[x738]"><font size=+1><b>Eden~[x738]</b></font>
+1:2::0::<hr>
+1:1::0::Eden~[x738]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 77738
+1:2::0::
+1:2::0::<name="Forest~[fp85]"><font size=+1><b>Forest~[fp85]</b>, forest, in Camaris, civ-6</font>
+1:2::0::<hr>
+1:1::0::Forest~[fp85], forest, in Camaris, civ-6
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 19185
+1:0::0::
+1:2::0::
+1:2::0::<name="Mourning Hollow~[w37]"><font size=+1><b>Mourning Hollow~[w37]</b>, city, in province Forest~[fp85]</font>
+1:2::0::<hr>
+1:1::0::Mourning Hollow~[w37], city, in province Forest~[fp85]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 58497
+1:0::0::
+1:2::0::
+1:2::0::<name="Ocean~[fb78]"><font size=+1><b>Ocean~[fb78]</b>, ocean, in Lake Camaris</font>
+1:2::0::<hr>
+1:1::0::Ocean~[fb78], ocean, in Lake Camaris
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 18178
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

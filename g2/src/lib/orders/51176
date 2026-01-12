@@ -1,0 +1,210 @@
+71509:honor 300
+71509:seek
+71509:use 614
+71509:use 616
+71509:use 615
+71509:seek
+71509:use 614
+71509:use 616
+71509:use 615
+71509:seek
+71509:use 614
+71509:use 616
+71509:use 615
+1291:honor 150
+1291:breed 285 285
+1291:breed 76 76
+1291:breed 285 285
+1291:breed 76 76
+1291:breed 285 285
+1291:breed 76 76
+3379:move j71 in
+3379:stack garrison
+3379:use 615
+3379:seek
+3379:use 614
+3379:seek
+3379:use 616
+3379:seek
+3633:get 3131 1 1500
+3633:use 921 c997 1 1000
+3633:move 5677
+3633:move 3969
+3633:move 6980
+3633:move 7986
+3633:research 720
+3633:research 720
+3633:research 720
+3633:move 5677 out
+3633:move v04 out
+3633:stack garrison
+3633:use 614
+3633:use 614
+7100:use 616
+7100:use 614
+7100:use 616
+7100:get 1291 1 1000
+7100:use 614
+7100:use 616
+7100:use 614
+7100:use 616
+7100:use 614
+7100:use 616
+9960:seek
+9960:use 614
+9960:seek
+9960:use 616
+9960:seek
+9960:use 614
+9960:seek
+9960:use 616
+74943:use 614
+74943:use 616
+74943:seek
+74943:use 614
+74943:use 616
+3131:breed 76 76
+3131:breed 76 76
+3131:breed 76 76
+3131:breed 76 76
+3131:breed 76 76
+3131:breed 76 76
+3131:breed 76 76
+3131:breed 76 76
+3131:breed 76 76
+3131:breed 76 76
+2040:stop
+2040:get garrison 12 0
+2040:get garison 22 0
+2040:get garrison 15 0
+2040:get garrison 10 0
+2040:recruit
+2040:train 12 5
+2040:attack 121651
+2040:attack 119141
+2040:move bd87 out
+2040:give garrison 12 0
+2040:give garrison 22 0
+2040:give garrison 15 0
+2040:give garrison 10 0
+2040:get garrison 11 0
+2040:move 119141
+2040:repair
+2040:use 721
+2040:repair
+2040:move bd87 out
+2040:give garrison 11 0
+2040:seek
+2040:seek
+2040:seek
+2040:seek
+2040:use 616
+2040:use 614
+2040:seek
+2040:use 616
+2040:seek
+2040:use 614
+51176:accept ak6 0
+51176:accept cy5 0
+51176:accept em7 0
+51176:accept fa5 0
+51176:accept fv6 0
+51176:accept hg2 0
+51176:accept hh6 0
+51176:accept wc9 0
+51176:accept xa5 0
+51176:accept xu3 0
+51176:accept yq6 0
+51176:accept zz4 0
+61997:honor 250
+61997:move x15 in
+61997:explore
+61997:explore
+61997:move bv47 out
+61997:move bv48
+1522:explore
+1522:move cf63
+1522:explore
+1522:move cf62
+1522:explore
+1522:use 616
+1522:use 614
+1522:use 616
+1522:use 614
+65793:move ch53 s
+65793:move ch52 w
+65793:move ch51 w
+65793:move ch50 w
+65793:move n
+65793:move n
+2382:get garrison 11 5
+2382:move d976 in
+2382:yew 0
+2382:move ba86 out
+2382:give garrison 11 0
+2382:get garrison 52 0 1
+2382:get garrison 10 3
+2382:move ba85
+2382:give garrison 52 0
+2382:get garrison 12 0
+2382:train 12
+2382:attack 93481
+2382:attack 93481
+2382:attack 147589
+2382:attack 121735
+2382:move ba85 out
+2382:attack 121735
+2382:give garrison 12 0
+2382:get garrison 11 5
+2382:move t572 in
+2382:yew 0
+2382:move ba85 out
+2382:get garrison 11 0
+2382:move 121735
+2382:repair
+2382:use 721
+2382:repair
+2382:move ba85 out
+2382:give garrison 11 0
+2382:recruit 5
+2382:give garrison 10 0
+2382:honor 250
+3234:form 125181  caesar
+3234:give 125181 1 1000
+3234:seek
+3234:seek
+3234:seek
+3234:seek
+3234:use 614
+3234:use 615
+3234:use 616
+3234:use 614
+3234:use 615
+3234:use 616
+67696:move 5677
+67696:move 7986
+67696:research 750
+67696:move 3969
+67696:research 750
+67696:move 5677 out
+67696:move v04 out
+67696:stack garrison
+67696:study 751
+67696:study 751
+67696:make 94
+74828:recruit 5
+74828:train 12
+74828:give garrison 12 0
+74828:get garrison 10 5
+74828:move bd88
+74828:train 12
+74828:give garrison 12 0
+74828:get garrison 52 1 1
+74828:move bd87
+65408:move wc21 s
+65408:move tj92 e
+65408:explore
+65408:move wc21
+65408:explore
+65408:move ww58
+65408:explore

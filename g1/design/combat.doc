@@ -1,0 +1,331 @@
+
+
+Combat
+------
+
+Combat in Olympia occurs when one stack attacks another stack.
+
+A unit will be defended by any other characters it is stacked with.
+
+Only the leader of a stack may initiate combat.  If another unit
+in a stack wants to issue ATTACK, it must first drop out of the
+stack.
+
+Combat involves nobles, who possess strong heroic fighting abilities,
+and any fighters who may be accompanying them.  Other men, such as
+peasants, workers and sailors, do not participate in battle.
+
+
+Resolution of battle
+--------------------
+
+Each kind of fighter has an attack and defense rating:
+
+                     attack  defense
+                    +---------------
+    soldier         |   1       1 
+    pikeman         |   5       5
+    swordsman       |  15      15
+    knight          |  45      45
+    elite guard     |  90      90
+    crossbowman     |  25       1 
+    archer          |  50       5 
+    elite archer    |  75      10 
+
+When one man attacks another, the chance that the attacker will kill
+the defender is proportional to their attack and defense ratings.
+
+    A(attack=90) vs B(defense=45)     A has a 2/3 chance of killing B
+    A(attack=90) vs B(defense=90)     A has a 1/2 chance of killing B
+
+During combat, a random man will be picked, choosing from both sides,
+and he will attack a randomly selected enemy.  If the attack succeeds,
+the enemy will be killed.  This continues until the battle is over.
+
+When one side has sustained 50% losses, that side is declared the
+loser.  The winner may then attempt to take prisoners.  The chance
+that a given defeated unit will be taken prisoner is proportional
+to the sizes of the remaining forces.
+
+(Taking prisoners in battle and claiming loot requires many soldiers
+to run after the fleeing enemy.  Thus, the chance of success is based
+on numerical advantage rather than combat skill.)
+
+        1:1     25%
+        2:1     50%
+        3:1     75%
+
+If the winning side outnumbers the defeated force by 2:1, there
+is a 50% chance that a given defeated unit will be captured.
+Defeated units which are not captured retreat from battle.
+If they are occupying a building or are located in a city, they
+may flee into the outlying province.
+
+The victor always has at least a 25% chance of taking a unit
+prisoner, but no better than a 75% chance.
+
+
+Nobles in combat
+----------------
+
+Nobles have strong innate heroic abilities, and so even an unarmed,
+untrained noble is a formidable opponent on the battlefield.
+
+An noble is rated (attack=80, defense=80).
+
+When a noble is wounded, he is taken out of the fight, and suffers a
+1-100 loss of health.  Nobles already wounded when they enter combat
+therefore run a greater risk of death on the battlefield.  Because
+nobles may fall ill as a result of their injuries, even those who
+survive may later die from their wounds.
+
+See the section on health for more information on wounds, illness and
+healing.
+
+
+
+
+
+-----------------------
+ATTACK <target> [flag]
+Time:  2 days
+-----------------------
+
+Engage two stacks in combat.  Only the top most character in
+a stack may initiate combat.
+
+If flag is 1, the attacker will not attempt to move into the
+defender's position.
+
+A unit may not attack another member of its own faction.
+Two units in the same stack may not engage in combat.  
+
+
+
+
+Battles take place between stacks, not between individual units.  If a
+unit is attacked then the unit's stack is attacked and all units will
+aid in the defense.  Offensive and defensive ratings are summed for
+every unit in the stack to determine battle outcomes.  Thus stacking
+with a fortification will cause the stack to gain any advantages or
+disadvantages of the fortification.
+
+It is harder to capture a unit than to kill it.  Attacking for booty
+means that the attacker will not pursue a unit that chooses to flee,
+but will stop and pick up whatever booty it could collect.  Units
+fleeing in terror tend to leave some valuables behind.
+
+Booty gained through combat is not counted against weight limits
+for river boats, ocean ships or fortresses for the rest of the
+turn in which it is won.
+
+Engage target in combat.
+
+
+
+
+
+Combat
+------
+
+Takes place when one stack attacks another.
+Combat will involve the attacking stack, and the entire
+	defending stack, plus any allied stacks of the defending stack.
+
+Only the stack leader may initiate combat.
+
+Resolution of battle.
+
+Victory:
+	Loser flees into province
+	Winner takes loser's place unless ATTACK 1 flag.
+	Booty, prisoners.
+
+Nobles in combat.
+
+Naval combat.
+
+....
+
+
+[perhaps peasants shouldn't be able to fight?]
+
+[ must choose values for siege tower ]
+
+[ must incorporate fortifaction stuff into this doc ]
+
+[attacker siezing slot of loser]
+
+
+
+
+Combat
+------
+
+Combat occurs when one unit attacks another unit.  The attacking unit
+must be the top unit in its stack (or not stacked with any other
+characters).  The attack is against the defending unit's stack, not
+just the defending unit.
+
+Participants on the battlefield are the nobles and their fighting men.
+
+
+
+Resolution of battle
+--------------------
+
+Each kind of fighter has an attack and defense rating:
+
+                     attack  defense
+                    +---------------
+    soldier         |   1       1 
+    pikeman         |   5       5
+    swordsman       |  15      15
+    knight          |  45      45
+    elite guard     |  90      90
+    crossbowman     |  25       1 
+    archer          |  50       5 
+    elite archer    |  75      10 
+
+Other accompanying men, such as peasants, workers, or sailors, do not
+participate in battle.
+
+When one man attacks another, the chance that the attacker will kill
+the defender is proportional to their attack and defense ratings.
+
+    A(attack=60) vs B(defense=30)     A has a 2/3 chance of killing B
+    A(attack=60) vs B(defense=60)     A has a 1/2 chance of killing B
+
+During combat, a random man will be picked, choosen from both sides,
+and he will attack a randomly selected enemy.  If the attack succeeds,
+the enemy will be killed.  This continues until the battle is over.
+
+When one side has sustained 50% losses, that side is declared the
+loser.  The winner may then attempt to take prisoners.  The chance
+that a given defeated unit will be taken prisoner is proportional
+to the sizes of the remaining forces.
+
+(Taking prisoners in battle and claiming loot requires many soldiers
+to run after the fleeing enemy.  Thus, the chance of success is based
+on numerical advantage rather than combat skill.)
+
+        1:1     25%
+        2:1     50%
+        3:1     75%
+
+If the winning side outnumbers the defeated force by 2:1, there
+is a 50% chance that a given defeated unit will be captured.
+Defeated units which are not captured retreat from battle.
+If they are occupying a building or are located in a city, they
+may flee into the outlying province.
+
+The victor always has at least a 25% of taking a unit prisoner,
+but no better than a 75% chance.
+
+
+Nobles in combat
+----------------
+
+Nobles have strong innate heroic abilities, and so even an unarmed,
+untrained noble is a formidable opponent on the battlefield.
+
+An unarmed, untrained noble is rated (attack=80, defense=80).
+
+Combat skills such as archery and swordplay will improve these ratings.
+
+When a noble is wounded, he is taken out of the fight, and suffers a
+1-100 loss of health.  Nobles already wounded when they enter combat
+thus run a greater risk of death on the battlefield.  Because nobles
+may fall ill as a result of their injuries, even those who survive
+may later die from their wounds.
+
+See the section on health for more information on wounds, illness and
+healing.
+
+
+Fortifications
+--------------
+
+Structures which may aid fighters in battle are rated for
+their defensive bonus.
+
+	Castle Imperius [gx56], castle, defense 25
+
+During battle, the fortification rating is added to the defense
+number for each of the men inside the structure.
+
+The structure may take hits during the battle, reducing its
+defensive rating.  Once the defense rating reaches zero,
+further hits may cause the building to become damaged.
+A fully damaged building (100% damage) will collapse, ejecting
+its occupants.
+
+
+Siege engines
+-------------
+
+Hmmm.
+
+Increase fort level from n to n+1 requires one worker to work n days,
+pay n gold.
+
+1.  Structure may take a hit.  Each hit reduces the fort level by one.
+    Once fort level reaches zero, each hit increases damage by one.
+    Once damage is at 100%, the structure is destroyed.
+
+2.  The number of men protected by different structures:
+
+	Castle			first 500
+	Tower			first 100
+	Galley or roundship	first 50
+	Other structures	first 50
+
+3.  Siege engines
+
+	delivers 3-5 hits against a fortification
+	catapults may fire from behind
+	rams and siege towers must be used in front
+
+		catapult*	25	25
+		battering ram	30	20
+		siege tower	20	30
+
+		* - missile weapon
+
+4.  Have only one rating for structures ?
+	fortify/repair raises it
+	combat, natural forces lowers it
+
+	Excess over 100 is defensive bonus
+	Cost is 5 days, 5 gold to repair points < 100
+	Each point over 100 costs one additional day and one gold.
+
+
+Other factors
+-------------
+
+1.  The side with the best tactician gets a free round of attacks
+    at the start of battle.
+
+    If both sides have no unit skilled in Tactics, or if the tacticians 
+    are equally matched, then neither side will gain a free round of
+    attacks.
+
+    The best tactician for each side will be chosen, regardless of
+    where in the stack he may be.
+
+2.  Knights and elite guard receive a -25 penalty to both their
+    attack and defense ratings when fighting in a swampy province.
+
+3.  In wind, the attack rating for crossbowmen, archers and
+    elite archers is halved.  In rain, the attack rating for
+    missile fighters is reduced to their defense rating.
+
+4.  When battling on the ocean, siege engines are not used.
+
+    Knights and elite guard receive a -25 penalty to both their
+    attack and defense ratings.
+
+    If the galley is fitted with a ram, it will behave like a
+    battering ram on land.
+

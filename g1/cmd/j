@@ -1,0 +1,37 @@
+
+usage: acct [options]
+   -n    add a new player (info file on stdin)
+   -a    email the new player a short ACK
+   -l n  log credit/debit of n (give p and y)
+   -t    charge a turn (give p and y)
+   -i      this is an idle turn (reduced rate)
+   -p n  player account to credit/debit to
+   -y n  comment for credit/debit
+   -s n  account summary, last n log entries
+   -m    list accounts at or below zero
+   -c       ... only if they pay by credit card
+   -f    list players with free turns
+   -A    list all accounts
+   -d    delete player account
+
+
+
+no arena turn will be run for which funds are not available
+
+acct -A -N [ -p player ]		Add new Arena player
+					accept info on stdin
+					allocate id if -p not given
+					return id unconditionally on stdout
+
+acct -A -T x -p player			Can an Arena turn costing X be run?
+acct -A -t x -p player -y comment	Charge an Arena turn costing X
+acct -A -p player -s 4			Arena account summary
+acct -A -p player -d			Delete Arena player
+
+new arena player
+
+
+oly mark file
+arena mark file
+arena free flag
+

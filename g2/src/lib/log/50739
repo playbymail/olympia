@@ -1,0 +1,324 @@
+14226:0::0:0:Garrison~[107311], garrison, with ten~soldiers guards Silvertine Plains~[cc26].
+50739:0::0:0:> accept 0 0
+50739:0::0:0:> admit cv9 qs7
+5681:0::0:2:Arrival at Black Forest~[cc25].
+14225:0::0:2:Robert E. Lee~[5681] arrived from the east.
+5681:0::0:3:> move s
+5681:0::0:3:Travel to Plain~[cd25] will take seven days.
+14225:0::0:3:Robert E. Lee~[5681] went south.
+14225:0::0:4:It has begun to rain.
+5681:0::0:9:Arrival at Plain~[cd25].
+14325:0::0:9:Robert E. Lee~[5681] arrived from the north.
+5681:0::0:10:> move s
+5681:0::0:10:Travel to Black Forest~[cf25] will take eight days.
+14325:0::0:10:Robert E. Lee~[5681] went south.
+5681:0::0:17:Arrival at Black Forest~[cf25].
+14425:0::0:17:Robert E. Lee~[5681] arrived from the north.
+5681:0::0:18:> move s
+5681:0::0:18:Travel to Black Forest~[cg25] will take eight days.
+14425:0::0:18:Robert E. Lee~[5681] went south.
+5681:0::0:25:Arrival at Black Forest~[cg25].
+14525:0::0:25:Robert E. Lee~[5681] arrived from the north.
+5681:0::0:26:> wait unit 7743
+5681:0::0:26:Wait finished: [7743] is here.
+5681:0::0:26:> stack 7743
+5681:0::0:26:Robert E. Lee~[5681] stacks beneath Hades Explorer~[7743].
+5681:0::0:26:Travel to Graveyard~[s584] will take one day.
+14525:0::0:26:Hades Explorer~[7743], with two~winged horses, entered Graveyard~[s584], accompanied~by:
+14525:0::3/3:26:Robert E. Lee~[5681]
+5681:0::0:26:Arrival at Graveyard~[s584].
+73584:0::0:26:Hades Explorer~[7743], with two~winged horses, arrived from Black Forest~[cg25], accompanied~by:
+73584:0::3/3:26:Robert E. Lee~[5681]
+14525:0::0:26:It has begun to rain.
+14325:0::0:26:It has begun to rain.
+5681:0::0:27:Travel to Hades~[vf08] will take one day.
+5681:0::0:27:Arrival at Hades~[vf08].
+42408:0::0:27:Hades Explorer~[7743], with two~winged horses, arrived from Graveyard~[s584], accompanied~by:
+42408:0::3/3:27:Robert E. Lee~[5681]
+5681:0::0:28:Travel to Hades~[xm88] will take four days.
+14425:0::0:30:It has stopped raining.
+14225:0::0::
+14225:0::0::Province controlled by Illumine Keep~[g359], castle, in Judecca ~[cg31]
+14225:0::0::Ruled by Sheik Arrarah~[92640], duke
+14225:0::0::
+14225:0::0::Routes leaving Black Forest: 
+14225:0::3::North, forest, to Phoenix Coast~[cb25], 8~days
+14225:0::3::East, plain, to Silvertine Plains~[cc26], 7~days
+14225:0::3::South, to Plain~[cd25], 7~days
+14225:0::3::West, plain, to Icy Black Holy Land~[cc24], 7~days
+14225:0::0::
+14225:0::0::It is raining.
+14225:0::0::
+14225:0::0::Seen here:
+14225:0::0/3::   Garrison~[110386], garrison, on guard, with ten~soldiers
+14226:0::0::
+14226:0::0::Province controlled by Illumine Keep~[g359], castle, in Judecca ~[cg31]
+14226:0::0::Ruled by Sheik Arrarah~[92640], duke
+14226:0::0::
+14226:0::0::Routes leaving Silvertine Plains: 
+14226:0::3::North, forest, to Phoenix Coast~[cb26], 8~days
+14226:0::3::East, desert, to Copper Desert~[cc27], 8~days
+14226:0::3::South, to Plain~[cd26], 7~days
+14226:0::3::West, forest, to Black Forest~[cc25], 8~days
+14226:0::0::
+14226:0::0::Inner locations:
+14226:0::3::Pasture~[c456], pasture, 1 day
+14226:0::0::
+14226:0::0::It is raining.
+14226:0::0::
+14226:0::0::Seen here:
+14226:0::0/3::   Garrison~[107311], garrison, on guard, with ten~soldiers
+14325:0::0::
+14325:0::0::Province controlled by Illumine Keep~[g359], castle, in Judecca ~[cg31]
+14325:0::0::Ruled by Sheik Arrarah~[92640], duke
+14325:0::0::
+14325:0::0::Routes leaving Plain: 
+14325:0::3::North, forest, to Black Forest~[cc25], 8~days
+14325:0::3::East, to Plain~[cd26], 7~days
+14325:0::3::South, forest, to Black Forest~[cf25], 8~days
+14325:0::3::West, forest, to Black Forest~[cd24], 8~days
+14325:0::0::
+14325:0::0::Inner locations:
+14325:0::3::Grassy field~[b581], pasture, 1 day
+14325:0::0::
+14325:0::0::It is raining.
+14325:0::0::
+14325:0::0::Seen here:
+14325:0::0/3::   Garrison~[9184], garrison, on guard, with ten~soldiers
+14425:0::0::
+14425:0::0::Province controlled by Illumine Keep~[g359], castle, in Judecca ~[cg31]
+14425:0::0::Ruled by Sheik Arrarah~[92640], duke
+14425:0::0::
+14425:0::0::Routes leaving Black Forest: 
+14425:0::3::North, to Plain~[cd25], 7~days
+14425:0::3::East, to Plain~[cf26], 7~days
+14425:0::3::South, forest, to Black Forest~[cg25], 8~days
+14425:0::3::West, plain, to Meadowlands~[cf24], 7~days
+14425:0::0::
+14425:0::0::Seen here:
+14425:0::0/3::   Garrison~[9677], garrison, on guard, with ten~soldiers
+14525:0::0::
+14525:0::0::Province controlled by Illumine Keep~[g359], castle, in Judecca ~[cg31]
+14525:0::0::Ruled by Sheik Arrarah~[92640], duke
+14525:0::0::
+14525:0::0::Routes leaving Black Forest: 
+14525:0::3::North, forest, to Black Forest~[cf25], 8~days
+14525:0::3::East, mountain, to Old Baldy Mountain~[cg26], 10~days
+14525:0::3::South, swamp, to Togoa Marsh~[ch25], 14~days
+14525:0::3::West, forest, to Black Forest~[cg24], 8~days
+14525:0::0::
+14525:0::0::Inner locations:
+14525:0::3::Graveyard~[s584], graveyard, 1 day
+14525:0::0::
+14525:0::0::It is raining.
+14525:0::0::
+14525:0::0::Seen here:
+14525:0::0/3::   Garrison~[8805], garrison, on guard, with ten~soldiers
+42408:0::0::
+42408:0::0::No known routes leaving Hades~[vf08]
+42408:0::0::
+42408:0::0::Inner locations:
+42408:0::3::Graveyard~[s584], graveyard, 1 day
+42408:0::0::
+42408:0::0::Seen here:
+42408:0::0/3::   Hades Explorer~[7743], with two~winged horses, accompanied~by:
+42408:0::0/6:: *    Robert E. Lee~[5681], "{<i>}of the Confederation{</i>}"
+73584:0::0::
+73584:0::0::Routes leaving Graveyard: 
+73584:0::3::Out, forest, to Black Forest~[cg25], 1~day
+73584:0::3::Underground, to Hades~[vf08], Hades, hidden, 1~day
+73584:0::6/1::"Notice to mortals, from the Gatekeeper Spirit of Hades: 100 gold/head is removed from any stack taking this road."
+73584:0::0::
+73584:0::0::It is raining.
+5:0::0::
+5:0::0::begin cv9 "blackhawkdown"  # The Forest Moon Clan
+5:0::0::
+5:0::0::unit cv9  # The Forest Moon Clan
+5:0::0::
+5:0::0::unit 5681  # Robert E. Lee in Hades~[vf08]
+5:0::0::
+5:0::0::end
+50739:0::0::
+50739:0::0::Admit permissions:
+50739:0::0::
+50739:0::3::admit 2578  qs7  tm6  pv2  gz2  wh2  qf4
+50739:0::3::admit 3780  qs7  tm6  pv2  gz2  wh2  qf4
+50739:0::3::admit 4887  qs7  tm6  pv2  gz2  wh2  qf4
+50739:0::3::admit 5681  qs7  tm6  pv2  gz2  wh2  qf4
+50739:0::3::admit 9135  qs7  tm6  pv2  gz2  wh2  qf4
+50739:0::3::admit 9653  qs7  tm6  pv2  gz2  wh2  qf4
+50739:0::3::admit  cv9  qs7
+50739:0::0::
+50739:0::0::Declared attitudes:
+50739:0::3::neutral  gk5
+50739:0::3::defend   gz2  pv2  qf4  qs7  tm6  wh2
+50739:0::0::
+50739:0::0::Unclaimed items:
+50739:0::0::
+50739:0::0::      qty  name                              weight
+50739:0::0::      ---  ----                              ------
+50739:0::0::    3,980  gold~[1]                               0  
+5681:0::3::
+5681:0::3/16::Location:       Hades~[vf08], in Hades
+5681:0::3::Loyalty:        Oath-1
+5681:0::3/16::Stacked under:  Hades Explorer~[7743]
+5681:0::3::Health:         100%
+5681:0::3::Combat:         attack 146, defense 175, missile 98
+5681:0::3::                behind 0  (front line in combat)
+5681:0::3::Break point:    50%
+5681:0::3::Banner:         of the Confederation
+5681:0::3::
+5681:0::3::Skills known:
+5681:0::6::Combat~[610]
+5681:0::12::Fight to the death~[612]
+5681:0::12::Defense~[614], master
+5681:0::12::Archery~[615], adept
+5681:0::12::Swordplay~[616], master
+5681:0::12::Weaponsmithing~[617], journeyman
+5681:0::6::Stealth~[630]
+5681:0::12::Petty thievery~[631], apprentice
+5681:0::12::Determine character's lord~[634], apprentice
+5681:0::12::Conceal faction~[635], apprentice
+5681:0::6::Trade~[730]
+5681:0::12::Find tradegood for sale~[732], journeyman
+5681:0::12::Find market for tradegood~[733], apprentice
+5681:0::3::
+5681:0::3::Partially known skills:
+5681:0::6/6::Survive fatal wound~[611], 14/28
+5681:0::3::
+5681:0::3::Robert E. Lee~[5681] has no possessions.
+5681:0::3::
+5681:0::3/11::Capacity:  0/100 land (0%)
+5681:0::3::
+5681:0::3::Pending trades:
+5681:0::3::
+5681:0::6::trade    price    qty   item
+5681:0::6::-----    -----    ---   ----
+5681:0::6::  buy       14     10   soap~[j606]
+5681:0::6:: sell       88     13   cinnabar~[f230]
+5681:0::6::  buy       20     25   cinnabar~[f230]
+5681:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for The Forest Moon Clan~[cv9].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/cv9/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [cv9]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         1  121st  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                               0  111st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   13/74  105th  
+0:0::3/41::Spells known:                    0/79  103rd  
+0:0::3/41::Provinces visited:         400/31,919  76th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  39     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  9867 9358 1805 1478 v538
+0:0::0::
+0:0::0::2 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::5681   vf08   o1    100  0                             7743   Robert E. Lee
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Hades
+0:0::0::  Hades~[vf08]                       Robert E. Lee~[5681]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  5681         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="The Forest Moon Clan~[cv9]"><font size=+1><b>The Forest Moon Clan~[cv9]</b></font>
+1:2::0::<hr>
+1:1::0::The Forest Moon Clan~[cv9]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 50739
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Robert E. Lee~[5681]"><font size=+1><b>Robert E. Lee~[5681]</b></font>
+1:2::0::<hr>
+1:1::0::Robert E. Lee~[5681]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5681
+1:2::0::
+1:2::0::<name="Black Forest~[cc25]"><font size=+1><b>Black Forest~[cc25]</b>, forest, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Black Forest~[cc25], forest, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14225
+1:0::0::
+1:2::0::
+1:2::0::<name="Silvertine Plains~[cc26]"><font size=+1><b>Silvertine Plains~[cc26]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Silvertine Plains~[cc26], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14226
+1:0::0::
+1:2::0::
+1:2::0::<name="Plain~[cd25]"><font size=+1><b>Plain~[cd25]</b>, plain, in Provinia, wilderness</font>
+1:2::0::<hr>
+1:1::0::Plain~[cd25], plain, in Provinia, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14325
+1:0::0::
+1:2::0::
+1:2::0::<name="Black Forest~[cf25]"><font size=+1><b>Black Forest~[cf25]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Black Forest~[cf25], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14425
+1:0::0::
+1:2::0::
+1:2::0::<name="Black Forest~[cg25]"><font size=+1><b>Black Forest~[cg25]</b>, forest, in Provinia, civ-1</font>
+1:2::0::<hr>
+1:1::0::Black Forest~[cg25], forest, in Provinia, civ-1
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 14525
+1:0::0::
+1:2::0::
+1:2::0::<name="Graveyard~[s584]"><font size=+1><b>Graveyard~[s584]</b>, graveyard, in province Black Forest~[cg25]</font>
+1:2::0::<hr>
+1:1::0::Graveyard~[s584], graveyard, in province Black Forest~[cg25]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 73584
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[vf08]"><font size=+1><b>Hades~[vf08]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[vf08], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 42408
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,103 @@
+76602:fly s
+76602:fly s
+76602:fly s
+76602:fly s
+76602:fly s
+76602:fly s
+76602:fly s
+76602:fly s
+76602:fly s
+76602:fly s
+76136:train 12 10
+76136:move dc71
+76136:ungarrison
+76136:garrison 7307
+76136:move dc72
+76136:ungarrison
+76136:garrison 7307
+76136:explore
+64361:repair mine
+64361:drop 98
+64361:use 721
+64361:use 722
+64361:repair mine
+64361:use 723
+64361:move out
+64361:recruit 10
+64361:train 11
+64361:move m931
+134302:ungarrison
+134302:garrison 7307
+134302:move dg71
+134302:ungarrison
+134302:garrison 7307
+134302:move dh71
+134302:ungarrison
+134302:garrison 7307
+51853:accept 0 0
+98911:stop
+98911:study 653
+98911:study 653
+98911:train 12
+120403:move dc70
+120403:recruit 10
+120403:move db70
+120403:train 12 6
+120403:garrison 7307
+74672:stop
+74672:claim 1 50
+74672:recruit 10 4
+74672:train 11
+74672:wood 30
+74672:make 75
+77103:recruit 10
+77103:train 21
+77103:give garrison 21
+77103:fly n
+77103:give garrison 85
+77103:fly n82
+77103:fly 7307
+77103:give s509 75
+77103:give s509 74
+73509:stop
+73509:take 139085 78
+73509:use 614
+73509:use 615
+73509:use 614
+73509:use 614
+74370:move out
+74370:move out
+74370:take garrison 12 20
+74370:move d349
+74370:quest
+74370:move out
+74370:give garrison 12
+74370:move n82
+74370:move 7307
+139085:take t370 271 10
+139085:claim 1 50
+139085:move out
+139085:move out
+139085:use 682
+139085:move n82
+139085:move 7307
+139085:take s509 78
+139085:improve
+69773:recruit 10
+69773:make 94
+133530:move dd73
+133530:ungarrison
+133530:garrison 7307
+133530:move dd74
+133530:ungarrison
+133530:garrison 7307
+133530:move dd75
+133530:ungarrison
+133530:garrison 7307
+61248:ungarrison
+61248:garrison 7307
+61248:fly dg70
+61248:recruit 10
+61248:train 12
+61248:give garrison 12
+61248:explore

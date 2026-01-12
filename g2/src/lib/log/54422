@@ -1,0 +1,264 @@
+11947:0::0:0:Garrison~[z024], garrison, with ten~peasants guards Mountain~[az47].
+11947:0::0:21:It has begun to rain.
+11947:0::0::
+11947:0::0::Province controlled by Den of Thieves~[4408], castle, in Plain~[az59]
+11947:0::0::Ruled by Claud Badly~[4029], king
+11947:0::0::
+11947:0::0::Routes leaving Mountain: 
+11947:0::3::North, to Desert~[ax47], 8~days
+11947:0::3::East, to Plain~[az48], 7~days
+11947:0::3::South, to Desert~[ba47], 8~days
+11947:0::3::West, to Ocean~[az46], Great Sea, impassable
+11947:0::0::
+11947:0::0::It is raining.
+11947:0::0::
+11947:0::0::Seen here:
+11947:0::0/3::   Garrison~[z024], garrison, on guard, with ten~peasants
+36677:0::0::
+36677:0::0::No known routes leaving Hades~[rh77]
+5:0::0::
+5:0::0::begin ra2 "kramod"  # Drasnia
+5:0::0::
+5:0::0::unit ra2  # Drasnia
+5:0::0::
+5:0::0::unit z501  # Jaradan in Mountain~[az47]
+5:0::0::
+5:0::0::unit q408  # Nonnvs Ferr in Hades~[rh77]
+5:0::0::
+5:0::0::end
+54422:0::0::
+54422:0::0::Admit permissions:
+54422:0::0::
+54422:0::3::admit d230 1599 3582 3634 3920  de2  hr2  kt3  sa4  wb4
+54422:0::0::
+54422:0::0::Declared attitudes:
+54422:0::3::defend  1599 3634 3843 3920 5934 6344  de2  hr2  kt3  px4  ra2
+54422:0::3::         sa4  wb4 a068 k810 n471 r381 x196 x218 z501
+54422:0::0::
+54422:0::0::Unclaimed items:
+54422:0::0::
+54422:0::0::      qty  name                              weight
+54422:0::0::      ---  ----                              ------
+54422:0::0::    6,200  gold~[1]                               0  
+54422:0::0::       50  wood~[77]                          1,500  
+54422:0::0::      100  stone~[78]                        10,000  
+71408:0::3::
+71408:0::3/16::Location:       Hades~[rh77], in Hades
+71408:0::3::Loyalty:        Oath-2
+71408:0::3::Health:         100%
+71408:0::3::Combat:         attack 80, defense 30, missile 0
+71408:0::3::                behind 9  (stay behind in combat)
+71408:0::3::Break point:    50%
+71408:0::3::use  641 1      (concealing self)
+71408:0::3::Receive Vision: 4 protection
+71408:0::3::Banner:         Kingdom of Cragstan
+71408:0::3::
+71408:0::3::Current aura:   42
+71408:0::3::Maximum aura:   42
+71408:0::3::
+71408:0::3::Skills known:
+71408:0::6::Combat~[610]
+71408:0::6::Stealth~[630]
+71408:0::12::Conceal self~[641], apprentice
+71408:0::6::Magic~[800]
+71408:0::12::Meditate~[801], apprentice
+71408:0::12::Perform common tasks for gold~[802], grand master
+71408:0::12::Appear common~[803], journeyman
+71408:0::12::View current aura level of others~[804], apprentice
+71408:0::12::Reveal abilities of another mage~[805], apprentice
+71408:0::12::Tap health for aura~[806], apprentice
+71408:0::12::Heal~[807], apprentice
+71408:0::12::Modern magic script~[808], apprentice
+71408:0::12::Shroud abilities from scry~[809], apprentice
+71408:0::12::Detect ability scry~[811], apprentice
+71408:0::12::Dispel ability shroud~[812], apprentice
+71408:0::12::Advanced meditation~[813], journeyman
+71408:0::12::Hinder meditation~[814], apprentice
+71408:0::6::Weather magic~[820]
+71408:0::12::Fierce wind~[821], apprentice
+71408:0::12::Bind storm to ship~[822], apprentice
+71408:0::12::Scribe weather symbols~[823], apprentice
+71408:0::6::Scrying~[840]
+71408:0::12::Scry location~[841], apprentice
+71408:0::12::Shroud location from magical scry~[842], apprentice
+71408:0::12::Dispel location shroud~[843], apprentice
+71408:0::12::Ciphered writing of Areth-Pirn~[844], apprentice
+71408:0::12::Create magical barrier~[845], apprentice
+71408:0::12::Remove magical barrier~[846], apprentice
+71408:0::12::Locate character~[847], apprentice
+71408:0::12::Detect location scry~[848], apprentice
+71408:0::12::Farcasting~[849], apprentice
+71408:0::12::Save farcast state~[851], apprentice
+71408:0::6::Gatecraft~[860]
+71408:0::12::Teleport~[861], apprentice
+71408:0::12::Detect gates~[862], apprentice
+71408:0::12::Jump through gate~[863], apprentice
+71408:0::12::Seal gate~[864], apprentice
+71408:0::12::Unseal gate with key~[865], apprentice
+71408:0::12::Notify if gate unsealed~[866], apprentice
+71408:0::12::Forcefully unseal gate~[867], apprentice
+71408:0::12::Reveal gate key~[868], apprentice
+71408:0::12::Notify of gate jumps~[869], apprentice
+71408:0::12::Language of the Ancients~[871], apprentice
+71408:0::12::Reverse jump through gate~[872], apprentice
+71408:0::6::Artifact construction~[880]
+71408:0::3::
+71408:0::3::Partially known skills:
+71408:0::6/6::Summon wind~[825], 15/21
+71408:0::6/6::Summon fog~[826], 1/21
+71408:0::6/6::Direct storm~[827], 1/21
+71408:0::6/6::Dissipate storm~[828], 1/21
+71408:0::6/6::Renew storm strength~[829], 1/21
+71408:0::6/6::Lightning bolt~[831], 1/28
+71408:0::6/6::Seize control of storm~[832], 1/21
+71408:0::6/6::Fog of death~[833], 1/21
+71408:0::6/6::Banish undead~[852], 1/21
+71408:0::3::
+71408:0::3::Nonnvs Ferr~[q408] has no possessions.
+71408:0::3::
+71408:0::3/11::Capacity:  0/100 land (0%)
+71408:0::3::
+78501:0::3::
+78501:0::3/16::Location:       Mountain~[az47], in Krussos
+78501:0::3::Loyalty:        Oath-1
+78501:0::3::Health:         100%
+78501:0::3::Combat:         attack 140, defense 148, missile 0
+78501:0::3::                behind 0  (front line in combat)
+78501:0::3::Break point:    0% (fight to the death)
+78501:0::3::use  641 1      (concealing self)
+78501:0::3::Receive Vision: 5 protection
+78501:0::3::
+78501:0::3::Skills known:
+78501:0::6::Combat~[610]
+78501:0::12::Survive fatal wound~[611]
+78501:0::12::Fight to the death~[612]
+78501:0::12::Defense~[614], adept
+78501:0::12::Swordplay~[616], adept
+78501:0::12::Weaponsmithing~[617], apprentice
+78501:0::6::Stealth~[630]
+78501:0::12::Petty thievery~[631], apprentice
+78501:0::12::Determine inventory of character~[632], apprentice
+78501:0::12::Determine skills of character~[633], journeyman
+78501:0::12::Determine character's lord~[634], apprentice
+78501:0::12::Conceal faction~[635], apprentice
+78501:0::12::Sneak into structure~[639], apprentice
+78501:0::12::Conceal self~[641], apprentice
+78501:0::6::Persuasion~[670]
+78501:0::12::Bribe noble~[671], apprentice
+78501:0::12::Persuade oathbound noble~[672], apprentice
+78501:0::12::Raise peasant mob~[673], apprentice
+78501:0::12::Rally peasant mob~[674], apprentice
+78501:0::3::
+78501:0::3::Inventory:
+78501:0::3::{<b>}      qty  name                              weight{</b>}
+78501:0::3::      ---  ----                              ------
+78501:0::3::      564  gold~[1]                               0  
+78501:0::3::        1  elven cloak~[92733]                   10  +100 defense
+78501:0::3::        1  magic dagger~[136725]                 10  +100 attack
+78501:0::3::                                             ======
+78501:0::3::                                                 20
+78501:0::3::
+78501:0::3/11::Capacity:  20/100 land (20%)
+78501:0::3::
+0:2::0::<pre>
+0:2::0::<center>
+0:2::0::<img src="http://www.pbm.com//gif/head.gif"align=middle width=100 height=100 alt="">
+0:2::0::<h1>
+0:0::0::Olympia G2 turn 261
+0:0::0::Report for Drasnia~[ra2].
+0:2::0::</h1>
+0:0::0::{<i>}Season "Thunder and rain", month 5, in the year 33.{</i>}
+0:2::0::</center>
+0:0::0::
+0:2::0::<hr><center><font size=+1>
+0:2::0::<a href="http://www.pbm.com/oly/g2rules/">Rules</a>   <a href="http://www.pbm.com/oly/times/"><i>The Olympia Times</i></a>   <a href="http://www.pbm.com/oly/g2turn/ra2/prev.html">Previous Turn</a>
+0:2::0::</font></center>
+0:0::0::
+0:0::3::
+0:0::3::Game totals:
+0:0::6::Players:                150
+0:0::6::Controlled units:     1,693
+0:0::6::Other units:          7,923
+0:0::3::
+0:0::3::{<b>}Faction [ra2]                          rank   {</b>}
+0:0::3::-------------                          ----   
+0:0::3/41::Characters:                         2  116th  
+0:0::3/41::Men:                                0  84th   
+0:0::3/41::Gold:                             564  101st  
+0:0::3/41::Land controlled:                    0  74th   
+0:0::3/41::Skills known:                   19/74  91st   
+0:0::3/41::Spells known:                   42/79  62nd   
+0:0::3/41::Provinces visited:         262/31,919  89th   
+0:0::3::
+0:0::3::
+0:0::0::Noble points:  24     (0 gained, 0 spent)
+0:0::0::The next NP will be received at the end of turn 264.
+0:0::0::
+0:0::0::The next five nobles formed will be:  c493 h856 g877 s918 125773
+0:0::0::
+0:0::0::64 fast study days are left.
+0:0::0::
+0:0::0::
+0:0::0::{<b>}unit   where  loyal heal B CA gold peas work sail figh under  name{</b>}
+0:0::0::----   -----  ----- ---- - -- ---- ---- ---- ---- ---- -----  ----
+0:0::0::z501   az47   o1    100  0     564                            Jaradan
+0:0::0::q408   rh77   o2    100  9 42                                 Nonnvs Ferr
+0:0::0::                              ==== ==== ==== ==== ====
+0:0::0::                               564                    
+0:0::0::
+0:0::0::{<b>}Location                           Stack{</b>}
+0:0::0::--------                           -----
+0:0::0::Krussos
+0:0::0::  Mountain~[az47]                  Jaradan~[z501]
+0:0::0::Hades
+0:0::0::  Hades~[rh77]                     Nonnvs Ferr~[q408]
+0:0::0::
+0:0::0::{<b>} stack    total wt         walk            ride            fly    {</b>}
+0:0::0:: -----    --------     -----------     -----------     -----------
+0:0::0::  z501         120         80  20%                                
+0:0::0::  q408         100        100   0%                                
+0:0::0::
+1:0::0::#include 0
+1:0::0::
+1:2::0::
+1:2::0::<name="Drasnia~[ra2]"><font size=+1><b>Drasnia~[ra2]</b></font>
+1:2::0::<hr>
+1:1::0::Drasnia~[ra2]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 54422
+1:0::0::
+1:0::0::
+1:2::0::
+1:2::0::<name="Jaradan~[z501]"><font size=+1><b>Jaradan~[z501]</b></font>
+1:2::0::<hr>
+1:1::0::Jaradan~[z501]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 78501
+1:0::0::
+1:2::0::
+1:2::0::<name="Nonnvs Ferr~[q408]"><font size=+1><b>Nonnvs Ferr~[q408]</b></font>
+1:2::0::<hr>
+1:1::0::Nonnvs Ferr~[q408]
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 71408
+1:2::0::
+1:2::0::<name="Mountain~[az47]"><font size=+1><b>Mountain~[az47]</b>, mountain, in Krussos, wilderness</font>
+1:2::0::<hr>
+1:1::0::Mountain~[az47], mountain, in Krussos, wilderness
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 11947
+1:0::0::
+1:2::0::
+1:2::0::<name="Hades~[rh77]"><font size=+1><b>Hades~[rh77]</b>, underground, in Hades, hidden</font>
+1:2::0::<hr>
+1:1::0::Hades~[rh77], underground, in Hades, hidden
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 36677
+1:0::0::
+1:2::0::
+1:2::0::<name="Order template"><font size=+1><b>Order template</b></font>
+1:2::0::<hr>
+1:1::0::Order template
+1:1::0::------------------------------------------------------------------------
+1:0::0::#include 5
+1:0::0::

@@ -1,0 +1,2088 @@
+
+Skills
+------
+
+Skills represent knowledge that Olympian characters may know.
+They are divided into category skills and subskills within those
+categories.  The skill categories are:
+
+	120  Shipcraft
+	121  Combat
+	122  Stealth
+	123  Beastmastery
+	124  Persuasion
+	125  Construction
+	126  Alchemy
+	127  Weaponsmithing
+	128  Forestry
+	129  Mining
+	130  Guildmastering
+
+-----------------------------
+
+
+120  Shipcraft
+	Train peasant to sailor [9501]			x
+	Pilot ship [9502]				x
+	Build galley [9503]				x
+	Build roundship [9504]				x
+	Repair ship [9505]				x
+	Expand ship capacity [9511]
+	Safe navigation in storms [9543]
+	Add ram to galley [9554]			x
+
+121  Combat
+	Train peasant to soldier [9507]			x
+	Train soldier to archer [9508]			x
+	Train soldier to knight [9509]			x
+	Train knight to elite guard [9510]		x
+	Torture prisoner [9512]
+	Guard noble [9513]
+	Guard item [9514]
+	Train soldier to swordsman [9574]		x
+	Train peasant to crossbowman [9575]		x
+	Train archer to elite archer [9576]		x
+	Train soldier to pikeman [9578]			x
+
+122  Stealth
+	Steal item from character [9518]
+	Determine inventory of character [9519]		x
+	Determine skills of character [9520]		x
+	Determine character's lord [9521]		x
+	Determine vassals of a noble [9522]		x
+	Assassinate character [9532]
+	Kidnap character [9533]
+	Free prisoner [9536]
+	Steal prisoner [9537]
+	Prepare for raid [9571]				x
+
+123  Beastmastery
+	Catch wild horses [9517]			x
+	Train wild horse to riding horse [9529]		x
+	Train wild horse to warmount [9530]		x
+	Capture wild beast [9534]
+	Win beast's mind [9535]
+	Breed beasts [9548]
+
+124  Persuasion
+	Bribe noble [9515]
+	Persuade noble [9516]
+	Increase loyalty of vassal [9523]
+	Survey region activity [9531]
+	Incite mob violence [9525]
+	Rally peasants to cause [9538]
+	Learn character's lord [9544]
+	Learn character's inventory [9545]
+	Learn character's skills [9546]
+	Learn secret routes from character [9547]
+
+125  Construction
+	Train peasant to worker [9506]			x
+	Repair structure [9526]				x
+	Improve city walls [9527]
+	Assess city walls [9528]
+	Build inn [9539]				x
+	Construct siege tower [9542]			x
+	Build guild [9555]				x
+	Build temple [9556]				x
+	Build castle [9557]				x
+	Build tower [9572]
+
+126  Alchemy
+	Extract venom from ratspider [9549]		x
+	Make potion of slavery [9550]			x
+	Brew healing potion [9551]			x
+	Brew potion of death [9552]			x
+	Produce blank scroll [9553]
+	Record skill on scroll [9573]			x
+
+127  Weaponsmithing
+	Construct catapult [9541]			x
+	Make pike [9558]				x
+	Make longsword [9559]				x
+	Make plate armor [9560]				x
+	Make longbow [9561]				x
+
+128  Forestry
+	Construct battering ram [9540]			x
+	Harvest timber [9568]				x
+	Harvest yew [9569]				x
+
+129  Mining
+	Build mine [9562]				x
+	Mine iron [9563]				x
+	Mine gold [9564]				x
+	Mine mithril [9565]				x
+	Quarry building stone [9566]			x
+	Train peasant to worker [9567]			x
+	Repair mine [9570]				x
+
+
+-----------------------------
+
+Shipcraft [120]
+
+All skills concerning ocean travel fall under this category.
+Shipcraft encompasses the building and repair of ships,
+training of sailors, and navigation at sea.
+
+The following skills may be studied directly once Shipcraft [120]
+is known:
+
+	Train peasant to sailor [9501]
+	Pilot ship [9502]
+	Build galley [9503]
+	Build roundship [9504]
+	Repair ship [9505]
+
+Further skills within this category may be found through
+research or other means.
+
+	Expand ship capacity [9511]
+	Safe navigation in storms [9543]
+	Add ram to galley [9554]
+
+-----------------------------
+
+Combat [121]
+
+The student of combat learns the training of soldiers and how
+to lead them well in battle.  With study and experience, the
+battle lord will find strategies to be used in difficult combat
+situations.
+
+Many cities offer instruction in the basics of Combat.
+
+	Train peasant to soldier [9507]
+	Train soldier to archer [9508]
+	Train soldier to knight [9509]
+	Guard noble [9513]
+	Guard item [9514]
+
+Further skills within this category may be found through
+research or other means.
+
+	Train knight to elite guard [9510]
+	Torture prisoner [9512]
+
+-----------------------------
+
+Stealth [122]
+
+Stealth includes the arts of theft, spying, assasination,
+kidnapping, and other covert activities.  Most stealth
+skills will not make use of soldiers or other followers,
+instead relying on the sneakiness of a lone character.
+
+	Steal item from character [9518]
+	Determine inventory of character [9519]
+	Determine skills of character [9520]
+	Determine character's lord [9521]
+	Determine vassals of a noble [9522]
+
+Further skills within this category may be found through
+research or other means.
+
+	Assassinate character [9532]
+	Kidnap character [9533]
+	Free prisoner [9536]
+	Steal prisoner [9537]
+
+-----------------------------
+
+Beastmastery [123]
+
+Beastmastery spans the capture, training and breeding of
+all manner of animals, both wild and domestic.  Common
+Beastmastery skills are used to capture and train horses
+for travel or combat.  Higher level skills within this
+category concern the care and use of stranger beasts.
+
+	Catch wild horses [9517]
+	Train wild horse to riding horse [9529]
+	Train wild horse to warmount [9530]
+
+Further skills within this category may be found through
+research or other means.
+
+	Capture wild beast [9534]
+	Win beast's mind [9535]
+	Breed beasts [9548]
+
+-----------------------------
+
+Persuasion [124]
+
+The skill of smooth-tongued oratists, Persuasion involves
+the manipulation of others through eloquent verbal dialog.
+From subverting a noble's loyalty to rousing peasant mobs
+with firey speeches, Persuasion can a powerful tool or
+weapon.
+
+	Bribe noble [9515]
+	Persuade noble [9516]
+	Increase loyalty of vassal [9523]
+	Survey region activity [9531]
+
+Further skills within this category may be found through
+research or other means.
+
+	Incite mob violence [9525]
+	Rally peasants to cause [9538]
+	Learn character's lord [9544]
+	Learn character's inventory [9545]
+	Learn character's skills [9546]
+	Learn secret routes from character [9547]
+
+-----------------------------
+
+Construction [125]
+
+The domain of engineers, builders and architects, Construction
+concerns the erection of inns, castles, city walls, and other
+fortifactions, as well as the training of workers.
+
+	Train peasant to worker [9506]
+	Repair structure [9526]
+	Improve city walls [9527]
+	Assess city walls [9528]
+	Build inn [9539]
+	Construct battering ram [9540]
+	Construct siege tower [9542]
+	Build guild [9555]
+	Build temple [9556]
+	Build castle [9557]
+
+-----------------------------
+
+Alchemy [126]
+
+Called petty magician, druggist, and sometimes fool, the
+alchemist seeks to brew useful potions from elements and
+rare extracts.  A method to transmute matter into gold is
+eagerly sought, but remains unknown.
+
+	Brew healing potion [9551]
+	Produce blank scroll [9553]
+	Extract venom from ratspider [9549]
+	Make potion of slavery [9550]
+
+-----------------------------
+
+Weaponsmithing [127]
+
+The skill of producing weapons and armor from raw materials.
+The weaponsmith is a craftsman with the ability to turn yew
+into bows, iron into swords and wood into pikes.  The making
+of all weapons and armor falls under this skill, as well as
+some limited knowledge of siegecraft.
+
+	Make pike [9558]
+	Make longsword [9559]
+	Make plate armor [9560]
+	Make longbow [9561]
+
+Further skills within this category may be found through
+research or other means.
+
+	Construct catapult [9541]
+
+-----------------------------
+
+Forestry [128]
+
+Forestry is skill at managing forests and harvesting their
+products, such as timber, yew, and rare foliage.
+
+	Construct battering ram [9540]
+	Harvest timber [9568]
+	Harvest yew [9569]
+
+-----------------------------
+
+Mining [129]
+
+Mining is the skill of sinking deep shafts into mountainous
+provinces for the purpose of extracting valuable elements.
+Most mining skills require a mine shaft to be constructed
+first with Build mine [9562].  Quarry building stone [9566]
+is an exception.  Building stones may be cut on the surface
+in mountain provinces.
+
+The likelihood of death because of cave-ins or poisonous gases
+seeping into the shafts tends to make mining dangerous work.
+
+	Quarry building stone [9566]
+	Build mine [9562]
+	Mine iron [9563]
+	Mine gold [9564]
+
+Further skills within this category may be found through
+research or other means.
+
+	Mine mithril [9565]
+
+-----------------------------
+
+Skill:  Train peasant to sailor [9501]
+
+Usage:  USE 9501
+
+Requires:  one peasant [10]
+Produces:  one sailor [19]
+Time:	   seven days
+
+The peasant is taught everything necessary to sail ocean-going sea
+vessels.  Reliable rope-work, handling of rigging and sails, and
+piloting through narrow channels are all learned from more experienced
+hands.  As a test, the teachers stand by while the new sailor assumes
+ship duties for a short cruise.  The sailors and their new shipmate
+celebrate with a raucous night of drinking in a seaside tavern.
+
+-----------------------------
+
+Skill:  Pilot ship [9502]
+
+Usage:  USE 9502 <direction or location>
+Or:	SAIL <direction or location>
+
+Requires:  character must be ship's captain
+Time:      varies with route taken
+
+Pilot a ship in the given direction, or to the specified
+location.  If a location is specified, there must be a direct
+route to it from the current location of the ship.
+
+Compass points may be abbreviated:  N, S, E, W.
+
+The character issuing the Pilot ship order must occupy the
+first position inside the ship (the character must be the
+captain of the ship).
+
+The captain must have a crew to assist in the handling of the
+ship.  Galleys require fourteen oarsmen to row the ship.  Oarsmen
+may be either sailors or slaves.  Roundships require at least eight
+sailors to man the ship's rigging.
+
+	ship		crew
+	----		----
+	galley		14 slaves or sailors
+	roundship	8 sailors
+
+If the required number of crew are not available, travel is still
+possible, but will take an extra day for each hand the crew is short.
+
+For example, a galley with only 10 men at the oars will take four
+extra days to travel across an ocean route.  A roundship with no
+sailors at all would take eight extra days to traverse a route.
+
+Galleys perform equally well regardless of wind conditions.
+Roundships may be becalmed and unable to travel.  In the presence
+of favorable wind they will travel across ocean routes in half
+the rated time.
+
+Overloaded ships do not sail well.  They may take longer than
+expected to travel across routes, and are almost certain to
+capsize and sink in a storm.  Captains should be careful not
+to leave port in a vessel carrying too much cargo.
+
+For convenience, one may use the SAIL order rather than "USE 9502".
+Knowledge of Pilot ship [9502] is still required, however.
+
+-----------------------------
+
+Skill:  Build galley [9503]
+
+Usage:  USE 9503 "Name of ship"
+
+Requires:  at least three workers [11]
+           30 lumber [77]
+
+Time:	   150 worker-days
+
+A galley, often known as a warship, is a slender rowed vessel
+often used for naval combat.  Because of its limited cargo
+capacity, galleys are not appropriate for extended ocean cruises.
+
+Galleys require 14 sailors or slave oarsmen for travel, and may
+carry 5,000 units of cargo.  Galleys lend a defensive bonus during
+naval combat.  The oars permit the ship to be maneuvered
+regardless of wind conditions.  If fitted with a ram, the galley
+may also be used to crush the sides of an enemy ship.
+
+To initiate construction of a new galley, the shipbuilder
+should unstack from beneath any other characters and issue
+the USE 9503 order.  The lumber will be taken from the
+shipbuilder's inventory and immediately put to use constructing
+the new ship.
+
+To resume construction of a partially completed galley, first
+enter the ship, then issue USE 9503.
+
+Work progresses until 150 worker-days have been invested in the
+construction.  At completion, the ship will be christened and
+declared seaworthy.
+
+Ships may only be built in ocean port regions.
+
+-----------------------------
+
+Skill:  Build roundship [9504]
+
+Usage:  USE 9504 "Name of ship"
+
+Requires:  workers, 75 lumber
+Time:	   300 worker-days
+
+The roundship, also known as the merchantman, is a deep,
+wide sailing ship, usually with one or two masts and steered
+with great, oar-like paddles.  The large cargo space makes it
+well suited for trade and extended ocean travel.
+
+Roundships provide no defensive bonus at sea.  While they
+make good time at sea under a favorable wind, even when
+fully loaded, roundships are rather clumsy to maneuver.
+They are vulnerable to attacks from rowed galleys.
+
+Roundships require a crew of eight sailors travel, and may
+carry 25,000 units of cargo.
+
+To initiate construction of a new roundship, the shipbuilder
+should unstack from beneath any other characters and issue
+the USE 9504 order.  The lumber will be taken from the
+shipbuilder's inventory and immediately put to use constructing
+the new ship.
+
+To resume construction of a partially completed roundship, first
+enter the ship, then issue USE 9504.
+
+Work progresses until 300 worker-days have been invested in the
+construction.  At completion, the ship will be christened and
+declared seaworthy.
+
+Ships may only be built in ocean port regions.
+
+-----------------------------
+
+Skill:  Repair ship [9505]
+
+Usage:  USE 9505
+
+Requires:  at least one worker
+           one gold [1] per point of damage
+
+Time:      varies with number of workers and amount of damage
+
+To repair a damaged ship, the character must first enter the
+ship, then issue USE 9505.  Each worker will repair one point
+of damage in one day, using one gold to cover the costs of
+repair.
+
+Multiple characters may use 9505 to repair a ship at the same
+time.  Characters engaged in repair work may be anywhere within
+the ship; they do not need to be in the first position.
+
+The skill completes when the ship is fully repaired, or the
+character runs out of gold.
+
+-----------------------------
+
+Skill:  Train peasant to worker [9506]
+
+Usage:  USE 9506
+
+Requires:  one peasant [10]
+Produces:  one worker [11]
+Time:	   three days
+
+The peasant learns the use of tools, the following of instructions,
+and basic skills, such as woodcraft and stone laying, so as to be
+useful to various trades as a skilled laborer.
+
+-----------------------------
+
+Skill:  Train peasant to soldier [9507]
+
+Usage:  USE 9507
+
+Requires:  one peasant [10]
+	   one pike [75]
+
+Produces:  one soldier [12]
+
+Time:	   five days
+
+The peasant is equipped with a pike and trained in the basics
+of following orders, marching, charging, battle formations,
+and use of the weapon.
+
+-----------------------------
+
+Skill:  Train soldier to archer [9508]
+
+Usage:  USE 9508
+
+Requires:  one soldier [12]
+           one longbow [72]
+
+Produces:  one archer [13]
+
+Time:	   seven days
+
+The soldier trades in his his crude weapon for a longbow and
+learns accurate shooting, gauging wind effects, and the
+feathering of arrows.
+
+Archers are nearly twice as effective against common soldiers in
+battle.  However, windy weather cuts the accuracy of archers in
+half, and rain dampens the strings of their longbows, rendering
+them useless.  Thus fair weather is vitally important to the
+effectiveness of archers.
+
+-----------------------------
+
+Skill:  Train soldier to knight [9509]
+
+Usage:  USE 9509
+
+Requires:  one soldier [12]
+	   one warmount [53]
+	   one longsword [74]
+
+Produces:  one knight [14]
+
+Time:	   ten days
+
+The soldier first learns to ride his warmount effectively
+in a variety of demanding situations.  Instruction in jousting,
+swordplay, and tactics to use against pike-wielding foot
+soldiers follows.  The knight's education is completed withx
+ lessons on loyalty and devotion to one's lord.
+
+A well-trained knight can match three common foot soldiers on
+the battlefield.
+
+-----------------------------
+
+Skill:  Train knight to elite guard [9510]
+
+Usage:  USE 9510
+
+Requires:  one knight [14]
+           one plate armor [73]
+
+Produces:  one elite guard [15]
+
+Time:	   fourteen days
+
+The knight is put through a demanding series of courses designed
+to hone and test his skills.  He is taught the use of all manner
+of weapons, subjected to great physical challenges, and practices
+great personal discipline.  Knights who thought themselves expert
+soldiers at the beginning of their training are soon humbled by
+master elite guardsmen.
+
+The elite guard training produces the most feared and deadly
+soldiers known in these lands.
+
+-----------------------------
+
+Skill:  Expand ship capacity [9511]
+
+Usage:  USE 9511
+
+Requires:  three workers or sailors
+Time:      three days
+
+This skill represents knowledge of how to store cargo on ships
+for optimal space consumption, stable weight distribution,
+preservation of spoilable goods, and prevention of from theft
+by one's own crew.  Even passengers may be convinced to make do
+with minimal space within the ship.
+
+The character should enter the ship and issue the USE 9511 order.
+This will repack the ship's cargo to obtain a 30% improvement
+in capacity.  Cargo cannot be repacked twice; space savings
+greater than 30% are not possible.
+
+Removing and reloading cargo will undo the effects of repacking.
+One way to use this skill is first to fully load the ship (perhaps
+exceeding the ship's capacity rating).  Before sailing, issue the
+USE 9511 order to repack the ship's cargo.
+
+-----------------------------
+
+Skill:  Torture prisoner [9512]
+
+Usage:  USE 9512 <prisoner> <flag>
+Time:   seven days
+
+Torture is the practice of inflicting pain on a captive prisoner in
+order to extract information against the victim's will.
+
+The flag specified with the USE 9512 order indicates what questions
+the prisoner will be asked:
+
+	flag	interrogation
+	----	-------------
+	 1	Learn the name of the character's lord
+	 2	Learn what skills the character possesses
+	 3	Learn what skills the character's lord possesses
+	 4	Learn any secret routes the character may know of
+	 5	Learn the names of any followers of the character
+
+Torture is not a reliable means of extracting information from
+a character.  The character may lie or simply refuse to talk.
+There is a good chance that the character will die under the
+brutal effects of torture.
+
+
+Perhaps:
+
+	Pass in <severity>, how hard they are to be tortured.
+
+	USE 9512 <prisoner> <flag> <severity>
+
+	oath loyalty:	<severity> / 2 chance that they will talk
+	contract:	<severity> chance
+	fear:		<severity> * 2 chance that they will talk
+
+-----------------------------
+
+Skill:  Guard noble [9513]
+
+Usage:  USE 9513 <character> <days>
+Time:   days as specified above
+
+The character, with the assistance of any followers available,
+will vigilantly guard the specified noble against harm and will
+attempt to foil any kidnapping or assassination attempts.
+
+-----------------------------
+
+Skill:  Guard item [9514]
+
+Usage:  USE 9514 <item> <days>
+Time:   days as specified above
+
+The character will vigilantly stand guard over an item to protect
+against its theft.  Any followers of the character will also aid
+in the object's protection.
+
+-----------------------------
+
+Skill:  Bribe noble [9515]
+
+Usage:  USE 9515 <character> <gold>
+Time:   seven days
+
+Attempt to lower the target's loyalty to its current lord with a
+gift of gold.  If the noble becomes sufficiently dissatisfied with
+its current position, it may swear fealty to the gifting character.
+
+The amount of loyalty erosion is proportional to the size of the gift
+and the receiving character's skills and importance.  The more loyal,
+experienced and skilled the noble, the harder he will be to bribe.
+An extremely loyal noble may refuse the bribe entirely.
+
+The noble to be bribed must be in the current region.
+
+-----------------------------
+
+Skill:  Persuade noble [9516]
+
+Usage:  USE 9516 <character>
+Time:   seven days
+
+Erode a noble's loyalty to its current lord with silver-tongued
+arguments and gentle persuasion.  Later, as the will of the subject
+weakens, more forceful barbs and coercions are used.  If a character
+can be made sufficiently unhappy in its current position, it will
+swear fealty to the persuading character.
+
+Experienced, highly skilled characters are harder to persuade than
+young, untrained nobles.
+
+-----------------------------
+
+Skill:  Catch wild horses [9517]
+
+Usage:  USE 9517
+Time:   seven days
+
+Attempt to catch any wild horses found roaming the plains.  Unbroken
+horses may be quite violent.  A great deal of skill is needed to
+safely catch and handle them.
+
+Success at horse catching cannot be reliably predicted.  Some weeks
+may yield few new stallions, or none at all.  Characters may be
+unusually fortunate other times and return with several wild horses.
+
+Wild horses are only found in plains regions.  Use of this skill
+will fail if attempted in any other kind of terrain.
+
+-----------------------------
+
+Skill:  Steal item from character [9518]
+
+Usage:  USE 9518 <character> <item>
+Time:   seven days
+
+Attempt to rob the specified character of the given item.
+Thievery is dangerous; a failed attempt may lead to harm,
+death or capture.  The thief's chances of success are
+diminished if the target is guarding the object of interest
+or is otherwise unusually vigilant.
+
+In some instances, the victim will catch the thief in the act
+of robbery, but the thief will escape with the object anyway.
+In such cases the identity of the thief will be made known.
+
+Stealing from magicians is not recommended.  They are said to
+have mysterious ways of safeguarding their possessions, and
+horrible punishments reserved for criminals who offend them.
+
+The thief must be in the same location as the target.
+
+-----------------------------
+
+Skill:  Determine inventory of character [9519]
+
+Usage:  USE 9519 <character>
+Time:   seven days
+
+Attempt to sneakily learn the contents of the specified
+character's inventory.  Attempts are not always successful.
+If caught caught while rummaging through the target's
+possessions, the spy may be harmed or captured.
+
+The spy must be in the same region as the target.
+
+-----------------------------
+
+Skill:  Determine skills of character [9520]
+
+Usage:  USE 9520 <character>
+Time:   seven days
+
+Attempt to sneakily learn in what skills the specified
+character is proficient by crafty observation and spying.
+
+Unsuccessful attempts may cause the spy to be discovered,
+harmed or captured.
+
+The spy must be in the same region as the target.
+
+-----------------------------
+
+Skill:  Determine character's lord [9521]
+
+Usage:  USE 9521 <character>
+Time:   seven days
+
+Attempt to learn the identity of the lord to whom the
+specified character has sworn fealty.  In some cases this
+is easily determined by observation at a safe distance.
+In others, the spy may need to risk eavesdropping on or
+following the target.  Unfortunate spies may discovered,
+harmed or captured in their attempts.
+
+The spy must be in the same region as the target.
+
+-----------------------------
+
+Skill:  Determine vassals of a noble [9522]
+
+Usage:  USE 9522 <character>
+Time:   seven days
+
+Learn the identity of all characters who have sworn fealty
+to the target.  This may required the spy to risk
+eavesdropping on or following the target.  In some rare
+cases the information will be widely known and thus easily
+obtained.  Unsuccessful spies may be discovered in their
+attempts.  Harm or capture is possible.
+
+The spy and target must be in the same region.
+
+-----------------------------
+
+Skill:  Increase loyalty of vassal [9523]
+
+Usage:  USE 9523 <character>
+Time:   seven days
+
+Increase the given noble's loyalty to his sworn lord through
+praise and honor.  The skill user will recount the noble's
+achievements under his current lord, and express the lord's
+satisfaction with the noble's service.  The noble may be
+presented with honors in front of his peers and followers.
+The target will be made to feel well-liked and sure of
+promotion within his position.
+
+The effect will be to diminish the chances that the target
+will be persuaded to renounce fealty to his current lord.
+
+The skill user need not be the target's lord, nor do the two
+characters have to be in the same faction.  The skill user
+must be in the same location as the target, however.
+
+-----------------------------
+
+#Skill:  Incite mob violence [9525]
+
+Usage:  INCITE <mob> <target>
+Time:   seven days
+
+Speak out against the target in such as a way as to inspire
+public hatred and ire.  The target will be made to seem a
+malicious influence responsibile for all of the common man's
+troubles.
+
+An existing crowd of peasants must be specified as the first
+argument, and the target of their violence as the second.
+
+There is a 50% chance that the mob will be roused to attack
+the target.
+
+There is also a 33% chance that patrons in any local inns will
+learn that the noble is trying to incite a mob to violence
+against the target.
+
+-----------------------------
+
+Skill:  Repair structure [9526]
+
+Usage:  USE 9526
+
+Requires:  workers
+Time:      varies
+
+Use workers to repair a damaged structure.  Each worker will repair
+one point of damage per day.  The skill usage completes when the
+building is is fully repaired.
+
+-----------------------------
+
+Skill:  Improve city walls [9527]
+
+Usage:  USE 9527 <days>
+
+Requires:  workers, building stone
+Time:      as given above
+
+Each worker will add one unit of stone to the city's walls per day,
+improving the location's defenses.  The character should be directly
+inside the city region.
+
+City walls are rated on a 0-100 scale.  Each point of defensive
+rating represents 100 stones.  The maximum number of stones city
+walls may contain is 10,000.
+
+Attacks against the city may cause portions of the walls to be
+destroyed, especially if siege engines are used in the attack.
+
+-----------------------------
+
+Skill:  Assess city walls [9528]
+
+Usage:  USE 9528 <city>
+Time:   three days
+
+The character will inspect the specified city's walls, looking for
+weakness and determining their defensive value in battle.  City
+walls are rated on a 0-100 scale.  The city wall's rating will be
+shown.
+
+The assessor must be either inside or in the same region as the
+walled city.
+
+		[Chance that skill use notifies location owner]
+
+-----------------------------
+
+Skill:  Train wild horse to riding horse [9529]
+
+Usage:     USE 9529
+
+Requires:  one wild horse [51]
+Produces:  one riding horse [52]
+
+Time:      seven days
+
+Wild horses are first broken to saddle, then trained to respect
+and obey whatever riders they may serve.  Once broken, riding
+horses become too timid and docile to be of any use in battle.
+
+-----------------------------
+
+Skill:  Train wild horse to warmount [9530]
+
+Usage:     USE 9530
+
+Requires:  one wild horse [51]
+Produces:  one warmount [53]
+
+Time:      fourteen days
+
+Unlike riding horses, war horses cannot be broken.  The war horse
+must be trained without destroying any of its spirit.  A warmount
+is also be taught much more than a simple riding animal, as it
+must know how to defend itself and its rider and to remain calm
+in the most frightening situations.
+
+-----------------------------
+
+Skill:  Survey region activity [9531]
+
+Usage:  USE 9531
+Time:   seven days
+
+The character will inconspicuously survey the activity of as many
+characters in the region as possible.  The tasks that most nobles
+are engaged in will be shown.
+
+-----------------------------
+
+Skill:  Assassinate character [9532]
+
+Usage:  USE 9532 <target>
+Time:   seven days
+
+Attempt to murder the specified character with secret or
+treacherous means.  The assassin will employ poison, concealed
+weapons, or traps to dispatch his victim.  The assassin may use
+stealth to get close to the target, or may masquerade as one of
+the victim's own followers.
+
+The assassin's chances of success are diminished if the target is
+actively guarded.  A failed attempt may lead to harm, capture or
+death.  Even in successful assassinations, there is a chance that
+the killer's identity may be discovered.
+
+Assassination is a lone activity, relying on stealth for success.
+Followers of the character will not participate in the attempt.
+
+The assassin must be in the same location as the target.
+
+-----------------------------
+
+Skill:  Kidnap character [9533]
+
+Usage:  USE 9533 <target>
+Time:   seven days
+
+Attempt to kidnap the specified noble.
+
+The chances of successfully kidnapping an actively guarded
+character are small.  Kidnapping is risky; a failed attempt may
+lead to harm, capture of the kidnapper himself, or death.
+A chance exists that the idenity of the kidnapper may be learned
+by others, regardless of whether the abduction succeeds.
+
+The success of a kidnap attempt depends on stealth.  Followers
+will not participate in the kidnapping.
+
+The kidnapper must be in the same location as the target.
+
+-----------------------------
+
+Skill:  Capture wild beast [9534]
+
+Usage:  USE 9534 <beast>
+Time:   seven days
+
+Attempt to capture rather than kill the specified beast.
+The beastmaster will charm and confuse the animal's mind,
+and so lead it to be easily caught.
+
+Once caught, the beast will become a prisoner of the
+capturing character.
+
+The beast must be located in the character's region.  The beast
+need not be immediately visible; the character will hunt for it
+if it is hiding.
+
+Capturing beasts does not always success, and can be quite
+dangerous.  Wild animals are often violent and unpredictable.
+Furthermore, they may be difficult to find when hiding.  The
+beast may fail to be enchanted by the beastmaster's charms,
+and instead attack its pursuer.
+
+-----------------------------
+
+Skill:  Win beast's mind [9535]
+
+Usage:  USE 9535 <beast>
+Time:   fourteen days
+
+Attempt to win control of the beast's mind.  The beastmaster will
+enchant the animal and learn to communicate with it.  Eventually,
+complete control of the animal will be achieved.
+
+If successful, the animal will become part of the beastmaster's
+faction, obeying orders as any other character unit would.
+Of course, beasts are not capable of all of the actions available
+to a noble.  However, they will respond to movement and combat
+commands, and will report everything a normal character would see
+in a region.
+
+Winning control of a beast's mind is a tricky, delicate task, not
+often successful.  Repeated attempts may be necessary.
+
+-----------------------------
+
+Skill:  Free prisoner [9536]
+
+Usage:  USE 9536 <character>
+Time:   seven days
+
+Attempt to free the specified noble who is being held captive.
+Stealth will be used to slip unnoticed into the enemy's camp,
+gain access to the prisoner, free him from any holding bonds
+or prison, and escape.
+
+Escape attempts are not likely to succeed if the noble is
+actively guarded.  The character attempting to free the prisoner
+risks being hurt or captured.
+
+The success of the attempt depends on stealth.  Followers will
+not aid in the rescue.
+
+The character must be in the same region as the prisoner in
+order to attempt to free him.
+
+-----------------------------
+
+Skill:  Steal prisoner [9537]
+
+Usage:  USE 9537 <character>
+Time:   seven days
+
+Attempt to steal the specified noble from the character holding
+the noble prisoner.  Stealth will be used to slip unnoticed into
+the enemy camp, gain access to the prisoner, and make off with
+him.
+
+Success is not likely if the prisoner is actively guarded.
+
+The success of the attempt depends on stealth.  Followers will
+not aid in the theft.
+
+The character must be in the same region as the prisoner to be
+stolen.
+
+-----------------------------
+Skill:  Raise peasant mob [9537]
+
+Usage:  USE @@@@
+Time:   seven days
+
+The noble gives an impassioned speech, rousing peasants and causing
+them to gather into a crowd.  New peasant crowds will set their GUARD
+flag to protect their homes from pillaging.
+
+Peasant mobs may be formed in provinces and cities.  Only one crowd
+may be raised per location.  Only when the raised mob is later killed,
+or if the peasants return to their homes, may another mob be raised
+there.
+
+-----------------------------
+
+Skill:  Rally peasants to cause [9538]
+Usage:  USE @@@@ <mob>
+Time:   seven days
+
+Deliver a firey speech to an existing crowd of peasants, causing them
+to stack with the noble.  They will remain with the noble for three
+months.
+
+Use of @@@@ on a mob already stacked with the noble will renew the
+peasants' enthusiasm, and add an additional three months to the time
+they will remain stacked, to a maximum of five months.
+
+Mobs stacked with the noble may not be given any orders, but will
+participate in any combat the noble encounters.
+
+
+-----------------------------
+
+Skill:  Rally peasants to cause [9538]
+
+Usage:  USE @@@@ <number to rally>
+Time:   seven days
+
+Give a rousing speech to a crowd of peasants, tempting them to
+enter the noble's employ.  The noble will promise exciting
+adventures, rich spoils, and certain glory to those who join him.
+
+The noble will attempt to get the specified number of peasants to
+join him as followers, without paying them a recruiting bonus.
+Once in the noble's employ, however, the peasants will require the
+ordinary maintenance costs to be paid.
+
+The skill may deliver fewer peasants than desired.
+
+[ once per region per month, by anyone ]
+
+-----------------------------
+
+Skill:  Build inn [9539]
+
+Usage:  USE 9539 "Name of inn"
+
+Requires:  workers, 30 lumber
+Time:	   150 worker-days
+
+When construction of a new inn is begun, the required lumber
+will be immediately taken from the builder's inventory and put
+to use in construction.  An inn entity will be created, and the
+builder will be placed inside.  Since the builder will occupy
+the first position within the inn, he will be its initial owner.
+
+If the builder is stacked beneath any other character, he will
+unstack before entering the new inn.  Followers of the builder
+as well as characters stacked beneath him will remain with him
+when he goes inside.
+
+To resume construction of a partially completed inn, first
+enter the inn, then issue USE 9539.
+
+Work progresses until 150 worker-days have been invested in the
+construction.
+
+A region will only support one inn.  Construction of a second inn
+in a region will not be allowed to begin.
+
+-----------------------------
+
+Skill:  Construct battering ram [9540]
+
+Usage:  USE 9540
+
+Requires:  three lumber [77]
+	   one iron [79]
+           three workers [11]
+
+Produces:  one battering ram [60]
+
+Time:      fourteen days
+
+The craftsman constructs a battering ram by selecting a large,
+heavy tree trunk, sharpening the end somewhat and plating it
+with iron, and then suspending it in a movable wooden frame
+such that it may be swung back and forth against walls or gates.
+
+The frame receives an iron plated roof to protect the operators
+from boiling oil or pitch, rocks, or other missile weapons hurled
+down upon them by the enemy.
+
+-----------------------------
+
+Skill:  Construct catapult [9541]
+
+Usage:  USE 9541
+
+Requires:  three lumber [77]
+           three workers [11]
+
+Produces:  one catapult [61]
+
+Time:      fourteen days
+
+The engineer directs the construction of a wheeled wooden frame
+containing a mechanism to supply stress to the end of a long
+wooden pole.  The pole contains a basket which may be loaded
+with stones or other missiles to be hurled against the enemy's
+walls, or over them.  A winch to lower the pole and a release
+mechanism finish the siege engine.
+
+Catapults are sometimes loaded with the bodies of the enemy's
+dead and hurled over their walls, to dishearten the besieged and
+spread disease amongst them.
+
+-----------------------------
+
+Skill:  Construct siege tower [9542]
+
+Usage:  USE 9542
+
+Requires:  three lumber [77]
+           three leather [80]
+           three workers [11]
+
+Produces:  one seige tower [62]
+
+Time:      fourteen days
+
+The engineer directs three workers to build a wooden tower,
+covered with treated leather skins or iron plating to protect
+the tower from burning.  The tower contains several ladders
+and a platform from which soldiers may attack.
+
+In battle, the tower is wheeled up against an enemy's walls
+and used by attacking soldiers to match the height of the
+defenders.  The attackers may then climb from the tower onto
+the walls.
+
+-----------------------------
+
+Skill:  Safe navigation in storms [9543]
+
+Usage:  automatic when needed
+
+This skill represents knowledge to a ship's captain of how to
+safely navigate during a storm at sea.  Sailors serving under 
+a captain with this skill need not fear capsizing or running
+aground during ocean squalls.
+
+-----------------------------
+
+Skill:  Learn character's lord [9544]
+
+Usage:  USE 9544 <character>
+Time:   seven days
+
+The specified noble is engaged in friendly, disarming
+conversation by the persuasionist.  The slippery-tongued
+skill user attempts to subvert the target's wits with crafty
+banter.  If successful, the character will accidentally
+reveal the identity of the lord he serves, often without
+even realizing the slip.
+
+Success is most probable when used in a tavern or inn, where
+the target may be found at ease and drinking ale or wine.
+Characters at large in the province are likely to be busy,
+and wary of talkative strangers.
+
+This skill fails against other persuasionists, who instantly
+recognize the veiled attempt to gain information.
+
+-----------------------------
+
+Skill:  Learn character's inventory [9545]
+
+Usage:  USE 9545 <character>
+Time:   seven days
+
+The specified noble is engaged in friendly, disarming
+conversation by the persuasionist.  The slippery-tongued
+skill user attempts to subvert the target's wits with crafty
+banter.  If successful, the character will accidentally
+reveal the contents of his inventory, often without even
+realizing the slip.  The inventory will include how much
+gold the character is carrying.
+
+Success is most probable when used in a tavern or inn, where
+the target may be found at ease and drinking ale or wine.
+Characters at large in the province are likely to be busy,
+and wary of talkative strangers.
+
+This skill fails against other persuasionists, who instantly
+recognize the veiled attempt to gain information.
+
+-----------------------------
+
+Skill:  Learn character's skills [9546]
+
+Usage:  USE 9546 <character>
+Time:   seven days
+
+The specified noble is engaged in friendly, disarming
+conversation by the persuasionist.  The slippery-tongued
+skill user attempts to subvert the target's wits with crafty
+banter.  If successful, the character will accidentally
+reveal the list of skills he knows, often without even
+realizing the slip.
+
+Success is most probable when used in a tavern or inn, where
+the target may be found at ease and drinking ale or wine.
+Characters at large in the province are likely to be busy,
+and wary of talkative strangers.
+
+This skill fails against other persuasionists, who instantly
+recognize the veiled attempt to gain information.
+
+-----------------------------
+
+Skill:  Learn secret routes from character [9547]
+
+Usage:  USE 9547 <character>
+Time:   seven days
+
+The specified noble is engaged in friendly, disarming
+conversation by the persuasionist.  The slippery-tongued
+skill user attempts to subvert the target's wits with crafty
+banter.  If successful, the character will accidentally
+reveal knowledge of any secret routes he may know, often
+without even realizing the slip.
+
+Success is most probable when used in a tavern or inn, where
+the target may be found at ease and drinking ale or wine.
+Characters at large in the province are likely to be busy,
+and wary of talkative strangers.
+
+This skill fails against other persuasionists, who instantly
+recognize the veiled attempt to gain information.
+
+-----------------------------
+
+Skill:  Breed beasts [9548]
+
+Usage:  USE 9548 <beast1> <beast2>
+Time:   fourteen days
+
+Attempt to breed the two specified beasts together.  Most wild
+beasts will produce offspring when paired with a mate of their
+own species.  Occasionally dissimilar beasts may be successfully
+crossed.  The result of such an effort is likely to be quite
+unnatural.
+
+Possession of both animals to be mated is required.
+
+Any offspring produced will be wild and untamed, but captive to
+the beastmater.
+
+-----------------------------
+
+Skill:  Extract venom from ratspider [9549]
+
+Usage:  USE 9549
+
+Required:  one ratspider
+Time:      seven days
+
+The alchemist performs a delicate operation to extract the
+highly poisonous ratspider venom.
+
+The top of the ratspider's head is removed by inserting a sharp
+knife above the head joint and twisting.  Two glands, from which
+the ratspider venom is later extracted, are removed from behind
+the mandible.
+
+Risk is minimized by taking extreme care when handling the
+ratspider.  The ratspider is killed in the process. 
+
+-----------------------------
+
+Skill:  Make potion of slavery [9550]
+
+Usage:  USE 9550
+
+Required:  one ratspider venom
+Time:      seven days
+
+The alchemist brews a potion which, when ingested by a character,
+causes that character to become a servant of the alchemist.
+The unfortunate noble will swear fealty to the alchemist and
+promise to do his bidding.
+
+The rare and highly poisonous ratspider venom is used in the
+preparation of this potion.  Upon completion, the new potion
+will be added to the alchemist's inventory.  The potion will,
+of course, be unlabeled.
+
+A character wishing to drink the potion should specify it
+to the USE order.  For instance, to drink potion [601], issue
+the order:  USE 601.
+
+-----------------------------
+
+Skill:  Brew healing potion [9551]
+
+Usage:  USE 9551
+
+Required:  avinia leaf [65]
+Time:      seven days
+
+The alchemist brews a potion of healing.  Any character
+ingesting the potion will be immediately healed of any
+wounds or other maladies.
+
+Upon completion, the potion will be added to the alchemist's
+inventory.  The potion's label will not reveal its purpose.
+
+A character wishing to drink the potion should specify it
+to the USE order.  For instance, to drink potion [602], issue
+the order:  USE 602.
+
+-----------------------------
+
+Skill:  Brew potion of death [9552]
+
+Usage:  USE 9552
+
+Required:  lana bark [64]
+Time:      ten days
+
+The alchemist brews a potion which will cause instant death
+to any character which drinks it.
+
+Upon completion, the potion will be added to the alchemist's
+inventory.  The potion's label will not reveal its sinister
+purpose.
+
+A character wishing to drink the potion should specify it
+to the USE order.  For instance, to drink potion [603], issue
+the order:  USE 603.
+
+-----------------------------
+
+Skill:  Produce blank scroll [9553]
+
+Usage:  USE 9553
+
+Required:  lana bark
+Time:      fourteen days
+
+Produces one blank magicial scroll from one unit of lana bark.
+Magical scrolls are useful to magicians, who have the ability
+to transcribe spells onto them.
+
+-----------------------------
+
+Skill:  Add ram to galley [9554]
+
+Usage:  USE 9554
+
+Requires:  three workers [11]
+           3 lumber [77]
+	   1 iron [79]
+
+Time:	   10 days
+
+A galley fitten with a ram is a most effective ocean fighting
+vessel.  The oars permit the ship to be maneuvered in battle,
+regardless of wind conditions.  The ram allows a galley to crush
+the sides of enemy ships.
+
+To use this skill, the character must enter the galley and issue
+USE 9554.  The galley will be fitted with an iron-tipped ram.
+The character need not be in control of the ship in order to
+perform the modification.
+
+-----------------------------
+
+Skill:  Make pike [9558]
+
+Usage:  USE 9558
+
+Requires:  one lumber [77]
+Produces:  one pike [75]
+Time:      three days
+
+The pike a simple weapon often used by unskilled soliders, but
+nevertheless effective at impaling enemeies or unseating horsemen
+when used by coordinated groups of men.
+
+-----------------------------
+
+Skill:  Make longsword [9559]
+
+Usage:  USE 9559
+
+Requires:  one iron [79]
+Produces:  one longsword [74]
+Time:      seven days
+
+The longsword is a common weapon among soldiers and mercenaries.
+Iron is heated over a forge and hammered by the craftsman into
+shape.  The blade is quenched in cold water, and the edge sharpened
+on a smooth stone wheel.
+
+-----------------------------
+
+Skill:  Make plate armor [9560]
+
+Usage:  USE 9560
+
+Requires:  three iron [79]
+Produces:  one plate armor [73]
+Time:      fourteen days
+
+The most effective defensive covering, plate armor is fashioned
+from iron sheets cut and folded to form a protective suit.
+
+-----------------------------
+
+Skill:  Make longbow [9561]
+
+Usage:  USE 9561
+
+Requires:  one yew [68]
+Produces:  one longbow [72]
+Time:      twelve days
+
+Longbows are fashioned from long strips of yew wood cut, smoothed,
+warped and then glued together.  True to their name, longbows may
+be taller than the archers who use them.
+
+-----------------------------
+
+Skill:  Prepare for raid [9571]
+
+Usage:  USE 9571 <target>
+
+This skill improves the chances that a stealth raid, such as
+a theft, kidnapping, or assasination, will succeed.  The target
+specified is closely studied and spied upon.  Information is
+gathered which is useful during a raid, such as defensive
+tactics of the target, daily patterns, and state of preparedness.
+
+This skill may only be used on one target at a time, and only
+once per month.
+
+The raid must be launched by the end of the month following the
+last use of [9571], or the benefits are lost.
+
+The character runs a 5% risk of being caught spying on the enemy
+for each use of [9571].  The first use improves the chances of
+a successful raid by 10%.  The second, by a further 8%.  The third,
+by another 6%.
+
+Further uses give no added benefit, although the state of readiness
+will be maintained.  For example, if a character spent three months
+using [9571] to prepare for a raid during the fourth month, but
+decided for some reason to postpone the raid one month, it would
+be wise to use [9571] again to maintain the 24% bonus.  Otherwise
+it would be lost.
+
+The target must be present to be spied upon.
+
+-----------------------------
+
+#Skill:  Record skill on scroll [9573]
+#
+Usage:  USE @@@@ <skill>
+
+Requires:  blank scroll [84]
+Time:      seven or more days
+
+Record the given skill on a blank scroll.  The blank scroll will be
+consumed, and a new unique scroll will be produced.  The new scroll
+will allow one character to learn the skill.
+
+Example:
+
+    USE @@@@ nnnn     # make a one-time study scroll for skill nnnn
+
+Magical skills may not be scribed with this skill.
+
+The skill must be known in order to be written.  If the skill is
+rated for experience, a level of "adept" or higher is required to
+record the skill.  The character will still know the skill after
+writing it.
+
+This skill requires as much time to cast as the skill takes to learn.
+Writing a skill which requires two weeks of study to learn will take
+two weeks.
+
+-----------------------------
+
+
+Work crowds to earn money
+	Gambling
+	Street performing
+	Juggling
+	Wandering minstrel
+	Pickpocketing
+	Assess richest unit in province
+
+Crafts
+	Weave cloth
+	Make fine cloak
+	Make sails
+	Brew ale
+
+	carve wooden bull (for alchemy animation)
+	carve statue of bull / lion / harpie
+
+Forestry / Agrarian / Herbalist / Elf tech / Druid
+	Skill:  Collect rare foliage
+
+	Hard to spot in forests
+	Combat advantage in forests
+
+	Skill:  Grow pipeweed
+	Plant avinia seeds
+
+Mining
+	Skill:  Collect rare elements
+	Skill:  Repair mine
+
+		stone	  |
+		iron	  | deeper
+		gold	  V
+			random chance: gate crystal
+		mithril		 
+		balrog!
+			links to mines in nearby provinces?
+			links to city sewers?
+
+	Dig for artifacts
+
+Emperor
+	Skill:  Recruit imperial soldiers
+	Skill:  Train imperial soldier to imperial guard
+
+	get different factions to support you
+	appoint council members
+	imperial decree
+	set imperial tax rate
+	view region
+	locate character
+	access to imperial palace
+	demand one of any item
+	make skill illegal
+	declare festival
+
+	System of warehouses and caverns -- some way of searching the
+		vast stores for useful items
+
+Religion
+	Zol, god of Olympia
+		angered by breeding of beasts
+		angered by necromancy
+		appeased by sacrifice command:
+			gold
+			beast
+			human
+			noble
+		followers protected from attacks by wild beasts
+		displeased if necromancer in same faction
+		makes random requests:
+			sacrifice follower noble
+			travel to city X and make offering
+
+	temples to Zol:
+		Consecrate temple
+		builders can charge admission
+
+	Prophecy arrivals to this location
+
+	gifts to the dead
+	will of the people
+	collect money from peasants
+	fry enemy in return for god's request
+	god locates artifact
+	grants knowledge of asked for lore sheet
+	persuade character to renounce magic and study religion
+		Osswid preaches to Feasel about the evils of Illusion.
+		Osswid preaches to Feasel about the wonders of Religion.
+		Feasel has renounced knowledge of Illusion and adopted
+		the study of Religion!
+		Feasel forgets Illusion [162]
+		Feasel forgets Scry region [9141]
+	persuade religious convert to switch factions
+
+Persuasion
+	speak against current ruler
+	speak for current ruler
+	denounce use of a skill -- peasants may attack those who practice it
+
+Shipcraft
+	Improve ship's rigging
+	Improve ship defenses
+	Naval combat tactics
+	Navigation
+	Increase ship's defenses
+		add a ram
+		iron-plating
+		fireproof the deck
+
+Combat
+	Military leadership -- lead well troops in battle
+
+	various tactics one learns from lost combats
+		Prevent routs in battle
+		Art of surprise
+		Strategic reserve
+		Improve morale of soldiers
+		Naval combat tactics
+		Encirclement
+		Stealth in combat
+	duel -- joust -- arena combat -- challenge
+	archery swordplay melee tactics
+
+Construction
+	an inn:
+		The Hooting Owl [2038], inn, 5 gold to enter
+		The Hooting Owl [2038], inn, fee: 5
+		Healing takes place at twice normal rate in an inn
+
+		Random chance to hear
+			of monsters in the outlying province
+			of large armies moving in adjacent provinces
+			of individuals with large amounts of cash
+
+		Boon to characters skilled in persuasion
+
+		Requires ale, pipeweed, else inn damage increases
+		Income from locals who come to visit
+		Theivery inhibited in the inn
+
+	fortify structure
+		improve city gates
+		construct defensive trenches & ditches
+		use alchemist's strong mortar
+		fireproof vulnerable areas
+
+	build mechanical wings (cloth)
+
+Beastmastery
+	Skill:  Breed horses
+	Skill:  Breed oxen
+	Skill:  Slaughter ox
+
+	convert beast (into something horrible)
+	take form of beast (illusion?)
+
+Stealth
+	sneak through guarded route
+	follow character
+	pretend to leave for X (but instead go to Y?) (see if anyone "follows")
+
+	Skill:  Work at pickpocketing
+	Skill:  Inquire as to character's whereabouts
+	Skill:  Track character
+	Skill:  Start fire in structure
+
+Alchemy
+		Not directly associated with magical fields of study,
+		alchemy is its own cross of medieval chemistry, healing
+		and transmutation.
+
+	Skill:  Transmute ? into gold
+	Skill:  Make cobalt fire powder
+	Skill:  Make orange powder
+
+	Collect rare foliage
+	Seek and collect rare elements
+	Animate wood into beast (get likeness from a craftsman?)
+	Transmute stone into wood
+	Petrify wood into stone
+
+	Make fireproof wood|tar|glue|paint
+	Make strong mortar
+	Make potion of invisibility?
+	Poison captive oxen and horses
+	Convert pipeweed to ... (or make X from pipeweed)
+
+	skills should use ingredients from the herbalist
+
+Trade
+	find out of the way market
+	attempt to purchase item
+	attempt to sell item
+	locate market where x is sold
+	locate seller for x
+	locate buyer for x
+	assess x's value
+
+	invest money
+	lend money
+
+	Perhaps just start out with no markets at all, and implement
+	the TRADE command for player-player trades.
+
+	markets should be 100% player driven
+
+		buy item qty max-price
+		sell item qty min-price
+
+	Buys are resolved at the end of the turn
+	Sells operate for the following turn
+
+	Only allow to happen in cities?  Markets?
+
+	item	offered		wanted		low	high
+	----	-------		------		---	----
+
+	horse	10		15		100	150
+	sword	none		10		 -	 -
+	shield	5		none		 -	 -
+
+	trade mechanism
+
+		trade who item qty item qty
+		trade 501 gold 500 horse 10
+
+----------------------------------
+
+temples, religion
+	god hates x, likes y
+	followers must enforce rules on others?
+
+hostile entity first in a loc will automatically keep others out
+loc tag:  defensible or not
+	faery hill no, cities yes
+
+build castle in location?
+walls around city additive for defense...
+no defensive bonus if attacking from within a structure
+
+places of power
+	increased aura in magical locations
+	map lines of aural power
+	cragtop
+	circle of stones
+	aural spring/well
+
+Faery forest, valley, hills
+	always hidden, found through exploration
+	entering causes random strange things to happen
+
+mag rules section mentioning the alchemist, herbalist as a source for
+many ingredients
+
+limit to categories one may know?
+
+make guilds be subloc towers that teach
+	special spell to pass through guild barrier?
+
+how to increase rating?
+
+--------------
+
+wandering oracle
+	unattackable -- vanishes if attacked
+	randomly teleports to region with few people each turn
+	gives random info in return for gold
+		nearest unfound artifact location
+		random lore sheet
+
+Faery hills, valley, forest
+	hidden sublocations found with explore
+	character in Faery subject to random actions:
+		victim of the Faery hunt, a tough band of attackers
+		disappear for a month
+		teleported to a random location
+	faery sublocations move each turn?
+	faery king's court
+		can only go to once
+		only one at a time
+		may purchase rare items from the faeries
+
+	opportunity to collect rare ingredients
+
+The Seven Worlds of Olympia
+	Land and Sea
+	Underground
+	Beneath the sea (undersea realm)
+	Hades, the underworld
+	Non-corporeal plane
+	Olympia's moon
+	Faery
+
+Slaves:
+-------
+	escape from time to time
+	escapes reduced by including a few soldiers
+
+avinia leaves
+spiny root
+farrenstone
+pretus bones
+mallorn wood
+lana bark
+
+cobalt fire powder
+avinia seeds
+morrow root / norrus root
+dragonroot
+Ilian spiny root
+shril bark
+snake stone
+vitriol
+ratspider venom
+lana bark
+
+manege: 1. a school for teaching horsemanship and for training horses
+	2. the art of horsemanship or of training horses
+
+Beasts:
+
+rat
+giant spider
+lion
+harpie
+
+	rat + spider		= ratspider
+	man + lion		= harpie
+	man + horse		= centaur
+	man + lizard		= gorgon
+	man + dog		= scylla (?)
+	man + ox		= minotaur
+	horse + eagle		= pegasus
+	lion + lizard +	goat	= chimera
+	lizard + vulture	= dragon
+	pegasus + dragon	= nazgul
+	man + jackal		= orc
+
+	----
+	man + goat		= pan, giles goat-boy
+
+
+horse		centaur		nazgul
+vulture		pegasus
+		dragon
+
+	man		centaur-	nazgul+
+	horse-		gorgon
+	jackal		minotaur
+	goat		pegasus+
+	lizard		dragon+
+	ox		orc
+	vulture		chimera
+	lion		ratspider
+	giant spider
+	rat
+
+	giant bird
+		take place of vulture, eagle
+
+	must limit # of giant birds in world
+	so flying things don't become too common.
+
+	chance that beasts die in the attempt (5%?)
+
+
+Capture beast unit
+	see what happens to associated members in a unit when it it taken
+	perhaps some new configuration of can't capture
+	or simply -- allow capture?
+
+Breed beasts
+	5% chance beasts die
+
+	breed n m [o]
+
+Form beast unit
+	requires 1 NP
+
+
+Construction
+	Improve city sewers
+		somehow allow a network or maze of sewer
+		locations to be constructed underneath the city
+
+Stealth:  sneak into stack
+Observation counter: search stack for spies
+
+Siege tower idea:  each tower reduces 1/3 of the locs defenses
+	but towers of same kind are not additive; need all
+	three for 100% efficiency
+
+
+Perhaps a Stealth use:
+
+	Prepare for raid
+
+		Increases the chance that a theft, kidnapping or
+		assasination will succeed.
+
+		Chance increased is 10% the first use, 8% the
+		second, and 6% the third.  No added benfit is
+		gained after the third use of the skill, although
+		the state of enhance preparation will be maintained.
+
+		Only one use per month.
+
+		If a month elapses without a raid or further preparation,
+		the benefit of Prepare for raid is lost.
+
+		However, there is a 5% chance of detection with
+		each use of Prepare for raid.
+
+
+Teaching plan:
+
+	Offer shipcraft
+	Offer combat
+	Offer stealth
+	Offer beastmastery
+	Offer persuasion
+	Offer construction
+	Offer alchemy
+	Offer weaponsmithing
+	Offer forestry
+	Offer mining
+
+	Author book ?
+
+Offer mining [] will add a mining skill use to the list
+of skills which a mining guild offers.
+
+A guild may only offer skills within the same skill
+family.  The skill school must be offered by the guild
+before any subskill can be added.
+
+For instance, Offer mining must first be used on skill
+129 before any of the mining subskill can be added to
+the guild.
+
+gold generating skill for every category
+alchemy: turn lead into gold
+
+Fishing skill: earn money from boats
+
+Turn gold into mithril
+	require 2 other rare objects
+	100 gold makes 3 mithril?
+
+
+
+stealth/persuade double cross?
+
+for persuasions, use the diminishing returns per turn thing
+
+Alchemy:  Produce blank skill book
+
+Guildmastering
+	Initiate guild
+	Add skill to guild offerings
+		(require teach level of skill?)
+	Initiate magical guild
+	Add spell to guild offerings
+	Author book (?)
+		(require master level?)
+		use-only book?
+		don't permit category knowledge?
+
+Teach shipcraft
+Teach necromancy
+Teach artifact construction
+Teach magic
+Teach combat
+
+	Add skill to tower teach list
+	set fee for skill
+
+	add skill (skill, fee)
+
+	use nnnn sk fee		# offer skill for fee
+	use nnnn sk		# unoffer this skill
+	use nnnn		# unoffer all skills
+
+
+Command beasts in battle
+
+Make poison take a while to work
+Make poison antidote potion
+Make heal potion only work for 25 points
+Perhaps magical heal should be proportional to aura invested
+
+Hunting skill: gen fur, meat to sell
+
+
+Found:
+	3NP
+	noble can only found once in a lifetime
+	100 peasants
+	n gold
+
+Artifact idea: stone of seeing
+	lets one see a province, if it's discarded there
+
+Make an entertaining/street performing skill
+

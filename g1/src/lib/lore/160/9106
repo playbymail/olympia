@@ -1,0 +1,17 @@
+#Spell:  Speed casting of next spell [9106]
+#
+Usage: USE @@@@ <amount>
+
+Required aura:  amount as specified above
+Required item:
+Time to cast:   four days
+
+The mage trades aura for time.  The time necessary to cast
+the next spell will be reduced by the amount of aura invested
+in the cast of [@@@@].
+
+For example, a mage who issued USE @@@@ 5 would lose five current
+aura points.  Whatever spell the mage casts next will take five days
+less than it normally would.
+
+Uses of @@@@ are additive.
