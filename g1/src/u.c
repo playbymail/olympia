@@ -8,6 +8,8 @@
  *  u.c -- the useful function junkyard
  */
 
+static int sub_item(int who, int item, int qty);
+
 
 void
 kill_stack_ocean(int who)
@@ -489,7 +491,6 @@ restore_dead_body(int owner, int who)
 	struct entity_misc *pm;
 	struct entity_item *pi;
 	struct entity_char *pc;
-	static int sub_item();
 
 	log(LOG_CODE, "dead body revived: who=%s, owner=%s, player=%s",
 			box_code_less(who),
