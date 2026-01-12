@@ -49,6 +49,25 @@ target_include_directories(mapgen-g2 PRIVATE g2/mapgen/)
 target_compile_options(mapgen-g2 PRIVATE ${G2_C_FLAGS})
 target_compile_definitions(mapgen-g2 PRIVATE NEW_TRADE)
 
+add_executable(shuffle-g2
+        g2/mapgen/shuffle.c
+        g2/mapgen/rnd.c
+        g2/mapgen/z.c g2/mapgen/z.h
+)
+target_include_directories(shuffle-g2 PRIVATE g2/mapgen/)
+target_compile_options(shuffle-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(count-g2 g2/mapgen/count.c)
+target_compile_options(count-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(pick-g2
+        g2/mapgen/pick.c
+        g2/mapgen/rnd.c
+        g2/mapgen/z.c g2/mapgen/z.h
+)
+target_include_directories(pick-g2 PRIVATE g2/mapgen/)
+target_compile_options(pick-g2 PRIVATE ${G2_C_FLAGS})
+
 # ------------------------------------------------------------------------------
 # G3 mapgen
 # ------------------------------------------------------------------------------
