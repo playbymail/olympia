@@ -27,15 +27,15 @@ target_include_directories(mapgen-g1 PRIVATE g1/mapgen/)
 target_compile_options(mapgen-g1 PRIVATE ${G1_C_FLAGS})
 target_compile_definitions(mapgen-g1 PRIVATE NEW_TRADE)
 
+add_executable(count-g1 g1/mapgen/count.c)
+target_compile_options(count-g1 PRIVATE ${G1_C_FLAGS})
+
 add_executable(shuffle-g1
         g1/mapgen/shuffle.c
         g1/mapgen/z.c g1/mapgen/z.h
 )
 target_include_directories(shuffle-g1 PRIVATE g1/mapgen/)
 target_compile_options(shuffle-g1 PRIVATE ${G1_C_FLAGS})
-
-add_executable(count-g1 g1/mapgen/count.c)
-target_compile_options(count-g1 PRIVATE ${G1_C_FLAGS})
 
 # ------------------------------------------------------------------------------
 # G1 cmd utilities
@@ -99,14 +99,6 @@ target_include_directories(mapgen-g2 PRIVATE g2/mapgen/)
 target_compile_options(mapgen-g2 PRIVATE ${G2_C_FLAGS})
 target_compile_definitions(mapgen-g2 PRIVATE NEW_TRADE)
 
-add_executable(shuffle-g2
-        g2/mapgen/shuffle.c
-        g2/mapgen/rnd.c
-        g2/mapgen/z.c g2/mapgen/z.h
-)
-target_include_directories(shuffle-g2 PRIVATE g2/mapgen/)
-target_compile_options(shuffle-g2 PRIVATE ${G2_C_FLAGS})
-
 add_executable(count-g2 g2/mapgen/count.c)
 target_compile_options(count-g2 PRIVATE ${G2_C_FLAGS})
 
@@ -117,6 +109,22 @@ add_executable(pick-g2
 )
 target_include_directories(pick-g2 PRIVATE g2/mapgen/)
 target_compile_options(pick-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(shuffle-g2
+        g2/mapgen/shuffle.c
+        g2/mapgen/rnd.c
+        g2/mapgen/z.c g2/mapgen/z.h
+)
+target_include_directories(shuffle-g2 PRIVATE g2/mapgen/)
+target_compile_options(shuffle-g2 PRIVATE ${G2_C_FLAGS})
+
+add_executable(j-g2
+        g2/mapgen/j.c
+        g2/mapgen/rnd.c
+        g2/mapgen/z.c g2/mapgen/z.h
+)
+target_include_directories(j-g2 PRIVATE g2/mapgen/)
+target_compile_options(j-g2 PRIVATE ${G2_C_FLAGS})
 
 # ------------------------------------------------------------------------------
 # G2 cmd utilities
@@ -166,6 +174,12 @@ target_compile_options(u-g2 PRIVATE ${G2_C_FLAGS})
 
 add_executable(v-g2 g2/cmd/v.c)
 target_compile_options(v-g2 PRIVATE ${G2_C_FLAGS})
+
+# ------------------------------------------------------------------------------
+# G2 doc utilities
+# ------------------------------------------------------------------------------
+add_executable(toc-g2 g2/doc/toc.c)
+target_compile_options(toc-g2 PRIVATE ${G2_C_FLAGS})
 
 # ------------------------------------------------------------------------------
 # G3 mapgen
