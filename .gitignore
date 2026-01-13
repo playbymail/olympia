@@ -11,3 +11,8 @@
 .vscode/
 /build
 /cmake-build-debug
+
+# Manual test run outputs (generated files)
+/run/g1/mapgen/gate
+/run/g1/mapgen/loc
+/run/g1/mapgen/road

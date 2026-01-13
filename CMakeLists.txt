@@ -19,12 +19,26 @@ set(G3_C_FLAGS -Wno-error -Wno-implicit-function-declaration -Wno-return-mismatc
 # ------------------------------------------------------------------------------
 # G1 mapgen
 # ------------------------------------------------------------------------------
+
+# Strict compiler flags for refactored code
+set(G1_STRICT_FLAGS
+    -Wall
+    -Wextra
+    -Wshadow
+    -Wconversion
+    -Wsign-conversion
+    -Wformat=2
+    -Werror
+)
+
 add_executable(mapgen-g1
         g1/mapgen/mapgen.c
         g1/mapgen/z.c g1/mapgen/z.h
+        g1/mapgen/compat.c
+        g1/mapgen/compat.h
 )
 target_include_directories(mapgen-g1 PRIVATE g1/mapgen/)
-target_compile_options(mapgen-g1 PRIVATE ${G1_C_FLAGS})
+target_compile_options(mapgen-g1 PRIVATE ${G1_STRICT_FLAGS})
 target_compile_definitions(mapgen-g1 PRIVATE NEW_TRADE)
 
 add_executable(count-g1 g1/mapgen/count.c)
@@ -380,3 +394,8 @@ else ()
     message(STATUS "texi2any not found - tag-doc targets will not be available")
 endif ()
 
+# ------------------------------------------------------------------------------
+# Testing
+# ------------------------------------------------------------------------------
+enable_testing()
+add_subdirectory(tests)

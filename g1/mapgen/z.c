@@ -1,34 +1,36 @@
-
+#include <stdlib.h>
+#include <string.h>
 #include	<stdio.h>
+#include <time.h>
+#include <unistd.h>
+#include <assert.h>
+
 #include	"z.h"
 
 
 void *
-my_malloc(unsigned size)
+my_malloc(size_t size)
 {
 	char *p;
-	extern char *malloc();
 
 	p = malloc(size);
 
 	if (p == NULL) {
 		fprintf(stderr, "my_malloc: out of memory (can't malloc "
-				"%d bytes)\n", size);
+				"%ld bytes)\n", size);
 		exit(1);
-	}
+    }
 
-	bzero(p, size);
+    bzero(p, size);
 
-	return p;
+    return p;
 }
 
 
 void *
-my_realloc(void *ptr, unsigned size)
+my_realloc(void *ptr, size_t size)
 {
 	char *p;
-	extern char *realloc();
-	extern char *malloc();
 
 	if (ptr == NULL)
 		p = malloc(size);
@@ -37,11 +39,11 @@ my_realloc(void *ptr, unsigned size)
 
 	if (p == NULL) {
 		fprintf(stderr, "my_realloc: out of memory (can't realloc "
-				"%d bytes)\n", size);
+				"%ld bytes)\n", size);
 		exit(1);
-	}
+    }
 
-	return p;
+    return p;
 }
 
 
@@ -53,33 +55,29 @@ str_save(char *s)
 	p = my_malloc(strlen(s) + 1);
 	strcpy(p, s);
 
-	return p;
+    return p;
 }
 
 
 void
-asfail(file, line, cond)
-char *file;
-int line;
-char *cond;
+asfail(char *file, int line, char *cond)
 {
 	fprintf(stderr, "assertion failure: %s (%d): %s\n",
 						file, line, cond);
-	abort();
-	exit(1);
+    abort();
+    exit(1);
 }
 
 
 void
-lcase(s)
-char *s;
+lcase(char *s)
 {
 
 	while (*s)
 	{
 		*s = tolower(*s);
-		s++;
-	}
+        s++;
+    }
 }
 
 
@@ -94,23 +92,23 @@ char *
 getlin(FILE *fp)
 {
 	static char *buf = NULL;
-	static unsigned int size = 0;
-	int len;
+	static size_t size = 0;
+	size_t len;
 	int c;
 
-	len = 0;
+    len = 0;
 
-	while ((c = fgetc(fp)) != EOF)
-	{
-		if (len + 1 >= size)
-		{
-			size += GETLIN_ALLOC;
-			buf = my_realloc(buf, size);
-		}
+    while ((c = fgetc(fp)) != EOF)
+    {
+        if (len + 1 >= size)
+        {
+            size += GETLIN_ALLOC;
+            buf = my_realloc(buf, size);
+        }
 
-		if (c == '\n')
-		{
-			buf[len] = '\0';
+        if (c == '\n')
+        {
+            buf[len] = '\0';
 			return buf;
 		}
 
@@ -118,11 +116,11 @@ getlin(FILE *fp)
 	}
 
 	if (len == 0)
-		return NULL;
+        return NULL;
 
-	buf[len] = '\0';
+    buf[len] = '\0';
 
-	return buf;
+    return buf;
 }
 
 
@@ -152,23 +150,21 @@ getlin_ew(FILE *fp)
 			*p = '\0';
 			p--;
 		}
-	}
+    }
 
-	return line;
+    return line;
 }
 
 
 #define	COPY_LEN	1024
 
 void
-copy_fp(a, b)
-FILE *a;
-FILE *b;
+copy_fp(FILE *a, FILE *b)
 {
 	char buf[COPY_LEN];
 
-	while (fgets(buf, COPY_LEN, a) != NULL)
-		fputs(buf, b);
+    while (fgets(buf, COPY_LEN, a) != NULL)
+        fputs(buf, b);
 }
 
 
@@ -199,7 +195,7 @@ i_strncmp(char *s, char *t, int n)
 		a = tolower(*s);
 		b = tolower(*t);
 		if (a != b)
-			return a - b;
+            return a - b;
 		s++;
 		t++;
 		n--;
@@ -216,14 +212,27 @@ unsigned short seed[3];
 void
 init_random()
 {
-	long l;
+    long l;
 
+    for (l = 0; l < 3; l++)
+	{
+		char variable[128];
+		sprintf(variable, "G1_SEED_%ld", l + 1);
+		char *value = getenv(variable);
+		if (value == NULL)
+		{
+			seed[l] = 0;
+		} else
+		{
+			seed[l] = (unsigned short)atoi(value);
+		}
+	}
 	if (seed[0] == 0 && seed[1] == 0 && seed[2] == 0)
 	{
 		l = time(NULL);
 		seed[0] = l & 0xFFFF;
-		seed[1] = getpid();
-		seed[2] = l >> 16;
+		seed[1] = (unsigned short)getpid();
+		seed[2] = (unsigned short)(l >> 16);
 	}
 }
 
@@ -231,8 +240,6 @@ init_random()
 int
 rnd(int low, int high)
 {
-	extern double erand48();
-
 	return (int) (erand48(seed) * (high - low + 1) + low);
 }
 
@@ -258,17 +265,17 @@ int high;
 void
 test_random()
 {
-	int i;
+    int i;
 
-	if (isatty(1))
-	    for (i = 0; i < 10; i++)
-		printf("%3d  %3d  %3d  %3d  %3d  %3d  %3d  %3d  %3d  %3d\n",
-			rnd(1, 10), rnd(1, 10), rnd(1, 10), rnd(1, 10),
-			rnd(1, 10), rnd(1, 10), rnd(1, 10), rnd(1, 10),
-			rnd(1, 10), rnd(1, 10));
-	else
-	    for (i = 0; i < 100; i++)
-		printf("%d\n", rnd(1, 10));
+    if (isatty(1))
+        for (i = 0; i < 10; i++)
+            printf("%3d  %3d  %3d  %3d  %3d  %3d  %3d  %3d  %3d  %3d\n",
+                   rnd(1, 10), rnd(1, 10), rnd(1, 10), rnd(1, 10),
+                   rnd(1, 10), rnd(1, 10), rnd(1, 10), rnd(1, 10),
+                   rnd(1, 10), rnd(1, 10));
+    else
+        for (i = 0; i < 100; i++)
+            printf("%d\n", rnd(1, 10));
 
 	for (i = -10; i >= -16; i--)
 		printf("rnd(%d, %d) == %d\n", -3, i, rnd(-3, i));
@@ -288,16 +295,16 @@ test_random()
  */
 
 void
-ilist_append(ilist *l, int n)
+ilist_append(ilist *l, intptr_t n)
 {
-	int *base;
+	intptr_t *base;
 
 	if (*l == NULL)
 	{
-		base = my_malloc(sizeof(**l) * ILIST_ALLOC);
-		base[1] = ILIST_ALLOC;
+        base = my_malloc(sizeof(**l) * ILIST_ALLOC);
+        base[1] = ILIST_ALLOC;
 
-		*l = &base[2];
+        *l = &base[2];
 	}
 	else
 	{
@@ -305,10 +312,10 @@ ilist_append(ilist *l, int n)
 		assert(&base[2] == *l);
 
 		if (base[0] + 2 >= base[1])
-		{
-			base[1] *= 2;
-			base = my_realloc(base, base[1] * sizeof(*base));
-			*l = &base[2];
+        {
+            base[1] *= 2;
+            base = my_realloc(base, (size_t)base[1] * sizeof(*base));
+            *l = &base[2];
 		}
 	}
 
@@ -318,17 +325,17 @@ ilist_append(ilist *l, int n)
 
 
 void
-ilist_prepend(ilist *l, int n)
+ilist_prepend(ilist *l, intptr_t n)
 {
-	int *base;
-	int i;
+	intptr_t *base;
+	size_t i;
 
 	if (*l == NULL)
-	{
-		base = my_malloc(sizeof(**l) * ILIST_ALLOC);
-		base[1] = ILIST_ALLOC;
+    {
+        base = my_malloc(sizeof(**l) * ILIST_ALLOC);
+        base[1] = ILIST_ALLOC;
 
-		*l = &base[2];
+        *l = &base[2];
 	}
 	else
 	{
@@ -336,15 +343,15 @@ ilist_prepend(ilist *l, int n)
 		assert(&base[2] == *l);
 
 		if (base[0] + 2 >= base[1])
-		{
-			base[1] *= 2;
-			base = my_realloc(base, base[1] * sizeof(*base));
-			*l = &base[2];
-		}
+        {
+            base[1] *= 2;
+            base = my_realloc(base, (size_t)base[1] * sizeof(*base));
+            *l = &base[2];
+        }
 	}
 
 	base[0]++;
-	for (i = base[0]+1; i > 2; i--)
+	for (i = (size_t)base[0]+1; i > 2; i--)
 		base[i] = base[i-1];
 	base[2] = n;
 }
@@ -353,7 +360,7 @@ ilist_prepend(ilist *l, int n)
 void
 ilist_delete(ilist *l, int i)
 {
-	int *base;
+	intptr_t *base;
 	int j;
 
 	assert(i >= 0 && i < ilist_len(*l));		/* bounds check */
@@ -369,7 +376,7 @@ ilist_delete(ilist *l, int i)
 void
 ilist_clear(ilist *l)
 {
-	int *base;
+	intptr_t *base;
 
 	if (*l != NULL)
 	{
@@ -382,7 +389,7 @@ ilist_clear(ilist *l)
 void
 ilist_reclaim(ilist *l)
 {
-	int *base;
+	intptr_t *base;
 
 	if (*l != NULL)
 	{
@@ -394,41 +401,40 @@ ilist_reclaim(ilist *l)
 
 
 int
-ilist_lookup(ilist l, int n)
+ilist_lookup(ilist l, intptr_t n)
 {
-	int i;
+    int i;
 
-	if (l == NULL)
-		return -1;
+    if (l == NULL)
+        return -1;
 
-	for (i = 0; i < ilist_len(l); i++)
-		if (l[i] == n)
-			return i;
+    for (i = 0; i < ilist_len(l); i++)
+        if (l[i] == n)
+            return i;
 
-	return -1;
+    return -1;
 }
 
 
 void
-ilist_rem_value(ilist *l, int n)
+ilist_rem_value(ilist *l, intptr_t n)
 {
 	int i;
-	int ret = FALSE;
 
-	for (i = 0; i < ilist_len(*l); i++)
-		if ((*l)[i] == n)
-		{
-			ilist_delete(l, i);
-			i--;
-		}
+    for (i = 0; i < ilist_len(*l); i++)
+        if ((*l)[i] == n)
+        {
+            ilist_delete(l, i);
+            i--;
+        }
 }
 
 
 ilist
 ilist_copy(ilist l)
 {
-	int *base;
-	int *copy_base;
+	intptr_t *base;
+	intptr_t *copy_base;
 
 	if (l == NULL)
 		return NULL;
@@ -436,22 +442,22 @@ ilist_copy(ilist l)
 	base = l-2;
 	assert(&base[2] == l);
 
-	copy_base = my_malloc(base[1] * sizeof(*base));
-	bcopy(base, copy_base, (base[0] + 2) * sizeof(*base));
+	copy_base = my_malloc((size_t)base[1] * sizeof(*base));
+    bcopy(base, copy_base, ((size_t)base[0] + 2) * sizeof(*base));
 
-	return &copy_base[2];
+    return &copy_base[2];
 }
 
 
 void
 ilist_scramble(ilist l)
 {
-        int i;
-        int tmp;
-        int one, two;
-        int len;
+    int i;
+    intptr_t tmp;
+    int one, two;
+    int len;
 
-        len = ilist_len(l);
+    len = ilist_len(l);
 
         for (i = 0; i < len * 2; i++)
         {
@@ -460,31 +466,31 @@ ilist_scramble(ilist l)
 
                 tmp = l[one];
                 l[one] = l[two];
-                l[two] = tmp;
-        }
+        l[two] = tmp;
+    }
 }
 
-
+void
 ilist_test()
 {
-	int i;
-	ilist x;
-	ilist y;
+    int i;
+    ilist x;
+    ilist y;
 
-	setbuf(stdout, NULL);
-	bzero(&x, sizeof(x));
+    setbuf(stdout, NULL);
+    bzero(&x, sizeof(x));
 
-	printf("len = %d\n", ilist_len(x));
+    printf("len = %d\n", ilist_len(x));
 
-	for (i = 0; i < 100; i++)
-		ilist_append(&x, i);
+    for (i = 0; i < 100; i++)
+        ilist_append(&x, i);
 
-	assert(x[ilist_len(x)-1] == 99);
+    assert(x[ilist_len(x)-1] == 99);
 
-	printf("len = %d\n", ilist_len(x));
-	for (i = 0; i < ilist_len(x); i++)
-		printf("%d ", x[i]);
-	printf("\n");
+    printf("len = %d\n", ilist_len(x));
+    for (i = 0; i < ilist_len(x); i++)
+        printf("%d ", (int)x[i]);
+    printf("\n");
 
 	for (i = 900; i < 1000; i++)
 	{
@@ -493,41 +499,41 @@ ilist_test()
 			fprintf(stderr, "fail: i = %d\n", i);
 	}
 
-	printf("len = %d\n", ilist_len(x));
-	for (i = 0; i < ilist_len(x); i++)
-		printf("%d ", x[i]);
-	printf("\n");
+    printf("len = %d\n", ilist_len(x));
+    for (i = 0; i < ilist_len(x); i++)
+        printf("%d ", (int)x[i]);
+    printf("\n");
 
-	ilist_delete(&x, 100);
+    ilist_delete(&x, 100);
 
-	printf("len = %d\n", ilist_len(x));
-	for (i = 0; i < ilist_len(x); i++)
-		printf("%d ", x[i]);
-	printf("\n");
+    printf("len = %d\n", ilist_len(x));
+    for (i = 0; i < ilist_len(x); i++)
+        printf("%d ", (int)x[i]);
+    printf("\n");
 
-	printf("len before = %d\n", ilist_len(x));
-	ilist_append(&x, 15);
-	printf("len after = %d\n", ilist_len(x));
-	printf("x[0] = %d\n", x[0]);
+    printf("len before = %d\n", ilist_len(x));
+    ilist_append(&x, 15);
+    printf("len after = %d\n", ilist_len(x));
+    printf("x[0] = %d\n", (int)x[0]);
 
-	printf("ilist_lookup(998) == %d\n", ilist_lookup(x, 998));
+    printf("ilist_lookup(998) == %d\n", ilist_lookup(x, 998));
 
-	y = ilist_copy(x);
-	assert(ilist_len(x) == ilist_len(y));
-	for (i = 0; i < ilist_len(x); i++)
-	{
-		assert(&x[i] != &y[i]);
-		if (x[i] != y[i])
-		{
-			fprintf(stderr, "[%d] different\n", i);
-			assert(FALSE);
-		}
-	}
+    y = ilist_copy(x);
+    assert(ilist_len(x) == ilist_len(y));
+    for (i = 0; i < ilist_len(x); i++)
+    {
+        assert(&x[i] != &y[i]);
+        if (x[i] != y[i])
+        {
+            fprintf(stderr, "[%d] different\n", i);
+            assert(FALSE);
+        }
+    }
 
-	printf("ilist_lookup(998) == %d\n", ilist_lookup(x, 998));
+    printf("ilist_lookup(998) == %d\n", ilist_lookup(x, 998));
 
-	ilist_clear(&x);
-	assert(ilist_len(x) == 0);
+    ilist_clear(&x);
+    assert(ilist_len(x) == 0);
 }
 
 
@@ -545,15 +551,15 @@ read_file(char *name)
 {
 	int fd;
 	int i;
-	int n;
+    int n;
 
-	fd = open(name, 0);
-	if (fd < 0)
-	{
-		fprintf(stderr, "can't read %s: ", name);
-		perror("");
-		return FALSE;
-	}
+    fd = open(name, 0);
+    if (fd < 0)
+    {
+        fprintf(stderr, "can't read %s: ", name);
+        perror("");
+        return FALSE;
+    }
 
 	read_len = 0;
 
@@ -562,18 +568,18 @@ read_file(char *name)
 		if (read_size - read_len < READ_CHUNK)
 		{
 			read_buffer = my_realloc(read_buffer,
-						read_size + READ_CHUNK);
-			read_size += READ_CHUNK;
-		}
+                                     read_size + READ_CHUNK);
+            read_size += READ_CHUNK;
+        }
 
-		n = read(fd, &read_buffer[read_len], READ_CHUNK);
+        n = read(fd, &read_buffer[read_len], READ_CHUNK);
 
-		if (n < 0)
-		{
-			fprintf(stderr, "error reading %s: ", name);
-			perror("");
-			close(fd);
-			return FALSE;
+        if (n < 0)
+        {
+            fprintf(stderr, "error reading %s: ", name);
+            perror("");
+            close(fd);
+            return FALSE;
 		}
 
 		read_len += n;
@@ -583,11 +589,11 @@ read_file(char *name)
 	close(fd);
 	read_pos = 0;
 
-	for (i = 0; i < read_len; i++)
-		if (read_buffer[i] == '\n')
-			read_buffer[i] = '\0';
+    for (i = 0; i < read_len; i++)
+        if (read_buffer[i] == '\n')
+            read_buffer[i] = '\0';
 
-	return TRUE;
+    return TRUE;
 }
 
 
@@ -599,13 +605,13 @@ read_getlin()
 	if (read_pos >= read_len)
 		return NULL;
 
-	p = &read_buffer[read_pos];
+    p = &read_buffer[read_pos];
 
-	while (read_pos < read_len && read_buffer[read_pos] != '\0')
-		read_pos++;
-	read_pos++;
+    while (read_pos < read_len && read_buffer[read_pos] != '\0')
+        read_pos++;
+    read_pos++;
 
-	return p;
+    return p;
 }
 
 
@@ -631,8 +637,8 @@ read_getlin_ew()
 			*p = '\0';
 			p--;
 		}
-	}
+    }
 
-	return line;
+    return line;
 }
 #endif
