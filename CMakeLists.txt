@@ -343,3 +343,40 @@ target_compile_options(olympia-tag PRIVATE ${TAG_C_FLAGS})
 target_compile_definitions(olympia-tag PRIVATE NEW_TRADE)
 target_link_libraries(olympia-tag PRIVATE m)
 
+# ------------------------------------------------------------------------------
+# TAG documentation (HTML from Texinfo)
+# ------------------------------------------------------------------------------
+find_program(TEXI2ANY texi2any)
+if (TEXI2ANY)
+    set(TAG_DOC_SOURCE ${CMAKE_SOURCE_DIR}/tag/doc/r.texi)
+    set(TAG_DOC_OUTPUT_DIR ${CMAKE_SOURCE_DIR}/tag/html)
+
+    # Single-file HTML (mobile-friendly)
+    add_custom_command(
+            OUTPUT ${TAG_DOC_OUTPUT_DIR}/manual.html
+            COMMAND ${CMAKE_COMMAND} -E make_directory ${TAG_DOC_OUTPUT_DIR}
+            COMMAND ${TEXI2ANY} --force --html --no-split --output=${TAG_DOC_OUTPUT_DIR}/manual.html ${TAG_DOC_SOURCE}
+            DEPENDS ${TAG_DOC_SOURCE}
+            COMMENT "Generating TAG HTML documentation (single file)"
+    )
+
+    add_custom_target(tag-doc
+            DEPENDS ${TAG_DOC_OUTPUT_DIR}/manual.html
+    )
+
+    # Split HTML (multi-page with navigation)
+    add_custom_command(
+            OUTPUT ${TAG_DOC_OUTPUT_DIR}/split/index.html
+            COMMAND ${CMAKE_COMMAND} -E make_directory ${TAG_DOC_OUTPUT_DIR}/split
+            COMMAND ${TEXI2ANY} --force --html --output=${TAG_DOC_OUTPUT_DIR}/split ${TAG_DOC_SOURCE}
+            DEPENDS ${TAG_DOC_SOURCE}
+            COMMENT "Generating TAG HTML documentation (split)"
+    )
+
+    add_custom_target(tag-doc-split
+            DEPENDS ${TAG_DOC_OUTPUT_DIR}/split/index.html
+    )
+else ()
+    message(STATUS "texi2any not found - tag-doc targets will not be available")
+endif ()
+

@@ -13,7 +13,7 @@ G1 (Original)
 
 | Version | Parent | Focus                                                |
 |---------|--------|------------------------------------------------------|
-| G1      | —      | Original Olympia PBM engine                          |
+| G1      | -      | Original Olympia PBM engine                          |
 | TAG     | G1     | Religion, gods, enhanced combat, strategic expansion |
 | G2      | G1     | Underground Subworld, relics, simplified economy     |
 | G3      | G2     | Windows port with Visual Studio and C# GUI           |
@@ -41,7 +41,7 @@ The baseline Olympia PBM game engine.
 | **Relics**      | None        | `sub_relic` (400-series artifacts) with quest system |
 | **Trade goods** | ~40 items   | Simplified, most flavor goods removed                |
 | **Skills**      | IDs 120-170 | Renumbered to 600+ with finer granularity            |
-| **New files**   | —           | `tunnel.c`, `rnd.c`                                  |
+| **New files**   | -           | `tunnel.c`, `rnd.c`                                  |
 
 ### G2 New Subkinds (69-73)
 
@@ -72,7 +72,7 @@ The baseline Olympia PBM game engine.
 | **Unit types**       | Basic       | +postulant, fanatic, ninja, angel, cavalier, war wagon |
 | **Monster trophies** | None        | 20+ (dragon_scale, balrog_horn, cyclops_eye, etc.)     |
 | **Skills**           | IDs 120-170 | IDs 1000+ (restructured)                               |
-| **New files**        | —           | 11 additional source files                             |
+| **New files**        | -           | 11 additional source files                             |
 
 ### TAG New Subkinds (69-87)
 
@@ -209,3 +209,39 @@ The recommended approach:
 2. Port G2's Subworld/tunnels, relics, tradegood expiry
 3. Normalize conflicting subkind IDs
 4. Regenerate world data (don't reuse old savefiles)
+
+---
+
+## Olympia: The Age of Gods
+
+**Olympia: The Age of Gods** (sometimes referred to as *Scott Turner’s Olympia: The Age of Gods*) is a **fantasy strategy play-by-email (PBEM) game** - a variant or enhanced version of the classic *Olympia* PBEM game originally created by Rich Skrenta. ([GitHub][1])
+
+### 🎮 What It Is
+
+* **Genre:** Fantasy turn-based strategy, traditionally played by email (PBEM). ([GitHub][1])
+* **Origins:** The game *Olympia* began in the early 1990s as a popular PBEM game. Later, Scott Turner developed *The Age of Gods* as an expanded and updated variant of this original. ([GitHub][1])
+* **Focus:** Like many PBEM strategy games, players control characters or nations in a mythic world inspired by classical fantasy and strategy elements, leveling up skills, managing economy and military forces, and interacting with other players asynchronously. ([GitHub][1])
+
+### 📜 History & Development
+
+* Turner launched *The Age of Gods* in **1998** as an enhanced version of Skrenta’s *Olympia*, adding **hundreds of new skills**, more complex military and economic systems, and various gameplay improvements. ([GitHub][1])
+* The game was hosted at times by Shadow Island Games under the title *Olympia: The Age of Gods*. ([GitHub][1])
+* The code and resources for *Olympia* itself - including variants like *The Age of Gods* - have been made available publicly, and there are community efforts to preserve and possibly modernize the codebase for contemporary systems. ([GitHub][1])
+
+### 🕹️ Gameplay Style
+
+* *Age of Gods* builds on the original *Olympia* PBEM rules: players send turns via email to a central server, which processes actions and returns results. ([PBM][2])
+* It emphasizes **strategy, character growth, and player interaction in a persistent, turn-based world**. ([PBM][2])
+* As a PBEM title, it’s not an action game or real-time strategy - instead it’s more like a long-term strategic simulation where diplomacy, planning, and player decisions matter over weeks or months. ([PBM][2])
+
+### 🧑‍🤝‍🧑 Community & Legacy
+
+* The *Olympia* and *Age of Gods* lineage is maintained by a small but dedicated community of PBEM players and developers who preserve rulesets, source code, and player servers. ([GitHub][1])
+* Variants and code forks exist on places like GitHub for anyone interested in running or modifying the game. ([GitHub][1])
+
+---
+
+If you’re curious how this kind of game *plays* today or want tips on joining an active PBEM community for *Olympia / Age of Gods*, I can help you find current servers and rule documents!
+
+[1]: https://github.com/playbymail/olympia "playbymail/olympia"
+[2]: https://www.pbm.com/oly/ "Olympia Play-by-Email"
