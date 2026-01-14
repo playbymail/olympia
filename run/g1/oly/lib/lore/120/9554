@@ -1,0 +1,21 @@
+#Skill:  Add ram to galley [9554]
+#
+Usage:  USE @@@@
+
+Requires:  three workers [11]
+           3 wood [77]
+           1 iron [79]
+
+Time:      10 days
+
+A galley fitted with a ram is a most effective ocean fighting
+vessel.  The oars permit the ship to be maneuvered in battle,
+regardless of wind conditions.  The ram allows a galley to crush
+the sides of enemy ships.
+
+To use this skill, the character must enter the galley and issue
+USE @@@@.  The galley will be fitted with an iron-tipped ram.
+The character need not be in control of the ship in order to
+perform the modification.
+
+Rams may not be added to roundships or unfinished galleys.

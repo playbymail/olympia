@@ -1,0 +1,15 @@
+#Spell:  Raise undead [9180]
+#
+Usage:   COLLECT 31 [days]
+
+Required aura:  none
+Time to cast:   as given
+
+Undead [31] are dead bodies animated with foul magic, summoned from
+their graves.  They fight with the same combat effectiveness as
+peasants:  attack-1, defense-1.
+
+One undead may be summoned per day from a graveyard.  Graveyards
+furnish up to 30 undead each month.
+
+One or two undead may decompose at the end of each month.

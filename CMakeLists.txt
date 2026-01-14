@@ -3,6 +3,25 @@ project(olympia C)
 
 set(CMAKE_C_STANDARD 90)
 
+# ------------------------------------------------------------------------------
+# 32-bit build support
+# ------------------------------------------------------------------------------
+# Enable 32-bit builds on 64-bit Linux systems for generating golden test files
+# from the original legacy code before 64-bit refactoring.
+#
+# Usage:
+#   mkdir build32 && cd build32
+#   cmake -DBUILD_32BIT=ON ..
+#   cmake --build .
+#
+option(BUILD_32BIT "Build 32-bit binaries (requires gcc-multilib on Linux)" OFF)
+
+if (BUILD_32BIT)
+    message(STATUS "32-bit build enabled (-m32)")
+    add_compile_options(-m32)
+    add_link_options(-m32)
+endif()
+
 # Platform-specific defines
 if (LINUX)
     add_compile_definitions(OLYMPIA_CC_LINUX)
